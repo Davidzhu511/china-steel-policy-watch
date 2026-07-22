@@ -1,0 +1,101 @@
+name: 每日更新并部署看板
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/update-and-deploy.yml"
+      - "config/**"
+      - "scripts/**"
+      - "steelwatch/**"
+      - "tests/**"
+      - "pyproject.toml"
+  schedule:
+    # GitHub cron uses UTC. Running both slots plus a Berlin DST gate keeps 07:50 local time year-round.
+    - cron: "50 5 * * *"
+    - cron: "50 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  models: read
+
+concurrency:
+  group: steelwatch-pages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.gate.outputs.run }}
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 判断杜塞尔多夫当地时间
+        id: gate
+        env:
+          GITHUB_EVENT_SCHEDULE: ${{ github.event.schedule }}
+        run: PYTHONPATH=. python scripts/schedule_gate.py >> "$GITHUB_OUTPUT"
+
+      - name: 配置 Python
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 安装程序
+        if: steps.gate.outputs.run == 'true'
+        run: python -m pip install -e ".[dev]"
+
+      - name: 运行测试
+        if: steps.gate.outputs.run == 'true'
+        run: pytest
+
+      - name: 采集、翻译并生成看板数据
+        if: steps.gate.outputs.run == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python -m steelwatch update
+
+      - name: 保存本次数据
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "steelwatch-bot"
+          git config user.email "steelwatch-bot@users.noreply.github.com"
+          git add data docs/data docs/feed.xml docs/.nojekyll
+          if git diff --cached --quiet; then
+            echo "No dashboard data changed"
+          else
+            git commit -m "data: daily steel intelligence update"
+            git push
+          fi
+
+      - name: 配置 GitHub Pages
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: 打包 Pages
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy:
+    if: needs.update.outputs.run == 'true'
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 发布 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

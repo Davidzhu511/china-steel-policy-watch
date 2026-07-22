@@ -1,0 +1,118 @@
+{
+  "settings": {
+    "timezone": "Europe/Berlin",
+    "retention_days": 730,
+    "max_new_items_per_run": 48,
+    "fetch_page_descriptions": true,
+    "request_timeout_seconds": 25,
+    "model": "openai/gpt-4o-mini",
+    "model_batch_size": 8
+  },
+  "sources": {
+    "eurlex": {
+      "enabled": true,
+      "name": "EUR-Lex / 欧盟官方公报",
+      "lookback_days": 21,
+      "series": ["L", "C"]
+    },
+    "federal_register": {
+      "enabled": true,
+      "name": "U.S. Federal Register / 美国联邦公报",
+      "lookback_days": 21,
+      "queries": [
+        "China steel",
+        "Chinese steel",
+        "China iron antidumping",
+        "China steel countervailing"
+      ]
+    },
+    "govuk": {
+      "enabled": true,
+      "name": "GOV.UK / 英国政府",
+      "lookback_days": 30,
+      "queries": [
+        "China steel",
+        "Chinese steel",
+        "steel trade remedy China",
+        "steel tariff quota"
+      ]
+    },
+    "gdelt": {
+      "enabled": true,
+      "name": "GDELT 全球新闻索引",
+      "lookback_days": 7,
+      "max_records_per_query": 100,
+      "queries": [
+        "(\"China steel\" OR \"Chinese steel\" OR \"steel from China\" OR \"China's steel\")",
+        "(China OR Chinese) (\"hot-rolled steel\" OR \"cold-rolled steel\" OR galvanized OR tinplate OR \"electrical steel\" OR \"stainless steel\")",
+        "(China OR Chinese) steel (antidumping OR \"anti-dumping\" OR countervailing OR safeguard OR tariff OR quota OR CBAM)",
+        "(Shougang OR Baowu OR Baosteel OR Ansteel OR HBIS OR Tsingshan OR Jingye OR Shagang) (steel OR iron)",
+        "(China OR Chinese) (\"iron ore\" OR \"coking coal\" OR \"steel scrap\") steel"
+      ]
+    }
+  },
+  "keywords": {
+    "china": [
+      "china", "chinese", "people's republic of china", "prc", "中国", "中国钢铁",
+      "shougang", "baowu", "baosteel", "angang", "ansteel", "hbis", "hebei iron",
+      "jingye", "tsingshan", "shagang", "benxi steel", "maanshan iron", "tisco"
+    ],
+    "materials": [
+      "steel", "iron", "stainless", "ferroalloy", "ferrosilicon", "wire rod", "rebar",
+      "hot-rolled", "hot rolled", "cold-rolled", "cold rolled", "flat-rolled", "flat rolled",
+      "galvanized", "galvanised", "metallic coated", "corrosion resistant", "tinplate",
+      "electrical steel", "grain-oriented", "non-grain oriented", "steel fastener", "steel rope",
+      "steel cable", "steel pipe", "steel tube", "seamless tube", "welded tube", "steel sheet",
+      "steel coil", "steel slab", "billet", "cast iron", "iron ore", "coking coal", "scrap",
+      "钢铁", "钢材", "热轧", "冷轧", "镀锌", "不锈钢", "铁矿石", "钢坯"
+    ],
+    "policy": [
+      "regulation", "implementing regulation", "official journal", "tariff", "tariff quota",
+      "quota", "safeguard", "anti-dumping", "antidumping", "countervailing", "anti-subsidy",
+      "circumvention", "trade remedy", "expiry review", "sunset review", "investigation",
+      "customs", "rules of origin", "melted and poured", "carbon border", "cbam", "sanction",
+      "export restriction", "import restriction", "procurement", "local content", "subsidy",
+      "关税", "配额", "反倾销", "反补贴", "保障措施", "原产地", "海关", "碳边境"
+    ],
+    "global_steel_policy": [
+      "union steel market", "global steel overcapacity", "global overcapacity", "steel regulation",
+      "steel safeguard", "steel tariff quota", "steel import regime", "steel trade measure",
+      "steel import measure", "steel import quota", "steel quota", "tariff-free steel",
+      "section 232"
+    ],
+    "exclude": [
+      "pittsburgh steelers", "sheffield steelers", "steelers quarterback", "steelers nfl",
+      "man of steel", "steel guitar", "steel magnolias"
+    ]
+  },
+  "official_domains": {
+    "eur-lex.europa.eu": "欧盟",
+    "commission.europa.eu": "欧盟",
+    "policy.trade.ec.europa.eu": "欧盟",
+    "gov.uk": "英国",
+    "trade-remedies.service.gov.uk": "英国",
+    "federalregister.gov": "美国",
+    "trade.gov": "美国",
+    "ustr.gov": "美国",
+    "cbp.gov": "美国",
+    "cbsa-asfc.gc.ca": "加拿大",
+    "canada.ca": "加拿大",
+    "citt-tcce.gc.ca": "加拿大",
+    "adcommission.gov.au": "澳大利亚",
+    "dgtr.gov.in": "印度",
+    "gov.br": "巴西",
+    "resmigazete.gov.tr": "土耳其",
+    "wto.org": "WTO",
+    "oecd.org": "OECD",
+    "worldsteel.org": "全球",
+    "mofcom.gov.cn": "中国",
+    "gov.cn": "中国",
+    "miit.gov.cn": "中国",
+    "customs.gov.cn": "中国",
+    "ndrc.gov.cn": "中国",
+    "economy.gob.mx": "墨西哥",
+    "economia.gob.mx": "墨西哥",
+    "trade.gov.tr": "土耳其",
+    "moit.gov.vn": "越南"
+  }
+}

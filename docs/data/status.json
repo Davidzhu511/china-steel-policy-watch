@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-07-21T21:54:23Z",
+  "run_ok": true,
+  "model": "openai/gpt-4o-mini",
+  "translation_available": true,
+  "new_items": 7,
+  "total_items": 7,
+  "source_success": 4,
+  "source_total": 4,
+  "sources": [
+    {
+      "id": "eurlex",
+      "name": "EUR-Lex / 欧盟官方公报",
+      "ok": true,
+      "count": 2,
+      "error": "",
+      "duration_ms": 0
+    },
+    {
+      "id": "federal_register",
+      "name": "U.S. Federal Register / 美国联邦公报",
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration_ms": 0
+    },
+    {
+      "id": "govuk",
+      "name": "GOV.UK / 英国政府",
+      "ok": true,
+      "count": 1,
+      "error": "",
+      "duration_ms": 0
+    },
+    {
+      "id": "gdelt",
+      "name": "GDELT 全球新闻索引",
+      "ok": true,
+      "count": 4,
+      "error": "",
+      "duration_ms": 0
+    }
+  ],
+  "warnings": [
+    "当前为首版种子数据；首次 GitHub Actions 运行后将自动替换为实时采集状态。"
+  ]
+}

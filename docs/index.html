@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="每日追踪全球与中国钢铁有关的法规、贸易救济、配额关税、原产地、碳政策与行业新闻。"
+    />
+    <meta name="theme-color" content="#11130f" />
+    <title>中国钢铁全球政策情报</title>
+    <link rel="icon" href="./icon.svg" type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title="中国钢铁全球政策情报" href="./feed.xml" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#intelligence">跳至情报列表</a>
+    <div class="page-noise" aria-hidden="true"></div>
+
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="返回看板首页">
+        <span class="brand-mark" aria-hidden="true">钢</span>
+        <span>
+          <strong>STEELWATCH</strong>
+          <small>中国钢铁全球政策情报</small>
+        </span>
+      </a>
+      <div class="top-actions">
+        <span class="live-state" id="live-state"><i></i> 数据载入中</span>
+        <a class="quiet-button" href="./feed.xml" target="_blank" rel="noopener">RSS 订阅</a>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow"><span>DAILY BRIEF</span> 全球监管雷达 · 每日自动更新</p>
+          <h1 id="page-title">看清规则变化，<br /><em>提前判断出口影响。</em></h1>
+          <p class="hero-deck">
+            聚合官方法规、贸易救济与行业信息，自动翻译为中文，并提炼对中国钢厂和出口商的实际影响。
+          </p>
+          <div class="hero-meta">
+            <span>更新：<b id="updated-at">—</b></span>
+            <span>时区：Europe/Berlin</span>
+            <span>保留原文链接</span>
+          </div>
+        </div>
+        <div class="radar" aria-hidden="true">
+          <div class="radar-ring ring-one"></div>
+          <div class="radar-ring ring-two"></div>
+          <div class="radar-ring ring-three"></div>
+          <div class="radar-sweep"></div>
+          <span class="ping ping-a"></span>
+          <span class="ping ping-b"></span>
+          <span class="ping ping-c"></span>
+          <div class="radar-label"><strong id="radar-count">—</strong><small>条在库情报</small></div>
+        </div>
+      </section>
+
+      <section class="metrics" aria-label="情报概览">
+        <article><span>本次新增</span><strong id="metric-new">—</strong><small>NEW SIGNALS</small></article>
+        <article><span>重大 / 高关注</span><strong id="metric-high">—</strong><small>PRIORITY</small></article>
+        <article><span>官方文件</span><strong id="metric-official">—</strong><small>PRIMARY SOURCES</small></article>
+        <article><span>覆盖国家/地区</span><strong id="metric-markets">—</strong><small>MARKETS</small></article>
+      </section>
+
+      <section class="briefing-grid" aria-label="重点情报与采集状态">
+        <article class="lead-card" id="lead-card">
+          <div class="loading-line"></div>
+          <div class="loading-line short"></div>
+        </article>
+        <aside class="source-panel">
+          <div class="section-kicker"><span>采集状态</span><small>SOURCE HEALTH</small></div>
+          <div id="source-list" class="source-list" aria-live="polite"></div>
+          <p class="source-note">单一来源异常不会中断整次更新，历史数据也不会被清空。</p>
+        </aside>
+      </section>
+
+      <section class="intelligence" id="intelligence" aria-labelledby="intelligence-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow"><span>INTELLIGENCE FEED</span> 按重要性与时效排序</p>
+            <h2 id="intelligence-title">全部情报</h2>
+          </div>
+          <p id="result-count" aria-live="polite">正在加载…</p>
+        </div>
+
+        <form class="filters" id="filters" role="search">
+          <label class="search-field">
+            <span class="visually-hidden">搜索情报</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.15a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z" /></svg>
+            <input id="search" type="search" placeholder="搜索国家、产品、法规或企业…" autocomplete="off" />
+          </label>
+          <label>
+            <span class="visually-hidden">类别</span>
+            <select id="category"><option value="">全部类别</option></select>
+          </label>
+          <label>
+            <span class="visually-hidden">地区</span>
+            <select id="region"><option value="">全部地区</option></select>
+          </label>
+          <label>
+            <span class="visually-hidden">重要性</span>
+            <select id="importance">
+              <option value="">全部级别</option>
+              <option value="重大">重大</option>
+              <option value="高">高关注</option>
+              <option value="中">中等</option>
+              <option value="低">低</option>
+            </select>
+          </label>
+          <label class="official-toggle">
+            <input id="official-only" type="checkbox" />
+            <span aria-hidden="true"></span>
+            仅看官方
+          </label>
+          <button id="reset" type="reset">清除筛选</button>
+        </form>
+
+        <div class="active-filters" id="active-filters"></div>
+        <div class="card-grid" id="card-grid" aria-live="polite"></div>
+        <button class="load-more" id="load-more" type="button" hidden>加载更多</button>
+      </section>
+
+      <section class="method" aria-label="看板方法说明">
+        <div>
+          <p class="eyebrow"><span>METHODOLOGY</span> 从原文到业务判断</p>
+          <h2>法规优先，新闻补充，<br />每条都能回到原始来源。</h2>
+        </div>
+        <ol>
+          <li><b>01</b><span><strong>采集</strong>官方公报、政府公告与全球新闻索引</span></li>
+          <li><b>02</b><span><strong>筛选</strong>中国主体、钢铁品种与普遍性钢铁政策</span></li>
+          <li><b>03</b><span><strong>研判</strong>中文摘要、状态、重要性与出口影响</span></li>
+          <li><b>04</b><span><strong>留痕</strong>去重归档，并保留原文链接供复核</span></li>
+        </ol>
+      </section>
+    </main>
+
+    <footer>
+      <div class="brand footer-brand"><span class="brand-mark" aria-hidden="true">钢</span><strong>STEELWATCH</strong></div>
+      <p>机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。</p>
+      <a href="https://github.com/Davidzhu511/china-steel-policy-watch" target="_blank" rel="noopener">查看 GitHub 项目</a>
+    </footer>
+
+    <template id="empty-template">
+      <div class="empty-state">
+        <span>∅</span>
+        <h3>没有匹配的情报</h3>
+        <p>试试减少筛选条件或使用更短的关键词。</p>
+      </div>
+    </template>
+    <script src="./app.js" defer></script>
+  </body>
+</html>

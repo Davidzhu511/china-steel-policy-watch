@@ -1,0 +1,255 @@
+{
+  "generated_at": "2026-07-21T21:54:23Z",
+  "items": [
+    {
+      "id": "0af6ec2085b29588ce27",
+      "title_zh": "欧盟公布新钢铁配额的国别分配与管理办法",
+      "title_original": "Commission Implementing Regulation (EU) 2026/1457 of 29 June 2026 on the distribution of tariff quotas opened under Regulation (EU) 2026/1384 addressing the negative trade-related effects of global overcapacity on the Union steel market",
+      "summary_zh": "欧盟实施条例（EU）2026/1457对26类钢铁产品的关税配额进行国别及残余配额分配，明确最惠国与自贸协定配额池、先到先得管理、配额退回以及非优惠原产地规则。条例适用于2026年7月1日至12月31日。",
+      "impact_zh": "中国钢材进入欧盟必须按产品类别和可用配额池申报；配额耗尽后适用50%配额外附加税。出口前应同时核对具体Order Number、原产地资格及既有贸易救济税。",
+      "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1457/oj/eng",
+      "published_at": "2026-06-30T00:00:00Z",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "配额与关税",
+      "status": "已生效",
+      "importance": "重大",
+      "products": [
+        "26类钢铁产品",
+        "热轧",
+        "冷轧",
+        "镀层板",
+        "钢管"
+      ],
+      "tags": [
+        "欧盟钢铁新规",
+        "TRQ",
+        "50%配额外税",
+        "非优惠原产地"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.99,
+      "translation_state": "complete",
+      "first_seen": "2026-07-21T21:54:23Z",
+      "last_seen": "2026-07-21T21:54:23Z"
+    },
+    {
+      "id": "93318e909d9f0e6d1c7d",
+      "title_zh": "欧盟钢铁新规正式建立18,345,922吨关税配额及50%配额外税率",
+      "title_original": "Regulation (EU) 2026/1384 of the European Parliament and of the Council of 17 June 2026 addressing the negative trade-related effects of global overcapacity on the Union steel market and amending Regulation (EU) 2020/2170",
+      "summary_zh": "欧盟以（EU）2026/1384建立新的钢铁进口制度，为26类产品开放合计18,345,922吨关税配额，并规定50%的配额外附加税率；后续国别分配由实施条例具体落实。",
+      "impact_zh": "该法规改变中国钢材进入欧盟的基础准入成本。中国出口商应把产品类别、配额余量和既有反倾销/反补贴措施纳入同一报价与清关测算。",
+      "url": "https://eur-lex.europa.eu/eli/reg/2026/1384/oj/eng",
+      "published_at": "2026-06-24T00:00:00Z",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "已生效",
+      "importance": "重大",
+      "products": [
+        "26类钢铁产品"
+      ],
+      "tags": [
+        "欧盟钢铁新规",
+        "全球过剩产能",
+        "TRQ",
+        "50%配额外税"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.99,
+      "translation_state": "complete",
+      "first_seen": "2026-07-21T21:54:23Z",
+      "last_seen": "2026-07-21T21:54:23Z"
+    },
+    {
+      "id": "f0e64ceb0a997cd17404",
+      "title_zh": "英国自2026年7月起收紧钢铁进口配额并将配额外税率提高至50%",
+      "title_original": "UK's steel trade measure from 1 July 2026",
+      "summary_zh": "英国政府自2026年7月1日起实施新的钢铁贸易措施：免税配额总量较原保障措施减少51%，超过配额的进口钢材适用50%关税；措施针对英国能够生产的钢铁产品，并列有特定产品安排。",
+      "impact_zh": "对中国出口的直接影响是免税空间明显收缩、超配额成本上升。应逐项核对产品类别、国别配额、排除产品以及与反倾销税并用的规则。",
+      "url": "https://gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
+      "published_at": "2026-07-02T00:00:00Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "配额与关税",
+      "status": "已生效",
+      "importance": "重大",
+      "products": [
+        "英国可生产钢铁产品"
+      ],
+      "tags": [
+        "英国钢铁措施",
+        "配额缩减51%",
+        "50%配额外税"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.98,
+      "translation_state": "complete",
+      "first_seen": "2026-07-21T21:54:23Z",
+      "last_seen": "2026-07-21T21:54:23Z"
+    },
+    {
+      "id": "4b9bcf412439034e3050",
+      "title_zh": "印度钢企转向本土市场，印度对中日俄热轧钢启动反倾销调查",
+      "title_original": "Indian steelmakers pivot home as Europe tightens imports, China squeezes margins",
+      "summary_zh": "路透社报道，欧英收紧钢铁进口规则、低价中国钢材压缩利润，促使印度钢企更多转向国内市场。报道同时提到，印度已对来自中国、日本和俄罗斯的热轧钢进口启动反倾销调查。",
+      "impact_zh": "中国热轧出口印度面临新增贸易救济风险；在立案文件公布后，应优先核对调查期、涉案税号、产品排除和应诉节点。",
+      "url": "https://reuters.com/world/china/indian-steelmakers-pivot-home-europe-tightens-imports-china-squeezes-margins-2026-07-21",
+      "published_at": "2026-07-21T08:00:00Z",
+      "source": {
+        "id": "gdelt",
+        "name": "Reuters",
+        "kind": "news",
+        "official": false
+      },
+      "country": "印度",
+      "region": "亚洲",
+      "category": "贸易救济",
+      "status": "新闻",
+      "importance": "高",
+      "products": [
+        "热轧钢"
+      ],
+      "tags": [
+        "印度",
+        "反倾销调查",
+        "中国",
+        "日本",
+        "俄罗斯"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-21T21:54:23Z",
+      "last_seen": "2026-07-21T21:54:23Z"
+    },
+    {
+      "id": "6d54afb9276a826d4519",
+      "title_zh": "中国钢铁上半年产量下降，但6月日产水平显示韧性",
+      "title_original": "China's steel sector looks weaker than it is, reverse for iron ore",
+      "summary_zh": "路透社分析称，中国2026年上半年钢产量同比下降约3%，地产需求仍弱；但6月粗钢产量为8,367万吨、日产水平升至三个月高位。铁矿石进口保持强劲，显示生产端并非单向走弱。",
+      "impact_zh": "国内需求偏弱仍会推动钢厂寻找出口，但短期生产韧性可能延续海外市场的供给与价格压力，并提高各国采取贸易措施的概率。",
+      "url": "https://reuters.com/commentary/reuters-open-interest/chinas-steel-sector-looks-weaker-than-it-is-reverse-iron-ore-2026-07-21",
+      "published_at": "2026-07-21T06:00:00Z",
+      "source": {
+        "id": "gdelt",
+        "name": "Reuters",
+        "kind": "news",
+        "official": false
+      },
+      "country": "中国",
+      "region": "亚洲",
+      "category": "市场与产能",
+      "status": "新闻",
+      "importance": "中",
+      "products": [
+        "粗钢",
+        "铁矿石"
+      ],
+      "tags": [
+        "产量",
+        "国内需求",
+        "铁矿石进口"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-21T21:54:23Z",
+      "last_seen": "2026-07-21T21:54:23Z"
+    },
+    {
+      "id": "5ab9c3c078fed7eb0d51",
+      "title_zh": "中国钢材出口创纪录，但后续订单与贸易摩擦或压制涨势",
+      "title_original": "China's steel exports hit record but rally may prove short-lived",
+      "summary_zh": "标普全球报道，中国钢材出口达到纪录水平，其中钢坯出口同比显著增长；但订单走弱以及2026年反倾销案件增加，可能使第三季度出口动能放缓。",
+      "impact_zh": "出口量越高，越容易触发进口国行业申诉和调查。钢厂应提前按市场、品种和客户监测订单下滑与立案风险，避免集中发运。",
+      "url": "https://spglobal.com/energy/en/news-research/latest-news/metals/072026-chinas-steel-exports-hit-record-but-rally-may-prove-short-lived",
+      "published_at": "2026-07-20T08:00:00Z",
+      "source": {
+        "id": "gdelt",
+        "name": "S&P Global Commodity Insights",
+        "kind": "news",
+        "official": false
+      },
+      "country": "中国",
+      "region": "亚洲",
+      "category": "市场与产能",
+      "status": "新闻",
+      "importance": "中",
+      "products": [
+        "钢材",
+        "钢坯"
+      ],
+      "tags": [
+        "出口纪录",
+        "订单",
+        "反倾销风险"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.87,
+      "translation_state": "complete",
+      "first_seen": "2026-07-21T21:54:23Z",
+      "last_seen": "2026-07-21T21:54:23Z"
+    },
+    {
+      "id": "f0c5bb1b386f6ab81437",
+      "title_zh": "敬业集团就英国接管British Steel寻求补偿并考虑仲裁",
+      "title_original": "Chinese company demands compensation from the UK over British Steel nationalization",
+      "summary_zh": "美联社报道，敬业集团因英国政府接管British Steel运营而要求补偿，并正依据双边投资安排磋商、考虑国际仲裁。英国方面表示将通过独立评估确定可能的补偿。",
+      "impact_zh": "事件不仅影响敬业集团资产处置，也会提高中资钢铁企业评估英国投资时对政府干预、关键产能认定及投资协定保护条款的关注。",
+      "url": "https://apnews.com/article/4403c8df143be871825b7d20302385e0",
+      "published_at": "2026-07-19T10:00:00Z",
+      "source": {
+        "id": "gdelt",
+        "name": "Associated Press",
+        "kind": "news",
+        "official": false
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "企业与供应链",
+      "status": "新闻",
+      "importance": "中",
+      "products": [
+        "粗钢",
+        "长流程产能"
+      ],
+      "tags": [
+        "敬业集团",
+        "British Steel",
+        "补偿",
+        "投资仲裁"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-21T21:54:23Z",
+      "last_seen": "2026-07-21T21:54:23Z"
+    }
+  ]
+}
