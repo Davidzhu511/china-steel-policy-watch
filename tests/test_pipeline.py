@@ -68,7 +68,14 @@ def test_update_pipeline_adds_enriched_item_without_network(tmp_path, monkeypatc
         region="亚洲",
         country="测试国",
         excerpt="The authority opened an investigation into hot-rolled steel from China.",
-        metadata={"official": True},
+        metadata={
+            "official": True,
+            "consultation": {
+                "status": "OPEN",
+                "stage": "PLANNING_WORKFLOW",
+                "closes_at": "2026-08-12T23:59:59Z",
+            },
+        },
     )
     monkeypatch.setattr(
         pipeline,
@@ -94,6 +101,8 @@ def test_update_pipeline_adds_enriched_item_without_network(tmp_path, monkeypatc
     assert payload["items"][0]["title_zh"] == "中国热轧钢调查"
     assert payload["items"][0]["title_en"] == "Investigation into Chinese hot-rolled steel"
     assert payload["items"][0]["summary_en"] == "The authority opened an investigation."
+    assert payload["items"][0]["consultation"]["status"] == "OPEN"
+    assert payload["items"][0]["consultation"]["closes_at"] == "2026-08-12T23:59:59Z"
     assert (docs / "data" / "items.json").exists()
 
 
@@ -137,3 +146,86 @@ def test_update_pipeline_backfills_english_for_existing_history(tmp_path, monkey
     assert payload["items"][0]["title_en"] == "Existing policy title"
     assert payload["items"][0]["summary_en"] == "Existing English summary."
     assert payload["items"][0]["products_en"] == ["steel"]
+
+
+def test_update_pipeline_refreshes_consultation_status_for_existing_item(
+    tmp_path, monkeypatch
+):
+    data, docs = tmp_path / "data", tmp_path / "docs"
+    data.mkdir()
+    existing = {
+        "id": "initiative-1",
+        "title_zh": "钢铁生态设计要求",
+        "title_en": "Steel ecodesign requirements",
+        "title_original": "Steel ecodesign requirements",
+        "summary_zh": "摘要。",
+        "summary_en": "Summary.",
+        "impact_zh": "影响。",
+        "impact_en": "Impact.",
+        "url": "https://example.com/initiative-1",
+        "published_at": "2026-05-20T00:00:00Z",
+        "source": {
+            "id": "test",
+            "name": "Test",
+            "kind": "official-notice",
+            "official": True,
+        },
+        "country": "欧盟",
+        "region": "欧洲",
+        "category": "碳与环保",
+        "status": "拟议",
+        "importance": "高",
+        "products": ["钢铁"],
+        "products_en": ["steel"],
+        "tags": [],
+        "tags_en": [],
+        "translation_state": "complete",
+        "consultation": {"status": "OPEN", "closes_at": "2026-08-12T23:59:59Z"},
+        "first_seen": "2026-05-20T00:00:00Z",
+        "last_seen": "2026-07-21T00:00:00Z",
+    }
+    (data / "items.json").write_text(
+        json.dumps({"generated_at": "2026-07-21T00:00:00Z", "items": [existing]}),
+        encoding="utf-8",
+    )
+    raw = RawItem(
+        id="initiative-1",
+        title="Steel ecodesign requirements",
+        url="https://example.com/initiative-1",
+        published_at="2026-05-20T00:00:00Z",
+        source_id="test",
+        source_name="Test",
+        source_kind="official-notice",
+        excerpt="Steel market rule",
+        metadata={
+            "official": True,
+            "scope_relevant": True,
+            "consultation": {
+                "status": "CLOSED",
+                "closes_at": "2026-08-12T23:59:59Z",
+            },
+        },
+    )
+    monkeypatch.setattr(
+        pipeline, "_collect", lambda config: [SourceResult("test", "Test", True, [raw])]
+    )
+    monkeypatch.setattr(pipeline, "_hydrate_excerpts", lambda items, settings: [])
+    monkeypatch.setattr(pipeline, "GitHubModelsEnricher", FakeEnricher)
+
+    pipeline.run_update(
+        {
+            "settings": {"retention_days": 730},
+            "keywords": {
+                "china": [],
+                "materials": [],
+                "global_steel_policy": [],
+                "exclude": [],
+            },
+            "sources": {},
+        },
+        data,
+        docs,
+    )
+
+    payload = json.loads((data / "items.json").read_text(encoding="utf-8"))
+    assert payload["items"][0]["consultation"]["status"] == "CLOSED"

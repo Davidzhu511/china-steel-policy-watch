@@ -5,10 +5,11 @@
 ## 看板包含什么
 
 - **正式法规优先**：EUR-Lex 的 L 系列法规和 C 系列公告分别采集，不把新闻和法律文件混为一类。
-- **重点市场官方来源**：欧盟官方公报、美国 Federal Register、GOV.UK。
+- **政策前置预警**：接入欧委会 Have Your Say 官方接口，追踪钢铁与 CBAM 倡议，并显示征求意见状态和截止日期。
+- **重点市场官方来源**：欧盟公众咨询与官方公报、美国 Federal Register、GOV.UK。
 - **全球新闻覆盖**：通过 GDELT DOC 2.0 获取多国媒体和政府网站的原始链接。
 - **中英文研判**：GitHub Actions 使用 GitHub Models 同时生成中英文标题、摘要与影响分析，并回答“对中国钢厂/出口商意味着什么”。
-- **个性化外观**：内置黑金、深海蓝、翡翠绿、赤铜棕和紫晶夜五套配色，语言与主题偏好保存在浏览器本地。
+- **个性化外观**：内置黑金、深海蓝、翡翠绿、赤铜棕、紫晶夜和象牙浅色六套配色，语言与主题偏好保存在浏览器本地。
 - **历史与去重**：近似标题和规范化 URL 去重；历史情报默认保留 730 天。
 - **健康隔离**：单个来源失败不会中断其他来源，也不会删除已有历史数据。
 - **免费静态发布**：GitHub Pages，不需要服务器；GitHub Models 使用工作流自带的 `GITHUB_TOKEN`，无需另配 OpenAI API Key。
@@ -52,9 +53,11 @@ python -m steelwatch update
 - `sources.*.enabled`：启停某个来源；
 - `lookback_days`：每次回看天数；
 - `queries`：官方搜索或 GDELT 查询；
+- `sources.ec_have_your_say.match_terms`：欧委会倡议的钢铁领域匹配词；
 - `keywords.china`：中国钢企和中国主体词；
 - `keywords.materials`：钢铁产品、原料和加工品；
 - `keywords.global_steel_policy`：即使标题未直接写 China，仍会影响中国出口的普遍性钢铁政策；
+- `keywords.universal_policy`：无需同时出现 China 或 steel 也应纳入的跨品类制度（当前包括 CBAM）；
 - `official_domains`：把新闻索引中的政府/国际组织域名升级为官方来源。
 
 建议先扩充配置再改程序。新增查询应保持“主体词 + 钢铁词 + 措施词”的组合，避免抓入体育、影视或泛金属噪声。
@@ -63,7 +66,7 @@ python -m steelwatch update
 
 ```mermaid
 flowchart LR
-  A[官方公报与新闻索引] --> B[关键词初筛]
+  A[公众咨询、官方公报与新闻索引] --> B[关键词初筛]
   B --> C[URL 与近似标题去重]
   C --> D[GitHub Models 中英文研判]
   D --> E[JSON 历史库]

@@ -6,7 +6,13 @@ from datetime import UTC, datetime, timedelta
 from pathlib import Path
 from typing import Any
 
-from .collectors import EurLexCollector, FederalRegisterCollector, GdeltCollector, GovUkCollector
+from .collectors import (
+    EcHaveYourSayCollector,
+    EurLexCollector,
+    FederalRegisterCollector,
+    GdeltCollector,
+    GovUkCollector,
+)
 from .enrich import GitHubModelsEnricher
 from .fetch import fetch_page_excerpt
 from .models import RawItem, SourceResult
@@ -23,6 +29,7 @@ from .util import (
 
 
 COLLECTOR_TYPES = {
+    "ec_have_your_say": EcHaveYourSayCollector,
     "eurlex": EurLexCollector,
     "federal_register": FederalRegisterCollector,
     "govuk": GovUkCollector,
@@ -105,7 +112,7 @@ def _hydrate_excerpts(items: list[RawItem], settings: dict[str, Any]) -> list[st
 
 def _build_item(raw: RawItem, analysis: dict[str, Any], timestamp: str) -> dict[str, Any]:
     official = bool(raw.metadata.get("official")) or raw.source_kind != "news"
-    return {
+    item = {
         "id": raw.id,
         "title_zh": analysis["title_zh"],
         "title_en": analysis.get("title_en") or raw.title,
@@ -138,6 +145,14 @@ def _build_item(raw: RawItem, analysis: dict[str, Any], timestamp: str) -> dict[
         "first_seen": timestamp,
         "last_seen": timestamp,
     }
+    consultation = raw.metadata.get("consultation")
+    if isinstance(consultation, dict) and consultation:
+        item["consultation"] = {
+            key: str(consultation[key])
+            for key in ("status", "stage", "opens_at", "closes_at")
+            if consultation.get(key)
+        }
+    return item
 
 
 def _sort_key(item: dict[str, Any]) -> tuple[int, int, datetime]:
@@ -160,8 +175,14 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
     source_results = _collect(config)
     raw_items = [item for result in source_results if result.ok for item in result.items]
     keywords = config.get("keywords", {})
-    raw_items = [item for item in raw_items if is_rule_relevant(item.title, item.excerpt, keywords)]
+    raw_items = [
+        item
+        for item in raw_items
+        if item.metadata.get("scope_relevant")
+        or is_rule_relevant(item.title, item.excerpt, keywords)
+    ]
     raw_items = _deduplicate(raw_items)
+    raw_by_id = {item.id: item for item in raw_items}
     observed_ids = {item.id for item in raw_items}
     observed_existing_ids = set(observed_ids & previous_by_id.keys())
     candidates: list[RawItem] = []
@@ -213,7 +234,16 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
 
     combined = dict(previous_by_id)
     for identifier in observed_existing_ids:
-        combined[identifier] = {**previous_by_id[identifier], "last_seen": timestamp}
+        updated = {**previous_by_id[identifier], "last_seen": timestamp}
+        raw = raw_by_id.get(identifier)
+        consultation = raw.metadata.get("consultation") if raw else None
+        if isinstance(consultation, dict) and consultation:
+            updated["consultation"] = {
+                key: str(consultation[key])
+                for key in ("status", "stage", "opens_at", "closes_at")
+                if consultation.get(key)
+            }
+        combined[identifier] = updated
     for identifier, update in english_updates.items():
         if identifier in combined:
             combined[identifier] = {**combined[identifier], **update}

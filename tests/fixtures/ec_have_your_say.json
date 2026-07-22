@@ -1,0 +1,79 @@
+{
+  "search": {
+    "exactMatch": true,
+    "initiativeResultDtoPage": {
+      "content": [
+        {
+          "id": 17672.0,
+          "reference": "Ares(2026)3678259",
+          "foreseenActType": "REG_DEL",
+          "shortTitle": "Ecodesign requirements for iron and steel products",
+          "currentStatuses": [
+            {
+              "frontEndStage": "OPC_LAUNCHED",
+              "receivingFeedbackStatus": "OPEN",
+              "feedbackStartDate": "2026/05/20 15:10:38",
+              "feedbackEndDate": "2026/08/12 23:59:59",
+              "isCurrent": true
+            }
+          ],
+          "topics": [{"code": "SINGMARK", "label": "Single market"}]
+        },
+        {
+          "id": 14828.0,
+          "reference": "Ares(2025)6809916",
+          "foreseenActType": "REG_IMPL",
+          "shortTitle": "Carbon border adjustment mechanism (CBAM) methodology for the definitive period",
+          "currentStatuses": [
+            {
+              "frontEndStage": "PLANNING_WORKFLOW",
+              "receivingFeedbackStatus": "CLOSED",
+              "feedbackStartDate": "2025/08/28 12:49:03",
+              "feedbackEndDate": "2025/09/25 23:59:59",
+              "isCurrent": true
+            }
+          ],
+          "topics": [{"code": "CLIMA", "label": "Climate action"}]
+        },
+        {
+          "id": 99999.0,
+          "shortTitle": "Organic fruit marketing standards",
+          "currentStatuses": [],
+          "topics": [{"code": "AGRI", "label": "Agriculture"}]
+        }
+      ],
+      "last": true,
+      "totalPages": 1
+    }
+  },
+  "details": {
+    "17672": {
+      "id": 17672,
+      "reference": "Ares(2026)3678259",
+      "shortTitle": "Ecodesign requirements for iron and steel products",
+      "dossierSummary": "This initiative will define low-carbon steel and set ecodesign requirements for sustainable and circular iron and steel products.",
+      "publishedDate": "2026/04/15 12:56:10",
+      "foreseenActType": "REG_DEL",
+      "topics": [{"code": "SINGMARK", "label": "Single market"}],
+      "publications": []
+    },
+    "14828": {
+      "id": 14828,
+      "reference": "Ares(2025)6809916",
+      "shortTitle": "Carbon border adjustment mechanism (CBAM) methodology for the definitive period",
+      "dossierSummary": "This initiative will lay down the methodology for calculating embedded emissions in the definitive period.",
+      "publishedDate": "2025/08/28 12:49:03",
+      "foreseenActType": "REG_IMPL",
+      "topics": [{"code": "CLIMA", "label": "Climate action"}],
+      "publications": []
+    },
+    "99999": {
+      "id": 99999,
+      "shortTitle": "Organic fruit marketing standards",
+      "dossierSummary": "Marketing rules for organic fruit.",
+      "publishedDate": "2026/06/01 00:00:00",
+      "topics": [{"code": "AGRI", "label": "Agriculture"}],
+      "publications": []
+    }
+  }
+}

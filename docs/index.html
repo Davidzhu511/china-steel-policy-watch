@@ -13,7 +13,7 @@
     <link rel="alternate" type="application/rss+xml" title="中国钢铁全球政策情报" href="./feed.xml" />
     <script>
       (() => {
-        const themes = new Set(["gold", "ocean", "jade", "copper", "violet"]);
+        const themes = new Set(["gold", "ocean", "jade", "copper", "violet", "pearl"]);
         try {
           const theme = localStorage.getItem("steelwatch-theme");
           const language = localStorage.getItem("steelwatch-language");
@@ -46,6 +46,7 @@
             <option value="jade">翡翠绿</option>
             <option value="copper">赤铜棕</option>
             <option value="violet">紫晶夜</option>
+            <option value="pearl">象牙浅色</option>
           </select>
         </label>
         <button class="language-toggle" id="language-toggle" type="button" aria-label="切换为英文" aria-pressed="false">EN</button>

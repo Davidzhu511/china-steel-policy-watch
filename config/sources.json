@@ -10,6 +10,24 @@
     "english_backfill_per_run": 24
   },
   "sources": {
+    "ec_have_your_say": {
+      "enabled": true,
+      "name": "EC Have Your Say / 欧盟公众咨询",
+      "lookback_days": 730,
+      "max_pages_per_query": 3,
+      "detail_workers": 4,
+      "queries": [
+        "steel",
+        "CBAM"
+      ],
+      "match_terms": [
+        "steel",
+        "stainless steel",
+        "ferroalloy",
+        "ferrosilicon",
+        "steel scrap"
+      ]
+    },
     "eurlex": {
       "enabled": true,
       "name": "EUR-Lex / 欧盟官方公报",
@@ -81,12 +99,16 @@
       "steel import measure", "steel import quota", "steel quota", "tariff-free steel",
       "section 232"
     ],
+    "universal_policy": [
+      "carbon border adjustment mechanism", "carbon border adjustment", "cbam"
+    ],
     "exclude": [
       "pittsburgh steelers", "sheffield steelers", "steelers quarterback", "steelers nfl",
       "man of steel", "steel guitar", "steel magnolias"
     ]
   },
   "official_domains": {
+    "ec.europa.eu": "欧盟",
     "eur-lex.europa.eu": "欧盟",
     "commission.europa.eu": "欧盟",
     "policy.trade.ec.europa.eu": "欧盟",

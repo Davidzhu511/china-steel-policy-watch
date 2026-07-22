@@ -108,6 +108,8 @@ def is_rule_relevant(title: str, excerpt: str, keywords: dict[str, list[str]]) -
     haystack = f"{title} {excerpt}".lower()
     if contains_any(haystack, keywords.get("exclude", [])):
         return False
+    if contains_any(haystack, keywords.get("universal_policy", [])):
+        return True
     has_material = contains_any(haystack, keywords.get("materials", []))
     if not has_material:
         return False

@@ -1,9 +1,9 @@
 (() => {
   "use strict";
 
-  const THEMES = new Set(["gold", "ocean", "jade", "copper", "violet"]);
+  const THEMES = new Set(["gold", "ocean", "jade", "copper", "violet", "pearl"]);
   const THEME_COLORS = {
-    gold: "#11130f", ocean: "#07111f", jade: "#071511", copper: "#18100c", violet: "#100d1b",
+    gold: "#11130f", ocean: "#07111f", jade: "#071511", copper: "#18100c", violet: "#100d1b", pearl: "#faf8f2",
   };
   const importanceScore = { "重大": 4, "高": 3, "中": 2, "低": 1 };
 
@@ -41,7 +41,9 @@
       loadErrorTitle: "暂时无法读取数据", loadErrorCopy: "请稍后刷新页面。", leadUnavailable: "重点情报暂不可用。",
       englishPending: "英文分析正在生成，请先查阅原始来源。",
       languageAria: "切换为英文", languageButton: "EN",
-      themeGold: "黑金", themeOcean: "深海蓝", themeJade: "翡翠绿", themeCopper: "赤铜棕", themeViolet: "紫晶夜",
+      feedbackOpen: "征求意见开放", feedbackOpenUntil: ({ date }) => `征求意见至 ${date}`,
+      feedbackUpcoming: "即将征求意见", feedbackUpcomingFrom: ({ date }) => `将于 ${date} 开放`, feedbackClosed: "征求意见已结束",
+      themeGold: "黑金", themeOcean: "深海蓝", themeJade: "翡翠绿", themeCopper: "赤铜棕", themeViolet: "紫晶夜", themePearl: "象牙浅色",
     },
     en: {
       pageTitle: "China Steel Global Policy Intelligence",
@@ -76,7 +78,9 @@
       loadErrorTitle: "Data is temporarily unavailable", loadErrorCopy: "Please refresh again shortly.", leadUnavailable: "Lead intelligence is temporarily unavailable.",
       englishPending: "The English analysis is being generated. Please review the original source in the meantime.",
       languageAria: "切换为中文", languageButton: "中文",
-      themeGold: "Black gold", themeOcean: "Deep ocean", themeJade: "Jade green", themeCopper: "Burnished copper", themeViolet: "Violet night",
+      feedbackOpen: "Feedback open", feedbackOpenUntil: ({ date }) => `Feedback until ${date}`,
+      feedbackUpcoming: "Feedback upcoming", feedbackUpcomingFrom: ({ date }) => `Opens ${date}`, feedbackClosed: "Feedback closed",
+      themeGold: "Black gold", themeOcean: "Deep ocean", themeJade: "Jade green", themeCopper: "Burnished copper", themeViolet: "Violet night", themePearl: "Ivory light",
     },
   };
 
@@ -170,6 +174,30 @@
     return [...(item.products_en || []), ...(item.tags_en || [])];
   }
 
+  function consultationText(item) {
+    const consultation = item.consultation;
+    if (!consultation?.status) return "";
+    if (consultation.status === "OPEN") {
+      return consultation.closes_at
+        ? t("feedbackOpenUntil", { date: berlinDate(consultation.closes_at) })
+        : t("feedbackOpen");
+    }
+    if (consultation.status === "UPCOMING") {
+      return consultation.opens_at
+        ? t("feedbackUpcomingFrom", { date: berlinDate(consultation.opens_at) })
+        : t("feedbackUpcoming");
+    }
+    if (consultation.status === "CLOSED") return t("feedbackClosed");
+    return "";
+  }
+
+  function consultationBadge(item) {
+    const value = consultationText(item);
+    if (!value) return "";
+    const openClass = item.consultation?.status === "OPEN" ? " feedback-open" : "";
+    return `<span class="badge${openClass}">${escapeHtml(value)}</span>`;
+  }
+
   function berlinDate(value, withTime = false) {
     if (!value) return "—";
     const options = withTime
@@ -206,7 +234,7 @@
   }
 
   function translateThemeOptions() {
-    const keys = { gold: "themeGold", ocean: "themeOcean", jade: "themeJade", copper: "themeCopper", violet: "themeViolet" };
+    const keys = { gold: "themeGold", ocean: "themeOcean", jade: "themeJade", copper: "themeCopper", violet: "themeViolet", pearl: "themePearl" };
     [...elements.theme.options].forEach((option) => { option.textContent = t(keys[option.value]); });
   }
 
@@ -268,7 +296,7 @@
     elements.lead.innerHTML = `
       <div class="lead-top">
         <span class="lead-label">${escapeHtml(t("leadLabel"))} · ${escapeHtml(label("importance", item.importance))}</span>
-        <span class="badge ${item.source?.official ? "official" : ""}">${escapeHtml(item.source?.official ? t("officialSource") : t("mediaSource"))}</span>
+        <span class="lead-badges"><span class="badge ${item.source?.official ? "official" : ""}">${escapeHtml(item.source?.official ? t("officialSource") : t("mediaSource"))}</span>${consultationBadge(item)}</span>
       </div>
       <h2>${escapeHtml(itemTitle(item))}</h2>
       <p class="lead-summary">${escapeHtml(itemSummary(item))}</p>
@@ -313,6 +341,7 @@
           <span class="badge importance-${escapeHtml(item.importance)}">${escapeHtml(importance)}</span>
           <span class="badge ${item.source?.official ? "official" : ""}">${escapeHtml(item.source?.official ? t("official") : label("status", item.status))}</span>
           <span class="badge">${escapeHtml(label("category", item.category))}</span>
+          ${consultationBadge(item)}
         </div>
         <time class="card-date" datetime="${escapeHtml(item.published_at)}">${berlinDate(item.published_at)}</time>
       </div>

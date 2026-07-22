@@ -5,6 +5,7 @@ KEYWORDS = {
     "china": ["china", "chinese"],
     "materials": ["steel", "hot-rolled"],
     "global_steel_policy": ["union steel market", "steel safeguard"],
+    "universal_policy": ["carbon border adjustment mechanism", "cbam"],
     "exclude": ["pittsburgh steelers"],
 }
 
@@ -18,6 +19,7 @@ def test_canonical_url_removes_tracking_and_fragment():
 def test_relevance_accepts_china_and_universal_steel_rules():
     assert is_rule_relevant("Anti-dumping review of Chinese hot-rolled steel", "", KEYWORDS)
     assert is_rule_relevant("New quota for the Union steel market", "", KEYWORDS)
+    assert is_rule_relevant("CBAM certificate surrender rules", "", KEYWORDS)
     assert not is_rule_relevant("Pittsburgh Steelers sign a player", "", KEYWORDS)
     assert not is_rule_relevant("China issues a software regulation", "", KEYWORDS)
 
