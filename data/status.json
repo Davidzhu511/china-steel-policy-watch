@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T07:23:49Z",
+  "generated_at": "2026-07-22T08:42:37Z",
   "run_ok": true,
   "model": "openai/gpt-4o-mini",
   "translation_available": true,
@@ -14,7 +14,7 @@
       "ok": true,
       "count": 0,
       "error": "",
-      "duration_ms": 680
+      "duration_ms": 454
     },
     {
       "id": "federal_register",
@@ -22,15 +22,15 @@
       "ok": true,
       "count": 5,
       "error": "",
-      "duration_ms": 668
+      "duration_ms": 855
     },
     {
       "id": "gdelt",
       "name": "GDELT 全球新闻索引",
       "ok": false,
       "count": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22China+steel%22+OR+%22Chinese+steel%22+OR+%22steel+from+China%22+OR+%22China%27s+steel%22%29&mode=artlist&maxrecords=100&format=json&sort=datedesc&timespan=7d",
-      "duration_ms": 11613
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "duration_ms": 17771
     },
     {
       "id": "govuk",
@@ -38,8 +38,11 @@
       "ok": true,
       "count": 0,
       "error": "",
-      "duration_ms": 5167
+      "duration_ms": 5553
     }
   ],
-  "warnings": []
+  "warnings": [
+    "英文补齐批次 1: HTTPError: 400 Client Error: Bad Request for url: https://models.github.ai/inference/chat/completions",
+    "英文补齐批次 2: HTTPError: 400 Client Error: Bad Request for url: https://models.github.ai/inference/chat/completions"
+  ]
 }
