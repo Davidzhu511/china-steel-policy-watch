@@ -36,6 +36,7 @@ jobs:
       - name: 检出仓库
         uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - name: 判断杜塞尔多夫当地时间
