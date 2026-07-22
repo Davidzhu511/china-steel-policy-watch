@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-22T06:15:06Z",
+  "generated_at": "2026-07-22T06:18:19Z",
   "disclaimer": "机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。",
   "items": [
     {
@@ -142,7 +142,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T06:15:06Z"
+      "last_seen": "2026-07-22T06:18:19Z"
     },
     {
       "id": "63296ef3ddffef980959",
@@ -176,7 +176,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T06:15:06Z"
+      "last_seen": "2026-07-22T06:18:19Z"
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -209,7 +209,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T06:15:06Z"
+      "last_seen": "2026-07-22T06:18:19Z"
     },
     {
       "id": "1627d64054a754a91222",
@@ -242,7 +242,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T06:15:06Z"
+      "last_seen": "2026-07-22T06:18:19Z"
     },
     {
       "id": "4b9bcf412439034e3050",
