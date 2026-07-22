@@ -52,7 +52,8 @@ products、products_en、tags、tags_en、confidence。products、products_en、
 BACKFILL_PROMPT = """你是谨慎的中英双语钢铁贸易编辑。输入是已经审核过的中文历史情报卡。你只需忠实翻译，
 不得补充输入中没有的税率、日期、产品、企业或政策结论。title_en 应是自然、准确的商务英文标题；
 summary_en 与 impact_en 必须分别忠实对应 summary_zh 与 impact_zh；products_en 和 tags_en 分别翻译
-原数组。只输出 {"items":[...]}，每项包含 id、title_en、summary_en、impact_en、products_en、tags_en。"""
+原数组。只输出一个 JSON 对象，结构为 {"items":[...]}，每项包含 id、title_en、summary_en、
+impact_en、products_en、tags_en。"""
 
 
 def _fallback(item: RawItem) -> dict[str, Any]:
