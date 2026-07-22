@@ -1,47 +1,45 @@
 {
-  "generated_at": "2026-07-21T21:54:23Z",
+  "generated_at": "2026-07-22T06:15:06Z",
   "run_ok": true,
   "model": "openai/gpt-4o-mini",
   "translation_available": true,
-  "new_items": 7,
-  "total_items": 7,
-  "source_success": 4,
+  "new_items": 4,
+  "total_items": 11,
+  "source_success": 3,
   "source_total": 4,
   "sources": [
     {
       "id": "eurlex",
       "name": "EUR-Lex / 欧盟官方公报",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": "",
-      "duration_ms": 0
+      "duration_ms": 331
     },
     {
       "id": "federal_register",
       "name": "U.S. Federal Register / 美国联邦公报",
       "ok": true,
-      "count": 0,
+      "count": 5,
       "error": "",
-      "duration_ms": 0
+      "duration_ms": 1012
+    },
+    {
+      "id": "gdelt",
+      "name": "GDELT 全球新闻索引",
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22China+steel%22+OR+%22Chinese+steel%22+OR+%22steel+from+China%22+OR+%22China%27s+steel%22%29&mode=artlist&maxrecords=100&format=json&sort=datedesc&timespan=7d",
+      "duration_ms": 14401
     },
     {
       "id": "govuk",
       "name": "GOV.UK / 英国政府",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "error": "",
-      "duration_ms": 0
-    },
-    {
-      "id": "gdelt",
-      "name": "GDELT 全球新闻索引",
-      "ok": true,
-      "count": 4,
-      "error": "",
-      "duration_ms": 0
+      "duration_ms": 4746
     }
   ],
-  "warnings": [
-    "当前为首版种子数据；首次 GitHub Actions 运行后将自动替换为实时采集状态。"
-  ]
+  "warnings": []
 }

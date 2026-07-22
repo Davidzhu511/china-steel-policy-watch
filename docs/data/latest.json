@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T21:54:23Z",
+  "generated_at": "2026-07-22T06:15:06Z",
   "items": [
     {
       "id": "0af6ec2085b29588ce27",
@@ -108,6 +108,139 @@
       "translation_state": "complete",
       "first_seen": "2026-07-21T21:54:23Z",
       "last_seen": "2026-07-21T21:54:23Z"
+    },
+    {
+      "id": "0106a4a8c5b36465b09d",
+      "title_zh": "中国某些不可重复使用钢气瓶的反倾销税令的加速首次日落审查最终结果",
+      "title_original": "Certain Non-Refillable Steel Cylinders From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Antidumping Duty Order",
+      "summary_zh": "美国商务部发现，撤销对中国某些不可重复使用钢气瓶的反倾销税令可能导致倾销的持续或再发生。",
+      "impact_zh": "这意味着中国制造的不可重复使用钢气瓶在美国市场将继续面临反倾销税，影响其市场竞争力。",
+      "url": "https://federalregister.gov/documents/2026/07/17/2026-14420/certain-non-refillable-steel-cylinders-from-the-peoples-republic-of-china-final-results-of-the",
+      "published_at": "2026-07-17T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢气瓶"
+      ],
+      "tags": [
+        "反倾销",
+        "钢铁贸易"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T06:15:06Z",
+      "last_seen": "2026-07-22T06:15:06Z"
+    },
+    {
+      "id": "63296ef3ddffef980959",
+      "title_zh": "中国某些合金和碳钢螺纹杆的反倾销税行政审查最终结果；2024-2025",
+      "title_original": "Alloy and Certain Carbon Steel Threaded Rod From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+      "summary_zh": "美国商务部确定，中国出口商在审查期间以低于正常价值的价格销售合金和某些碳钢螺纹杆。",
+      "impact_zh": "这将导致中国相关产品在美国市场的竞争力下降，可能需要调整定价策略以应对反倾销措施。",
+      "url": "https://federalregister.gov/documents/2026/07/17/2026-14417/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-final-results-of",
+      "published_at": "2026-07-17T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "合金钢螺纹杆",
+        "碳钢螺纹杆"
+      ],
+      "tags": [
+        "反倾销",
+        "钢铁贸易"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T06:15:06Z",
+      "last_seen": "2026-07-22T06:15:06Z"
+    },
+    {
+      "id": "fff0a23e9ea254f913ca",
+      "title_zh": "中国某些钢架及其零部件的反倾销税行政审查结果不一致的法院裁决通知",
+      "title_original": "Certain Steel Racks and Parts Thereof From the People's Republic of China: Notice of Court Decision Not in Harmony With the Results of Antidumping Duty Administrative Review; Notice of Amended Final Results",
+      "summary_zh": "美国国际贸易法院对中国某些钢架的反倾销税行政审查结果作出裁决，要求修正相关倾销幅度。",
+      "impact_zh": "这可能导致中国钢架产品在美国市场的倾销幅度调整，影响其市场准入和价格策略。",
+      "url": "https://federalregister.gov/documents/2026/07/10/2026-13975/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-notice-of-court-decision",
+      "published_at": "2026-07-10T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢架"
+      ],
+      "tags": [
+        "反倾销",
+        "钢铁贸易"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T06:15:06Z",
+      "last_seen": "2026-07-22T06:15:06Z"
+    },
+    {
+      "id": "1627d64054a754a91222",
+      "title_zh": "中国某些耐腐蚀钢产品的反倾销和补贴税令的规避调查启动通知",
+      "title_original": "Certain Corrosion-Resistant Steel Products From the People's Republic of China: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders",
+      "summary_zh": "美国商务部启动对中国某些耐腐蚀钢产品的规避调查，以确定其是否通过泰国进行规避。",
+      "impact_zh": "如果调查结果确认规避，将对中国耐腐蚀钢产品的市场准入产生重大影响，可能导致更严格的贸易限制。",
+      "url": "https://federalregister.gov/documents/2026/07/06/2026-13607/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-initiation-of",
+      "published_at": "2026-07-06T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "耐腐蚀钢产品"
+      ],
+      "tags": [
+        "反倾销",
+        "规避调查"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T06:15:06Z",
+      "last_seen": "2026-07-22T06:15:06Z"
     },
     {
       "id": "4b9bcf412439034e3050",
