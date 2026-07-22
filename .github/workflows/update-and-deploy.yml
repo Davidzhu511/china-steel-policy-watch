@@ -81,6 +81,8 @@ jobs:
       - name: 配置 GitHub Pages
         if: steps.gate.outputs.run == 'true'
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
 
       - name: 打包 Pages
         if: steps.gate.outputs.run == 'true'
