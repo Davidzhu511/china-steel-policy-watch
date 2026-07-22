@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T08:42:37Z",
+  "generated_at": "2026-07-22T08:44:54Z",
   "items": [
     {
       "id": "0af6ec2085b29588ce27",
@@ -38,7 +38,23 @@
       "confidence": 0.99,
       "translation_state": "complete",
       "first_seen": "2026-07-21T21:54:23Z",
-      "last_seen": "2026-07-21T21:54:23Z"
+      "last_seen": "2026-07-21T21:54:23Z",
+      "summary_en": "The EU Implementing Regulation (EU) 2026/1457 allocates tariff quotas for 26 categories of steel products by country and residual quotas, clarifying the most-favored-nation and free trade agreement quota pools, first-come-first-served management, quota returns, and non-preferential origin rules. The regulation is applicable from July 1 to December 31, 2026.",
+      "products_en": [
+        "26 categories of steel products",
+        "hot-rolled",
+        "cold-rolled",
+        "coated sheets",
+        "steel pipes"
+      ],
+      "title_en": "EU Implements New Tariff Quota Distribution and Management for Steel",
+      "impact_en": "Chinese steel products entering the EU must be declared according to product categories and available quota pools; a 50% additional tariff applies once quotas are exhausted. Exporters should verify specific Order Numbers, origin qualifications, and existing trade remedy duties before export.",
+      "tags_en": [
+        "EU steel regulations",
+        "TRQ",
+        "50% additional tariff",
+        "non-preferential origin"
+      ]
     },
     {
       "id": "93318e909d9f0e6d1c7d",
@@ -73,7 +89,19 @@
       "confidence": 0.99,
       "translation_state": "complete",
       "first_seen": "2026-07-21T21:54:23Z",
-      "last_seen": "2026-07-21T21:54:23Z"
+      "last_seen": "2026-07-21T21:54:23Z",
+      "summary_en": "The EU Regulation (EU) 2026/1384 establishes a new steel import system, opening a total of 18,345,922 tons of tariff quotas for 26 categories of products and stipulating a 50% additional tariff rate; subsequent country allocations will be implemented by the implementing regulation.",
+      "products_en": [
+        "26 categories of steel products"
+      ],
+      "title_en": "EU Establishes New Steel Import System with 18,345,922 Tons Tariff Quota and 50% Additional Tariff Rate",
+      "impact_en": "This regulation changes the basic entry cost for Chinese steel products into the EU. Chinese exporters should incorporate product categories, quota balances, and existing anti-dumping/subsidy measures into the same quotation and customs clearance calculations.",
+      "tags_en": [
+        "EU steel regulations",
+        "global overcapacity",
+        "TRQ",
+        "50% additional tariff"
+      ]
     },
     {
       "id": "f0e64ceb0a997cd17404",
@@ -107,7 +135,18 @@
       "confidence": 0.98,
       "translation_state": "complete",
       "first_seen": "2026-07-21T21:54:23Z",
-      "last_seen": "2026-07-21T21:54:23Z"
+      "last_seen": "2026-07-21T21:54:23Z",
+      "summary_en": "The UK government will implement new steel trade measures from July 1, 2026: the total amount of duty-free quotas will be reduced by 51% compared to the original safeguard measures, and imports exceeding the quota will be subject to a 50% tariff; the measures target steel products that can be produced in the UK and include specific product arrangements.",
+      "products_en": [
+        "steel products produced in the UK"
+      ],
+      "title_en": "UK Tightens Steel Import Quotas and Raises Additional Tariff Rate to 50% from July 1, 2026",
+      "impact_en": "The direct impact on Chinese exports is a significant reduction in duty-free space and increased costs for exceeding quotas. Each product category, country quota, excluded products, and rules related to anti-dumping duties should be verified item by item.",
+      "tags_en": [
+        "UK steel measures",
+        "51% quota reduction",
+        "50% additional tariff"
+      ]
     },
     {
       "id": "0106a4a8c5b36465b09d",
@@ -140,7 +179,17 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T08:42:37Z"
+      "last_seen": "2026-07-22T08:44:54Z",
+      "summary_en": "The U.S. Department of Commerce found that revoking the antidumping duty order on certain non-refillable steel cylinders from China could lead to the continuation or recurrence of dumping.",
+      "products_en": [
+        "steel cylinders"
+      ],
+      "title_en": "Final Results of the Expedited First Sunset Review of Antidumping Duty Order on Certain Non-Refillable Steel Cylinders from China",
+      "impact_en": "This means that non-refillable steel cylinders manufactured in China will continue to face antidumping duties in the U.S. market, affecting their market competitiveness.",
+      "tags_en": [
+        "antidumping",
+        "steel trade"
+      ]
     },
     {
       "id": "63296ef3ddffef980959",
@@ -174,7 +223,18 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T08:42:37Z"
+      "last_seen": "2026-07-22T08:44:54Z",
+      "summary_en": "The U.S. Department of Commerce determined that Chinese exporters sold alloy and certain carbon steel threaded rods at prices below normal value during the review period.",
+      "products_en": [
+        "alloy steel threaded rods",
+        "carbon steel threaded rods"
+      ],
+      "title_en": "Final Results of Antidumping Duty Administrative Review on Certain Alloy and Carbon Steel Threaded Rod from China; 2024-2025",
+      "impact_en": "This will lead to a decrease in the competitiveness of related Chinese products in the U.S. market, potentially requiring adjustments in pricing strategies to cope with antidumping measures.",
+      "tags_en": [
+        "antidumping",
+        "steel trade"
+      ]
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -207,7 +267,17 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T08:42:37Z"
+      "last_seen": "2026-07-22T08:44:54Z",
+      "summary_en": "The U.S. International Trade Court ruled on the results of the antidumping duty administrative review on certain steel racks from China, requiring a correction of the relevant dumping margins.",
+      "products_en": [
+        "steel racks"
+      ],
+      "title_en": "Notice of Court Decision Not in Harmony with the Results of Antidumping Duty Administrative Review on Certain Steel Racks and Parts Thereof from China",
+      "impact_en": "This may lead to adjustments in the dumping margins for Chinese steel rack products in the U.S. market, affecting their market access and pricing strategies.",
+      "tags_en": [
+        "antidumping",
+        "steel trade"
+      ]
     },
     {
       "id": "1627d64054a754a91222",
@@ -240,7 +310,17 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T08:42:37Z"
+      "last_seen": "2026-07-22T08:44:54Z",
+      "summary_en": "The U.S. Department of Commerce has initiated a circumvention inquiry on certain corrosion-resistant steel products from China to determine if they are circumventing duties through Thailand.",
+      "products_en": [
+        "corrosion-resistant steel products"
+      ],
+      "title_en": "Initiation of Circumvention Inquiry on Antidumping and Countervailing Duty Orders for Certain Corrosion-Resistant Steel Products from China",
+      "impact_en": "If the investigation confirms circumvention, it will have significant implications for the market access of Chinese corrosion-resistant steel products, potentially leading to stricter trade restrictions.",
+      "tags_en": [
+        "antidumping",
+        "circumvention inquiry"
+      ]
     },
     {
       "id": "4b9bcf412439034e3050",
@@ -276,7 +356,20 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-21T21:54:23Z",
-      "last_seen": "2026-07-21T21:54:23Z"
+      "last_seen": "2026-07-21T21:54:23Z",
+      "summary_en": "Reuters reports that tightening steel import rules in Europe and low-priced Chinese steel are prompting Indian steelmakers to turn more towards the domestic market. The report also mentions that India has initiated an antidumping investigation on hot-rolled steel imports from China, Japan, and Russia.",
+      "products_en": [
+        "hot-rolled steel"
+      ],
+      "title_en": "Indian Steelmakers Pivot Home as Europe Tightens Imports and China Squeezes Margins",
+      "impact_en": "Chinese hot-rolled steel exports to India face new trade remedy risks; after the filing documents are published, priority should be given to verifying the investigation period, involved tax numbers, product exclusions, and response timelines.",
+      "tags_en": [
+        "India",
+        "antidumping investigation",
+        "China",
+        "Japan",
+        "Russia"
+      ]
     },
     {
       "id": "6d54afb9276a826d4519",
@@ -311,7 +404,19 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-21T21:54:23Z",
-      "last_seen": "2026-07-21T21:54:23Z"
+      "last_seen": "2026-07-21T21:54:23Z",
+      "summary_en": "According to Reuters, China's steel production in the first half of 2026 decreased by about 3% year-on-year, with weak demand from the real estate sector; however, crude steel production in June reached 83.67 million tons, with daily output rising to a three-month high. Iron ore imports remain strong, indicating that production is not solely weakening.",
+      "products_en": [
+        "Crude Steel",
+        "Iron Ore"
+      ],
+      "title_en": "China's Steel Production Declines in H1, June Daily Output Shows Resilience",
+      "impact_en": "Weak domestic demand will still drive steel mills to seek exports, but short-term production resilience may prolong supply and price pressures in overseas markets, increasing the likelihood of trade measures being taken by various countries.",
+      "tags_en": [
+        "Production",
+        "Domestic Demand",
+        "Iron Ore Imports"
+      ]
     },
     {
       "id": "5ab9c3c078fed7eb0d51",
@@ -346,7 +451,19 @@
       "confidence": 0.87,
       "translation_state": "complete",
       "first_seen": "2026-07-21T21:54:23Z",
-      "last_seen": "2026-07-21T21:54:23Z"
+      "last_seen": "2026-07-21T21:54:23Z",
+      "summary_en": "S&P Global reports that China's steel exports have reached record levels, with significant year-on-year growth in semi-finished steel exports; however, weakening orders and an increase in anti-dumping cases in 2026 may slow export momentum in the third quarter.",
+      "products_en": [
+        "Steel",
+        "Semi-finished Steel"
+      ],
+      "title_en": "China's Steel Exports Hit Record but Rally May Prove Short-Lived",
+      "impact_en": "The higher the export volume, the more likely it is to trigger complaints and investigations from importing countries. Steel mills should monitor order declines and filing risks in advance based on market, variety, and customer to avoid concentrated shipments.",
+      "tags_en": [
+        "Export Record",
+        "Orders",
+        "Anti-dumping Risk"
+      ]
     },
     {
       "id": "f0c5bb1b386f6ab81437",
@@ -382,7 +499,20 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-21T21:54:23Z",
-      "last_seen": "2026-07-21T21:54:23Z"
+      "last_seen": "2026-07-21T21:54:23Z",
+      "summary_en": "According to the Associated Press, Jingye Group is seeking compensation from the UK government for the takeover of British Steel operations and is negotiating based on bilateral investment arrangements, considering international arbitration. The UK side stated that it would determine possible compensation through an independent assessment.",
+      "products_en": [
+        "Crude Steel",
+        "Long Process Capacity"
+      ],
+      "title_en": "Chinese Company Demands Compensation from the UK over British Steel Nationalization",
+      "impact_en": "This event not only affects Jingye Group's asset disposal but also raises concerns among Chinese steel companies regarding government intervention, key capacity identification, and investment agreement protection clauses when evaluating investments in the UK.",
+      "tags_en": [
+        "Jingye Group",
+        "British Steel",
+        "Compensation",
+        "Investment Arbitration"
+      ]
     }
   ]
 }
