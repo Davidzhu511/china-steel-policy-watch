@@ -1,13 +1,14 @@
 # 中国钢铁全球政策情报看板
 
-每天自动采集与中国钢铁有关的法规、贸易救济、配额/关税、原产地、碳政策、市场和企业新闻，生成中文摘要与出口影响判断，并通过 GitHub Pages 发布静态看板。每条情报都保留官方或原始网页链接。
+每天自动采集与中国钢铁有关的法规、贸易救济、配额/关税、原产地、碳政策、市场和企业新闻，生成中英文摘要与出口影响判断，并通过 GitHub Pages 发布静态看板。每条情报都保留官方或原始网页链接。
 
 ## 看板包含什么
 
 - **正式法规优先**：EUR-Lex 的 L 系列法规和 C 系列公告分别采集，不把新闻和法律文件混为一类。
 - **重点市场官方来源**：欧盟官方公报、美国 Federal Register、GOV.UK。
 - **全球新闻覆盖**：通过 GDELT DOC 2.0 获取多国媒体和政府网站的原始链接。
-- **中文研判**：GitHub Actions 使用 GitHub Models 自动翻译、摘要、分类，并回答“对中国钢厂/出口商意味着什么”。
+- **中英文研判**：GitHub Actions 使用 GitHub Models 同时生成中英文标题、摘要与影响分析，并回答“对中国钢厂/出口商意味着什么”。
+- **个性化外观**：内置黑金、深海蓝、翡翠绿、赤铜棕和紫晶夜五套配色，语言与主题偏好保存在浏览器本地。
 - **历史与去重**：近似标题和规范化 URL 去重；历史情报默认保留 730 天。
 - **健康隔离**：单个来源失败不会中断其他来源，也不会删除已有历史数据。
 - **免费静态发布**：GitHub Pages，不需要服务器；GitHub Models 使用工作流自带的 `GITHUB_TOKEN`，无需另配 OpenAI API Key。
@@ -35,7 +36,7 @@ python -m steelwatch render
 python -m http.server 8000 --directory docs
 ```
 
-浏览器打开 `http://localhost:8000`。本地没有 GitHub Models 令牌时可以正常渲染已有数据；只有新情报的自动中文分析会等到 GitHub Actions 运行时完成。
+浏览器打开 `http://localhost:8000`。本地没有 GitHub Models 令牌时可以正常渲染已有数据；只有新情报的自动双语分析会等到 GitHub Actions 运行时完成。
 
 如需在本地完整更新，可提供具有 `models:read` 权限的令牌：
 
@@ -64,7 +65,7 @@ python -m steelwatch update
 flowchart LR
   A[官方公报与新闻索引] --> B[关键词初筛]
   B --> C[URL 与近似标题去重]
-  C --> D[GitHub Models 中文研判]
+  C --> D[GitHub Models 中英文研判]
   D --> E[JSON 历史库]
   E --> F[GitHub Pages 看板与 RSS]
 ```

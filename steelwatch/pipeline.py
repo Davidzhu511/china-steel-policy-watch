@@ -108,9 +108,12 @@ def _build_item(raw: RawItem, analysis: dict[str, Any], timestamp: str) -> dict[
     return {
         "id": raw.id,
         "title_zh": analysis["title_zh"],
+        "title_en": analysis.get("title_en") or raw.title,
         "title_original": raw.title,
         "summary_zh": analysis["summary_zh"],
+        "summary_en": analysis.get("summary_en", ""),
         "impact_zh": analysis["impact_zh"],
+        "impact_en": analysis.get("impact_en", ""),
         "url": canonical_url(raw.url),
         "published_at": raw.published_at,
         "source": {
@@ -125,7 +128,9 @@ def _build_item(raw: RawItem, analysis: dict[str, Any], timestamp: str) -> dict[
         "status": analysis["status"],
         "importance": analysis["importance"],
         "products": analysis.get("products", []),
+        "products_en": analysis.get("products_en", []),
         "tags": analysis.get("tags", []),
+        "tags_en": analysis.get("tags_en", []),
         "language": raw.language,
         "image_url": raw.image_url,
         "confidence": analysis.get("confidence", 0.5),
@@ -196,9 +201,22 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
     warnings.extend(model_warnings)
     analysis_by_id = {analysis["id"]: analysis for analysis in analyses}
 
+    english_fields = ("title_en", "summary_en", "impact_en")
+    backfill_limit = max(0, min(48, int(settings.get("english_backfill_per_run", 24))))
+    backfill_candidates = [
+        item
+        for item in previous_values
+        if not all(item.get(field) for field in english_fields)
+    ][:backfill_limit]
+    english_updates, english_warnings = enricher.backfill_english(backfill_candidates)
+    warnings.extend(english_warnings)
+
     combined = dict(previous_by_id)
     for identifier in observed_existing_ids:
         combined[identifier] = {**previous_by_id[identifier], "last_seen": timestamp}
+    for identifier, update in english_updates.items():
+        if identifier in combined:
+            combined[identifier] = {**combined[identifier], **update}
     for raw in candidates:
         analysis = analysis_by_id.get(raw.id)
         if not analysis or not analysis.get("relevant", True):

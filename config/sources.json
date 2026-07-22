@@ -6,7 +6,8 @@
     "fetch_page_descriptions": true,
     "request_timeout_seconds": 25,
     "model": "openai/gpt-4o-mini",
-    "model_batch_size": 8
+    "model_batch_size": 8,
+    "english_backfill_per_run": 24
   },
   "sources": {
     "eurlex": {

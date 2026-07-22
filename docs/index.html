@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-theme="gold">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -11,38 +11,60 @@
     <title>中国钢铁全球政策情报</title>
     <link rel="icon" href="./icon.svg" type="image/svg+xml" />
     <link rel="alternate" type="application/rss+xml" title="中国钢铁全球政策情报" href="./feed.xml" />
+    <script>
+      (() => {
+        const themes = new Set(["gold", "ocean", "jade", "copper", "violet"]);
+        try {
+          const theme = localStorage.getItem("steelwatch-theme");
+          const language = localStorage.getItem("steelwatch-language");
+          if (themes.has(theme)) document.documentElement.dataset.theme = theme;
+          if (language === "en") document.documentElement.lang = "en";
+        } catch (_) { /* Preferences are optional. */ }
+      })();
+    </script>
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <a class="skip-link" href="#intelligence">跳至情报列表</a>
+    <a class="skip-link" href="#intelligence" data-i18n="skipLink">跳至情报列表</a>
     <div class="page-noise" aria-hidden="true"></div>
 
     <header class="topbar">
-      <a class="brand" href="./" aria-label="返回看板首页">
+      <a class="brand" href="./" aria-label="返回看板首页" data-i18n-aria-label="brandHome">
         <span class="brand-mark" aria-hidden="true">钢</span>
         <span>
           <strong>STEELWATCH</strong>
-          <small>中国钢铁全球政策情报</small>
+          <small data-i18n="brandSubtitle">中国钢铁全球政策情报</small>
         </span>
       </a>
       <div class="top-actions">
-        <span class="live-state" id="live-state"><i></i> 数据载入中</span>
-        <a class="quiet-button" href="./feed.xml" target="_blank" rel="noopener">RSS 订阅</a>
+        <span class="live-state" id="live-state"><i></i> <span data-i18n="loadingData">数据载入中</span></span>
+        <label class="theme-control">
+          <span data-i18n="themeLabel">配色</span>
+          <select id="theme-select" aria-label="选择看板配色" data-i18n-aria-label="themeAria">
+            <option value="gold">黑金</option>
+            <option value="ocean">深海蓝</option>
+            <option value="jade">翡翠绿</option>
+            <option value="copper">赤铜棕</option>
+            <option value="violet">紫晶夜</option>
+          </select>
+        </label>
+        <button class="language-toggle" id="language-toggle" type="button" aria-label="切换为英文" aria-pressed="false">EN</button>
+        <a class="quiet-button rss-link" href="./feed.xml" target="_blank" rel="noopener" data-i18n="rss">RSS 订阅</a>
       </div>
     </header>
 
     <main>
       <section class="hero" aria-labelledby="page-title">
         <div class="hero-copy">
-          <p class="eyebrow"><span>DAILY BRIEF</span> 全球监管雷达 · 每日自动更新</p>
-          <h1 id="page-title">看清规则变化，<br /><em>提前判断出口影响。</em></h1>
-          <p class="hero-deck">
+          <p class="eyebrow"><span>DAILY BRIEF</span> <span class="eyebrow-copy" data-i18n="heroEyebrow">全球监管雷达 · 每日自动更新</span></p>
+          <h1 id="page-title" data-i18n-html="heroTitle">看清规则变化，<br /><em>提前判断出口影响。</em></h1>
+          <p class="hero-deck" data-i18n="heroDeck">
             聚合官方法规、贸易救济与行业信息，自动翻译为中文，并提炼对中国钢厂和出口商的实际影响。
           </p>
           <div class="hero-meta">
-            <span>更新：<b id="updated-at">—</b></span>
-            <span>时区：Europe/Berlin</span>
-            <span>保留原文链接</span>
+            <span><span data-i18n="updatedLabel">更新：</span><b id="updated-at">—</b></span>
+            <span data-i18n="timezoneLabel">时区：Europe/Berlin</span>
+            <span data-i18n="originalLinks">保留原文链接</span>
           </div>
         </div>
         <div class="radar" aria-hidden="true">
@@ -53,15 +75,15 @@
           <span class="ping ping-a"></span>
           <span class="ping ping-b"></span>
           <span class="ping ping-c"></span>
-          <div class="radar-label"><strong id="radar-count">—</strong><small>条在库情报</small></div>
+          <div class="radar-label"><strong id="radar-count">—</strong><small data-i18n="radarLabel">条在库情报</small></div>
         </div>
       </section>
 
-      <section class="metrics" aria-label="情报概览">
-        <article><span>本次新增</span><strong id="metric-new">—</strong><small>NEW SIGNALS</small></article>
-        <article><span>重大 / 高关注</span><strong id="metric-high">—</strong><small>PRIORITY</small></article>
-        <article><span>官方文件</span><strong id="metric-official">—</strong><small>PRIMARY SOURCES</small></article>
-        <article><span>覆盖国家/地区</span><strong id="metric-markets">—</strong><small>MARKETS</small></article>
+      <section class="metrics" aria-label="情报概览" data-i18n-aria-label="metricsAria">
+        <article><span data-i18n="metricNew">本次新增</span><strong id="metric-new">—</strong><small>NEW SIGNALS</small></article>
+        <article><span data-i18n="metricHigh">重大 / 高关注</span><strong id="metric-high">—</strong><small>PRIORITY</small></article>
+        <article><span data-i18n="metricOfficial">官方文件</span><strong id="metric-official">—</strong><small>PRIMARY SOURCES</small></article>
+        <article><span data-i18n="metricMarkets">覆盖国家/地区</span><strong id="metric-markets">—</strong><small>MARKETS</small></article>
       </section>
 
       <section class="briefing-grid" aria-label="重点情报与采集状态">
@@ -70,37 +92,37 @@
           <div class="loading-line short"></div>
         </article>
         <aside class="source-panel">
-          <div class="section-kicker"><span>采集状态</span><small>SOURCE HEALTH</small></div>
+          <div class="section-kicker"><span data-i18n="sourceHealth">采集状态</span><small>SOURCE HEALTH</small></div>
           <div id="source-list" class="source-list" aria-live="polite"></div>
-          <p class="source-note">单一来源异常不会中断整次更新，历史数据也不会被清空。</p>
+          <p class="source-note" data-i18n="sourceNote">单一来源异常不会中断整次更新，历史数据也不会被清空。</p>
         </aside>
       </section>
 
       <section class="intelligence" id="intelligence" aria-labelledby="intelligence-title">
         <div class="section-heading">
           <div>
-            <p class="eyebrow"><span>INTELLIGENCE FEED</span> 按重要性与时效排序</p>
-            <h2 id="intelligence-title">全部情报</h2>
+            <p class="eyebrow"><span>INTELLIGENCE FEED</span> <span class="eyebrow-copy" data-i18n="feedEyebrow">按重要性与时效排序</span></p>
+            <h2 id="intelligence-title" data-i18n="allIntelligence">全部情报</h2>
           </div>
-          <p id="result-count" aria-live="polite">正在加载…</p>
+          <p id="result-count" aria-live="polite" data-i18n="loadingShort">正在加载…</p>
         </div>
 
         <form class="filters" id="filters" role="search">
           <label class="search-field">
-            <span class="visually-hidden">搜索情报</span>
+            <span class="visually-hidden" data-i18n="searchLabel">搜索情报</span>
             <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.15a7.5 7.5 0 1 1-15 0 7.5 7.5 0 0 1 15 0Z" /></svg>
-            <input id="search" type="search" placeholder="搜索国家、产品、法规或企业…" autocomplete="off" />
+            <input id="search" type="search" placeholder="搜索国家、产品、法规或企业…" data-i18n-placeholder="searchPlaceholder" autocomplete="off" />
           </label>
           <label>
-            <span class="visually-hidden">类别</span>
+            <span class="visually-hidden" data-i18n="categoryLabel">类别</span>
             <select id="category"><option value="">全部类别</option></select>
           </label>
           <label>
-            <span class="visually-hidden">地区</span>
+            <span class="visually-hidden" data-i18n="regionLabel">地区</span>
             <select id="region"><option value="">全部地区</option></select>
           </label>
           <label>
-            <span class="visually-hidden">重要性</span>
+            <span class="visually-hidden" data-i18n="importanceLabel">重要性</span>
             <select id="importance">
               <option value="">全部级别</option>
               <option value="重大">重大</option>
@@ -112,41 +134,41 @@
           <label class="official-toggle">
             <input id="official-only" type="checkbox" />
             <span aria-hidden="true"></span>
-            仅看官方
+            <span data-i18n="officialOnly">仅看官方</span>
           </label>
-          <button id="reset" type="reset">清除筛选</button>
+          <button id="reset" type="reset" data-i18n="resetFilters">清除筛选</button>
         </form>
 
         <div class="active-filters" id="active-filters"></div>
         <div class="card-grid" id="card-grid" aria-live="polite"></div>
-        <button class="load-more" id="load-more" type="button" hidden>加载更多</button>
+        <button class="load-more" id="load-more" type="button" hidden data-i18n="loadMore">加载更多</button>
       </section>
 
       <section class="method" aria-label="看板方法说明">
         <div>
-          <p class="eyebrow"><span>METHODOLOGY</span> 从原文到业务判断</p>
-          <h2>法规优先，新闻补充，<br />每条都能回到原始来源。</h2>
+          <p class="eyebrow"><span>METHODOLOGY</span> <span class="eyebrow-copy" data-i18n="methodEyebrow">从原文到业务判断</span></p>
+          <h2 data-i18n-html="methodTitle">法规优先，新闻补充，<br />每条都能回到原始来源。</h2>
         </div>
         <ol>
-          <li><b>01</b><span><strong>采集</strong>官方公报、政府公告与全球新闻索引</span></li>
-          <li><b>02</b><span><strong>筛选</strong>中国主体、钢铁品种与普遍性钢铁政策</span></li>
-          <li><b>03</b><span><strong>研判</strong>中文摘要、状态、重要性与出口影响</span></li>
-          <li><b>04</b><span><strong>留痕</strong>去重归档，并保留原文链接供复核</span></li>
+          <li><b>01</b><span data-i18n-html="methodCollect"><strong>采集</strong>官方公报、政府公告与全球新闻索引</span></li>
+          <li><b>02</b><span data-i18n-html="methodFilter"><strong>筛选</strong>中国主体、钢铁品种与普遍性钢铁政策</span></li>
+          <li><b>03</b><span data-i18n-html="methodAnalyze"><strong>研判</strong>中文摘要、状态、重要性与出口影响</span></li>
+          <li><b>04</b><span data-i18n-html="methodTrace"><strong>留痕</strong>去重归档，并保留原文链接供复核</span></li>
         </ol>
       </section>
     </main>
 
     <footer>
       <div class="brand footer-brand"><span class="brand-mark" aria-hidden="true">钢</span><strong>STEELWATCH</strong></div>
-      <p>机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。</p>
-      <a href="https://github.com/Davidzhu511/china-steel-policy-watch" target="_blank" rel="noopener">查看 GitHub 项目</a>
+      <p data-i18n="disclaimer">机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。</p>
+      <a href="https://github.com/Davidzhu511/china-steel-policy-watch" target="_blank" rel="noopener" data-i18n="viewGithub">查看 GitHub 项目</a>
     </footer>
 
     <template id="empty-template">
       <div class="empty-state">
         <span>∅</span>
-        <h3>没有匹配的情报</h3>
-        <p>试试减少筛选条件或使用更短的关键词。</p>
+        <h3 data-i18n="emptyTitle">没有匹配的情报</h3>
+        <p data-i18n="emptyCopy">试试减少筛选条件或使用更短的关键词。</p>
       </div>
     </template>
     <script src="./app.js" defer></script>

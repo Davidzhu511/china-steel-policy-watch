@@ -25,3 +25,6 @@ def test_news_status_cannot_be_mislabelled_as_law():
     )
     assert result["status"] == "新闻"
     assert result["translation_state"] == "complete"
+    assert result["title_en"] == raw.title
+    assert result["summary_en"]
+    assert result["impact_en"]
