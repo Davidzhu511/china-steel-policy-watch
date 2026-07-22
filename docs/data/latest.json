@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T08:44:54Z",
+  "generated_at": "2026-07-22T09:30:52Z",
   "items": [
     {
       "id": "0af6ec2085b29588ce27",
@@ -179,7 +179,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T08:44:54Z",
+      "last_seen": "2026-07-22T09:30:52Z",
       "summary_en": "The U.S. Department of Commerce found that revoking the antidumping duty order on certain non-refillable steel cylinders from China could lead to the continuation or recurrence of dumping.",
       "products_en": [
         "steel cylinders"
@@ -223,7 +223,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T08:44:54Z",
+      "last_seen": "2026-07-22T09:30:52Z",
       "summary_en": "The U.S. Department of Commerce determined that Chinese exporters sold alloy and certain carbon steel threaded rods at prices below normal value during the review period.",
       "products_en": [
         "alloy steel threaded rods",
@@ -235,6 +235,51 @@
         "antidumping",
         "steel trade"
       ]
+    },
+    {
+      "id": "c86ac4237b31906d2d87",
+      "title_zh": "准备应对碳边界调整机制（CBAM）",
+      "title_en": "Prepare for the Carbon Border Adjustment Mechanism (CBAM)",
+      "title_original": "Prepare for the Carbon Border Adjustment Mechanism (CBAM)",
+      "summary_zh": "碳边界调整机制（CBAM）将于2027年1月1日生效，针对从铝、水泥、化肥、氢气和钢铁行业进口的特定商品征收税费。",
+      "summary_en": "The Carbon Border Adjustment Mechanism (CBAM) comes into effect on 1 January 2027, taxing specific goods imported from the aluminium, cement, fertiliser, hydrogen, and iron and steel sectors.",
+      "impact_zh": "这意味着中国钢铁出口商在进入英国市场时需考虑碳排放税的影响，可能增加成本和合规要求。",
+      "impact_en": "This means that Chinese steel exporters will need to consider the impact of carbon emissions taxes when entering the UK market, potentially increasing costs and compliance requirements.",
+      "url": "https://gov.uk/government/collections/carbon-border-adjustment-mechanism",
+      "published_at": "2026-07-16T12:18:07Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "CBAM",
+        "碳税",
+        "钢铁"
+      ],
+      "tags_en": [
+        "CBAM",
+        "carbon tax",
+        "steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z"
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -267,7 +312,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T08:44:54Z",
+      "last_seen": "2026-07-22T09:30:52Z",
       "summary_en": "The U.S. International Trade Court ruled on the results of the antidumping duty administrative review on certain steel racks from China, requiring a correction of the relevant dumping margins.",
       "products_en": [
         "steel racks"
@@ -278,6 +323,59 @@
         "antidumping",
         "steel trade"
       ]
+    },
+    {
+      "id": "84ad81da41d5b35580ec",
+      "title_zh": "碳边界调整机制（CBAM）证书的销售和回购",
+      "title_en": "Sale and repurchase of CBAM certificates",
+      "title_original": "Sale and repurchase of CBAM certificates",
+      "summary_zh": "该委托法将规定通过成员国和委员会之间的共同采购程序，在一个共同的中央平台上销售和回购碳边界调整机制（CBAM）证书的条件。",
+      "summary_en": "This Delegated Act will set out the conditions for the sale and re-purchase of carbon border adjustment mechanism (CBAM) certificates through a common central platform following a joint procurement procedure between Member States and the Commission.",
+      "impact_zh": "对中国钢厂/出口商意味着需要关注CBAM证书的销售和回购机制，以便在进入欧盟市场时符合相关规定。",
+      "impact_en": "For Chinese steel mills/exporters, this means they need to pay attention to the sale and repurchase mechanism of CBAM certificates to comply with regulations when entering the EU market.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14132-Sale-and-repurchase-of-CBAM-certificates_en",
+      "published_at": "2026-07-09T11:08:21Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢材",
+        "碳排放"
+      ],
+      "products_en": [
+        "Steel",
+        "Carbon Emissions"
+      ],
+      "tags": [
+        "CBAM",
+        "碳边界调整",
+        "证书"
+      ],
+      "tags_en": [
+        "CBAM",
+        "Carbon Border Adjustment",
+        "Certificates"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z",
+      "consultation": {
+        "status": "OPEN",
+        "stage": "ISC_WORKFLOW",
+        "opens_at": "2026-07-09T11:08:21Z",
+        "closes_at": "2026-08-06T23:59:59Z"
+      }
     },
     {
       "id": "1627d64054a754a91222",
@@ -310,7 +408,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T08:44:54Z",
+      "last_seen": "2026-07-22T09:30:52Z",
       "summary_en": "The U.S. Department of Commerce has initiated a circumvention inquiry on certain corrosion-resistant steel products from China to determine if they are circumventing duties through Thailand.",
       "products_en": [
         "corrosion-resistant steel products"
@@ -321,6 +419,514 @@
         "antidumping",
         "circumvention inquiry"
       ]
+    },
+    {
+      "id": "a89308deeadd1cb3632c",
+      "title_zh": "铁和钢产品的生态设计要求",
+      "title_en": "Ecodesign requirements for iron and steel products",
+      "title_original": "Ecodesign requirements for iron and steel products",
+      "summary_zh": "该提案旨在通过引入低碳要求，促进钢铁的可持续制造和使用，符合欧盟清洁工业协议和钢铁及金属行动计划。",
+      "summary_en": "The proposed Industrial Accelerator Act introduces low-carbon requirements for steel in public procurement and public support schemes, promoting sustainable manufacturing and use of steel.",
+      "impact_zh": "对中国钢厂/出口商意味着需要调整产品以符合欧盟的低碳和生态设计要求，可能影响其在欧盟市场的竞争力。",
+      "impact_en": "For Chinese steel mills/exporters, this means they need to adjust their products to meet the EU's low-carbon and ecodesign requirements, which may affect their competitiveness in the EU market.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/17672-Ecodesign-requirements-for-iron-and-steel-products_en",
+      "published_at": "2026-05-20T15:10:38Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢材"
+      ],
+      "products_en": [
+        "Steel"
+      ],
+      "tags": [
+        "生态设计",
+        "低碳",
+        "可持续发展"
+      ],
+      "tags_en": [
+        "Ecodesign",
+        "Low Carbon",
+        "Sustainability"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z",
+      "consultation": {
+        "status": "OPEN",
+        "stage": "PLANNING_WORKFLOW",
+        "opens_at": "2026-05-20T15:10:38Z",
+        "closes_at": "2026-08-12T23:59:59Z"
+      }
+    },
+    {
+      "id": "772ab1ff475709a8cfb7",
+      "title_zh": "第三国支付的碳价格与碳边界调整机制（CBAM）",
+      "title_en": "Carbon price paid in a third country under the carbon border adjustment mechanism (CBAM)",
+      "title_original": "Carbon price paid in a third country under the carbon border adjustment mechanism (CBAM)",
+      "summary_zh": "该倡议将规定将第三国实际支付的碳价格转换为相应数量的CBAM证书的规则，考虑到该国可用的任何补偿形式。",
+      "summary_en": "This initiative will set out rules for the conversion into a corresponding number of CBAM certificates of the carbon price effectively paid in a third country for the declared embedded emissions.",
+      "impact_zh": "对中国钢厂/出口商意味着需要关注第三国的碳价格及其对CBAM证书的影响，以便在出口时进行合规。",
+      "impact_en": "For Chinese steel mills/exporters, this means they need to pay attention to the carbon prices in third countries and their impact on CBAM certificates for compliance during exports.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14830-Carbon-price-paid-in-a-third-country-under-the-carbon-border-adjustment-mechanism-CBAM_en",
+      "published_at": "2026-05-13T13:24:00Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢材",
+        "碳排放"
+      ],
+      "products_en": [
+        "Steel",
+        "Carbon Emissions"
+      ],
+      "tags": [
+        "CBAM",
+        "碳价格",
+        "第三国"
+      ],
+      "tags_en": [
+        "CBAM",
+        "Carbon Price",
+        "Third Country"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z",
+      "consultation": {
+        "status": "CLOSED",
+        "stage": "ISC_WORKFLOW",
+        "opens_at": "2026-05-13T13:24:00Z",
+        "closes_at": "2026-06-10T23:59:59Z"
+      }
+    },
+    {
+      "id": "dcd96945d3d50b551870",
+      "title_zh": "调整CBAM证书以反映欧盟ETS免费分配的规则",
+      "title_en": "Rules on the adjustment of CBAM certificates to reflect the EU ETS free allocation",
+      "title_original": "Rules on the adjustment of CBAM certificates to reflect the EU ETS free allocation",
+      "summary_zh": "该倡议将使CBAM基准值与2026-2030年期间的最终ETS基准值保持一致，以确保CBAM在其最终阶段的正常运作。",
+      "summary_en": "This initiative will align the CBAM benchmark values in the implementing act with the final ETS benchmarks for the period 2026-2030.",
+      "impact_zh": "对中国钢厂/出口商意味着需要关注CBAM基准值的调整，以确保在进入欧盟市场时符合ETS的相关规定。",
+      "impact_en": "For Chinese steel mills/exporters, this means they need to pay attention to the adjustments of CBAM benchmark values to ensure compliance with ETS regulations when entering the EU market.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16933-Rules-on-the-adjustment-of-CBAM-certificates-to-reflect-the-EU-ETS-free-allocation_en",
+      "published_at": "2026-02-19T11:08:59Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢材",
+        "碳排放"
+      ],
+      "products_en": [
+        "Steel",
+        "Carbon Emissions"
+      ],
+      "tags": [
+        "CBAM",
+        "ETS",
+        "基准值"
+      ],
+      "tags_en": [
+        "CBAM",
+        "ETS",
+        "Benchmark Values"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z",
+      "consultation": {
+        "status": "DISABLED",
+        "stage": "INIT_PLANNED",
+        "opens_at": "2026-02-19T11:08:59Z"
+      }
+    },
+    {
+      "id": "e290e2a48385ffcb5632",
+      "title_zh": "CBAM声明",
+      "title_en": "CBAM declarations",
+      "title_original": "CBAM declarations",
+      "summary_zh": "根据CBAM法规第6(6)条，委员会有权制定关于CBAM声明的实施法，该法将规定CBAM声明的标准格式和提交程序。",
+      "summary_en": "Pursuant to Article 6(6) of the CBAM Regulation, the Commission is empowered to adopt implementing acts regarding the establishment of the CBAM declarations.",
+      "impact_zh": "对中国钢厂/出口商意味着需要了解CBAM声明的标准格式和提交程序，以确保在欧盟市场的合规性。",
+      "impact_en": "For Chinese steel mills/exporters, this means they need to understand the standard format and submission procedures for CBAM declarations to ensure compliance in the EU market.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16932-CBAM-declarations_en",
+      "published_at": "2026-02-19T11:08:31Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢材",
+        "碳排放"
+      ],
+      "products_en": [
+        "Steel",
+        "Carbon Emissions"
+      ],
+      "tags": [
+        "CBAM",
+        "声明",
+        "合规"
+      ],
+      "tags_en": [
+        "CBAM",
+        "Declarations",
+        "Compliance"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z",
+      "consultation": {
+        "status": "DISABLED",
+        "stage": "INIT_PLANNED",
+        "opens_at": "2026-02-19T11:08:31Z"
+      }
+    },
+    {
+      "id": "3985c9c4f3e21b7f2002",
+      "title_zh": "针对进入成员国专属经济区的货物的委员会实施条例",
+      "title_en": "Commission Implementing Regulation for goods brought to the exclusive economic zone of Member States",
+      "title_original": "Commission Implementing Regulation for goods brought to the exclusive economic zone of Member States",
+      "summary_zh": "该倡议将规定碳边界调整机制（CBAM）适用于非欧盟国家的货物的详细条件，包括提交CBAM声明的义务。",
+      "summary_en": "This initiative will set out detailed conditions for the application of a carbon border adjustment mechanism (CBAM) to goods originating in a non-EU country.",
+      "impact_zh": "对中国钢厂/出口商意味着需要了解CBAM的适用条件，以确保在进入欧盟市场时的合规性。",
+      "impact_en": "For Chinese steel mills/exporters, this means they need to understand the applicable conditions of CBAM to ensure compliance when entering the EU market.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14759-Commission-Implementing-Regulation-for-goods-brought-to-the-exclusive-economic-zone-of-Member-States_en",
+      "published_at": "2025-11-30T23:32:20Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢材",
+        "碳排放"
+      ],
+      "products_en": [
+        "Steel",
+        "Carbon Emissions"
+      ],
+      "tags": [
+        "CBAM",
+        "经济区",
+        "合规"
+      ],
+      "tags_en": [
+        "CBAM",
+        "Economic Zone",
+        "Compliance"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z",
+      "consultation": {
+        "status": "DISABLED",
+        "stage": "ADOPTION_WORKFLOW",
+        "opens_at": "2025-11-30T23:32:20Z"
+      }
+    },
+    {
+      "id": "8c106d9c1d94ad433e5f",
+      "title_zh": "CBAM目的的认证条件",
+      "title_en": "Conditions for granting accreditation for CBAM purposes",
+      "title_original": "Conditions for granting accreditation for CBAM purposes",
+      "summary_zh": "该倡议将规定国家认证机构授予申请人CBAM目的的认证的条件，以及对认证机构的控制和监督规则。",
+      "summary_en": "This initiative will set out the conditions for national accreditation bodies to grant requesting persons accreditation for CBAM purposes.",
+      "impact_zh": "对中国钢厂/出口商意味着需要关注CBAM认证的条件，以确保在进入欧盟市场时的合规性。",
+      "impact_en": "For Chinese steel mills/exporters, this means they need to pay attention to the conditions for CBAM accreditation to ensure compliance when entering the EU market.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14133-Conditions-for-granting-accreditation-for-CBAM-purposes_en",
+      "published_at": "2025-11-20T11:08:32Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢材",
+        "碳排放"
+      ],
+      "products_en": [
+        "Steel",
+        "Carbon Emissions"
+      ],
+      "tags": [
+        "CBAM",
+        "认证",
+        "合规"
+      ],
+      "tags_en": [
+        "CBAM",
+        "Accreditation",
+        "Compliance"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z",
+      "consultation": {
+        "status": "DISABLED",
+        "stage": "ADOPTION_WORKFLOW",
+        "opens_at": "2025-11-20T11:08:32Z"
+      }
+    },
+    {
+      "id": "9590e3c600410f1a3857",
+      "title_zh": "应对全球过剩产能对欧盟钢铁行业负面贸易影响的贸易措施",
+      "title_en": "Trade measure addressing the negative trade-related effects of global excess capacity on the EU steel sector",
+      "title_original": "Trade measure addressing the negative trade-related effects of global excess capacity on the EU steel sector",
+      "summary_zh": "该倡议旨在采取有效措施应对全球过剩产能对欧盟钢铁行业的负面贸易影响，并为维护欧盟强大和可持续的钢铁行业做出贡献。当前的保障措施将于2026年6月30日到期。",
+      "summary_en": "The initiative aims to have a highly effective measure to tackle the negative trade-related effects of global overcapacities and to contribute to preserving a strong and sustainable steel sector in the EU. The current safeguard measure will expire on June 30, 2026.",
+      "impact_zh": "此措施可能会影响中国钢铁产品在欧盟市场的准入，尤其是在全球过剩产能的背景下，可能导致更严格的贸易限制。",
+      "impact_en": "This measure may affect the access of Chinese steel products to the EU market, particularly in the context of global overcapacity, potentially leading to stricter trade restrictions.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14781-Trade-measure-addressing-the-negative-trade-related-effects-of-global-excess-capacity-on-the-EU-steel-sector_en",
+      "published_at": "2025-10-10T09:04:33Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "贸易措施",
+        "钢铁行业"
+      ],
+      "tags_en": [
+        "trade measures",
+        "steel sector"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z",
+      "consultation": {
+        "status": "CLOSED",
+        "stage": "ADOPTION_WORKFLOW",
+        "opens_at": "2025-10-10T09:04:33Z",
+        "closes_at": "2025-12-16T23:59:59Z"
+      }
+    },
+    {
+      "id": "cb6b28134f08b6aac626",
+      "title_zh": "碳边界调整机制（CBAM）最终期限的方法论",
+      "title_en": "Carbon border adjustment mechanism (CBAM) methodology for the definitive period",
+      "title_original": "Carbon border adjustment mechanism (CBAM) methodology for the definitive period",
+      "summary_zh": "该倡议将制定CBAM最终期限的方法论，详细说明基于实际排放的嵌入式排放计算，并制定间接排放计算方法的应用规则。",
+      "summary_en": "This initiative will lay down the methodology for the CBAM definitive period detailing the calculation of embedded emissions based on actual emissions and setting out rules on the application of the elements of the calculation methods for indirect emissions.",
+      "impact_zh": "此方法论将影响中国钢铁产品在欧盟市场的碳成本计算，可能导致额外的合规成本。",
+      "impact_en": "This methodology will affect the carbon cost calculations for Chinese steel products in the EU market, potentially leading to additional compliance costs.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14828-Carbon-border-adjustment-mechanism-CBAM-methodology-for-the-definitive-period_en",
+      "published_at": "2025-08-28T12:49:03Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "碳边界调整",
+        "环境政策"
+      ],
+      "tags_en": [
+        "carbon border adjustment",
+        "environmental policy"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z",
+      "consultation": {
+        "status": "CLOSED",
+        "stage": "PLANNING_WORKFLOW",
+        "opens_at": "2025-08-28T12:49:03Z",
+        "closes_at": "2025-09-25T23:59:59Z"
+      }
+    },
+    {
+      "id": "28702efce279b33d63d2",
+      "title_zh": "调整CBAM证书的交付义务以考虑ETS免费配额的逐步取消",
+      "title_en": "Adjustment of the obligation to surrender CBAM certificates to take account of ETS free allowances phase-out",
+      "title_original": "Adjustment of the obligation to surrender CBAM certificates to take account of ETS free allowances phase-out",
+      "summary_zh": "该倡议详细规定了如何调整CBAM证书的交付义务，以反映欧盟排放交易体系（ETS）免费配额的逐步取消。",
+      "summary_en": "This initiative down detailed rules on how carbon border adjustment mechanism (CBAM) certificates to be surrendered by authorised CBAM declarants shall be adjusted to reflect the extent to which EU emission trading schemes (ETS) allowances are allocated free of charge.",
+      "impact_zh": "此调整可能会影响中国钢铁产品的合规要求，增加进入欧盟市场的复杂性。",
+      "impact_en": "This adjustment may affect the compliance requirements for Chinese steel products, increasing the complexity of entering the EU market.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14829-Adjustment-of-the-obligation-to-surrender-CBAM-certificates-to-take-account-of-ETS-free-allowances-phase-out_en",
+      "published_at": "2025-08-28T12:48:32Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "碳边界调整",
+        "环境政策"
+      ],
+      "tags_en": [
+        "carbon border adjustment",
+        "environmental policy"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z",
+      "consultation": {
+        "status": "CLOSED",
+        "stage": "PLANNING_WORKFLOW",
+        "opens_at": "2025-08-28T12:48:32Z",
+        "closes_at": "2025-09-25T23:59:59Z"
+      }
+    },
+    {
+      "id": "ae6368902d8dfda17b80",
+      "title_zh": "将碳边界调整机制的范围扩展至下游产品及反规避措施",
+      "title_en": "Extension of the scope of the carbon border adjustment mechanism to downstream products and anti-circumvention measures",
+      "title_original": "Extension of the scope of the carbon border adjustment mechanism to downstream products and anti-circumvention measures",
+      "summary_zh": "该倡议旨在将碳边界调整机制（CBAM）的范围扩展至一些下游产品，以减少碳泄漏的风险。",
+      "summary_en": "The initiative aims at extending the carbon border adjustment mechanism (CBAM) scope to some downstream products to reduce the risk of carbon leakage.",
+      "impact_zh": "此扩展可能会影响中国钢铁产品的市场准入，特别是如果下游产品受到更严格的碳成本要求。",
+      "impact_en": "This extension may affect the market access of Chinese steel products, especially if downstream products are subject to stricter carbon cost requirements.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14748-Extension-of-the-scope-of-the-carbon-border-adjustment-mechanism-to-downstream-products-and-anti-circumvention-measures_en",
+      "published_at": "2025-07-01T11:34:05Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "碳边界调整",
+        "环境政策"
+      ],
+      "tags_en": [
+        "carbon border adjustment",
+        "environmental policy"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z",
+      "consultation": {
+        "status": "CLOSED",
+        "stage": "OPC_LAUNCHED",
+        "opens_at": "2025-07-01T11:34:05Z",
+        "closes_at": "2025-08-26T23:59:59Z"
+      }
     },
     {
       "id": "4b9bcf412439034e3050",
@@ -370,6 +976,325 @@
         "Japan",
         "Russia"
       ]
+    },
+    {
+      "id": "44116c2e9f27e21099d6",
+      "title_zh": "检查您是否需要为碳边界调整机制（CBAM）注册",
+      "title_en": "Check if you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
+      "title_original": "Check if you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
+      "summary_zh": "从2027年1月1日起，检查您在进口特定CBAM商品时是否需要注册。",
+      "summary_en": "Find out if you need to register for CBAM when you import selected CBAM goods from 1 January 2027.",
+      "impact_zh": "中国钢铁出口商需关注注册要求，以避免因未注册而面临罚款。",
+      "impact_en": "Chinese steel exporters need to pay attention to registration requirements to avoid penalties for non-registration.",
+      "url": "https://gov.uk/government/collections/check-if-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
+      "published_at": "2026-07-16T11:19:05Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "CBAM",
+        "注册",
+        "钢铁"
+      ],
+      "tags_en": [
+        "CBAM",
+        "registration",
+        "steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.8,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z"
+    },
+    {
+      "id": "836a42fee2c293533eec",
+      "title_zh": "碳边界调整机制（CBAM）：政策摘要",
+      "title_en": "Carbon border adjustment mechanism (CBAM): Policy summary",
+      "title_original": "Carbon border adjustment mechanism (CBAM): Policy summary",
+      "summary_zh": "该文件提供了CBAM政策的摘要，包括核心政策框架和相关立法细节。",
+      "summary_en": "This document provides a summary of CBAM policy, including the core policy framework and relevant legislative details.",
+      "impact_zh": "了解CBAM政策框架将帮助中国钢铁企业更好地应对未来的市场变化。",
+      "impact_en": "Understanding the CBAM policy framework will help Chinese steel companies better respond to future market changes.",
+      "url": "https://gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-policy-summary",
+      "published_at": "2026-07-16T08:16:54Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "CBAM",
+        "政策",
+        "钢铁"
+      ],
+      "tags_en": [
+        "CBAM",
+        "policy",
+        "steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.8,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z"
+    },
+    {
+      "id": "073a77450327b18b41b2",
+      "title_zh": "进口的碳边界调整（CBAM）商品可能不计入注册门槛",
+      "title_en": "Imported Carbon Border Adjustment (CBAM) goods that may not contribute towards the registration threshold",
+      "title_original": "Imported Carbon Border Adjustment (CBAM) goods that may not contribute towards the registration threshold",
+      "summary_zh": "了解哪些进口的CBAM商品可能不计入注册门槛，特别是英国原产的商品。",
+      "summary_en": "Find out which imported CBAM goods may not contribute towards the registration threshold, especially those of UK origin.",
+      "impact_zh": "中国钢铁出口商需关注原产地规则，以确保合规并优化成本。",
+      "impact_en": "Chinese steel exporters need to pay attention to origin rules to ensure compliance and optimize costs.",
+      "url": "https://gov.uk/guidance/imported-carbon-border-adjustment-cbam-goods-that-may-not-contribute-towards-the-registration-threshold",
+      "published_at": "2026-07-16T07:58:10Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "CBAM",
+        "注册门槛",
+        "钢铁"
+      ],
+      "tags_en": [
+        "CBAM",
+        "registration threshold",
+        "steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.8,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z"
+    },
+    {
+      "id": "fd024af001aadfbeded4",
+      "title_zh": "检查哪些商品在碳边界调整机制（CBAM）范围内",
+      "title_en": "Check which goods are in scope of Carbon Border Adjustment Mechanism (CBAM)",
+      "title_original": "Check which goods are in scope of Carbon Border Adjustment Mechanism (CBAM)",
+      "summary_zh": "检查从铝、水泥、化肥、氢气、钢铁行业进口的商品是否在CBAM税收范围内。",
+      "summary_en": "Check whether goods imported from the aluminium, cement, fertiliser, hydrogen, and steel sectors are in scope of the CBAM tax.",
+      "impact_zh": "中国钢铁出口商需确认其产品是否在CBAM范围内，以便进行适当的市场策略调整。",
+      "impact_en": "Chinese steel exporters need to confirm whether their products fall within the scope of CBAM to make appropriate market strategy adjustments.",
+      "url": "https://gov.uk/government/publications/check-which-goods-are-in-scope-of-carbon-border-adjustment-mechanism-cbam",
+      "published_at": "2026-07-16T07:56:24Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "CBAM",
+        "商品范围",
+        "钢铁"
+      ],
+      "tags_en": [
+        "CBAM",
+        "scope",
+        "steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.8,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z"
+    },
+    {
+      "id": "43d40bb9580e5f893122",
+      "title_zh": "为碳边界调整机制（CBAM）保留记录",
+      "title_en": "Keeping records for Carbon Border Adjustment Mechanism (CBAM)",
+      "title_original": "Keeping records for Carbon Border Adjustment Mechanism (CBAM)",
+      "summary_zh": "了解作为CBAM商品进口商需要保留的记录。",
+      "summary_en": "Find out which records you must keep if you're the importer of CBAM goods.",
+      "impact_zh": "中国钢铁出口商需建立完善的记录保存机制，以确保合规并避免潜在的罚款。",
+      "impact_en": "Chinese steel exporters need to establish a robust record-keeping mechanism to ensure compliance and avoid potential penalties.",
+      "url": "https://gov.uk/guidance/keeping-records-for-carbon-border-adjustment-mechanism-cbam",
+      "published_at": "2026-07-16T07:54:00Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "CBAM",
+        "记录保存",
+        "钢铁"
+      ],
+      "tags_en": [
+        "CBAM",
+        "record keeping",
+        "steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.8,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z"
+    },
+    {
+      "id": "97e800927deecb542fe6",
+      "title_zh": "碳边界调整机制：法律效力通知和参考文件",
+      "title_en": "Carbon Border Adjustment Mechanism: force of law notice and reference document",
+      "title_original": "Carbon Border Adjustment Mechanism: force of law notice and reference document",
+      "summary_zh": "了解碳边界调整机制的法律效力通知及相关参考文件。",
+      "summary_en": "Find out about the force of law notice for the Carbon Border Adjustment Mechanism and reference document.",
+      "impact_zh": "中国钢铁企业需关注法律效力的变化，以便及时调整合规策略。",
+      "impact_en": "Chinese steel companies need to pay attention to changes in legal force to adjust compliance strategies in a timely manner.",
+      "url": "https://gov.uk/government/publications/carbon-border-adjustment-mechanism-force-of-law-notice-and-reference-document",
+      "published_at": "2026-07-13T08:30:00Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "CBAM",
+        "法律效力",
+        "钢铁"
+      ],
+      "tags_en": [
+        "CBAM",
+        "legal force",
+        "steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.8,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z"
+    },
+    {
+      "id": "bfbddce9a303487810b2",
+      "title_zh": "救助与重组指南的修订",
+      "title_en": "Revision of the Rescue and Restructuring Guidelines",
+      "title_original": "Revision of the Rescue and Restructuring Guidelines",
+      "summary_zh": "欧洲委员会目前正在修订救助与重组（R&R）指南，旨在将钢铁行业纳入指南的适用范围。",
+      "summary_en": "The European Commission is currently revising the Rescue and Restructuring (R&R) Guidelines. The initiative seeks to include the steel sector in the material scope of the Guidelines.",
+      "impact_zh": "此修订可能为中国钢铁企业提供更多的国家援助机会，改善其在欧盟市场的竞争力。",
+      "impact_en": "This revision may provide more state aid opportunities for Chinese steel companies, improving their competitiveness in the EU market.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14722-Revision-of-the-Rescue-and-Restructuring-Guidelines_en",
+      "published_at": "2025-08-22T13:56:33Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "救助与重组",
+        "钢铁行业"
+      ],
+      "tags_en": [
+        "rescue and restructuring",
+        "steel sector"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.8,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z",
+      "consultation": {
+        "status": "CLOSED",
+        "stage": "OPC_LAUNCHED",
+        "opens_at": "2025-08-22T13:56:33Z",
+        "closes_at": "2025-11-14T23:59:59Z"
+      }
     },
     {
       "id": "6d54afb9276a826d4519",
@@ -513,6 +1438,51 @@
         "Compensation",
         "Investment Arbitration"
       ]
+    },
+    {
+      "id": "9daf07563c5363d89397",
+      "title_zh": "来自中国的某些活性炭：反倾销税行政审查的初步结果及部分撤销",
+      "title_en": "Certain Activated Carbon From the People's Republic of China: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
+      "title_original": "Certain Activated Carbon From the People's Republic of China: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
+      "summary_zh": "美国商务部初步确定，部分中国企业在审查期间以低于正常价值销售活性炭。",
+      "summary_en": "The U.S. Department of Commerce preliminarily determines that certain Chinese companies sold activated carbon at less than normal value during the review period.",
+      "impact_zh": "这可能影响中国活性炭的出口策略，但与钢铁行业直接关联不大。",
+      "impact_en": "This may affect the export strategy for Chinese activated carbon, but it is not directly related to the steel industry.",
+      "url": "https://federalregister.gov/documents/2026/07/13/2026-14028/certain-activated-carbon-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in",
+      "published_at": "2026-07-13T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "低",
+      "products": [
+        "活性炭"
+      ],
+      "products_en": [
+        "activated carbon"
+      ],
+      "tags": [
+        "反倾销",
+        "中国",
+        "活性炭"
+      ],
+      "tags_en": [
+        "antidumping",
+        "China",
+        "activated carbon"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.7,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-22T09:30:52Z"
     }
   ]
 }
