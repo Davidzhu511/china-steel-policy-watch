@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T09:30:52Z",
+  "generated_at": "2026-07-23T08:02:57Z",
   "items": [
     {
       "id": "0af6ec2085b29588ce27",
@@ -104,6 +104,51 @@
       ]
     },
     {
+      "id": "20d3e180e7cd975040fa",
+      "title_zh": "英国自2026年7月1日起的钢铁贸易措施",
+      "title_en": "UK's steel trade measure from 1 July 2026",
+      "title_original": "UK's steel trade measure from 1 July 2026",
+      "summary_zh": "英国政府宣布自2026年7月1日起实施新的钢铁贸易措施，限制免税钢铁进口配额，整体配额量较钢铁保障措施减少51%。超出配额的进口将面临50%的关税。",
+      "summary_en": "The UK government announced a new steel trade measure effective from 1 July 2026, limiting tariff-free steel import quota volumes by 51% compared to the steel safeguard measure. Imports exceeding these quotas will face a 50% tariff.",
+      "impact_zh": "这一措施将显著影响中国钢材出口到英国的机会，尤其是对那些能够在英国生产的钢铁产品，可能导致出口成本增加。",
+      "impact_en": "This measure will significantly impact the opportunities for Chinese steel exports to the UK, particularly for steel products that can also be produced in the UK, potentially increasing export costs.",
+      "url": "https://gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026",
+      "published_at": "2026-07-22T12:29:52Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "重大",
+      "products": [
+        "钢铁产品"
+      ],
+      "products_en": [
+        "steel products"
+      ],
+      "tags": [
+        "贸易",
+        "关税",
+        "配额"
+      ],
+      "tags_en": [
+        "trade",
+        "tariff",
+        "quota"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-23T08:02:57Z"
+    },
+    {
       "id": "f0e64ceb0a997cd17404",
       "title_zh": "英国自2026年7月起收紧钢铁进口配额并将配额外税率提高至50%",
       "title_original": "UK's steel trade measure from 1 July 2026",
@@ -179,7 +224,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "summary_en": "The U.S. Department of Commerce found that revoking the antidumping duty order on certain non-refillable steel cylinders from China could lead to the continuation or recurrence of dumping.",
       "products_en": [
         "steel cylinders"
@@ -223,7 +268,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "summary_en": "The U.S. Department of Commerce determined that Chinese exporters sold alloy and certain carbon steel threaded rods at prices below normal value during the review period.",
       "products_en": [
         "alloy steel threaded rods",
@@ -279,7 +324,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z"
+      "last_seen": "2026-07-23T08:02:57Z"
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -312,7 +357,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "summary_en": "The U.S. International Trade Court ruled on the results of the antidumping duty administrative review on certain steel racks from China, requiring a correction of the relevant dumping margins.",
       "products_en": [
         "steel racks"
@@ -369,7 +414,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "consultation": {
         "status": "OPEN",
         "stage": "ISC_WORKFLOW",
@@ -408,7 +453,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "summary_en": "The U.S. Department of Commerce has initiated a circumvention inquiry on certain corrosion-resistant steel products from China to determine if they are circumventing duties through Thailand.",
       "products_en": [
         "corrosion-resistant steel products"
@@ -463,7 +508,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "consultation": {
         "status": "OPEN",
         "stage": "PLANNING_WORKFLOW",
@@ -516,7 +561,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -569,7 +614,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -621,7 +666,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -673,7 +718,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -725,7 +770,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -773,7 +818,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -822,7 +867,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -871,7 +916,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -920,7 +965,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1020,7 +1065,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z"
+      "last_seen": "2026-07-23T08:02:57Z"
     },
     {
       "id": "836a42fee2c293533eec",
@@ -1065,7 +1110,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z"
+      "last_seen": "2026-07-23T08:02:57Z"
     },
     {
       "id": "073a77450327b18b41b2",
@@ -1110,7 +1155,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z"
+      "last_seen": "2026-07-23T08:02:57Z"
     },
     {
       "id": "fd024af001aadfbeded4",
@@ -1155,7 +1200,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z"
+      "last_seen": "2026-07-23T08:02:57Z"
     },
     {
       "id": "43d40bb9580e5f893122",
@@ -1200,7 +1245,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z"
+      "last_seen": "2026-07-23T08:02:57Z"
     },
     {
       "id": "97e800927deecb542fe6",
@@ -1245,7 +1290,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z"
+      "last_seen": "2026-07-23T08:02:57Z"
     },
     {
       "id": "bfbddce9a303487810b2",
@@ -1288,7 +1333,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-23T08:02:57Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1482,7 +1527,7 @@
       "confidence": 0.7,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-22T09:30:52Z"
+      "last_seen": "2026-07-23T08:02:57Z"
     }
   ]
 }
