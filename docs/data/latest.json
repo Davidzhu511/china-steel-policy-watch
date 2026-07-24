@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:02:57Z",
+  "generated_at": "2026-07-24T07:59:09Z",
   "items": [
     {
       "id": "0af6ec2085b29588ce27",
@@ -146,7 +146,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-23T08:02:57Z",
-      "last_seen": "2026-07-23T08:02:57Z"
+      "last_seen": "2026-07-24T07:59:09Z"
     },
     {
       "id": "f0e64ceb0a997cd17404",
@@ -224,7 +224,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "summary_en": "The U.S. Department of Commerce found that revoking the antidumping duty order on certain non-refillable steel cylinders from China could lead to the continuation or recurrence of dumping.",
       "products_en": [
         "steel cylinders"
@@ -268,7 +268,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "summary_en": "The U.S. Department of Commerce determined that Chinese exporters sold alloy and certain carbon steel threaded rods at prices below normal value during the review period.",
       "products_en": [
         "alloy steel threaded rods",
@@ -324,7 +324,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z"
+      "last_seen": "2026-07-24T07:59:09Z"
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -357,7 +357,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "summary_en": "The U.S. International Trade Court ruled on the results of the antidumping duty administrative review on certain steel racks from China, requiring a correction of the relevant dumping margins.",
       "products_en": [
         "steel racks"
@@ -414,7 +414,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "consultation": {
         "status": "OPEN",
         "stage": "ISC_WORKFLOW",
@@ -453,7 +453,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "summary_en": "The U.S. Department of Commerce has initiated a circumvention inquiry on certain corrosion-resistant steel products from China to determine if they are circumventing duties through Thailand.",
       "products_en": [
         "corrosion-resistant steel products"
@@ -508,7 +508,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "consultation": {
         "status": "OPEN",
         "stage": "PLANNING_WORKFLOW",
@@ -561,7 +561,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -614,7 +614,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -666,11 +666,60 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
         "opens_at": "2026-02-19T11:08:31Z"
+      }
+    },
+    {
+      "id": "06d1b50c14fe47ff7185",
+      "title_zh": "欧盟铝行业 - 贸易措施以确保铝废料在欧盟市场的充足供应",
+      "title_en": "EU aluminium sector – trade measure to ensure sufficient availability of aluminium scrap on the EU market",
+      "title_original": "EU aluminium sector – trade measure to ensure sufficient availability of aluminium scrap on the EU market",
+      "summary_zh": "该倡议旨在解决铝行业二次原材料供应不足和价格高昂的问题。提案实施了委员会在2025年3月通过的钢铁和金属行动计划中承诺考虑对铝废料出口的贸易措施。",
+      "summary_en": "The initiative is aimed to address the problem of insufficient availability and affordability of secondary raw materials for the aluminium sector. The proposal implements the Commission’s commitment to consider trade measures on exports of aluminium scrap as stated in the Steel and Metals Action Plan adopted in March 2025.",
+      "impact_zh": "对中国铝材出口商而言，欧盟可能实施的铝废料出口贸易措施将影响其在欧盟市场的竞争力，需关注后续政策动向。",
+      "impact_en": "For Chinese aluminium exporters, the potential trade measures on aluminium scrap exports by the EU could affect their competitiveness in the EU market, necessitating close attention to subsequent policy developments.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16192-EU-aluminium-sector-trade-measure-to-ensure-sufficient-availability-of-aluminium-scrap-on-the-EU-market_en",
+      "published_at": "2025-12-19T17:32:00Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "铝废料"
+      ],
+      "products_en": [
+        "aluminium scrap"
+      ],
+      "tags": [
+        "贸易措施",
+        "铝行业"
+      ],
+      "tags_en": [
+        "trade measures",
+        "aluminium sector"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-24T07:59:09Z",
+      "consultation": {
+        "status": "CLOSED",
+        "stage": "PLANNING_WORKFLOW",
+        "opens_at": "2025-12-19T17:32:00Z",
+        "closes_at": "2026-01-31T23:59:59Z"
       }
     },
     {
@@ -718,7 +767,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -770,7 +819,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -818,7 +867,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -867,7 +916,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -916,7 +965,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -965,7 +1014,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1065,7 +1114,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z"
+      "last_seen": "2026-07-24T07:59:09Z"
     },
     {
       "id": "836a42fee2c293533eec",
@@ -1110,7 +1159,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z"
+      "last_seen": "2026-07-24T07:59:09Z"
     },
     {
       "id": "073a77450327b18b41b2",
@@ -1155,7 +1204,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z"
+      "last_seen": "2026-07-24T07:59:09Z"
     },
     {
       "id": "fd024af001aadfbeded4",
@@ -1200,7 +1249,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z"
+      "last_seen": "2026-07-24T07:59:09Z"
     },
     {
       "id": "43d40bb9580e5f893122",
@@ -1245,7 +1294,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z"
+      "last_seen": "2026-07-24T07:59:09Z"
     },
     {
       "id": "97e800927deecb542fe6",
@@ -1290,7 +1339,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z"
+      "last_seen": "2026-07-24T07:59:09Z"
     },
     {
       "id": "bfbddce9a303487810b2",
@@ -1333,7 +1382,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z",
+      "last_seen": "2026-07-24T07:59:09Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1527,7 +1576,7 @@
       "confidence": 0.7,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-23T08:02:57Z"
+      "last_seen": "2026-07-24T07:59:09Z"
     }
   ]
 }
