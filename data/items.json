@@ -1,8 +1,98 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-24T07:59:09Z",
+  "generated_at": "2026-07-25T07:44:21Z",
   "disclaimer": "机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。",
   "items": [
+    {
+      "id": "2b0c21b04598f5616ca4",
+      "title_zh": "2026年7月23日委员会实施条例（EU）2026/1785，修订实施条例（EU）2022/191，对来自中国的某些铁或钢紧固件征收最终反倾销税",
+      "title_en": "Commission Implementing Regulation (EU) 2026/1785 of 23 July 2026 amending Implementing Regulation (EU) 2022/191 imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the P…",
+      "title_original": "Commission Implementing Regulation (EU) 2026/1785 of 23 July 2026 amending Implementing Regulation (EU) 2022/191 imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the People’s Republic of China following acceptance of a request for new exporting producer treatment",
+      "summary_zh": "该条例修订了对来自中国的某些铁或钢紧固件的最终反倾销税，涉及新的出口生产商待遇的请求。",
+      "summary_en": "This regulation amends the definitive anti-dumping duty on imports of certain iron or steel fasteners from China, following the acceptance of a request for new exporting producer treatment.",
+      "impact_zh": "对中国钢铁出口商而言，此条例可能影响其在欧盟市场的竞争力，尤其是针对特定产品的出口。",
+      "impact_en": "For Chinese steel exporters, this regulation may affect their competitiveness in the EU market, particularly for specific products.",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601785",
+      "published_at": "2026-07-24T00:00:00Z",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "中国",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "重大",
+      "products": [
+        "铁紧固件",
+        "钢紧固件"
+      ],
+      "products_en": [
+        "iron fasteners",
+        "steel fasteners"
+      ],
+      "tags": [
+        "反倾销",
+        "贸易政策"
+      ],
+      "tags_en": [
+        "anti-dumping",
+        "trade policy"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-25T07:44:21Z"
+    },
+    {
+      "id": "77b270043f46b8932b34",
+      "title_zh": "2026年7月23日委员会实施条例（EU）2026/1788，修订实施条例（EU）2022/191，对来自中国的某些铁或钢紧固件征收最终反倾销税",
+      "title_en": "Commission Implementing Regulation (EU) 2026/1788 of 23 July 2026 amending Implementing Regulation (EU) 2022/191 imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the P…",
+      "title_original": "Commission Implementing Regulation (EU) 2026/1788 of 23 July 2026 amending Implementing Regulation (EU) 2022/191 imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the People’s Republic of China",
+      "summary_zh": "该条例对来自中国的某些铁或钢紧固件征收最终反倾销税，进一步加强了对中国钢铁产品的贸易限制。",
+      "summary_en": "This regulation imposes a definitive anti-dumping duty on imports of certain iron or steel fasteners from China, further tightening trade restrictions on Chinese steel products.",
+      "impact_zh": "此条例将加大中国钢铁出口商在欧盟市场的贸易壁垒，可能导致出口量下降。",
+      "impact_en": "This regulation will increase trade barriers for Chinese steel exporters in the EU market, potentially leading to a decrease in export volumes.",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601788",
+      "published_at": "2026-07-24T00:00:00Z",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "中国",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "重大",
+      "products": [
+        "铁紧固件",
+        "钢紧固件"
+      ],
+      "products_en": [
+        "iron fasteners",
+        "steel fasteners"
+      ],
+      "tags": [
+        "反倾销",
+        "贸易政策"
+      ],
+      "tags_en": [
+        "anti-dumping",
+        "trade policy"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-25T07:44:21Z"
+    },
     {
       "id": "0af6ec2085b29588ce27",
       "title_zh": "欧盟公布新钢铁配额的国别分配与管理办法",
@@ -148,7 +238,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-23T08:02:57Z",
-      "last_seen": "2026-07-24T07:59:09Z"
+      "last_seen": "2026-07-25T07:44:21Z"
     },
     {
       "id": "f0e64ceb0a997cd17404",
@@ -196,6 +286,51 @@
       ]
     },
     {
+      "id": "6b1cef4aebfcbba407b5",
+      "title_zh": "案件C-889/24，DELVE 2：2026年5月21日法院（第二庭）判决（拉脱维亚行政区法院的初步裁决请求）",
+      "title_en": "Case C-889/24, Delve 2: Judgment of the Court (Second Chamber) of 21 May 2026 (request for a preliminary ruling from the Administratīvā rajona tiesa – Latvia)",
+      "title_original": "Case C-889/24, Delve 2: Judgment of the Court (Second Chamber) of 21 May 2026 (request for a preliminary ruling from the Administratīvā rajona tiesa – Latvia) – DELVE 2 SIA v Valsts ieņēmumu dienests (Reference for a preliminary ruling – Customs union – Implementing Regulation (EU) 2022/191 – Imposition of a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the People’s Republic of China – Article 1(3) – Customs declaration – Application for amendment – Presentation by the importer, after making the customs declaration, of a commercial invoice meeting the requirements of that provision)",
+      "summary_zh": "该判决涉及对来自中国的某些铁或钢紧固件的最终反倾销税的实施，涉及海关申报和商业发票的要求。",
+      "summary_en": "This judgment concerns the implementation of the definitive anti-dumping duty on imports of certain iron or steel fasteners from China, addressing customs declaration and commercial invoice requirements.",
+      "impact_zh": "此判决可能影响中国出口商的海关申报流程，增加合规成本。",
+      "impact_en": "This judgment may affect the customs declaration processes for Chinese exporters, increasing compliance costs.",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AC_202603630",
+      "published_at": "2026-07-20T00:00:00Z",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "中国",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "铁紧固件",
+        "钢紧固件"
+      ],
+      "products_en": [
+        "iron fasteners",
+        "steel fasteners"
+      ],
+      "tags": [
+        "反倾销",
+        "海关"
+      ],
+      "tags_en": [
+        "anti-dumping",
+        "customs"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.8,
+      "translation_state": "complete",
+      "first_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-25T07:44:21Z"
+    },
+    {
       "id": "0106a4a8c5b36465b09d",
       "title_zh": "中国某些不可重复使用钢气瓶的反倾销税令的加速首次日落审查最终结果",
       "title_original": "Certain Non-Refillable Steel Cylinders From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Antidumping Duty Order",
@@ -226,7 +361,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "summary_en": "The U.S. Department of Commerce found that revoking the antidumping duty order on certain non-refillable steel cylinders from China could lead to the continuation or recurrence of dumping.",
       "products_en": [
         "steel cylinders"
@@ -270,7 +405,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "summary_en": "The U.S. Department of Commerce determined that Chinese exporters sold alloy and certain carbon steel threaded rods at prices below normal value during the review period.",
       "products_en": [
         "alloy steel threaded rods",
@@ -326,7 +461,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z"
+      "last_seen": "2026-07-25T07:44:21Z"
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -359,7 +494,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "summary_en": "The U.S. International Trade Court ruled on the results of the antidumping duty administrative review on certain steel racks from China, requiring a correction of the relevant dumping margins.",
       "products_en": [
         "steel racks"
@@ -416,7 +551,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "consultation": {
         "status": "OPEN",
         "stage": "ISC_WORKFLOW",
@@ -455,7 +590,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "summary_en": "The U.S. Department of Commerce has initiated a circumvention inquiry on certain corrosion-resistant steel products from China to determine if they are circumventing duties through Thailand.",
       "products_en": [
         "corrosion-resistant steel products"
@@ -510,7 +645,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "consultation": {
         "status": "OPEN",
         "stage": "PLANNING_WORKFLOW",
@@ -563,7 +698,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -616,7 +751,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -668,7 +803,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -716,7 +851,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -769,7 +904,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -821,7 +956,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -869,7 +1004,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -918,7 +1053,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -967,7 +1102,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1016,7 +1151,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1116,7 +1251,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z"
+      "last_seen": "2026-07-25T07:44:21Z"
     },
     {
       "id": "836a42fee2c293533eec",
@@ -1161,7 +1296,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z"
+      "last_seen": "2026-07-25T07:44:21Z"
     },
     {
       "id": "073a77450327b18b41b2",
@@ -1206,7 +1341,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z"
+      "last_seen": "2026-07-25T07:44:21Z"
     },
     {
       "id": "fd024af001aadfbeded4",
@@ -1251,7 +1386,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z"
+      "last_seen": "2026-07-25T07:44:21Z"
     },
     {
       "id": "43d40bb9580e5f893122",
@@ -1296,7 +1431,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z"
+      "last_seen": "2026-07-25T07:44:21Z"
     },
     {
       "id": "97e800927deecb542fe6",
@@ -1384,7 +1519,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z",
+      "last_seen": "2026-07-25T07:44:21Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1578,7 +1713,7 @@
       "confidence": 0.7,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z"
+      "last_seen": "2026-07-25T07:44:21Z"
     }
   ]
 }
