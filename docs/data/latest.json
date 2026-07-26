@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T07:44:21Z",
+  "generated_at": "2026-07-26T07:58:19Z",
   "items": [
     {
       "id": "2b0c21b04598f5616ca4",
@@ -236,7 +236,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-23T08:02:57Z",
-      "last_seen": "2026-07-25T07:44:21Z"
+      "last_seen": "2026-07-26T07:58:19Z"
     },
     {
       "id": "f0e64ceb0a997cd17404",
@@ -359,7 +359,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "summary_en": "The U.S. Department of Commerce found that revoking the antidumping duty order on certain non-refillable steel cylinders from China could lead to the continuation or recurrence of dumping.",
       "products_en": [
         "steel cylinders"
@@ -403,7 +403,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "summary_en": "The U.S. Department of Commerce determined that Chinese exporters sold alloy and certain carbon steel threaded rods at prices below normal value during the review period.",
       "products_en": [
         "alloy steel threaded rods",
@@ -459,7 +459,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z"
+      "last_seen": "2026-07-26T07:58:19Z"
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -492,7 +492,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "summary_en": "The U.S. International Trade Court ruled on the results of the antidumping duty administrative review on certain steel racks from China, requiring a correction of the relevant dumping margins.",
       "products_en": [
         "steel racks"
@@ -549,7 +549,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "consultation": {
         "status": "OPEN",
         "stage": "ISC_WORKFLOW",
@@ -588,7 +588,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "summary_en": "The U.S. Department of Commerce has initiated a circumvention inquiry on certain corrosion-resistant steel products from China to determine if they are circumventing duties through Thailand.",
       "products_en": [
         "corrosion-resistant steel products"
@@ -643,7 +643,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "consultation": {
         "status": "OPEN",
         "stage": "PLANNING_WORKFLOW",
@@ -696,7 +696,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -749,7 +749,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -801,7 +801,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -849,7 +849,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -902,7 +902,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -954,7 +954,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1002,12 +1002,62 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
         "opens_at": "2025-10-10T09:04:33Z",
         "closes_at": "2025-12-16T23:59:59Z"
+      }
+    },
+    {
+      "id": "5d78fcb723a8d09b9639",
+      "title_zh": "CBAM登记实施法案的修订",
+      "title_en": "Amendment of the Implementing Act on the CBAM Registry",
+      "title_original": "Amendment of the Implementing Act on the CBAM Registry",
+      "summary_zh": "欧盟委员会正在进行关于CBAM登记实施法案的修订。",
+      "summary_en": "The European Commission is conducting a revision of the Implementing Act on the CBAM Registry.",
+      "impact_zh": "这可能影响中国钢铁产品在欧盟市场的准入条件，需密切关注修订进展。",
+      "impact_en": "This may affect the access conditions for Chinese steel products in the EU market, requiring close monitoring of the revision progress.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15132-Amendment-of-the-Implementing-Act-on-the-CBAM-Registry_en",
+      "published_at": "2025-10-09T09:56:00Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "CBAM",
+        "法规",
+        "欧盟"
+      ],
+      "tags_en": [
+        "CBAM",
+        "regulation",
+        "EU"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-26T07:58:19Z",
+      "last_seen": "2026-07-26T07:58:19Z",
+      "consultation": {
+        "status": "DISABLED",
+        "stage": "INIT_PLANNED",
+        "opens_at": "2025-10-09T09:56:00Z"
       }
     },
     {
@@ -1051,7 +1101,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1100,7 +1150,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1149,12 +1199,112 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
         "opens_at": "2025-07-01T11:34:05Z",
         "closes_at": "2025-08-26T23:59:59Z"
+      }
+    },
+    {
+      "id": "bf1f4283fdbd923bc914",
+      "title_zh": "CBAM申报人的授权",
+      "title_en": "Authorisation of CBAM declarants",
+      "title_original": "Authorisation of CBAM declarants",
+      "summary_zh": "该倡议将规定CBAM申报人的授权程序和条件。",
+      "summary_en": "This initiative will set out the procedures and conditions for the authorisation of CBAM declarants.",
+      "impact_zh": "这将影响中国钢铁出口商在欧盟的申报流程和合规要求。",
+      "impact_en": "This will affect the declaration process and compliance requirements for Chinese steel exporters in the EU.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14116-Authorisation-of-CBAM-declarants_en",
+      "published_at": "2025-03-28T08:24:00Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "CBAM",
+        "申报",
+        "授权"
+      ],
+      "tags_en": [
+        "CBAM",
+        "declaration",
+        "authorisation"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.85,
+      "translation_state": "complete",
+      "first_seen": "2026-07-26T07:58:19Z",
+      "last_seen": "2026-07-26T07:58:19Z",
+      "consultation": {
+        "status": "DISABLED",
+        "stage": "ADOPTION_WORKFLOW",
+        "opens_at": "2025-03-28T08:24:00Z"
+      }
+    },
+    {
+      "id": "3ed9d56373941dfe8b99",
+      "title_zh": "CBAM登记的建立",
+      "title_en": "Establishment of the CBAM Registry",
+      "title_original": "Establishment of the CBAM Registry",
+      "summary_zh": "欧盟委员会正在建立CBAM登记。",
+      "summary_en": "The European Commission is establishing the CBAM Registry.",
+      "impact_zh": "CBAM登记的建立将直接影响中国钢铁产品的市场准入和合规性。",
+      "impact_en": "The establishment of the CBAM Registry will directly impact the market access and compliance of Chinese steel products.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14117-Establishment-of-the-CBAM-Registry_en",
+      "published_at": "2025-01-03T14:48:10Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "高",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "CBAM",
+        "登记",
+        "合规"
+      ],
+      "tags_en": [
+        "CBAM",
+        "registry",
+        "compliance"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.9,
+      "translation_state": "complete",
+      "first_seen": "2026-07-26T07:58:19Z",
+      "last_seen": "2026-07-26T07:58:19Z",
+      "consultation": {
+        "status": "DISABLED",
+        "stage": "ADOPTION_WORKFLOW",
+        "opens_at": "2025-01-03T14:48:10Z"
       }
     },
     {
@@ -1249,7 +1399,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z"
+      "last_seen": "2026-07-26T07:58:19Z"
     },
     {
       "id": "836a42fee2c293533eec",
@@ -1294,7 +1444,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z"
+      "last_seen": "2026-07-26T07:58:19Z"
     },
     {
       "id": "073a77450327b18b41b2",
@@ -1339,7 +1489,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z"
+      "last_seen": "2026-07-26T07:58:19Z"
     },
     {
       "id": "fd024af001aadfbeded4",
@@ -1384,7 +1534,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z"
+      "last_seen": "2026-07-26T07:58:19Z"
     },
     {
       "id": "43d40bb9580e5f893122",
@@ -1429,7 +1579,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z"
+      "last_seen": "2026-07-26T07:58:19Z"
     },
     {
       "id": "97e800927deecb542fe6",
@@ -1477,6 +1627,56 @@
       "last_seen": "2026-07-24T07:59:09Z"
     },
     {
+      "id": "46c7acfed4758beaf669",
+      "title_zh": "RoHS下铅作为钢铁、铝和铜合金元素的豁免",
+      "title_en": "Exemptions under RoHS for lead as an alloying element in steel, aluminium and copper",
+      "title_original": "Exemptions under RoHS for lead as an alloying element in steel, aluminium and copper",
+      "summary_zh": "欧盟正在评估关于铅作为合金元素在钢铁、铝和铜中的豁免申请。",
+      "summary_en": "The EU is assessing exemption requests for lead as an alloying element in steel, aluminium, and copper.",
+      "impact_zh": "若豁免获得批准，可能会影响相关钢铁产品的生产和出口标准。",
+      "impact_en": "If the exemption is approved, it may affect the production and export standards of related steel products.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14172-Exemptions-under-RoHS-for-lead-as-an-alloying-element-in-steel-aluminium-and-copper_en",
+      "published_at": "2025-09-08T12:08:42Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "RoHS",
+        "铅",
+        "合金"
+      ],
+      "tags_en": [
+        "RoHS",
+        "lead",
+        "alloy"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.8,
+      "translation_state": "complete",
+      "first_seen": "2026-07-26T07:58:19Z",
+      "last_seen": "2026-07-26T07:58:19Z",
+      "consultation": {
+        "status": "DISABLED",
+        "stage": "ADOPTION_WORKFLOW",
+        "opens_at": "2025-09-08T12:08:42Z"
+      }
+    },
+    {
       "id": "bfbddce9a303487810b2",
       "title_zh": "救助与重组指南的修订",
       "title_en": "Revision of the Rescue and Restructuring Guidelines",
@@ -1517,7 +1717,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z",
+      "last_seen": "2026-07-26T07:58:19Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1711,7 +1911,7 @@
       "confidence": 0.7,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-25T07:44:21Z"
+      "last_seen": "2026-07-26T07:58:19Z"
     }
   ]
 }
