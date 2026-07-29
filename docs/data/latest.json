@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T08:07:26Z",
+  "generated_at": "2026-07-29T08:11:25Z",
   "items": [
     {
       "id": "2b0c21b04598f5616ca4",
@@ -236,7 +236,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-23T08:02:57Z",
-      "last_seen": "2026-07-28T08:07:26Z"
+      "last_seen": "2026-07-29T08:11:25Z"
     },
     {
       "id": "f0e64ceb0a997cd17404",
@@ -359,7 +359,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "summary_en": "The U.S. Department of Commerce found that revoking the antidumping duty order on certain non-refillable steel cylinders from China could lead to the continuation or recurrence of dumping.",
       "products_en": [
         "steel cylinders"
@@ -403,7 +403,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "summary_en": "The U.S. Department of Commerce determined that Chinese exporters sold alloy and certain carbon steel threaded rods at prices below normal value during the review period.",
       "products_en": [
         "alloy steel threaded rods",
@@ -459,7 +459,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z"
+      "last_seen": "2026-07-29T08:11:25Z"
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -492,7 +492,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "summary_en": "The U.S. International Trade Court ruled on the results of the antidumping duty administrative review on certain steel racks from China, requiring a correction of the relevant dumping margins.",
       "products_en": [
         "steel racks"
@@ -549,7 +549,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "OPEN",
         "stage": "ISC_WORKFLOW",
@@ -643,7 +643,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "OPEN",
         "stage": "PLANNING_WORKFLOW",
@@ -696,7 +696,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -749,7 +749,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -801,7 +801,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -849,7 +849,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -902,7 +902,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -954,7 +954,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1002,7 +1002,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1053,7 +1053,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1101,7 +1101,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1150,7 +1150,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1199,7 +1199,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1250,7 +1250,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1300,7 +1300,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1399,7 +1399,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z"
+      "last_seen": "2026-07-29T08:11:25Z"
     },
     {
       "id": "836a42fee2c293533eec",
@@ -1444,7 +1444,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z"
+      "last_seen": "2026-07-29T08:11:25Z"
     },
     {
       "id": "073a77450327b18b41b2",
@@ -1489,7 +1489,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z"
+      "last_seen": "2026-07-29T08:11:25Z"
     },
     {
       "id": "fd024af001aadfbeded4",
@@ -1534,7 +1534,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z"
+      "last_seen": "2026-07-29T08:11:25Z"
     },
     {
       "id": "43d40bb9580e5f893122",
@@ -1579,7 +1579,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z"
+      "last_seen": "2026-07-29T08:11:25Z"
     },
     {
       "id": "97e800927deecb542fe6",
@@ -1669,7 +1669,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1717,7 +1717,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z",
+      "last_seen": "2026-07-29T08:11:25Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1911,7 +1911,7 @@
       "confidence": 0.7,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-28T08:07:26Z"
+      "last_seen": "2026-07-29T08:11:25Z"
     }
   ]
 }
