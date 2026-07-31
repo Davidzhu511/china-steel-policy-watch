@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-30T07:57:59Z",
+  "generated_at": "2026-07-31T08:21:52Z",
   "disclaimer": "机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。",
   "items": [
     {
@@ -238,7 +238,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-23T08:02:57Z",
-      "last_seen": "2026-07-30T07:57:59Z"
+      "last_seen": "2026-07-31T08:21:52Z"
     },
     {
       "id": "f0e64ceb0a997cd17404",
@@ -361,7 +361,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "summary_en": "The U.S. Department of Commerce found that revoking the antidumping duty order on certain non-refillable steel cylinders from China could lead to the continuation or recurrence of dumping.",
       "products_en": [
         "steel cylinders"
@@ -405,7 +405,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "summary_en": "The U.S. Department of Commerce determined that Chinese exporters sold alloy and certain carbon steel threaded rods at prices below normal value during the review period.",
       "products_en": [
         "alloy steel threaded rods",
@@ -461,7 +461,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z"
+      "last_seen": "2026-07-31T08:21:52Z"
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -494,7 +494,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "summary_en": "The U.S. International Trade Court ruled on the results of the antidumping duty administrative review on certain steel racks from China, requiring a correction of the relevant dumping margins.",
       "products_en": [
         "steel racks"
@@ -551,7 +551,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "OPEN",
         "stage": "ISC_WORKFLOW",
@@ -645,7 +645,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "OPEN",
         "stage": "PLANNING_WORKFLOW",
@@ -698,7 +698,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -751,7 +751,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -803,7 +803,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -851,7 +851,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -904,7 +904,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -956,7 +956,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1004,7 +1004,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1055,7 +1055,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1103,7 +1103,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1152,7 +1152,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1201,7 +1201,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1252,7 +1252,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1302,7 +1302,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1359,6 +1359,39 @@
       ]
     },
     {
+      "id": "ebe2d62374e57d36ab01",
+      "title_zh": "Boltless Steel Shelving Units Prepackaged for Sale From the People's Republic of China: Final Results of the Expedited Sunset Review of the Antidumping Duty Order",
+      "title_en": "Boltless Steel Shelving Units Prepackaged for Sale From the People's Republic of China: Final Results of the Expedited Sunset Review of the Antidumping Duty Order",
+      "title_original": "Boltless Steel Shelving Units Prepackaged for Sale From the People's Republic of China: Final Results of the Expedited Sunset Review of the Antidumping Duty Order",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://federalregister.gov/documents/2026/07/31/2026-15470/boltless-steel-shelving-units-prepackaged-for-sale-from-the-peoples-republic-of-china-final-results",
+      "published_at": "2026-07-31T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-07-31T08:21:52Z"
+    },
+    {
       "id": "44116c2e9f27e21099d6",
       "title_zh": "检查您是否需要为碳边界调整机制（CBAM）注册",
       "title_en": "Check if you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
@@ -1401,7 +1434,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z"
+      "last_seen": "2026-07-31T08:21:52Z"
     },
     {
       "id": "836a42fee2c293533eec",
@@ -1446,7 +1479,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z"
+      "last_seen": "2026-07-31T08:21:52Z"
     },
     {
       "id": "073a77450327b18b41b2",
@@ -1491,7 +1524,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z"
+      "last_seen": "2026-07-31T08:21:52Z"
     },
     {
       "id": "fd024af001aadfbeded4",
@@ -1536,7 +1569,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z"
+      "last_seen": "2026-07-31T08:21:52Z"
     },
     {
       "id": "43d40bb9580e5f893122",
@@ -1581,7 +1614,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z"
+      "last_seen": "2026-07-31T08:21:52Z"
     },
     {
       "id": "97e800927deecb542fe6",
@@ -1671,7 +1704,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1719,7 +1752,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z",
+      "last_seen": "2026-07-31T08:21:52Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1913,7 +1946,7 @@
       "confidence": 0.7,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-30T07:57:59Z"
+      "last_seen": "2026-07-31T08:21:52Z"
     }
   ]
 }
