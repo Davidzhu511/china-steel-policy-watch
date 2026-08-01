@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-31T08:21:52Z",
+  "generated_at": "2026-08-01T07:52:19Z",
   "disclaimer": "机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。",
   "items": [
     {
@@ -46,7 +46,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-25T07:44:21Z",
-      "last_seen": "2026-07-25T07:44:21Z"
+      "last_seen": "2026-08-01T07:52:19Z"
     },
     {
       "id": "77b270043f46b8932b34",
@@ -91,7 +91,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-25T07:44:21Z",
-      "last_seen": "2026-07-25T07:44:21Z"
+      "last_seen": "2026-08-01T07:52:19Z"
     },
     {
       "id": "0af6ec2085b29588ce27",
@@ -238,7 +238,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-23T08:02:57Z",
-      "last_seen": "2026-07-31T08:21:52Z"
+      "last_seen": "2026-08-01T07:52:19Z"
     },
     {
       "id": "f0e64ceb0a997cd17404",
@@ -328,7 +328,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-25T07:44:21Z",
-      "last_seen": "2026-07-25T07:44:21Z"
+      "last_seen": "2026-08-01T07:52:19Z"
     },
     {
       "id": "0106a4a8c5b36465b09d",
@@ -361,7 +361,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "summary_en": "The U.S. Department of Commerce found that revoking the antidumping duty order on certain non-refillable steel cylinders from China could lead to the continuation or recurrence of dumping.",
       "products_en": [
         "steel cylinders"
@@ -405,7 +405,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "summary_en": "The U.S. Department of Commerce determined that Chinese exporters sold alloy and certain carbon steel threaded rods at prices below normal value during the review period.",
       "products_en": [
         "alloy steel threaded rods",
@@ -461,7 +461,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z"
+      "last_seen": "2026-08-01T07:52:19Z"
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -551,7 +551,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "OPEN",
         "stage": "ISC_WORKFLOW",
@@ -645,7 +645,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "OPEN",
         "stage": "PLANNING_WORKFLOW",
@@ -698,7 +698,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -751,7 +751,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -803,7 +803,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -851,7 +851,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -904,7 +904,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -956,7 +956,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1004,7 +1004,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1055,7 +1055,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1103,7 +1103,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1152,7 +1152,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1201,7 +1201,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1252,7 +1252,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1302,7 +1302,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1359,6 +1359,72 @@
       ]
     },
     {
+      "id": "1740026e63879bdf274f",
+      "title_zh": "List of the competent authorities designated by Member States which are empowered to carry out the functions and duties, published in accordance with Article 11 of Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border adjustment mechanism",
+      "title_en": "List of the competent authorities designated by Member States which are empowered to carry out the functions and duties, published in accordance with Article 11 of Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border adjustment mechanism",
+      "title_original": "List of the competent authorities designated by Member States which are empowered to carry out the functions and duties, published in accordance with Article 11 of Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border adjustment mechanism",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AC_202604231",
+      "published_at": "2026-07-31T00:00:00Z",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-08-01T07:52:19Z",
+      "last_seen": "2026-08-01T07:52:19Z"
+    },
+    {
+      "id": "782b0ce9db3eda370e77",
+      "title_zh": "Certain Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From China; Institution of Five-Year Reviews",
+      "title_en": "Certain Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From China; Institution of Five-Year Reviews",
+      "title_original": "Certain Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From China; Institution of Five-Year Reviews",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://federalregister.gov/documents/2026/08/03/2026-15646/certain-seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-china-institution-of",
+      "published_at": "2026-08-03T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-08-01T07:52:19Z",
+      "last_seen": "2026-08-01T07:52:19Z"
+    },
+    {
       "id": "ebe2d62374e57d36ab01",
       "title_zh": "Boltless Steel Shelving Units Prepackaged for Sale From the People's Republic of China: Final Results of the Expedited Sunset Review of the Antidumping Duty Order",
       "title_en": "Boltless Steel Shelving Units Prepackaged for Sale From the People's Republic of China: Final Results of the Expedited Sunset Review of the Antidumping Duty Order",
@@ -1389,7 +1455,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-07-31T08:21:52Z",
-      "last_seen": "2026-07-31T08:21:52Z"
+      "last_seen": "2026-08-01T07:52:19Z"
     },
     {
       "id": "44116c2e9f27e21099d6",
@@ -1434,7 +1500,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z"
+      "last_seen": "2026-08-01T07:52:19Z"
     },
     {
       "id": "836a42fee2c293533eec",
@@ -1479,7 +1545,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z"
+      "last_seen": "2026-08-01T07:52:19Z"
     },
     {
       "id": "073a77450327b18b41b2",
@@ -1524,7 +1590,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z"
+      "last_seen": "2026-08-01T07:52:19Z"
     },
     {
       "id": "fd024af001aadfbeded4",
@@ -1569,7 +1635,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z"
+      "last_seen": "2026-08-01T07:52:19Z"
     },
     {
       "id": "43d40bb9580e5f893122",
@@ -1614,7 +1680,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z"
+      "last_seen": "2026-08-01T07:52:19Z"
     },
     {
       "id": "97e800927deecb542fe6",
@@ -1704,7 +1770,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1752,7 +1818,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z",
+      "last_seen": "2026-08-01T07:52:19Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1946,7 +2012,7 @@
       "confidence": 0.7,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-31T08:21:52Z"
+      "last_seen": "2026-08-01T07:52:19Z"
     }
   ]
 }
