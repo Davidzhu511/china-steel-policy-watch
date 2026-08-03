@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T07:53:57Z",
+  "generated_at": "2026-08-03T08:52:16Z",
   "run_ok": true,
   "model": "openai/gpt-4o-mini",
   "translation_available": true,
@@ -14,15 +14,15 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 7515
+      "duration_ms": 8675
     },
     {
       "id": "eurlex",
       "name": "EUR-Lex / 欧盟官方公报",
       "ok": true,
-      "count": 4,
+      "count": 0,
       "error": "",
-      "duration_ms": 25178
+      "duration_ms": 1231
     },
     {
       "id": "federal_register",
@@ -30,7 +30,7 @@
       "ok": true,
       "count": 5,
       "error": "",
-      "duration_ms": 518
+      "duration_ms": 893
     },
     {
       "id": "gdelt",
@@ -38,19 +38,18 @@
       "ok": false,
       "count": 0,
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22China+steel%22+OR+%22Chinese+steel%22+OR+%22steel+from+China%22+OR+%22China%27s+steel%22%29&mode=artlist&maxrecords=100&format=json&sort=datedesc&timespan=7d",
-      "duration_ms": 7991
+      "duration_ms": 12269
     },
     {
       "id": "govuk",
       "name": "GOV.UK / 英国政府",
       "ok": true,
-      "count": 7,
+      "count": 4,
       "error": "",
-      "duration_ms": 3978
+      "duration_ms": 5605
     }
   ],
   "warnings": [
-    "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AC_202604231",
     "模型批次 1: HTTPError: 410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions"
   ]
 }
