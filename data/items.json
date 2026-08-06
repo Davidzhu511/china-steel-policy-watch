@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-05T08:09:04Z",
+  "generated_at": "2026-08-06T08:07:32Z",
   "disclaimer": "机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。",
   "items": [
     {
@@ -238,7 +238,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-23T08:02:57Z",
-      "last_seen": "2026-08-05T08:09:04Z"
+      "last_seen": "2026-08-06T08:07:32Z"
     },
     {
       "id": "f0e64ceb0a997cd17404",
@@ -361,7 +361,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "summary_en": "The U.S. Department of Commerce found that revoking the antidumping duty order on certain non-refillable steel cylinders from China could lead to the continuation or recurrence of dumping.",
       "products_en": [
         "steel cylinders"
@@ -405,7 +405,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "summary_en": "The U.S. Department of Commerce determined that Chinese exporters sold alloy and certain carbon steel threaded rods at prices below normal value during the review period.",
       "products_en": [
         "alloy steel threaded rods",
@@ -551,7 +551,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "OPEN",
         "stage": "ISC_WORKFLOW",
@@ -645,7 +645,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "OPEN",
         "stage": "PLANNING_WORKFLOW",
@@ -698,7 +698,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -751,7 +751,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -803,7 +803,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -851,7 +851,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -904,7 +904,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -956,7 +956,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1004,7 +1004,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1055,7 +1055,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1103,7 +1103,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1152,7 +1152,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1201,7 +1201,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1252,7 +1252,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1302,7 +1302,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1392,6 +1392,39 @@
       "last_seen": "2026-08-02T07:53:57Z"
     },
     {
+      "id": "acc5a1156252af847e9c",
+      "title_zh": "Trade remedies notices: anti-dumping duty on cold-rolled iron and steel products from China and Russia (expired)",
+      "title_en": "Trade remedies notices: anti-dumping duty on cold-rolled iron and steel products from China and Russia (expired)",
+      "title_original": "Trade remedies notices: anti-dumping duty on cold-rolled iron and steel products from China and Russia (expired)",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://gov.uk/government/publications/trade-remedies-notices-anti-dumping-duty-on-cold-rolled-iron-and-steel-products-from-china-and-russia",
+      "published_at": "2026-08-05T09:00:03Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-06T08:07:32Z"
+    },
+    {
       "id": "a14d38f0d76b4d005fdf",
       "title_zh": "Prestressed Concrete Steel Wire Strand From the People's Republic of China: Final Results of the Expedited Sunset Review of the Countervailing Duty Order",
       "title_en": "Prestressed Concrete Steel Wire Strand From the People's Republic of China: Final Results of the Expedited Sunset Review of the Countervailing Duty Order",
@@ -1422,7 +1455,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-05T08:09:04Z"
+      "last_seen": "2026-08-06T08:07:32Z"
     },
     {
       "id": "65182784a9264ab0bcdd",
@@ -1455,7 +1488,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-05T08:09:04Z"
+      "last_seen": "2026-08-06T08:07:32Z"
     },
     {
       "id": "613c2327011d228c0cf1",
@@ -1488,7 +1521,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-05T08:09:04Z"
+      "last_seen": "2026-08-06T08:07:32Z"
     },
     {
       "id": "782b0ce9db3eda370e77",
@@ -1521,7 +1554,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-01T07:52:19Z",
-      "last_seen": "2026-08-05T08:09:04Z"
+      "last_seen": "2026-08-06T08:07:32Z"
     },
     {
       "id": "ebe2d62374e57d36ab01",
@@ -1869,7 +1902,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1917,7 +1950,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-05T08:09:04Z",
+      "last_seen": "2026-08-06T08:07:32Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
