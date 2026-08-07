@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-06T08:07:32Z",
+  "generated_at": "2026-08-07T06:54:18Z",
   "disclaimer": "机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。",
   "items": [
     {
@@ -238,7 +238,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-23T08:02:57Z",
-      "last_seen": "2026-08-06T08:07:32Z"
+      "last_seen": "2026-08-07T06:54:18Z"
     },
     {
       "id": "f0e64ceb0a997cd17404",
@@ -361,7 +361,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "summary_en": "The U.S. Department of Commerce found that revoking the antidumping duty order on certain non-refillable steel cylinders from China could lead to the continuation or recurrence of dumping.",
       "products_en": [
         "steel cylinders"
@@ -405,7 +405,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T06:15:06Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "summary_en": "The U.S. Department of Commerce determined that Chinese exporters sold alloy and certain carbon steel threaded rods at prices below normal value during the review period.",
       "products_en": [
         "alloy steel threaded rods",
@@ -551,9 +551,9 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
-        "status": "OPEN",
+        "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
         "opens_at": "2026-07-09T11:08:21Z",
         "closes_at": "2026-08-06T23:59:59Z"
@@ -645,7 +645,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "OPEN",
         "stage": "PLANNING_WORKFLOW",
@@ -698,7 +698,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -751,7 +751,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -803,7 +803,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -851,7 +851,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -904,7 +904,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -956,7 +956,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1004,7 +1004,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1055,7 +1055,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1103,7 +1103,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1152,7 +1152,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1201,7 +1201,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1252,7 +1252,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1302,7 +1302,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1392,6 +1392,105 @@
       "last_seen": "2026-08-02T07:53:57Z"
     },
     {
+      "id": "5a145b5f0b474846bfae",
+      "title_zh": "Prestressed Concrete Steel Wire Strand From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order",
+      "title_en": "Prestressed Concrete Steel Wire Strand From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order",
+      "title_original": "Prestressed Concrete Steel Wire Strand From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://federalregister.gov/documents/2026/08/06/2026-16057/prestressed-concrete-steel-wire-strand-from-the-peoples-republic-of-china-final-results-of-the",
+      "published_at": "2026-08-06T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-07T06:54:18Z"
+    },
+    {
+      "id": "5ecdba159e4543916992",
+      "title_zh": "Non-Refillable Steel Cylinders From the People's Republic of China: Preliminary Results and Partial Rescission of the Antidumping Duty Administrative Review; 2024-2025",
+      "title_en": "Non-Refillable Steel Cylinders From the People's Republic of China: Preliminary Results and Partial Rescission of the Antidumping Duty Administrative Review; 2024-2025",
+      "title_original": "Non-Refillable Steel Cylinders From the People's Republic of China: Preliminary Results and Partial Rescission of the Antidumping Duty Administrative Review; 2024-2025",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://federalregister.gov/documents/2026/08/06/2026-16008/non-refillable-steel-cylinders-from-the-peoples-republic-of-china-preliminary-results-and-partial",
+      "published_at": "2026-08-06T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-07T06:54:18Z"
+    },
+    {
+      "id": "e652deb22631510a0181",
+      "title_zh": "Non-Refillable Steel Cylinders From China; Scheduling of Expedited Five-Year Reviews",
+      "title_en": "Non-Refillable Steel Cylinders From China; Scheduling of Expedited Five-Year Reviews",
+      "title_original": "Non-Refillable Steel Cylinders From China; Scheduling of Expedited Five-Year Reviews",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://federalregister.gov/documents/2026/08/06/2026-15923/non-refillable-steel-cylinders-from-china-scheduling-of-expedited-five-year-reviews",
+      "published_at": "2026-08-06T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-07T06:54:18Z"
+    },
+    {
       "id": "acc5a1156252af847e9c",
       "title_zh": "Trade remedies notices: anti-dumping duty on cold-rolled iron and steel products from China and Russia (expired)",
       "title_en": "Trade remedies notices: anti-dumping duty on cold-rolled iron and steel products from China and Russia (expired)",
@@ -1422,7 +1521,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-06T08:07:32Z",
-      "last_seen": "2026-08-06T08:07:32Z"
+      "last_seen": "2026-08-07T06:54:18Z"
     },
     {
       "id": "a14d38f0d76b4d005fdf",
@@ -1455,7 +1554,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-06T08:07:32Z"
+      "last_seen": "2026-08-07T06:54:18Z"
     },
     {
       "id": "65182784a9264ab0bcdd",
@@ -1488,7 +1587,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-06T08:07:32Z"
+      "last_seen": "2026-08-07T06:54:18Z"
     },
     {
       "id": "613c2327011d228c0cf1",
@@ -1521,7 +1620,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-06T08:07:32Z"
+      "last_seen": "2026-08-07T06:54:18Z"
     },
     {
       "id": "782b0ce9db3eda370e77",
@@ -1554,7 +1653,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-01T07:52:19Z",
-      "last_seen": "2026-08-06T08:07:32Z"
+      "last_seen": "2026-08-07T06:54:18Z"
     },
     {
       "id": "ebe2d62374e57d36ab01",
@@ -1902,7 +2001,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1950,7 +2049,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-06T08:07:32Z",
+      "last_seen": "2026-08-07T06:54:18Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",

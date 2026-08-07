@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T08:07:32Z",
+  "generated_at": "2026-08-07T06:54:18Z",
   "run_ok": true,
   "model": "openai/gpt-4o-mini",
   "translation_available": true,
-  "new_items": 1,
-  "total_items": 47,
-  "source_success": 4,
+  "new_items": 3,
+  "total_items": 50,
+  "source_success": 3,
   "source_total": 5,
   "sources": [
     {
@@ -14,23 +14,23 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 9636
+      "duration_ms": 9655
     },
     {
       "id": "eurlex",
       "name": "EUR-Lex / 欧盟官方公报",
-      "ok": true,
+      "ok": false,
       "count": 0,
-      "error": "",
-      "duration_ms": 578
+      "error": "ReadTimeout: HTTPSConnectionPool(host='eur-lex.europa.eu', port=443): Read timed out. (read timeout=25)",
+      "duration_ms": 25232
     },
     {
       "id": "federal_register",
       "name": "U.S. Federal Register / 美国联邦公报",
       "ok": true,
-      "count": 7,
+      "count": 10,
       "error": "",
-      "duration_ms": 835
+      "duration_ms": 1411
     },
     {
       "id": "gdelt",
@@ -38,7 +38,7 @@
       "ok": false,
       "count": 0,
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22China+steel%22+OR+%22Chinese+steel%22+OR+%22steel+from+China%22+OR+%22China%27s+steel%22%29&mode=artlist&maxrecords=100&format=json&sort=datedesc&timespan=7d",
-      "duration_ms": 11877
+      "duration_ms": 11426
     },
     {
       "id": "govuk",
@@ -46,7 +46,7 @@
       "ok": true,
       "count": 2,
       "error": "",
-      "duration_ms": 3214
+      "duration_ms": 5169
     }
   ],
   "warnings": [
