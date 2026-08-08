@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T06:54:18Z",
+  "generated_at": "2026-08-08T06:25:31Z",
   "items": [
     {
       "id": "2b0c21b04598f5616ca4",
@@ -236,7 +236,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-23T08:02:57Z",
-      "last_seen": "2026-08-07T06:54:18Z"
+      "last_seen": "2026-08-08T06:25:31Z"
     },
     {
       "id": "f0e64ceb0a997cd17404",
@@ -549,7 +549,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -643,7 +643,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "OPEN",
         "stage": "PLANNING_WORKFLOW",
@@ -696,7 +696,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -749,7 +749,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -801,7 +801,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -849,7 +849,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -902,7 +902,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -954,7 +954,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1002,7 +1002,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1053,7 +1053,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1101,7 +1101,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1150,7 +1150,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1199,7 +1199,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1250,7 +1250,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1300,7 +1300,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1420,7 +1420,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-07T06:54:18Z"
+      "last_seen": "2026-08-08T06:25:31Z"
     },
     {
       "id": "5ecdba159e4543916992",
@@ -1453,7 +1453,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-07T06:54:18Z"
+      "last_seen": "2026-08-08T06:25:31Z"
     },
     {
       "id": "e652deb22631510a0181",
@@ -1486,7 +1486,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-07T06:54:18Z"
+      "last_seen": "2026-08-08T06:25:31Z"
     },
     {
       "id": "acc5a1156252af847e9c",
@@ -1519,7 +1519,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-06T08:07:32Z",
-      "last_seen": "2026-08-07T06:54:18Z"
+      "last_seen": "2026-08-08T06:25:31Z"
     },
     {
       "id": "a14d38f0d76b4d005fdf",
@@ -1552,7 +1552,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-07T06:54:18Z"
+      "last_seen": "2026-08-08T06:25:31Z"
     },
     {
       "id": "65182784a9264ab0bcdd",
@@ -1585,7 +1585,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-07T06:54:18Z"
+      "last_seen": "2026-08-08T06:25:31Z"
     },
     {
       "id": "613c2327011d228c0cf1",
@@ -1618,7 +1618,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-07T06:54:18Z"
+      "last_seen": "2026-08-08T06:25:31Z"
     },
     {
       "id": "782b0ce9db3eda370e77",
@@ -1651,7 +1651,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-01T07:52:19Z",
-      "last_seen": "2026-08-07T06:54:18Z"
+      "last_seen": "2026-08-08T06:25:31Z"
     },
     {
       "id": "ebe2d62374e57d36ab01",
@@ -1999,7 +1999,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -2047,7 +2047,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-07T06:54:18Z",
+      "last_seen": "2026-08-08T06:25:31Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
