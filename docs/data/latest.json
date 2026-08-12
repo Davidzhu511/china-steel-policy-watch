@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T06:38:57Z",
+  "generated_at": "2026-08-12T06:59:01Z",
   "items": [
     {
       "id": "2b0c21b04598f5616ca4",
@@ -236,7 +236,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-23T08:02:57Z",
-      "last_seen": "2026-08-11T06:38:57Z"
+      "last_seen": "2026-08-12T06:59:01Z"
     },
     {
       "id": "f0e64ceb0a997cd17404",
@@ -549,7 +549,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -643,7 +643,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "OPEN",
         "stage": "PLANNING_WORKFLOW",
@@ -696,7 +696,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -749,7 +749,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -801,7 +801,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -849,7 +849,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -902,7 +902,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -954,7 +954,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1002,7 +1002,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1053,7 +1053,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1101,7 +1101,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1150,7 +1150,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1199,7 +1199,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1250,7 +1250,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1300,7 +1300,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1390,6 +1390,72 @@
       "last_seen": "2026-08-02T07:53:57Z"
     },
     {
+      "id": "8c9daff7588f79fcfc11",
+      "title_zh": "Boltless Steel Shelving Units Prepackaged for Sale From China; Scheduling of Expedited Five-Year Reviews",
+      "title_en": "Boltless Steel Shelving Units Prepackaged for Sale From China; Scheduling of Expedited Five-Year Reviews",
+      "title_original": "Boltless Steel Shelving Units Prepackaged for Sale From China; Scheduling of Expedited Five-Year Reviews",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://federalregister.gov/documents/2026/08/12/2026-16390/boltless-steel-shelving-units-prepackaged-for-sale-from-china-scheduling-of-expedited-five-year",
+      "published_at": "2026-08-12T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-08-12T06:59:01Z",
+      "last_seen": "2026-08-12T06:59:01Z"
+    },
+    {
+      "id": "8aa460189c097b753c59",
+      "title_zh": "Prestressed Concrete Steel Wire Strand From China; Scheduling of Expedited Five-Year Reviews",
+      "title_en": "Prestressed Concrete Steel Wire Strand From China; Scheduling of Expedited Five-Year Reviews",
+      "title_original": "Prestressed Concrete Steel Wire Strand From China; Scheduling of Expedited Five-Year Reviews",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://federalregister.gov/documents/2026/08/12/2026-16380/prestressed-concrete-steel-wire-strand-from-china-scheduling-of-expedited-five-year-reviews",
+      "published_at": "2026-08-12T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-08-12T06:59:01Z",
+      "last_seen": "2026-08-12T06:59:01Z"
+    },
+    {
       "id": "5a145b5f0b474846bfae",
       "title_zh": "Prestressed Concrete Steel Wire Strand From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order",
       "title_en": "Prestressed Concrete Steel Wire Strand From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order",
@@ -1420,7 +1486,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-11T06:38:57Z"
+      "last_seen": "2026-08-12T06:59:01Z"
     },
     {
       "id": "5ecdba159e4543916992",
@@ -1453,7 +1519,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-11T06:38:57Z"
+      "last_seen": "2026-08-12T06:59:01Z"
     },
     {
       "id": "e652deb22631510a0181",
@@ -1486,7 +1552,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-11T06:38:57Z"
+      "last_seen": "2026-08-12T06:59:01Z"
     },
     {
       "id": "acc5a1156252af847e9c",
@@ -1519,7 +1585,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-06T08:07:32Z",
-      "last_seen": "2026-08-11T06:38:57Z"
+      "last_seen": "2026-08-12T06:59:01Z"
     },
     {
       "id": "a14d38f0d76b4d005fdf",
@@ -1552,7 +1618,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-11T06:38:57Z"
+      "last_seen": "2026-08-12T06:59:01Z"
     },
     {
       "id": "65182784a9264ab0bcdd",
@@ -1585,7 +1651,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-11T06:38:57Z"
+      "last_seen": "2026-08-12T06:59:01Z"
     },
     {
       "id": "613c2327011d228c0cf1",
@@ -1618,7 +1684,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-11T06:38:57Z"
+      "last_seen": "2026-08-12T06:59:01Z"
     },
     {
       "id": "782b0ce9db3eda370e77",
@@ -1651,7 +1717,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-01T07:52:19Z",
-      "last_seen": "2026-08-11T06:38:57Z"
+      "last_seen": "2026-08-12T06:59:01Z"
     },
     {
       "id": "ebe2d62374e57d36ab01",
@@ -1999,7 +2065,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -2047,7 +2113,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-11T06:38:57Z",
+      "last_seen": "2026-08-12T06:59:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -2148,100 +2214,6 @@
         "Orders",
         "Anti-dumping Risk"
       ]
-    },
-    {
-      "id": "f0c5bb1b386f6ab81437",
-      "title_zh": "敬业集团就英国接管British Steel寻求补偿并考虑仲裁",
-      "title_original": "Chinese company demands compensation from the UK over British Steel nationalization",
-      "summary_zh": "美联社报道，敬业集团因英国政府接管British Steel运营而要求补偿，并正依据双边投资安排磋商、考虑国际仲裁。英国方面表示将通过独立评估确定可能的补偿。",
-      "impact_zh": "事件不仅影响敬业集团资产处置，也会提高中资钢铁企业评估英国投资时对政府干预、关键产能认定及投资协定保护条款的关注。",
-      "url": "https://apnews.com/article/4403c8df143be871825b7d20302385e0",
-      "published_at": "2026-07-19T10:00:00Z",
-      "source": {
-        "id": "gdelt",
-        "name": "Associated Press",
-        "kind": "news",
-        "official": false
-      },
-      "country": "英国",
-      "region": "欧洲",
-      "category": "企业与供应链",
-      "status": "新闻",
-      "importance": "中",
-      "products": [
-        "粗钢",
-        "长流程产能"
-      ],
-      "tags": [
-        "敬业集团",
-        "British Steel",
-        "补偿",
-        "投资仲裁"
-      ],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.9,
-      "translation_state": "complete",
-      "first_seen": "2026-07-21T21:54:23Z",
-      "last_seen": "2026-07-21T21:54:23Z",
-      "summary_en": "According to the Associated Press, Jingye Group is seeking compensation from the UK government for the takeover of British Steel operations and is negotiating based on bilateral investment arrangements, considering international arbitration. The UK side stated that it would determine possible compensation through an independent assessment.",
-      "products_en": [
-        "Crude Steel",
-        "Long Process Capacity"
-      ],
-      "title_en": "Chinese Company Demands Compensation from the UK over British Steel Nationalization",
-      "impact_en": "This event not only affects Jingye Group's asset disposal but also raises concerns among Chinese steel companies regarding government intervention, key capacity identification, and investment agreement protection clauses when evaluating investments in the UK.",
-      "tags_en": [
-        "Jingye Group",
-        "British Steel",
-        "Compensation",
-        "Investment Arbitration"
-      ]
-    },
-    {
-      "id": "9daf07563c5363d89397",
-      "title_zh": "来自中国的某些活性炭：反倾销税行政审查的初步结果及部分撤销",
-      "title_en": "Certain Activated Carbon From the People's Republic of China: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
-      "title_original": "Certain Activated Carbon From the People's Republic of China: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
-      "summary_zh": "美国商务部初步确定，部分中国企业在审查期间以低于正常价值销售活性炭。",
-      "summary_en": "The U.S. Department of Commerce preliminarily determines that certain Chinese companies sold activated carbon at less than normal value during the review period.",
-      "impact_zh": "这可能影响中国活性炭的出口策略，但与钢铁行业直接关联不大。",
-      "impact_en": "This may affect the export strategy for Chinese activated carbon, but it is not directly related to the steel industry.",
-      "url": "https://federalregister.gov/documents/2026/07/13/2026-14028/certain-activated-carbon-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in",
-      "published_at": "2026-07-13T00:00:00Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "美国",
-      "region": "北美",
-      "category": "法规与正式文件",
-      "status": "审查中",
-      "importance": "低",
-      "products": [
-        "活性炭"
-      ],
-      "products_en": [
-        "activated carbon"
-      ],
-      "tags": [
-        "反倾销",
-        "中国",
-        "活性炭"
-      ],
-      "tags_en": [
-        "antidumping",
-        "China",
-        "activated carbon"
-      ],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.7,
-      "translation_state": "complete",
-      "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-03T08:52:16Z"
     }
   ]
 }
