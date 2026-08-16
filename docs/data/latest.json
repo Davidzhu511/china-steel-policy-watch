@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:01:28Z",
+  "generated_at": "2026-08-16T06:03:13Z",
   "items": [
     {
       "id": "2b0c21b04598f5616ca4",
@@ -549,7 +549,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -643,7 +643,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -696,7 +696,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -749,7 +749,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -801,7 +801,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -849,7 +849,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -902,7 +902,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -954,7 +954,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1002,7 +1002,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1053,7 +1053,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1101,7 +1101,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1150,7 +1150,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1199,7 +1199,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1250,7 +1250,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1300,7 +1300,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1357,6 +1357,72 @@
       ]
     },
     {
+      "id": "60d5463e06ba76e467b9",
+      "title_zh": "Commission Implementing Regulation (EU) 2026/1926 of 7 August 2026 amending Implementing Regulation (EU) 2022/191 imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners, originating in the People’s Republic of China following acceptance of a request for a new exporting producer treatment",
+      "title_en": "Commission Implementing Regulation (EU) 2026/1926 of 7 August 2026 amending Implementing Regulation (EU) 2022/191 imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners, originating in the People’s Republic of China following acceptance of a request for a new exporting producer treatment",
+      "title_original": "Commission Implementing Regulation (EU) 2026/1926 of 7 August 2026 amending Implementing Regulation (EU) 2022/191 imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners, originating in the People’s Republic of China following acceptance of a request for a new exporting producer treatment",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601926",
+      "published_at": "2026-08-10T00:00:00Z",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-08-16T06:03:13Z",
+      "last_seen": "2026-08-16T06:03:13Z"
+    },
+    {
+      "id": "b4ee6afe77cb8e4f9bfb",
+      "title_zh": "Commission Implementing Regulation (EU) 2026/1929 of 7 August 2026 imposing a provisional anti-dumping duty on imports of certain wires of silico-manganese steel originating in the People’s Republic of China",
+      "title_en": "Commission Implementing Regulation (EU) 2026/1929 of 7 August 2026 imposing a provisional anti-dumping duty on imports of certain wires of silico-manganese steel originating in the People’s Republic of China",
+      "title_original": "Commission Implementing Regulation (EU) 2026/1929 of 7 August 2026 imposing a provisional anti-dumping duty on imports of certain wires of silico-manganese steel originating in the People’s Republic of China",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601929",
+      "published_at": "2026-08-10T00:00:00Z",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-08-16T06:03:13Z",
+      "last_seen": "2026-08-16T06:03:13Z"
+    },
+    {
       "id": "1740026e63879bdf274f",
       "title_zh": "List of the competent authorities designated by Member States which are empowered to carry out the functions and duties, published in accordance with Article 11 of Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border adjustment mechanism",
       "title_en": "List of the competent authorities designated by Member States which are empowered to carry out the functions and duties, published in accordance with Article 11 of Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border adjustment mechanism",
@@ -1387,7 +1453,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-01T07:52:19Z",
-      "last_seen": "2026-08-02T07:53:57Z"
+      "last_seen": "2026-08-16T06:03:13Z"
     },
     {
       "id": "8c9daff7588f79fcfc11",
@@ -1420,7 +1486,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-12T06:59:01Z",
-      "last_seen": "2026-08-15T06:01:28Z"
+      "last_seen": "2026-08-16T06:03:13Z"
     },
     {
       "id": "8aa460189c097b753c59",
@@ -1453,7 +1519,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-12T06:59:01Z",
-      "last_seen": "2026-08-15T06:01:28Z"
+      "last_seen": "2026-08-16T06:03:13Z"
     },
     {
       "id": "5a145b5f0b474846bfae",
@@ -1486,7 +1552,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-15T06:01:28Z"
+      "last_seen": "2026-08-16T06:03:13Z"
     },
     {
       "id": "5ecdba159e4543916992",
@@ -1519,7 +1585,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-15T06:01:28Z"
+      "last_seen": "2026-08-16T06:03:13Z"
     },
     {
       "id": "e652deb22631510a0181",
@@ -1552,7 +1618,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-15T06:01:28Z"
+      "last_seen": "2026-08-16T06:03:13Z"
     },
     {
       "id": "acc5a1156252af847e9c",
@@ -1585,7 +1651,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-06T08:07:32Z",
-      "last_seen": "2026-08-15T06:01:28Z"
+      "last_seen": "2026-08-16T06:03:13Z"
     },
     {
       "id": "a14d38f0d76b4d005fdf",
@@ -1618,7 +1684,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-15T06:01:28Z"
+      "last_seen": "2026-08-16T06:03:13Z"
     },
     {
       "id": "65182784a9264ab0bcdd",
@@ -1651,7 +1717,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-15T06:01:28Z"
+      "last_seen": "2026-08-16T06:03:13Z"
     },
     {
       "id": "613c2327011d228c0cf1",
@@ -1684,7 +1750,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-15T06:01:28Z"
+      "last_seen": "2026-08-16T06:03:13Z"
     },
     {
       "id": "782b0ce9db3eda370e77",
@@ -1717,7 +1783,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-01T07:52:19Z",
-      "last_seen": "2026-08-15T06:01:28Z"
+      "last_seen": "2026-08-16T06:03:13Z"
     },
     {
       "id": "ebe2d62374e57d36ab01",
@@ -2065,7 +2131,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -2113,107 +2179,13 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-15T06:01:28Z",
+      "last_seen": "2026-08-16T06:03:13Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
         "opens_at": "2025-08-22T13:56:33Z",
         "closes_at": "2025-11-14T23:59:59Z"
       }
-    },
-    {
-      "id": "6d54afb9276a826d4519",
-      "title_zh": "中国钢铁上半年产量下降，但6月日产水平显示韧性",
-      "title_original": "China's steel sector looks weaker than it is, reverse for iron ore",
-      "summary_zh": "路透社分析称，中国2026年上半年钢产量同比下降约3%，地产需求仍弱；但6月粗钢产量为8,367万吨、日产水平升至三个月高位。铁矿石进口保持强劲，显示生产端并非单向走弱。",
-      "impact_zh": "国内需求偏弱仍会推动钢厂寻找出口，但短期生产韧性可能延续海外市场的供给与价格压力，并提高各国采取贸易措施的概率。",
-      "url": "https://reuters.com/commentary/reuters-open-interest/chinas-steel-sector-looks-weaker-than-it-is-reverse-iron-ore-2026-07-21",
-      "published_at": "2026-07-21T06:00:00Z",
-      "source": {
-        "id": "gdelt",
-        "name": "Reuters",
-        "kind": "news",
-        "official": false
-      },
-      "country": "中国",
-      "region": "亚洲",
-      "category": "市场与产能",
-      "status": "新闻",
-      "importance": "中",
-      "products": [
-        "粗钢",
-        "铁矿石"
-      ],
-      "tags": [
-        "产量",
-        "国内需求",
-        "铁矿石进口"
-      ],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.9,
-      "translation_state": "complete",
-      "first_seen": "2026-07-21T21:54:23Z",
-      "last_seen": "2026-07-21T21:54:23Z",
-      "summary_en": "According to Reuters, China's steel production in the first half of 2026 decreased by about 3% year-on-year, with weak demand from the real estate sector; however, crude steel production in June reached 83.67 million tons, with daily output rising to a three-month high. Iron ore imports remain strong, indicating that production is not solely weakening.",
-      "products_en": [
-        "Crude Steel",
-        "Iron Ore"
-      ],
-      "title_en": "China's Steel Production Declines in H1, June Daily Output Shows Resilience",
-      "impact_en": "Weak domestic demand will still drive steel mills to seek exports, but short-term production resilience may prolong supply and price pressures in overseas markets, increasing the likelihood of trade measures being taken by various countries.",
-      "tags_en": [
-        "Production",
-        "Domestic Demand",
-        "Iron Ore Imports"
-      ]
-    },
-    {
-      "id": "5ab9c3c078fed7eb0d51",
-      "title_zh": "中国钢材出口创纪录，但后续订单与贸易摩擦或压制涨势",
-      "title_original": "China's steel exports hit record but rally may prove short-lived",
-      "summary_zh": "标普全球报道，中国钢材出口达到纪录水平，其中钢坯出口同比显著增长；但订单走弱以及2026年反倾销案件增加，可能使第三季度出口动能放缓。",
-      "impact_zh": "出口量越高，越容易触发进口国行业申诉和调查。钢厂应提前按市场、品种和客户监测订单下滑与立案风险，避免集中发运。",
-      "url": "https://spglobal.com/energy/en/news-research/latest-news/metals/072026-chinas-steel-exports-hit-record-but-rally-may-prove-short-lived",
-      "published_at": "2026-07-20T08:00:00Z",
-      "source": {
-        "id": "gdelt",
-        "name": "S&P Global Commodity Insights",
-        "kind": "news",
-        "official": false
-      },
-      "country": "中国",
-      "region": "亚洲",
-      "category": "市场与产能",
-      "status": "新闻",
-      "importance": "中",
-      "products": [
-        "钢材",
-        "钢坯"
-      ],
-      "tags": [
-        "出口纪录",
-        "订单",
-        "反倾销风险"
-      ],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.87,
-      "translation_state": "complete",
-      "first_seen": "2026-07-21T21:54:23Z",
-      "last_seen": "2026-07-21T21:54:23Z",
-      "summary_en": "S&P Global reports that China's steel exports have reached record levels, with significant year-on-year growth in semi-finished steel exports; however, weakening orders and an increase in anti-dumping cases in 2026 may slow export momentum in the third quarter.",
-      "products_en": [
-        "Steel",
-        "Semi-finished Steel"
-      ],
-      "title_en": "China's Steel Exports Hit Record but Rally May Prove Short-Lived",
-      "impact_en": "The higher the export volume, the more likely it is to trigger complaints and investigations from importing countries. Steel mills should monitor order declines and filing risks in advance based on market, variety, and customer to avoid concentrated shipments.",
-      "tags_en": [
-        "Export Record",
-        "Orders",
-        "Anti-dumping Risk"
-      ]
     }
   ]
 }
