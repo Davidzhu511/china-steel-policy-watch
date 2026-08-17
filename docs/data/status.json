@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-16T06:03:13Z",
+  "generated_at": "2026-08-17T06:21:08Z",
   "run_ok": true,
   "model": "openai/gpt-4o-mini",
   "translation_available": true,
-  "new_items": 2,
+  "new_items": 0,
   "total_items": 54,
   "source_success": 4,
   "source_total": 5,
@@ -14,15 +14,15 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 8545
+      "duration_ms": 7621
     },
     {
       "id": "eurlex",
       "name": "EUR-Lex / 欧盟官方公报",
       "ok": true,
-      "count": 3,
+      "count": 0,
       "error": "",
-      "duration_ms": 46737
+      "duration_ms": 496
     },
     {
       "id": "federal_register",
@@ -30,15 +30,15 @@
       "ok": true,
       "count": 10,
       "error": "",
-      "duration_ms": 778
+      "duration_ms": 735
     },
     {
       "id": "gdelt",
       "name": "GDELT 全球新闻索引",
       "ok": false,
       "count": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28China+OR+Chinese%29+%28%22hot-rolled+steel%22+OR+%22cold-rolled+steel%22+OR+galvanized+OR+tinplate+OR+%22electrical+steel%22+OR+%22stainless+steel%22%29&mode=artlist&maxrecords=100&f",
-      "duration_ms": 24570
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22China+steel%22+OR+%22Chinese+steel%22+OR+%22steel+from+China%22+OR+%22China%27s+steel%22%29&mode=artlist&maxrecords=100&format=json&sort=datedesc&timespan=7d",
+      "duration_ms": 13563
     },
     {
       "id": "govuk",
@@ -46,13 +46,10 @@
       "ok": true,
       "count": 1,
       "error": "",
-      "duration_ms": 4959
+      "duration_ms": 3617
     }
   ],
   "warnings": [
-    "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601929",
-    "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AC_202604231",
-    "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601926",
     "模型批次 1: HTTPError: 410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions",
     "模型批次 2: HTTPError: 410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions"
   ]
