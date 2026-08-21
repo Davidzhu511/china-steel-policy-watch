@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-20T06:17:03Z",
+  "generated_at": "2026-08-21T06:18:01Z",
   "disclaimer": "机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。",
   "items": [
     {
@@ -551,7 +551,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -645,7 +645,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -698,7 +698,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -751,7 +751,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -803,7 +803,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -851,7 +851,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -904,7 +904,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -956,7 +956,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1004,7 +1004,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1055,7 +1055,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1103,7 +1103,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1152,7 +1152,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1201,7 +1201,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1252,7 +1252,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1302,7 +1302,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1389,7 +1389,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-16T06:03:13Z",
-      "last_seen": "2026-08-16T06:03:13Z"
+      "last_seen": "2026-08-21T06:18:01Z"
     },
     {
       "id": "b4ee6afe77cb8e4f9bfb",
@@ -1422,7 +1422,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-16T06:03:13Z",
-      "last_seen": "2026-08-16T06:03:13Z"
+      "last_seen": "2026-08-21T06:18:01Z"
     },
     {
       "id": "1740026e63879bdf274f",
@@ -1434,7 +1434,7 @@
       "impact_zh": "待自动分析；请先核对原文内容。",
       "impact_en": "Automated impact analysis is pending; please verify the original source.",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AC_202604231",
-      "published_at": "2026-07-31T00:00:00Z",
+      "published_at": "2026-08-01T00:00:00Z",
       "source": {
         "id": "eurlex",
         "name": "EUR-Lex / 欧盟官方公报",
@@ -1455,7 +1455,40 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-01T07:52:19Z",
-      "last_seen": "2026-08-16T06:03:13Z"
+      "last_seen": "2026-08-21T06:18:01Z"
+    },
+    {
+      "id": "a79139e2995dcd9202fc",
+      "title_zh": "Trade remedies notices: anti-dumping duty on welded tubes and pipes from Belarus and China",
+      "title_en": "Trade remedies notices: anti-dumping duty on welded tubes and pipes from Belarus and China",
+      "title_original": "Trade remedies notices: anti-dumping duty on welded tubes and pipes from Belarus and China",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://gov.uk/government/publications/trade-remedies-notice-anti-dumping-duty-on-certain-welded-tubes-and-pipes-of-iron-or-non-alloy-steel-originating-in-belarus-the-peoples-republic-of",
+      "published_at": "2026-08-20T10:00:01Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-08-21T06:18:01Z",
+      "last_seen": "2026-08-21T06:18:01Z"
     },
     {
       "id": "8c9daff7588f79fcfc11",
@@ -1488,7 +1521,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-12T06:59:01Z",
-      "last_seen": "2026-08-20T06:17:03Z"
+      "last_seen": "2026-08-21T06:18:01Z"
     },
     {
       "id": "8aa460189c097b753c59",
@@ -1521,7 +1554,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-12T06:59:01Z",
-      "last_seen": "2026-08-20T06:17:03Z"
+      "last_seen": "2026-08-21T06:18:01Z"
     },
     {
       "id": "5a145b5f0b474846bfae",
@@ -1554,7 +1587,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-20T06:17:03Z"
+      "last_seen": "2026-08-21T06:18:01Z"
     },
     {
       "id": "5ecdba159e4543916992",
@@ -1587,7 +1620,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-20T06:17:03Z"
+      "last_seen": "2026-08-21T06:18:01Z"
     },
     {
       "id": "e652deb22631510a0181",
@@ -1620,7 +1653,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-20T06:17:03Z"
+      "last_seen": "2026-08-21T06:18:01Z"
     },
     {
       "id": "acc5a1156252af847e9c",
@@ -1653,7 +1686,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-06T08:07:32Z",
-      "last_seen": "2026-08-20T06:17:03Z"
+      "last_seen": "2026-08-21T06:18:01Z"
     },
     {
       "id": "a14d38f0d76b4d005fdf",
@@ -1686,7 +1719,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-20T06:17:03Z"
+      "last_seen": "2026-08-21T06:18:01Z"
     },
     {
       "id": "65182784a9264ab0bcdd",
@@ -1719,7 +1752,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-20T06:17:03Z"
+      "last_seen": "2026-08-21T06:18:01Z"
     },
     {
       "id": "613c2327011d228c0cf1",
@@ -1752,7 +1785,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-20T06:17:03Z"
+      "last_seen": "2026-08-21T06:18:01Z"
     },
     {
       "id": "782b0ce9db3eda370e77",
@@ -1785,7 +1818,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-01T07:52:19Z",
-      "last_seen": "2026-08-20T06:17:03Z"
+      "last_seen": "2026-08-21T06:18:01Z"
     },
     {
       "id": "ebe2d62374e57d36ab01",
@@ -2133,7 +2166,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -2181,7 +2214,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-20T06:17:03Z",
+      "last_seen": "2026-08-21T06:18:01Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",

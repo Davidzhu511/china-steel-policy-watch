@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-20T06:17:03Z",
+  "generated_at": "2026-08-21T06:18:01Z",
   "run_ok": true,
   "model": "openai/gpt-4o-mini",
   "translation_available": true,
-  "new_items": 0,
-  "total_items": 54,
+  "new_items": 1,
+  "total_items": 55,
   "source_success": 4,
   "source_total": 5,
   "sources": [
@@ -14,15 +14,15 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 9500
+      "duration_ms": 8979
     },
     {
       "id": "eurlex",
       "name": "EUR-Lex / 欧盟官方公报",
       "ok": true,
-      "count": 0,
+      "count": 3,
       "error": "",
-      "duration_ms": 1376
+      "duration_ms": 30178
     },
     {
       "id": "federal_register",
@@ -30,26 +30,29 @@
       "ok": true,
       "count": 10,
       "error": "",
-      "duration_ms": 906
+      "duration_ms": 777
     },
     {
       "id": "gdelt",
       "name": "GDELT 全球新闻索引",
       "ok": false,
       "count": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22China+steel%22+OR+%22Chinese+steel%22+OR+%22steel+from+China%22+OR+%22China%27s+steel%22%29&mode=artlist&maxrecords=100&format=json&sort=datedesc&timespan=7d",
-      "duration_ms": 11583
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "duration_ms": 17943
     },
     {
       "id": "govuk",
       "name": "GOV.UK / 英国政府",
       "ok": true,
-      "count": 1,
+      "count": 2,
       "error": "",
-      "duration_ms": 6276
+      "duration_ms": 5578
     }
   ],
   "warnings": [
+    "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601926",
+    "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AC_202604231",
+    "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601929",
     "模型批次 1: HTTPError: 410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions",
     "模型批次 2: HTTPError: 410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions"
   ]
