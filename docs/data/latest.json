@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:25:14Z",
+  "generated_at": "2026-08-25T06:17:09Z",
   "items": [
     {
       "id": "2b0c21b04598f5616ca4",
@@ -549,7 +549,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -643,7 +643,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -696,7 +696,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -749,7 +749,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -801,7 +801,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -849,7 +849,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -902,7 +902,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -954,7 +954,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1002,7 +1002,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1053,7 +1053,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1101,7 +1101,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1150,7 +1150,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1199,7 +1199,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1250,7 +1250,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1300,7 +1300,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-24T06:25:14Z",
+      "last_seen": "2026-08-25T06:17:09Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1456,6 +1456,39 @@
       "last_seen": "2026-08-22T06:02:00Z"
     },
     {
+      "id": "65bf279c8ac89c362a2a",
+      "title_zh": "Steel Grating From China; Scheduling of Expedited Five-Year Reviews",
+      "title_en": "Steel Grating From China; Scheduling of Expedited Five-Year Reviews",
+      "title_original": "Steel Grating From China; Scheduling of Expedited Five-Year Reviews",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://federalregister.gov/documents/2026/08/25/2026-17261/steel-grating-from-china-scheduling-of-expedited-five-year-reviews",
+      "published_at": "2026-08-25T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-08-25T06:17:09Z",
+      "last_seen": "2026-08-25T06:17:09Z"
+    },
+    {
       "id": "a79139e2995dcd9202fc",
       "title_zh": "Trade remedies notices: anti-dumping duty on welded tubes and pipes from Belarus and China",
       "title_en": "Trade remedies notices: anti-dumping duty on welded tubes and pipes from Belarus and China",
@@ -1486,7 +1519,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-21T06:18:01Z",
-      "last_seen": "2026-08-24T06:25:14Z"
+      "last_seen": "2026-08-25T06:17:09Z"
     },
     {
       "id": "8c9daff7588f79fcfc11",
@@ -1519,7 +1552,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-12T06:59:01Z",
-      "last_seen": "2026-08-24T06:25:14Z"
+      "last_seen": "2026-08-25T06:17:09Z"
     },
     {
       "id": "8aa460189c097b753c59",
@@ -1552,7 +1585,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-12T06:59:01Z",
-      "last_seen": "2026-08-24T06:25:14Z"
+      "last_seen": "2026-08-25T06:17:09Z"
     },
     {
       "id": "5a145b5f0b474846bfae",
@@ -1585,7 +1618,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-24T06:25:14Z"
+      "last_seen": "2026-08-25T06:17:09Z"
     },
     {
       "id": "5ecdba159e4543916992",
@@ -1618,7 +1651,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-24T06:25:14Z"
+      "last_seen": "2026-08-25T06:17:09Z"
     },
     {
       "id": "e652deb22631510a0181",
@@ -1651,7 +1684,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-24T06:25:14Z"
+      "last_seen": "2026-08-25T06:17:09Z"
     },
     {
       "id": "acc5a1156252af847e9c",
@@ -1684,7 +1717,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-06T08:07:32Z",
-      "last_seen": "2026-08-24T06:25:14Z"
+      "last_seen": "2026-08-25T06:17:09Z"
     },
     {
       "id": "a14d38f0d76b4d005fdf",
@@ -1717,7 +1750,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-24T06:25:14Z"
+      "last_seen": "2026-08-25T06:17:09Z"
     },
     {
       "id": "65182784a9264ab0bcdd",
@@ -1750,7 +1783,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-24T06:25:14Z"
+      "last_seen": "2026-08-25T06:17:09Z"
     },
     {
       "id": "613c2327011d228c0cf1",
@@ -1783,7 +1816,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-05T08:09:04Z",
-      "last_seen": "2026-08-24T06:25:14Z"
+      "last_seen": "2026-08-25T06:17:09Z"
     },
     {
       "id": "782b0ce9db3eda370e77",
@@ -2120,56 +2153,6 @@
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
       "last_seen": "2026-07-24T07:59:09Z"
-    },
-    {
-      "id": "46c7acfed4758beaf669",
-      "title_zh": "RoHS下铅作为钢铁、铝和铜合金元素的豁免",
-      "title_en": "Exemptions under RoHS for lead as an alloying element in steel, aluminium and copper",
-      "title_original": "Exemptions under RoHS for lead as an alloying element in steel, aluminium and copper",
-      "summary_zh": "欧盟正在评估关于铅作为合金元素在钢铁、铝和铜中的豁免申请。",
-      "summary_en": "The EU is assessing exemption requests for lead as an alloying element in steel, aluminium, and copper.",
-      "impact_zh": "若豁免获得批准，可能会影响相关钢铁产品的生产和出口标准。",
-      "impact_en": "If the exemption is approved, it may affect the production and export standards of related steel products.",
-      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14172-Exemptions-under-RoHS-for-lead-as-an-alloying-element-in-steel-aluminium-and-copper_en",
-      "published_at": "2025-09-08T12:08:42Z",
-      "source": {
-        "id": "ec_have_your_say",
-        "name": "EC Have Your Say / 欧盟公众咨询",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "欧盟",
-      "region": "欧洲",
-      "category": "法规与正式文件",
-      "status": "审查中",
-      "importance": "中",
-      "products": [
-        "钢铁"
-      ],
-      "products_en": [
-        "steel"
-      ],
-      "tags": [
-        "RoHS",
-        "铅",
-        "合金"
-      ],
-      "tags_en": [
-        "RoHS",
-        "lead",
-        "alloy"
-      ],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.8,
-      "translation_state": "complete",
-      "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-24T06:25:14Z",
-      "consultation": {
-        "status": "DISABLED",
-        "stage": "ADOPTION_WORKFLOW",
-        "opens_at": "2025-09-08T12:08:42Z"
-      }
     }
   ]
 }
