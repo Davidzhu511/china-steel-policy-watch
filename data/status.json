@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-26T06:19:31Z",
+  "generated_at": "2026-08-27T16:49:50Z",
   "run_ok": true,
   "model": "openai/gpt-4o-mini",
   "translation_available": true,
-  "new_items": 0,
-  "total_items": 56,
+  "new_items": 1,
+  "total_items": 57,
   "source_success": 4,
   "source_total": 5,
   "sources": [
@@ -14,15 +14,15 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 7533
+      "duration_ms": 7591
     },
     {
       "id": "eurlex",
       "name": "EUR-Lex / 欧盟官方公报",
       "ok": true,
-      "count": 0,
+      "count": 2,
       "error": "",
-      "duration_ms": 406
+      "duration_ms": 42764
     },
     {
       "id": "federal_register",
@@ -30,15 +30,15 @@
       "ok": true,
       "count": 6,
       "error": "",
-      "duration_ms": 363
+      "duration_ms": 482
     },
     {
       "id": "gdelt",
       "name": "GDELT 全球新闻索引",
       "ok": false,
       "count": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28China+OR+Chinese%29+%28%22hot-rolled+steel%22+OR+%22cold-rolled+steel%22+OR+galvanized+OR+tinplate+OR+%22electrical+steel%22+OR+%22stainless+steel%22%29&mode=artlist&maxrecords=100&f",
-      "duration_ms": 19752
+      "error": "ReadTimeout: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=35)",
+      "duration_ms": 35200
     },
     {
       "id": "govuk",
@@ -46,10 +46,13 @@
       "ok": true,
       "count": 2,
       "error": "",
-      "duration_ms": 3526
+      "duration_ms": 4683
     }
   ],
   "warnings": [
-    "模型批次 1: HTTPError: 410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions"
+    "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601926",
+    "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601929",
+    "模型批次 1: HTTPError: 410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions",
+    "模型批次 2: HTTPError: 410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions"
   ]
 }
