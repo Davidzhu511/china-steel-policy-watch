@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T11:47:52Z",
+  "generated_at": "2026-08-30T10:42:16Z",
   "run_ok": true,
   "model": "openai/gpt-4o-mini",
   "translation_available": true,
@@ -14,7 +14,7 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 9281
+      "duration_ms": 9730
     },
     {
       "id": "eurlex",
@@ -22,7 +22,7 @@
       "ok": true,
       "count": 2,
       "error": "",
-      "duration_ms": 26290
+      "duration_ms": 25446
     },
     {
       "id": "federal_register",
@@ -30,7 +30,7 @@
       "ok": true,
       "count": 4,
       "error": "",
-      "duration_ms": 592
+      "duration_ms": 765
     },
     {
       "id": "gdelt",
@@ -38,7 +38,7 @@
       "ok": false,
       "count": 0,
       "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-      "duration_ms": 21592
+      "duration_ms": 23352
     },
     {
       "id": "govuk",
@@ -46,7 +46,7 @@
       "ok": true,
       "count": 3,
       "error": "",
-      "duration_ms": 6833
+      "duration_ms": 6810
     }
   ],
   "warnings": [
