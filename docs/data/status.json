@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T10:42:16Z",
+  "generated_at": "2026-08-31T11:51:12Z",
   "run_ok": true,
   "model": "openai/gpt-4o-mini",
   "translation_available": true,
@@ -14,15 +14,15 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 9730
+      "duration_ms": 9409
     },
     {
       "id": "eurlex",
       "name": "EUR-Lex / 欧盟官方公报",
       "ok": true,
-      "count": 2,
+      "count": 0,
       "error": "",
-      "duration_ms": 25446
+      "duration_ms": 330
     },
     {
       "id": "federal_register",
@@ -30,15 +30,15 @@
       "ok": true,
       "count": 4,
       "error": "",
-      "duration_ms": 765
+      "duration_ms": 623
     },
     {
       "id": "gdelt",
       "name": "GDELT 全球新闻索引",
       "ok": false,
       "count": 0,
-      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-      "duration_ms": 23352
+      "error": "ReadTimeout: HTTPSConnectionPool(host='api.gdeltproject.org', port=443): Read timed out. (read timeout=35)",
+      "duration_ms": 58361
     },
     {
       "id": "govuk",
@@ -46,13 +46,10 @@
       "ok": true,
       "count": 3,
       "error": "",
-      "duration_ms": 6810
+      "duration_ms": 8446
     }
   ],
   "warnings": [
-    "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601926",
-    "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601929",
-    "模型批次 1: HTTPError: 410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions",
-    "模型批次 2: HTTPError: 410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions"
+    "模型批次 1: HTTPError: 410 Client Error: Gone for url: https://models.github.ai/inference/chat/completions"
   ]
 }
