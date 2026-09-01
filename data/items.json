@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-31T11:51:12Z",
+  "generated_at": "2026-09-01T10:29:36Z",
   "disclaimer": "机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。",
   "items": [
     {
@@ -551,7 +551,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -645,7 +645,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -698,7 +698,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -751,7 +751,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -803,7 +803,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -851,7 +851,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -904,7 +904,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -956,7 +956,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1004,7 +1004,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1055,7 +1055,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1103,7 +1103,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1152,7 +1152,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1201,7 +1201,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1252,7 +1252,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1302,7 +1302,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1458,6 +1458,39 @@
       "last_seen": "2026-08-22T06:02:00Z"
     },
     {
+      "id": "f8f96b7cf65d14016156",
+      "title_zh": "Certain Steel Grating From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order",
+      "title_en": "Certain Steel Grating From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order",
+      "title_original": "Certain Steel Grating From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Antidumping Duty Order",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://federalregister.gov/documents/2026/09/01/2026-17885/certain-steel-grating-from-the-peoples-republic-of-china-final-results-of-the-expedited-third-sunset",
+      "published_at": "2026-09-01T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-09-01T10:29:36Z",
+      "last_seen": "2026-09-01T10:29:36Z"
+    },
+    {
       "id": "67d29e52764928af15b2",
       "title_zh": "Check if your goods have been subject to a qualifying carbon pricing scheme",
       "title_en": "Check if your goods have been subject to a qualifying carbon pricing scheme",
@@ -1521,7 +1554,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-28T17:43:16Z",
-      "last_seen": "2026-08-31T11:51:12Z"
+      "last_seen": "2026-09-01T10:29:36Z"
     },
     {
       "id": "73d2eace524bdaf9e1ff",
@@ -1554,7 +1587,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-27T16:49:50Z",
-      "last_seen": "2026-08-31T11:51:12Z"
+      "last_seen": "2026-09-01T10:29:36Z"
     },
     {
       "id": "65bf279c8ac89c362a2a",
@@ -1587,7 +1620,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-25T06:17:09Z",
-      "last_seen": "2026-08-31T11:51:12Z"
+      "last_seen": "2026-09-01T10:29:36Z"
     },
     {
       "id": "a79139e2995dcd9202fc",
@@ -1620,7 +1653,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-21T06:18:01Z",
-      "last_seen": "2026-08-31T11:51:12Z"
+      "last_seen": "2026-09-01T10:29:36Z"
     },
     {
       "id": "8c9daff7588f79fcfc11",
@@ -1653,7 +1686,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-12T06:59:01Z",
-      "last_seen": "2026-08-31T11:51:12Z"
+      "last_seen": "2026-09-01T10:29:36Z"
     },
     {
       "id": "8aa460189c097b753c59",
@@ -1686,7 +1719,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-12T06:59:01Z",
-      "last_seen": "2026-08-31T11:51:12Z"
+      "last_seen": "2026-09-01T10:29:36Z"
     },
     {
       "id": "5a145b5f0b474846bfae",
@@ -2298,7 +2331,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -2346,7 +2379,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-31T11:51:12Z",
+      "last_seen": "2026-09-01T10:29:36Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
