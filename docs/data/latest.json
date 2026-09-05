@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T09:58:12Z",
+  "generated_at": "2026-09-05T09:26:29Z",
   "items": [
     {
       "id": "2b0c21b04598f5616ca4",
@@ -549,7 +549,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -643,7 +643,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -696,7 +696,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -749,7 +749,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -801,7 +801,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -849,7 +849,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -902,7 +902,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -954,7 +954,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1002,7 +1002,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1053,7 +1053,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1101,7 +1101,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1150,7 +1150,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1199,7 +1199,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1250,7 +1250,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1300,7 +1300,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-04T09:58:12Z",
+      "last_seen": "2026-09-05T09:26:29Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1355,6 +1355,39 @@
         "Japan",
         "Russia"
       ]
+    },
+    {
+      "id": "2e79a19dfd1904974425",
+      "title_zh": "Notice of initiation of an expiry review of the anti-dumping measures applicable to imports of certain pre- and post-stressing wires and wire strands of non-alloy steel (PSC wires and strands) originating in the People’s Republic of China",
+      "title_en": "Notice of initiation of an expiry review of the anti-dumping measures applicable to imports of certain pre- and post-stressing wires and wire strands of non-alloy steel (PSC wires and strands) originating in the People’s Republic of China",
+      "title_original": "Notice of initiation of an expiry review of the anti-dumping measures applicable to imports of certain pre- and post-stressing wires and wire strands of non-alloy steel (PSC wires and strands) originating in the People’s Republic of China",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AC_202604636",
+      "published_at": "2026-09-01T00:00:00Z",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-09-05T09:26:29Z",
+      "last_seen": "2026-09-05T09:26:29Z"
     },
     {
       "id": "60d5463e06ba76e467b9",
@@ -1486,7 +1519,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-01T10:29:36Z",
-      "last_seen": "2026-09-04T09:58:12Z"
+      "last_seen": "2026-09-05T09:26:29Z"
     },
     {
       "id": "67d29e52764928af15b2",
@@ -1552,7 +1585,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-28T17:43:16Z",
-      "last_seen": "2026-09-04T09:58:12Z"
+      "last_seen": "2026-09-05T09:26:29Z"
     },
     {
       "id": "73d2eace524bdaf9e1ff",
@@ -1585,7 +1618,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-27T16:49:50Z",
-      "last_seen": "2026-09-04T09:58:12Z"
+      "last_seen": "2026-09-05T09:26:29Z"
     },
     {
       "id": "65bf279c8ac89c362a2a",
@@ -1618,7 +1651,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-25T06:17:09Z",
-      "last_seen": "2026-09-04T09:58:12Z"
+      "last_seen": "2026-09-05T09:26:29Z"
     },
     {
       "id": "a79139e2995dcd9202fc",
@@ -1651,7 +1684,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-21T06:18:01Z",
-      "last_seen": "2026-09-04T09:58:12Z"
+      "last_seen": "2026-09-05T09:26:29Z"
     },
     {
       "id": "8c9daff7588f79fcfc11",
@@ -2060,51 +2093,6 @@
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
       "last_seen": "2026-08-04T08:09:57Z"
-    },
-    {
-      "id": "836a42fee2c293533eec",
-      "title_zh": "碳边界调整机制（CBAM）：政策摘要",
-      "title_en": "Carbon border adjustment mechanism (CBAM): Policy summary",
-      "title_original": "Carbon border adjustment mechanism (CBAM): Policy summary",
-      "summary_zh": "该文件提供了CBAM政策的摘要，包括核心政策框架和相关立法细节。",
-      "summary_en": "This document provides a summary of CBAM policy, including the core policy framework and relevant legislative details.",
-      "impact_zh": "了解CBAM政策框架将帮助中国钢铁企业更好地应对未来的市场变化。",
-      "impact_en": "Understanding the CBAM policy framework will help Chinese steel companies better respond to future market changes.",
-      "url": "https://gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-policy-summary",
-      "published_at": "2026-07-16T08:16:54Z",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "英国",
-      "region": "欧洲",
-      "category": "法规与正式文件",
-      "status": "审查中",
-      "importance": "中",
-      "products": [
-        "钢铁"
-      ],
-      "products_en": [
-        "steel"
-      ],
-      "tags": [
-        "CBAM",
-        "政策",
-        "钢铁"
-      ],
-      "tags_en": [
-        "CBAM",
-        "policy",
-        "steel"
-      ],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.8,
-      "translation_state": "complete",
-      "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-03T08:52:16Z"
     }
   ]
 }
