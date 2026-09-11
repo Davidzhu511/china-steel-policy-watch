@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-10T10:03:27Z",
+  "generated_at": "2026-09-11T10:01:20Z",
   "run_ok": true,
   "model": "openai/gpt-4o-mini",
   "translation_available": true,
   "new_items": 1,
-  "total_items": 63,
+  "total_items": 64,
   "source_success": 4,
   "source_total": 5,
   "sources": [
@@ -14,7 +14,7 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 7632
+      "duration_ms": 9482
     },
     {
       "id": "eurlex",
@@ -22,7 +22,7 @@
       "ok": true,
       "count": 0,
       "error": "",
-      "duration_ms": 337
+      "duration_ms": 483
     },
     {
       "id": "federal_register",
@@ -30,23 +30,23 @@
       "ok": true,
       "count": 4,
       "error": "",
-      "duration_ms": 473
+      "duration_ms": 618
     },
     {
       "id": "gdelt",
       "name": "GDELT 全球新闻索引",
       "ok": false,
       "count": 0,
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22China+steel%22+OR+%22Chinese+steel%22+OR+%22steel+from+China%22+OR+%22China%27s+steel%22%29&mode=artlist&maxrecords=100&format=json&sort=datedesc&timespan=7d",
-      "duration_ms": 11882
+      "error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "duration_ms": 22490
     },
     {
       "id": "govuk",
       "name": "GOV.UK / 英国政府",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": "",
-      "duration_ms": 4098
+      "duration_ms": 5101
     }
   ],
   "warnings": [
