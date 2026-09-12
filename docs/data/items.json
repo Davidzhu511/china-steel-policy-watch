@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-11T10:01:20Z",
+  "generated_at": "2026-09-12T09:37:04Z",
   "disclaimer": "机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。",
   "items": [
     {
@@ -238,7 +238,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-23T08:02:57Z",
-      "last_seen": "2026-09-11T10:01:20Z"
+      "last_seen": "2026-09-12T09:37:04Z"
     },
     {
       "id": "f0e64ceb0a997cd17404",
@@ -461,7 +461,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-11T10:01:20Z"
+      "last_seen": "2026-09-12T09:37:04Z"
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -551,7 +551,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -645,7 +645,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -698,7 +698,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -751,7 +751,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -803,7 +803,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -851,7 +851,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -904,7 +904,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -956,7 +956,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1004,7 +1004,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1055,7 +1055,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1103,7 +1103,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1152,7 +1152,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1201,7 +1201,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1252,7 +1252,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1302,7 +1302,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1359,6 +1359,72 @@
       ]
     },
     {
+      "id": "5bf60b1de1e1726c9344",
+      "title_zh": "Commission Implementing Regulation (EU) 2026/2022 of 10 September 2026 making imports of welded steel mesh originating in the People’s Republic of China and Türkiye subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration",
+      "title_en": "Commission Implementing Regulation (EU) 2026/2022 of 10 September 2026 making imports of welded steel mesh originating in the People’s Republic of China and Türkiye subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration",
+      "title_original": "Commission Implementing Regulation (EU) 2026/2022 of 10 September 2026 making imports of welded steel mesh originating in the People’s Republic of China and Türkiye subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202602022",
+      "published_at": "2026-09-11T00:00:00Z",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-09-12T09:37:04Z",
+      "last_seen": "2026-09-12T09:37:04Z"
+    },
+    {
+      "id": "552ec602e105333ff6c7",
+      "title_zh": "Commission Implementing Regulation (EU) 2026/2023 of 10 September 2026 making imports of bolted and boltless steel shelves originating in the People’s Republic of China subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration",
+      "title_en": "Commission Implementing Regulation (EU) 2026/2023 of 10 September 2026 making imports of bolted and boltless steel shelves originating in the People’s Republic of China subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration",
+      "title_original": "Commission Implementing Regulation (EU) 2026/2023 of 10 September 2026 making imports of bolted and boltless steel shelves originating in the People’s Republic of China subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202602023",
+      "published_at": "2026-09-11T00:00:00Z",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-09-12T09:37:04Z",
+      "last_seen": "2026-09-12T09:37:04Z"
+    },
+    {
       "id": "2e79a19dfd1904974425",
       "title_zh": "Notice of initiation of an expiry review of the anti-dumping measures applicable to imports of certain pre- and post-stressing wires and wire strands of non-alloy steel (PSC wires and strands) originating in the People’s Republic of China",
       "title_en": "Notice of initiation of an expiry review of the anti-dumping measures applicable to imports of certain pre- and post-stressing wires and wire strands of non-alloy steel (PSC wires and strands) originating in the People’s Republic of China",
@@ -1389,7 +1455,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-05T09:26:29Z",
-      "last_seen": "2026-09-06T09:40:52Z"
+      "last_seen": "2026-09-12T09:37:04Z"
     },
     {
       "id": "60d5463e06ba76e467b9",
@@ -1521,7 +1587,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-11T10:01:20Z",
-      "last_seen": "2026-09-11T10:01:20Z"
+      "last_seen": "2026-09-12T09:37:04Z"
     },
     {
       "id": "470807f2a648db915579",
@@ -1554,7 +1620,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-10T10:03:27Z",
-      "last_seen": "2026-09-11T10:01:20Z"
+      "last_seen": "2026-09-12T09:37:04Z"
     },
     {
       "id": "13e504615582f6d70b15",
@@ -1587,7 +1653,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-09T10:08:28Z",
-      "last_seen": "2026-09-11T10:01:20Z"
+      "last_seen": "2026-09-12T09:37:04Z"
     },
     {
       "id": "f8f96b7cf65d14016156",
@@ -1620,7 +1686,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-01T10:29:36Z",
-      "last_seen": "2026-09-11T10:01:20Z"
+      "last_seen": "2026-09-12T09:37:04Z"
     },
     {
       "id": "67d29e52764928af15b2",
@@ -1686,7 +1752,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-28T17:43:16Z",
-      "last_seen": "2026-09-11T10:01:20Z"
+      "last_seen": "2026-09-12T09:37:04Z"
     },
     {
       "id": "73d2eace524bdaf9e1ff",
@@ -1752,7 +1818,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-25T06:17:09Z",
-      "last_seen": "2026-09-11T10:01:20Z"
+      "last_seen": "2026-09-12T09:37:04Z"
     },
     {
       "id": "a79139e2995dcd9202fc",
@@ -2238,7 +2304,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-11T10:01:20Z"
+      "last_seen": "2026-09-12T09:37:04Z"
     },
     {
       "id": "073a77450327b18b41b2",
@@ -2463,7 +2529,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -2511,7 +2577,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-11T10:01:20Z",
+      "last_seen": "2026-09-12T09:37:04Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
