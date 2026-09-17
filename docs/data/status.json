@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:18:57Z",
+  "generated_at": "2026-09-17T10:27:49Z",
   "run_ok": true,
   "model": "openai/gpt-4o-mini",
   "translation_available": true,
@@ -14,7 +14,7 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 8790
+      "duration_ms": 9062
     },
     {
       "id": "eurlex",
@@ -22,7 +22,7 @@
       "ok": true,
       "count": 0,
       "error": "",
-      "duration_ms": 823
+      "duration_ms": 523
     },
     {
       "id": "federal_register",
@@ -30,7 +30,7 @@
       "ok": true,
       "count": 4,
       "error": "",
-      "duration_ms": 577
+      "duration_ms": 624
     },
     {
       "id": "gdelt",
@@ -38,15 +38,15 @@
       "ok": false,
       "count": 0,
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22China+steel%22+OR+%22Chinese+steel%22+OR+%22steel+from+China%22+OR+%22China%27s+steel%22%29&mode=artlist&maxrecords=100&format=json&sort=datedesc&timespan=7d",
-      "duration_ms": 12413
+      "duration_ms": 12626
     },
     {
       "id": "govuk",
       "name": "GOV.UK / 英国政府",
       "ok": true,
-      "count": 1,
+      "count": 3,
       "error": "",
-      "duration_ms": 5619
+      "duration_ms": 6385
     }
   ],
   "warnings": [
