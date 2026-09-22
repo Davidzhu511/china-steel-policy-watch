@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T11:08:08Z",
+  "generated_at": "2026-09-22T10:21:49Z",
   "items": [
     {
       "id": "2b0c21b04598f5616ca4",
@@ -236,7 +236,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-23T08:02:57Z",
-      "last_seen": "2026-09-21T11:08:08Z"
+      "last_seen": "2026-09-22T10:21:49Z"
     },
     {
       "id": "f0e64ceb0a997cd17404",
@@ -459,7 +459,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-21T11:08:08Z"
+      "last_seen": "2026-09-22T10:21:49Z"
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -549,7 +549,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -643,7 +643,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -696,7 +696,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -749,7 +749,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -801,7 +801,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -849,7 +849,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -902,7 +902,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -954,7 +954,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1002,7 +1002,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1053,7 +1053,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1101,7 +1101,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1150,7 +1150,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1199,7 +1199,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1250,7 +1250,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1300,7 +1300,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-21T11:08:08Z",
+      "last_seen": "2026-09-22T10:21:49Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1588,6 +1588,72 @@
       "last_seen": "2026-08-22T06:02:00Z"
     },
     {
+      "id": "ed28a9a0488818b2fb68",
+      "title_zh": "Steel Wire Garment Hangers From the People's Republic of China and the Socialist Republic of Vietnam: Preliminary Affirmative Determination of Circumvention of the Antidumping Duty Order on Steel Wire Garment Hangers From the People's Republic of China and the Antidumping and Countervailing Duty Orders on Steel Wire Garment Hangers From the Socialist Republic of Vietnam",
+      "title_en": "Steel Wire Garment Hangers From the People's Republic of China and the Socialist Republic of Vietnam: Preliminary Affirmative Determination of Circumvention of the Antidumping Duty Order on Steel Wire Garment Hangers From the People's Republic of China and the Antidumping and Countervailing Duty Orders on Steel Wire Garment Hangers From the Socialist Republic of Vietnam",
+      "title_original": "Steel Wire Garment Hangers From the People's Republic of China and the Socialist Republic of Vietnam: Preliminary Affirmative Determination of Circumvention of the Antidumping Duty Order on Steel Wire Garment Hangers From the People's Republic of China and the Antidumping and Countervailing Duty Orders on Steel Wire Garment Hangers From the Socialist Republic of Vietnam",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://federalregister.gov/documents/2026/09/22/2026-19376/steel-wire-garment-hangers-from-the-peoples-republic-of-china-and-the-socialist-republic-of-vietnam",
+      "published_at": "2026-09-22T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-09-22T10:21:49Z",
+      "last_seen": "2026-09-22T10:21:49Z"
+    },
+    {
+      "id": "c6bd9839c7a7be9188c5",
+      "title_zh": "Certain Brake Drums From the People's Republic of China: Preliminary Affirmative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
+      "title_en": "Certain Brake Drums From the People's Republic of China: Preliminary Affirmative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
+      "title_original": "Certain Brake Drums From the People's Republic of China: Preliminary Affirmative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://federalregister.gov/documents/2026/09/22/2026-19372/certain-brake-drums-from-the-peoples-republic-of-china-preliminary-affirmative-determination-of",
+      "published_at": "2026-09-22T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-09-22T10:21:49Z",
+      "last_seen": "2026-09-22T10:21:49Z"
+    },
+    {
       "id": "b1f8280eacc2850583f8",
       "title_zh": "Certain Steel Racks and Parts Thereof From the People's Republic of China: Final Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
       "title_en": "Certain Steel Racks and Parts Thereof From the People's Republic of China: Final Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2023-2024",
@@ -1618,7 +1684,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-15T10:28:32Z",
-      "last_seen": "2026-09-21T11:08:08Z"
+      "last_seen": "2026-09-22T10:21:49Z"
     },
     {
       "id": "841e4d8a3bd4d5d6b908",
@@ -1651,7 +1717,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-11T10:01:20Z",
-      "last_seen": "2026-09-21T11:08:08Z"
+      "last_seen": "2026-09-22T10:21:49Z"
     },
     {
       "id": "470807f2a648db915579",
@@ -1684,7 +1750,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-10T10:03:27Z",
-      "last_seen": "2026-09-21T11:08:08Z"
+      "last_seen": "2026-09-22T10:21:49Z"
     },
     {
       "id": "13e504615582f6d70b15",
@@ -1717,7 +1783,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-09T10:08:28Z",
-      "last_seen": "2026-09-21T11:08:08Z"
+      "last_seen": "2026-09-22T10:21:49Z"
     },
     {
       "id": "f8f96b7cf65d14016156",
@@ -1750,7 +1816,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-01T10:29:36Z",
-      "last_seen": "2026-09-21T11:08:08Z"
+      "last_seen": "2026-09-22T10:21:49Z"
     },
     {
       "id": "67d29e52764928af15b2",
@@ -1993,72 +2059,6 @@
       "impact_zh": "待自动分析；请先核对原文内容。",
       "impact_en": "Automated impact analysis is pending; please verify the original source.",
       "url": "https://federalregister.gov/documents/2026/08/06/2026-16057/prestressed-concrete-steel-wire-strand-from-the-peoples-republic-of-china-final-results-of-the",
-      "published_at": "2026-08-06T00:00:00Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "美国",
-      "region": "北美",
-      "category": "法规与正式文件",
-      "status": "审查中",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-27T16:49:50Z"
-    },
-    {
-      "id": "5ecdba159e4543916992",
-      "title_zh": "Non-Refillable Steel Cylinders From the People's Republic of China: Preliminary Results and Partial Rescission of the Antidumping Duty Administrative Review; 2024-2025",
-      "title_en": "Non-Refillable Steel Cylinders From the People's Republic of China: Preliminary Results and Partial Rescission of the Antidumping Duty Administrative Review; 2024-2025",
-      "title_original": "Non-Refillable Steel Cylinders From the People's Republic of China: Preliminary Results and Partial Rescission of the Antidumping Duty Administrative Review; 2024-2025",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://federalregister.gov/documents/2026/08/06/2026-16008/non-refillable-steel-cylinders-from-the-peoples-republic-of-china-preliminary-results-and-partial",
-      "published_at": "2026-08-06T00:00:00Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "美国",
-      "region": "北美",
-      "category": "法规与正式文件",
-      "status": "审查中",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-08-07T06:54:18Z",
-      "last_seen": "2026-08-27T16:49:50Z"
-    },
-    {
-      "id": "e652deb22631510a0181",
-      "title_zh": "Non-Refillable Steel Cylinders From China; Scheduling of Expedited Five-Year Reviews",
-      "title_en": "Non-Refillable Steel Cylinders From China; Scheduling of Expedited Five-Year Reviews",
-      "title_original": "Non-Refillable Steel Cylinders From China; Scheduling of Expedited Five-Year Reviews",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://federalregister.gov/documents/2026/08/06/2026-15923/non-refillable-steel-cylinders-from-china-scheduling-of-expedited-five-year-reviews",
       "published_at": "2026-08-06T00:00:00Z",
       "source": {
         "id": "federal_register",
