@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:18:21Z",
+  "generated_at": "2026-09-27T10:48:23Z",
   "items": [
     {
       "id": "2b0c21b04598f5616ca4",
@@ -459,7 +459,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-26T10:18:21Z"
+      "last_seen": "2026-09-27T10:48:23Z"
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -549,7 +549,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -643,7 +643,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -696,7 +696,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -749,7 +749,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -801,7 +801,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -849,7 +849,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -902,7 +902,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -954,7 +954,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1002,7 +1002,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1053,7 +1053,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1101,7 +1101,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1150,7 +1150,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1199,7 +1199,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1250,7 +1250,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1300,7 +1300,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-26T10:18:21Z",
+      "last_seen": "2026-09-27T10:48:23Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1357,6 +1357,39 @@
       ]
     },
     {
+      "id": "f877e128c1001f2d865d",
+      "title_zh": "Commission Implementing Regulation (EU) 2026/2089 of 18 September 2026 amending Implementing Regulation (EU) 2022/191 imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the People’s Republic of China following acceptance of a request for new exporting producer treatment",
+      "title_en": "Commission Implementing Regulation (EU) 2026/2089 of 18 September 2026 amending Implementing Regulation (EU) 2022/191 imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the People’s Republic of China following acceptance of a request for new exporting producer treatment",
+      "title_original": "Commission Implementing Regulation (EU) 2026/2089 of 18 September 2026 amending Implementing Regulation (EU) 2022/191 imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the People’s Republic of China following acceptance of a request for new exporting producer treatment",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202602089",
+      "published_at": "2026-09-21T00:00:00Z",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "法规与正式文件",
+      "status": "审查中",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-09-27T10:48:23Z",
+      "last_seen": "2026-09-27T10:48:23Z"
+    },
+    {
       "id": "43ef5e512c2218646bcb",
       "title_zh": "Notice of initiation of an expiry review of the anti-dumping measures applicable to imports of cold rolled stainless steel sheets and coils originating in the People’s Republic of China and Taiwan",
       "title_en": "Notice of initiation of an expiry review of the anti-dumping measures applicable to imports of cold rolled stainless steel sheets and coils originating in the People’s Republic of China and Taiwan",
@@ -1387,7 +1420,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-19T09:44:03Z",
-      "last_seen": "2026-09-20T10:07:40Z"
+      "last_seen": "2026-09-27T10:48:23Z"
     },
     {
       "id": "5bf60b1de1e1726c9344",
@@ -1420,7 +1453,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-12T09:37:04Z",
-      "last_seen": "2026-09-20T10:07:40Z"
+      "last_seen": "2026-09-27T10:48:23Z"
     },
     {
       "id": "552ec602e105333ff6c7",
@@ -1453,7 +1486,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-12T09:37:04Z",
-      "last_seen": "2026-09-20T10:07:40Z"
+      "last_seen": "2026-09-27T10:48:23Z"
     },
     {
       "id": "2e79a19dfd1904974425",
@@ -1618,7 +1651,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-26T10:18:21Z",
-      "last_seen": "2026-09-26T10:18:21Z"
+      "last_seen": "2026-09-27T10:48:23Z"
     },
     {
       "id": "ed28a9a0488818b2fb68",
@@ -1651,7 +1684,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-22T10:21:49Z",
-      "last_seen": "2026-09-26T10:18:21Z"
+      "last_seen": "2026-09-27T10:48:23Z"
     },
     {
       "id": "c6bd9839c7a7be9188c5",
@@ -1684,7 +1717,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-22T10:21:49Z",
-      "last_seen": "2026-09-26T10:18:21Z"
+      "last_seen": "2026-09-27T10:48:23Z"
     },
     {
       "id": "b1f8280eacc2850583f8",
@@ -1717,7 +1750,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-15T10:28:32Z",
-      "last_seen": "2026-09-26T10:18:21Z"
+      "last_seen": "2026-09-27T10:48:23Z"
     },
     {
       "id": "841e4d8a3bd4d5d6b908",
@@ -1750,7 +1783,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-11T10:01:20Z",
-      "last_seen": "2026-09-26T10:18:21Z"
+      "last_seen": "2026-09-27T10:48:23Z"
     },
     {
       "id": "470807f2a648db915579",
@@ -1783,7 +1816,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-10T10:03:27Z",
-      "last_seen": "2026-09-26T10:18:21Z"
+      "last_seen": "2026-09-27T10:48:23Z"
     },
     {
       "id": "13e504615582f6d70b15",
@@ -1816,7 +1849,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-09T10:08:28Z",
-      "last_seen": "2026-09-26T10:18:21Z"
+      "last_seen": "2026-09-27T10:48:23Z"
     },
     {
       "id": "f8f96b7cf65d14016156",
@@ -2026,39 +2059,6 @@
       "impact_zh": "待自动分析；请先核对原文内容。",
       "impact_en": "Automated impact analysis is pending; please verify the original source.",
       "url": "https://federalregister.gov/documents/2026/08/12/2026-16390/boltless-steel-shelving-units-prepackaged-for-sale-from-china-scheduling-of-expedited-five-year",
-      "published_at": "2026-08-12T00:00:00Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "美国",
-      "region": "北美",
-      "category": "法规与正式文件",
-      "status": "审查中",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-08-12T06:59:01Z",
-      "last_seen": "2026-09-02T09:56:37Z"
-    },
-    {
-      "id": "8aa460189c097b753c59",
-      "title_zh": "Prestressed Concrete Steel Wire Strand From China; Scheduling of Expedited Five-Year Reviews",
-      "title_en": "Prestressed Concrete Steel Wire Strand From China; Scheduling of Expedited Five-Year Reviews",
-      "title_original": "Prestressed Concrete Steel Wire Strand From China; Scheduling of Expedited Five-Year Reviews",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://federalregister.gov/documents/2026/08/12/2026-16380/prestressed-concrete-steel-wire-strand-from-china-scheduling-of-expedited-five-year-reviews",
       "published_at": "2026-08-12T00:00:00Z",
       "source": {
         "id": "federal_register",
