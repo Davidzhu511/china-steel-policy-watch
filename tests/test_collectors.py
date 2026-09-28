@@ -4,6 +4,7 @@ from pathlib import Path
 from steelwatch.collectors.ec_have_your_say import EcHaveYourSayCollector
 from steelwatch.collectors.ec_watch_pages import EcWatchPagesCollector
 from steelwatch.collectors.eurlex import EurLexCollector
+from steelwatch.collectors.gdelt import GdeltCollector
 from steelwatch.collectors.rss import RssCollector
 
 
@@ -197,3 +198,70 @@ def test_rss_collector_keeps_eu_ets_policy_signal():
     assert items[0].source_kind == "official-notice"
     assert items[0].country == "欧盟"
     assert items[0].source_name == "European Commission"
+
+
+class FakeGdeltResponse:
+    def __init__(self, status_code, payload=None):
+        self.status_code = status_code
+        self.payload = payload or {}
+        self.headers = {}
+
+    def raise_for_status(self):
+        if self.status_code >= 400:
+            raise RuntimeError(f"HTTP {self.status_code}")
+
+    def json(self):
+        return self.payload
+
+
+class FakeGdeltSession:
+    def get(self, *args, **kwargs):
+        query = kwargs["params"]["query"]
+        if query == "rate-limited":
+            return FakeGdeltResponse(429)
+        return FakeGdeltResponse(
+            200,
+            {
+                "articles": [
+                    {
+                        "title": "China steel tariff quota update",
+                        "url": "https://example.com/china-steel-quota",
+                        "domain": "example.com",
+                        "sourcecountry": "United Kingdom",
+                        "seendate": "20260927T120000Z",
+                        "language": "English",
+                    }
+                ]
+            },
+        )
+
+
+def test_gdelt_continues_when_one_query_is_rate_limited():
+    config = {
+        "settings": {},
+        "keywords": {
+            "china": ["china"],
+            "materials": ["steel"],
+            "global_steel_policy": ["steel tariff quota"],
+            "universal_policy": [],
+            "exclude": [],
+        },
+        "official_domains": {},
+    }
+    collector = GdeltCollector(
+        {
+            "name": "GDELT",
+            "lookback_days": 7,
+            "max_records_per_query": 20,
+            "retries": 1,
+            "query_delay_seconds": 0,
+            "queries": ["rate-limited", "works"],
+        },
+        config,
+    )
+    collector.session = FakeGdeltSession()
+
+    items = collector.collect()
+
+    assert len(items) == 1
+    assert items[0].title == "China steel tariff quota update"
