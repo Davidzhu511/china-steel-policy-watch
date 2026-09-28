@@ -147,6 +147,8 @@ class GitHubModelsEnricher:
             str(model) for model in fallbacks if model and str(model) != self.model
         ]
         self.batch_size = max(1, min(12, int(settings.get("model_batch_size", 8))))
+        self.model_timeout = max(10, min(90, int(settings.get("model_timeout_seconds", 35))))
+        self.model_attempts = max(1, min(3, int(settings.get("model_attempts_per_model", 1))))
         self.session = requests.Session()
 
     @property
@@ -162,13 +164,8 @@ class GitHubModelsEnricher:
         try:
             return self._call(batch)
         except Exception as exc:
-            if len(batch) > 1:
-                midpoint = len(batch) // 2
-                return self._enrich_batch(batch[:midpoint], warnings, label) + self._enrich_batch(
-                    batch[midpoint:], warnings, label
-                )
             warnings.append(f"{label}: {type(exc).__name__}: {exc}")
-            return [_fallback(batch[0])]
+            return [_fallback(item) for item in batch]
 
     def enrich(self, items: list[RawItem]) -> tuple[list[dict[str, Any]], list[str]]:
         if not items:
@@ -192,11 +189,6 @@ class GitHubModelsEnricher:
         try:
             return self._call_backfill(batch)
         except Exception as exc:
-            if len(batch) > 1:
-                midpoint = len(batch) // 2
-                output = self._backfill_batch(batch[:midpoint], warnings, label)
-                output.update(self._backfill_batch(batch[midpoint:], warnings, label))
-                return output
             warnings.append(f"{label}: {type(exc).__name__}: {exc}")
             return {}
 
@@ -220,27 +212,39 @@ class GitHubModelsEnricher:
         diagnostics: list[str] = []
         for model in self.model_candidates:
             model_payload = {**payload, "model": model}
-            for attempt in range(3):
-                response = self.session.post(
-                    self.endpoint,
-                    headers={
-                        "Accept": "application/vnd.github+json",
-                        "Authorization": f"Bearer {self.token}",
-                        "X-GitHub-Api-Version": "2022-11-28",
-                        "Content-Type": "application/json",
-                    },
-                    json=model_payload,
-                    timeout=120,
-                )
+            for attempt in range(self.model_attempts):
+                try:
+                    response = self.session.post(
+                        self.endpoint,
+                        headers={
+                            "Accept": "application/vnd.github+json",
+                            "Authorization": f"Bearer {self.token}",
+                            "X-GitHub-Api-Version": "2022-11-28",
+                            "Content-Type": "application/json",
+                        },
+                        json=model_payload,
+                        timeout=self.model_timeout,
+                    )
+                except requests.RequestException as exc:
+                    last_error = exc
+                    diagnostics.append(f"{model}:{type(exc).__name__}")
+                    continue
+
                 if response.status_code in {429, 500, 502, 503, 504}:
                     last_error = RuntimeError(
                         f"GitHub Models HTTP {response.status_code} ({model})"
                     )
                     diagnostics.append(f"{model}:http-{response.status_code}")
-                    if attempt < 2:
-                        time.sleep(2 ** (attempt + 1))
+                    if attempt + 1 < self.model_attempts:
+                        retry_after = response.headers.get("Retry-After", "")
+                        try:
+                            wait = float(retry_after)
+                        except (TypeError, ValueError):
+                            wait = 1.0
+                        time.sleep(max(0.5, min(wait, 3.0)))
                         continue
                     break
+
                 response.raise_for_status()
                 try:
                     body = response.json()
@@ -259,13 +263,11 @@ class GitHubModelsEnricher:
                 except (json.JSONDecodeError, KeyError, IndexError, TypeError, ValueError) as exc:
                     last_error = exc
                     diagnostics.append(f"{model}:{type(exc).__name__}")
-                    if attempt < 2:
-                        time.sleep(attempt + 1)
-                        continue
                     break
+
         if last_error is None:
             last_error = RuntimeError("no enrichment model candidates configured")
-        detail = ", ".join(diagnostics[-6:])
+        detail = ", ".join(diagnostics[-8:])
         if detail:
             raise RuntimeError(f"{last_error}; attempts={detail}") from last_error
         raise last_error
