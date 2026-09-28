@@ -2,7 +2,7 @@
   "settings": {
     "timezone": "Europe/Berlin",
     "retention_days": 730,
-    "max_new_items_per_run": 36,
+    "max_new_items_per_run": 2,
     "fetch_page_descriptions": true,
     "request_timeout_seconds": 25,
     "model": "openai/gpt-4.1",
