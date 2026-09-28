@@ -2,11 +2,11 @@
   "settings": {
     "timezone": "Europe/Berlin",
     "retention_days": 730,
-    "max_new_items_per_run": 48,
+    "max_new_items_per_run": 36,
     "fetch_page_descriptions": true,
     "request_timeout_seconds": 25,
     "model": "openai/gpt-4o-mini",
-    "model_batch_size": 8,
+    "model_batch_size": 4,
     "english_backfill_per_run": 24
   },
   "sources": {
@@ -60,8 +60,8 @@
       ]
     },
     "gdelt": {
-      "enabled": true,
-      "name": "GDELT 全球新闻索引",
+      "enabled": false,
+      "name": "GDELT 全球新闻索引（备用）",
       "lookback_days": 7,
       "max_records_per_query": 40,
       "queries": [
@@ -90,6 +90,11 @@
             "accreditation",
             "verification",
             "verifier"
+          ],
+          "match_in_title": true,
+          "max_items": 4,
+          "include_paths": [
+            "/document/download/"
           ]
         },
         {
@@ -103,7 +108,9 @@
           "match_terms": [
             "cbam",
             "carbon border"
-          ]
+          ],
+          "match_in_title": true,
+          "max_items": 8
         },
         {
           "name": "DG TAXUD · CBAM Guidance",
@@ -119,11 +126,17 @@
             "benchmark",
             "guidance",
             "verification"
+          ],
+          "match_in_title": true,
+          "max_items": 8,
+          "include_paths": [
+            "/document/download/",
+            "/news/"
           ]
         },
         {
           "name": "DG CLIMA · EU ETS",
-          "url": "https://climate.ec.europa.eu/index_en",
+          "url": "https://climate.ec.europa.eu/news-other-reads/news_en",
           "country": "欧盟",
           "region": "欧洲",
           "allowed_domains": [
@@ -135,6 +148,11 @@
             "surrender",
             "allowance",
             "carbon market"
+          ],
+          "match_in_title": true,
+          "max_items": 8,
+          "include_paths": [
+            "/news-other-reads/news/"
           ]
         },
         {
@@ -153,6 +171,11 @@
             "trade defence",
             "tariff quota",
             "melt and pour"
+          ],
+          "match_in_title": true,
+          "max_items": 8,
+          "include_paths": [
+            "/news/"
           ]
         }
       ]
@@ -162,6 +185,15 @@
       "name": "RSS / Google News 新闻发现",
       "lookback_days": 10,
       "feeds": [
+        {
+          "name": "DG CLIMA RSS",
+          "url": "https://climate.ec.europa.eu/node/2/rss_en",
+          "country": "欧盟",
+          "region": "欧洲",
+          "official": true,
+          "language": "en",
+          "max_items": 8
+        },
         {
           "name": "DG TRADE RSS",
           "url": "https://policy.trade.ec.europa.eu/node/2/rss_en",
@@ -173,19 +205,23 @@
         {
           "name": "Google News · CBAM / EU ETS",
           "url": "https://news.google.com/rss/search?q=%28CBAM%20OR%20%22EU%20ETS%22%29%20steel%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen",
-          "language": "en"
+          "language": "en",
+          "max_items": 8
         },
         {
           "name": "Google News · China steel trade",
           "url": "https://news.google.com/rss/search?q=%22China%20steel%22%20%28tariff%20OR%20antidumping%20OR%20safeguard%20OR%20quota%29%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen",
-          "language": "en"
+          "language": "en",
+          "max_items": 8
         },
         {
           "name": "Google News · Chinese steelmakers",
           "url": "https://news.google.com/rss/search?q=%28Shougang%20OR%20Baowu%20OR%20Baosteel%20OR%20Ansteel%20OR%20HBIS%20OR%20Tsingshan%29%20steel%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen",
-          "language": "en"
+          "language": "en",
+          "max_items": 8
         }
-      ]
+      ],
+      "max_items_per_feed": 10
     }
   },
   "keywords": {

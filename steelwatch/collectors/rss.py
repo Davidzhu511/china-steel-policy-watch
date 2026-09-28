@@ -80,6 +80,7 @@ class RssCollector(Collector):
         keywords = self.app_config.get("keywords", {})
         found: dict[str, RawItem] = {}
 
+        default_limit = max(1, min(50, int(self.config.get("max_items_per_feed", 12))))
         for feed in self.config.get("feeds", []):
             url = str(feed.get("url") or "").strip()
             if not url:
@@ -92,6 +93,8 @@ class RssCollector(Collector):
                 for node in root.iter()
                 if _tag_name(node.tag) in {"item", "entry"}
             ]
+            accepted = 0
+            feed_limit = max(1, min(50, int(feed.get("max_items", default_limit))))
             for node in nodes:
                 title = _child_text(node, "title")
                 excerpt = _child_text(node, "description", "summary", "content")
@@ -149,4 +152,7 @@ class RssCollector(Collector):
                         "discovery": "rss",
                     },
                 )
+                accepted += 1
+                if accepted >= feed_limit:
+                    break
         return list(found.values())

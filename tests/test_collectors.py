@@ -132,7 +132,7 @@ def test_ec_watch_pages_collects_dated_cbam_document():
       <div class="document-card">
         <h3>State-of-play CBAM accreditation</h3>
         <p>25 September 2026</p>
-        <a href="/files/state-of-play-cbam.pdf">Download</a>
+        <a href="/document/download/abc_en?filename=State-of-play+CBAM+accreditation.pdf">Download (297 KB - PDF)</a>
       </div>
     </body></html>
     """
@@ -145,7 +145,9 @@ def test_ec_watch_pages_collects_dated_cbam_document():
                     "name": "DG TAXUD · CBAM Verification",
                     "url": "https://taxation-customs.ec.europa.eu/cbam-verification_en",
                     "allowed_domains": ["ec.europa.eu"],
+                    "include_paths": ["/document/download/"],
                     "match_terms": ["cbam", "accreditation"],
+                    "match_in_title": True,
                 }
             ],
         },
@@ -163,14 +165,14 @@ def test_ec_watch_pages_collects_dated_cbam_document():
 
 
 def test_rss_collector_keeps_eu_ets_policy_signal():
-    xml = b"""<?xml version="1.0" encoding="UTF-8"?>
+    xml = """<?xml version="1.0" encoding="UTF-8"?>
     <rss version="2.0"><channel><item>
-      <title>EU ETS surrender and compliance data for steel and CBAM</title>
-      <link>https://climate.ec.europa.eu/news/eu-ets-update_en</link>
-      <description>Commission update on EU ETS compliance and steel carbon costs.</description>
+      <title>EU ETS – Publication of surrender and compliance data</title>
+      <link>https://climate.ec.europa.eu/news-other-reads/news/eu-ets-publication-surrender-and-compliance-data-2026-09-25_en</link>
+      <description>The Commission will publish the available surrender and compliance data 2025 on October 6, 2026, at the latest.</description>
       <pubDate>Fri, 25 Sep 2026 10:00:00 GMT</pubDate>
       <source url="https://climate.ec.europa.eu/">European Commission</source>
-    </item></channel></rss>"""
+    </item></channel></rss>""".encode("utf-8")
     config = {
         "settings": {},
         "keywords": {
@@ -195,6 +197,7 @@ def test_rss_collector_keeps_eu_ets_policy_signal():
     items = collector.collect()
 
     assert len(items) == 1
+    assert items[0].title == "EU ETS – Publication of surrender and compliance data"
     assert items[0].source_kind == "official-notice"
     assert items[0].country == "欧盟"
     assert items[0].source_name == "European Commission"
@@ -265,3 +268,37 @@ def test_gdelt_continues_when_one_query_is_rate_limited():
 
     assert len(items) == 1
     assert items[0].title == "China steel tariff quota update"
+
+
+
+def test_ec_watch_pages_skips_generic_links_and_future_dates():
+    html = """
+    <html><body>
+      <div><p>25 September 2026</p><a href="/index_en">Skip to main content</a></div>
+      <div><p>30 September 2027</p><a href="/document/download/future_en?filename=CBAM-future.pdf">Download</a></div>
+      <div><p>25 September 2026</p><a href="/news/steel-update-2026-09-25_en">Steel safeguard update</a></div>
+    </body></html>
+    """
+    collector = EcWatchPagesCollector(
+        {
+            "name": "EC Watch",
+            "lookback_days": 5000,
+            "pages": [
+                {
+                    "name": "DG TRADE · Steel",
+                    "url": "https://policy.trade.ec.europa.eu/news_en",
+                    "allowed_domains": ["ec.europa.eu"],
+                    "include_paths": ["/news/"],
+                    "match_terms": ["steel"],
+                    "match_in_title": True,
+                }
+            ],
+        },
+        {"settings": {}},
+    )
+    collector.session = FakeRichSession(FakeRichResponse(text=html))
+
+    items = collector.collect()
+
+    assert len(items) == 1
+    assert items[0].title == "Steel safeguard update"

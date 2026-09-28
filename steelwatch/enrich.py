@@ -149,6 +149,23 @@ class GitHubModelsEnricher:
     def available(self) -> bool:
         return bool(self.token)
 
+    def _enrich_batch(
+        self,
+        batch: list[RawItem],
+        warnings: list[str],
+        label: str,
+    ) -> list[dict[str, Any]]:
+        try:
+            return self._call(batch)
+        except Exception as exc:
+            if len(batch) > 1:
+                midpoint = len(batch) // 2
+                return self._enrich_batch(batch[:midpoint], warnings, label) + self._enrich_batch(
+                    batch[midpoint:], warnings, label
+                )
+            warnings.append(f"{label}: {type(exc).__name__}: {exc}")
+            return [_fallback(batch[0])]
+
     def enrich(self, items: list[RawItem]) -> tuple[list[dict[str, Any]], list[str]]:
         if not items:
             return [], []
@@ -158,12 +175,26 @@ class GitHubModelsEnricher:
         warnings: list[str] = []
         for start in range(0, len(items), self.batch_size):
             batch = items[start : start + self.batch_size]
-            try:
-                output.extend(self._call(batch))
-            except Exception as exc:
-                warnings.append(f"模型批次 {start // self.batch_size + 1}: {type(exc).__name__}: {exc}")
-                output.extend(_fallback(item) for item in batch)
+            label = f"模型批次 {start // self.batch_size + 1}"
+            output.extend(self._enrich_batch(batch, warnings, label))
         return output, warnings
+
+    def _backfill_batch(
+        self,
+        batch: list[dict[str, Any]],
+        warnings: list[str],
+        label: str,
+    ) -> dict[str, dict[str, Any]]:
+        try:
+            return self._call_backfill(batch)
+        except Exception as exc:
+            if len(batch) > 1:
+                midpoint = len(batch) // 2
+                output = self._backfill_batch(batch[:midpoint], warnings, label)
+                output.update(self._backfill_batch(batch[midpoint:], warnings, label))
+                return output
+            warnings.append(f"{label}: {type(exc).__name__}: {exc}")
+            return {}
 
     def backfill_english(
         self, items: list[dict[str, Any]]
@@ -176,12 +207,8 @@ class GitHubModelsEnricher:
         warnings: list[str] = []
         for start in range(0, len(items), self.batch_size):
             batch = items[start : start + self.batch_size]
-            try:
-                output.update(self._call_backfill(batch))
-            except Exception as exc:
-                warnings.append(
-                    f"英文补齐批次 {start // self.batch_size + 1}: {type(exc).__name__}: {exc}"
-                )
+            label = f"英文补齐批次 {start // self.batch_size + 1}"
+            output.update(self._backfill_batch(batch, warnings, label))
         return output, warnings
 
     def _request(self, payload: dict[str, Any]) -> dict[str, Any]:
@@ -229,7 +256,7 @@ class GitHubModelsEnricher:
                 "published_at": item.published_at,
                 "country_hint": item.country,
                 "region_hint": item.region,
-                "excerpt": trim_text(item.excerpt, 8_000),
+                "excerpt": trim_text(item.excerpt, 3_500),
             }
             for item in items
         ]
@@ -244,7 +271,7 @@ class GitHubModelsEnricher:
                 },
             ],
             "temperature": 0.1,
-            "max_tokens": 6_000,
+            "max_tokens": 4_500,
             "response_format": {"type": "json_object"},
         }
         parsed = self._request(payload)
