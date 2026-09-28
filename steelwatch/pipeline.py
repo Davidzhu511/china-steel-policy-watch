@@ -8,10 +8,12 @@ from typing import Any
 
 from .collectors import (
     EcHaveYourSayCollector,
+    EcWatchPagesCollector,
     EurLexCollector,
     FederalRegisterCollector,
     GdeltCollector,
     GovUkCollector,
+    RssCollector,
 )
 from .enrich import GitHubModelsEnricher
 from .fetch import fetch_page_excerpt
@@ -30,10 +32,12 @@ from .util import (
 
 COLLECTOR_TYPES = {
     "ec_have_your_say": EcHaveYourSayCollector,
+    "ec_watch_pages": EcWatchPagesCollector,
     "eurlex": EurLexCollector,
     "federal_register": FederalRegisterCollector,
     "govuk": GovUkCollector,
     "gdelt": GdeltCollector,
+    "rss": RssCollector,
 }
 IMPORTANCE_SCORE = {"重大": 4, "高": 3, "中": 2, "低": 1}
 SOURCE_SCORE = {"official-law": 3, "official-notice": 2, "news": 1}
