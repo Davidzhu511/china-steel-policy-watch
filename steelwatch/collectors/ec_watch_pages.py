@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import re
 from datetime import UTC, datetime, timedelta
-from urllib.parse import urljoin, urlsplit
+from urllib.parse import parse_qs, unquote_plus, urljoin, urlsplit
 
 from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
@@ -24,15 +24,19 @@ DATE_PATTERNS = (
     ),
     re.compile(r"\b\d{4}-\d{2}-\d{2}\b"),
 )
-GENERIC_LINK_TEXT = {
+GENERIC_LINK_PREFIXES = (
     "download",
     "english",
     "read more",
+    "learn more",
+    "find out",
+    "see all",
+    "skip to",
     "more",
     "view",
     "document",
     "pdf",
-}
+)
 
 
 def _clean(value: str) -> str:
@@ -61,7 +65,7 @@ def _container(anchor):
         if getattr(parent, "name", None) not in {"article", "li", "div", "section"}:
             continue
         text = _clean(parent.get_text(" ", strip=True))
-        if not 20 <= len(text) <= 1800:
+        if not 20 <= len(text) <= 900:
             continue
         if fallback is None:
             fallback = (parent, text)
@@ -73,10 +77,30 @@ def _container(anchor):
     return parent, _clean(parent.get_text(" ", strip=True) if parent else "")
 
 
-def _title(anchor, container) -> str:
+def _generic_link(text: str) -> bool:
+    lowered = text.strip().lower()
+    return any(lowered.startswith(prefix) for prefix in GENERIC_LINK_PREFIXES)
+
+
+def _filename_title(target: str) -> str:
+    parts = urlsplit(target)
+    filename = parse_qs(parts.query).get("filename", [""])[0]
+    if not filename:
+        return ""
+    value = unquote_plus(filename).rsplit("/", 1)[-1]
+    value = re.sub(r"\.(?:pdf|html?|xlsx?|docx?|zip)$", "", value, flags=re.IGNORECASE)
+    return trim_text(_clean(value.replace("_", " ")), 220)
+
+
+def _title(anchor, container, target: str) -> str:
     text = _clean(anchor.get_text(" ", strip=True))
-    if len(text) >= 8 and text.lower() not in GENERIC_LINK_TEXT:
+    if len(text) >= 8 and not _generic_link(text):
         return trim_text(text, 220)
+    filename_title = _filename_title(target)
+    if filename_title:
+        return filename_title
+    if _generic_link(text):
+        return ""
     if container is not None:
         heading = container.select_one(
             ".ecl-file__title, [class*='file__title'], h2, h3, h4, h5, strong"
@@ -85,11 +109,6 @@ def _title(anchor, container) -> str:
             heading_text = _clean(heading.get_text(" ", strip=True))
             if len(heading_text) >= 8:
                 return trim_text(heading_text, 220)
-    previous = anchor.find_previous(["h2", "h3", "h4", "h5"])
-    if previous is not None:
-        previous_text = _clean(previous.get_text(" ", strip=True))
-        if len(previous_text) >= 8:
-            return trim_text(previous_text, 220)
     return trim_text(text, 220)
 
 
@@ -109,6 +128,14 @@ class EcWatchPagesCollector(Collector):
             response.raise_for_status()
             soup = BeautifulSoup(response.text, "html.parser")
             terms = [str(term).lower() for term in page.get("match_terms", []) if term]
+            match_in_title = bool(page.get("match_in_title", False))
+            include_paths = [
+                str(value).lower()
+                for value in page.get("include_paths", [])
+                if value
+            ]
+            max_items = max(1, min(50, int(page.get("max_items", 12))))
+            page_found: dict[str, RawItem] = {}
             allowed_domains = {
                 str(domain).lower().removeprefix("www.")
                 for domain in page.get("allowed_domains", [])
@@ -119,26 +146,31 @@ class EcWatchPagesCollector(Collector):
                 target = canonical_url(urljoin(url, anchor.get("href") or ""))
                 if not target:
                     continue
-                domain = (urlsplit(target).hostname or "").lower().removeprefix("www.")
+                parts = urlsplit(target)
+                domain = (parts.hostname or "").lower().removeprefix("www.")
                 if allowed_domains and not any(
                     domain == allowed or domain.endswith(f".{allowed}")
                     for allowed in allowed_domains
                 ):
                     continue
+                if include_paths and not any(value in parts.path.lower() for value in include_paths):
+                    continue
 
                 container, context = _container(anchor)
-                title = _title(anchor, container)
+                title = _title(anchor, container, target)
                 if len(title) < 8:
                     continue
-                haystack = f"{title} {context}".lower()
+                haystack = title.lower() if match_in_title else f"{title} {context}".lower()
                 if terms and not any(term in haystack for term in terms):
                     continue
                 published = _extract_date(context)
                 if published is None or published < cutoff:
                     continue
+                if published > datetime.now(UTC) + timedelta(days=1):
+                    continue
 
                 identifier = stable_id(target, title)
-                found[identifier] = RawItem(
+                page_found[identifier] = RawItem(
                     id=identifier,
                     title=title,
                     url=target,
@@ -156,4 +188,10 @@ class EcWatchPagesCollector(Collector):
                         "watch_page": url,
                     },
                 )
+            newest = sorted(
+                page_found.values(),
+                key=lambda item: item.published_at,
+                reverse=True,
+            )[:max_items]
+            found.update({item.id: item for item in newest})
         return list(found.values())
