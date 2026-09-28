@@ -82,11 +82,26 @@ def _fallback(item: RawItem) -> dict[str, Any]:
 
 
 def _clean_json_text(value: str) -> str:
-    value = value.strip()
+    value = value.strip().lstrip("\ufeff")
     if value.startswith("```"):
         value = re.sub(r"^```(?:json)?\s*", "", value, flags=re.IGNORECASE)
         value = re.sub(r"\s*```$", "", value)
-    return value
+    return value.strip()
+
+
+def _parse_json_object(value: str) -> dict[str, Any]:
+    cleaned = _clean_json_text(value)
+    try:
+        parsed = json.loads(cleaned)
+    except json.JSONDecodeError as first_error:
+        start = cleaned.find("{")
+        end = cleaned.rfind("}")
+        if start < 0 or end <= start:
+            raise first_error
+        parsed = json.loads(cleaned[start : end + 1])
+    if not isinstance(parsed, dict):
+        raise TypeError("model returned non-object JSON")
+    return parsed
 
 
 def _short_list(value: Any, *, limit: int, item_limit: int) -> list[str]:
@@ -256,9 +271,7 @@ class GitHubModelsEnricher:
                         raise ValueError(
                             f"empty model content ({model}, finish_reason={finish_reason})"
                         )
-                    parsed = json.loads(_clean_json_text(content))
-                    if not isinstance(parsed, dict):
-                        raise TypeError(f"model returned non-object JSON ({model})")
+                    parsed = _parse_json_object(content)
                     return parsed
                 except (json.JSONDecodeError, KeyError, IndexError, TypeError, ValueError) as exc:
                     last_error = exc
