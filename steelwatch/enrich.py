@@ -262,6 +262,7 @@ class GitHubModelsEnricher:
 
                 response.raise_for_status()
                 content = ""
+                body: Any = None
                 try:
                     body = response.json()
                     choice = body["choices"][0]
@@ -277,8 +278,19 @@ class GitHubModelsEnricher:
                 except (json.JSONDecodeError, KeyError, IndexError, TypeError, ValueError) as exc:
                     last_error = exc
                     preview = re.sub(r"\s+", " ", str(content)).strip()[:160]
+                    if isinstance(body, dict):
+                        body_keys = ",".join(str(key) for key in list(body.keys())[:8])
+                        body_preview = re.sub(
+                            r"\s+",
+                            " ",
+                            json.dumps(body, ensure_ascii=False),
+                        ).strip()[:260]
+                    else:
+                        body_keys = type(body).__name__
+                        body_preview = re.sub(r"\s+", " ", str(body)).strip()[:260]
                     diagnostics.append(
-                        f"{model}:{type(exc).__name__}:preview={preview!r}"
+                        f"{model}:{type(exc).__name__}:preview={preview!r}:"
+                        f"body_keys={body_keys!r}:body={body_preview!r}"
                     )
                     break
 
