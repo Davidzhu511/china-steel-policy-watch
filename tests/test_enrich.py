@@ -1,4 +1,4 @@
-from steelwatch.enrich import GitHubModelsEnricher, _validate
+from steelwatch.enrich import GitHubModelsEnricher, _parse_json_object, _validate
 from steelwatch.models import RawItem
 
 
@@ -84,3 +84,10 @@ def test_model_request_falls_back_when_primary_returns_empty_content(monkeypatch
 
     assert parsed == {"items": []}
     assert session.models == ["openai/gpt-4.1-mini", "openai/gpt-4o-mini"]
+
+
+
+def test_parse_json_object_accepts_markdown_and_leading_text():
+    assert _parse_json_object('Here is the result:\n{"items": []}') == {"items": []}
+    assert _parse_json_object('```json\n{"items": []}\n```') == {"items": []}
+    assert _parse_json_object('\ufeff  {"items": []}') == {"items": []}
