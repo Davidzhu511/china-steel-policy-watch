@@ -25,11 +25,12 @@ permissions:
 
 concurrency:
   group: steelwatch-pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 18
     outputs:
       run: ${{ steps.gate.outputs.run }}
     steps:
