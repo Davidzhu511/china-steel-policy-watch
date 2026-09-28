@@ -56,12 +56,19 @@ def _extract_date(text: str) -> datetime | None:
 
 
 def _container(anchor):
-    for name in ("article", "li", "div"):
-        parent = anchor.find_parent(name)
-        if parent is not None:
-            text = _clean(parent.get_text(" ", strip=True))
-            if 20 <= len(text) <= 1800:
-                return parent, text
+    fallback = None
+    for parent in anchor.parents:
+        if getattr(parent, "name", None) not in {"article", "li", "div", "section"}:
+            continue
+        text = _clean(parent.get_text(" ", strip=True))
+        if not 20 <= len(text) <= 1800:
+            continue
+        if fallback is None:
+            fallback = (parent, text)
+        if _extract_date(text) is not None:
+            return parent, text
+    if fallback is not None:
+        return fallback
     parent = anchor.parent
     return parent, _clean(parent.get_text(" ", strip=True) if parent else "")
 
@@ -71,7 +78,9 @@ def _title(anchor, container) -> str:
     if len(text) >= 8 and text.lower() not in GENERIC_LINK_TEXT:
         return trim_text(text, 220)
     if container is not None:
-        heading = container.find(["h2", "h3", "h4", "h5", "strong"])
+        heading = container.select_one(
+            ".ecl-file__title, [class*='file__title'], h2, h3, h4, h5, strong"
+        )
         if heading is not None:
             heading_text = _clean(heading.get_text(" ", strip=True))
             if len(heading_text) >= 8:
