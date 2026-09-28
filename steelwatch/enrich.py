@@ -288,8 +288,13 @@ class GitHubModelsEnricher:
                     else:
                         body_keys = type(body).__name__
                         body_preview = re.sub(r"\s+", " ", str(body)).strip()[:260]
-                    response_preview = re.sub(r"\s+", " ", response.text or "").strip()[:260]
-                    content_type = response.headers.get("Content-Type", "")
+                    response_preview = re.sub(
+                        r"\s+",
+                        " ",
+                        getattr(response, "text", "") or "",
+                    ).strip()[:260]
+                    headers = getattr(response, "headers", {}) or {}
+                    content_type = headers.get("Content-Type", "")
                     diagnostics.append(
                         f"{model}:{type(exc).__name__}:preview={preview!r}:"
                         f"body_keys={body_keys!r}:body={body_preview!r}:"
