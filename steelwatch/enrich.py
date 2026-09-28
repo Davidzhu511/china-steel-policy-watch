@@ -261,6 +261,7 @@ class GitHubModelsEnricher:
                     break
 
                 response.raise_for_status()
+                content = ""
                 try:
                     body = response.json()
                     choice = body["choices"][0]
