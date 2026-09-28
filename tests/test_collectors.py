@@ -165,14 +165,14 @@ def test_ec_watch_pages_collects_dated_cbam_document():
 
 
 def test_rss_collector_keeps_eu_ets_policy_signal():
-    xml = b"""<?xml version="1.0" encoding="UTF-8"?>
+    xml = """<?xml version="1.0" encoding="UTF-8"?>
     <rss version="2.0"><channel><item>
       <title>EU ETS – Publication of surrender and compliance data</title>
       <link>https://climate.ec.europa.eu/news-other-reads/news/eu-ets-publication-surrender-and-compliance-data-2026-09-25_en</link>
       <description>The Commission will publish the available surrender and compliance data 2025 on October 6, 2026, at the latest.</description>
       <pubDate>Fri, 25 Sep 2026 10:00:00 GMT</pubDate>
       <source url="https://climate.ec.europa.eu/">European Commission</source>
-    </item></channel></rss>"""
+    </item></channel></rss>""".encode("utf-8")
     config = {
         "settings": {},
         "keywords": {
