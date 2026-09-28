@@ -140,8 +140,12 @@ class GitHubModelsEnricher:
     def __init__(self, settings: dict[str, Any]) -> None:
         self.token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_MODELS_TOKEN") or ""
         self.model = os.environ.get("STEELWATCH_MODEL") or settings.get(
-            "model", "openai/gpt-4o-mini"
+            "model", "openai/gpt-4.1-mini"
         )
+        fallbacks = settings.get("model_fallbacks", [])
+        self.model_candidates = [self.model] + [
+            str(model) for model in fallbacks if model and str(model) != self.model
+        ]
         self.batch_size = max(1, min(12, int(settings.get("model_batch_size", 8))))
         self.session = requests.Session()
 
@@ -213,37 +217,57 @@ class GitHubModelsEnricher:
 
     def _request(self, payload: dict[str, Any]) -> dict[str, Any]:
         last_error: Exception | None = None
-        for attempt in range(3):
-            response = self.session.post(
-                self.endpoint,
-                headers={
-                    "Accept": "application/vnd.github+json",
-                    "Authorization": f"Bearer {self.token}",
-                    "X-GitHub-Api-Version": "2022-11-28",
-                    "Content-Type": "application/json",
-                },
-                json=payload,
-                timeout=120,
-            )
-            if response.status_code in {429, 500, 502, 503, 504}:
-                last_error = RuntimeError(f"GitHub Models HTTP {response.status_code}")
-                if attempt < 2:
-                    time.sleep(2 ** (attempt + 1))
-                    continue
-            response.raise_for_status()
-            try:
-                body = response.json()
-                content = body["choices"][0]["message"]["content"]
-                parsed = json.loads(_clean_json_text(content))
-                if not isinstance(parsed, dict):
-                    raise ValueError("model returned non-object JSON")
-                return parsed
-            except (json.JSONDecodeError, KeyError, IndexError, TypeError, ValueError) as exc:
-                last_error = exc
-                if attempt < 2:
-                    time.sleep(attempt + 1)
-                    continue
-        assert last_error is not None
+        diagnostics: list[str] = []
+        for model in self.model_candidates:
+            model_payload = {**payload, "model": model}
+            for attempt in range(3):
+                response = self.session.post(
+                    self.endpoint,
+                    headers={
+                        "Accept": "application/vnd.github+json",
+                        "Authorization": f"Bearer {self.token}",
+                        "X-GitHub-Api-Version": "2022-11-28",
+                        "Content-Type": "application/json",
+                    },
+                    json=model_payload,
+                    timeout=120,
+                )
+                if response.status_code in {429, 500, 502, 503, 504}:
+                    last_error = RuntimeError(
+                        f"GitHub Models HTTP {response.status_code} ({model})"
+                    )
+                    diagnostics.append(f"{model}:http-{response.status_code}")
+                    if attempt < 2:
+                        time.sleep(2 ** (attempt + 1))
+                        continue
+                    break
+                response.raise_for_status()
+                try:
+                    body = response.json()
+                    choice = body["choices"][0]
+                    message = choice["message"]
+                    content = message.get("content") or ""
+                    if not isinstance(content, str) or not content.strip():
+                        finish_reason = str(choice.get("finish_reason") or "unknown")
+                        raise ValueError(
+                            f"empty model content ({model}, finish_reason={finish_reason})"
+                        )
+                    parsed = json.loads(_clean_json_text(content))
+                    if not isinstance(parsed, dict):
+                        raise TypeError(f"model returned non-object JSON ({model})")
+                    return parsed
+                except (json.JSONDecodeError, KeyError, IndexError, TypeError, ValueError) as exc:
+                    last_error = exc
+                    diagnostics.append(f"{model}:{type(exc).__name__}")
+                    if attempt < 2:
+                        time.sleep(attempt + 1)
+                        continue
+                    break
+        if last_error is None:
+            last_error = RuntimeError("no enrichment model candidates configured")
+        detail = ", ".join(diagnostics[-6:])
+        if detail:
+            raise RuntimeError(f"{last_error}; attempts={detail}") from last_error
         raise last_error
 
     def _call(self, items: list[RawItem]) -> list[dict[str, Any]]:
