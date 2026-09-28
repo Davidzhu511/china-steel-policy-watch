@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-28T14:35:20Z",
+  "generated_at": "2026-09-28T14:38:11Z",
   "run_ok": true,
   "model": "openai/gpt-4.1",
   "translation_available": true,
   "new_items": 0,
-  "total_items": 102,
+  "total_items": 101,
   "source_success": 6,
   "source_total": 6,
   "sources": [
@@ -14,15 +14,15 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 13144
+      "duration_ms": 9108
     },
     {
       "id": "ec_watch_pages",
       "name": "欧委会重点页面直采",
       "ok": true,
-      "count": 20,
+      "count": 19,
       "error": "",
-      "duration_ms": 1366
+      "duration_ms": 3532
     },
     {
       "id": "eurlex",
@@ -30,7 +30,7 @@
       "ok": true,
       "count": 0,
       "error": "",
-      "duration_ms": 349
+      "duration_ms": 705
     },
     {
       "id": "federal_register",
@@ -38,7 +38,7 @@
       "ok": true,
       "count": 5,
       "error": "",
-      "duration_ms": 606
+      "duration_ms": 628
     },
     {
       "id": "govuk",
@@ -46,7 +46,7 @@
       "ok": true,
       "count": 3,
       "error": "",
-      "duration_ms": 8012
+      "duration_ms": 4452
     },
     {
       "id": "rss",
@@ -54,27 +54,10 @@
       "ok": true,
       "count": 21,
       "error": "",
-      "duration_ms": 1650
+      "duration_ms": 1536
     }
   ],
   "warnings": [
-    "模型批次 1: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 2: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 3: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 4: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 5: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 6: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 7: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 8: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 9: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 10: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 11: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 12: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 13: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 14: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 15: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 16: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 17: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError",
-    "模型批次 18: RuntimeError: Expecting value: line 1 column 1 (char 0); attempts=openai/gpt-4.1:JSONDecodeError, openai/gpt-4.1-mini:JSONDecodeError, openai/gpt-4o-mini:JSONDecodeError"
+    "模型批次 1: UnboundLocalError: cannot access local variable 'content' where it is not associated with a value"
   ]
 }
