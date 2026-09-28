@@ -275,7 +275,10 @@ class GitHubModelsEnricher:
                     return parsed
                 except (json.JSONDecodeError, KeyError, IndexError, TypeError, ValueError) as exc:
                     last_error = exc
-                    diagnostics.append(f"{model}:{type(exc).__name__}")
+                    preview = re.sub(r"\s+", " ", str(content)).strip()[:160]
+                    diagnostics.append(
+                        f"{model}:{type(exc).__name__}:preview={preview!r}"
+                    )
                     break
 
         if last_error is None:
