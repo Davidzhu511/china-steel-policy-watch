@@ -83,5 +83,4 @@ def test_model_request_falls_back_when_primary_returns_empty_content(monkeypatch
     )
 
     assert parsed == {"items": []}
-    assert session.models.count("openai/gpt-4.1-mini") == 3
-    assert session.models[-1] == "openai/gpt-4o-mini"
+    assert session.models == ["openai/gpt-4.1-mini", "openai/gpt-4o-mini"]
