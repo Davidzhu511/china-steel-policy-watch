@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T12:04:42Z",
+  "generated_at": "2026-09-28T14:23:15Z",
   "items": [
     {
       "id": "ba5598db65b5a45c6483",
@@ -32,7 +32,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "93b9c169f356f5b674e3",
@@ -65,7 +65,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "6c9f21713a6a4ba38516",
@@ -98,13 +98,13 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "9d80bb55f2f13aa4709d",
-      "title_zh": "Rio Tinto commissions carbon-capture trial at China's Shougang steel plant - reuters.com",
-      "title_en": "Rio Tinto commissions carbon-capture trial at China's Shougang steel plant - reuters.com",
-      "title_original": "Rio Tinto commissions carbon-capture trial at China's Shougang steel plant - reuters.com",
+      "title_zh": "Rio Tinto commissions carbon-capture trial at China's Shougang steel plant - Reuters",
+      "title_en": "Rio Tinto commissions carbon-capture trial at China's Shougang steel plant - Reuters",
+      "title_original": "Rio Tinto commissions carbon-capture trial at China's Shougang steel plant - Reuters",
       "summary_zh": "中文摘要暂未生成，请以原文为准。",
       "summary_en": "The English brief is not available yet. Please review the original source.",
       "impact_zh": "待自动分析；请先核对原文内容。",
@@ -113,7 +113,7 @@
       "published_at": "2026-09-28T01:34:00Z",
       "source": {
         "id": "rss",
-        "name": "reuters.com",
+        "name": "Reuters",
         "kind": "news",
         "official": false
       },
@@ -131,7 +131,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "3f2d2c8de75f32526647",
@@ -164,7 +164,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "90ba8646d6f5ee6c050b",
@@ -197,7 +197,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-26T10:18:21Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "ad02fe1c0ba65919af32",
@@ -230,7 +230,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "0f3c839575f22f87a17b",
@@ -263,7 +263,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "7afe5218703f17a566c1",
@@ -296,7 +296,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T12:04:42Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "180f6ae8fcb0fa1f72e5",
@@ -329,7 +329,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "e35ed0d5a73d3dbbcac1",
@@ -362,7 +362,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "07d46201bee40405ae7f",
@@ -395,7 +395,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "1681037511d890b34cc6",
@@ -428,13 +428,13 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "de055ce1a1b8c5c0ba82",
-      "title_zh": "European Parliament backs wider CBAM coverage for downstream steel and aluminum products - yieh.com",
-      "title_en": "European Parliament backs wider CBAM coverage for downstream steel and aluminum products - yieh.com",
-      "title_original": "European Parliament backs wider CBAM coverage for downstream steel and aluminum products - yieh.com",
+      "title_zh": "European Parliament backs wider CBAM coverage for downstream steel and aluminum products - Yieh Corp.",
+      "title_en": "European Parliament backs wider CBAM coverage for downstream steel and aluminum products - Yieh Corp.",
+      "title_original": "European Parliament backs wider CBAM coverage for downstream steel and aluminum products - Yieh Corp.",
       "summary_zh": "中文摘要暂未生成，请以原文为准。",
       "summary_en": "The English brief is not available yet. Please review the original source.",
       "impact_zh": "待自动分析；请先核对原文内容。",
@@ -443,7 +443,7 @@
       "published_at": "2026-09-24T07:17:38Z",
       "source": {
         "id": "rss",
-        "name": "yieh.com",
+        "name": "Yieh Corp.",
         "kind": "news",
         "official": false
       },
@@ -461,7 +461,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "0a454569356737c4dfca",
@@ -494,7 +494,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "67c81731269971195e39",
@@ -527,7 +527,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "0b4c47b1520da7a6f70c",
@@ -560,7 +560,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "99e47299b0152086f7a0",
@@ -593,7 +593,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "dda9d9876f7d982613da",
@@ -626,7 +626,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "6a72728187e06f265d00",
@@ -659,7 +659,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "3c6a31997d1f3810c2f4",
@@ -692,13 +692,13 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "124e7f6f8cc40d98e3ab",
-      "title_zh": "EU Expands CBAM To Fight Carbon Leakage - carbonherald.com",
-      "title_en": "EU Expands CBAM To Fight Carbon Leakage - carbonherald.com",
-      "title_original": "EU Expands CBAM To Fight Carbon Leakage - carbonherald.com",
+      "title_zh": "EU Expands CBAM To Fight Carbon Leakage - Carbon Herald",
+      "title_en": "EU Expands CBAM To Fight Carbon Leakage - Carbon Herald",
+      "title_original": "EU Expands CBAM To Fight Carbon Leakage - Carbon Herald",
       "summary_zh": "中文摘要暂未生成，请以原文为准。",
       "summary_en": "The English brief is not available yet. Please review the original source.",
       "impact_zh": "待自动分析；请先核对原文内容。",
@@ -707,7 +707,7 @@
       "published_at": "2026-09-22T09:39:57Z",
       "source": {
         "id": "rss",
-        "name": "carbonherald.com",
+        "name": "Carbon Herald",
         "kind": "news",
         "official": false
       },
@@ -725,7 +725,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "3c6d1c0dfa0ce00a5a5b",
@@ -758,7 +758,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "ed28a9a0488818b2fb68",
@@ -791,7 +791,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-22T10:21:49Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "c6bd9839c7a7be9188c5",
@@ -824,7 +824,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-22T10:21:49Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "f877e128c1001f2d865d",
@@ -890,7 +890,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "1d976aa214ca43e3ed06",
@@ -923,7 +923,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "43ef5e512c2218646bcb",
@@ -989,7 +989,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-15T10:28:32Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "e7e639e687333dda3788",
@@ -1022,7 +1022,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "5bf60b1de1e1726c9344",
@@ -1121,7 +1121,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-11T10:01:20Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "470807f2a648db915579",
@@ -1187,7 +1187,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-09T10:08:28Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "fb98c451228ffca9c1af",
@@ -1220,7 +1220,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "2e79a19dfd1904974425",
@@ -1319,7 +1319,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "67d29e52764928af15b2",
@@ -1484,7 +1484,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "3f153daa0150f900a4e8",
@@ -1517,7 +1517,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "a79139e2995dcd9202fc",
@@ -1583,7 +1583,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T12:04:42Z"
+      "last_seen": "2026-09-28T14:23:15Z"
     },
     {
       "id": "8c9daff7588f79fcfc11",
