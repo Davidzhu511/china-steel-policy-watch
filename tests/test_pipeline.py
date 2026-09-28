@@ -229,3 +229,59 @@ def test_update_pipeline_refreshes_consultation_status_for_existing_item(
 
     payload = json.loads((data / "items.json").read_text(encoding="utf-8"))
     assert payload["items"][0]["consultation"]["status"] == "CLOSED"
+
+
+
+def test_update_pipeline_prunes_stale_pending_discovery_items(tmp_path, monkeypatch):
+    data, docs = tmp_path / "data", tmp_path / "docs"
+    data.mkdir()
+    stale = {
+        "id": "stale-rss-1",
+        "title_zh": "Unreviewed stale discovery item",
+        "title_en": "Unreviewed stale discovery item",
+        "title_original": "Unreviewed stale discovery item",
+        "summary_zh": "中文摘要暂未生成，请以原文为准。",
+        "summary_en": "Pending.",
+        "impact_zh": "待自动分析；请先核对原文内容。",
+        "impact_en": "Pending.",
+        "url": "https://example.com/stale",
+        "published_at": "2026-09-27T00:00:00Z",
+        "source": {"id": "rss", "name": "RSS", "kind": "news", "official": False},
+        "country": "全球",
+        "region": "全球",
+        "category": "市场与产能",
+        "status": "新闻",
+        "importance": "中",
+        "products": [],
+        "products_en": [],
+        "tags": [],
+        "tags_en": [],
+        "translation_state": "pending",
+        "first_seen": "2026-09-27T00:00:00Z",
+        "last_seen": "2026-09-27T00:00:00Z",
+    }
+    (data / "items.json").write_text(
+        json.dumps({"generated_at": "2026-09-27T00:00:00Z", "items": [stale]}),
+        encoding="utf-8",
+    )
+    monkeypatch.setattr(pipeline, "_collect", lambda config: [])
+    monkeypatch.setattr(pipeline, "_hydrate_excerpts", lambda items, settings: [])
+    monkeypatch.setattr(pipeline, "GitHubModelsEnricher", FakeEnricher)
+
+    pipeline.run_update(
+        {
+            "settings": {"retention_days": 730},
+            "keywords": {
+                "china": [],
+                "materials": [],
+                "global_steel_policy": [],
+                "exclude": [],
+            },
+            "sources": {},
+        },
+        data,
+        docs,
+    )
+
+    payload = json.loads((data / "items.json").read_text(encoding="utf-8"))
+    assert payload["items"] == []
