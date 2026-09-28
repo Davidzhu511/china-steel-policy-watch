@@ -185,7 +185,7 @@ class GitHubModelsEnricher:
         return output, warnings
 
     def _request(self, payload: dict[str, Any]) -> dict[str, Any]:
-        response: requests.Response | None = None
+        last_error: Exception | None = None
         for attempt in range(3):
             response = self.session.post(
                 self.endpoint,
@@ -198,13 +198,26 @@ class GitHubModelsEnricher:
                 json=payload,
                 timeout=120,
             )
-            if response.status_code not in {429, 500, 502, 503, 504}:
-                break
-            time.sleep(2 ** (attempt + 1))
-        assert response is not None
-        response.raise_for_status()
-        content = response.json()["choices"][0]["message"]["content"]
-        return json.loads(_clean_json_text(content))
+            if response.status_code in {429, 500, 502, 503, 504}:
+                last_error = RuntimeError(f"GitHub Models HTTP {response.status_code}")
+                if attempt < 2:
+                    time.sleep(2 ** (attempt + 1))
+                    continue
+            response.raise_for_status()
+            try:
+                body = response.json()
+                content = body["choices"][0]["message"]["content"]
+                parsed = json.loads(_clean_json_text(content))
+                if not isinstance(parsed, dict):
+                    raise ValueError("model returned non-object JSON")
+                return parsed
+            except (json.JSONDecodeError, KeyError, IndexError, TypeError, ValueError) as exc:
+                last_error = exc
+                if attempt < 2:
+                    time.sleep(attempt + 1)
+                    continue
+        assert last_error is not None
+        raise last_error
 
     def _call(self, items: list[RawItem]) -> list[dict[str, Any]]:
         records = [
