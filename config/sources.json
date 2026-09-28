@@ -5,12 +5,15 @@
     "max_new_items_per_run": 36,
     "fetch_page_descriptions": true,
     "request_timeout_seconds": 25,
-    "model": "openai/gpt-4.1-mini",
-    "model_batch_size": 4,
+    "model": "openai/gpt-4.1",
+    "model_batch_size": 2,
     "english_backfill_per_run": 24,
     "model_fallbacks": [
+      "openai/gpt-4.1-mini",
       "openai/gpt-4o-mini"
-    ]
+    ],
+    "model_timeout_seconds": 35,
+    "model_attempts_per_model": 1
   },
   "sources": {
     "ec_have_your_say": {
