@@ -251,6 +251,17 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
     for identifier, update in english_updates.items():
         if identifier in combined:
             combined[identifier] = {**combined[identifier], **update}
+
+    transient_sources = {"ec_watch_pages", "rss", "gdelt"}
+    for identifier, item in list(combined.items()):
+        source_id = item.get("source", {}).get("id")
+        if (
+            identifier not in observed_ids
+            and source_id in transient_sources
+            and item.get("translation_state") != "complete"
+        ):
+            combined.pop(identifier, None)
+
     for raw in candidates:
         analysis = analysis_by_id.get(raw.id)
         if not analysis or not analysis.get("relevant", True):
