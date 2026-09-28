@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-28T11:50:11Z",
+  "generated_at": "2026-09-28T11:59:57Z",
   "run_ok": true,
   "model": "openai/gpt-4o-mini",
   "translation_available": true,
-  "new_items": 47,
-  "total_items": 119,
+  "new_items": 12,
+  "total_items": 102,
   "source_success": 6,
-  "source_total": 7,
+  "source_total": 6,
   "sources": [
     {
       "id": "ec_have_your_say",
@@ -14,15 +14,15 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 8019
+      "duration_ms": 9652
     },
     {
       "id": "ec_watch_pages",
       "name": "欧委会重点页面直采",
       "ok": true,
-      "count": 38,
+      "count": 20,
       "error": "",
-      "duration_ms": 2596
+      "duration_ms": 3158
     },
     {
       "id": "eurlex",
@@ -30,7 +30,7 @@
       "ok": true,
       "count": 0,
       "error": "",
-      "duration_ms": 922
+      "duration_ms": 343
     },
     {
       "id": "federal_register",
@@ -38,15 +38,7 @@
       "ok": true,
       "count": 5,
       "error": "",
-      "duration_ms": 445
-    },
-    {
-      "id": "gdelt",
-      "name": "GDELT 全球新闻索引",
-      "ok": false,
-      "count": 0,
-      "error": "RuntimeError: all GDELT queries failed; HTTPError: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?query=%28%22China+steel%22+OR+%22Chinese+steel%22+O | HTTPError: 429 Client Error: Too Many Requests for url: https://api.gdeltproject.org/api/v2/doc/doc?",
-      "duration_ms": 78542
+      "duration_ms": 501
     },
     {
       "id": "govuk",
@@ -54,23 +46,41 @@
       "ok": true,
       "count": 3,
       "error": "",
-      "duration_ms": 3745
+      "duration_ms": 6457
     },
     {
       "id": "rss",
       "name": "RSS / Google News 新闻发现",
       "ok": true,
-      "count": 38,
+      "count": 21,
       "error": "",
-      "duration_ms": 1655
+      "duration_ms": 4106
     }
   ],
   "warnings": [
     "模型批次 1: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 1: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 1: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 1: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 2: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 2: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 2: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "模型批次 2: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "模型批次 3: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 3: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 3: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 3: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 4: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 4: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 4: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "模型批次 4: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "模型批次 5: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 5: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 5: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 5: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 6: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 6: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+    "模型批次 6: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
     "模型批次 6: JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   ]
 }
