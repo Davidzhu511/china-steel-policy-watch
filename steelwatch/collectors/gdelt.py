@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import time
 from urllib.parse import urlsplit
 
 from ..models import RawItem
@@ -31,15 +32,15 @@ COUNTRY_ZH = {
 def region_for(country: str) -> str:
     if country in {"美国", "加拿大"}:
         return "北美"
-    if country in {"德国", "法国", "意大利", "西班牙", "英国", "土耳其"}:
+    if country in {"德国", "法国", "意大利", "西班牙", "英国", "土耳其", "欧盟"}:
         return "欧洲"
     if country in {"中国", "印度", "日本", "韩国"}:
         return "亚洲"
     if country in {"摩洛哥", "埃及", "阿尔及利亚"}:
         return "非洲"
-    if country in {"澳大利亚"}:
+    if country == "澳大利亚":
         return "大洋洲"
-    if country in {"巴西"}:
+    if country == "巴西":
         return "拉美"
     return "全球"
 
@@ -55,27 +56,68 @@ class GdeltCollector(Collector):
                 return True, country
         return False, ""
 
+    def _request_query(self, query: str, *, lookback: int, max_records: int) -> dict:
+        retries = max(1, min(5, int(self.config.get("retries", 3))))
+        last_error: Exception | None = None
+        for attempt in range(retries):
+            try:
+                response = self.session.get(
+                    self.endpoint,
+                    params={
+                        "query": query,
+                        "mode": "artlist",
+                        "maxrecords": min(max_records, 250),
+                        "format": "json",
+                        "sort": "datedesc",
+                        "timespan": f"{lookback}d",
+                    },
+                    timeout=max(self.timeout, 35),
+                )
+                if response.status_code == 429 or 500 <= response.status_code <= 599:
+                    retry_after = response.headers.get("Retry-After", "")
+                    try:
+                        wait = float(retry_after)
+                    except (TypeError, ValueError):
+                        wait = float(2 ** attempt)
+                    wait = max(0.5, min(wait, 8.0))
+                    last_error = RuntimeError(f"GDELT HTTP {response.status_code}")
+                    if attempt + 1 < retries:
+                        time.sleep(wait)
+                        continue
+                response.raise_for_status()
+                payload = response.json()
+                if not isinstance(payload, dict):
+                    raise ValueError("GDELT returned a non-object JSON payload")
+                return payload
+            except Exception as exc:
+                last_error = exc
+                if attempt + 1 < retries:
+                    time.sleep(min(2 ** attempt, 4))
+        assert last_error is not None
+        raise last_error
+
     def collect(self) -> list[RawItem]:
         lookback = int(self.config.get("lookback_days", 7))
-        max_records = int(self.config.get("max_records_per_query", 100))
+        max_records = int(self.config.get("max_records_per_query", 40))
+        query_delay = max(0.0, min(3.0, float(self.config.get("query_delay_seconds", 0.8))))
         keywords = self.app_config.get("keywords", {})
         found: dict[str, RawItem] = {}
+        errors: list[str] = []
+        successful_queries = 0
 
-        for query in self.config.get("queries", []):
-            response = self.session.get(
-                self.endpoint,
-                params={
-                    "query": query,
-                    "mode": "artlist",
-                    "maxrecords": min(max_records, 250),
-                    "format": "json",
-                    "sort": "datedesc",
-                    "timespan": f"{lookback}d",
-                },
-                timeout=max(self.timeout, 35),
-            )
-            response.raise_for_status()
-            payload = response.json()
+        queries = list(self.config.get("queries", []))
+        for index, query in enumerate(queries):
+            try:
+                payload = self._request_query(
+                    query,
+                    lookback=lookback,
+                    max_records=max_records,
+                )
+                successful_queries += 1
+            except Exception as exc:
+                errors.append(f"{type(exc).__name__}: {str(exc)[:140]}")
+                continue
+
             for article in payload.get("articles", []):
                 title = article.get("title") or ""
                 if not is_rule_relevant(title, "", keywords):
@@ -104,6 +146,15 @@ class GdeltCollector(Collector):
                     country=country,
                     language=article.get("language") or "",
                     image_url=image_url,
-                    metadata={"domain": domain, "official": official},
+                    metadata={
+                        "domain": domain,
+                        "official": official,
+                        "discovery": "gdelt",
+                    },
                 )
+            if query_delay and index + 1 < len(queries):
+                time.sleep(query_delay)
+
+        if successful_queries == 0 and errors:
+            raise RuntimeError("all GDELT queries failed; " + " | ".join(errors[:2]))
         return list(found.values())

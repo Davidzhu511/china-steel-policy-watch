@@ -287,6 +287,13 @@ html[lang="en"] .intel-card h3 { font-family: Georgia, "Times New Roman", serif;
 
 footer { max-width: 1380px; margin: 0 auto; padding: 28px 34px 42px; display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 35px; color: var(--text-faint); font-size: 9px; }.footer-brand .brand-mark { width: 29px; height: 29px; font-size: 14px; border-radius: 8px; }.footer-brand strong { font-size: 10px; }footer p { margin: 0; text-align: center; }footer > a { color: var(--text-subtle); text-decoration: none; }footer > a:hover { color: var(--gold-bright); }
 
+
+.feed-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 16px; }
+.feed-tab { min-height: 38px; padding: 9px 16px; border: 1px solid var(--line); border-radius: 999px; background: rgba(var(--gold-rgb),.025); color: var(--text-subtle); font-size: 11px; letter-spacing: .02em; cursor: pointer; transition: .18s ease; }
+.feed-tab:hover { border-color: var(--gold-dim); color: var(--text-strong); }
+.feed-tab.active { border-color: rgba(var(--gold-rgb),.42); background: rgba(var(--gold-rgb),.1); color: var(--gold-bright); box-shadow: inset 0 0 0 1px rgba(var(--gold-rgb),.06); }
+.card-source small + small { margin-top: 2px; color: var(--text-faint); }
+
 @media (max-width: 1080px) {
   .live-state { display: none; }
   .hero { grid-template-columns: 1fr 280px; gap: 25px; padding-inline: 10px; }.radar { width: 280px; }
@@ -302,6 +309,8 @@ footer { max-width: 1380px; margin: 0 auto; padding: 28px 34px 42px; display: gr
   .metrics { grid-template-columns: repeat(2,1fr); }.metrics article:nth-child(2) { border-right: 0; }.metrics article:nth-child(-n+2) { border-bottom: 1px solid var(--line); }.metrics article { min-height: 108px; padding: 21px 16px; }.metrics strong { font-size: 30px; }.metrics small { right: 15px; bottom: 15px; }
   .briefing-grid { grid-template-columns: 1fr; margin: 28px 0 72px; }.lead-card { min-height: auto; padding: 30px 24px; }.lead-card h2 { margin-top: 27px; font-size: 30px; }.lead-impact { grid-template-columns: 1fr; }.lead-footer { align-items: flex-end; }.source-panel { padding: 28px 24px; }
   .section-heading { align-items: flex-start; }.section-heading > p { margin-top: 7px; }
+  .feed-tabs { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 2px; }
+  .feed-tab { flex: 0 0 auto; }
   .filters { position: relative; top: 0; grid-template-columns: 1fr 1fr; }.search-field { grid-column: 1/-1; }.filters label:nth-of-type(4) { display: block; }.official-toggle { justify-content: center; }.filters #reset { min-height: 44px; }
   .card-grid { grid-template-columns: 1fr; }.intel-card { min-height: 350px; }
   .method { grid-template-columns: 1fr; gap: 38px; margin-top: 80px; padding: 55px 2px; }

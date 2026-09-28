@@ -20,7 +20,10 @@
       radarLabel: "条在库情报", metricsAria: "情报概览", metricNew: "本次新增", metricHigh: "重大 / 高关注",
       metricOfficial: "官方文件", metricMarkets: "覆盖国家/地区", sourceHealth: "采集状态",
       sourceNote: "单一来源异常不会中断整次更新，历史数据也不会被清空。",
-      feedEyebrow: "按重要性与时效排序", allIntelligence: "全部情报", loadingShort: "正在加载…",
+      feedEyebrow: "最新与重点分流，避免重要旧闻压住新动态", allIntelligence: "全部情报", loadingShort: "正在加载…",
+      tabLatest: "最新动态", tabPriority: "重点关注", tabAll: "全部归档",
+      titleLatest: "最新动态 · 近 7 天", titlePriority: "重点关注", titleAll: "全部情报",
+      firstSeen: "首次收录", sourceDegraded: "降级运行 · 新闻补充暂不可用",
       searchLabel: "搜索情报", searchPlaceholder: "搜索国家、产品、法规或企业…", categoryLabel: "类别",
       regionLabel: "地区", importanceLabel: "重要性", officialOnly: "仅看官方", resetFilters: "清除筛选",
       loadMore: "加载更多", methodEyebrow: "从原文到业务判断",
@@ -57,7 +60,10 @@
       radarLabel: "signals on file", metricsAria: "Intelligence overview", metricNew: "New this run", metricHigh: "Critical / high priority",
       metricOfficial: "Official documents", metricMarkets: "Markets covered", sourceHealth: "Collection status",
       sourceNote: "A single source failure never stops the full update or removes historical records.",
-      feedEyebrow: "Ranked by impact and recency", allIntelligence: "All intelligence", loadingShort: "Loading…",
+      feedEyebrow: "Separate fresh signals from high-priority items", allIntelligence: "All intelligence", loadingShort: "Loading…",
+      tabLatest: "Latest", tabPriority: "Priority", tabAll: "Archive",
+      titleLatest: "Latest · past 7 days", titlePriority: "Priority watch", titleAll: "All intelligence",
+      firstSeen: "First seen", sourceDegraded: "Degraded · news supplement unavailable",
       searchLabel: "Search intelligence", searchPlaceholder: "Search markets, products, rules or companies…", categoryLabel: "Category",
       regionLabel: "Region", importanceLabel: "Priority", officialOnly: "Official only", resetFilters: "Clear filters",
       loadMore: "Load more", methodEyebrow: "From primary source to business judgment",
@@ -114,7 +120,7 @@
     try { localStorage.setItem(key, value); } catch { /* Preferences are optional. */ }
   };
   const state = {
-    items: [], status: null, generatedAt: "", pageSize: 12, visible: 12,
+    items: [], status: null, generatedAt: "", pageSize: 12, visible: 12, feedMode: "latest",
     lang: readPreference("steelwatch-language", "zh") === "en" ? "en" : "zh",
     theme: THEMES.has(readPreference("steelwatch-theme", "gold")) ? readPreference("steelwatch-theme", "gold") : "gold",
   };
@@ -125,6 +131,7 @@
     lead: $("#lead-card"), sources: $("#source-list"), grid: $("#card-grid"), count: $("#result-count"),
     category: $("#category"), region: $("#region"), importance: $("#importance"), search: $("#search"), official: $("#official-only"),
     filters: $("#filters"), active: $("#active-filters"), loadMore: $("#load-more"), theme: $("#theme-select"), language: $("#language-toggle"),
+    feedTabs: $("#feed-tabs"), intelligenceTitle: $("#intelligence-title"),
   };
 
   function t(key, values = {}) {
@@ -310,17 +317,47 @@
   function renderSources() {
     const sources = state.status?.sources || [];
     if (!sources.length) { elements.sources.innerHTML = `<p class="source-note">${escapeHtml(t("sourceEmpty"))}</p>`; return; }
-    elements.sources.innerHTML = sources.map((source) => `
-      <div class="source-item" title="${escapeHtml(source.error || t("sourceOk"))}">
+    elements.sources.innerHTML = sources.map((source) => {
+      const statusText = source.ok ? t("sourceOk") : source.id === "gdelt" ? t("sourceDegraded") : t("sourceError");
+      return `
+      <div class="source-item" title="${escapeHtml(source.error || statusText)}">
         <i class="source-dot ${source.ok ? "" : "bad"}"></i>
-        <span><strong>${escapeHtml(state.lang === "en" && source.name.includes(" / ") ? source.name.split(" / ")[0] : source.name)}</strong><small>${escapeHtml(source.ok ? t("sourceOk") : t("sourceError"))}</small></span>
+        <span><strong>${escapeHtml(state.lang === "en" && source.name.includes(" / ") ? source.name.split(" / ")[0] : source.name)}</strong><small>${escapeHtml(statusText)}</small></span>
         <b class="source-count">${Number(source.count || 0)}</b>
-      </div>`).join("");
+      </div>`;
+    }).join("");
+  }
+
+  function signalTime(item) {
+    return Math.max(
+      new Date(item.published_at || 0).getTime() || 0,
+      new Date(item.first_seen || 0).getTime() || 0,
+    );
+  }
+
+  function applyFeedMode(items) {
+    const values = [...items];
+    if (state.feedMode === "latest") {
+      const reference = new Date(state.generatedAt || Date.now()).getTime();
+      const cutoff = reference - 7 * 24 * 60 * 60 * 1000;
+      return values
+        .filter((item) => signalTime(item) >= cutoff)
+        .sort((a, b) => signalTime(b) - signalTime(a));
+    }
+    if (state.feedMode === "priority") {
+      return values
+        .filter((item) => (importanceScore[item.importance] || 0) >= 3)
+        .sort((a, b) => {
+          const score = (importanceScore[b.importance] || 0) - (importanceScore[a.importance] || 0);
+          return score || new Date(b.published_at) - new Date(a.published_at);
+        });
+    }
+    return values.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
   }
 
   function filteredItems() {
     const query = elements.search.value.trim().toLowerCase();
-    return state.items.filter((item) => {
+    const filtered = state.items.filter((item) => {
       const text = [item.title_zh, item.title_en, item.title_original, item.summary_zh, item.summary_en, item.impact_zh, item.impact_en,
         item.country, item.region, item.category, ...(item.products || []), ...(item.products_en || []), ...(item.tags || []), ...(item.tags_en || [])]
         .join(" ").toLowerCase();
@@ -330,6 +367,7 @@
         && (!elements.importance.value || item.importance === elements.importance.value)
         && (!elements.official.checked || item.source?.official);
     });
+    return applyFeedMode(filtered);
   }
 
   function card(item) {
@@ -350,7 +388,7 @@
       <p class="card-impact"><b>${escapeHtml(t("impactPrefix"))}</b>${escapeHtml(itemImpact(item))}</p>
       <div class="card-tags">${tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}</div>
       <div class="card-bottom">
-        <span class="card-source"><strong>${escapeHtml(sourceName(item))}</strong><small>${escapeHtml(label("country", item.country))} · ${escapeHtml(sourceLabel(item))}</small></span>
+        <span class="card-source"><strong>${escapeHtml(sourceName(item))}</strong><small>${escapeHtml(label("country", item.country))} · ${escapeHtml(sourceLabel(item))}</small><small>${escapeHtml(t("firstSeen"))} ${berlinDate(item.first_seen || item.published_at)}</small></span>
         <a class="original-link" href="${safeUrl(item.url)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(t("openOriginal"))}: ${escapeHtml(itemTitle(item))}">
           <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 5h5v5M19 5l-9 9m7-1v6H5V7h6" /></svg>
         </a>
@@ -373,6 +411,13 @@
   }
 
   function renderCards() {
+    const titleKey = state.feedMode === "latest" ? "titleLatest" : state.feedMode === "priority" ? "titlePriority" : "titleAll";
+    elements.intelligenceTitle.textContent = t(titleKey);
+    [...elements.feedTabs.querySelectorAll("[data-feed-mode]")].forEach((button) => {
+      const active = button.dataset.feedMode === state.feedMode;
+      button.classList.toggle("active", active);
+      button.setAttribute("aria-selected", String(active));
+    });
     const items = filteredItems();
     const visible = items.slice(0, state.visible);
     elements.count.textContent = t("resultCount", { visible: visible.length, total: items.length });
@@ -410,6 +455,13 @@
     });
     elements.filters.addEventListener("reset", () => setTimeout(() => { state.visible = state.pageSize; renderCards(); }, 0));
     elements.loadMore.addEventListener("click", () => { state.visible += state.pageSize; renderCards(); });
+    elements.feedTabs.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-feed-mode]");
+      if (!button) return;
+      state.feedMode = button.dataset.feedMode || "latest";
+      state.visible = state.pageSize;
+      renderCards();
+    });
   }
 
   async function load() {
@@ -422,10 +474,7 @@
       const payload = await itemsResponse.json();
       state.status = await statusResponse.json();
       state.generatedAt = payload.generated_at;
-      state.items = (payload.items || []).sort((a, b) => {
-        const score = (importanceScore[b.importance] || 0) - (importanceScore[a.importance] || 0);
-        return score || new Date(b.published_at) - new Date(a.published_at);
-      });
+      state.items = payload.items || [];
       rebuildFilterOptions(); renderAll();
     } catch (error) {
       elements.live.classList.add("error"); elements.live.innerHTML = `<i></i><span>${escapeHtml(t("loadFailed"))}</span>`;

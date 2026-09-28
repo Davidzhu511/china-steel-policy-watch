@@ -43,13 +43,18 @@ def render_outputs(data_dir: Path, docs_dir: Path) -> None:
     status_payload = load_json(data_dir / "status.json", {"generated_at": now_iso()})
     atomic_json_write(docs_data / "items.json", items_payload)
     atomic_json_write(docs_data / "status.json", status_payload)
+    recent_items = sorted(
+        items_payload.get("items", []),
+        key=lambda item: parse_datetime(item.get("published_at") or item.get("first_seen")),
+        reverse=True,
+    )
     latest = {
         "generated_at": items_payload.get("generated_at"),
-        "items": items_payload.get("items", [])[:50],
+        "items": recent_items[:50],
     }
     atomic_json_write(docs_data / "latest.json", latest)
     (docs_dir / "feed.xml").write_text(
-        _rss(items_payload.get("items", []), items_payload.get("generated_at") or now_iso()),
+        _rss(recent_items, items_payload.get("generated_at") or now_iso()),
         encoding="utf-8",
     )
     (docs_dir / ".nojekyll").touch()
