@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T11:59:57Z",
+  "generated_at": "2026-09-28T12:04:42Z",
   "disclaimer": "机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。",
   "items": [
     {
@@ -461,7 +461,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -551,7 +551,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -645,7 +645,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -698,7 +698,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -751,7 +751,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -803,7 +803,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -851,7 +851,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -904,7 +904,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -956,7 +956,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1004,7 +1004,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1055,7 +1055,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1103,7 +1103,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1152,7 +1152,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1201,7 +1201,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1252,7 +1252,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1302,7 +1302,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1653,7 +1653,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-26T10:18:21Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "ad02fe1c0ba65919af32",
@@ -1686,7 +1686,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "e35ed0d5a73d3dbbcac1",
@@ -1719,7 +1719,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "ed28a9a0488818b2fb68",
@@ -1752,7 +1752,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-22T10:21:49Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "c6bd9839c7a7be9188c5",
@@ -1785,7 +1785,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-22T10:21:49Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "21d15a89818a139c708c",
@@ -1818,7 +1818,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "1d976aa214ca43e3ed06",
@@ -1851,7 +1851,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "b1f8280eacc2850583f8",
@@ -1884,7 +1884,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-15T10:28:32Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "e7e639e687333dda3788",
@@ -1917,7 +1917,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "841e4d8a3bd4d5d6b908",
@@ -1950,7 +1950,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-11T10:01:20Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "470807f2a648db915579",
@@ -2016,7 +2016,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-09T10:08:28Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "fb98c451228ffca9c1af",
@@ -2049,7 +2049,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "f8f96b7cf65d14016156",
@@ -2115,7 +2115,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "67d29e52764928af15b2",
@@ -2280,7 +2280,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "3f153daa0150f900a4e8",
@@ -2313,7 +2313,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "a79139e2995dcd9202fc",
@@ -2379,7 +2379,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "8c9daff7588f79fcfc11",
@@ -2832,7 +2832,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "073a77450327b18b41b2",
@@ -3057,7 +3057,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -3105,7 +3105,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-09-28T11:59:57Z",
+      "last_seen": "2026-09-28T12:04:42Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -3144,7 +3144,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "93b9c169f356f5b674e3",
@@ -3177,7 +3177,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "6c9f21713a6a4ba38516",
@@ -3210,13 +3210,13 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "9d80bb55f2f13aa4709d",
-      "title_zh": "Rio Tinto commissions carbon-capture trial at China's Shougang steel plant - Reuters",
-      "title_en": "Rio Tinto commissions carbon-capture trial at China's Shougang steel plant - Reuters",
-      "title_original": "Rio Tinto commissions carbon-capture trial at China's Shougang steel plant - Reuters",
+      "title_zh": "Rio Tinto commissions carbon-capture trial at China's Shougang steel plant - reuters.com",
+      "title_en": "Rio Tinto commissions carbon-capture trial at China's Shougang steel plant - reuters.com",
+      "title_original": "Rio Tinto commissions carbon-capture trial at China's Shougang steel plant - reuters.com",
       "summary_zh": "中文摘要暂未生成，请以原文为准。",
       "summary_en": "The English brief is not available yet. Please review the original source.",
       "impact_zh": "待自动分析；请先核对原文内容。",
@@ -3225,7 +3225,7 @@
       "published_at": "2026-09-28T01:34:00Z",
       "source": {
         "id": "rss",
-        "name": "Reuters",
+        "name": "reuters.com",
         "kind": "news",
         "official": false
       },
@@ -3243,7 +3243,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "3f2d2c8de75f32526647",
@@ -3276,7 +3276,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "0f3c839575f22f87a17b",
@@ -3309,7 +3309,40 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
+    },
+    {
+      "id": "7afe5218703f17a566c1",
+      "title_zh": "The CBAM fertiliser exemption that never was - Contexte",
+      "title_en": "The CBAM fertiliser exemption that never was - Contexte",
+      "title_original": "The CBAM fertiliser exemption that never was - Contexte",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDVaVGlIUFhtUkExNG0yTGpHTjB1bDJDZ2xpcTN6Ny1xVURCa2VYaTVfcGU3NHk4clRXanNqM285SXNyR1paeHpVa2Y5NkEwdzdpMWd4Q2lwVDdGVXd5VHE2S21iTEJlcjF6b3VoaE1KWWNsUldTQXpxLWJzRURWQUdVT1hCUkhsNEJPVGliOVd3b2FYeDV2T19B?oc=5",
+      "published_at": "2026-09-25T07:00:00Z",
+      "source": {
+        "id": "rss",
+        "name": "Contexte",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "市场与产能",
+      "status": "新闻",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-09-28T12:04:42Z",
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "180f6ae8fcb0fa1f72e5",
@@ -3342,7 +3375,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "07d46201bee40405ae7f",
@@ -3375,7 +3408,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "1681037511d890b34cc6",
@@ -3408,13 +3441,13 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "de055ce1a1b8c5c0ba82",
-      "title_zh": "European Parliament backs wider CBAM coverage for downstream steel and aluminum products - Yieh Corp.",
-      "title_en": "European Parliament backs wider CBAM coverage for downstream steel and aluminum products - Yieh Corp.",
-      "title_original": "European Parliament backs wider CBAM coverage for downstream steel and aluminum products - Yieh Corp.",
+      "title_zh": "European Parliament backs wider CBAM coverage for downstream steel and aluminum products - yieh.com",
+      "title_en": "European Parliament backs wider CBAM coverage for downstream steel and aluminum products - yieh.com",
+      "title_original": "European Parliament backs wider CBAM coverage for downstream steel and aluminum products - yieh.com",
       "summary_zh": "中文摘要暂未生成，请以原文为准。",
       "summary_en": "The English brief is not available yet. Please review the original source.",
       "impact_zh": "待自动分析；请先核对原文内容。",
@@ -3423,7 +3456,7 @@
       "published_at": "2026-09-24T07:17:38Z",
       "source": {
         "id": "rss",
-        "name": "Yieh Corp.",
+        "name": "yieh.com",
         "kind": "news",
         "official": false
       },
@@ -3441,7 +3474,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "0a454569356737c4dfca",
@@ -3474,7 +3507,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "67c81731269971195e39",
@@ -3507,7 +3540,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "0b4c47b1520da7a6f70c",
@@ -3540,7 +3573,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "99e47299b0152086f7a0",
@@ -3573,7 +3606,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "dda9d9876f7d982613da",
@@ -3606,7 +3639,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "6a72728187e06f265d00",
@@ -3639,13 +3672,13 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "3c6a31997d1f3810c2f4",
-      "title_zh": "BHP–China Baowu lower-emissions steel: blast furnace trials explained for engineers - geomechanics.io",
-      "title_en": "BHP–China Baowu lower-emissions steel: blast furnace trials explained for engineers - geomechanics.io",
-      "title_original": "BHP–China Baowu lower-emissions steel: blast furnace trials explained for engineers - geomechanics.io",
+      "title_zh": "BHP–China Baowu lower-emissions steel: blast furnace trials explained for engineers - Geomechanics.io",
+      "title_en": "BHP–China Baowu lower-emissions steel: blast furnace trials explained for engineers - Geomechanics.io",
+      "title_original": "BHP–China Baowu lower-emissions steel: blast furnace trials explained for engineers - Geomechanics.io",
       "summary_zh": "中文摘要暂未生成，请以原文为准。",
       "summary_en": "The English brief is not available yet. Please review the original source.",
       "impact_zh": "待自动分析；请先核对原文内容。",
@@ -3654,7 +3687,7 @@
       "published_at": "2026-09-22T12:16:13Z",
       "source": {
         "id": "rss",
-        "name": "geomechanics.io",
+        "name": "Geomechanics.io",
         "kind": "news",
         "official": false
       },
@@ -3672,7 +3705,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "124e7f6f8cc40d98e3ab",
@@ -3705,7 +3738,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "3c6d1c0dfa0ce00a5a5b",
@@ -3738,40 +3771,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T11:59:57Z"
-    },
-    {
-      "id": "b3e05c0e8b96d357000c",
-      "title_zh": "CBAM: Think tanks call for greater cooperation with third countries - Table.Briefings",
-      "title_en": "CBAM: Think tanks call for greater cooperation with third countries - Table.Briefings",
-      "title_original": "CBAM: Think tanks call for greater cooperation with third countries - Table.Briefings",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWTY1S1dIX2VYeExQNVZnN3ZYeWdkVHREZVBlX3luNHJuaVZGZXAzczNjWDhXeThIUzktd3g1UXVSOWktYmpoa3M4Q0RVbG1zLU11Z2k5dFpiOXc2bm1EZXAzSlU4Qm5aYWtncnBZa25kd2pYN2JIVG1wUFlQVmFIMFlNNzNnRUJicnRTOUlrZlo1SEg5YkxNUHl4MjZ4SEpSU2pj?oc=5",
-      "published_at": "2026-09-22T03:56:40Z",
-      "source": {
-        "id": "rss",
-        "name": "Table.Briefings",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "市场与产能",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-09-28T11:59:57Z"
+      "last_seen": "2026-09-28T12:04:42Z"
     },
     {
       "id": "6d54afb9276a826d4519",
