@@ -32,7 +32,10 @@
       "enabled": true,
       "name": "EUR-Lex / 欧盟官方公报",
       "lookback_days": 21,
-      "series": ["L", "C"]
+      "series": [
+        "L",
+        "C"
+      ]
     },
     "federal_register": {
       "enabled": true,
@@ -60,7 +63,7 @@
       "enabled": true,
       "name": "GDELT 全球新闻索引",
       "lookback_days": 7,
-      "max_records_per_query": 100,
+      "max_records_per_query": 40,
       "queries": [
         "(\"China steel\" OR \"Chinese steel\" OR \"steel from China\" OR \"China's steel\")",
         "(China OR Chinese) (\"hot-rolled steel\" OR \"cold-rolled steel\" OR galvanized OR tinplate OR \"electrical steel\" OR \"stainless steel\")",
@@ -68,43 +71,261 @@
         "(Shougang OR Baowu OR Baosteel OR Ansteel OR HBIS OR Tsingshan OR Jingye OR Shagang) (steel OR iron)",
         "(China OR Chinese) (\"iron ore\" OR \"coking coal\" OR \"steel scrap\") steel"
       ]
+    },
+    "ec_watch_pages": {
+      "enabled": true,
+      "name": "欧委会重点页面直采",
+      "lookback_days": 75,
+      "pages": [
+        {
+          "name": "DG TAXUD · CBAM Verification",
+          "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-verification_en",
+          "country": "欧盟",
+          "region": "欧洲",
+          "allowed_domains": [
+            "ec.europa.eu"
+          ],
+          "match_terms": [
+            "cbam",
+            "accreditation",
+            "verification",
+            "verifier"
+          ]
+        },
+        {
+          "name": "DG TAXUD · CBAM News",
+          "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-communication-and-news_en",
+          "country": "欧盟",
+          "region": "欧洲",
+          "allowed_domains": [
+            "ec.europa.eu"
+          ],
+          "match_terms": [
+            "cbam",
+            "carbon border"
+          ]
+        },
+        {
+          "name": "DG TAXUD · CBAM Guidance",
+          "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-legislation-and-guidance_en",
+          "country": "欧盟",
+          "region": "欧洲",
+          "allowed_domains": [
+            "ec.europa.eu"
+          ],
+          "match_terms": [
+            "cbam",
+            "default values",
+            "benchmark",
+            "guidance",
+            "verification"
+          ]
+        },
+        {
+          "name": "DG CLIMA · EU ETS",
+          "url": "https://climate.ec.europa.eu/index_en",
+          "country": "欧盟",
+          "region": "欧洲",
+          "allowed_domains": [
+            "ec.europa.eu"
+          ],
+          "match_terms": [
+            "eu ets",
+            "emissions trading",
+            "surrender",
+            "allowance",
+            "carbon market"
+          ]
+        },
+        {
+          "name": "DG TRADE · Steel",
+          "url": "https://policy.trade.ec.europa.eu/news_en",
+          "country": "欧盟",
+          "region": "欧洲",
+          "allowed_domains": [
+            "ec.europa.eu"
+          ],
+          "match_terms": [
+            "steel",
+            "safeguard",
+            "anti-dumping",
+            "antidumping",
+            "trade defence",
+            "tariff quota",
+            "melt and pour"
+          ]
+        }
+      ]
+    },
+    "rss": {
+      "enabled": true,
+      "name": "RSS / Google News 新闻发现",
+      "lookback_days": 10,
+      "feeds": [
+        {
+          "name": "DG TRADE RSS",
+          "url": "https://policy.trade.ec.europa.eu/node/2/rss_en",
+          "country": "欧盟",
+          "region": "欧洲",
+          "official": true,
+          "language": "en"
+        },
+        {
+          "name": "Google News · CBAM / EU ETS",
+          "url": "https://news.google.com/rss/search?q=%28CBAM%20OR%20%22EU%20ETS%22%29%20steel%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "language": "en"
+        },
+        {
+          "name": "Google News · China steel trade",
+          "url": "https://news.google.com/rss/search?q=%22China%20steel%22%20%28tariff%20OR%20antidumping%20OR%20safeguard%20OR%20quota%29%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "language": "en"
+        },
+        {
+          "name": "Google News · Chinese steelmakers",
+          "url": "https://news.google.com/rss/search?q=%28Shougang%20OR%20Baowu%20OR%20Baosteel%20OR%20Ansteel%20OR%20HBIS%20OR%20Tsingshan%29%20steel%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "language": "en"
+        }
+      ]
     }
   },
   "keywords": {
     "china": [
-      "china", "chinese", "people's republic of china", "prc", "中国", "中国钢铁",
-      "shougang", "baowu", "baosteel", "angang", "ansteel", "hbis", "hebei iron",
-      "jingye", "tsingshan", "shagang", "benxi steel", "maanshan iron", "tisco"
+      "china",
+      "chinese",
+      "people's republic of china",
+      "prc",
+      "中国",
+      "中国钢铁",
+      "shougang",
+      "baowu",
+      "baosteel",
+      "angang",
+      "ansteel",
+      "hbis",
+      "hebei iron",
+      "jingye",
+      "tsingshan",
+      "shagang",
+      "benxi steel",
+      "maanshan iron",
+      "tisco"
     ],
     "materials": [
-      "steel", "iron", "stainless", "ferroalloy", "ferrosilicon", "wire rod", "rebar",
-      "hot-rolled", "hot rolled", "cold-rolled", "cold rolled", "flat-rolled", "flat rolled",
-      "galvanized", "galvanised", "metallic coated", "corrosion resistant", "tinplate",
-      "electrical steel", "grain-oriented", "non-grain oriented", "steel fastener", "steel rope",
-      "steel cable", "steel pipe", "steel tube", "seamless tube", "welded tube", "steel sheet",
-      "steel coil", "steel slab", "billet", "cast iron", "iron ore", "coking coal", "scrap",
-      "钢铁", "钢材", "热轧", "冷轧", "镀锌", "不锈钢", "铁矿石", "钢坯"
+      "steel",
+      "iron",
+      "stainless",
+      "ferroalloy",
+      "ferrosilicon",
+      "wire rod",
+      "rebar",
+      "hot-rolled",
+      "hot rolled",
+      "cold-rolled",
+      "cold rolled",
+      "flat-rolled",
+      "flat rolled",
+      "galvanized",
+      "galvanised",
+      "metallic coated",
+      "corrosion resistant",
+      "tinplate",
+      "electrical steel",
+      "grain-oriented",
+      "non-grain oriented",
+      "steel fastener",
+      "steel rope",
+      "steel cable",
+      "steel pipe",
+      "steel tube",
+      "seamless tube",
+      "welded tube",
+      "steel sheet",
+      "steel coil",
+      "steel slab",
+      "billet",
+      "cast iron",
+      "iron ore",
+      "coking coal",
+      "scrap",
+      "钢铁",
+      "钢材",
+      "热轧",
+      "冷轧",
+      "镀锌",
+      "不锈钢",
+      "铁矿石",
+      "钢坯"
     ],
     "policy": [
-      "regulation", "implementing regulation", "official journal", "tariff", "tariff quota",
-      "quota", "safeguard", "anti-dumping", "antidumping", "countervailing", "anti-subsidy",
-      "circumvention", "trade remedy", "expiry review", "sunset review", "investigation",
-      "customs", "rules of origin", "melted and poured", "carbon border", "cbam", "sanction",
-      "export restriction", "import restriction", "procurement", "local content", "subsidy",
-      "关税", "配额", "反倾销", "反补贴", "保障措施", "原产地", "海关", "碳边境"
+      "regulation",
+      "implementing regulation",
+      "official journal",
+      "tariff",
+      "tariff quota",
+      "quota",
+      "safeguard",
+      "anti-dumping",
+      "antidumping",
+      "countervailing",
+      "anti-subsidy",
+      "circumvention",
+      "trade remedy",
+      "expiry review",
+      "sunset review",
+      "investigation",
+      "customs",
+      "rules of origin",
+      "melted and poured",
+      "carbon border",
+      "cbam",
+      "sanction",
+      "export restriction",
+      "import restriction",
+      "procurement",
+      "local content",
+      "subsidy",
+      "关税",
+      "配额",
+      "反倾销",
+      "反补贴",
+      "保障措施",
+      "原产地",
+      "海关",
+      "碳边境"
     ],
     "global_steel_policy": [
-      "union steel market", "global steel overcapacity", "global overcapacity", "steel regulation",
-      "steel safeguard", "steel tariff quota", "steel import regime", "steel trade measure",
-      "steel import measure", "steel import quota", "steel quota", "tariff-free steel",
+      "union steel market",
+      "global steel overcapacity",
+      "global overcapacity",
+      "steel regulation",
+      "steel safeguard",
+      "steel tariff quota",
+      "steel import regime",
+      "steel trade measure",
+      "steel import measure",
+      "steel import quota",
+      "steel quota",
+      "tariff-free steel",
       "section 232"
     ],
     "universal_policy": [
-      "carbon border adjustment mechanism", "carbon border adjustment", "cbam"
+      "carbon border adjustment mechanism",
+      "carbon border adjustment",
+      "cbam",
+      "eu ets",
+      "emissions trading system",
+      "surrender and compliance",
+      "free allocation",
+      "carbon allowance"
     ],
     "exclude": [
-      "pittsburgh steelers", "sheffield steelers", "steelers quarterback", "steelers nfl",
-      "man of steel", "steel guitar", "steel magnolias"
+      "pittsburgh steelers",
+      "sheffield steelers",
+      "steelers quarterback",
+      "steelers nfl",
+      "man of steel",
+      "steel guitar",
+      "steel magnolias"
     ]
   },
   "official_domains": {
