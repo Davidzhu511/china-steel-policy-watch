@@ -102,9 +102,11 @@
     analysisOff: "自动摘要未启用；原文采集正常，已核对条目提供中文解读。",
     analysisError: "自动摘要暂不可用；原文照常收录。", analysisOk: "自动摘要已启用。",
     pendingCount: ({count}) => `${count} 条待补充解读`, sourcePartial: "部分渠道异常 · 其余正常",
+    machineCount: ({count}) => `${count} 条已附机器译文；业务影响仍待核对。`,
     sourceZero: "运行正常 · 本次无命中", monitorPending: "采集正常 · 摘要待补充",
     pendingCopy: "标题与来源已收录，中文解读待补充。可展开摘录或打开原文。",
     machineCopy: "以下为原文摘录的机器译文，业务影响仍待核对。",
+    machineTitleOnly: "标题为机器译文；可展开原文摘录，业务影响仍待核对。",
     lastObserved: "最近收录", lastSuccess: "上次抓取成功",
     sourceTimeout: "接口超时 · 历史保留",
   });
@@ -120,9 +122,11 @@
     analysisOff: "Automatic briefs are not configured. Source collection continues; checked items have bilingual briefs.",
     analysisError: "Automatic briefs are unavailable. Source collection continues.", analysisOk: "Automatic briefs enabled.",
     pendingCount: ({count}) => `${count} briefs pending`, sourcePartial: "Some channels failed; others active",
+    machineCount: ({count}) => `${count} items have machine translations; business impact still needs review.`,
     sourceZero: "Operating normally · no matches this run", monitorPending: "Collection active · briefs pending",
     pendingCopy: "Title and source collected. Analysis is pending; expand the excerpt or open the original.",
     machineCopy: "Machine translation of the source excerpt. Business impact is under review.",
+    machineTitleOnly: "The title is machine translated; expand the source excerpt. Business impact needs review.",
     lastObserved: "Last captured", lastSuccess: "Last successful collection",
     sourceTimeout: "Source timed out · history retained",
   });
@@ -211,7 +215,8 @@
     if (item.translation_state !== "complete") {
       if (state.lang === "en") return item.source_excerpt || t("pendingCopy");
       return item.machine_translation?.excerpt_zh
-        ? `${t("machineCopy")} ${item.machine_translation.excerpt_zh}` : t("pendingCopy");
+        ? `${t("machineCopy")} ${item.machine_translation.excerpt_zh}`
+        : item.machine_translation ? t("machineTitleOnly") : t("pendingCopy");
     }
     if (state.lang === "zh") return item.summary_zh || "";
     return item.summary_en || `${sourceName(item)} — ${item.title_original || item.title_zh}`;
@@ -324,7 +329,8 @@
     elements.live.classList.toggle("error", partial);
     elements.live.innerHTML = `<i></i><span>${escapeHtml(t(partial ? "monitorPartial" : pending ? "monitorPending" : "monitorOk"))}</span>`;
     const analysisKey = state.status.analysis_status === "available" ? "analysisOk" : state.status.analysis_status === "degraded" ? "analysisError" : "analysisOff";
-    elements.analysis.textContent = `${t(analysisKey)} ${t("pendingCount", {count: state.status.pending_analysis || 0})}`;
+    const machineCount = state.status.machine_translated_items || 0;
+    elements.analysis.textContent = `${t(analysisKey)} ${machineCount ? t("machineCount", {count: machineCount}) : ""} ${t("pendingCount", {count: state.status.pending_analysis || 0})}`;
 
   }
 
