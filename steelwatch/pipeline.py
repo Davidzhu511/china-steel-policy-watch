@@ -278,11 +278,23 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
     candidates = candidates[:max_new]
 
     warnings = [warning for result in source_results for warning in result.warnings]
+    # Collect source excerpts independently of the optional analysis provider.
+    # Official HTML pages often contain the only useful facts behind a short feed title.
+    excerpt_limit = max(0, min(24, int(settings.get("max_source_excerpts_per_run", 12))))
+    official_excerpt_candidates = sorted(
+        (item for item in candidates if item.source_kind != "news" and len(item.excerpt) < 160),
+        key=lambda item: parse_datetime(item.published_at), reverse=True,
+    )[:excerpt_limit]
+    if official_excerpt_candidates:
+        warnings.extend(_hydrate_excerpts(official_excerpt_candidates, settings))
     enricher = GitHubModelsEnricher(settings)
     model_limit = max(0, int(settings.get("max_model_items_per_run", 12)))
     model_candidates = sorted(candidates, key=_raw_preference, reverse=True)[:model_limit]
     if enricher.available:
-        warnings.extend(_hydrate_excerpts(model_candidates, settings))
+        remaining_model_candidates = [
+            item for item in model_candidates if item not in official_excerpt_candidates
+        ]
+        warnings.extend(_hydrate_excerpts(remaining_model_candidates, settings))
     analyses, model_warnings = enricher.enrich(model_candidates)
     warnings.extend(model_warnings)
     analysis_by_id = {analysis["id"]: analysis for analysis in analyses}
@@ -331,11 +343,15 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
         for item in combined.values()
         if parse_datetime(item.get("published_at") or item.get("first_seen")) >= cutoff
         and (
-            item.get("source", {}).get("kind") != "news"
-            or item.get("translation_state") == "complete"
-            or not re.search(r"\b(?:alumini?um|fertili[sz]er|cement|hydrogen)\b",
-                             item.get("title_original", ""), re.I)
-            or is_rule_relevant(item.get("title_original", ""), item.get("source_excerpt", ""), keywords)
+            item.get("translation_state") == "complete"
+            or not re.search(
+                r"\b(?:alumini?um|fertili[sz]ers?|cement|hydrogen|airlines?|aviation|"
+                r"aircraft|overvalued|undervalued|stock holds)\b",
+                item.get("title_original", ""), re.I,
+            )
+            or is_rule_relevant(
+                item.get("title_original", ""), item.get("source_excerpt", ""), keywords
+            )
         )
     ]
     _apply_editorial(retained, config)

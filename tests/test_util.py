@@ -22,6 +22,10 @@ def test_relevance_accepts_china_and_universal_steel_rules():
     assert is_rule_relevant("CBAM certificate surrender rules", "", KEYWORDS)
     assert not is_rule_relevant("Pittsburgh Steelers sign a player", "", KEYWORDS)
     assert not is_rule_relevant("China issues a software regulation", "", KEYWORDS)
+    assert not is_rule_relevant(
+        "EU ETS support for airlines using sustainable aviation fuels", "EU ETS update", KEYWORDS
+    )
+    assert not is_rule_relevant("Baosteel stock holds near CNY 7", "China steel shares", KEYWORDS)
 
 
 def test_title_similarity_detects_reordered_near_duplicates():

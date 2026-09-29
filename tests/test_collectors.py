@@ -203,6 +203,20 @@ def test_rss_collector_keeps_eu_ets_policy_signal():
     assert items[0].source_name == "European Commission"
 
 
+def test_rss_collector_skips_missing_date_instead_of_inventing_today():
+    xml = b"""<rss><channel><item><title>China steel tariff update</title>
+    <link>https://example.com/steel</link><description>China steel tariff</description>
+    </item></channel></rss>"""
+    collector = RssCollector(
+        {"name": "RSS", "feeds": [{"url": "https://example.com/feed.xml"}]},
+        {"settings": {}, "keywords": {"china": ["China"], "materials": ["steel"]}},
+    )
+    collector.session = FakeRichSession(FakeRichResponse(content=xml))
+
+    assert collector.collect() == []
+    assert any("发布日期" in warning for warning in collector.warnings)
+
+
 class FakeGdeltResponse:
     def __init__(self, status_code, payload=None):
         self.status_code = status_code

@@ -4,6 +4,7 @@
     "retention_days": 730,
     "max_new_items_per_run": 120,
     "fetch_page_descriptions": true,
+    "max_source_excerpts_per_run": 12,
     "request_timeout_seconds": 25,
     "model": "gpt-4.1-mini",
     "model_batch_size": 2,
