@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 import shutil
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import UTC, datetime, timedelta
@@ -329,6 +330,13 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
         item
         for item in combined.values()
         if parse_datetime(item.get("published_at") or item.get("first_seen")) >= cutoff
+        and (
+            item.get("source", {}).get("kind") != "news"
+            or item.get("translation_state") == "complete"
+            or not re.search(r"\b(?:alumini?um|fertili[sz]er|cement|hydrogen)\b",
+                             item.get("title_original", ""), re.I)
+            or is_rule_relevant(item.get("title_original", ""), item.get("source_excerpt", ""), keywords)
+        )
     ]
     _apply_editorial(retained, config)
     retained = _deduplicate_history(retained)
