@@ -17,7 +17,7 @@ from .collectors import (
     RssCollector,
 )
 from .enrich import GitHubModelsEnricher, _fallback
-from .fetch import fetch_page_excerpt
+from .fetch import fetch_page_excerpt, is_access_block_text
 from .models import RawItem, SourceResult
 from .render import render_outputs
 from .translate import priority_signal, translate_pending
@@ -282,7 +282,11 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
     # Official HTML pages often contain the only useful facts behind a short feed title.
     excerpt_limit = max(0, min(24, int(settings.get("max_source_excerpts_per_run", 12))))
     official_excerpt_candidates = sorted(
-        (item for item in candidates if item.source_kind != "news" and len(item.excerpt) < 160),
+        (
+            item for item in candidates
+            if item.source_kind != "news" and len(item.excerpt) < 160
+            and "federalregister.gov" not in item.url.lower()
+        ),
         key=lambda item: parse_datetime(item.published_at), reverse=True,
     )[:excerpt_limit]
     if official_excerpt_candidates:
@@ -354,6 +358,10 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
             )
         )
     ]
+    for item in retained:
+        if is_access_block_text(item.get("source_excerpt", "")):
+            item["source_excerpt"] = ""
+            item.pop("machine_translation", None)
     _apply_editorial(retained, config)
     retained = _deduplicate_history(retained)
     translation = translate_pending(retained, settings, previous_by_id)

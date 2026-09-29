@@ -11,6 +11,18 @@ from bs4 import BeautifulSoup
 from .collectors.base import USER_AGENT
 from .util import trim_text
 
+ACCESS_BLOCK_PHRASES = (
+    "your request has been flagged as potentially automated",
+    "aggressive automated scraping",
+    "please complete the captcha",
+    "verify you are human",
+)
+
+
+def is_access_block_text(value: str) -> bool:
+    lowered = value.lower()
+    return any(phrase in lowered for phrase in ACCESS_BLOCK_PHRASES)
+
 
 def _public_hostname(hostname: str) -> bool:
     if not hostname or hostname.lower() in {"localhost", "localhost.localdomain"}:
@@ -80,6 +92,9 @@ def fetch_page_excerpt(url: str, *, official: bool, timeout: int = 20) -> str:
     if len(response.content) > 8_000_000:
         return ""
     soup = BeautifulSoup(response.text, "html.parser")
+    page_text = soup.get_text(" ", strip=True).lower()
+    if is_access_block_text(page_text):
+        return ""
     fragments: list[str] = []
     for key in ("description", "og:description", "twitter:description"):
         selector = f'meta[name="{key}"]' if ":" not in key else f'meta[property="{key}"]'
@@ -115,7 +130,7 @@ def fetch_page_excerpt(url: str, *, official: bool, timeout: int = 20) -> str:
     unique: list[str] = []
     seen: set[str] = set()
     for fragment in fragments:
-        cleaned = " ".join(fragment.split())
+        cleaned = " ".join(BeautifulSoup(fragment, "html.parser").get_text(" ", strip=True).split())
         fingerprint = cleaned.lower()[:180]
         if len(cleaned) < 35 or fingerprint in seen:
             continue
