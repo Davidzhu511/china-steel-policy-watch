@@ -2,18 +2,16 @@
   "settings": {
     "timezone": "Europe/Berlin",
     "retention_days": 730,
-    "max_new_items_per_run": 2,
+    "max_new_items_per_run": 120,
     "fetch_page_descriptions": true,
     "request_timeout_seconds": 25,
-    "model": "openai/gpt-4.1",
+    "model": "gpt-4.1-mini",
     "model_batch_size": 2,
-    "english_backfill_per_run": 24,
-    "model_fallbacks": [
-      "openai/gpt-4.1-mini",
-      "openai/gpt-4o-mini"
-    ],
+    "english_backfill_per_run": 8,
+    "model_fallbacks": [],
     "model_timeout_seconds": 35,
-    "model_attempts_per_model": 1
+    "model_attempts_per_model": 1,
+    "max_model_items_per_run": 12
   },
   "sources": {
     "ec_have_your_say": {
@@ -62,7 +60,9 @@
         "China steel",
         "Chinese steel",
         "steel trade remedy China",
-        "steel tariff quota"
+        "steel tariff quota",
+        "CBAM",
+        "UK ETS"
       ]
     },
     "gdelt": {
@@ -115,7 +115,7 @@
             "cbam",
             "carbon border"
           ],
-          "match_in_title": true,
+          "match_in_title": false,
           "max_items": 8
         },
         {
@@ -138,6 +138,13 @@
           "include_paths": [
             "/document/download/",
             "/news/"
+          ],
+          "exclude_terms": [
+            "sector-specific guidance document on cement",
+            "sector-specific guidance document on hydrogen",
+            "sector-specific guidance document on fertilisers",
+            "sector-specific guidance document on aluminium",
+            "sector-specific guidance document on electricity"
           ]
         },
         {
@@ -225,6 +232,12 @@
           "url": "https://news.google.com/rss/search?q=%28Shougang%20OR%20Baowu%20OR%20Baosteel%20OR%20Ansteel%20OR%20HBIS%20OR%20Tsingshan%29%20steel%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen",
           "language": "en",
           "max_items": 8
+        },
+        {
+          "name": "Google News · 中国钢铁与碳政策",
+          "url": "https://news.google.com/rss/search?q=%28钢铁%20OR%20首钢%20OR%20宝武%29%20%28出口%20OR%20关税%20OR%20反倾销%20OR%20CBAM%29%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans",
+          "language": "zh",
+          "max_items": 12
         }
       ],
       "max_items_per_feed": 10
@@ -358,7 +371,8 @@
       "emissions trading system",
       "surrender and compliance",
       "free allocation",
-      "carbon allowance"
+      "carbon allowance",
+      "uk ets"
     ],
     "exclude": [
       "pittsburgh steelers",

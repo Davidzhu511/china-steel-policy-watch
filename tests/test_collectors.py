@@ -302,3 +302,51 @@ def test_ec_watch_pages_skips_generic_links_and_future_dates():
 
     assert len(items) == 1
     assert items[0].title == "Steel safeguard update"
+
+
+def test_rss_partial_failure_keeps_successful_feed_and_reports_warning():
+    class Session:
+        def get(self, url, **kwargs):
+            if "broken" in url:
+                raise RuntimeError("unavailable")
+            return FakeRichResponse(text='''<rss><channel><item><title>CBAM update</title>
+              <link>https://example.com/article</link><pubDate>Mon, 28 Sep 2026 10:00:00 GMT</pubDate>
+              <description>&lt;p&gt;CBAM guidance update&lt;/p&gt;</description>
+              </item></channel></rss>''')
+    collector = RssCollector({"lookback_days": 5000, "feeds": [
+        {"url": "https://example.com/broken"}, {"url": "https://example.com/works"}]},
+        {"keywords": {"universal_policy": ["cbam"]}})
+    collector.session = Session()
+    result = collector.run()
+    assert result.ok and len(result.items) == 1
+    assert result.warnings and "broken" in result.warnings[0]
+    assert result.items[0].excerpt == "CBAM guidance update"
+
+
+def test_ec_partial_failure_keeps_successful_page():
+    class Session:
+        def get(self, url, **kwargs):
+            if "broken" in url:
+                raise RuntimeError("unavailable")
+            return FakeRichResponse(text='''<article><p>25 September 2026</p>
+              <a href="/news/cbam">CBAM verification update</a></article>''')
+    collector = EcWatchPagesCollector({"lookback_days": 5000, "pages": [
+        {"url": "https://example.com/broken"},
+        {"url": "https://example.com/works", "match_terms": ["cbam"]}]}, {})
+    collector.session = Session()
+    result = collector.run()
+    assert result.ok and len(result.items) == 1 and result.warnings
+
+
+def test_ec_timeline_uses_listing_date_and_keeps_newest_shared_link():
+    from steelwatch.collectors.ec_watch_pages import _extract_date
+    assert _extract_date('28 Aug (August)2026 Available from 1 September 2026').date().isoformat() == '2026-08-28'
+    collector = EcWatchPagesCollector({"lookback_days": 5000, "pages": [
+        {"url": "https://example.com/news", "match_terms": ["cbam"]}]}, {})
+    collector.session = FakeRichSession(FakeRichResponse(text='''
+      <article>28 Sep (September)2026 <a href="/registry">CBAM new training</a></article>
+      <article>28 Aug (August)2026 <a href="/registry">CBAM old procedure</a> Starts 1 September 2026</article>'''))
+    items = collector.collect()
+    assert len(items) == 1
+    assert items[0].title == "CBAM new training"
+    assert items[0].published_at.startswith("2026-09-28")

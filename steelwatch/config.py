@@ -12,4 +12,8 @@ def project_root() -> Path:
 def load_config(path: str | Path | None = None) -> dict[str, Any]:
     config_path = Path(path) if path else project_root() / "config" / "sources.json"
     with config_path.open("r", encoding="utf-8") as handle:
-        return json.load(handle)
+        config = json.load(handle)
+    editorial = config_path.with_name("editorial.json")
+    if editorial.exists():
+        config["editorial"] = json.loads(editorial.read_text(encoding="utf-8"))
+    return config

@@ -1,0 +1,171 @@
+[
+  {
+    "url": "https://climate.ec.europa.eu/news-other-reads/news/eu-ets-publication-surrender-and-compliance-data-2026-09-25_en",
+    "published_date": "2026-09-25",
+    "reviewed_at": "2026-09-28",
+    "title_zh": "EU ETS：2025 年度清缴与合规数据最迟于 10 月 6 日公布",
+    "title_en": "EU ETS: 2025 surrender and compliance data due by 6 October",
+    "summary_zh": "欧委会气候行动总司于 9 月 25 日通知，将最迟在 2026 年 10 月 6 日公布已取得的 2025 年度配额清缴与合规数据。",
+    "summary_en": "DG CLIMA announced on 25 September that the available 2025 surrender and compliance data will be published no later than 6 October 2026.",
+    "impact_zh": "跟踪判断：届时核对碳市场履约数据；该通知本身未宣布调整钢材 CBAM 规则、税率或缴款时间。",
+    "impact_en": "Monitoring assessment: check the compliance data when released. This notice itself announces no change to steel CBAM rules, rates or payment dates.",
+    "category": "碳与环保",
+    "status": "新闻",
+    "importance": "中",
+    "tags": [
+      "EU ETS",
+      "合规数据",
+      "待跟进"
+    ],
+    "tags_en": [
+      "EU ETS",
+      "compliance data",
+      "follow-up"
+    ],
+    "follow_up": {
+      "due_at": "2026-10-06",
+      "action_zh": "核对 2025 年度清缴与合规数据是否已公布",
+      "action_en": "Check publication of the 2025 surrender and compliance data"
+    }
+  },
+  {
+    "url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
+    "published_date": "2026-09-25",
+    "reviewed_at": "2026-09-28",
+    "title_zh": "CBAM 核查机构认可进展：欧委会更新 9 月 25 日版文件",
+    "title_en": "CBAM accreditation: Commission publishes the 25 September update",
+    "summary_zh": "DG TAXUD 核查页面发布了 2026 年 9 月 25 日版《State-of-play CBAM accreditation》。页面说明，认可机构进展清单与获认可核查机构名单用途不同；后者仍标注将于该页公布。",
+    "summary_en": "The DG TAXUD verification page lists the 25 September 2026 edition of State-of-play CBAM accreditation. It distinguishes national accreditation-body progress from the list of accredited verifiers, which it says will be published on that page.",
+    "impact_zh": "跟踪判断：与核查服务商确认其 CBAM 认可状态、适用行业和时间安排，避免将认可申请进展等同于已获资质。",
+    "impact_en": "Monitoring assessment: confirm the provider's CBAM accreditation status, sector scope and timetable. Progress on accreditation applications does not itself establish that a verifier is accredited.",
+    "category": "碳与环保",
+    "status": "新闻",
+    "importance": "高",
+    "tags": [
+      "CBAM",
+      "核查机构",
+      "认可进展"
+    ],
+    "tags_en": [
+      "CBAM",
+      "verifiers",
+      "accreditation"
+    ]
+  },
+  {
+    "url": "https://gov.uk/government/collections/carbon-border-adjustment-mechanism",
+    "published_date": "2026-09-09",
+    "reviewed_at": "2026-09-28",
+    "title_zh": "英国 CBAM 准备事项更新：纳入排放与核查法规",
+    "title_en": "UK CBAM preparation hub adds emissions and verification legislation",
+    "summary_zh": "HMRC 于 9 月 9 日更新 CBAM 汇总页，加入排放与核查法规及利息生效令的入口。页面明确制度自 2027 年 1 月 1 日起适用，注册于 2028 年 1 月 1 日开放。",
+    "summary_en": "HMRC updated the preparation hub on 9 September with emissions and verification legislation and the interest appointed-day order. CBAM applies from 1 January 2027; registration opens on 1 January 2028.",
+    "impact_zh": "跟踪判断：对英钢材订单应提前安排排放数据和进口记录；注册开放时间不能当作制度起征时间。",
+    "impact_en": "Monitoring assessment: plan emissions data and import records for UK steel orders. Registration opening and the start of the regime are different dates.",
+    "category": "碳与环保",
+    "status": "新闻",
+    "importance": "高",
+    "tags": [
+      "CBAM",
+      "UK"
+    ],
+    "tags_en": [
+      "CBAM",
+      "UK"
+    ]
+  },
+  {
+    "url": "https://gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-policy-summary",
+    "published_date": "2026-09-09",
+    "reviewed_at": "2026-09-28",
+    "title_zh": "英国 CBAM 政策摘要更新：反映排放与核查法规进展",
+    "title_en": "UK CBAM policy summary updated for emissions and verification rules",
+    "summary_zh": "HMRC 于 9 月 9 日更新政策摘要，反映《CBAM（排放与核查）条例 2026》的提交进展。该摘要概述主体立法及配套规定，后续细节仍可能更新。",
+    "summary_en": "HMRC updated the policy summary on 9 September to reflect the laying of the 2026 Emissions and Verification Regulations. The summary covers primary and supporting legislation and may be updated further.",
+    "impact_zh": "跟踪判断：报价及合同中的数据交付要求应与最新正式文本核对，不应仅依赖旧版政策介绍。",
+    "impact_en": "Monitoring assessment: check data-delivery requirements in quotations and contracts against current official texts.",
+    "category": "碳与环保",
+    "status": "新闻",
+    "importance": "高",
+    "tags": [
+      "CBAM",
+      "UK"
+    ],
+    "tags_en": [
+      "CBAM",
+      "UK"
+    ]
+  },
+  {
+    "url": "https://gov.uk/government/publications/introduction-of-carbon-border-adjustment-mechanism",
+    "published_date": "2026-09-09",
+    "reviewed_at": "2026-09-28",
+    "title_zh": "英国 CBAM 税收影响说明更新：调整企业成本估计",
+    "title_en": "UK CBAM tax impact note revises estimates of business costs",
+    "summary_zh": "HMRC 于 9 月 9 日更新税收信息与影响说明，调整企业一次性成本及持续行政负担估计。页面确认 CBAM 从 2027 年 1 月 1 日适用于钢铁等五类行业商品。",
+    "summary_en": "HMRC updated the tax impact note on 9 September, revising estimates of one-off business costs and ongoing administrative burdens. It confirms application from 1 January 2027 to goods in five sectors including iron and steel.",
+    "impact_zh": "跟踪判断：这次更新涉及成本估计，不能据此直接推导某一钢材订单的具体税额。",
+    "impact_en": "Monitoring assessment: this update concerns cost estimates and does not establish the tax payable on a specific steel order.",
+    "category": "碳与环保",
+    "status": "新闻",
+    "importance": "中",
+    "tags": [
+      "CBAM",
+      "UK"
+    ],
+    "tags_en": [
+      "CBAM",
+      "UK"
+    ]
+  },
+  {
+    "url": "https://policy.trade.ec.europa.eu/news/commission-imposes-provisional-safeguard-measures-imports-grain-oriented-electrical-steel-2026-09-18_en",
+    "published_date": "2026-09-18",
+    "reviewed_at": "2026-09-28",
+    "title_zh": "欧盟对取向电工钢实施临时保障措施，涉及配额与价格门槛",
+    "title_en": "EU imposes provisional GOES safeguards with quotas and price thresholds",
+    "summary_zh": "欧委会于 9 月 18 日宣布对进口取向电工钢采取临时保障措施，形式为关税配额结合价格门槛。范围包括加工后的叠片和铁芯，以及已装入变压器的铁芯。",
+    "summary_en": "On 18 September the Commission announced provisional safeguards on grain-oriented electrical steel, using tariff-rate quotas and price thresholds. The scope includes laminations, cores and cores incorporated in transformers.",
+    "impact_zh": "跟踪判断：出口取向电工钢及相关下游产品需核对正式法规中的产品范围、配额与价格条件；该公告不是最终保障措施。",
+    "impact_en": "Monitoring assessment: exporters should check the legal product scope, quotas and price conditions. These are provisional measures.",
+    "category": "配额与关税",
+    "status": "临时措施",
+    "importance": "重大",
+    "tags": [
+      "GOES",
+      "取向电工钢",
+      "保障措施"
+    ],
+    "tags_en": [
+      "GOES",
+      "取向电工钢",
+      "保障措施"
+    ]
+  },
+  {
+    "url": "https://taxation-customs.ec.europa.eu/news/new-resources-available-cbam-verifiers-2026-09-28_en",
+    "published_date": "2026-09-28",
+    "reviewed_at": "2026-09-28",
+    "evidence_url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-communication-and-news_en",
+    "coverage": "Official news-list summary; full article not accessible during review.",
+    "title_zh": "欧委会发布 CBAM 核查机构资源汇总，涵盖注册与培训",
+    "title_en": "Commission publishes a resource overview for CBAM verifiers",
+    "summary_zh": "DG TAXUD 于 9 月 28 日的官方新闻列表说明，新资源汇总包含核查与认可指南、CBAM 注册系统访问说明、已获认可核查机构的操作文件，以及 O3CI 门户培训视频。",
+    "summary_en": "The official DG TAXUD news listing dated 28 September describes a resource overview covering verification and accreditation guidance, registry access, operational documents for accredited verifiers and O3CI training videos.",
+    "impact_zh": "跟踪判断：可作为钢厂与核查服务商确认系统访问、资料准备及配合流程的资料入口。以上依据官方新闻列表摘要，详细要求需查阅所链接文件。",
+    "impact_en": "Monitoring assessment: use the resources to coordinate registry access, documentation and workflows with verifiers. This brief is based on the official listing; consult the linked documents for full requirements.",
+    "category": "碳与环保",
+    "status": "新闻",
+    "importance": "高",
+    "tags": [
+      "CBAM",
+      "核查",
+      "注册系统"
+    ],
+    "tags_en": [
+      "CBAM",
+      "verification",
+      "registry"
+    ]
+  }
+]

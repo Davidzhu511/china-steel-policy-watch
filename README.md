@@ -1,18 +1,19 @@
 # 中国钢铁全球政策情报看板
 
-每天自动采集与中国钢铁有关的法规、贸易救济、配额/关税、原产地、碳政策、市场和企业新闻，生成中英文摘要与出口影响判断，并通过 GitHub Pages 发布静态看板。每条情报都保留官方或原始网页链接。
+每天自动采集与中国钢铁有关的法规、贸易救济、配额/关税、原产地、碳政策、市场和企业新闻，提供来源核对后的中英文重点解读，并可选接入自动摘要，并通过 GitHub Pages 发布静态看板。每条情报都保留官方或原始网页链接。
 
 ## 看板包含什么
 
 - **正式法规优先**：EUR-Lex 的 L 系列法规和 C 系列公告分别采集，不把新闻和法律文件混为一类。
 - **政策前置预警**：接入欧委会 Have Your Say 官方接口，追踪钢铁与 CBAM 倡议，并显示征求意见状态和截止日期。
 - **重点市场官方来源**：欧盟公众咨询与官方公报、美国 Federal Register、GOV.UK。
-- **全球新闻覆盖**：通过 GDELT DOC 2.0 获取多国媒体和政府网站的原始链接。
-- **中英文研判**：GitHub Actions 使用 GitHub Models 同时生成中英文标题、摘要与影响分析，并回答“对中国钢厂/出口商意味着什么”。
+- **多源新闻发现**：DG CLIMA / DG TRADE 官方 RSS、DG TAXUD / CLIMA / TRADE 页面直采、Google News 中英文索引。GDELT 已默认停用，保留为可选备用。
+- **双视图与归档**：默认按发布时间显示最新动态；重点关注含重大、高优先级及待跟进节点。支持 CBAM、EU ETS / UK ETS、关税与贸易救济、钢企与市场主题，以及时间范围、首次收录排序。
+- **中英文研判**：经原文核对的重点解读保存在 `config/editorial.json`，仅适用指定日期的来源版本。未解读条目保留原标题、摘录和链接，并明确标注待补充；不会把它当作已完成分析。
 - **个性化外观**：内置黑金、深海蓝、翡翠绿、赤铜棕、紫晶夜和象牙浅色六套配色，语言与主题偏好保存在浏览器本地。
 - **历史与去重**：近似标题和规范化 URL 去重；历史情报默认保留 730 天。
 - **健康隔离**：单个来源失败不会中断其他来源，也不会删除已有历史数据。
-- **免费静态发布**：GitHub Pages，不需要服务器；GitHub Models 使用工作流自带的 `GITHUB_TOKEN`，无需另配 OpenAI API Key。
+- **静态发布**：采集与 GitHub Pages 发布不依赖模型服务。GitHub Models 已于 2026-07-30 退役（[官方说明](https://docs.github.com/en/github-models)），不再调用旧接口或传递 `GITHUB_TOKEN` 给模型端点。自动双语解读需要另行配置模型服务，费用由该服务决定。
 
 ## 自动更新时间
 
@@ -37,14 +38,11 @@ python -m steelwatch render
 python -m http.server 8000 --directory docs
 ```
 
-浏览器打开 `http://localhost:8000`。本地没有 GitHub Models 令牌时可以正常渲染已有数据；只有新情报的自动双语分析会等到 GitHub Actions 运行时完成。
+浏览器打开 `http://localhost:8000`。无模型凭据时 `python -m steelwatch update` 仍完整收录新信息；中文解读待补充的条目清晰标注，历史解读正常显示。
 
-如需在本地完整更新，可提供具有 `models:read` 权限的令牌：
+可选自动解读：在仓库 Actions Variables 中配置 `STEELWATCH_MODEL_ENDPOINT`（受信任服务的完整 HTTPS chat/completions URL）和 `STEELWATCH_MODEL`（模型名）；在 Actions Secrets 中配置 `STEELWATCH_MODEL_API_KEY`。端点需兼容 Chat Completions 的 JSON 输出。不要把 API key 写进代码或来源配置。未配置时默认禁用，不承诺自动翻译完成。
 
-```bash
-export GH_MODELS_TOKEN="..."
-python -m steelwatch update
-```
+每轮默认最多收录 120 条候选记录，最多 12 条参与可选模型解读。模型失败不会阻止其余记录入库；历史记录不会因为离开 RSS 窗口或单次来源故障被删除。
 
 ## 配置来源和关键词
 
@@ -57,21 +55,19 @@ python -m steelwatch update
 - `keywords.china`：中国钢企和中国主体词；
 - `keywords.materials`：钢铁产品、原料和加工品；
 - `keywords.global_steel_policy`：即使标题未直接写 China，仍会影响中国出口的普遍性钢铁政策；
-- `keywords.universal_policy`：无需同时出现 China 或 steel 也应纳入的跨品类制度（当前包括 CBAM）；
+- `keywords.universal_policy`：无需同时出现 China 或 steel 也应纳入的跨品类制度（包括 CBAM、EU ETS、UK ETS）；
 - `official_domains`：把新闻索引中的政府/国际组织域名升级为官方来源。
 
 建议先扩充配置再改程序。新增查询应保持“主体词 + 钢铁词 + 措施词”的组合，避免抓入体育、影视或泛金属噪声。
 
 ## 数据流
 
-```mermaid
-flowchart LR
-  A[公众咨询、官方公报与新闻索引] --> B[关键词初筛]
-  B --> C[URL 与近似标题去重]
-  C --> D[GitHub Models 中英文研判]
-  D --> E[JSON 历史库]
-  E --> F[GitHub Pages 看板与 RSS]
-```
+1. 并行抓取官方来源及中英文 RSS；每个页面/订阅源独立报告异常。
+2. 根据标题、来源和关键词筛选，规范 URL 并去重。
+3. 收录原始记录；自动解读为可选独立步骤，失败时保留待解读记录。
+4. 应用经原文核对的版本限定解读，再生成看板 JSON 与 RSS。
+
+来源状态列出抓取命中数量；`analysis_status` 单独报告自动解读是否可用。来源请求成功但无命中显示为零，部分渠道失败显示部分异常。转载的相同标题保留同题来源链接。
 
 ## 目录
 
@@ -88,13 +84,13 @@ tests/                    离线单元测试
 
 程序是“发现和初筛工具”，不是法律数据库替代品。模型不得补造税率、期限或产品范围，摘录不足时应明确提示；但业务决策前仍必须打开原文，核对税号、产品描述、原产地、生产商税率、适用期和后续修订。
 
-媒体内容只保存短中文摘要和原始链接，不保存新闻全文。正式法规以发布机关文本为准。
+媒体内容只保存短摘要或短摘录和原始链接，不保存新闻全文。正式法规以发布机关文本为准。
 
 ## 常见问题
 
 **Actions 显示 `Resource not accessible by integration`**
 
-检查仓库 Actions 的 Workflow permissions 是否允许读写，并确认工作流含有 `contents: write`、`pages: write` 和 `models: read`。
+检查仓库 Actions 的 Workflow permissions 是否允许读写，并确认工作流含有 `contents: write` 和 `pages: write`。
 
 **Pages 部署失败**
 

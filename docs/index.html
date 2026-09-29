@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zh-CN" data-theme="gold">
+<html lang="zh-CN" data-theme="pearl">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -7,7 +7,7 @@
       name="description"
       content="每日追踪全球与中国钢铁有关的法规、贸易救济、配额关税、原产地、碳政策与行业新闻。"
     />
-    <meta name="theme-color" content="#11130f" />
+    <meta name="theme-color" content="#faf8f2" />
     <title>中国钢铁全球政策情报</title>
     <link rel="icon" href="./icon.svg" type="image/svg+xml" />
     <link rel="alternate" type="application/rss+xml" title="中国钢铁全球政策情报" href="./feed.xml" />
@@ -81,22 +81,10 @@
       </section>
 
       <section class="metrics" aria-label="情报概览" data-i18n-aria-label="metricsAria">
-        <article><span data-i18n="metricNew">本次新增</span><strong id="metric-new">—</strong><small>NEW SIGNALS</small></article>
-        <article><span data-i18n="metricHigh">重大 / 高关注</span><strong id="metric-high">—</strong><small>PRIORITY</small></article>
-        <article><span data-i18n="metricOfficial">官方文件</span><strong id="metric-official">—</strong><small>PRIMARY SOURCES</small></article>
-        <article><span data-i18n="metricMarkets">覆盖国家/地区</span><strong id="metric-markets">—</strong><small>MARKETS</small></article>
-      </section>
-
-      <section class="briefing-grid" aria-label="重点情报与采集状态">
-        <article class="lead-card" id="lead-card">
-          <div class="loading-line"></div>
-          <div class="loading-line short"></div>
-        </article>
-        <aside class="source-panel">
-          <div class="section-kicker"><span data-i18n="sourceHealth">采集状态</span><small>SOURCE HEALTH</small></div>
-          <div id="source-list" class="source-list" aria-live="polite"></div>
-          <p class="source-note" data-i18n="sourceNote">单一来源异常不会中断整次更新，历史数据也不会被清空。</p>
-        </aside>
+        <article><button type="button" data-metric="new"><span data-i18n="metricNew">本次新增</span><strong id="metric-new">—</strong><small>NEW SIGNALS ↗</small></button></article>
+        <article><button type="button" data-metric="priority"><span data-i18n="metricHigh">重大 / 高关注</span><strong id="metric-high">—</strong><small>PRIORITY ↗</small></button></article>
+        <article><button type="button" data-metric="official"><span data-i18n="metricOfficial">官方文件</span><strong id="metric-official">—</strong><small>PRIMARY SOURCES ↗</small></button></article>
+        <article><button type="button" data-metric="all"><span data-i18n="metricMarkets">覆盖国家/地区</span><strong id="metric-markets">—</strong><small>MARKETS ↗</small></button></article>
       </section>
 
       <section class="intelligence" id="intelligence" aria-labelledby="intelligence-title">
@@ -108,12 +96,29 @@
           <p id="result-count" aria-live="polite" data-i18n="loadingShort">正在加载…</p>
         </div>
 
-        <div class="feed-tabs" id="feed-tabs" role="tablist" aria-label="情报视图">
-          <button class="feed-tab active" type="button" role="tab" aria-selected="true" data-feed-mode="latest" data-i18n="tabLatest">最新动态</button>
-          <button class="feed-tab" type="button" role="tab" aria-selected="false" data-feed-mode="priority" data-i18n="tabPriority">重点关注</button>
-          <button class="feed-tab" type="button" role="tab" aria-selected="false" data-feed-mode="all" data-i18n="tabAll">全部归档</button>
+        <div class="feed-tabs" id="feed-tabs" role="group" aria-label="情报视图">
+          <button class="feed-tab active" type="button" aria-pressed="true" data-feed-mode="latest" data-i18n="tabLatest">最新动态</button>
+          <button class="feed-tab" type="button" aria-pressed="false" data-feed-mode="priority" data-i18n="tabPriority">重点关注</button>
+          <button class="feed-tab" type="button" aria-pressed="false" data-feed-mode="all" data-i18n="tabAll">全部归档</button>
         </div>
 
+        <div class="topic-filters" id="topic-filters" role="group" aria-label="主题筛选">
+          <button type="button" class="active" data-topic="all" aria-pressed="true" data-i18n="topicAll">全部主题</button>
+          <button type="button" data-topic="cbam" aria-pressed="false">CBAM</button>
+          <button type="button" data-topic="ets" aria-pressed="false">EU ETS / UK ETS</button>
+          <button type="button" data-topic="trade" aria-pressed="false" data-i18n="topicTrade">关税与贸易救济</button>
+          <button type="button" data-topic="industry" aria-pressed="false" data-i18n="topicIndustry">钢企与市场</button>
+        </div>
+        <div class="feed-options">
+          <label><span data-i18n="periodLabel">时间范围</span>
+            <select id="period"><option value="7" data-i18n="period7">近 7 天</option><option value="30" data-i18n="period30">近 30 天</option><option value="90" data-i18n="period90">近 90 天</option><option value="0" data-i18n="periodAll">全部时间</option></select>
+          </label>
+          <label><span data-i18n="sortLabel">排序依据</span>
+            <select id="sort"><option value="published" data-i18n="sortPublished">发布时间</option><option value="seen" data-i18n="sortSeen">首次收录</option></select>
+          </label>
+          <label class="new-only"><input type="checkbox" id="new-only"/><span data-i18n="newOnly">仅本次新增</span></label>
+        </div>
+        <p class="feed-note" id="feed-note"></p>
         <form class="filters" id="filters" role="search">
           <label class="search-field">
             <span class="visually-hidden" data-i18n="searchLabel">搜索情报</span>
@@ -149,6 +154,19 @@
         <div class="active-filters" id="active-filters"></div>
         <div class="card-grid" id="card-grid" aria-live="polite"></div>
         <button class="load-more" id="load-more" type="button" hidden data-i18n="loadMore">加载更多</button>
+      </section>
+
+      <section class="briefing-grid" aria-label="重点情报与采集状态">
+        <article class="lead-card" id="lead-card">
+          <div class="loading-line"></div>
+          <div class="loading-line short"></div>
+        </article>
+        <aside class="source-panel">
+          <div class="section-kicker"><span data-i18n="sourceHealth">采集状态</span><small>SOURCE HEALTH</small></div>
+          <p id="analysis-state" class="analysis-state" role="status"></p>
+          <div id="source-list" class="source-list" aria-live="polite"></div>
+          <p class="source-note" data-i18n="sourceNote">单一来源异常不会中断整次更新，历史数据也不会被清空。</p>
+        </aside>
       </section>
 
       <section class="method" aria-label="看板方法说明">

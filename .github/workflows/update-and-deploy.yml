@@ -7,6 +7,9 @@ on:
     paths:
       - ".github/workflows/update-and-deploy.yml"
       - "config/**"
+      - "docs/index.html"
+      - "docs/app.js"
+      - "docs/styles.css"
       - "scripts/**"
       - "steelwatch/**"
       - "tests/**"
@@ -21,7 +24,6 @@ permissions:
   contents: write
   pages: write
   id-token: write
-  models: read
 
 concurrency:
   group: steelwatch-pages
@@ -64,7 +66,9 @@ jobs:
       - name: 采集、翻译并生成看板数据
         if: steps.gate.outputs.run == 'true'
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STEELWATCH_MODEL_ENDPOINT: ${{ vars.STEELWATCH_MODEL_ENDPOINT }}
+          STEELWATCH_MODEL: ${{ vars.STEELWATCH_MODEL }}
+          STEELWATCH_MODEL_API_KEY: ${{ secrets.STEELWATCH_MODEL_API_KEY }}
         run: python -m steelwatch update
 
       - name: 保存本次数据

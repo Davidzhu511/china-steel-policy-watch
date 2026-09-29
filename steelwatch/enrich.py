@@ -5,6 +5,7 @@ import os
 import re
 import time
 from typing import Any
+from urllib.parse import urlsplit
 
 import requests
 
@@ -22,7 +23,7 @@ CATEGORIES = {
     "市场与产能",
     "企业与供应链",
 }
-STATUSES = {"已生效", "拟议", "调查中", "临时措施", "终裁", "审查中", "新闻"}
+STATUSES = {"已生效", "拟议", "调查中", "临时措施", "终裁", "审查中", "新闻", "待核对"}
 IMPORTANCE = {"重大", "高", "中", "低"}
 REGIONS = {"欧洲", "北美", "亚洲", "非洲", "拉美", "中东", "大洋洲", "全球"}
 
@@ -57,18 +58,25 @@ impact_en、products_en、tags_en。"""
 
 
 def _fallback(item: RawItem) -> dict[str, Any]:
-    chinese = bool(re.search(r"[\u4e00-\u9fff]", item.title))
+    text = f"{item.title} {item.excerpt}".lower()
+    category = "市场与产能" if item.source_kind == "news" else "法规与正式文件"
+    if any(term in text for term in ("cbam", "carbon", "eu ets", "emissions trading")):
+        category = "碳与环保"
+    elif any(term in text for term in ("anti-dumping", "antidumping", "countervailing")):
+        category = "贸易救济"
+    elif any(term in text for term in ("quota", "tariff", "safeguard")):
+        category = "配额与关税"
     return {
         "id": item.id,
         "relevant": True,
-        "title_zh": item.title if chinese else item.title,
+        "title_zh": item.title,
         "title_en": item.title,
         "summary_zh": "中文摘要暂未生成，请以原文为准。",
         "summary_en": "The English brief is not available yet. Please review the original source.",
         "impact_zh": "待自动分析；请先核对原文内容。",
         "impact_en": "Automated impact analysis is pending; please verify the original source.",
-        "category": "市场与产能" if item.source_kind == "news" else "法规与正式文件",
-        "status": "新闻" if item.source_kind == "news" else "审查中",
+        "category": category,
+        "status": "新闻" if item.source_kind == "news" else "待核对",
         "importance": "中",
         "country": item.country,
         "region": item.region,
@@ -150,10 +158,11 @@ def _validate(result: dict[str, Any], item: RawItem) -> dict[str, Any]:
 
 
 class GitHubModelsEnricher:
-    endpoint = "https://models.github.ai/inference/chat/completions"
+    """Optional OpenAI-compatible enrichment; the retired GitHub endpoint is never used."""
 
     def __init__(self, settings: dict[str, Any]) -> None:
-        self.token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_MODELS_TOKEN") or ""
+        self.endpoint = os.environ.get("STEELWATCH_MODEL_ENDPOINT", "").strip()
+        self.token = os.environ.get("STEELWATCH_MODEL_API_KEY", "")
         self.model = os.environ.get("STEELWATCH_MODEL") or settings.get(
             "model", "openai/gpt-4.1-mini"
         )
@@ -165,10 +174,15 @@ class GitHubModelsEnricher:
         self.model_timeout = max(10, min(90, int(settings.get("model_timeout_seconds", 35))))
         self.model_attempts = max(1, min(3, int(settings.get("model_attempts_per_model", 1))))
         self.session = requests.Session()
+        self.failed = False
 
     @property
     def available(self) -> bool:
-        return bool(self.token)
+        parts = urlsplit(self.endpoint)
+        return bool(
+            self.token and parts.scheme == "https" and parts.hostname
+            and parts.hostname not in {"models.github.ai", "models.inference.ai.azure.com"}
+        )
 
     def _enrich_batch(
         self,
@@ -179,6 +193,7 @@ class GitHubModelsEnricher:
         try:
             return self._call(batch)
         except Exception as exc:
+            self.failed = True
             warnings.append(f"{label}: {type(exc).__name__}: {exc}")
             return [_fallback(item) for item in batch]
 
@@ -186,11 +201,14 @@ class GitHubModelsEnricher:
         if not items:
             return [], []
         if not self.available:
-            return [_fallback(item) for item in items], ["未发现 GitHub Models 令牌"]
+            return [_fallback(item) for item in items], []
         output: list[dict[str, Any]] = []
         warnings: list[str] = []
         for start in range(0, len(items), self.batch_size):
             batch = items[start : start + self.batch_size]
+            if self.failed:
+                output.extend(_fallback(item) for item in batch)
+                continue
             label = f"模型批次 {start // self.batch_size + 1}"
             output.extend(self._enrich_batch(batch, warnings, label))
         return output, warnings
@@ -212,8 +230,8 @@ class GitHubModelsEnricher:
     ) -> tuple[dict[str, dict[str, Any]], list[str]]:
         if not items:
             return {}, []
-        if not self.available:
-            return {}, ["未发现 GitHub Models 令牌，英文历史摘要暂未补齐"]
+        if not self.available or self.failed:
+            return {}, []
         output: dict[str, dict[str, Any]] = {}
         warnings: list[str] = []
         for start in range(0, len(items), self.batch_size):
@@ -232,9 +250,8 @@ class GitHubModelsEnricher:
                     response = self.session.post(
                         self.endpoint,
                         headers={
-                            "Accept": "application/vnd.github+json",
+                            "Accept": "application/json",
                             "Authorization": f"Bearer {self.token}",
-                            "X-GitHub-Api-Version": "2022-11-28",
                             "Content-Type": "application/json",
                         },
                         json=model_payload,
@@ -247,7 +264,7 @@ class GitHubModelsEnricher:
 
                 if response.status_code in {429, 500, 502, 503, 504}:
                     last_error = RuntimeError(
-                        f"GitHub Models HTTP {response.status_code} ({model})"
+                        f"Model API HTTP {response.status_code} ({model})"
                     )
                     diagnostics.append(f"{model}:http-{response.status_code}")
                     if attempt + 1 < self.model_attempts:
@@ -260,7 +277,10 @@ class GitHubModelsEnricher:
                         continue
                     break
 
-                response.raise_for_status()
+                if response.status_code >= 400:
+                    last_error = RuntimeError(f"Model API HTTP {response.status_code} ({model})")
+                    diagnostics.append(f"{model}:http-{response.status_code}")
+                    break
                 content = ""
                 body: Any = None
                 try:
@@ -277,28 +297,14 @@ class GitHubModelsEnricher:
                     return parsed
                 except (json.JSONDecodeError, KeyError, IndexError, TypeError, ValueError) as exc:
                     last_error = exc
-                    preview = re.sub(r"\s+", " ", str(content)).strip()[:160]
-                    if isinstance(body, dict):
-                        body_keys = ",".join(str(key) for key in list(body.keys())[:8])
-                        body_preview = re.sub(
-                            r"\s+",
-                            " ",
-                            json.dumps(body, ensure_ascii=False),
-                        ).strip()[:260]
-                    else:
-                        body_keys = type(body).__name__
-                        body_preview = re.sub(r"\s+", " ", str(body)).strip()[:260]
-                    diagnostics.append(
-                        f"{model}:{type(exc).__name__}:preview={preview!r}:"
-                        f"body_keys={body_keys!r}:body={body_preview!r}"
-                    )
-                    break
+                    diagnostics.append(f"{model}:{type(exc).__name__}:invalid-response")
+                    continue
 
         if last_error is None:
             last_error = RuntimeError("no enrichment model candidates configured")
         detail = ", ".join(diagnostics[-8:])
         if detail:
-            raise RuntimeError(f"{last_error}; attempts={detail}") from last_error
+            raise RuntimeError(f"Model analysis unavailable; attempts={detail}") from last_error
         raise last_error
 
     def _call(self, items: list[RawItem]) -> list[dict[str, Any]]:
@@ -335,7 +341,15 @@ class GitHubModelsEnricher:
             for record in parsed.get("items", [])
             if isinstance(record, dict)
         }
-        return [_validate(by_id.get(item.id, {}), item) for item in items]
+        required = ("title_zh", "summary_zh", "impact_zh")
+        return [
+            _validate(by_id[item.id], item)
+            if item.id in by_id and (
+                by_id[item.id].get("relevant") is False
+                or all(by_id[item.id].get(key) for key in required)
+            ) else _fallback(item)
+            for item in items
+        ]
 
     def _call_backfill(self, items: list[dict[str, Any]]) -> dict[str, dict[str, Any]]:
         records = [

@@ -232,7 +232,7 @@ def test_update_pipeline_refreshes_consultation_status_for_existing_item(
 
 
 
-def test_update_pipeline_prunes_stale_pending_discovery_items(tmp_path, monkeypatch):
+def test_update_pipeline_retains_pending_discovery_during_outage(tmp_path, monkeypatch):
     data, docs = tmp_path / "data", tmp_path / "docs"
     data.mkdir()
     stale = {
@@ -284,4 +284,50 @@ def test_update_pipeline_prunes_stale_pending_discovery_items(tmp_path, monkeypa
     )
 
     payload = json.loads((data / "items.json").read_text(encoding="utf-8"))
-    assert payload["items"] == []
+    assert payload["items"][0]["id"] == "stale-rss-1"
+
+
+def test_unavailable_model_does_not_block_discovery_or_refresh_first_seen(tmp_path, monkeypatch):
+    monkeypatch.delenv("STEELWATCH_MODEL_ENDPOINT", raising=False)
+    monkeypatch.delenv("STEELWATCH_MODEL_API_KEY", raising=False)
+    from datetime import UTC, datetime
+    date = datetime.now(UTC).isoformat()
+    raw = [RawItem(
+        id=f"new-{n}", title=f"China steel tariff bulletin number {n}",
+        url=f"https://example.com/{n}", published_at=date,
+        source_id="test", source_name="Authority", source_kind="official-notice",
+    ) for n in range(5)]
+    # Use dissimilar titles to avoid intentionally deduplicating this test's input.
+    for item, title in zip(raw, ["China steel quota", "CBAM verification", "EU ETS compliance",
+                                "China steel antidumping", "China steel safeguard"]):
+        item.title = title
+    monkeypatch.setattr(pipeline, "_collect", lambda _: [SourceResult("test", "Authority", True, raw)])
+    config = {"settings": {"max_new_items_per_run": 120, "max_model_items_per_run": 2},
+              "keywords": {"universal_policy": ["steel", "CBAM", "EU ETS"]}}
+    data, docs = tmp_path / "data", tmp_path / "docs"
+    status = pipeline.run_update(config, data, docs)
+    assert status["new_items"] == 5
+    assert status["analysis_status"] == "unconfigured"
+    assert status["pending_analysis"] == 5
+    first = json.loads((data / "items.json").read_text())["items"]
+    monkeypatch.setattr(pipeline, "now_iso", lambda: "2026-09-30T00:00:00Z")
+    second = pipeline.run_update(config, data, docs)
+    assert second["new_items"] == 0
+    assert {x["first_seen"] for x in json.loads((data / "items.json").read_text())["items"]} == {x["first_seen"] for x in first}
+
+
+def test_editorial_brief_does_not_override_a_new_source_revision():
+    item = {"url": "https://example.com/doc", "published_at": "2026-09-28T00:00:00Z", "title_zh": "New version"}
+    pipeline._apply_editorial([item], {"editorial": [{"url": item["url"], "published_date": "2026-09-25", "title_zh": "Old version"}]})
+    assert item["title_zh"] == "New version"
+
+
+def test_identical_syndicated_news_keeps_related_source_links():
+    common = {"published_at": "2026-09-28", "first_seen": "2026-09-28", "translation_state": "pending"}
+    rows = [{**common, "url": f"https://example.com/{source}",
+             "title_original": f"China steel plant trial - {source}",
+             "source": {"kind": "news", "name": source}} for source in ["Other", "Reuters"]]
+    result = pipeline._deduplicate_history(rows)
+    assert len(result) == 1
+    assert result[0]["source"]["name"] == "Reuters"
+    assert result[0]["related_sources"][0]["name"] == "Other"

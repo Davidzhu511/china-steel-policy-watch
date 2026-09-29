@@ -44,10 +44,11 @@ def _clean(value: str) -> str:
 
 
 def _extract_date(text: str) -> datetime | None:
-    for pattern in DATE_PATTERNS:
-        match = pattern.search(text)
-        if not match:
-            continue
+    matches = sorted(
+        (match for pattern in DATE_PATTERNS for match in pattern.finditer(text)),
+        key=lambda match: match.start(),
+    )
+    for match in matches:
         value = re.sub(r"\s*\([A-Za-z]+\)\s*", " ", match.group(0))
         try:
             parsed = date_parser.parse(value, dayfirst=True)
@@ -119,16 +120,23 @@ class EcWatchPagesCollector(Collector):
         lookback_days = int(self.config.get("lookback_days", 60))
         cutoff = datetime.now(UTC) - timedelta(days=lookback_days)
         found: dict[str, RawItem] = {}
+        successes = 0
 
         for page in self.config.get("pages", []):
             url = str(page.get("url") or "").strip()
             if not url:
                 continue
-            response = self.session.get(url, timeout=max(self.timeout, 35))
-            response.raise_for_status()
-            soup = BeautifulSoup(response.text, "html.parser")
+            try:
+                response = self.session.get(url, timeout=max(self.timeout, 35))
+                response.raise_for_status()
+                soup = BeautifulSoup(response.text, "html.parser")
+            except Exception as exc:
+                self.warnings.append(f"{url}: {type(exc).__name__}: {str(exc)[:120]}")
+                continue
+            successes += 1
             terms = [str(term).lower() for term in page.get("match_terms", []) if term]
             match_in_title = bool(page.get("match_in_title", False))
+            excluded = [term.lower() for term in page.get("exclude_terms", [])]
             include_paths = [
                 str(value).lower()
                 for value in page.get("include_paths", [])
@@ -158,7 +166,7 @@ class EcWatchPagesCollector(Collector):
 
                 container, context = _container(anchor)
                 title = _title(anchor, container, target)
-                if len(title) < 8:
+                if len(title) < 8 or any(term in title.lower() for term in excluded):
                     continue
                 haystack = title.lower() if match_in_title else f"{title} {context}".lower()
                 if terms and not any(term in haystack for term in terms):
@@ -170,6 +178,9 @@ class EcWatchPagesCollector(Collector):
                     continue
 
                 identifier = stable_id(target, title)
+                previous = page_found.get(identifier)
+                if previous and published <= datetime.fromisoformat(previous.published_at.replace("Z", "+00:00")):
+                    continue
                 page_found[identifier] = RawItem(
                     id=identifier,
                     title=title,
@@ -194,4 +205,6 @@ class EcWatchPagesCollector(Collector):
                 reverse=True,
             )[:max_items]
             found.update({item.id: item for item in newest})
+        if not successes and self.warnings:
+            raise RuntimeError("; ".join(self.warnings))
         return list(found.values())

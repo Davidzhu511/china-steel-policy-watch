@@ -32,6 +32,7 @@ class SourceResult:
     items: list[RawItem] = field(default_factory=list)
     error: str = ""
     duration_ms: int = 0
+    warnings: list[str] = field(default_factory=list)
 
     def status_dict(self) -> dict[str, Any]:
         return {
@@ -41,4 +42,5 @@ class SourceResult:
             "count": len(self.items),
             "error": self.error,
             "duration_ms": self.duration_ms,
+            "warnings": self.warnings,
         }

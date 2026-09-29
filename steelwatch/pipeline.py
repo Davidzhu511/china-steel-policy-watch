@@ -15,7 +15,7 @@ from .collectors import (
     GovUkCollector,
     RssCollector,
 )
-from .enrich import GitHubModelsEnricher
+from .enrich import GitHubModelsEnricher, _fallback
 from .fetch import fetch_page_excerpt
 from .models import RawItem, SourceResult
 from .render import render_outputs
@@ -27,6 +27,7 @@ from .util import (
     now_iso,
     parse_datetime,
     title_similarity,
+    trim_text,
 )
 
 
@@ -148,6 +149,7 @@ def _build_item(raw: RawItem, analysis: dict[str, Any], timestamp: str) -> dict[
         "translation_state": analysis.get("translation_state", "complete"),
         "first_seen": timestamp,
         "last_seen": timestamp,
+        "source_excerpt": trim_text(raw.excerpt, 1000 if official else 450),
     }
     consultation = raw.metadata.get("consultation")
     if isinstance(consultation, dict) and consultation:
@@ -157,6 +159,52 @@ def _build_item(raw: RawItem, analysis: dict[str, Any], timestamp: str) -> dict[
             if consultation.get(key)
         }
     return item
+
+
+def _apply_editorial(items: list[dict[str, Any]], config: dict[str, Any]) -> None:
+    """Apply source-checked briefs only to the exact dated source revision reviewed."""
+    reviews = {canonical_url(row["url"]): row for row in config.get("editorial", [])}
+    fields = {
+        "title_zh", "title_en", "summary_zh", "summary_en", "impact_zh", "impact_en",
+        "category", "status", "importance", "tags", "tags_en", "follow_up",
+    }
+    for item in items:
+        review = reviews.get(canonical_url(item["url"]))
+        if not review or item["published_at"][:10] != review.get("published_date"):
+            continue
+        item.update({key: review[key] for key in fields if key in review})
+        item.update(translation_state="complete", review_method="source_checked",
+                    reviewed_at=review["reviewed_at"])
+
+
+def _deduplicate_history(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Collapse identical syndicated headlines while retaining all original links."""
+    ordered = sorted(items, key=lambda row: (
+        row.get("translation_state") == "complete",
+        row.get("source", {}).get("name", "").lower() == "reuters",
+    ), reverse=True)
+    kept: list[dict[str, Any]] = []
+    for item in ordered:
+        if item.get("source", {}).get("kind") != "news":
+            kept.append(item)
+            continue
+        title = item.get("title_original", "")
+        source_name = item.get("source", {}).get("name", "")
+        title = title.removesuffix(f" - {source_name}").removesuffix(" - News and Statistics")
+        item["title_original"] = title
+        duplicate = next((row for row in kept if (
+            row.get("source", {}).get("kind") == "news"
+            and row.get("title_original", "").casefold() == title.casefold()
+            and abs((parse_datetime(row["published_at"]) - parse_datetime(item["published_at"])).days) <= 2
+        )), None)
+        if duplicate:
+            duplicate["first_seen"] = min(duplicate["first_seen"], item["first_seen"])
+            links = duplicate.setdefault("related_sources", [])
+            if not any(link["url"] == item["url"] for link in links):
+                links.append({"name": source_name, "url": item["url"]})
+        else:
+            kept.append(item)
+    return kept
 
 
 def _sort_key(item: dict[str, Any]) -> tuple[int, int, datetime]:
@@ -194,7 +242,11 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
     for raw in raw_items:
         previous = previous_by_id.get(raw.id)
         if previous:
-            if previous.get("translation_state") != "complete":
+            if (
+                previous.get("translation_state") != "complete"
+                or parse_datetime(raw.published_at).date()
+                != parse_datetime(previous.get("published_at")).date()
+            ):
                 candidates.append(raw)
             continue
         near_duplicate = next(
@@ -216,13 +268,19 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
             observed_existing_ids.add(near_duplicate["id"])
             continue
         candidates.append(raw)
-    candidates.sort(key=lambda item: parse_datetime(item.published_at), reverse=True)
-    max_new = int(settings.get("max_new_items_per_run", 48))
+    # Discovery must not queue behind a repeatedly failing translation job.
+    candidates.sort(key=lambda item: (item.id not in previous_by_id,
+                                     parse_datetime(item.published_at)), reverse=True)
+    max_new = max(1, int(settings.get("max_new_items_per_run", 120)))
     candidates = candidates[:max_new]
 
-    warnings = _hydrate_excerpts(candidates, settings)
+    warnings = [warning for result in source_results for warning in result.warnings]
     enricher = GitHubModelsEnricher(settings)
-    analyses, model_warnings = enricher.enrich(candidates)
+    model_limit = max(0, int(settings.get("max_model_items_per_run", 12)))
+    model_candidates = sorted(candidates, key=_raw_preference, reverse=True)[:model_limit]
+    if enricher.available:
+        warnings.extend(_hydrate_excerpts(model_candidates, settings))
+    analyses, model_warnings = enricher.enrich(model_candidates)
     warnings.extend(model_warnings)
     analysis_by_id = {analysis["id"]: analysis for analysis in analyses}
 
@@ -252,19 +310,9 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
         if identifier in combined:
             combined[identifier] = {**combined[identifier], **update}
 
-    transient_sources = {"ec_watch_pages", "rss", "gdelt"}
-    for identifier, item in list(combined.items()):
-        source_id = item.get("source", {}).get("id")
-        if (
-            identifier not in observed_ids
-            and source_id in transient_sources
-            and item.get("translation_state") != "complete"
-        ):
-            combined.pop(identifier, None)
-
     for raw in candidates:
-        analysis = analysis_by_id.get(raw.id)
-        if not analysis or not analysis.get("relevant", True):
+        analysis = analysis_by_id.get(raw.id, _fallback(raw))
+        if not analysis.get("relevant", True):
             if raw.id in previous_by_id and previous_by_id[raw.id].get("translation_state") != "complete":
                 combined.pop(raw.id, None)
             continue
@@ -280,6 +328,8 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
         for item in combined.values()
         if parse_datetime(item.get("published_at") or item.get("first_seen")) >= cutoff
     ]
+    _apply_editorial(retained, config)
+    retained = _deduplicate_history(retained)
     retained.sort(key=_sort_key, reverse=True)
     payload = {
         "schema_version": 1,
@@ -294,7 +344,14 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
         "generated_at": timestamp,
         "run_ok": successful_sources > 0,
         "model": enricher.model,
-        "translation_available": enricher.available,
+        "translation_available": enricher.available and not model_warnings,
+        "analysis_status": "unconfigured" if not enricher.available else (
+            "degraded" if model_warnings else "available"
+        ),
+        "pending_analysis": sum(item.get("translation_state") != "complete" for item in retained),
+        "collected_items": len(raw_items),
+        "processed_items": len(candidates),
+        "deferred_items": max(0, len(raw_items) - len(observed_existing_ids) - len(candidates)),
         "new_items": sum(1 for item in retained if item.get("first_seen") == timestamp),
         "total_items": len(retained),
         "source_success": successful_sources,
