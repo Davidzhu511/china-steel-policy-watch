@@ -106,6 +106,12 @@ def contains_any(text: str, terms: Iterable[str]) -> bool:
 
 def is_rule_relevant(title: str, excerpt: str, keywords: dict[str, list[str]]) -> bool:
     haystack = f"{title} {excerpt}".lower()
+    # CBAM and the ETS are cross-sector. A sector-specific article solely about
+    # other materials should not displace steel news in the limited RSS window.
+    nonsteel_sector = r"\b(?:fertili[sz]ers?|alumin(?:i|u)um|cement|hydrogen)\b"
+    steel_sector = r"\b(?:steel|iron|ferroalloy|tinplate|metallurgical)\b"
+    if re.search(nonsteel_sector, title, re.I) and not re.search(steel_sector, haystack, re.I):
+        return False
     if contains_any(haystack, keywords.get("exclude", [])):
         return False
     if contains_any(haystack, keywords.get("universal_policy", [])):

@@ -97,13 +97,16 @@
     notePublished: "按原始发布时间倒序；新发现的旧资料保留在归档中。",
     noteSeen: "按首次收录时间倒序；收录时间不代表新闻发布时间。",
     notePriority: "关注重大、高优先级信息及待跟进节点；重要性为初筛判断。",
-    pending: "待补充中文解读", checked: "已核对原文", excerpt: "查看原文摘录", published: "发布 / 更新",
+    pending: "待补充中文解读", machineTranslated: "机器译文 · 待研判", checked: "已核对原文", excerpt: "查看原文摘录", published: "发布 / 更新",
     followUp: "待跟进", due: "节点", overdue: "已到节点 · 待核对", related: "同题来源",
     analysisOff: "自动摘要未启用；原文采集正常，已核对条目提供中文解读。",
     analysisError: "自动摘要暂不可用；原文照常收录。", analysisOk: "自动摘要已启用。",
     pendingCount: ({count}) => `${count} 条待补充解读`, sourcePartial: "部分渠道异常 · 其余正常",
     sourceZero: "运行正常 · 本次无命中", monitorPending: "采集正常 · 摘要待补充",
     pendingCopy: "标题与来源已收录，中文解读待补充。可展开摘录或打开原文。",
+    machineCopy: "以下为原文摘录的机器译文，业务影响仍待核对。",
+    lastObserved: "最近收录", lastSuccess: "上次抓取成功",
+    sourceTimeout: "接口超时 · 历史保留",
   });
   Object.assign(messages.en, {
     topicAll: "All topics", topicTrade: "Tariffs & trade remedies", topicIndustry: "Companies & markets",
@@ -112,13 +115,16 @@
     notePublished: "Newest publication first. Newly discovered older records remain in the archive.",
     noteSeen: "Newest discovery first. First-seen dates are not publication dates.",
     notePriority: "Critical and high-priority items plus follow-up dates. Priority is an initial assessment.",
-    pending: "Brief pending", checked: "Source checked", excerpt: "Source excerpt", published: "Published / updated",
+    pending: "Brief pending", machineTranslated: "Machine translation · review pending", checked: "Source checked", excerpt: "Source excerpt", published: "Published / updated",
     followUp: "Follow-up", due: "Due", overdue: "Date reached · check outcome", related: "Related source",
     analysisOff: "Automatic briefs are not configured. Source collection continues; checked items have bilingual briefs.",
     analysisError: "Automatic briefs are unavailable. Source collection continues.", analysisOk: "Automatic briefs enabled.",
     pendingCount: ({count}) => `${count} briefs pending`, sourcePartial: "Some channels failed; others active",
     sourceZero: "Operating normally · no matches this run", monitorPending: "Collection active · briefs pending",
     pendingCopy: "Title and source collected. Analysis is pending; expand the excerpt or open the original.",
+    machineCopy: "Machine translation of the source excerpt. Business impact is under review.",
+    lastObserved: "Last captured", lastSuccess: "Last successful collection",
+    sourceTimeout: "Source timed out · history retained",
   });
 
   const englishLabels = {
@@ -197,11 +203,16 @@
   function itemTitle(item) {
     return state.lang === "en"
       ? item.title_en || item.title_original || item.title_zh
-      : item.title_zh || item.title_original;
+      : item.translation_state === "complete" ? item.title_zh || item.title_original
+        : item.machine_translation?.title_zh || item.title_original;
   }
 
   function itemSummary(item) {
-    if (item.translation_state !== "complete") return t("pendingCopy");
+    if (item.translation_state !== "complete") {
+      if (state.lang === "en") return item.source_excerpt || t("pendingCopy");
+      return item.machine_translation?.excerpt_zh
+        ? `${t("machineCopy")} ${item.machine_translation.excerpt_zh}` : t("pendingCopy");
+    }
     if (state.lang === "zh") return item.summary_zh || "";
     return item.summary_en || `${sourceName(item)} — ${item.title_original || item.title_zh}`;
   }
@@ -357,18 +368,18 @@
     const sources = state.status?.sources || [];
     if (!sources.length) { elements.sources.innerHTML = `<p class="source-note">${escapeHtml(t("sourceEmpty"))}</p>`; return; }
     elements.sources.innerHTML = sources.map((source) => {
-      const statusText = !source.ok ? t("sourceError") : source.warnings?.length ? t("sourcePartial") : t(source.count ? "sourceOk" : "sourceZero");
+      const statusText = !source.ok ? t(/timeout/i.test(source.error || "") ? "sourceTimeout" : "sourceError") : source.warnings?.length ? t("sourcePartial") : t(source.count ? "sourceOk" : "sourceZero");
       return `
       <div class="source-item" title="${escapeHtml(source.error || source.warnings?.join("; ") || statusText)}">
         <i class="source-dot ${source.ok && !source.warnings?.length ? "" : "bad"}"></i>
-        <span><strong>${escapeHtml(state.lang === "en" && source.name.includes(" / ") ? source.name.split(" / ")[0] : source.name)}</strong><small>${escapeHtml(statusText)}</small></span>
+        <span><strong>${escapeHtml(state.lang === "en" && source.name.includes(" / ") ? source.name.split(" / ")[0] : source.name)}</strong><small>${escapeHtml(statusText)}</small>${!source.ok && (source.last_success_at || source.last_observed_at) ? `<small>${escapeHtml(t(source.last_success_at ? "lastSuccess" : "lastObserved"))} ${berlinDate(source.last_success_at || source.last_observed_at)}</small>` : ""}</span>
         <b class="source-count">${Number(source.count || 0)}</b>
       </div>`;
     }).join("");
   }
 
   function isPriority(item) {
-    return (importanceScore[item.importance] || 0) >= 3 || Boolean(item.follow_up);
+    return (importanceScore[item.importance] || 0) >= 3 || Boolean(item.follow_up) || Boolean(item.priority_signal);
   }
 
   function topicMatch(item) {
@@ -423,7 +434,8 @@
     return `<article class="intel-card" data-importance="${escapeHtml(item.importance)}">
       <div class="card-head">
         <div class="badge-row">
-          ${item.translation_state === "complete" ? `<span class="badge importance-${escapeHtml(item.importance)}">${escapeHtml(importance)}</span>` : `<span class="badge pending">${escapeHtml(t("pending"))}</span>`}
+          ${item.translation_state === "complete" ? `<span class="badge importance-${escapeHtml(item.importance)}">${escapeHtml(importance)}</span>` : `<span class="badge pending">${escapeHtml(t(item.machine_translation ? "machineTranslated" : "pending"))}</span>`}
+          ${item.priority_signal ? `<span class="badge official">${escapeHtml(item.priority_signal[state.lang] || item.priority_signal.zh)}</span>` : ""}
           <span class="badge ${item.source?.official ? "official" : ""}">${escapeHtml(item.source?.official ? t("official") : label("status", item.status))}</span>
           <span class="badge">${escapeHtml(label("category", item.category))}</span>
           ${consultationBadge(item)}

@@ -19,6 +19,7 @@ from .enrich import GitHubModelsEnricher, _fallback
 from .fetch import fetch_page_excerpt
 from .models import RawItem, SourceResult
 from .render import render_outputs
+from .translate import priority_signal, translate_pending
 from .util import (
     atomic_json_write,
     canonical_url,
@@ -222,6 +223,7 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
     history_path = data_dir / "items.json"
     previous_payload = load_json(history_path, {"items": []})
     previous_items = previous_payload.get("items", []) if isinstance(previous_payload, dict) else []
+    previous_status = load_json(data_dir / "status.json", {})
     previous_by_id = {item.get("id"): item for item in previous_items if item.get("id")}
 
     source_results = _collect(config)
@@ -330,6 +332,13 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
     ]
     _apply_editorial(retained, config)
     retained = _deduplicate_history(retained)
+    translation = translate_pending(retained, settings, previous_by_id)
+    warnings.extend(translation["warnings"])
+    for item in retained:
+        item.pop("priority_signal", None)
+        signal = priority_signal(item)
+        if signal:
+            item["priority_signal"] = signal
     retained.sort(key=_sort_key, reverse=True)
     payload = {
         "schema_version": 1,
@@ -340,6 +349,20 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
     atomic_json_write(history_path, payload)
 
     successful_sources = sum(1 for result in source_results if result.ok)
+    previous_sources = {row["id"]: row for row in previous_status.get("sources", [])}
+    source_statuses = []
+    for result in source_results:
+        row = result.status_dict()
+        old = previous_sources.get(row["id"], {})
+        row["last_success_at"] = timestamp if result.ok else (
+            old.get("last_success_at") or (previous_status.get("generated_at") if old.get("ok") else None)
+        )
+        row["last_observed_at"] = max((
+            item.get("last_seen", "") for item in retained
+            if item.get("source", {}).get("id") == row["id"]
+        ), default="")
+        row["consecutive_failures"] = 0 if result.ok else old.get("consecutive_failures", 0) + 1
+        source_statuses.append(row)
     status = {
         "generated_at": timestamp,
         "run_ok": successful_sources > 0,
@@ -349,6 +372,8 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
             "degraded" if model_warnings else "available"
         ),
         "pending_analysis": sum(item.get("translation_state") != "complete" for item in retained),
+        "offline_translation": translation,
+        "machine_translated_items": sum(bool(item.get("machine_translation")) for item in retained),
         "collected_items": len(raw_items),
         "processed_items": len(candidates),
         "deferred_items": max(0, len(raw_items) - len(observed_existing_ids) - len(candidates)),
@@ -356,7 +381,7 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
         "total_items": len(retained),
         "source_success": successful_sources,
         "source_total": len(source_results),
-        "sources": [result.status_dict() for result in source_results],
+        "sources": source_statuses,
         "warnings": warnings[:24],
     }
     atomic_json_write(data_dir / "status.json", status)
