@@ -40,16 +40,16 @@ def _entry_link(node: ET.Element) -> str:
     return ""
 
 
-def _published(value: str) -> datetime:
+def _published(value: str) -> datetime | None:
     if not value:
-        return datetime.now(UTC)
+        return None
     try:
         parsed = parsedate_to_datetime(value)
     except (TypeError, ValueError, OverflowError):
         try:
             parsed = date_parser.parse(value)
         except (TypeError, ValueError, OverflowError):
-            return datetime.now(UTC)
+            return None
     if parsed.tzinfo is None:
         parsed = parsed.replace(tzinfo=UTC)
     return parsed.astimezone(UTC)
@@ -101,6 +101,7 @@ class RssCollector(Collector):
                 if _tag_name(node.tag) in {"item", "entry"}
             ]
             accepted = 0
+            undated = 0
             feed_limit = max(1, min(50, int(feed.get("max_items", default_limit))))
             for node in nodes:
                 title = _child_text(node, "title")
@@ -112,6 +113,9 @@ class RssCollector(Collector):
                 published = _published(
                     _child_text(node, "pubdate", "published", "updated", "date")
                 )
+                if published is None:
+                    undated += 1
+                    continue
                 if published < cutoff or published > datetime.now(UTC) + timedelta(days=1):
                     continue
                 target = canonical_url(_entry_link(node))
@@ -167,6 +171,10 @@ class RssCollector(Collector):
                 accepted += 1
                 if accepted >= feed_limit:
                     break
+            if undated:
+                self.warnings.append(
+                    f"{feed.get('name', url)}: {undated} 条记录缺少可核对发布日期，已跳过"
+                )
         if not successes and self.warnings:
             raise RuntimeError("; ".join(self.warnings))
         return list(found.values())

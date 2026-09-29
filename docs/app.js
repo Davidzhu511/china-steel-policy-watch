@@ -389,7 +389,8 @@
   }
 
   function topicMatch(item) {
-    const text = [item.title_zh, item.title_original, ...(item.tags || [])].join(" ").toLowerCase();
+    const text = [item.title_zh, item.title_original, item.machine_translation?.title_zh,
+      ...(item.tags || [])].join(" ").toLowerCase();
     if (state.topic === "cbam") return /cbam|碳边境/.test(text);
     if (state.topic === "ets") return /eu ets|uk ets|emissions trading|排放交易/.test(text);
     if (state.topic === "trade") return ["贸易救济", "配额与关税", "原产地与海关"].includes(item.category);
@@ -423,6 +424,7 @@
     const query = elements.search.value.trim().toLowerCase();
     const filtered = state.items.filter((item) => {
       const text = [item.title_zh, item.title_en, item.title_original, item.summary_zh, item.summary_en, item.impact_zh, item.impact_en,
+        item.machine_translation?.title_zh, item.machine_translation?.excerpt_zh,
         item.country, item.region, item.category, ...(item.products || []), ...(item.products_en || []), ...(item.tags || []), ...(item.tags_en || [])]
         .join(" ").toLowerCase();
       return (!query || text.includes(query))

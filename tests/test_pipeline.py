@@ -106,6 +106,40 @@ def test_update_pipeline_adds_enriched_item_without_network(tmp_path, monkeypatc
     assert (docs / "data" / "items.json").exists()
 
 
+def test_official_excerpt_is_collected_without_analysis_provider(tmp_path, monkeypatch):
+    raw = RawItem(
+        id="official-1", title="China steel safeguard notice",
+        url="https://example.com/steel-safeguard", published_at="2026-09-28T00:00:00Z",
+        source_id="test", source_name="Test authority", source_kind="official-notice",
+        region="欧洲", country="欧盟", excerpt="",
+    )
+
+    class OfflineEnricher(FakeEnricher):
+        available = False
+
+        def enrich(self, items):
+            return [], []
+
+    monkeypatch.setattr(pipeline, "_collect", lambda config: [
+        SourceResult("test", "Test authority", True, [raw])
+    ])
+
+    def hydrate(items, settings):
+        assert items == [raw]
+        raw.excerpt = "The authority has published details of the China steel safeguard."
+        return []
+
+    monkeypatch.setattr(pipeline, "_hydrate_excerpts", hydrate)
+    monkeypatch.setattr(pipeline, "GitHubModelsEnricher", OfflineEnricher)
+    data, docs = tmp_path / "data", tmp_path / "docs"
+    pipeline.run_update({
+        "settings": {"retention_days": 730, "offline_translation": False},
+        "keywords": {"china": ["China"], "materials": ["steel"]}, "sources": {},
+    }, data, docs)
+    items = json.loads((data / "items.json").read_text())["items"]
+    assert "published details" in items[0]["source_excerpt"]
+
+
 def test_update_pipeline_backfills_english_for_existing_history(tmp_path, monkeypatch):
     data, docs = tmp_path / "data", tmp_path / "docs"
     data.mkdir()

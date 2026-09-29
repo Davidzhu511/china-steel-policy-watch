@@ -112,6 +112,14 @@ def is_rule_relevant(title: str, excerpt: str, keywords: dict[str, list[str]]) -
     steel_sector = r"\b(?:steel|iron|ferroalloy|tinplate|metallurgical)\b"
     if re.search(nonsteel_sector, title, re.I) and not re.search(steel_sector, haystack, re.I):
         return False
+    # Sector-specific ETS announcements for aviation do not concern steel.
+    if re.search(r"\b(?:airlines?|aviation|aircraft)\b", title, re.I) and not re.search(
+        steel_sector, title, re.I
+    ):
+        return False
+    # Equity valuation headlines are outside this export-policy intelligence feed.
+    if re.search(r"\b(?:stock holds|shares? (?:rise|fall)|overvalued|undervalued)\b", title, re.I):
+        return False
     if contains_any(haystack, keywords.get("exclude", [])):
         return False
     if contains_any(haystack, keywords.get("universal_policy", [])):
