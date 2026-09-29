@@ -9,11 +9,11 @@
 - **重点市场官方来源**：欧盟公众咨询与官方公报、美国 Federal Register、GOV.UK。
 - **多源新闻发现**：DG CLIMA / DG TRADE 官方 RSS、DG TAXUD / CLIMA / TRADE 页面直采、Google News 中英文索引。GDELT 已默认停用，保留为可选备用。
 - **双视图与归档**：默认按发布时间显示最新动态；重点关注含重大、高优先级及待跟进节点。支持 CBAM、EU ETS / UK ETS、关税与贸易救济、钢企与市场主题，以及时间范围、首次收录排序。
-- **中英文研判**：经原文核对的重点解读保存在 `config/editorial.json`，仅适用指定日期的来源版本。未解读条目保留原标题、摘录和链接，并明确标注待补充；不会把它当作已完成分析。
+- **中英文研判**：经原文核对的重点解读保存在 `config/editorial.json`，仅适用指定日期的来源版本。每日离线英译中模型为未解读条目翻译标题及原文摘录，明确标注“机器译文 · 待研判”；不据此声称业务影响或法规状态已经核实。
 - **个性化外观**：内置黑金、深海蓝、翡翠绿、赤铜棕、紫晶夜和象牙浅色六套配色，语言与主题偏好保存在浏览器本地。
 - **历史与去重**：近似标题和规范化 URL 去重；历史情报默认保留 730 天。
 - **健康隔离**：单个来源失败不会中断其他来源，也不会删除已有历史数据。
-- **静态发布**：采集与 GitHub Pages 发布不依赖模型服务。GitHub Models 已于 2026-07-30 退役（[官方说明](https://docs.github.com/en/github-models)），不再调用旧接口或传递 `GITHUB_TOKEN` 给模型端点。自动双语解读需要另行配置模型服务，费用由该服务决定。
+- **静态发布**：采集与 GitHub Pages 发布不依赖付费模型服务。GitHub Models 已于 2026-07-30 退役（[官方说明](https://docs.github.com/en/github-models)），不再调用旧接口或传递 `GITHUB_TOKEN` 给模型端点。英文原文机器译文由 GitHub Actions 在本机运行的 [OPUS 英译中模型](https://huggingface.co/Helsinki-NLP/opus-mt-en-zh) 生成；自动业务影响研判仍需另行配置模型服务。
 
 ## 自动更新时间
 
@@ -38,11 +38,12 @@ python -m steelwatch render
 python -m http.server 8000 --directory docs
 ```
 
-浏览器打开 `http://localhost:8000`。无模型凭据时 `python -m steelwatch update` 仍完整收录新信息；中文解读待补充的条目清晰标注，历史解读正常显示。
+浏览器打开 `http://localhost:8000`。无模型凭据时 `python -m steelwatch update` 仍完整收录新信息。若要在本地生成机器译文，先安装 CPU 版 PyTorch 与 `pip install -e '.[translation]'`，再运行 `python scripts/prepare_translation.py` 下载并核验固定版本的公开模型（约 312 MB 权重）；译文保留原文供核对。GitHub Actions 自动准备并缓存模型；失败时只显示原文，不中断新闻更新。
 
 可选自动解读：在仓库 Actions Variables 中配置 `STEELWATCH_MODEL_ENDPOINT`（受信任服务的完整 HTTPS chat/completions URL）和 `STEELWATCH_MODEL`（模型名）；在 Actions Secrets 中配置 `STEELWATCH_MODEL_API_KEY`。端点需兼容 Chat Completions 的 JSON 输出。不要把 API key 写进代码或来源配置。未配置时默认禁用，不承诺自动翻译完成。
 
 每轮默认最多收录 120 条候选记录，最多 12 条参与可选模型解读。模型失败不会阻止其余记录入库；历史记录不会因为离开 RSS 窗口或单次来源故障被删除。
+每轮最多补充 100 条机器译文，设有 180 秒上限。术语与数字保护失败时保留原文并在下轮重试。官方贸易救济与 CBAM 执行标题会按可解释的关键词进入“重点关注”，属于待核对线索，不代表正式认定。
 
 ## 配置来源和关键词
 

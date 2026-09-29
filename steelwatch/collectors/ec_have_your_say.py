@@ -65,7 +65,7 @@ class EcHaveYourSayCollector(Collector):
     def _published_at(record: dict[str, Any], detail: dict[str, Any]) -> str:
         now = datetime.now(UTC)
         candidates: list[datetime] = []
-        for value in (detail.get("publishedDate"), detail.get("createdDate")):
+        for value in (detail.get("publishedDate"), detail.get("createdDate"), record.get("publishedDate")):
             if value:
                 candidates.append(parse_datetime(value))
         for publication in detail.get("publications") or []:
@@ -75,7 +75,7 @@ class EcHaveYourSayCollector(Collector):
             if isinstance(status, dict) and status.get("feedbackStartDate"):
                 candidates.append(parse_datetime(status["feedbackStartDate"]))
         past_or_present = [value for value in candidates if value <= now]
-        return iso_datetime(max(past_or_present or candidates or [now]))
+        return iso_datetime(max(past_or_present)) if past_or_present else ""
 
     @staticmethod
     def _excerpt(
@@ -121,11 +121,13 @@ class EcHaveYourSayCollector(Collector):
                             "size": 20,
                             "language": "en",
                         },
-                        timeout=self.timeout,
+                        timeout=min(self.timeout, int(self.config.get("search_timeout_seconds", 12))),
                     )
                     response.raise_for_status()
                     body = response.json()
-                    payload = body.get("initiativeResultDtoPage") or {}
+                    payload = body.get("initiativeResultDtoPage")
+                    if not isinstance(payload, dict) or not isinstance(payload.get("content"), list):
+                        raise ValueError("EC consultation search response has no results page")
                     last_error = None
                     break
                 except Exception as exc:
@@ -145,8 +147,9 @@ class EcHaveYourSayCollector(Collector):
             response.raise_for_status()
             payload = response.json()
             return payload if isinstance(payload, dict) else {}
-        except Exception:
+        except Exception as exc:
             # A single malformed initiative must not hide the rest of the official source.
+            self.warnings.append(f"倡议 {initiative_id} 详情未取得：{type(exc).__name__}")
             return {}
 
     def collect(self) -> list[RawItem]:
@@ -166,6 +169,7 @@ class EcHaveYourSayCollector(Collector):
                 successful_queries += 1
             except Exception as exc:
                 last_search_error = exc
+                self.warnings.append(f"查询 {query} 未完成：{type(exc).__name__}")
                 continue
             for record in records:
                 try:
@@ -201,6 +205,9 @@ class EcHaveYourSayCollector(Collector):
             ):
                 continue
             published_at = self._published_at(record, detail)
+            if not published_at:
+                self.warnings.append(f"倡议 {initiative_id} 缺少可核对发布日期，未作为新消息发布。")
+                continue
             if parse_datetime(published_at) < cutoff:
                 continue
             target = canonical_url(self._initiative_url(initiative_id, title))
