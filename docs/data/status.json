@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:49:30Z",
+  "generated_at": "2026-09-29T15:56:03Z",
   "run_ok": true,
   "model": "gpt-4.1-mini",
   "translation_available": false,
@@ -7,17 +7,17 @@
   "pending_analysis": 76,
   "offline_translation": {
     "status": "partial",
-    "translated": 4,
+    "translated": 3,
     "warnings": [
-      "29 条译文未通过完整性检查，保留原文待重试。"
+      "27 条译文未通过完整性检查，保留原文待重试。"
     ],
-    "remaining": 29
+    "remaining": 27
   },
-  "machine_translated_items": 42,
+  "machine_translated_items": 44,
   "collected_items": 46,
   "processed_items": 39,
   "deferred_items": 0,
-  "new_items": 2,
+  "new_items": 0,
   "total_items": 119,
   "source_success": 5,
   "source_total": 6,
@@ -28,11 +28,11 @@
       "ok": false,
       "count": 0,
       "error": "ReadTimeout: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=12)",
-      "duration_ms": 48921,
+      "duration_ms": 48968,
       "warnings": [],
       "last_success_at": null,
       "last_observed_at": "2026-09-28T14:43:55Z",
-      "consecutive_failures": 3
+      "consecutive_failures": 4
     },
     {
       "id": "ec_watch_pages",
@@ -40,10 +40,10 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 1463,
+      "duration_ms": 1798,
       "warnings": [],
-      "last_success_at": "2026-09-29T15:49:30Z",
-      "last_observed_at": "2026-09-29T15:49:30Z",
+      "last_success_at": "2026-09-29T15:56:03Z",
+      "last_observed_at": "2026-09-29T15:56:03Z",
       "consecutive_failures": 0
     },
     {
@@ -52,9 +52,9 @@
       "ok": true,
       "count": 0,
       "error": "",
-      "duration_ms": 295,
+      "duration_ms": 1192,
       "warnings": [],
-      "last_success_at": "2026-09-29T15:49:30Z",
+      "last_success_at": "2026-09-29T15:56:03Z",
       "last_observed_at": "2026-09-29T04:08:19Z",
       "consecutive_failures": 0
     },
@@ -64,10 +64,10 @@
       "ok": true,
       "count": 6,
       "error": "",
-      "duration_ms": 322,
+      "duration_ms": 312,
       "warnings": [],
-      "last_success_at": "2026-09-29T15:49:30Z",
-      "last_observed_at": "2026-09-29T15:49:30Z",
+      "last_success_at": "2026-09-29T15:56:03Z",
+      "last_observed_at": "2026-09-29T15:56:03Z",
       "consecutive_failures": 0
     },
     {
@@ -76,10 +76,10 @@
       "ok": true,
       "count": 5,
       "error": "",
-      "duration_ms": 5247,
+      "duration_ms": 202,
       "warnings": [],
-      "last_success_at": "2026-09-29T15:49:30Z",
-      "last_observed_at": "2026-09-29T15:49:30Z",
+      "last_success_at": "2026-09-29T15:56:03Z",
+      "last_observed_at": "2026-09-29T15:56:03Z",
       "consecutive_failures": 0
     },
     {
@@ -88,14 +88,14 @@
       "ok": true,
       "count": 21,
       "error": "",
-      "duration_ms": 1774,
+      "duration_ms": 2117,
       "warnings": [],
-      "last_success_at": "2026-09-29T15:49:30Z",
-      "last_observed_at": "2026-09-29T15:49:30Z",
+      "last_success_at": "2026-09-29T15:56:03Z",
+      "last_observed_at": "2026-09-29T15:56:03Z",
       "consecutive_failures": 0
     }
   ],
   "warnings": [
-    "29 条译文未通过完整性检查，保留原文待重试。"
+    "27 条译文未通过完整性检查，保留原文待重试。"
   ]
 }
