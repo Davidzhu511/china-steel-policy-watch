@@ -1,15 +1,24 @@
 {
-  "generated_at": "2026-09-29T11:35:40Z",
+  "generated_at": "2026-09-29T15:08:38Z",
   "run_ok": true,
   "model": "gpt-4.1-mini",
   "translation_available": false,
   "analysis_status": "unconfigured",
-  "pending_analysis": 75,
+  "pending_analysis": 79,
+  "offline_translation": {
+    "status": "partial",
+    "translated": 45,
+    "warnings": [
+      "29 条译文未通过完整性检查，保留原文待重试。"
+    ],
+    "remaining": 29
+  },
+  "machine_translated_items": 45,
   "collected_items": 46,
   "processed_items": 39,
   "deferred_items": 0,
-  "new_items": 6,
-  "total_items": 118,
+  "new_items": 4,
+  "total_items": 122,
   "source_success": 5,
   "source_total": 6,
   "sources": [
@@ -18,9 +27,12 @@
       "name": "EC Have Your Say / 欧盟公众咨询",
       "ok": false,
       "count": 0,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=25)",
-      "duration_ms": 101372,
-      "warnings": []
+      "error": "ReadTimeout: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=12)",
+      "duration_ms": 49406,
+      "warnings": [],
+      "last_success_at": null,
+      "last_observed_at": "2026-09-28T14:43:55Z",
+      "consecutive_failures": 1
     },
     {
       "id": "ec_watch_pages",
@@ -28,8 +40,11 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 1923,
-      "warnings": []
+      "duration_ms": 1963,
+      "warnings": [],
+      "last_success_at": "2026-09-29T15:08:38Z",
+      "last_observed_at": "2026-09-29T15:08:38Z",
+      "consecutive_failures": 0
     },
     {
       "id": "eurlex",
@@ -37,8 +52,11 @@
       "ok": true,
       "count": 0,
       "error": "",
-      "duration_ms": 172,
-      "warnings": []
+      "duration_ms": 1143,
+      "warnings": [],
+      "last_success_at": "2026-09-29T15:08:38Z",
+      "last_observed_at": "2026-09-29T04:08:19Z",
+      "consecutive_failures": 0
     },
     {
       "id": "federal_register",
@@ -46,8 +64,11 @@
       "ok": true,
       "count": 6,
       "error": "",
-      "duration_ms": 759,
-      "warnings": []
+      "duration_ms": 791,
+      "warnings": [],
+      "last_success_at": "2026-09-29T15:08:38Z",
+      "last_observed_at": "2026-09-29T15:08:38Z",
+      "consecutive_failures": 0
     },
     {
       "id": "govuk",
@@ -55,18 +76,26 @@
       "ok": true,
       "count": 5,
       "error": "",
-      "duration_ms": 6812,
-      "warnings": []
+      "duration_ms": 6578,
+      "warnings": [],
+      "last_success_at": "2026-09-29T15:08:38Z",
+      "last_observed_at": "2026-09-29T15:08:38Z",
+      "consecutive_failures": 0
     },
     {
       "id": "rss",
       "name": "RSS / Google News 新闻发现",
       "ok": true,
-      "count": 22,
+      "count": 21,
       "error": "",
-      "duration_ms": 1994,
-      "warnings": []
+      "duration_ms": 2206,
+      "warnings": [],
+      "last_success_at": "2026-09-29T15:08:38Z",
+      "last_observed_at": "2026-09-29T15:08:38Z",
+      "consecutive_failures": 0
     }
   ],
-  "warnings": []
+  "warnings": [
+    "29 条译文未通过完整性检查，保留原文待重试。"
+  ]
 }
