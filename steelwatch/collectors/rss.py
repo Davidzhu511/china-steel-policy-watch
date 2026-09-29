@@ -6,6 +6,7 @@ from urllib.parse import urlsplit
 from xml.etree import ElementTree as ET
 
 from dateutil import parser as date_parser
+from bs4 import BeautifulSoup
 
 from ..models import RawItem
 from ..util import canonical_url, is_rule_relevant, stable_id
@@ -79,15 +80,21 @@ class RssCollector(Collector):
         cutoff = datetime.now(UTC) - timedelta(days=lookback_days)
         keywords = self.app_config.get("keywords", {})
         found: dict[str, RawItem] = {}
+        successes = 0
 
         default_limit = max(1, min(50, int(self.config.get("max_items_per_feed", 12))))
         for feed in self.config.get("feeds", []):
             url = str(feed.get("url") or "").strip()
             if not url:
                 continue
-            response = self.session.get(url, timeout=max(self.timeout, 35))
-            response.raise_for_status()
-            root = ET.fromstring(response.content)
+            try:
+                response = self.session.get(url, timeout=max(self.timeout, 35))
+                response.raise_for_status()
+                root = ET.fromstring(response.content)
+            except Exception as exc:
+                self.warnings.append(f"{url}: {type(exc).__name__}: {str(exc)[:120]}")
+                continue
+            successes += 1
             nodes = [
                 node
                 for node in root.iter()
@@ -97,13 +104,15 @@ class RssCollector(Collector):
             feed_limit = max(1, min(50, int(feed.get("max_items", default_limit))))
             for node in nodes:
                 title = _child_text(node, "title")
-                excerpt = _child_text(node, "description", "summary", "content")
+                excerpt = BeautifulSoup(
+                    _child_text(node, "description", "summary", "content"), "html.parser"
+                ).get_text(" ", strip=True)
                 if not title or not is_rule_relevant(title, excerpt, keywords):
                     continue
                 published = _published(
                     _child_text(node, "pubdate", "published", "updated", "date")
                 )
-                if published < cutoff:
+                if published < cutoff or published > datetime.now(UTC) + timedelta(days=1):
                     continue
                 target = canonical_url(_entry_link(node))
                 if not target:
@@ -133,6 +142,9 @@ class RssCollector(Collector):
                     or source_domain
                     or self.source_name
                 )
+                if item_source_name and title.endswith(f" - {item_source_name}"):
+                    title = title[: -len(f" - {item_source_name}")].rstrip()
+                title = title.removesuffix(" - News and Statistics")
                 identifier = stable_id(target, title)
                 found[identifier] = RawItem(
                     id=identifier,
@@ -155,4 +167,6 @@ class RssCollector(Collector):
                 accepted += 1
                 if accepted >= feed_limit:
                     break
+        if not successes and self.warnings:
+            raise RuntimeError("; ".join(self.warnings))
         return list(found.values())

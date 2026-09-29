@@ -24,6 +24,7 @@ class Collector(ABC):
         self.source_name = source_config.get("name", self.source_id)
         timeout = app_config.get("settings", {}).get("request_timeout_seconds", 25)
         self.timeout = int(timeout)
+        self.warnings: list[str] = []
         self.session = requests.Session()
         self.session.headers.update(
             {
@@ -47,6 +48,7 @@ class Collector(ABC):
                 ok=True,
                 items=items,
                 duration_ms=int((time.monotonic() - start) * 1000),
+                warnings=self.warnings,
             )
         except Exception as exc:  # Each source is isolated by design.
             return SourceResult(

@@ -91,3 +91,19 @@ def test_parse_json_object_accepts_markdown_and_leading_text():
     assert _parse_json_object('Here is the result:\n{"items": []}') == {"items": []}
     assert _parse_json_object('```json\n{"items": []}\n```') == {"items": []}
     assert _parse_json_object('\ufeff  {"items": []}') == {"items": []}
+
+
+def test_retired_github_token_never_enables_automatic_analysis(monkeypatch):
+    monkeypatch.setenv("GITHUB_TOKEN", "test-token")
+    monkeypatch.delenv("STEELWATCH_MODEL_API_KEY", raising=False)
+    assert not GitHubModelsEnricher({}).available
+
+
+def test_missing_model_record_remains_pending(monkeypatch):
+    enricher = GitHubModelsEnricher({})
+    monkeypatch.setattr(enricher, "_request", lambda _: {"items": []})
+    item = RawItem(id="x", title="EU ETS update", url="https://example.com/x", published_at="2026-09-28",
+                   source_id="test", source_name="Authority", source_kind="official-notice")
+    result = enricher._call([item])[0]
+    assert result["translation_state"] == "pending"
+    assert result["status"] == "待核对"

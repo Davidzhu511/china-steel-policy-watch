@@ -14,15 +14,15 @@
       skipLink: "跳至情报列表", brandHome: "返回看板首页", brandSubtitle: "中国钢铁全球政策情报",
       loadingData: "数据载入中", themeLabel: "配色", themeAria: "选择看板配色", rss: "RSS 订阅",
       heroEyebrow: "全球监管雷达 · 每日自动更新",
-      heroTitle: "看清规则变化，<br /><em>提前判断出口影响。</em>",
-      heroDeck: "聚合官方法规、贸易救济与行业信息，自动翻译为中文，并提炼对中国钢厂和出口商的实际影响。",
+      heroTitle: "中国钢铁 · <em>全球政策观察</em>",
+      heroDeck: "官方政策与行业动态集中跟踪，先看新消息，再看出口业务的重要节点。",
       updatedLabel: "更新：", timezoneLabel: "时区：Europe/Berlin", originalLinks: "保留原文链接",
-      radarLabel: "条在库情报", metricsAria: "情报概览", metricNew: "本次新增", metricHigh: "重大 / 高关注",
+      radarLabel: "条在库情报", metricsAria: "情报概览", metricNew: "本次新增", metricHigh: "重点 / 待跟进",
       metricOfficial: "官方文件", metricMarkets: "覆盖国家/地区", sourceHealth: "采集状态",
       sourceNote: "单一来源异常不会中断整次更新，历史数据也不会被清空。",
       feedEyebrow: "最新与重点分流，避免重要旧闻压住新动态", allIntelligence: "全部情报", loadingShort: "正在加载…",
       tabLatest: "最新动态", tabPriority: "重点关注", tabAll: "全部归档",
-      titleLatest: "最新动态 · 近 7 天", titlePriority: "重点关注", titleAll: "全部情报",
+      titleLatest: "最新动态", titlePriority: "重点关注", titleAll: "全部情报",
       firstSeen: "首次收录", sourceDegraded: "降级运行 · 新闻补充暂不可用",
       searchLabel: "搜索情报", searchPlaceholder: "搜索国家、产品、法规或企业…", categoryLabel: "类别",
       regionLabel: "地区", importanceLabel: "重要性", officialOnly: "仅看官方", resetFilters: "清除筛选",
@@ -54,15 +54,15 @@
       skipLink: "Skip to intelligence feed", brandHome: "Return to dashboard", brandSubtitle: "China steel global policy intelligence",
       loadingData: "Loading data", themeLabel: "Theme", themeAria: "Choose dashboard theme", rss: "RSS feed",
       heroEyebrow: "Global regulatory radar · Updated daily",
-      heroTitle: "See the rule change.<br /><em>Judge the export impact early.</em>",
-      heroDeck: "Official rules, trade remedies and industry signals in one place, with bilingual briefs and practical impact analysis for Chinese mills and exporters.",
+      heroTitle: "China steel. <em>Global policy watch.</em>",
+      heroDeck: "Official policy and industry news, with fresh updates and key dates for steel exporters.",
       updatedLabel: "Updated: ", timezoneLabel: "Time zone: Europe/Berlin", originalLinks: "Original links retained",
-      radarLabel: "signals on file", metricsAria: "Intelligence overview", metricNew: "New this run", metricHigh: "Critical / high priority",
+      radarLabel: "signals on file", metricsAria: "Intelligence overview", metricNew: "New this run", metricHigh: "Priority / follow-up",
       metricOfficial: "Official documents", metricMarkets: "Markets covered", sourceHealth: "Collection status",
       sourceNote: "A single source failure never stops the full update or removes historical records.",
       feedEyebrow: "Separate fresh signals from high-priority items", allIntelligence: "All intelligence", loadingShort: "Loading…",
       tabLatest: "Latest", tabPriority: "Priority", tabAll: "Archive",
-      titleLatest: "Latest · past 7 days", titlePriority: "Priority watch", titleAll: "All intelligence",
+      titleLatest: "Latest updates", titlePriority: "Priority watch", titleAll: "All intelligence",
       firstSeen: "First seen", sourceDegraded: "Degraded · news supplement unavailable",
       searchLabel: "Search intelligence", searchPlaceholder: "Search markets, products, rules or companies…", categoryLabel: "Category",
       regionLabel: "Region", importanceLabel: "Priority", officialOnly: "Official only", resetFilters: "Clear filters",
@@ -90,6 +90,37 @@
     },
   };
 
+  Object.assign(messages.zh, {
+    topicAll: "全部主题", topicTrade: "关税与贸易救济", topicIndustry: "钢企与市场",
+    periodLabel: "时间范围", period7: "近 7 天", period30: "近 30 天", period90: "近 90 天", periodAll: "全部时间",
+    sortLabel: "排序依据", sortPublished: "发布时间", sortSeen: "首次收录", newOnly: "仅本次新增",
+    notePublished: "按原始发布时间倒序；新发现的旧资料保留在归档中。",
+    noteSeen: "按首次收录时间倒序；收录时间不代表新闻发布时间。",
+    notePriority: "关注重大、高优先级信息及待跟进节点；重要性为初筛判断。",
+    pending: "待补充中文解读", checked: "已核对原文", excerpt: "查看原文摘录", published: "发布 / 更新",
+    followUp: "待跟进", due: "节点", overdue: "已到节点 · 待核对", related: "同题来源",
+    analysisOff: "自动摘要未启用；原文采集正常，已核对条目提供中文解读。",
+    analysisError: "自动摘要暂不可用；原文照常收录。", analysisOk: "自动摘要已启用。",
+    pendingCount: ({count}) => `${count} 条待补充解读`, sourcePartial: "部分渠道异常 · 其余正常",
+    sourceZero: "运行正常 · 本次无命中", monitorPending: "采集正常 · 摘要待补充",
+    pendingCopy: "标题与来源已收录，中文解读待补充。可展开摘录或打开原文。",
+  });
+  Object.assign(messages.en, {
+    topicAll: "All topics", topicTrade: "Tariffs & trade remedies", topicIndustry: "Companies & markets",
+    periodLabel: "Period", period7: "Past 7 days", period30: "Past 30 days", period90: "Past 90 days", periodAll: "All dates",
+    sortLabel: "Sort by", sortPublished: "Publication date", sortSeen: "First seen", newOnly: "New this run only",
+    notePublished: "Newest publication first. Newly discovered older records remain in the archive.",
+    noteSeen: "Newest discovery first. First-seen dates are not publication dates.",
+    notePriority: "Critical and high-priority items plus follow-up dates. Priority is an initial assessment.",
+    pending: "Brief pending", checked: "Source checked", excerpt: "Source excerpt", published: "Published / updated",
+    followUp: "Follow-up", due: "Due", overdue: "Date reached · check outcome", related: "Related source",
+    analysisOff: "Automatic briefs are not configured. Source collection continues; checked items have bilingual briefs.",
+    analysisError: "Automatic briefs are unavailable. Source collection continues.", analysisOk: "Automatic briefs enabled.",
+    pendingCount: ({count}) => `${count} briefs pending`, sourcePartial: "Some channels failed; others active",
+    sourceZero: "Operating normally · no matches this run", monitorPending: "Collection active · briefs pending",
+    pendingCopy: "Title and source collected. Analysis is pending; expand the excerpt or open the original.",
+  });
+
   const englishLabels = {
     category: {
       "法规与正式文件": "Laws & official documents", "贸易救济": "Trade remedies", "配额与关税": "Quotas & tariffs",
@@ -98,7 +129,7 @@
     },
     status: {
       "已生效": "In force", "拟议": "Proposed", "调查中": "Under investigation", "临时措施": "Provisional measure",
-      "终裁": "Final determination", "审查中": "Under review", "新闻": "News",
+      "待核对": "To verify", "终裁": "Final determination", "审查中": "Under review", "新闻": "News",
     },
     importance: { "重大": "Critical", "高": "High", "中": "Medium", "低": "Low" },
     region: {
@@ -120,14 +151,16 @@
     try { localStorage.setItem(key, value); } catch { /* Preferences are optional. */ }
   };
   const state = {
-    items: [], status: null, generatedAt: "", pageSize: 12, visible: 12, feedMode: "latest",
+    items: [], status: null, generatedAt: "", pageSize: 12, visible: 12, feedMode: "latest", topic: "all",
     lang: readPreference("steelwatch-language", "zh") === "en" ? "en" : "zh",
-    theme: THEMES.has(readPreference("steelwatch-theme", "gold")) ? readPreference("steelwatch-theme", "gold") : "gold",
+    theme: THEMES.has(readPreference("steelwatch-theme", "pearl")) ? readPreference("steelwatch-theme", "pearl") : "pearl",
   };
   const $ = (selector) => document.querySelector(selector);
   const elements = {
     live: $("#live-state"), updated: $("#updated-at"), radar: $("#radar-count"),
     metricNew: $("#metric-new"), metricHigh: $("#metric-high"), metricOfficial: $("#metric-official"), metricMarkets: $("#metric-markets"),
+    period: $("#period"), sort: $("#sort"), newOnly: $("#new-only"), topicFilters: $("#topic-filters"),
+    feedNote: $("#feed-note"), analysis: $("#analysis-state"),
     lead: $("#lead-card"), sources: $("#source-list"), grid: $("#card-grid"), count: $("#result-count"),
     category: $("#category"), region: $("#region"), importance: $("#importance"), search: $("#search"), official: $("#official-only"),
     filters: $("#filters"), active: $("#active-filters"), loadMore: $("#load-more"), theme: $("#theme-select"), language: $("#language-toggle"),
@@ -168,6 +201,7 @@
   }
 
   function itemSummary(item) {
+    if (item.translation_state !== "complete") return t("pendingCopy");
     if (state.lang === "zh") return item.summary_zh || "";
     return item.summary_en || `${sourceName(item)} — ${item.title_original || item.title_zh}`;
   }
@@ -273,14 +307,19 @@
       elements.live.innerHTML = `<i></i><span>${escapeHtml(t("loadingData"))}</span>`;
       return;
     }
-    elements.live.classList.toggle("ok", Boolean(state.status.run_ok));
-    elements.live.classList.toggle("error", !state.status.run_ok);
-    elements.live.innerHTML = `<i></i><span>${escapeHtml(state.status.run_ok ? t("monitorOk") : t("monitorPartial"))}</span>`;
+    const partial = !state.status.run_ok || (state.status.sources || []).some((source) => !source.ok || source.warnings?.length);
+    const pending = state.status.analysis_status !== "available" && state.status.pending_analysis > 0;
+    elements.live.classList.toggle("ok", !partial && !pending);
+    elements.live.classList.toggle("error", partial);
+    elements.live.innerHTML = `<i></i><span>${escapeHtml(t(partial ? "monitorPartial" : pending ? "monitorPending" : "monitorOk"))}</span>`;
+    const analysisKey = state.status.analysis_status === "available" ? "analysisOk" : state.status.analysis_status === "degraded" ? "analysisError" : "analysisOff";
+    elements.analysis.textContent = `${t(analysisKey)} ${t("pendingCount", {count: state.status.pending_analysis || 0})}`;
+
   }
 
   function renderMetrics() {
     const countries = new Set(state.items.map((item) => item.country).filter(Boolean));
-    const high = state.items.filter((item) => ["重大", "高"].includes(item.importance)).length;
+    const high = state.items.filter(isPriority).length;
     const official = state.items.filter((item) => item.source?.official).length;
     elements.metricNew.textContent = state.status?.new_items ?? 0;
     elements.metricHigh.textContent = high;
@@ -290,10 +329,10 @@
   }
 
   function pickLead() {
-    return [...state.items].sort((a, b) => {
+    return state.items.filter((item) => item.translation_state === "complete" && isPriority(item)).sort((a, b) => {
       const official = Number(Boolean(b.source?.official)) - Number(Boolean(a.source?.official));
       const importance = (importanceScore[b.importance] || 0) - (importanceScore[a.importance] || 0);
-      return importance || official || new Date(b.published_at) - new Date(a.published_at);
+      return new Date(b.published_at) - new Date(a.published_at) || importance || official;
     })[0];
   }
 
@@ -318,41 +357,49 @@
     const sources = state.status?.sources || [];
     if (!sources.length) { elements.sources.innerHTML = `<p class="source-note">${escapeHtml(t("sourceEmpty"))}</p>`; return; }
     elements.sources.innerHTML = sources.map((source) => {
-      const statusText = source.ok ? t("sourceOk") : source.id === "gdelt" ? t("sourceDegraded") : t("sourceError");
+      const statusText = !source.ok ? t("sourceError") : source.warnings?.length ? t("sourcePartial") : t(source.count ? "sourceOk" : "sourceZero");
       return `
-      <div class="source-item" title="${escapeHtml(source.error || statusText)}">
-        <i class="source-dot ${source.ok ? "" : "bad"}"></i>
+      <div class="source-item" title="${escapeHtml(source.error || source.warnings?.join("; ") || statusText)}">
+        <i class="source-dot ${source.ok && !source.warnings?.length ? "" : "bad"}"></i>
         <span><strong>${escapeHtml(state.lang === "en" && source.name.includes(" / ") ? source.name.split(" / ")[0] : source.name)}</strong><small>${escapeHtml(statusText)}</small></span>
         <b class="source-count">${Number(source.count || 0)}</b>
       </div>`;
     }).join("");
   }
 
-  function signalTime(item) {
-    return Math.max(
-      new Date(item.published_at || 0).getTime() || 0,
-      new Date(item.first_seen || 0).getTime() || 0,
-    );
+  function isPriority(item) {
+    return (importanceScore[item.importance] || 0) >= 3 || Boolean(item.follow_up);
+  }
+
+  function topicMatch(item) {
+    const text = [item.title_zh, item.title_original, ...(item.tags || [])].join(" ").toLowerCase();
+    if (state.topic === "cbam") return /cbam|碳边境/.test(text);
+    if (state.topic === "ets") return /eu ets|uk ets|emissions trading|排放交易/.test(text);
+    if (state.topic === "trade") return ["贸易救济", "配额与关税", "原产地与海关"].includes(item.category);
+    if (state.topic === "industry") return ["市场与产能", "企业与供应链", "产业政策"].includes(item.category);
+    return true;
   }
 
   function applyFeedMode(items) {
-    const values = [...items];
-    if (state.feedMode === "latest") {
-      const reference = new Date(state.generatedAt || Date.now()).getTime();
-      const cutoff = reference - 7 * 24 * 60 * 60 * 1000;
-      return values
-        .filter((item) => signalTime(item) >= cutoff)
-        .sort((a, b) => signalTime(b) - signalTime(a));
-    }
-    if (state.feedMode === "priority") {
-      return values
-        .filter((item) => (importanceScore[item.importance] || 0) >= 3)
-        .sort((a, b) => {
-          const score = (importanceScore[b.importance] || 0) - (importanceScore[a.importance] || 0);
-          return score || new Date(b.published_at) - new Date(a.published_at);
-        });
-    }
-    return values.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
+    const field = elements.sort.value === "seen" ? "first_seen" : "published_at";
+    const reference = Date.now();
+    const days = Number(elements.period.value);
+    return items.filter((item) => {
+      const date = new Date(item[field] || item.published_at).getTime();
+      return (state.feedMode !== "priority" || isPriority(item))
+        && (!days || date >= reference - days * 86400000)
+        && date <= reference + 86400000
+        && (!elements.newOnly.checked || item.first_seen === state.generatedAt)
+        && topicMatch(item);
+    }).sort((a, b) => new Date(b[field] || b.published_at) - new Date(a[field] || a.published_at));
+  }
+
+  function followUp(item) {
+    if (!item.follow_up) return "";
+    const task = item.follow_up;
+    const overdue = Date.now() > new Date(`${task.due_at}T23:59:59+02:00`).getTime();
+    const text = state.lang === "en" ? task.action_en : task.action_zh;
+    return `<div class="follow-up"><b>${escapeHtml(t(overdue ? "overdue" : "followUp"))} · ${escapeHtml(task.due_at)}</b><span>${escapeHtml(text)}</span></div>`;
   }
 
   function filteredItems() {
@@ -376,16 +423,21 @@
     return `<article class="intel-card" data-importance="${escapeHtml(item.importance)}">
       <div class="card-head">
         <div class="badge-row">
-          <span class="badge importance-${escapeHtml(item.importance)}">${escapeHtml(importance)}</span>
+          ${item.translation_state === "complete" ? `<span class="badge importance-${escapeHtml(item.importance)}">${escapeHtml(importance)}</span>` : `<span class="badge pending">${escapeHtml(t("pending"))}</span>`}
           <span class="badge ${item.source?.official ? "official" : ""}">${escapeHtml(item.source?.official ? t("official") : label("status", item.status))}</span>
           <span class="badge">${escapeHtml(label("category", item.category))}</span>
           ${consultationBadge(item)}
+          ${item.review_method === "source_checked" ? `<span class="badge official">${escapeHtml(t("checked"))}</span>` : ""}
         </div>
-        <time class="card-date" datetime="${escapeHtml(item.published_at)}">${berlinDate(item.published_at)}</time>
+        <time class="card-date" datetime="${escapeHtml(item.published_at)}">${escapeHtml(t("published"))} ${berlinDate(item.published_at)}</time>
       </div>
       <h3>${escapeHtml(itemTitle(item))}</h3>
       <p class="card-summary">${escapeHtml(itemSummary(item))}</p>
-      <p class="card-impact"><b>${escapeHtml(t("impactPrefix"))}</b>${escapeHtml(itemImpact(item))}</p>
+      ${item.translation_state === "complete" ? `<p class="card-impact"><b>${escapeHtml(t("impactPrefix"))}</b>${escapeHtml(itemImpact(item))}</p>` : ""}
+      ${followUp(item)}
+      ${item.source_excerpt ? `<details class="source-excerpt"><summary>${escapeHtml(t("excerpt"))}</summary><p>${escapeHtml(item.source_excerpt)}</p></details>` : ""}
+      ${(item.related_sources || []).map((source) => `<a class="related-source" href="${safeUrl(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(t("related"))}: ${escapeHtml(source.name)}</a>`).join("")}
+
       <div class="card-tags">${tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}</div>
       <div class="card-bottom">
         <span class="card-source"><strong>${escapeHtml(sourceName(item))}</strong><small>${escapeHtml(label("country", item.country))} · ${escapeHtml(sourceLabel(item))}</small><small>${escapeHtml(t("firstSeen"))} ${berlinDate(item.first_seen || item.published_at)}</small></span>
@@ -413,10 +465,15 @@
   function renderCards() {
     const titleKey = state.feedMode === "latest" ? "titleLatest" : state.feedMode === "priority" ? "titlePriority" : "titleAll";
     elements.intelligenceTitle.textContent = t(titleKey);
+    elements.feedNote.textContent = t(state.feedMode === "priority" ? "notePriority" : elements.sort.value === "seen" ? "noteSeen" : "notePublished");
+    elements.topicFilters.querySelectorAll("[data-topic]").forEach((button) => {
+      button.classList.toggle("active", button.dataset.topic === state.topic);
+      button.setAttribute("aria-pressed", String(button.dataset.topic === state.topic));
+    });
     [...elements.feedTabs.querySelectorAll("[data-feed-mode]")].forEach((button) => {
       const active = button.dataset.feedMode === state.feedMode;
       button.classList.toggle("active", active);
-      button.setAttribute("aria-selected", String(active));
+      button.setAttribute("aria-pressed", String(active));
     });
     const items = filteredItems();
     const visible = items.slice(0, state.visible);
@@ -450,15 +507,32 @@
     elements.search.addEventListener("input", () => {
       clearTimeout(timer); timer = setTimeout(() => { state.visible = state.pageSize; renderCards(); }, 120);
     });
-    [elements.category, elements.region, elements.importance, elements.official].forEach((element) => {
+    [elements.category, elements.region, elements.importance, elements.official, elements.period, elements.sort, elements.newOnly].forEach((element) => {
       element.addEventListener("change", () => { state.visible = state.pageSize; renderCards(); });
     });
-    elements.filters.addEventListener("reset", () => setTimeout(() => { state.visible = state.pageSize; renderCards(); }, 0));
+    elements.filters.addEventListener("reset", () => setTimeout(() => { state.visible = state.pageSize; state.topic = "all"; elements.newOnly.checked = false; renderCards(); }, 0));
+    elements.topicFilters.addEventListener("click", (event) => {
+      const button = event.target.closest("[data-topic]");
+      if (!button) return;
+      state.topic = button.dataset.topic; state.visible = state.pageSize; renderCards();
+    });
+    document.querySelectorAll("[data-metric]").forEach((button) => button.addEventListener("click", () => {
+      elements.filters.reset();
+      setTimeout(() => {
+        const metric = button.dataset.metric;
+        state.feedMode = metric === "priority" ? "priority" : "all";
+        elements.period.value = "0"; elements.newOnly.checked = metric === "new";
+        elements.official.checked = metric === "official";
+        state.visible = state.pageSize; renderCards(); $("#intelligence").scrollIntoView({behavior: "smooth"});
+      }, 0);
+    }));
     elements.loadMore.addEventListener("click", () => { state.visible += state.pageSize; renderCards(); });
     elements.feedTabs.addEventListener("click", (event) => {
       const button = event.target.closest("[data-feed-mode]");
       if (!button) return;
       state.feedMode = button.dataset.feedMode || "latest";
+      elements.period.value = state.feedMode === "latest" ? "7" : "0";
+      elements.newOnly.checked = false;
       state.visible = state.pageSize;
       renderCards();
     });
