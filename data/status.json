@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:23:38Z",
+  "generated_at": "2026-10-01T07:26:21Z",
   "run_ok": true,
   "model": "gpt-4.1-mini",
   "translation_available": false,
@@ -7,18 +7,18 @@
   "pending_analysis": 81,
   "offline_translation": {
     "status": "partial",
-    "translated": 5,
+    "translated": 8,
     "warnings": [
-      "28 条译文未通过完整性检查，保留原文待重试。"
+      "23 条译文未通过完整性检查，保留原文待重试。"
     ],
-    "remaining": 28
+    "remaining": 23
   },
-  "machine_translated_items": 48,
-  "collected_items": 47,
-  "processed_items": 40,
+  "machine_translated_items": 52,
+  "collected_items": 52,
+  "processed_items": 44,
   "deferred_items": 0,
-  "new_items": 5,
-  "total_items": 124,
+  "new_items": 12,
+  "total_items": 136,
   "source_success": 5,
   "source_total": 6,
   "sources": [
@@ -28,22 +28,22 @@
       "ok": false,
       "count": 0,
       "error": "ReadTimeout: HTTPSConnectionPool(host='ec.europa.eu', port=443): Read timed out. (read timeout=12)",
-      "duration_ms": 49122,
+      "duration_ms": 49240,
       "warnings": [],
       "last_success_at": null,
       "last_observed_at": "2026-09-28T14:43:55Z",
-      "consecutive_failures": 5
+      "consecutive_failures": 6
     },
     {
       "id": "ec_watch_pages",
-      "name": "欧委会重点页面直采",
+      "name": "重点官方页面直采",
       "ok": true,
-      "count": 19,
+      "count": 20,
       "error": "",
-      "duration_ms": 1953,
+      "duration_ms": 1468,
       "warnings": [],
-      "last_success_at": "2026-09-30T11:23:38Z",
-      "last_observed_at": "2026-09-30T11:23:38Z",
+      "last_success_at": "2026-10-01T07:26:21Z",
+      "last_observed_at": "2026-10-01T07:26:21Z",
       "consecutive_failures": 0
     },
     {
@@ -52,9 +52,9 @@
       "ok": true,
       "count": 0,
       "error": "",
-      "duration_ms": 662,
+      "duration_ms": 897,
       "warnings": [],
-      "last_success_at": "2026-09-30T11:23:38Z",
+      "last_success_at": "2026-10-01T07:26:21Z",
       "last_observed_at": "2026-09-29T04:08:19Z",
       "consecutive_failures": 0
     },
@@ -62,12 +62,12 @@
       "id": "federal_register",
       "name": "U.S. Federal Register / 美国联邦公报",
       "ok": true,
-      "count": 6,
+      "count": 5,
       "error": "",
-      "duration_ms": 503,
+      "duration_ms": 557,
       "warnings": [],
-      "last_success_at": "2026-09-30T11:23:38Z",
-      "last_observed_at": "2026-09-30T11:23:38Z",
+      "last_success_at": "2026-10-01T07:26:21Z",
+      "last_observed_at": "2026-10-01T07:26:21Z",
       "consecutive_failures": 0
     },
     {
@@ -76,26 +76,26 @@
       "ok": true,
       "count": 5,
       "error": "",
-      "duration_ms": 8470,
+      "duration_ms": 5324,
       "warnings": [],
-      "last_success_at": "2026-09-30T11:23:38Z",
-      "last_observed_at": "2026-09-30T11:23:38Z",
+      "last_success_at": "2026-10-01T07:26:21Z",
+      "last_observed_at": "2026-10-01T07:26:21Z",
       "consecutive_failures": 0
     },
     {
       "id": "rss",
       "name": "RSS / Google News 新闻发现",
       "ok": true,
-      "count": 20,
+      "count": 25,
       "error": "",
-      "duration_ms": 1914,
+      "duration_ms": 1521,
       "warnings": [],
-      "last_success_at": "2026-09-30T11:23:38Z",
-      "last_observed_at": "2026-09-30T11:23:38Z",
+      "last_success_at": "2026-10-01T07:26:21Z",
+      "last_observed_at": "2026-10-01T07:26:21Z",
       "consecutive_failures": 0
     }
   ],
   "warnings": [
-    "28 条译文未通过完整性检查，保留原文待重试。"
+    "23 条译文未通过完整性检查，保留原文待重试。"
   ]
 }
