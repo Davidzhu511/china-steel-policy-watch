@@ -3,6 +3,7 @@ from pathlib import Path
 
 from steelwatch.collectors.ec_have_your_say import EcHaveYourSayCollector
 from steelwatch.collectors.ec_watch_pages import EcWatchPagesCollector
+from steelwatch.collectors.ec_watch_pages import _consultation_details
 from steelwatch.collectors.eurlex import EurLexCollector
 from steelwatch.collectors.gdelt import GdeltCollector
 from steelwatch.collectors.rss import RssCollector
@@ -14,6 +15,23 @@ class FakeResponse:
 
     def raise_for_status(self):
         return None
+
+
+def test_trade_consultation_deadline_retains_timezone_and_closed_state():
+    opened = _consultation_details(
+        "Status: Open Monitoring the functioning of the new EU Steel Regulation "
+        "Opening date 28 September 2026 Deadline 11 October 2026, 23:59 (CEST)"
+    )
+    assert opened == {
+        "status": "OPEN", "opens_at": "2026-09-28T00:00:00Z",
+        "closes_at": "2026-10-11T21:59:00Z",
+    }
+    closed = _consultation_details(
+        "Status: Closed Steel product scope Opening date 30 July 2026 "
+        "Deadline 30 September 2026, 23:59 (CEST)"
+    )
+    assert closed["status"] == "CLOSED"
+    assert closed["closes_at"] == "2026-09-30T21:59:00Z"
 
 
 class FakeSession:

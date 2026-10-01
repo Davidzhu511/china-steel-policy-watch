@@ -29,30 +29,6 @@
     }
   },
   {
-    "url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
-    "published_date": "2026-09-25",
-    "reviewed_at": "2026-09-28",
-    "title_zh": "CBAM 核查机构认可进展：欧委会更新 9 月 25 日版文件",
-    "title_en": "CBAM accreditation: Commission publishes the 25 September update",
-    "summary_zh": "DG TAXUD 核查页面发布了 2026 年 9 月 25 日版《State-of-play CBAM accreditation》。页面说明，认可机构进展清单与获认可核查机构名单用途不同；后者仍标注将于该页公布。",
-    "summary_en": "The DG TAXUD verification page lists the 25 September 2026 edition of State-of-play CBAM accreditation. It distinguishes national accreditation-body progress from the list of accredited verifiers, which it says will be published on that page.",
-    "impact_zh": "跟踪判断：与核查服务商确认其 CBAM 认可状态、适用行业和时间安排，避免将认可申请进展等同于已获资质。",
-    "impact_en": "Monitoring assessment: confirm the provider's CBAM accreditation status, sector scope and timetable. Progress on accreditation applications does not itself establish that a verifier is accredited.",
-    "category": "碳与环保",
-    "status": "新闻",
-    "importance": "高",
-    "tags": [
-      "CBAM",
-      "核查机构",
-      "认可进展"
-    ],
-    "tags_en": [
-      "CBAM",
-      "verifiers",
-      "accreditation"
-    ]
-  },
-  {
     "url": "https://gov.uk/government/collections/carbon-border-adjustment-mechanism",
     "published_date": "2026-09-09",
     "reviewed_at": "2026-09-28",
@@ -166,6 +142,294 @@
       "CBAM",
       "verification",
       "registry"
+    ]
+  },
+  {
+    "url": "https://taxation-customs.ec.europa.eu/document/download/5eb1f852-7c81-4d99-ae04-5593303076c1_en?filename=KP-01-26-043-EN-N.pdf",
+    "published_date": "2026-09-30",
+    "reviewed_at": "2026-10-01",
+    "title_zh": "CBAM 证书操作说明：2026 年排放于 2027 年购证清缴",
+    "title_en": "CBAM certificate factsheet: 2026 emissions settled in 2027",
+    "summary_zh": "9 月 30 日发布的说明：证书拟于 2027 年 2 月 1 日开售；2026 年无季度持证义务，相关证书须于 2027 年 9 月 30 日前购买并清缴。此后季度末持证覆盖至少 50% 的年内累计隐含排放；最终数量按适用规则调整。",
+    "summary_en": "The 30 September factsheet schedules sales for 1 February 2027. No quarterly holding obligation applies in 2026; certificates for that year's emissions must be purchased and surrendered by 30 September 2027. Subsequent quarter-end holdings cover at least 50% of year-to-date embedded emissions, subject to applicable adjustments.",
+    "impact_zh": "跟踪判断：与进口商分别安排 2026 年排放资料和 2027 年资金；购证延后不代表 2026 年进口免除碳成本。",
+    "impact_en": "Assessment: separate 2026 emissions documentation from 2027 funding. Deferred certificate purchases do not exempt 2026 imports from carbon costs.",
+    "category": "碳与环保",
+    "status": "新闻",
+    "importance": "高",
+    "tags": [
+      "CBAM",
+      "证书",
+      "履约"
+    ],
+    "tags_en": [
+      "CBAM",
+      "证书",
+      "履约"
+    ],
+    "coverage": "Official two-page factsheet reviewed; explanatory guidance, not a new regulation."
+  },
+  {
+    "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-communication-and-news_en",
+    "published_date": "2026-09-30",
+    "reviewed_at": "2026-10-01",
+    "title_zh": "欧委会更新 CBAM 证书说明与传播资料",
+    "title_en": "Commission updates CBAM certificate communication resources",
+    "summary_zh": "官方资料页于 9 月 30 日列出《How CBAM certificates work》说明，介绍年度申报、清缴及证书管理。",
+    "summary_en": "The official resource page lists the 30 September certificate factsheet, covering annual declarations, surrender and certificate management.",
+    "impact_zh": "跟踪判断：将说明提供给进口客户，并结合正式法规核对履约安排。",
+    "impact_en": "Assessment: share the factsheet with importing customers and check implementation against legislation.",
+    "category": "碳与环保",
+    "status": "新闻",
+    "importance": "中",
+    "tags": [
+      "CBAM",
+      "资料更新"
+    ],
+    "tags_en": [
+      "CBAM",
+      "资料更新"
+    ],
+    "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/5eb1f852-7c81-4d99-ae04-5593303076c1_en?filename=KP-01-26-043-EN-N.pdf"
+  },
+  {
+    "url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
+    "published_date": "2026-09-29",
+    "reviewed_at": "2026-10-01",
+    "title_zh": "CBAM 认可进展更新：德国可受理申请，清单不是核查机构资质名单",
+    "title_en": "CBAM accreditation update: Germany accepts applications; list is not verifier approval",
+    "summary_zh": "9 月 29 日版清单统计 24 家认可机构愿提供 CBAM 认可、16 家可受理申请、7 家同意认可第三国申请者、5 家已受理第三国申请。德国 DAkkS 列为可受理申请，但不认可第三国申请者；法国 COFRAC 四项均为 Yes。",
+    "summary_en": "The 29 September list reports 24 bodies offering CBAM accreditation, 16 ready for applications, seven agreeing to accredit third-country applicants and five accepting them. Germany's DAkkS accepts applications but not third-country applicants; France's COFRAC lists Yes in all four columns.",
+    "impact_zh": "跟踪判断：按核查公司设立地确认申请渠道；这份清单不能证明 BV 或其他具体核查公司已获得 CBAM 资质，仍须核对认可证书及钢铁行业范围。",
+    "impact_en": "Assessment: check the route against the verifier's place of establishment. This list does not establish accreditation of BV or another individual verifier; confirm its certificate and steel-sector scope.",
+    "category": "碳与环保",
+    "status": "新闻",
+    "importance": "高",
+    "tags": [
+      "CBAM",
+      "核查机构",
+      "认可进展"
+    ],
+    "tags_en": [
+      "CBAM",
+      "核查机构",
+      "认可进展"
+    ],
+    "evidence_url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-verification_en",
+    "coverage": "29 September PDF and official verification page reviewed."
+  },
+  {
+    "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-registry_en",
+    "published_date": "2026-09-28",
+    "reviewed_at": "2026-10-01",
+    "title_zh": "CBAM 核查机构培训入口更新：通过 O3CI 连接工厂与核查数据",
+    "title_en": "CBAM verifier training resources: connect installations through O3CI",
+    "summary_zh": "9 月 28 日新闻入口指向注册系统页。页面说明，已获认可核查机构通过 O3CI 申请登记，连接非欧盟装置、审阅排放数据与证明材料并出具核查报告；工厂与核查机构虽使用同一门户，职责不同。",
+    "summary_en": "The 28 September resource link points to the Registry page. Accredited verifiers use O3CI to request registration, connect to non-EU installations, review emissions and supporting evidence, and issue verification reports. Operators and verifiers share a portal but perform different roles.",
+    "impact_zh": "跟踪判断：协调工厂和核查服务商的账户、访问权限及资料交付，系统登记不等同于取得认可资质。",
+    "impact_en": "Assessment: coordinate accounts, access and evidence delivery; Registry registration is distinct from accreditation.",
+    "category": "碳与环保",
+    "status": "新闻",
+    "importance": "高",
+    "tags": [
+      "CBAM",
+      "O3CI",
+      "核查"
+    ],
+    "tags_en": [
+      "CBAM",
+      "O3CI",
+      "核查"
+    ],
+    "coverage": "Official Registry page reviewed; individual training videos not watched."
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/09/28/2026-19811/tin-mill-products-from-china-taiwan-and-turkey-scheduling-of-the-final-phase-of-countervailing-duty",
+    "published_date": "2026-09-28",
+    "reviewed_at": "2026-10-01",
+    "title_zh": "美国镀锡板等调查进入最终阶段：12 月 4 日举行产业损害听证",
+    "title_en": "US tin mill investigations: final-phase injury hearing on 4 December",
+    "summary_zh": "USITC 公告安排中国、台湾和土耳其镀锡板等产品调查最终阶段，案号 701-TA-792、731-TA-1786-1788；范围包括镀锡及镀铬/氧化铬薄板。听证 12 月 4 日，听证申请 11 月 25 日前、庭前陈述 11 月 27 日前、庭后书面意见 12 月 11 日前；书面产品描述优先于 HTSUS 编码。",
+    "summary_en": "USITC schedules the final phase in cases 701-TA-792 and 731-TA-1786-1788 concerning tin- and chromium-coated tin mill products. Hearing: 4 December; hearing requests: 25 November; prehearing briefs: 27 November; posthearing submissions: 11 December. Written scope controls over tariff codes.",
+    "impact_zh": "跟踪判断：对美镀锡板及 TFS 业务应交由应诉团队核对产品范围、参加调查和提交期限；本公告是程序安排，没有公布最终税率。",
+    "impact_en": "Assessment: coordinate scope and participation deadlines with counsel for US tinplate/TFS business. This is a procedural schedule, not a final duty rate.",
+    "category": "贸易救济",
+    "status": "调查中",
+    "importance": "高",
+    "tags": [
+      "美国",
+      "镀锡板",
+      "TFS"
+    ],
+    "tags_en": [
+      "美国",
+      "镀锡板",
+      "TFS"
+    ],
+    "evidence_url": "https://www.federalregister.gov/documents/full_text/text/2026/09/28/2026-19811.txt",
+    "follow_up": {
+      "due_at": "2026-11-13",
+      "action_zh": "应诉团队核对参加调查登记及 APO 申请期限：公告要求不晚于听证前 21 天；后续听证申请截止 11 月 25 日",
+      "action_en": "Counsel to check appearance/APO deadlines (at least 21 days before hearing); hearing request deadline is 25 November."
+    }
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/09/29/2026-19852/boltless-steel-shelving-units-prepackaged-for-sale-from-china-determinations",
+    "published_date": "2026-09-29",
+    "reviewed_at": "2026-10-01",
+    "title_zh": "美国对华预包装无螺栓钢货架复审：撤税可能导致损害延续或再现",
+    "title_en": "US Chinese boltless shelving review: injury likely to continue or recur if duties revoked",
+    "summary_zh": "USITC 于 9 月 29 日公布第二次日落复审裁定，案号 701-TA-523、731-TA-1259：撤销对华预包装无螺栓钢货架反倾销、反补贴令，可能导致美国行业实质损害延续或再现。裁定于 9 月 24 日完成。",
+    "summary_en": "The 29 September notice publishes USITC's second sunset-review determination in cases 701-TA-523 and 731-TA-1259: revoking the Chinese boltless shelving AD/CVD orders would likely lead to continuing or recurring material injury. The determination was completed on 24 September.",
+    "impact_zh": "跟踪判断：不能按即将撤税报价；具体税率与商务部续令须另查。本裁定针对预包装货架，不等同于对所有钢材新增双反税。",
+    "impact_en": "Assessment: do not price on an assumed duty removal; check Commerce's continuation notice and applicable rates. The determination concerns prepackaged shelving.",
+    "category": "贸易救济",
+    "status": "终裁",
+    "importance": "高",
+    "tags": [
+      "美国",
+      "钢货架",
+      "日落复审"
+    ],
+    "tags_en": [
+      "美国",
+      "钢货架",
+      "日落复审"
+    ],
+    "evidence_url": "https://www.federalregister.gov/documents/full_text/text/2026/09/29/2026-19852.txt"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AC_202604830",
+    "published_date": "2026-09-15",
+    "reviewed_at": "2026-10-01",
+    "title_zh": "欧盟启动中国与台湾冷轧不锈钢板卷反倾销到期复审",
+    "title_en": "EU opens expiry review of Chinese and Taiwanese cold-rolled stainless steel",
+    "summary_zh": "欧盟公报 C/2026/4830 启动冷轧不锈钢板卷到期复审，涉及 CN 7219、7220 下列明子目。复审调查期为 2025 年 7 月 1 日至 2026 年 6 月 30 日；针对立案的意见原则上须在 9 月 15 日公布后 37 天内提交。",
+    "summary_en": "Notice C/2026/4830 opens an expiry review of cold-rolled stainless flat products under listed CN 7219/7220 subheadings. Review period: 1 July 2025–30 June 2026. Comments on initiation are generally due within 37 days of publication on 15 September.",
+    "impact_zh": "跟踪判断：这不是撤税或新税率公告。涉及不锈钢出口的企业应让应诉团队确认适用范围、抽样与已过/尚未到期的不同提交期限。",
+    "impact_en": "Assessment: this is not a duty-removal or new-rate notice. Counsel should distinguish scope, sampling and separate submission deadlines.",
+    "category": "贸易救济",
+    "status": "审查中",
+    "importance": "高",
+    "tags": [
+      "欧盟",
+      "冷轧不锈钢",
+      "到期复审"
+    ],
+    "tags_en": [
+      "欧盟",
+      "冷轧不锈钢",
+      "到期复审"
+    ],
+    "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A52026XC04830",
+    "follow_up": {
+      "due_at": "2026-10-22",
+      "action_zh": "核对立案意见 37 天期限及应诉文件实际到期日",
+      "action_en": "Check the 37-day initiation-comment deadline and case-specific filing dates."
+    }
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601929",
+    "published_date": "2026-08-10",
+    "reviewed_at": "2026-10-01",
+    "title_zh": "欧盟对华硅锰焊丝临时反倾销：税率 75.3%—102.4%",
+    "title_en": "EU provisional AD on Chinese silico-manganese welding wire: 75.3%–102.4%",
+    "summary_zh": "条例 (EU) 2026/1929 于 8 月 10 日公布、次日生效，针对符合成分及直径条件的硅锰钢丝，TARIC 7229200010。常州运河 75.3%，Juli 集团 102.4%，其他合作企业 93.1%，其他中国进口 102.4%；个别税率需符合规定的商业发票。",
+    "summary_en": "Regulation (EU) 2026/1929, published 10 August and effective the next day, imposes provisional duties on specified silico-manganese wire (TARIC 7229200010): Yunhe 75.3%, Juli 102.4%, other cooperating firms 93.1%, all other Chinese imports 102.4%. Individual rates require a compliant invoice.",
+    "impact_zh": "跟踪判断：仅对该产品条件适用，不能外推到普通线材；放行需相当于临时税额的担保，后续终裁可能调整。",
+    "impact_en": "Assessment: apply only to the defined wire, not all wire rod. Release requires security equivalent to the provisional duty; definitive findings may change.",
+    "category": "贸易救济",
+    "status": "临时措施",
+    "importance": "高",
+    "tags": [
+      "欧盟",
+      "硅锰焊丝",
+      "临时反倾销"
+    ],
+    "tags_en": [
+      "欧盟",
+      "硅锰焊丝",
+      "临时反倾销"
+    ],
+    "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R1929"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZzdSRW8ydkdnemJWSUlFelNZX24zY2lmVjZ2aHZ2ZDBld0ZwSEZJUzFvV1dVZWtWN1BMZXZBX0RPREktb3huckpPYWRaT3pVaEZCeks0UkFBQTl6ck43dVdTVUdDcmlBakpOVXdUVXVhT0d4djlQVl9QbzluQUE3NTNiWDd4X1ZXVHpaSmpxNXVMeHppdnlvdjV1SjNXUll0NzNRM0d4N0dQR2lpX0c0Z0ZSZ19IMEQzVjNfemJqdjRRQUt6c1puSk0wTjJ5SEpvT2c?oc=5",
+    "published_date": "2026-09-28",
+    "reviewed_at": "2026-10-01",
+    "title_zh": "首钢与力拓投运高炉煤气碳捕集试验：设计年捕集量 1 万吨",
+    "title_en": "Shougang and Rio Tinto commission blast-furnace carbon capture trial",
+    "summary_zh": "力拓 9 月 28 日公司公告确认首钢京唐高炉煤气碳捕集试验设施投运：设计处理量最高 3,000 立方米/小时，年捕集量最高 10,000 吨 CO₂。项目属于双方 2022 年合作备忘录下的技术研发。",
+    "summary_en": "Rio Tinto's 28 September release confirms commissioning of a blast-furnace gas trial at Shougang Jingtang, designed for up to 3,000 m³/hour and 10,000 tonnes of CO₂/year, under the partners' 2022 memorandum.",
+    "impact_zh": "跟踪判断：可向客户说明低碳技术进展，但设计捕集量不是已实现减排量，也不能直接换算成某钢卷已核验的 CBAM 排放值。",
+    "impact_en": "Assessment: useful technology evidence for customers; design capture capacity is not achieved abatement or a verified coil-specific CBAM value.",
+    "category": "企业与供应链",
+    "status": "新闻",
+    "importance": "中",
+    "tags": [
+      "首钢",
+      "力拓",
+      "碳捕集"
+    ],
+    "tags_en": [
+      "首钢",
+      "力拓",
+      "碳捕集"
+    ],
+    "evidence_url": "https://www.riotinto.com/en/news/releases/2026/shougang-group-and-rio-tinto-commission-an-industrial-scale-carbon-capture-trial-facility-for-blast-furnace-gas",
+    "coverage": "Corporate primary-source release checked; no independent performance verification."
+  },
+  {
+    "url": "https://policy.trade.ec.europa.eu/consultations/monitoring-functioning-new-eu-steel-regulation_en",
+    "published_date": "2026-09-28",
+    "reviewed_at": "2026-10-01",
+    "title_zh": "欧盟钢铁新规运行情况咨询：10 月 11 日截止，出口商可参与",
+    "title_en": "EU steel regulation monitoring consultation closes 11 October",
+    "summary_zh": "欧委会 9 月 28 日启动对条例 (EU) 2026/1384 运行情况的定向咨询，面向上游钢企、下游用户、协会、第三国政府与出口商等。截止为 2026 年 10 月 11 日 23:59（CEST）；不同产品类别可分别提交回复。",
+    "summary_en": "The Commission opened a targeted consultation on Regulation (EU) 2026/1384 on 28 September for producers, users, associations, third-country governments and exporters. Deadline: 11 October 2026, 23:59 CEST; separate responses may cover different product categories.",
+    "impact_zh": "跟踪判断：尽快协调客户用实际配额、供货及成本影响提交意见，保留提交记录；咨询启动不代表配额或税率已调整。",
+    "impact_en": "Assessment: coordinate customer evidence on quotas, supply and costs and retain submission records. Opening the consultation does not change quotas or duty rates.",
+    "category": "配额与关税",
+    "status": "审查中",
+    "importance": "重大",
+    "tags": [
+      "欧盟",
+      "钢铁新规",
+      "公众咨询"
+    ],
+    "tags_en": [
+      "欧盟",
+      "钢铁新规",
+      "公众咨询"
+    ],
+    "follow_up": {
+      "due_at": "2026-10-11T21:59:00Z",
+      "action_zh": "在德国时间 10 月 11 日 23:59 前提交反馈，协调并记录客户参与情况",
+      "action_en": "Submit before 11 October 23:59 CEST and track customer participation."
+    }
+  },
+  {
+    "url": "https://policy.trade.ec.europa.eu/consultations/targeted-consultation-first-product-scope-review-under-eu-steel-regulation_en",
+    "published_date": "2026-07-30",
+    "reviewed_at": "2026-10-01",
+    "title_zh": "欧盟钢铁新规首次产品范围咨询已于 9 月 30 日关闭",
+    "title_en": "EU steel first product-scope consultation closed on 30 September",
+    "summary_zh": "7 月 30 日启动的首次产品范围咨询已于 9 月 30 日 23:59（CEST）结束。页面涉及铸铁管、合金钢丝、不锈钢丝及锻制条钢的范围评估；欧委会须在 12 月 31 日前评估是否需要修改产品范围。",
+    "summary_en": "The consultation opened on 30 July closed on 30 September at 23:59 CEST. It concerns scope assessment for cast-iron tubes, alloy wire, stainless wire and forged bars; assessment is required by 31 December.",
+    "impact_zh": "跟踪判断：不要与 10 月 11 日截止的运行情况咨询混淆；范围评估不等于这些产品已经全部纳入新措施。",
+    "impact_en": "Assessment: distinguish this closed exercise from the monitoring consultation closing 11 October. Assessment is not automatic inclusion.",
+    "category": "配额与关税",
+    "status": "审查中",
+    "importance": "中",
+    "tags": [
+      "欧盟",
+      "产品范围",
+      "咨询已关闭"
+    ],
+    "tags_en": [
+      "欧盟",
+      "产品范围",
+      "咨询已关闭"
     ]
   }
 ]

@@ -169,6 +169,7 @@ def _apply_editorial(items: list[dict[str, Any]], config: dict[str, Any]) -> Non
     fields = {
         "title_zh", "title_en", "summary_zh", "summary_en", "impact_zh", "impact_en",
         "category", "status", "importance", "tags", "tags_en", "follow_up",
+        "evidence_url", "coverage",
     }
     for item in items:
         review = reviews.get(canonical_url(item["url"]))
