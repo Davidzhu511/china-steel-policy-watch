@@ -164,8 +164,8 @@
     ],
     "tags_en": [
       "CBAM",
-      "证书",
-      "履约"
+      "certificates",
+      "compliance"
     ],
     "coverage": "Official two-page factsheet reviewed; explanatory guidance, not a new regulation."
   },
@@ -188,7 +188,7 @@
     ],
     "tags_en": [
       "CBAM",
-      "资料更新"
+      "resources"
     ],
     "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/5eb1f852-7c81-4d99-ae04-5593303076c1_en?filename=KP-01-26-043-EN-N.pdf"
   },
@@ -212,8 +212,8 @@
     ],
     "tags_en": [
       "CBAM",
-      "核查机构",
-      "认可进展"
+      "verifiers",
+      "accreditation progress"
     ],
     "evidence_url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-verification_en",
     "coverage": "29 September PDF and official verification page reviewed."
@@ -239,7 +239,7 @@
     "tags_en": [
       "CBAM",
       "O3CI",
-      "核查"
+      "verification"
     ],
     "coverage": "Official Registry page reviewed; individual training videos not watched."
   },
@@ -262,8 +262,8 @@
       "TFS"
     ],
     "tags_en": [
-      "美国",
-      "镀锡板",
+      "US",
+      "tinplate",
       "TFS"
     ],
     "evidence_url": "https://www.federalregister.gov/documents/full_text/text/2026/09/28/2026-19811.txt",
@@ -292,9 +292,9 @@
       "日落复审"
     ],
     "tags_en": [
-      "美国",
-      "钢货架",
-      "日落复审"
+      "US",
+      "steel shelving",
+      "sunset review"
     ],
     "evidence_url": "https://www.federalregister.gov/documents/full_text/text/2026/09/29/2026-19852.txt"
   },
@@ -317,9 +317,9 @@
       "到期复审"
     ],
     "tags_en": [
-      "欧盟",
-      "冷轧不锈钢",
-      "到期复审"
+      "EU",
+      "cold-rolled stainless steel",
+      "expiry review"
     ],
     "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX%3A52026XC04830",
     "follow_up": {
@@ -347,9 +347,9 @@
       "临时反倾销"
     ],
     "tags_en": [
-      "欧盟",
-      "硅锰焊丝",
-      "临时反倾销"
+      "EU",
+      "silico-manganese welding wire",
+      "provisional AD"
     ],
     "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R1929"
   },
@@ -372,9 +372,9 @@
       "碳捕集"
     ],
     "tags_en": [
-      "首钢",
-      "力拓",
-      "碳捕集"
+      "Shougang",
+      "Rio Tinto",
+      "carbon capture"
     ],
     "evidence_url": "https://www.riotinto.com/en/news/releases/2026/shougang-group-and-rio-tinto-commission-an-industrial-scale-carbon-capture-trial-facility-for-blast-furnace-gas",
     "coverage": "Corporate primary-source release checked; no independent performance verification."
@@ -398,9 +398,9 @@
       "公众咨询"
     ],
     "tags_en": [
-      "欧盟",
-      "钢铁新规",
-      "公众咨询"
+      "EU",
+      "steel regulation",
+      "consultation"
     ],
     "follow_up": {
       "due_at": "2026-10-11T21:59:00Z",
@@ -427,9 +427,37 @@
       "咨询已关闭"
     ],
     "tags_en": [
-      "欧盟",
-      "产品范围",
-      "咨询已关闭"
+      "EU",
+      "product scope",
+      "consultation closed"
     ]
+  },
+  {
+    "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-following-ministerial-meeting-global-forum-steel-excess-capacity",
+    "published_date": "2026-09-30",
+    "reviewed_at": "2026-10-01",
+    "title_zh": "GFSEC 通过密尔沃基框架：加强贸易救济、反规避与熔炼浇铸地透明度",
+    "title_en": "GFSEC Milwaukee Framework: trade remedies, anti-circumvention and melt-and-pour transparency",
+    "summary_zh": "USTR 9 月 30 日确认 GFSEC 部长会议通过联合行动框架。正式文件提出在各自法律框架下减少扭曲市场的支持、强化熔炼浇铸地数据、开展反倾销/反补贴/保障措施调查并协调反规避；各成员实施力度可因国内情况不同。",
+    "summary_en": "USTR confirmed agreement on 30 September. The framework calls for reducing distortive support, improving melt-and-pour data, trade-remedy investigations and coordinated anti-circumvention, within national legal frameworks; implementation may differ by member.",
+    "impact_zh": "跟踪判断：中国钢材及含钢下游产品的多市场贸易救济与溯源风险上升。准备真实熔炼浇铸地、生产商及加工链证明，关注各国后续公告；框架本身没有设定统一新增税率，也不是 G20 全体已一致加税。",
+    "impact_en": "Assessment: monitor trade-remedy and traceability risks across markets. Prepare melt-and-pour and processing-chain evidence and check subsequent national measures. The framework itself sets no uniform new tariff and is not a unanimous G20 tariff decision.",
+    "category": "贸易救济",
+    "status": "新闻",
+    "importance": "高",
+    "tags": [
+      "GFSEC",
+      "密尔沃基框架",
+      "熔炼浇铸地",
+      "反规避"
+    ],
+    "tags_en": [
+      "GFSEC",
+      "Milwaukee Framework",
+      "melt and pour",
+      "anti-circumvention"
+    ],
+    "evidence_url": "https://www.steelforum.org/content/dam/steel-forum/en/publications/gfsec-comprehensive-framework-for-joint-action.pdf",
+    "coverage": "USTR release and final GFSEC framework/ministerial statement checked."
   }
 ]
