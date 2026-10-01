@@ -194,6 +194,23 @@
           "include_paths": [
             "/news/"
           ]
+        },
+        {
+          "name": "DG TRADE · Steel consultations",
+          "url": "https://policy.trade.ec.europa.eu/consultations_en",
+          "country": "欧盟",
+          "region": "欧洲",
+          "allowed_domains": [
+            "ec.europa.eu"
+          ],
+          "match_terms": [
+            "steel"
+          ],
+          "match_in_title": true,
+          "max_items": 8,
+          "include_paths": [
+            "/consultations/"
+          ]
         }
       ]
     },

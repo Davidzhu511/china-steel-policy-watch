@@ -60,6 +60,27 @@ def _extract_date(text: str) -> datetime | None:
     return None
 
 
+def _consultation_details(context: str) -> dict[str, str]:
+    """Read the dated consultation card, including its current open/closed state."""
+    status = re.search(r"Status:\s*(Open|Closed|Upcoming)\b", context, re.I)
+    if not status:
+        return {}
+    details = {"status": status.group(1).upper()}
+    for label, key in (("Opening date", "opens_at"), ("Deadline", "closes_at")):
+        match = re.search(rf"{label}\s+(.+?)(?=\s+Deadline\b|$)", context, re.I)
+        if not match:
+            continue
+        value = match.group(1).replace("(", "").replace(")", "")
+        try:
+            parsed = date_parser.parse(value, tzinfos={"CEST": 7200, "CET": 3600})
+        except (ValueError, TypeError, OverflowError):
+            continue
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=UTC)
+        details[key] = parsed.astimezone(UTC).isoformat().replace("+00:00", "Z")
+    return details
+
+
 def _container(anchor):
     fallback = None
     for parent in anchor.parents:
@@ -197,6 +218,8 @@ class EcWatchPagesCollector(Collector):
                         "official": True,
                         "scope_relevant": True,
                         "watch_page": url,
+                        **({"consultation": _consultation_details(context)}
+                           if "/consultations/" in parts.path else {}),
                     },
                 )
             newest = sorted(
