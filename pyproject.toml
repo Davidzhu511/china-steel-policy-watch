@@ -18,7 +18,7 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = ["pytest>=8.2,<9", "ruff>=0.6,<0.7"]
-translation = ["torch>=2.6,<3", "transformers==4.57.6", "sentencepiece>=0.2,<0.3", "sacremoses>=0.1,<0.2"]
+translation = ["torch>=2.6,<3", "transformers==4.57.6", "sentencepiece>=0.2,<0.3", "sacremoses>=0.1,<0.3"]
 
 [project.scripts]
 steelwatch = "steelwatch.cli:main"
