@@ -84,7 +84,7 @@
     },
     "ec_watch_pages": {
       "enabled": true,
-      "name": "欧委会重点页面直采",
+      "name": "重点官方页面直采",
       "lookback_days": 75,
       "pages": [
         {
@@ -210,6 +210,25 @@
           "max_items": 8,
           "include_paths": [
             "/consultations/"
+          ]
+        },
+        {
+          "name": "USTR · Steel releases",
+          "url": "https://ustr.gov/about-us/policy-offices/press-office/press-releases",
+          "country": "美国",
+          "region": "北美",
+          "allowed_domains": [
+            "ustr.gov"
+          ],
+          "match_terms": [
+            "steel excess capacity",
+            "steel tariff",
+            "steel imports"
+          ],
+          "match_in_title": true,
+          "max_items": 8,
+          "include_paths": [
+            "/press-releases/"
           ]
         }
       ]
