@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-02T07:17:36Z",
+  "generated_at": "2026-10-02T11:23:16Z",
   "disclaimer": "机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。",
   "items": [
     {
@@ -234,7 +234,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "A targeted consultation seeking stakeholders' feedback on the implementation of the new EU Steel Regulation Steel producers (upstream), steel users (downstream), business associations, third country governments and exporters, and any other interested stakeholders. EU Regulation 2026/1384 establishes a tariff rate quota system to protect the Union steel market from negative trade-related effects of global overcapacity. Considering the end of the first quarter of application of the Regulation and in order to establish a strong and targeted monitoring mechanism enabling an ongoing assessment of the implementation and functioning of the Regulation, the Commission is launching this targeted consultation which aims to gather detailed information on the immediate impact on all industry potentially affected, including steel producers (upstream), steel users (downstream), business associations, third country governments and exporters, and any other interested stakeholders. Trade isn't just abo…",
       "consultation": {
         "status": "OPEN",
@@ -288,7 +288,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "News article 18 September 2026 Commission imposes provisional safeguard measures on imports of grain-oriented electrical steel Today, the European Commission imposed provisional safeguard measures on imports of grain-oriented electrical steel products, in the form of tariff-rate quotas coupled with price thresholds. 2 min read",
       "review_method": "source_checked",
       "reviewed_at": "2026-09-28"
@@ -526,7 +526,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-07-23T08:02:57Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Details about a new steel trade measure from 1 July 2026, which limits tariff-free steel import quota volumes. On 19 March 2026, the government announced a new steel trade measure , taking effect from 1 July 2026. This measure has been implemented using powers in the Taxation (Cross Border Trade) Act 2018 , as amended. The government has carried out a programme of intensive industry engagement since the announcement. We have also engaged closely with the European Union ( EU ) ahead of their new steel trade measure coming into effect and agreed an approach that reflects the UK and EU ’s highly interconnected supply chains. From 1 July 2026, the government is limiting tariff-free steel imports, reducing overall quota volumes by 51% compared with the steel safeguard measure. Any imports above these levels will face a 50% tariff. The measure applies to imports of steel products that can also be made in the UK. The steel safeguard quotas and the 25% additional safeguard duty ceased to appl…",
       "coverage": "Official GOV.UK collection update history and current measure page reviewed.",
       "evidence_url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
@@ -576,7 +576,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-02T07:17:36Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) has received requests to conduct administrative reviews of various antidumping duty (AD) and countervailing duty (CVD) orders with August anniversary dates. In accordance with Commerce's regulations, we are initiating those administrative reviews.",
       "follow_up": {
         "due_at": "2026-10-15",
@@ -626,7 +626,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-30T11:23:38Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "How CBAM certificates work Starting in 2027, CBAM importers must submit their annual CBAM declaration by 30 September for imports of CBAM goods during the preceding year. The CBAM declaration reports the quantity of goods imported, their embedded emissions, and the corresponding number of certificates. General publications 30 September 2026 English Download (2.97 MB - PDF)",
       "coverage": "Official two-page factsheet reviewed; explanatory guidance, not a new regulation.",
       "review_method": "source_checked",
@@ -673,7 +673,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "MILWAUKEE – Today, Ambassador Jamieson Greer chaired the Ministerial Meeting of the Global Forum on Steel Excess Capacity, which reached consensus on a comprehensive framework for joint action (“the Milwaukee Framework”). Ambassador Greer highlighted the effective actions taken by the Trump Administration to address global steel excess capacity and its impacts, including on U.S. manufacturers and workers, and invited like-minded partners to take similar steps to more fully address excess capacity and the global market distortions it causes. Ambassador Greer Issues Statement Following the Ministerial Meeting of the Global Forum on Steel Excess Capacity “Under President Trump, the U.S. steel industry is undergoing a renaissance on the strength of tariffs, trade deals, favorable tax treatment, improved energy policy, and the American entrepreneurial spirit,” said Ambassador Greer . “If like-minded partners adopt similar policies, they can hold accountable those countries that are contrib…",
       "coverage": "USTR release and final GFSEC framework/ministerial statement checked.",
       "evidence_url": "https://www.steelforum.org/content/dam/steel-forum/en/publications/gfsec-comprehensive-framework-for-joint-action.pdf",
@@ -719,7 +719,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "State-of-play CBAM accreditation 29 September 2026 English Download (298.59 KB - PDF)",
       "coverage": "29 September PDF and official verification page reviewed.",
       "evidence_url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-verification_en",
@@ -765,7 +765,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-29T11:35:40Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "",
       "evidence_url": "https://www.federalregister.gov/documents/full_text/text/2026/09/29/2026-19852.txt",
       "review_method": "source_checked",
@@ -810,7 +810,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "28 Sep 2026 New resources available for CBAM verifiers The Commission has published an overview of the latest resources available to support CBAM verifiers. It brings together guidance on verification and accreditation, information on access to the CBAM Registry, operational documents for Accredited Verifiers and training videos on the use of the CBAM Registry - O3CI portal. Consult the overview and access all the available resources.",
       "review_method": "source_checked",
       "reviewed_at": "2026-09-28",
@@ -856,7 +856,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-26T10:18:21Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "The Commission hereby gives notice of the scheduling of the final phase of antidumping and countervailing duty investigation Nos. 701-TA-792 and 731-TA-1786-1788 (Final) pursuant to the Tariff Act of 1930 to determine whether an industry in the United States is materially injured or threatened with material injury, or the establishment of an industry in the United States is materially retarded, by reason of imports of tin mill products from China, Taiwan, and Turkey, provided for in subheadings 7210.11.00, 7210.12.00, 7210.50.00, 7212.10.00, 7212.50.00, if of non-alloy steel and under HTSUS subheadings 7225.99.00, and 7226.99.01 of the Harmonized Tariff Schedule of the United States, preliminarily determined by the Department of Commerce (\"Commerce\") to be subsidized and sold at less-than-fair-value. Commerce's preliminary determinations with respect to tin mill products from Taiwan and Turkey, alleged to be sold in the United States at less-than-fair- value, are pending.",
       "follow_up": {
         "due_at": "2026-11-13",
@@ -906,7 +906,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "28 Sep 2026 New training videos for accredited verifiers The videos provide guidance on applying to become a registered verifier, submitting requests for change, and managing collaboration requests with operators of Third Country Installations in the CBAM Registry.",
       "coverage": "Official Registry page reviewed; individual training videos not watched.",
       "review_method": "source_checked",
@@ -949,7 +949,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "This is a policy summary for the carbon border adjustment mechanism.",
       "review_method": "source_checked",
       "reviewed_at": "2026-09-28"
@@ -991,7 +991,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Find out what to do if you import specific goods from the aluminium, cement, fertiliser, hydrogen, and iron and steel sectors into the UK from 1 January 2027.",
       "review_method": "source_checked",
       "reviewed_at": "2026-09-28"
@@ -1172,7 +1172,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -1266,7 +1266,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1319,7 +1319,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -1372,7 +1372,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1424,7 +1424,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1472,7 +1472,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1525,7 +1525,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1577,7 +1577,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1625,7 +1625,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1676,7 +1676,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -1724,7 +1724,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1773,7 +1773,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -1822,7 +1822,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -1873,7 +1873,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -1923,7 +1923,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -2239,7 +2239,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-02T07:17:36Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) published notice to the public in the Federal Register of August 28, 2026 that the U.S. Court of International Trade's (CIT) final judgment was not in harmony with Commerce's covered merchandise inquiry (CMI) determination. Specifically, Commerce amended the CMI determination to find that products cut to length and formed into the rough shape of certain carbon steel butt-weld pipe fittings (butt-weld pipe fittings) in the People's Republic of China (China) represent \"unfinished\" fittings, which are covered by the scope of the Order, and that when such products are further processed in the Socialist Republic of Vietnam (Vietnam), they remain subject to the antidumping (AD) order on butt- weld pipe fittings from China. This notice did not provide clear notice to parties that the liquidation of entries of these unfinished fittings will be retroactively suspended.",
       "machine_translation": {
         "title_zh": "中华人民共和国某些碳钢管焊接管道:法院裁决通知与最终覆盖商品决定不一致,以及根据法院裁决修正的覆盖商品决定通知;更正",
@@ -2289,7 +2289,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-01T11:50:59Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Yesterday, the European Energy Exchange (EEX) published the revised 2027 EU ETS1 and the new 2027 EU ETS2 auction calendars. The published calendar for ETS1 allowances reflects the addition of 25 million allowances allocated to the Greek Decarbonisation Fund pursuant to Article 10a(9) of the ETS Directive . The first published calendar for ETS2 allowances reflects the early auctioning of 2028 volumes in accordance with Article 8(5) of the Auctioning Regulation . Pursuant to Article 13(7) of the Auctioning Regulation, the current auction volume for 2027 includes 140 000 000 allowances allocated to the Social Climate Fund and allowances allocated to Member States that have implemented in their national legislation the obligation of regulated entities to surrender allowances and the penalties for excess emissions. Several Members States are finalising or have finalised the implementation of the surrender obligation and the penalties in their national legislation after the determination o…",
       "coverage": "Official DG CLIMA notice reviewed; linked EEX calendar was not treated as a change to CBAM legislation.",
       "review_method": "source_checked",
@@ -2332,7 +2332,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-30T11:23:38Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "This page provides access to communication materials, frequently asked questions (FAQs), and recent webinars related to the Carbon Border Adjustment Mechanism (CBAM). Examples of the communication template filled in for each sector: cement, aluminium, fertilisers, hydrogen, steel (blast furnace, EAF, screws and nuts).",
       "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/5eb1f852-7c81-4d99-ae04-5593303076c1_en?filename=KP-01-26-043-EN-N.pdf",
       "review_method": "source_checked",
@@ -2377,7 +2377,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "The Commission will publish the available surrender and compliance data 2025 on October 6, 2026, at the latest.",
       "follow_up": {
         "due_at": "2026-10-06",
@@ -2418,7 +2418,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-22T10:21:49Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines that imports of steel wire garment hangers (hangers), completed in Cambodia using: (1) steel wire or (2) steel wire and paper accessories, produced in the People's Republic of China (China) or the Socialist Republic of Vietnam (Vietnam), are circumventing the antidumping duty (AD) order on hangers from China, or the AD and countervailing duty (CVD) orders on hangers from Vietnam. Interested parties are invited to comment on this preliminary determination.",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
@@ -2456,7 +2456,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-22T10:21:49Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines that imports of compacted graphite iron (CGI) brake drums, from the People's Republic of China (China), constitute later-developed merchandise that is circumventing the antidumping duty (AD) and countervailing duty (CVD) orders on certain brake drums (brake drums) from China. Interested parties are invited to comment on this preliminary determination.",
       "machine_translation": {
         "title_zh": "中华人民共和国的某些制动鼓:对反倾销税和反补贴税命令的规避的初步确定",
@@ -2502,7 +2502,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "News article 18 September 2026 Demand for trade defence action, EU commitment to tackle unfair trade remain strong in 2025 Strong demand for trade defence action continued in 2025, with the European Commission again opening an above-average number of investigations, reveals a new report. 2 min read"
     },
     {
@@ -2536,7 +2536,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-15T10:28:32Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that the exporters under review either sold certain steel racks and parts thereof (steel racks) from the People's Republic of China (China) in the United States at prices below normal value (NV) during the period of review (POR) September 1, 2023, through August 31, 2024, or have not established their eligibility for a separate rate and are part of the China-wide entity.",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
@@ -2626,7 +2626,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-10T10:03:27Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "This tax information and impact note is about the new Carbon Border Adjustment Mechanism (CBAM) tax.",
       "review_method": "source_checked",
       "reviewed_at": "2026-09-28"
@@ -2700,7 +2700,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme. The UK Emissions Trading Scheme ( UK ETS ) currently covers the heavy industry, power and aviation sectors – approximately 25% of UK territorial emissions. The scheme incentivises investment in decarbonisation in line with climate targets across the UK, by setting a cap on emissions from these sectors and creating a carbon price. The UK ETS Authority (consisting of the UK, Scottish, and Welsh Governments, and the Northern Ireland Department of Agriculture, Environment and Rural Affairs) is working to expand and develop the scheme to incentivise additional sectors of the economy. This sets out: the policy aims of the UK ETS how it works the work the UK ETS Authority is doing to develop it We will update the content as further policy updates are published. Published an update outlining that expansion of the UK ETS to waste incineration will not take place in 2028 as o…",
       "machine_translation": {
         "title_zh": "联合王国排放量交易计划(UK ETS):政策概述",
@@ -2742,7 +2742,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "News article 4 September 2026 Notification by Germany of voluntary cancellation of allowances in the EU ETS for plants closed in 2022 Germany notified to the Commission in May 2026 the exact number of allowances to be cancelled, in relation to the year 2024, during the period between 1 September and 31 December of 2026. 1 min read"
     },
     {
@@ -2985,7 +2985,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Guidance on CBAM verification and accreditation for verifiers and National Accreditation Bodies General publications 24 August 2026 English Download (1.75 MB - PDF)",
       "priority_signal": {
         "zh": "CBAM 执行信息 · 待核对",
@@ -3140,7 +3140,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Guidance No. 1 - Introduction to CBAM concepts 14 August 2026 English Download (870.75 KB - PDF)",
       "machine_translation": {
         "title_zh": "第1号指导意见 -- -- 介绍CBAM概念",
@@ -3182,7 +3182,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Guidance No. 2 - Quick guide for non-EU operators on CBAM implementation 14 August 2026 English Download (414.92 KB - PDF)",
       "machine_translation": {
         "title_zh": "第2号指南 -- -- 非欧盟操作员关于CBAM执行的快速指南",
@@ -3224,7 +3224,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Guidance No. 3 - CBAM methods for the calculation of emissions embedded in goods 14 August 2026 English Download (1.86 MB - PDF)"
     },
     {
@@ -3258,7 +3258,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Guidance No. 4 - CBAM calculation of the free allocation adjustment to the number of CBAM certificates to be surrendered 14 August 2026 English Download (997.49 KB - PDF)"
     },
     {
@@ -3292,7 +3292,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Guidance No. 5d - Sector-specific guidance document on iron and steel 14 August 2026 English Download (1.86 MB - PDF)",
       "machine_translation": {
         "title_zh": "第5d号指导----关于钢铁的部门性指导文件",
@@ -3797,7 +3797,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Status: Closed Targeted consultation on the first product scope review under the EU Steel Regulation Opening date 30 July 2026 Deadline 30 September 2026, 23:59 (CEST)",
       "consultation": {
         "status": "CLOSED",
@@ -3838,7 +3838,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "News article 30 July 2026 Revised 2026 and 2027 EU ETS1 auction calendars published Today, the European Energy Exchange (EEX) published the revised 2026 and the new 2027 EU ETS1 auction calendars. 3 min read"
     },
     {
@@ -4109,7 +4109,7 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -4157,12 +4157,54 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
         "opens_at": "2025-08-22T13:56:33Z",
         "closes_at": "2025-11-14T23:59:59Z"
+      }
+    },
+    {
+      "id": "a5e8132773293e9fc3e8",
+      "title_zh": "New CBAM Study: Relief from 2028, but Not for SMEs",
+      "title_en": "New CBAM Study: Relief from 2028, but Not for SMEs",
+      "title_original": "New CBAM Study: Relief from 2028, but Not for SMEs",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wd1lpWmhmUWFSV3hoUElXOHBlMnRfelNuQTJzal9DWDVtRlU5VTVBbml1ekhZR1gwZjlLZXkwc1h3QnpJLWQtVkVxRUQtR05pSlhmckN0R3UwQXlvc25rNlZiLWZDM1ZPQVZNWjBtQkFxaUQwai1NcjdxRQ?oc=5",
+      "published_at": "2026-10-02T09:30:00Z",
+      "source": {
+        "id": "rss",
+        "name": "steelnews.biz",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "碳与环保",
+      "status": "新闻",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-10-02T11:23:16Z",
+      "last_seen": "2026-10-02T11:23:16Z",
+      "source_excerpt": "New CBAM Study: Relief from 2028, but Not for SMEs steelnews.biz",
+      "machine_translation": {
+        "title_zh": "新的CBAM研究:从2028得到的救济,但对中小企业则不是",
+        "excerpt_zh": "新的CBAM研究:从2028得到的救济,但对于中小企业来说则不是钢新产品。",
+        "fingerprint": "0e4f4382e85516ac8076ce8081940b0d7fd4f59a58796910cf6109c5a061eaf2",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-10-02T11:23:32Z"
       }
     },
     {
@@ -4196,7 +4238,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-02T07:17:36Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "CBAM reporting: Reducing the administrative burden for European manufacturer ACEA - European Automobile Manufacturers' Association",
       "machine_translation": {
         "title_zh": "CBAM报告:减少欧洲制造商的行政负担",
@@ -4238,7 +4280,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-02T07:17:36Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "WTO establishes CBAM dispute panel at Russia's request Kallanish",
       "machine_translation": {
         "title_zh": "世贸组织应俄罗斯的请求设立CBAM争端小组",
@@ -4280,7 +4322,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-01T11:50:59Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "OECD推动提高钢铁关税以应对中国产能过剩 IDNFinancials"
     },
     {
@@ -4314,14 +4356,14 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-01T11:50:59Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "[SMM Analysis] SMM Launches Stainless Steel CBAM Calculator — Indonesian 304 CRC carries a €626/mt CBAM bill into the EU news.metal.com"
     },
     {
       "id": "5f3926eb9f98fd4a450c",
-      "title_zh": "\"放着每吨84万韩元，能用100万韩元买吗？\"中国产钢铁将进入市场",
-      "title_en": "\"放着每吨84万韩元，能用100万韩元买吗？\"中国产钢铁将进入市场",
-      "title_original": "\"放着每吨84万韩元，能用100万韩元买吗？\"中国产钢铁将进入市场",
+      "title_zh": "[独家]“每吨84万韩元的放着不买,偏要花100万韩元买吗”......市场正被中国钢铁吞噬",
+      "title_en": "[独家]“每吨84万韩元的放着不买,偏要花100万韩元买吗”......市场正被中国钢铁吞噬",
+      "title_original": "[独家]“每吨84万韩元的放着不买,偏要花100万韩元买吗”......市场正被中国钢铁吞噬",
       "summary_zh": "中文摘要暂未生成，请以原文为准。",
       "summary_en": "The English brief is not available yet. Please review the original source.",
       "impact_zh": "待自动分析；请先核对原文内容。",
@@ -4348,8 +4390,8 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-01T11:50:59Z",
-      "last_seen": "2026-10-02T07:17:36Z",
-      "source_excerpt": "\"放着每吨84万韩元，能用100万韩元买吗？\"中国产钢铁将进入市场 매일경제"
+      "last_seen": "2026-10-02T11:23:16Z",
+      "source_excerpt": "[独家]“每吨84万韩元的放着不买,偏要花100万韩元买吗”......市场正被中国钢铁吞噬 매일경제"
     },
     {
       "id": "8b9103bc5570ead96f80",
@@ -4382,7 +4424,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "US rallies Australia in push to counter China steel glut The Australian",
       "machine_translation": {
         "title_zh": "美国在澳洲举行集会, 以对抗中国钢筋过剩。",
@@ -4424,7 +4466,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "US-led steel forum targets global overcapacity The Hans India",
       "machine_translation": {
         "title_zh": "美国牵头的钢论坛的目标是全球能力过剩",
@@ -4466,7 +4508,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "US targets China’s steel capacity at G20 days after Xi’s state visit South China Morning Post",
       "machine_translation": {
         "title_zh": "美国在习近平国访问20天后将中国的钢铁能力作为目标",
@@ -4508,7 +4550,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "美贸易代表推G20联手应对中国钢铁过剩 RFI"
     },
     {
@@ -4542,7 +4584,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Policy options for Albania, Bosnia & Herzegovina and Serbia to negotiate CBAM Climate Analytics",
       "machine_translation": {
         "title_zh": "阿尔巴尼亚、波斯尼亚和黑塞哥维那和塞尔维亚谈判CBAM的政策选择",
@@ -4584,7 +4626,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Iron Ore Futures Rebound to CNY 710 as China Manufacturing Returns to Growth - News and Statistics IndexBox",
       "machine_translation": {
         "title_zh": "随着中国制造业回归增长,铁矿石期货将改成CNY 710",
@@ -4626,7 +4668,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Furnaces, Fossils, and the Future of Chinese Green Steel Rhodium Group",
       "machine_translation": {
         "title_zh": "火花、化石和中国绿钢的未来",
@@ -4668,7 +4710,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-30T11:23:38Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Can Steel Stocks Extend Their Rally? Tata Steel, JSW Steel and Jindal Steel in Focus as China and HRC Prices Hold the Key Trade Brains",
       "machine_translation": {
         "title_zh": "钢铁股票能否扩展其竞价? 塔塔钢、JSW钢和金德尔钢作为中国和HRC Prices持有钥匙。",
@@ -4744,7 +4786,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-29T15:08:38Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Steel suppliers are advised to prepare in advance for CBAM verification requirements Металлургпром",
       "machine_translation": {
         "title_zh": "建议钢材供应商提前准备CBAM 核查要求",
@@ -4946,7 +4988,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-29T15:08:38Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "国际钢铁周 | 开阑公司联合创始人保罗·马林斯：以开放协作对冲CBAM等新规则挑战 csteelnews.com"
     },
     {
@@ -4980,7 +5022,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-29T15:49:30Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Will BHP (ASX:BHP) Let China's Baowu Buy Into Its Jimblebar Iron Ore Hub? Kalkine Media",
       "machine_translation": {
         "title_zh": "让中国的波武买进它的金伯利铁矿石中心吗?",
@@ -5038,7 +5080,7 @@
       "published_at": "2026-09-28T10:57:57Z",
       "source": {
         "id": "rss",
-        "name": "Steel Orbis",
+        "name": "steelorbis.com",
         "kind": "news",
         "official": false
       },
@@ -5056,15 +5098,15 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-10-02T07:17:36Z",
-      "source_excerpt": "Jerónimo Casas: Steel suppliers should prepare early for CBAM verification requirements Steel Orbis",
+      "last_seen": "2026-10-02T11:23:16Z",
+      "source_excerpt": "Jerónimo Casas: Steel suppliers should prepare early for CBAM verification requirements steelorbis.com",
       "machine_translation": {
         "title_zh": "Jerónimo Casas: 钢材供应商 应提前准备CBAM 核查的要求",
-        "excerpt_zh": "Jerónimo Casas: 钢材供应商 应该提前准备CBAM 核查要求的钢铁 Orbis",
-        "fingerprint": "25645802453c113dad6c24b812c453c79eb1ba7e3b875763d5aec595a3427e55",
+        "excerpt_zh": "Jerónimo Casas: 钢材供应商应该提前准备CBAM 核查要求的钢质。 com",
+        "fingerprint": "b5054c97d414088d1cddfc07c755ec356b46a55f82469284541ada981b7920de",
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-09-29T15:09:36Z"
+        "translated_at": "2026-10-02T11:23:36Z"
       }
     },
     {
@@ -5132,7 +5174,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "source_excerpt": "Rio Tinto Launches Carbon Capture Pilot at Shougang's Jingtang Steel Site - News and Statistics IndexBox"
     },
     {
@@ -5250,7 +5292,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-10-02T07:17:36Z",
+      "last_seen": "2026-10-02T11:23:16Z",
       "related_sources": [
         {
           "name": "Mining Weekly",
