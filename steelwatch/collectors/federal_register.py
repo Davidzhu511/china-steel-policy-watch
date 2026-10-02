@@ -18,6 +18,11 @@ class FederalRegisterCollector(Collector):
         found: dict[str, RawItem] = {}
 
         for query in self.config.get("queries", ["China steel"]):
+            query_lower = query.casefold()
+            targeted_query = (
+                any(term in query_lower for term in ("china", "chinese"))
+                and any(term in query_lower for term in ("steel", "iron"))
+            )
             response = self.session.get(
                 self.endpoint,
                 params={
@@ -32,7 +37,15 @@ class FederalRegisterCollector(Collector):
             for record in response.json().get("results", []):
                 title = record.get("title") or ""
                 excerpt = record.get("abstract") or ""
-                if not is_rule_relevant(title, excerpt, keywords):
+                omnibus_targeted = targeted_query and title.casefold() == (
+                    "initiation of antidumping and countervailing duty "
+                    "administrative reviews"
+                ).casefold()
+                # Federal Register full-text search can return an omnibus notice
+                # whose short abstract is generic even though its tables contain a
+                # Chinese steel proceeding. Preserve results from narrowly scoped
+                # China+steel/iron queries so those notices reach editorial review.
+                if not omnibus_targeted and not is_rule_relevant(title, excerpt, keywords):
                     continue
                 target = canonical_url(record.get("html_url") or record.get("pdf_url") or "")
                 if not target:
@@ -56,6 +69,8 @@ class FederalRegisterCollector(Collector):
                         "document_type": record.get("type", ""),
                         "agencies": agencies,
                         "official": True,
+                        "scope_relevant": omnibus_targeted,
+                        "matched_query": query,
                     },
                 )
         return list(found.values())

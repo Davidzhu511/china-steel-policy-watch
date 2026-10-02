@@ -5,7 +5,9 @@ from steelwatch.collectors.ec_have_your_say import EcHaveYourSayCollector
 from steelwatch.collectors.ec_watch_pages import EcWatchPagesCollector
 from steelwatch.collectors.ec_watch_pages import _consultation_details
 from steelwatch.collectors.eurlex import EurLexCollector
+from steelwatch.collectors.federal_register import FederalRegisterCollector
 from steelwatch.collectors.gdelt import GdeltCollector
+from steelwatch.collectors.govuk import GovUkCollector
 from steelwatch.collectors.rss import RssCollector
 
 
@@ -72,6 +74,55 @@ class FakeJsonResponse:
 
     def json(self):
         return self.payload
+
+
+def test_govuk_date_only_update_uses_london_calendar_date():
+    collector = GovUkCollector(
+        {"lookback_days": 5000, "queries": ["steel"]},
+        {
+            "settings": {},
+            "keywords": {
+                "materials": ["steel"],
+                "global_steel_policy": ["tariff-rate quota"],
+            },
+        },
+    )
+    collector.session = FakeEcSession({
+        "search": {"results": [{
+            "title": "UK steel trade measure",
+            "description": "Steel tariff-rate quota update",
+            "link": "/government/publications/uk-steel-trade-measure",
+            "public_timestamp": "2026-09-30T23:00:00Z",
+        }]}
+    })
+
+    items = collector.collect()
+
+    assert items[0].published_at == "2026-10-01T00:00:00Z"
+
+
+def test_federal_register_keeps_omnibus_notice_from_targeted_full_text_query():
+    collector = FederalRegisterCollector(
+        {"lookback_days": 5000, "queries": ["China steel"]},
+        {"settings": {}, "keywords": {"china": ["china"], "materials": ["steel"]}},
+    )
+    collector.session = FakeEcSession({
+        "search": {"results": [{
+            "title": "Initiation of Antidumping and Countervailing Duty Administrative Reviews",
+            "abstract": "Commerce is initiating various administrative reviews.",
+            "html_url": "https://federalregister.gov/documents/2026/10/01/example",
+            "publication_date": "2026-10-01",
+            "document_number": "2026-20160",
+            "type": "Notice",
+            "agencies": [{"name": "International Trade Administration"}],
+        }]}
+    })
+
+    items = collector.collect()
+
+    assert len(items) == 1
+    assert items[0].metadata["scope_relevant"] is True
+    assert items[0].metadata["matched_query"] == "China steel"
 
 
 class FakeEcSession:

@@ -1,7 +1,8 @@
 from __future__ import annotations
 
-from datetime import UTC, datetime, timedelta
+from datetime import UTC, datetime, time, timedelta
 from urllib.parse import urljoin
+from zoneinfo import ZoneInfo
 
 from ..models import RawItem
 from ..util import canonical_url, is_rule_relevant, parse_datetime, stable_id
@@ -34,6 +35,14 @@ class GovUkCollector(Collector):
                 )
                 if published < cutoff:
                     continue
+                # GOV.UK represents a date-only publication/update at local midnight.
+                # During BST that is 23:00 UTC on the preceding day, which otherwise
+                # breaks exact editorial version matching.
+                published = datetime.combine(
+                    published.astimezone(ZoneInfo("Europe/London")).date(),
+                    time.min,
+                    tzinfo=UTC,
+                )
                 title = record.get("title") or ""
                 excerpt = record.get("description") or record.get("summary") or ""
                 if not is_rule_relevant(title, excerpt, keywords):
