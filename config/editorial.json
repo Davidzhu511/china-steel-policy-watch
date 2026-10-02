@@ -459,5 +459,62 @@
     ],
     "evidence_url": "https://www.steelforum.org/content/dam/steel-forum/en/publications/gfsec-comprehensive-framework-for-joint-action.pdf",
     "coverage": "USTR release and final GFSEC framework/ministerial statement checked."
+  },
+  {
+    "url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026",
+    "published_date": "2026-10-01",
+    "reviewed_at": "2026-10-02",
+    "title_zh": "英国钢铁措施缩小范围：两项非合金钢丝编码税率降为 0%",
+    "title_en": "UK steel measure removes two non-alloy wire codes from 1 October",
+    "summary_zh": "英国政府10月1日更新钢铁贸易措施，将非合金钢丝商品编码72173049和72173090移出适用范围，对应税率由50%降为0%；Category 28配额量保持不变。其他纳入范围的产品配额外税率仍为50%。",
+    "summary_en": "The UK updated its steel trade measure on 1 October, removing non-alloy wire codes 72173049 and 72173090. Their tariff falls from 50% to 0%; Category 28 quota volumes are unchanged. The 50% out-of-quota tariff remains for other covered products.",
+    "impact_zh": "跟踪判断：涉及上述两个编码的在途和新订单应立即复核英国报关税率及商品归类；该变化不适用于Category 28其他钢丝编码，也没有增加剩余配额。",
+    "impact_en": "Assessment: recheck UK classification and entry treatment for shipments under these two codes. The change does not cover other Category 28 wire codes or increase the remaining quota.",
+    "category": "配额与关税",
+    "status": "已生效",
+    "importance": "高",
+    "tags": ["英国", "钢铁措施", "非合金钢丝", "商品编码"],
+    "tags_en": ["UK", "steel trade measure", "non-alloy wire", "commodity codes"],
+    "evidence_url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
+    "coverage": "Official GOV.UK collection update history and current measure page reviewed."
+  },
+  {
+    "url": "https://climate.ec.europa.eu/news-other-reads/news/revised-2027-eu-ets1-and-initial-2027-eu-ets2-auction-calendars-published-2026-10-01_en",
+    "published_date": "2026-10-01",
+    "reviewed_at": "2026-10-02",
+    "title_zh": "欧盟发布2027年ETS1修订拍卖日历及首份ETS2拍卖日历",
+    "title_en": "EU publishes revised 2027 ETS1 and initial ETS2 auction calendars",
+    "summary_zh": "欧委会10月1日确认EEX已发布2027年ETS1修订拍卖日历和首份ETS2拍卖日历。ETS1增加2500万份划拨希腊脱碳基金的配额；当前ETS2拍卖量含1.4亿份社会气候基金配额，年内还将因成员国立法进展调整。共同拍卖平台的ETS1和ETS2拍卖分别于2027年1月7日和1月18日开始。",
+    "summary_en": "On 1 October the Commission confirmed EEX's revised 2027 ETS1 and first ETS2 auction calendars. ETS1 adds 25 million allowances for the Greek Decarbonisation Fund; the current ETS2 volume includes 140 million allowances for the Social Climate Fund and will be adjusted as national legislation progresses. Auctions start on 7 and 18 January 2027 respectively.",
+    "impact_zh": "跟踪判断：这是配额拍卖供应安排，不是钢铁CBAM证书价格、免费分配或清缴规则的调整。可作为2027年欧盟碳价和客户采购预算的市场信息跟踪，不应直接换算为钢材CBAM税额。",
+    "impact_en": "Assessment: this concerns allowance auction supply, not a change to steel CBAM certificate pricing, free allocation or surrender rules. Use it as a 2027 carbon-market input, not as a direct steel CBAM charge.",
+    "category": "碳与环保",
+    "status": "新闻",
+    "importance": "中",
+    "tags": ["EU ETS", "配额拍卖", "2027日历"],
+    "tags_en": ["EU ETS", "allowance auctions", "2027 calendar"],
+    "coverage": "Official DG CLIMA notice reviewed; linked EEX calendar was not treated as a change to CBAM legislation."
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/10/01/2026-20160/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
+    "published_date": "2026-10-01",
+    "reviewed_at": "2026-10-02",
+    "title_zh": "美国启动多项行政复审：涉及中国钢钉、制动鼓和金属储物柜",
+    "title_en": "US opens administrative reviews covering Chinese steel nails, brake drums and metal lockers",
+    "summary_zh": "美国商务部10月1日启动8月周年月的反倾销/反补贴行政复审。其中对华涉钢项目包括钢钉A-570-909（复审期2025年8月1日至2026年7月31日）、制动鼓A-570-174/C-570-175及金属储物柜A-570-133/C-570-134。公告预计最终结果不晚于2027年8月31日。",
+    "summary_en": "Commerce's 1 October omnibus notice opens August-anniversary AD/CVD reviews. China-related steel cases include steel nails A-570-909 (POR 1 August 2025–31 July 2026), brake drums A-570-174/C-570-175 and metal lockers A-570-133/C-570-134. Final results are intended by 31 August 2027.",
+    "impact_zh": "跟踪判断：被列名企业应让美国律师立即核对独立税率申请或证明、Q&V问卷及APO等个案期限；独立税率材料原则上须在公告后14个日历日内提交。此次是复审立案，不是新税率终裁。",
+    "impact_en": "Assessment: listed firms should have US counsel check separate-rate applications/certifications, Q&V questionnaires and APO deadlines immediately. Separate-rate filings are generally due within 14 calendar days of publication. This is review initiation, not a new final rate.",
+    "category": "贸易救济",
+    "status": "审查中",
+    "importance": "高",
+    "tags": ["美国", "行政复审", "钢钉", "制动鼓", "金属储物柜"],
+    "tags_en": ["US", "administrative review", "steel nails", "brake drums", "metal lockers"],
+    "follow_up": {
+      "due_at": "2026-10-15",
+      "action_zh": "被列名企业由美国律师核对独立税率申请/证明及Q&V等实际提交期限",
+      "action_en": "US counsel to confirm case-specific separate-rate and Q&V filing deadlines."
+    },
+    "coverage": "Official Federal Register full notice reviewed; summary is limited to China-related steel cases in the omnibus tables."
   }
 ]
