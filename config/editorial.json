@@ -473,8 +473,18 @@
     "category": "配额与关税",
     "status": "已生效",
     "importance": "高",
-    "tags": ["英国", "钢铁措施", "非合金钢丝", "商品编码"],
-    "tags_en": ["UK", "steel trade measure", "non-alloy wire", "commodity codes"],
+    "tags": [
+      "英国",
+      "钢铁措施",
+      "非合金钢丝",
+      "商品编码"
+    ],
+    "tags_en": [
+      "UK",
+      "steel trade measure",
+      "non-alloy wire",
+      "commodity codes"
+    ],
     "evidence_url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
     "coverage": "Official GOV.UK collection update history and current measure page reviewed."
   },
@@ -491,8 +501,16 @@
     "category": "碳与环保",
     "status": "新闻",
     "importance": "中",
-    "tags": ["EU ETS", "配额拍卖", "2027日历"],
-    "tags_en": ["EU ETS", "allowance auctions", "2027 calendar"],
+    "tags": [
+      "EU ETS",
+      "配额拍卖",
+      "2027日历"
+    ],
+    "tags_en": [
+      "EU ETS",
+      "allowance auctions",
+      "2027 calendar"
+    ],
     "coverage": "Official DG CLIMA notice reviewed; linked EEX calendar was not treated as a change to CBAM legislation."
   },
   {
@@ -508,13 +526,115 @@
     "category": "贸易救济",
     "status": "审查中",
     "importance": "高",
-    "tags": ["美国", "行政复审", "钢钉", "制动鼓", "金属储物柜"],
-    "tags_en": ["US", "administrative review", "steel nails", "brake drums", "metal lockers"],
+    "tags": [
+      "美国",
+      "行政复审",
+      "钢钉",
+      "制动鼓",
+      "金属储物柜"
+    ],
+    "tags_en": [
+      "US",
+      "administrative review",
+      "steel nails",
+      "brake drums",
+      "metal lockers"
+    ],
     "follow_up": {
       "due_at": "2026-10-15",
       "action_zh": "被列名企业由美国律师核对独立税率申请/证明及Q&V等实际提交期限",
       "action_en": "US counsel to confirm case-specific separate-rate and Q&V filing deadlines."
     },
     "coverage": "Official Federal Register full notice reviewed; summary is limited to China-related steel cases in the omnibus tables."
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/08/28/2026-17621/certain-carbon-steel-butt-weld-pipe-fittings-from-the-peoples-republic-of-china-notice-of-court",
+    "published_date": "2026-08-28",
+    "reviewed_at": "2026-10-03",
+    "title_zh": "美国扩大对华对焊管件反倾销令覆盖：越南后加工仍属中国原产范围",
+    "title_en": "US Commerce brings China-formed butt-weld pipe fitting rough shapes processed in Vietnam within the AD order",
+    "summary_zh": "美国商务部公告（A-570-814；91 FR 55518）落实美国国际贸易法院2026年7月29日判决，自2026年8月8日起修正覆盖商品认定：中国境内切割并形成对焊管件粗坯的产品属于反倾销令范围内的“未制成品”；随后在越南完成第二、第三阶段加工，仍受对华碳钢对焊管件反倾销令约束。商务部将要求海关暂停相关成品和未制成品清算并按适用税率收取现金保证金。",
+    "summary_en": "Commerce's notice (A-570-814; 91 FR 55518) implements the CIT's 29 July 2026 judgment and applies from 8 August 2026. Rough shapes cut to length and formed in China are unfinished butt-weld pipe fittings within the order; subsequent second- or third-stage processing in Vietnam does not remove them from the China AD order. CBP is to suspend liquidation and collect cash deposits at the applicable rate.",
+    "impact_zh": "事实与研判：这是法院判决后的覆盖范围修正，不是新立案或统一新税率。中国粗坯经越南后加工的供应链应立即核对报关、原产地和现金保证金安排，保存中国成形及越南加工阶段记录，并由美国律师确认具体条目适用税率与诉讼进展。",
+    "impact_en": "Assessment: this is a court-driven scope amendment, not a new investigation or a uniform new duty rate. China-to-Vietnam processing chains should review entries, origin evidence and cash-deposit treatment, retain records for each processing stage, and have US counsel confirm the entry-specific rate and litigation status.",
+    "category": "贸易救济",
+    "status": "已生效",
+    "importance": "高",
+    "tags": [
+      "美国",
+      "反倾销",
+      "对焊管件",
+      "越南后加工",
+      "原产地"
+    ],
+    "tags_en": [
+      "US",
+      "anti-dumping",
+      "butt-weld pipe fittings",
+      "Vietnam processing",
+      "origin"
+    ],
+    "evidence_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17621/certain-carbon-steel-butt-weld-pipe-fittings-from-the-peoples-republic-of-china-notice-of-court",
+    "coverage": "Official Federal Register full notice checked; no product-specific cash-deposit rate was inferred."
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/10/02/2026-20258/certain-carbon-steel-butt-weld-pipe-fittings-from-the-peoples-republic-of-china-notice-of-court",
+    "published_date": "2026-10-02",
+    "reviewed_at": "2026-10-03",
+    "title_zh": "美国更正对华对焊管件公告：明确追溯暂停清算和现金保证金",
+    "title_en": "US Commerce correction clarifies retroactive suspension for China-origin butt-weld pipe fittings processed in Vietnam",
+    "summary_zh": "美国商务部10月2日发布更正（A-570-814；91 FR 62700），补入8月28日公告遗漏的追溯执行段落。对在中国形成粗坯、在越南完成第二或第三阶段加工且物理特征相同的相关产品：已暂停的条目继续暂停并适用相应现金保证金；尚未暂停且未清算的条目，2022年9月26日及以后进口的须暂停清算并缴纳保证金；2021年11月4日之后、2022年9月26日之前进口且仍未清算的条目亦同。该认定按同一国家的出口商或进口商层面适用。",
+    "summary_en": "Commerce's 2 October correction (A-570-814; 91 FR 62700) adds omitted retroactive implementation language to the 28 August notice. For China-formed rough shapes completed through second or third production stages in Vietnam and sharing the relevant physical characteristics, CBP is to continue existing suspensions and apply cash deposits; suspend still-unliquidated entries on or after 26 September 2022; and also suspend still-unliquidated entries after 4 November 2021 but before 26 September 2022, at the applicable rate. The finding applies on a country-wide exporter or importer basis.",
+    "impact_zh": "事实与研判：更正没有公布统一新税率，但显著扩大了需要追溯核对的未清算条目范围。相关出口商、越南加工商和美国进口商应立即按两个日期区间筛查历史未清算进口，核对保证金及海关指令，并保存粗坯物理特征、加工和原产链证据。",
+    "impact_en": "Assessment: the correction sets no uniform new rate but materially clarifies the historical unliquidated entries subject to suspension. Exporters, Vietnamese processors and US importers should screen entries against both date windows, verify cash-deposit and CBP instructions, and preserve evidence on rough-shape characteristics, processing and origin.",
+    "category": "贸易救济",
+    "status": "已生效",
+    "importance": "高",
+    "tags": [
+      "美国",
+      "反倾销",
+      "对焊管件",
+      "暂停清算",
+      "追溯适用"
+    ],
+    "tags_en": [
+      "US",
+      "anti-dumping",
+      "butt-weld pipe fittings",
+      "suspension of liquidation",
+      "retroactive application"
+    ],
+    "evidence_url": "https://www.federalregister.gov/documents/2026/10/02/2026-20258/certain-carbon-steel-butt-weld-pipe-fittings-from-the-peoples-republic-of-china-notice-of-court",
+    "coverage": "Official Federal Register correction and the linked 28 August notice checked; date windows are limited to still-unliquidated covered entries."
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaDh1dUN5MlNEYUNfLTdCUmNnUjRjRkVhWDl5TGJSOTVsZC1LSENnLVlZSDlaLWtqWjVHSlZEWFpoVWJoR2JranZuSVFUS0VqQ1FDV1B0RHFLclg5NmhDMl82VlNxUzBPQzRiUWQwMTliUXBEamNEbVFnbXI4QUpfWWJEcm54QzQ3TXZDVGw3bFl3aTZWYUJQRkNJSDNfOW8zcVVZQTBxYzd2cUNxVVFhb19JRkJzN3o3cVM5R3NMMVN2anZmenlIQ0xB?oc=5",
+    "published_date": "2026-10-01",
+    "reviewed_at": "2026-10-03",
+    "title_zh": "WTO成立欧盟CBAM争端专家组，中国保留第三方权利",
+    "title_en": "WTO establishes panel on EU CBAM; China reserves third-party rights",
+    "summary_zh": "WTO争端解决机构于2026年9月25日就俄罗斯诉欧盟案DS639成立专家组，审查欧盟碳边境调节机制（CBAM）及俄罗斯所称欧盟排放交易体系下的出口补贴是否符合WTO义务。俄罗斯于2025年5月12日请求磋商、2026年7月10日请求设组；中国等成员保留第三方权利。专家组成立只是争端程序启动，尚无裁决。",
+    "summary_en": "On 25 September 2026 the WTO DSB established a panel in DS639, Russia's challenge to the EU CBAM package and an alleged export subsidy under the EU ETS. Russia requested consultations on 12 May 2025 and a panel on 10 July 2026. China and other members reserved third-party rights. Panel establishment begins adjudication; no ruling has been issued.",
+    "impact_zh": "事实与研判：DS639不会自动暂停CBAM，欧盟现行申报、授权申报人和证书义务仍应照常准备。中国钢企可跟踪中国作为第三方提交的法律主张和后续报告，但当前不应据此延后碳数据、核证或客户合规安排。",
+    "impact_en": "Assessment: DS639 does not automatically suspend CBAM. Existing EU reporting, authorised-declarant and certificate preparations should continue. Chinese steel exporters should monitor China's third-party submissions and later reports, but should not delay emissions-data, verification or customer-compliance work.",
+    "category": "碳与环保",
+    "status": "争端中",
+    "importance": "高",
+    "tags": [
+      "WTO",
+      "DS639",
+      "欧盟CBAM",
+      "EU ETS",
+      "争端解决"
+    ],
+    "tags_en": [
+      "WTO",
+      "DS639",
+      "EU CBAM",
+      "EU ETS",
+      "dispute settlement"
+    ],
+    "evidence_url": "https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds639_e.htm",
+    "coverage": "WTO DS639 case page and 25 September DSB news item checked; the collected media item is used only as the discovery record."
   }
 ]
