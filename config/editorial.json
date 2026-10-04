@@ -636,5 +636,101 @@
     ],
     "evidence_url": "https://www.wto.org/english/tratop_e/dispu_e/cases_e/ds639_e.htm",
     "coverage": "WTO DS639 case page and 25 September DSB news item checked; the collected media item is used only as the discovery record."
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/10/05/2026-20381/certain-cut-to-length-carbon-steel-plate-from-the-peoples-republic-of-china-and-the-russian",
+    "published_date": "2026-10-05",
+    "reviewed_at": "2026-10-04",
+    "title_zh": "美国对华定尺碳钢板第五次日落复审终裁：撤令可能导致倾销延续",
+    "title_en": "US fifth sunset review finds dumping likely to recur for Chinese cut-to-length carbon steel plate",
+    "summary_zh": "美国商务部第五次快速日落复审终裁（A-570-849；91 FR 63265）认定，撤销对中国和俄罗斯定尺碳钢板反倾销令可能导致倾销继续或再现；可能继续或再现的加权平均倾销幅度最高为中国128.59%、俄罗斯185.00%。由于没有被调查方提交实质答复，商务部采用120天快速复审程序；结果自2026年10月5日起适用。",
+    "summary_en": "Commerce's expedited fifth sunset-review results (A-570-849; 91 FR 63265) find that revoking the China and Russia CTL-plate AD orders would likely lead to continuation or recurrence of dumping. Margins likely to prevail are up to 128.59% for China and 185.00% for Russia. No respondent interested party filed a substantive response, so Commerce used the 120-day expedited procedure. The results apply from 5 October 2026.",
+    "impact_zh": "事实与研判：128.59%是日落复审中的“可能继续或再现”幅度，不是所有中国出口商自本公告起统一适用的新现金保证金率。本公告支持维持现有反倾销令，但仍应跟踪USITC损害复审及后续续令公告；涉美定尺板业务应继续按企业适用税率报价，不应假设措施即将撤销。",
+    "impact_en": "Assessment: 128.59% is the sunset-review margin likely to prevail, not a new uniform cash-deposit rate for every Chinese exporter. The finding supports continuation of the order, subject to the injury-side review and subsequent continuation notice. US CTL-plate business should keep using company-specific applicable rates and not assume the order will lapse.",
+    "category": "贸易救济",
+    "status": "终裁",
+    "importance": "高",
+    "tags": [
+      "美国",
+      "定尺碳钢板",
+      "日落复审",
+      "反倾销"
+    ],
+    "tags_en": [
+      "US",
+      "cut-to-length carbon steel plate",
+      "sunset review",
+      "anti-dumping"
+    ],
+    "evidence_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20381/certain-cut-to-length-carbon-steel-plate-from-the-peoples-republic-of-china-and-the-russian",
+    "coverage": "Official Federal Register full notice reviewed, including final-results margins; the linked Issues and Decision Memorandum was not treated as separately reviewed."
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/09/22/2026-19372/certain-brake-drums-from-the-peoples-republic-of-china-preliminary-affirmative-determination-of",
+    "published_date": "2026-09-22",
+    "reviewed_at": "2026-10-04",
+    "title_zh": "美国初裁中国球墨铸铁制动鼓规避双反令，追溯至2026年1月27日",
+    "title_en": "US preliminarily finds Chinese CGI brake drums circumvent AD/CVD orders",
+    "summary_zh": "美国商务部初步认定（A-570-174、C-570-175；91 FR 60082），中国制致密石墨铸铁（CGI）制动鼓属于后续发展商品，在全国范围规避对华制动鼓反倾销和反补贴令。调查产品内径14.75英寸至16.6英寸、重量超过50磅，包括公告所举M328D557型号。2026年1月27日及以后进入美国且尚未清算的条目将暂停清算；一般情况下按中国全国反倾销率150.25%和反补贴“其他企业”率11.94%收取保证金，已有企业单独税率的按其适用税率。",
+    "summary_en": "Commerce preliminarily finds (A-570-174/C-570-175; 91 FR 60082) that Chinese compacted graphite iron brake drums are later-developed merchandise circumventing the China brake-drum AD/CVD orders on a country-wide basis. Covered inquiry merchandise has an inside diameter of 14.75–16.6 inches and weighs more than 50 pounds, including model M328D557. Unliquidated entries on or after 27 January 2026 are to be suspended; generally the China-wide AD rate is 150.25% and the CVD all-others rate 11.94%, while company-specific rates apply where available.",
+    "impact_zh": "事实与研判：这是规避调查初裁，不是最终结论，但已触发暂停清算和保证金要求。相关制造商、出口商和美国进口商应立即核对材质、尺寸、重量、型号及历史未清算条目；评论原则上于10月6日前、听证申请于10月22日前通过ACCESS提交，具体期限应由美国律师确认。",
+    "impact_en": "Assessment: this is a preliminary circumvention finding, not a final determination, but suspension and cash-deposit requirements already apply. Producers, exporters and US importers should review material, dimensions, weight, model numbers and historical unliquidated entries. Comments are generally due 6 October and hearing requests 22 October; US counsel should confirm the filing dates.",
+    "category": "贸易救济",
+    "status": "初裁",
+    "importance": "高",
+    "tags": [
+      "美国",
+      "制动鼓",
+      "规避调查",
+      "反倾销",
+      "反补贴"
+    ],
+    "tags_en": [
+      "US",
+      "brake drums",
+      "circumvention",
+      "anti-dumping",
+      "countervailing duty"
+    ],
+    "follow_up": {
+      "due_at": "2026-10-06",
+      "action_zh": "相关方由美国律师确认并提交评论；听证申请期限原则上为10月22日",
+      "action_en": "US counsel to confirm and file comments; hearing requests are generally due 22 October."
+    },
+    "coverage": "Official Federal Register full notice reviewed; listed rates are the stated order rates, not inferred transaction-specific liability."
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/09/22/2026-19376/steel-wire-garment-hangers-from-the-peoples-republic-of-china-and-the-socialist-republic-of-vietnam",
+    "published_date": "2026-09-22",
+    "reviewed_at": "2026-10-04",
+    "title_zh": "美国初裁柬埔寨组装钢丝衣架规避中越贸易救济令",
+    "title_en": "US preliminarily finds Cambodian-assembled steel wire hangers circumvent China and Vietnam orders",
+    "summary_zh": "美国商务部初步认定（A-570-918、A-552-812、C-552-813；91 FR 60086），在柬埔寨使用中国或越南产钢丝，或钢丝及纸配件完成并出口美国的钢丝衣架，在全国范围构成规避。2025年8月12日及以后进入美国且尚未清算的相关条目须暂停清算并缴纳保证金。未能按双重认证计划证明使用中国原料的，公告拟按越南全国反倾销率220.68%及反补贴其他企业率31.58%处理；证明使用中国原料的按对华衣架反倾销令适用税率处理。",
+    "summary_en": "Commerce preliminarily finds (A-570-918/A-552-812/C-552-813; 91 FR 60086) that hangers completed in Cambodia from Chinese- or Vietnamese-origin steel wire, or steel wire and paper accessories, circumvent the respective orders on a country-wide basis. Relevant unliquidated entries on or after 12 August 2025 are suspended. Entries not certified under the dual program as using Chinese inputs are intended to face the Vietnam-wide AD rate of 220.68% plus the CVD all-others rate of 31.58%; certified Chinese-input entries use the applicable China hanger AD rate.",
+    "impact_zh": "事实与研判：这是初裁，但已产生追溯暂停清算、保证金和认证义务。中国钢丝经柬埔寨组装的供应链应核对原料原产、生产记录、ACE/DIS申报和第三国案号；历史未清算条目的认证及证明材料原则上最迟须在11月6日前完成，听证申请原则上10月22日前提交。Alpha Hanger、Everbrit和Kaining在本初裁下不能使用该认证。",
+    "impact_en": "Assessment: although preliminary, the finding already creates retroactive suspension, cash-deposit and certification obligations. China-to-Cambodia supply chains should verify input origin, production records, ACE/DIS filings and third-country case numbers. Certifications for historical unliquidated entries are generally due by 6 November; hearing requests are generally due 22 October. Alpha Hanger, Everbrit and Kaining are ineligible for the certification under this preliminary finding.",
+    "category": "贸易救济",
+    "status": "初裁",
+    "importance": "高",
+    "tags": [
+      "美国",
+      "钢丝衣架",
+      "柬埔寨",
+      "规避调查",
+      "原产地认证"
+    ],
+    "tags_en": [
+      "US",
+      "steel wire hangers",
+      "Cambodia",
+      "circumvention",
+      "origin certification"
+    ],
+    "follow_up": {
+      "due_at": "2026-10-22",
+      "action_zh": "相关方由美国律师确认听证申请；历史条目认证及证明材料原则上于11月6日前完成",
+      "action_en": "US counsel to confirm hearing request; historical-entry certifications and evidence are generally due by 6 November."
+    },
+    "coverage": "Official Federal Register full notice and certification requirements reviewed; company eligibility and entry treatment remain subject to the preliminary determination and CBP/Commerce instructions."
   }
 ]
