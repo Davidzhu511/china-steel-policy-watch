@@ -60,6 +60,24 @@ def _extract_date(text: str) -> datetime | None:
     return None
 
 
+def _extract_latest_date(text: str, cutoff: datetime) -> datetime | None:
+    dates: list[datetime] = []
+    ceiling = datetime.now(UTC) + timedelta(days=1)
+    for pattern in DATE_PATTERNS:
+        for match in pattern.finditer(text):
+            value = re.sub(r"\s*\([A-Za-z]+\)\s*", " ", match.group(0))
+            try:
+                parsed = date_parser.parse(value, dayfirst=True)
+            except (TypeError, ValueError, OverflowError):
+                continue
+            if parsed.tzinfo is None:
+                parsed = parsed.replace(tzinfo=UTC)
+            parsed = parsed.astimezone(UTC)
+            if cutoff <= parsed <= ceiling:
+                dates.append(parsed)
+    return max(dates) if dates else None
+
+
 def _consultation_details(context: str) -> dict[str, str]:
     """Read the dated consultation card, including its current open/closed state."""
     status = re.search(r"Status:\s*(Open|Closed|Upcoming)\b", context, re.I)
@@ -155,6 +173,31 @@ class EcWatchPagesCollector(Collector):
                 self.warnings.append(f"{url}: {type(exc).__name__}: {str(exc)[:120]}")
                 continue
             successes += 1
+            if page.get("emit_self"):
+                page_text = _clean(soup.get_text(" ", strip=True))
+                published = _extract_latest_date(page_text, cutoff)
+                title = str(page.get("self_title") or "").strip()
+                if published is not None and title:
+                    target = canonical_url(url)
+                    identifier = stable_id(target, title)
+                    found[identifier] = RawItem(
+                        id=identifier,
+                        title=title,
+                        url=target,
+                        published_at=published.replace(microsecond=0).isoformat().replace("+00:00", "Z"),
+                        source_id=self.source_id,
+                        source_name=str(page.get("name") or self.source_name),
+                        source_kind="official-notice",
+                        region=str(page.get("region") or "欧洲"),
+                        country=str(page.get("country") or "欧盟"),
+                        excerpt=trim_text(page_text, 1600),
+                        language=str(page.get("language") or "en"),
+                        metadata={
+                            "official": True,
+                            "scope_relevant": True,
+                            "watch_page": url,
+                        },
+                    )
             terms = [str(term).lower() for term in page.get("match_terms", []) if term]
             match_in_title = bool(page.get("match_in_title", False))
             excluded = [term.lower() for term in page.get("exclude_terms", [])]
