@@ -88,6 +88,22 @@
       "lookback_days": 75,
       "pages": [
         {
+          "name": "DG TAXUD · CBAM Certificate Price",
+          "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/price-cbam-certificates_en",
+          "country": "欧盟",
+          "region": "欧洲",
+          "emit_self": true,
+          "self_title": "Price of CBAM certificates",
+          "allowed_domains": [
+            "ec.europa.eu"
+          ],
+          "match_terms": [
+            "cbam certificate price"
+          ],
+          "match_in_title": true,
+          "max_items": 1
+        },
+        {
           "name": "DG TAXUD · CBAM Verification",
           "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-verification_en",
           "country": "欧盟",
