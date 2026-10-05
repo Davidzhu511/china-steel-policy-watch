@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:04:22Z",
+  "generated_at": "2026-10-05T12:42:23Z",
   "run_ok": true,
   "model": "gpt-4.1-mini",
   "translation_available": false,
@@ -7,17 +7,17 @@
   "pending_analysis": 83,
   "offline_translation": {
     "status": "partial",
-    "translated": 3,
+    "translated": 0,
     "warnings": [
       "20 条译文未通过完整性检查，保留原文待重试。"
     ],
     "remaining": 20
   },
   "machine_translated_items": 56,
-  "collected_items": 72,
-  "processed_items": 30,
+  "collected_items": 51,
+  "processed_items": 12,
   "deferred_items": 0,
-  "new_items": 2,
+  "new_items": 0,
   "total_items": 151,
   "source_success": 6,
   "source_total": 6,
@@ -28,10 +28,10 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 13158,
+      "duration_ms": 7789,
       "warnings": [],
-      "last_success_at": "2026-10-05T08:04:22Z",
-      "last_observed_at": "2026-10-05T08:04:22Z",
+      "last_success_at": "2026-10-05T12:42:23Z",
+      "last_observed_at": "2026-10-05T12:42:23Z",
       "consecutive_failures": 0
     },
     {
@@ -40,10 +40,10 @@
       "ok": true,
       "count": 21,
       "error": "",
-      "duration_ms": 4632,
+      "duration_ms": 2576,
       "warnings": [],
-      "last_success_at": "2026-10-05T08:04:22Z",
-      "last_observed_at": "2026-10-05T08:04:22Z",
+      "last_success_at": "2026-10-05T12:42:23Z",
+      "last_observed_at": "2026-10-05T12:42:23Z",
       "consecutive_failures": 0
     },
     {
@@ -52,9 +52,9 @@
       "ok": true,
       "count": 0,
       "error": "",
-      "duration_ms": 347,
+      "duration_ms": 784,
       "warnings": [],
-      "last_success_at": "2026-10-05T08:04:22Z",
+      "last_success_at": "2026-10-05T12:42:23Z",
       "last_observed_at": "2026-09-29T04:08:19Z",
       "consecutive_failures": 0
     },
@@ -64,10 +64,10 @@
       "ok": true,
       "count": 8,
       "error": "",
-      "duration_ms": 757,
+      "duration_ms": 375,
       "warnings": [],
-      "last_success_at": "2026-10-05T08:04:22Z",
-      "last_observed_at": "2026-10-05T08:04:22Z",
+      "last_success_at": "2026-10-05T12:42:23Z",
+      "last_observed_at": "2026-10-05T12:42:23Z",
       "consecutive_failures": 0
     },
     {
@@ -76,26 +76,35 @@
       "ok": true,
       "count": 5,
       "error": "",
-      "duration_ms": 6249,
+      "duration_ms": 5792,
       "warnings": [],
-      "last_success_at": "2026-10-05T08:04:22Z",
-      "last_observed_at": "2026-10-05T08:04:22Z",
+      "last_success_at": "2026-10-05T12:42:23Z",
+      "last_observed_at": "2026-10-05T12:42:23Z",
       "consecutive_failures": 0
     },
     {
       "id": "rss",
       "name": "RSS / Google News 新闻发现",
       "ok": true,
-      "count": 23,
+      "count": 1,
       "error": "",
-      "duration_ms": 2068,
-      "warnings": [],
-      "last_success_at": "2026-10-05T08:04:22Z",
-      "last_observed_at": "2026-10-05T08:04:22Z",
+      "duration_ms": 32441,
+      "warnings": [
+        "https://news.google.com/rss/search?q=%28CBAM%20OR%20%22EU%20ETS%22%29%20steel%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28CBAM%20OR%20%22EU%20ETS%22%29%20s",
+        "https://news.google.com/rss/search?q=%22China%20steel%22%20%28tariff%20OR%20antidumping%20OR%20safeguard%20OR%20quota%29%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22China%20steel%22%20%28tariff%20OR",
+        "https://news.google.com/rss/search?q=%28Shougang%20OR%20Baowu%20OR%20Baosteel%20OR%20Ansteel%20OR%20HBIS%20OR%20Tsingshan%29%20steel%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28Shougang%20OR%20Baowu%20OR%20Baos",
+        "https://news.google.com/rss/search?q=%28钢铁%20OR%20首钢%20OR%20宝武%29%20%28出口%20OR%20关税%20OR%20反倾销%20OR%20CBAM%29%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%E9%92%A2%E9%93%81%20OR%20%E9%A6%"
+      ],
+      "last_success_at": "2026-10-05T12:42:23Z",
+      "last_observed_at": "2026-10-05T12:42:23Z",
       "consecutive_failures": 0
     }
   ],
   "warnings": [
+    "https://news.google.com/rss/search?q=%28CBAM%20OR%20%22EU%20ETS%22%29%20steel%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28CBAM%20OR%20%22EU%20ETS%22%29%20s",
+    "https://news.google.com/rss/search?q=%22China%20steel%22%20%28tariff%20OR%20antidumping%20OR%20safeguard%20OR%20quota%29%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22China%20steel%22%20%28tariff%20OR",
+    "https://news.google.com/rss/search?q=%28Shougang%20OR%20Baowu%20OR%20Baosteel%20OR%20Ansteel%20OR%20HBIS%20OR%20Tsingshan%29%20steel%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28Shougang%20OR%20Baowu%20OR%20Baos",
+    "https://news.google.com/rss/search?q=%28钢铁%20OR%20首钢%20OR%20宝武%29%20%28出口%20OR%20关税%20OR%20反倾销%20OR%20CBAM%29%20when%3A7d&hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans: HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%E9%92%A2%E9%93%81%20OR%20%E9%A6%",
     "20 条译文未通过完整性检查，保留原文待重试。"
   ]
 }
