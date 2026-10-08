@@ -1444,5 +1444,125 @@
     "tags_en": [],
     "evidence_url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview/uk-emissions-trading-scheme-uk-ets-a-policy-overview",
     "coverage": "已核对集合页更新说明、正文制度概览、咨询及国际合作段落；未核对所链接各项咨询全文。"
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/07/17/2026-14417/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-final-results-of",
+    "published_date": "2026-07-17",
+    "reviewed_at": "2026-10-08",
+    "title_zh": "美国螺纹杆复审终裁：三组中国出口商适用0.74%倾销幅度",
+    "title_en": "US threaded rod final review: 0.74% for reviewed separate-rate exporters",
+    "summary_zh": "A-570-104终裁覆盖2024年4月1日至2025年3月31日。宁波定拓/宁波金鼎作为单一实体、宁波东信及浙江君悦均为0.74%；未获单独税率的中国全国实体维持48.91%。自2026年7月17日公布起，所列企业保证金为0.74%，其他已获单独税率企业延续各自既有税率；历史进口清算按进口商特定核定税率办理。",
+    "summary_en": "For the April 2024–March 2025 review, Jinding/Dingtuo, Dongxin and Junyue receive 0.74%; the China-wide rate remains 48.91%. Listed firms' deposits apply from 17 July. Historical assessment can be importer-specific.",
+    "impact_zh": "这是终裁，不是所有中国螺纹杆统一降税。出口商与进口商应核对企业英文名称、案号及报关对应关系，分别确认新保证金与历史清算；报价还须核对其他适用税费。",
+    "impact_en": "Match exporter identities, case numbers and entries. Distinguish future deposits from historical assessment and verify other applicable duties.",
+    "category": "贸易救济",
+    "status": "终裁",
+    "importance": "高",
+    "tags": [
+      "反倾销",
+      "美国"
+    ],
+    "tags_en": [
+      "antidumping",
+      "US"
+    ],
+    "evidence_url": "https://federalregister.gov/documents/2026/07/17/2026-14417/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-final-results-of",
+    "coverage": "已核对Federal Register公告正文相关范围、结论和程序条款；未阅读另附ACCESS决定备忘录，完整产品范围及后续海关指令需单独核对。"
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/07/10/2026-13975/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-notice-of-court-decision",
+    "published_date": "2026-07-10",
+    "reviewed_at": "2026-10-08",
+    "title_zh": "美国钢制货架法院重审：南京东升旧复审幅度改为25%，现行保证金不变",
+    "title_en": "US steel racks court remand: Dongsheng historical margin 25%; current deposits unchanged",
+    "summary_zh": "A-570-088通知执行国际贸易法院2026年6月23日判决，将南京东升2021年9月1日至2022年8月31日复审幅度改为25.00%，适用日期为7月3日，公告7月10日发布。因后续复审已产生取代税率，本通知明确不改变现行保证金；相关旧进口清算仍受禁令、上诉及最终判决约束。",
+    "summary_en": "A court remand changes Dongsheng's September 2021–August 2022 margin to 25.00%, applicable 3 July. The 10 July notice expressly leaves current deposits unchanged because a subsequent review superseded the rate.",
+    "impact_zh": "涉及旧进口的企业应与律师核对禁令和退款/清算条件；不要用25%替换新订单保证金。这是特定企业及特定复审期的司法修订。",
+    "impact_en": "Check injunction and liquidation/refund eligibility for old entries; do not use 25% as the current shipment deposit.",
+    "category": "贸易救济",
+    "status": "司法修订",
+    "importance": "中",
+    "tags": [
+      "反倾销",
+      "美国"
+    ],
+    "tags_en": [
+      "antidumping",
+      "US"
+    ],
+    "evidence_url": "https://federalregister.gov/documents/2026/07/10/2026-13975/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-notice-of-court-decision",
+    "coverage": "已核对Federal Register公告正文相关范围、结论和程序条款；未阅读另附ACCESS决定备忘录，完整产品范围及后续海关指令需单独核对。"
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/07/06/2026-13607/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-initiation-of",
+    "published_date": "2026-07-06",
+    "reviewed_at": "2026-10-08",
+    "title_zh": "美国启动泰国耐腐蚀钢反规避调查，涉及中国原料加工后输美",
+    "title_en": "US opens country-wide circumvention inquiry into Thai CORE using Chinese components",
+    "summary_zh": "A-570-026/C-570-027自2026年7月6日启动全国性反规避调查，范围为使用中国原产组件在泰国完成加工、再出口美国的耐腐蚀钢产品。商务部将审查加工程度、投资、价值、采购及贸易变化；初步和最终决定计划分别在立案后150天、300天内作出，可延期。本公告维持已被暂停清算货物的相应安排，并非对全部泰国货物作出规避终裁。",
+    "summary_en": "The 6 July country-wide inquiry covers Thai-finished CORE using Chinese components. Commerce plans preliminary and final decisions within 150 and 300 days, subject to extension. Initiation is not a final finding covering all Thai shipments.",
+    "impact_zh": "中国原料供应商和泰国加工商应保存炉号、投入产出、加工成本、投资与销售链资料并及时应诉。需按货物与现有清算状态评估风险，不能仅凭立案推导统一税额。",
+    "impact_en": "Preserve input traceability, processing costs, investment and sales-chain records; assess shipment-specific exposure rather than assuming a uniform new duty.",
+    "category": "贸易救济",
+    "status": "立案调查",
+    "importance": "高",
+    "tags": [
+      "反倾销",
+      "美国"
+    ],
+    "tags_en": [
+      "antidumping",
+      "US"
+    ],
+    "evidence_url": "https://federalregister.gov/documents/2026/07/06/2026-13607/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-initiation-of",
+    "coverage": "已核对Federal Register公告正文相关范围、结论和程序条款；未阅读另附ACCESS决定备忘录，完整产品范围及后续海关指令需单独核对。"
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/09/15/2026-18791/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-final-results-and",
+    "published_date": "2026-09-15",
+    "reviewed_at": "2026-10-08",
+    "title_zh": "美国钢制货架复审终裁：Nova及JISE为10.34%，Urgo适用全国实体税率",
+    "title_en": "US steel racks final review: Nova and JISE 10.34%; Urgo in China-wide entity",
+    "summary_zh": "A-570-088的2023年9月1日至2024年8月31日复审终裁于2026年9月15日发布。江苏Nova/南京金时代/河北Nova单一实体及江苏JISE的倾销幅度为10.34%；Urgo不获单独税率，适用144.50%全国实体税率。公告日起所列企业保证金采用对应幅度，其他企业按既有单独或全国实体规则；Nova历史进口适用进口商特定清算税率。",
+    "summary_en": "For September 2023–August 2024, Nova's three-company entity and JISE receive 10.34%; Urgo is subject to the 144.50% China-wide rate. Listed deposits apply from 15 September; Nova historical assessment is importer-specific.",
+    "impact_zh": "核对企业名称与报关案号，更新对应保证金报价依据，并检查历史进口清算及诉讼禁令。10.34%不能推广到全部中国货架，也不等于最终全部进口税负。",
+    "impact_en": "Update company-specific deposit assumptions and check historical liquidation; 10.34% is neither universal nor the total import tax burden.",
+    "category": "贸易救济",
+    "status": "终裁",
+    "importance": "高",
+    "tags": [
+      "反倾销",
+      "美国"
+    ],
+    "tags_en": [
+      "antidumping",
+      "US"
+    ],
+    "evidence_url": "https://federalregister.gov/documents/2026/09/15/2026-18791/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-final-results-and",
+    "coverage": "已核对Federal Register公告正文相关范围、结论和程序条款；未阅读另附ACCESS决定备忘录，完整产品范围及后续海关指令需单独核对。"
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/08/06/2026-16008/non-refillable-steel-cylinders-from-the-peoples-republic-of-china-preliminary-results-and-partial",
+    "published_date": "2026-08-06",
+    "reviewed_at": "2026-10-08",
+    "title_zh": "美国不可重复充装钢瓶复审初裁：武义西林德218.88%，尚非终裁保证金",
+    "title_en": "US non-refillable cylinder preliminary review: Wuyi Xilinde 218.88%, not a final deposit",
+    "summary_zh": "A-570-126初裁覆盖2024年5月1日至2025年4月30日，武义西林德倾销幅度暂定218.88%；全国实体112.21%未在本次复审中变更。因无可复审的暂停清算进口，宁波Eagle、Sanjiang Kai Yuan及浙江Kin-Shine的复审被撤销。产品为符合DOT39、TransportCanada39M或ISO11118要求的相关有缝钢瓶；完整范围见决定备忘录。终裁计划在8月6日公告后120天内发布，可延期。",
+    "summary_en": "The preliminary May 2024–April 2025 review assigns Xilinde 218.88%; the China-wide rate remains 112.21%. Three firms' reviews are rescinded for lack of reviewable suspended entries. Final results are planned within 120 days of 6 August, subject to extension.",
+    "impact_zh": "218.88%是初裁幅度，不能直接作为新终裁保证金。企业应跟进最终结果及延期，与进口商分开评估历史清算、现行保证金和其他税费；原定评论和听证申请窗口已过。",
+    "impact_en": "Track final results and extensions; separate historical assessment, current deposits and other duties. Original comment/hearing windows have passed.",
+    "category": "贸易救济",
+    "status": "初裁",
+    "importance": "高",
+    "tags": [
+      "反倾销",
+      "美国"
+    ],
+    "tags_en": [
+      "antidumping",
+      "US"
+    ],
+    "evidence_url": "https://federalregister.gov/documents/2026/08/06/2026-16008/non-refillable-steel-cylinders-from-the-peoples-republic-of-china-preliminary-results-and-partial",
+    "coverage": "已核对Federal Register公告正文相关范围、结论和程序条款；未阅读另附ACCESS决定备忘录，完整产品范围及后续海关指令需单独核对。"
   }
 ]
