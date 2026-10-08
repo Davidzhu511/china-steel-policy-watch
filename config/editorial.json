@@ -1564,5 +1564,95 @@
     ],
     "evidence_url": "https://federalregister.gov/documents/2026/08/06/2026-16008/non-refillable-steel-cylinders-from-the-peoples-republic-of-china-preliminary-results-and-partial",
     "coverage": "已核对Federal Register公告正文相关范围、结论和程序条款；未阅读另附ACCESS决定备忘录，完整产品范围及后续海关指令需单独核对。"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601785",
+    "published_date": "2026-07-24",
+    "reviewed_at": "2026-10-08",
+    "category": "法规与正式文件",
+    "tags": [],
+    "tags_en": [],
+    "title_zh": "欧盟2026/1785：浙江Yitai获紧固件新出口生产商待遇，税率39.6%",
+    "title_en": "EU 2026/1785: Zhejiang Yitai receives new-exporter treatment at 39.6%",
+    "summary_zh": "7月24日公布的实施条例(EU)2026/1785将Zhejiang Yitai Mechanical Technology Co., Ltd列入2022/191未抽样合作企业名单，TARIC附加代码88ES，反倾销税率39.6%，公布翌日生效。申请满足原调查期2019年7月1日至2020年6月30日未对欧出口、无相关受措施企业关联、调查期后实际出口三项条件；不是取消中国紧固件整体反倾销税。",
+    "summary_en": "Published 24 July and effective the next day, Regulation 2026/1785 adds Zhejiang Yitai to the non-sampled cooperating fastener producers at 39.6%, TARIC code 88ES. It is company-specific new-exporter treatment.",
+    "impact_zh": "该企业及进口商应核对英文法人名称、88ES与商业发票要求。其他新出口企业可评估资格证据，但不得套用他人附加代码或39.6%税率。",
+    "impact_en": "Match the legal producer identity, 88ES and invoice requirements; other exporters cannot use this company's code or rate.",
+    "importance": "高",
+    "status": "已生效",
+    "evidence_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1785/oj/eng",
+    "coverage": "已核对2026/1785条例正文；完整产品范围及发票条件仍按其引用的2022/191及后续修订核对。"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1457/oj/eng",
+    "published_date": "2026-06-30",
+    "reviewed_at": "2026-10-08",
+    "category": "法规与正式文件",
+    "tags": [],
+    "tags_en": [],
+    "title_zh": "欧盟2026/1457：钢铁配额按国家和季度分配，现行实施期至12月31日",
+    "title_en": "EU 2026/1457 distributes steel quotas by origin and quarter through 31 December",
+    "summary_zh": "实施条例(EU)2026/1457自7月1日至12月31日适用，落实2026/1384的26类钢材配额。普通最惠国部分与FTA部分资格不同，中国不得因转运取得FTA资格；先到先得、非优惠原产地规则适用。附件例：中国3B类非取向电工钢CN72251990/72261980年度47,351.25吨、每季11,837.81吨，配额号09.9828；表列超配额附加税50%。此数为法规分配量，非实时余额。",
+    "summary_en": "Regulation 2026/1457 applies July–December 2026 with origin-specific MFN/FTA quotas and first-come-first-served access. China's category 3B allocation is 47,351.25 tonnes annually and 11,837.81 quarterly, order 09.9828; the listed out-of-quota duty is 50%, not a live balance.",
+    "impact_zh": "输欧订单应逐项匹配CN、原产地、配额号及报关时余额，区分中国专属与剩余配额；合同约定超配额风险。12月底前跟进替代实施条例，不能把本条例自动延续到2027年。",
+    "impact_en": "Match CN, origin and order numbers to live customs balances; allocate quota risk contractually and track replacement rules before year-end.",
+    "importance": "重大",
+    "status": "已生效",
+    "evidence_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/1457/oj/eng",
+    "coverage": "已核对正文第1–6条、附件表头和中国3B类别；未逐行核算全部类别及实时配额余额，2026/1384主条例正文遇访问验证墙。",
+    "follow_up": {
+      "due_at": "2026-12-15T00:00:00Z",
+      "zh": "跟进2027年配额分配实施条例；本条例适用期截至2026-12-31。",
+      "en": "Track the successor quota-distribution act before the current act expires on 31 December."
+    }
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/08/03/2026-15646/certain-seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-china-institution-of",
+    "published_date": "2026-08-03",
+    "reviewed_at": "2026-10-08",
+    "category": "法规与正式文件",
+    "tags": [],
+    "tags_en": [],
+    "title_zh": "美国中国无缝钢管第三次日落复审：10月16日可提交答复充分性评论",
+    "title_en": "US seamless pipe sunset reviews: adequacy comments due 16 October",
+    "summary_zh": "USITC于8月3日启动701-TA-469/731-TA-1168第三次五年复审，判断撤销中国无缝碳钢和合金钢标准管、管线管及压力管双反令是否会导致损害继续或再现。答复截止9月2日已过；答复充分性评论截止10月16日。原产品界定涉及外径不超过16英寸的相关无缝管，完整范围以商务部命令为准；本通知不是撤销令或新税率终裁。",
+    "summary_en": "USITC instituted third sunset reviews 701-TA-469/731-TA-1168 on 3 August. Responses were due 2 September; adequacy comments are due 16 October. This is an injury-review initiation, not revocation or a new duty rate.",
+    "impact_zh": "相关出口商和进口商应立即与案件律师核对是否具备评论资格及EDIS提交要求，在10月16日前处理充分性意见；不能因启动日落复审认定现行措施失效。",
+    "impact_en": "Check eligibility and EDIS requirements with counsel before 16 October; initiation does not mean existing orders have expired.",
+    "importance": "高",
+    "status": "复审中",
+    "evidence_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15646/certain-seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-china-institution-of",
+    "coverage": "已核对USITC立案公告的范围、日期、参与程序；未核对EDIS案件后续修改或企业已提交答复。",
+    "follow_up": {
+      "due_at": "2026-10-16T00:00:00Z",
+      "zh": "答复充分性评论截止日；具体提交时刻及资格请核对EDIS及律师通知。",
+      "en": "Adequacy-comment deadline; confirm filing time and eligibility in EDIS."
+    }
+  },
+  {
+    "url": "https://gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
+    "published_date": "2026-10-01",
+    "reviewed_at": "2026-10-08",
+    "title_zh": "英国10月1日钢铁新规修订：两项非合金钢丝税号移出措施范围",
+    "title_en": "UK 1 October steel-measure amendment excludes two non-alloy wire codes",
+    "summary_zh": "英国官方页面10月1日更新，移除非合金钢丝税号72173049、72173090，将这两项措施税率从50%降至0%，第28类配额量不变。其余7月1日起执行的20类钢材制度总体配额较旧保障措施减少51%，超配额税率50%；旧25%保障措施于6月30日停止。第1类热轧板带还有授权用途安排，乌克兰原产货物适用单独优惠条件。",
+    "summary_en": "The 1 October update removes wire codes 72173049 and 72173090, reducing their measure rate from 50% to 0% without changing category 28 quotas. The July regime otherwise reduces overall quotas by 51% with a 50% out-of-quota tariff across 20 categories. Category 1 has authorised-use arrangements; Ukraine has separate origin-conditioned preferences.",
+    "impact_zh": "钢丝出口商应立即核对归类与新报价；移出本措施不等于免除所有其他关税或贸易救济。其他钢材订单须核对配额、原产地和授权用途，尤其热轧第1类，不能直接套用旧25%费率。本研判仅适用10月1日版本，旧7月2日记录不套用新版结论。",
+    "impact_en": "Wire exporters should check classification and quotations immediately. Exclusion does not remove other applicable duties. Other shipments require quota, origin and authorised-use checks. This brief applies only to the 1 October revision.",
+    "category": "法规与正式文件",
+    "status": "已生效",
+    "importance": "重大",
+    "tags": [
+      "英国",
+      "配额",
+      "钢丝"
+    ],
+    "tags_en": [
+      "UK",
+      "quotas",
+      "wire"
+    ],
+    "evidence_url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
+    "coverage": "已核对官方说明的10月1日修订、产品范围及配额表；未逐项核算20类报关税负，实时余额须以英国海关为准。"
   }
 ]
