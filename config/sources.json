@@ -246,6 +246,26 @@
           "include_paths": [
             "/press-releases/"
           ]
+        },
+        {
+          "name": "GOV.UK · Steel trade measure",
+          "url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
+          "country": "英国",
+          "region": "欧洲",
+          "language": "en",
+          "emit_self": true,
+          "self_title": "UK's steel trade measure from 1 July 2026",
+          "allowed_domains": [
+            "gov.uk"
+          ],
+          "match_terms": [
+            "steel trade measure"
+          ],
+          "match_in_title": true,
+          "max_items": 1,
+          "include_paths": [
+            "/government/publications/uks-steel-trade-measure-from-1-july-2026/"
+          ]
         }
       ]
     },
