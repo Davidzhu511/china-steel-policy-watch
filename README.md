@@ -114,3 +114,9 @@ tests/                    离线单元测试
 ## 许可与声明
 
 代码采用 MIT License。机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。
+
+## 积压处理与核验范围
+
+`config/triage.json` 保存按原文URL和发布日期限定的处理结论：`duplicate` 合并到已核验主条目，`excluded` 排除无关内容，`blocked` 保留原文访问或证据不足的原因。重复与排除记录保留在完整数据归档，退出最新列表与RSS；重复主条目缺失或未核验时仍作为待核验处理。来源出现新日期版本时旧处理结论失效，不把旧研判或旧排除结论应用到新版本。
+
+`pending_analysis` 统计未有 `source_checked` 的有效条目；`pending_translation` 单列译文未完成数量，机器译文和模型摘要均不代表原文已核验。`verified_items`、`blocked_items`、`active_items` 与 `archived_items` 分列记录，网页展示核验范围、证据链接、核验日期及访问阻塞原因。限定摘要核验、企业公告、行业观点与完整法规核验应在 `coverage` 和正文中明确区分。

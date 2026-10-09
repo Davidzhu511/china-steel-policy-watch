@@ -101,7 +101,7 @@
     followUp: "待跟进", due: "节点", overdue: "已到节点 · 待核对", related: "同题来源",
     analysisOff: "自动摘要未启用；原文采集正常，已核对条目提供中文解读。",
     analysisError: "自动摘要暂不可用；原文照常收录。", analysisOk: "自动摘要已启用。",
-    pendingCount: ({count}) => `${count} 条待补充解读`, sourcePartial: "部分渠道异常 · 其余正常",
+    pendingCount: ({count}) => `${count} 条待原文核验`, sourcePartial: "部分渠道异常 · 其余正常",
     machineCount: ({count}) => `${count} 条已附机器译文；业务影响仍待核对。`,
     sourceZero: "运行正常 · 本次无命中", monitorPending: "采集正常 · 摘要待补充",
     pendingCopy: "标题与来源已收录，中文解读待补充。可展开摘录或打开原文。",
@@ -121,7 +121,7 @@
     followUp: "Follow-up", due: "Due", overdue: "Date reached · check outcome", related: "Related source",
     analysisOff: "Automatic briefs are not configured. Source collection continues; checked items have bilingual briefs.",
     analysisError: "Automatic briefs are unavailable. Source collection continues.", analysisOk: "Automatic briefs enabled.",
-    pendingCount: ({count}) => `${count} briefs pending`, sourcePartial: "Some channels failed; others active",
+    pendingCount: ({count}) => `${count} source reviews pending`, sourcePartial: "Some channels failed; others active",
     machineCount: ({count}) => `${count} items have machine translations; business impact still needs review.`,
     sourceZero: "Operating normally · no matches this run", monitorPending: "Collection active · briefs pending",
     pendingCopy: "Title and source collected. Analysis is pending; expand the excerpt or open the original.",
@@ -324,7 +324,7 @@
       return;
     }
     const partial = !state.status.run_ok || (state.status.sources || []).some((source) => !source.ok || source.warnings?.length);
-    const pending = state.status.analysis_status !== "available" && state.status.pending_analysis > 0;
+    const pending = state.status.pending_analysis > 0;
     elements.live.classList.toggle("ok", !partial && !pending);
     elements.live.classList.toggle("error", partial);
     elements.live.innerHTML = `<i></i><span>${escapeHtml(t(partial ? "monitorPartial" : pending ? "monitorPending" : "monitorOk"))}</span>`;
@@ -454,6 +454,8 @@
       <h3>${escapeHtml(itemTitle(item))}</h3>
       <p class="card-summary">${escapeHtml(itemSummary(item))}</p>
       ${item.translation_state === "complete" ? `<p class="card-impact"><b>${escapeHtml(t("impactPrefix"))}</b>${escapeHtml(itemImpact(item))}</p>` : ""}
+      ${item.review_method === "source_checked" ? `<p class="card-evidence"><b>${state.lang === "zh" ? "核验范围：" : "Coverage: "}</b>${escapeHtml(typeof item.coverage === "object" ? (item.coverage[state.lang] || item.coverage.zh || "") : (item.coverage || (state.lang === "zh" ? "未注明，请核对原文" : "Not specified; check the source")))} · ${escapeHtml(item.reviewed_at || "")} ${item.evidence_url ? `<a href="${safeUrl(item.evidence_url)}" target="_blank" rel="noopener noreferrer">${state.lang === "zh" ? "证据原文" : "Evidence"}</a>` : ""}</p>` : ""}
+      ${item.review_note_zh ? `<p class="card-evidence"><b>${state.lang === "zh" ? "待核验原因：" : "Review blocker: "}</b>${escapeHtml(state.lang === "en" ? (item.review_note_en || item.review_note_zh) : item.review_note_zh)} · ${escapeHtml(item.review_attempted_at || "")}</p>` : ""}
       ${followUp(item)}
       ${item.source_excerpt ? `<details class="source-excerpt"><summary>${escapeHtml(t("excerpt"))}</summary><p>${escapeHtml(item.source_excerpt)}</p></details>` : ""}
       ${(item.related_sources || []).map((source) => `<a class="related-source" href="${safeUrl(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(t("related"))}: ${escapeHtml(source.name)}</a>`).join("")}
@@ -568,7 +570,7 @@
       const payload = await itemsResponse.json();
       state.status = await statusResponse.json();
       state.generatedAt = payload.generated_at;
-      state.items = payload.items || [];
+      state.items = (payload.items || []).filter((item) => !["excluded", "duplicate"].includes(item.review_disposition));
       rebuildFilterOptions(); renderAll();
     } catch (error) {
       elements.live.classList.add("error"); elements.live.innerHTML = `<i></i><span>${escapeHtml(t("loadFailed"))}</span>`;

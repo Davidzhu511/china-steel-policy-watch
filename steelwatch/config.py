@@ -16,4 +16,7 @@ def load_config(path: str | Path | None = None) -> dict[str, Any]:
     editorial = config_path.with_name("editorial.json")
     if editorial.exists():
         config["editorial"] = json.loads(editorial.read_text(encoding="utf-8"))
+    triage = config_path.with_name("triage.json")
+    if triage.exists():
+        config["triage"] = json.loads(triage.read_text(encoding="utf-8"))
     return config

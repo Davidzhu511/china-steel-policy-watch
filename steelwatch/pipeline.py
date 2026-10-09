@@ -180,6 +180,46 @@ def _apply_editorial(items: list[dict[str, Any]], config: dict[str, Any]) -> Non
                     reviewed_at=review["reviewed_at"])
 
 
+def _apply_triage(items: list[dict[str, Any]], config: dict[str, Any]) -> None:
+    """Persist exact-version dispositions without treating blocked sources as reviews."""
+    rows = {(canonical_url(row["url"]), row["published_date"]): row
+            for row in config.get("triage", [])}
+    by_url = {canonical_url(item["url"]): item for item in items}
+    for item in items:
+        for key in ("review_disposition", "review_note_zh", "review_note_en",
+                    "review_attempted_at", "duplicate_of"):
+            item.pop(key, None)
+        row = rows.get((canonical_url(item["url"]), item["published_at"][:10]))
+        if not row or item.get("review_method") == "source_checked":
+            continue
+        decision = row.get("decision")
+        if decision not in {"duplicate", "excluded", "blocked"}:
+            continue
+        target = by_url.get(canonical_url(row.get("duplicate_of", "")))
+        if decision == "duplicate" and (not target or target is item
+                or target.get("review_method") != "source_checked"):
+            decision = "blocked"
+        item.update(review_disposition=decision, review_note_zh=row.get("reason_zh", ""),
+                    review_note_en=row.get("reason_en", ""),
+                    review_attempted_at=row.get("attempted_at", ""))
+        if decision == "duplicate":
+            item["duplicate_of"] = target["url"]
+            links = target.setdefault("related_sources", [])
+            if not any(link["url"] == item["url"] for link in links):
+                links.append({"name": item.get("source", {}).get("name", ""), "url": item["url"]})
+
+
+def _review_counts(items: list[dict[str, Any]]) -> dict[str, int]:
+    active = [item for item in items if item.get("review_disposition") not in {"excluded", "duplicate"}]
+    return {
+        "active_items": len(active), "archived_items": len(items) - len(active),
+        "verified_items": sum(item.get("review_method") == "source_checked" for item in active),
+        "pending_analysis": sum(item.get("review_method") != "source_checked" for item in active),
+        "pending_translation": sum(item.get("translation_state") != "complete" for item in active),
+        "blocked_items": sum(item.get("review_disposition") == "blocked" for item in active),
+    }
+
+
 def _deduplicate_history(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     """Collapse identical syndicated headlines while retaining all original links."""
     ordered = sorted(items, key=lambda row: (
@@ -349,6 +389,9 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
         if parse_datetime(item.get("published_at") or item.get("first_seen")) >= cutoff
         and (
             item.get("translation_state") == "complete"
+            or any(canonical_url(row["url"]) == canonical_url(item["url"])
+                   and row["published_date"] == item["published_at"][:10]
+                   for row in config.get("triage", []))
             or not re.search(
                 r"\b(?:alumini?um|fertili[sz]ers?|cement|hydrogen|airlines?|aviation|"
                 r"aircraft|overvalued|undervalued|stock holds)\b",
@@ -364,8 +407,10 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
             item["source_excerpt"] = ""
             item.pop("machine_translation", None)
     _apply_editorial(retained, config)
+    _apply_triage(retained, config)
     retained = _deduplicate_history(retained)
-    translation = translate_pending(retained, settings, previous_by_id)
+    active = [item for item in retained if item.get("review_disposition") not in {"excluded", "duplicate"}]
+    translation = translate_pending(active, settings, previous_by_id)
     warnings.extend(translation["warnings"])
     for item in retained:
         item.pop("priority_signal", None)
@@ -404,9 +449,12 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
         "analysis_status": "unconfigured" if not enricher.available else (
             "degraded" if model_warnings else "available"
         ),
-        "pending_analysis": sum(item.get("translation_state") != "complete" for item in retained),
+        **_review_counts(retained),
         "offline_translation": translation,
-        "machine_translated_items": sum(bool(item.get("machine_translation")) for item in retained),
+        "machine_translated_items": sum(
+            bool(item.get("machine_translation")) and item.get("review_method") != "source_checked"
+            for item in active
+        ),
         "collected_items": len(raw_items),
         "processed_items": len(candidates),
         "deferred_items": max(0, len(raw_items) - len(observed_existing_ids) - len(candidates)),
