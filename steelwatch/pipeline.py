@@ -451,7 +451,10 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
         ),
         **_review_counts(retained),
         "offline_translation": translation,
-        "machine_translated_items": sum(bool(item.get("machine_translation")) for item in retained),
+        "machine_translated_items": sum(
+            bool(item.get("machine_translation")) and item.get("review_method") != "source_checked"
+            for item in active
+        ),
         "collected_items": len(raw_items),
         "processed_items": len(candidates),
         "deferred_items": max(0, len(raw_items) - len(observed_existing_ids) - len(candidates)),
