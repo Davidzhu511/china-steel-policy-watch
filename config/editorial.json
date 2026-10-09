@@ -2672,5 +2672,93 @@
     ],
     "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14172",
     "coverage": "核读官方API dossierSummary和publications；未核读采纳指令与附件全文，仅完成摘要和程序核验。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnh6bzZTc1B2ZTRPa2RlQ0dCMzg0SVNCbjRYQVViQ0Q5YjZXN1IwOFFmamZtTHFwR2RDd2xfLWsydUZQM0ZHX1p2bndBX1hOZEhqQ093ZmVjSEhnZTVUMDZrdktsVDhJNDdlTUZ0UHhvak1OcVBKb3pZeE5udjJhVHZZNUFqbUwxdWc0dHMzSklPdmZESkNNZktwOXVJWXlPcXM1UDF3enVpVE4tUTdvOQ?oc=5",
+    "published_date": "2026-10-02",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "LNG Canada二期获投资决定；媒体报道采用中国钢结构",
+    "title_en": "LNG Canada approves Phase 2; media reports Chinese steel modules",
+    "summary_zh": "项目方9月28日确认二期最终投资决定，新增两条液化生产线，将年产能从1400万吨增至2800万吨。10月2日媒体报道项目采用中国制造模块，并提及COOEC；报道中的330亿加元是扩建项目规模，不是钢材订单金额。项目方公告未确认具体中国钢材订单或关税豁免。",
+    "summary_en": "The project confirms two additional trains and capacity rising from 14 to 28 Mtpa. Media reports Chinese modules; CAD33 billion refers to the expansion, not steel orders. Procurement and duty relief are not confirmed by the project release.",
+    "impact_zh": "关注EPC采购及模块供应商准入、钢材规格和交付窗口。报价前单独核实加拿大税目、原产地与减免资格，不能据媒体报道认定免税。",
+    "impact_en": "Monitor EPC procurement and module qualification. Verify Canadian classification, origin and remission eligibility before quoting.",
+    "evidence_url": "https://energynewsbeat.co/energy-crisis/lng-canada-to-use-chinese-steel-on-33b-expansion-project-in-kitmat-b-c/",
+    "category": "市场与产能",
+    "status": "项目投资决定/媒体报道",
+    "importance": "中",
+    "coverage": "已阅读全文并核读项目方9月28日FID公告：https://www.lngcanada.ca/news/lng-canada-announces-phase-2-final-investment-decision/ 。中国供应商及税收安排仅见媒体，未获官方采购或海关文件确认。",
+    "tags": [
+      "钢铁"
+    ],
+    "tags_en": [
+      "Steel"
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQQ1pCN1dHZzFnU2xaVTllc3ZpaE9LRWJlSU1POHZhNXg5VEhBMzQ5RXEwNDZ6bm5ndUxmWGZaQVZxelFoSG5ieFVKRmVnQTA0VnhoU3UyNGJRVTk3SHBLdUpBeDNQNFNoeFNGS3pMNHhlY25CZER2WXpldDRqUzdYS25kbVh2dFNzVkgxZVE2NVZ5S3F1R0hrU19ZVWt6RElUc2lEV0pINlJKMmRJcDdBRVB0WWtoQ2tfNWg5TEJ5dFkyU1M2RWZBMWN0d0MyejdrSTlrV3B5WWtUbUJLZ3pXU3cwN2JzbDNxOWRBa29BS1NrZ1gyRk9DdWxISjNGbGN5?oc=5",
+    "published_date": "2026-10-01",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "SMM测算印尼304冷轧不锈钢CBAM约626欧元/吨：仅为特定假设情景",
+    "title_en": "SMM models a €626/t CBAM scenario for Indonesian 304 CRC",
+    "summary_zh": "SMM于10月1日推出测算工具。示例为CN 72193310的印尼304冷轧不锈钢，采用第二季度75.28欧元/吨CO₂价格，以含10%加成的9.559吨CO₂/吨默认排放量减去1.238吨调整量，得到约8.32张凭证、626欧元/吨。该数字是媒体模型示例，不是所有钢厂的应缴税额，也不是当前季度价格。",
+    "summary_en": "SMM's CN72193310 scenario uses the Q2 €75.28/tCO₂ price, 9.559 tCO₂/t default emissions including a 10% uplift and a 1.238-t adjustment, yielding about 8.32 certificates or €626/t. It is a model scenario, not a universal liability or current-quarter price.",
+    "impact_zh": "用进口季度、产品编码、实际或默认排放、工艺路线与对应基准重新核算；默认值及调整参数仍须核对正式附件。反倾销、反补贴与配额税负分别核实，不能直接套用626欧元报价。",
+    "impact_en": "Recalculate using the import quarter, classification, verified emissions and applicable benchmarks. Verify legal annex parameters and other trade remedies separately.",
+    "evidence_url": "https://news.metal.com/ko/newscontent/104143290-smm-analysis-smm-launches-stainless-steel-cbam-calculator-indonesian-304-crc-carries-a-%E2%82%AC626mt-cbam-bill-into-the-eu",
+    "category": "碳与环保",
+    "status": "媒体测算",
+    "importance": "中",
+    "coverage": "已核读SMM发布的韩文正文及模型假设；未独立审计计算器或核实所引用法规附件全部默认值，仅完成报道与情景解读。",
+    "tags": [
+      "钢铁"
+    ],
+    "tags_en": [
+      "Steel"
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kZWs0bjhKbnJyTW5VZzVTaVNjWUIwQkZNQ3dPMjE1ZzdDN0Z6QWhiWnBmeEFXUlR4VWVaLXk5TExjVFZvLXpCSTZtUFY5V0x2ZjF4Mk90OExhS3p0TEJmZnA0dTlGNGVMX3VrV2VOVVdrZw?oc=5",
+    "published_date": "2026-09-29",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "马林斯访谈：以排放数据和贸易协作应对CBAM挑战",
+    "title_en": "Mullins interview advocates emissions evidence and trade cooperation",
+    "summary_zh": "《中国冶金报》访谈由Mysteel于9月29日转载。马林斯认为库存缓冲使CBAM影响尚未完全释放，并建议中国钢厂完善排放证明、加强与欧洲客户和政策机构对话。文章涉及下游产品扩围谈判；访谈意见及议会谈判立场不能等同最终生效法规或确定税额。",
+    "summary_en": "A China Metallurgical News interview republished by Mysteel says inventories cushion CBAM effects and recommends credible emissions documentation and dialogue. Interview views and negotiating positions do not establish final downstream coverage or tax liabilities.",
+    "impact_zh": "保留设施、工艺及产品排放证据，向进口商核查核验要求；海外建厂必须单独评估真实熔炼浇铸地及原产地规则。扩围范围与日期以最终法规为准。",
+    "impact_en": "Prepare facility, process and product emissions evidence. Assess overseas production and origin rules separately; rely on final legislation for scope and timing.",
+    "evidence_url": "https://news.mysteel.com/a/26092917/49EBA2682E600391.html",
+    "category": "碳与环保",
+    "status": "行业访谈",
+    "importance": "中",
+    "coverage": "已核读Mysteel转载的访谈正文；未独立验证受访者统计或文中全部法规陈述，仅核验观点来源并区分谈判与正式规则。",
+    "tags": [
+      "钢铁"
+    ],
+    "tags_en": [
+      "Steel"
+    ]
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYTA0bUlRLWIxTzlOR1BxbFZaN095QjM1Nm1JQ25BdFV5WHNiMzBaOXNvdGFkT0VjWjVqb1lHa2wzUm5OWjJqWVFKUUMzMi1WZXB2eklSVG9RNUxxSUV2YmEzLWx2MlFTM3hLYzNibW4wUFJPNEpieWVEV0JJR0xmVVhMMXR3QkZoalB2cmktQkEwZHAtc2dwQi1EQWhEMkNB?oc=5",
+    "published_date": "2026-09-23",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "AISI致函特朗普：要求对华施压并维持钢铁贸易限制",
+    "title_en": "AISI urges pressure on China and continued steel trade restrictions",
+    "summary_zh": "美国钢铁协会9月22日致总统的两页信函，要求在对华接触中关注钢铁过剩产能及补贴，维持232条款与301条款措施，并主张任何新增产能相关301关税叠加现有措施。9月23日新闻报道源于该信。这是行业游说诉求，未宣布新关税或生效日。",
+    "summary_en": "AISI's two-page 22 September letter urges action on Chinese steel capacity and subsidies, retention of Section232 and Section301 measures, and stacking any proposed new capacity-related Section301 tariffs. It is industry advocacy, not an enacted tariff.",
+    "impact_zh": "监测USTR、商务部及Federal Register正式行动；对美报价仍依据现行适用税目、原产地和豁免文件。关注间接贸易和客户采购调整，但不能按协会请求预设新增税率。",
+    "impact_en": "Monitor USTR, Commerce and Federal Register actions. Quote against applicable enacted measures; do not assume a new rate from an association request.",
+    "evidence_url": "https://www.steel.org/aisi-letter-to-president-trump-092226/",
+    "category": "贸易救济",
+    "status": "行业倡议",
+    "importance": "高",
+    "coverage": "已核读AISI9月22日信函两页全文；协会诉求有原文依据，未将其视为政府决定，未独立审计信中产能统计。",
+    "tags": [
+      "钢铁"
+    ],
+    "tags_en": [
+      "Steel"
+    ]
   }
 ]
