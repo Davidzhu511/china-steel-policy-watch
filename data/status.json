@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T07:14:21Z",
+  "generated_at": "2026-10-09T07:19:44Z",
   "run_ok": true,
   "model": "gpt-4.1-mini",
   "translation_available": false,
@@ -15,9 +15,9 @@
   },
   "machine_translated_items": 69,
   "collected_items": 69,
-  "processed_items": 31,
+  "processed_items": 24,
   "deferred_items": 0,
-  "new_items": 1,
+  "new_items": 0,
   "total_items": 176,
   "source_success": 6,
   "source_total": 6,
@@ -28,10 +28,10 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 7494,
+      "duration_ms": 7964,
       "warnings": [],
-      "last_success_at": "2026-10-09T07:14:21Z",
-      "last_observed_at": "2026-10-09T07:14:21Z",
+      "last_success_at": "2026-10-09T07:19:44Z",
+      "last_observed_at": "2026-10-09T07:19:44Z",
       "consecutive_failures": 0
     },
     {
@@ -40,10 +40,10 @@
       "ok": true,
       "count": 22,
       "error": "",
-      "duration_ms": 2499,
+      "duration_ms": 3472,
       "warnings": [],
-      "last_success_at": "2026-10-09T07:14:21Z",
-      "last_observed_at": "2026-10-09T07:14:21Z",
+      "last_success_at": "2026-10-09T07:19:44Z",
+      "last_observed_at": "2026-10-09T07:19:44Z",
       "consecutive_failures": 0
     },
     {
@@ -52,9 +52,9 @@
       "ok": true,
       "count": 0,
       "error": "",
-      "duration_ms": 332,
+      "duration_ms": 886,
       "warnings": [],
-      "last_success_at": "2026-10-09T07:14:21Z",
+      "last_success_at": "2026-10-09T07:19:44Z",
       "last_observed_at": "2026-09-29T04:08:19Z",
       "consecutive_failures": 0
     },
@@ -64,10 +64,10 @@
       "ok": true,
       "count": 8,
       "error": "",
-      "duration_ms": 701,
+      "duration_ms": 458,
       "warnings": [],
-      "last_success_at": "2026-10-09T07:14:21Z",
-      "last_observed_at": "2026-10-09T07:14:21Z",
+      "last_success_at": "2026-10-09T07:19:44Z",
+      "last_observed_at": "2026-10-09T07:19:44Z",
       "consecutive_failures": 0
     },
     {
@@ -76,10 +76,10 @@
       "ok": true,
       "count": 4,
       "error": "",
-      "duration_ms": 3421,
+      "duration_ms": 6675,
       "warnings": [],
-      "last_success_at": "2026-10-09T07:14:21Z",
-      "last_observed_at": "2026-10-09T07:14:21Z",
+      "last_success_at": "2026-10-09T07:19:44Z",
+      "last_observed_at": "2026-10-09T07:19:44Z",
       "consecutive_failures": 0
     },
     {
@@ -88,10 +88,10 @@
       "ok": true,
       "count": 21,
       "error": "",
-      "duration_ms": 1771,
+      "duration_ms": 1900,
       "warnings": [],
-      "last_success_at": "2026-10-09T07:14:21Z",
-      "last_observed_at": "2026-10-09T07:14:21Z",
+      "last_success_at": "2026-10-09T07:19:44Z",
+      "last_observed_at": "2026-10-09T07:19:44Z",
       "consecutive_failures": 0
     }
   ],
