@@ -1654,5 +1654,341 @@
     ],
     "evidence_url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
     "coverage": "已核对官方说明的10月1日修订、产品范围及配额表；未逐项核算20类报关税负，实时余额须以英国海关为准。"
+  },
+  {
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14132-Sale-and-repurchase-of-CBAM-certificates_en",
+    "published_date": "2026-07-09",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "CBAM证书销售与回购草案：咨询已于8月6日结束",
+    "title_en": "CBAM certificate sale/repurchase draft: feedback closed 6 August",
+    "summary_zh": "7月9日发布的授权法规草案拟规定共同中央平台的证书销售与回购，包括时间、管理、收费结构及平台运行。官方API显示征求意见于2026年8月6日结束，当前记录未列采纳日期；不能由咨询关闭推断已生效。",
+    "summary_en": "The 9 July draft concerns certificate sale and repurchase via the common central platform, including administration and fees. Feedback closed 6 August; the API lists no adoption date.",
+    "impact_zh": "进口商应准备购证账户、现金流及内部审批；钢厂提供排放资料。平台收费和回购操作须按最终正式文本核对，不能依据倡议摘要确定成本。",
+    "impact_en": "Prepare importer cash-flow and account processes; verify final platform fees and repurchase rules in the adopted text.",
+    "category": "政策倡议与咨询",
+    "status": "草案咨询已结束",
+    "importance": "中",
+    "tags": [
+      "CBAM",
+      "欧盟"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EU"
+    ],
+    "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14132",
+    "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。"
+  },
+  {
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/17672-Ecodesign-requirements-for-iron-and-steel-products_en",
+    "published_date": "2026-05-20",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "欧盟钢铁生态设计倡议：低碳定义与循环性要求仍待正式文本",
+    "title_en": "EU steel ecodesign initiative: low-carbon definition and circularity rules pending",
+    "summary_zh": "5月20日发布的倡议拟定义低碳钢、提出钢铁产品可持续与循环设计要求，并改善相关信息获取，关联清洁工业协议、钢铁金属行动计划及工业加速器提案。已启动的公众咨询于8月12日结束；API仍标示后续草案阶段待启动，未列采纳日期。",
+    "summary_en": "The May initiative targets low-carbon steel definitions, sustainable/circular design and information disclosure. The launched consultation closed 12 August; later drafting stages remain upcoming in the API.",
+    "impact_zh": "钢厂可提前整理碳足迹、再生材料及产品可追溯性资料；不要把倡议当成已经确定的进口标准或采购门槛，具体产品和指标尚需正式文件。",
+    "impact_en": "Prepare footprint, recycled-input and traceability data; product scope and thresholds require the final instrument.",
+    "category": "政策倡议与咨询",
+    "status": "倡议阶段",
+    "importance": "高",
+    "tags": [
+      "CBAM",
+      "欧盟"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EU"
+    ],
+    "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/17672",
+    "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。"
+  },
+  {
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14830-Carbon-price-paid-in-a-third-country-under-the-carbon-border-adjustment-mechanism-CBAM_en",
+    "published_date": "2026-05-13",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "欧盟第三国碳价抵扣草案：按有效支付碳价并扣除补偿",
+    "title_en": "EU third-country carbon-price draft: effective payments net of compensation",
+    "summary_zh": "5月13日发布的实施法规草案拟将第三国对申报内含排放实际支付的碳价换算为CBAM证书数量，并考虑降低碳价的补偿。官方API显示咨询于6月10日结束，当前记录未列采纳日期。本摘要不提供适用国家名单或最终抵扣公式。",
+    "summary_en": "The 13 May draft would convert effective third-country carbon payments into certificates, accounting for compensation. Feedback closed 10 June; no adoption date is listed.",
+    "impact_zh": "中国钢厂应按装置留存碳成本付款、免费配额及返还资料，与进口商建立证据链；中国ETS市场报价不能自动视为全部可抵扣碳价。",
+    "impact_en": "Retain installation-specific payment, free-allocation and refund evidence; a quoted ETS price is not automatically fully deductible.",
+    "category": "政策倡议与咨询",
+    "status": "草案咨询已结束",
+    "importance": "高",
+    "tags": [
+      "CBAM",
+      "欧盟"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EU"
+    ],
+    "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14830",
+    "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。"
+  },
+  {
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16933-Rules-on-the-adjustment-of-CBAM-certificates-to-reflect-the-EU-ETS-free-allocation_en",
+    "published_date": "2026-02-19",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "CBAM免费配额调整倡议：拟对齐2026—2030年EU ETS基准",
+    "title_en": "CBAM free-allocation initiative aligns with 2026–2030 ETS benchmarks",
+    "summary_zh": "2月19日倡议拟把CBAM实施规则中的基准值与2026—2030年最终EU ETS基准对齐，使正式期调整一致反映免费配额规则。官方API当前已发布阶段为规划，草案反馈阶段待启动，未给新截止日期或采纳日期。",
+    "summary_en": "The 19 February initiative would align CBAM benchmark values with final 2026–2030 EU ETS benchmarks. The published stage is planning; no new feedback deadline or adoption date is listed.",
+    "impact_zh": "出口商应让测算模型中的排放强度、基准和免费配额调整分别可更新。此倡议不提供可直接使用的最终系数，报价需核对现行正式规则。",
+    "impact_en": "Keep emissions, benchmarks and allocation adjustments separately updateable; this initiative does not supply final quotation coefficients.",
+    "category": "政策倡议与咨询",
+    "status": "倡议阶段",
+    "importance": "高",
+    "tags": [
+      "CBAM",
+      "欧盟"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EU"
+    ],
+    "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/16933",
+    "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。"
+  },
+  {
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16932-CBAM-declarations_en",
+    "published_date": "2026-02-19",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "CBAM申报格式倡议：标准表格、登记册提交及证书清缴规则待细化",
+    "title_en": "CBAM declaration initiative: formats, registry submission and surrender",
+    "summary_zh": "2月19日倡议依据2023/956第6(6)条，拟规定CBAM申报标准格式、详细信息、经登记册提交程序及证书清缴安排。官方API已发布阶段为规划，后续草案阶段待启动，未列反馈截止或采纳日期。",
+    "summary_en": "The initiative under Article 6(6) would define declaration formats, required information, registry submission and surrender arrangements. It remains in a planning stage in the API.",
+    "impact_zh": "钢厂与进口商应统一货物、装置、排放和核验数据字段及责任分工；不能把未发布的格式或期限写入强制交付要求。",
+    "impact_en": "Align goods, installation, emissions and verification data responsibilities; do not invent unpublished mandatory formats or deadlines.",
+    "category": "政策倡议与咨询",
+    "status": "倡议阶段",
+    "importance": "高",
+    "tags": [
+      "CBAM",
+      "欧盟"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EU"
+    ],
+    "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/16932",
+    "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。"
+  },
+  {
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14759-Commission-Implementing-Regulation-for-goods-brought-to-the-exclusive-economic-zone-of-Member-States_en",
+    "published_date": "2025-11-30",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "CBAM专属经济区倡议记录：涉及第三国货物进入欧盟海域的适用条件",
+    "title_en": "CBAM EEZ initiative record: third-country goods entering EU offshore areas",
+    "summary_zh": "官方API列示相关法案采纳日期为2025年10月31日、倡议版本发布于11月30日。摘要覆盖2023/956附件I货物及其加工品进入成员国专属经济区或大陆架时的进口等效概念、申报义务和海关控制；此处仅核验倡议记录，不给出正式法规号或完整执行条款。",
+    "summary_en": "The API records adoption on 31 October 2025 and publication on 30 November. Its summary addresses Annex I goods and processed products entering an EU EEZ or continental shelf, declarations and customs controls.",
+    "impact_zh": "供应海上项目的钢材应核对项目位置、进口安排及正式法规，而不能因未进入陆地口岸就判断不适用CBAM。具体义务需逐项查最终文本。",
+    "impact_en": "For offshore steel deliveries, verify location, import arrangements and the adopted instrument; absence of a land-port entry is not sufficient to establish exemption.",
+    "category": "政策倡议与咨询",
+    "status": "已采纳记录 · 待核正式条文",
+    "importance": "中",
+    "tags": [
+      "CBAM",
+      "欧盟"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EU"
+    ],
+    "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14759",
+    "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。"
+  },
+  {
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14133-Conditions-for-granting-accreditation-for-CBAM-purposes_en",
+    "published_date": "2025-11-20",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "CBAM核验机构认可倡议：API列示2025年11月20日采纳",
+    "title_en": "CBAM verifier accreditation initiative: adoption recorded 20 November 2025",
+    "summary_zh": "倡议摘要涵盖国家认可机构授予CBAM核验资格、认可后的监督、撤销以及认可机构相互承认和同行评审。官方API列示2025年11月20日采纳并发布；本条只核验倡议摘要和程序信息，未核读认可条件附件。",
+    "summary_en": "The API records adoption/publication on 20 November 2025. The summary concerns accreditation, oversight, withdrawal, mutual recognition and peer evaluation; technical annexes are outside this review.",
+    "impact_zh": "钢厂采购核验服务时，应查有效认可范围和官方名录，不能把一般审计、咨询或预认证视为CBAM认可核验。合同中约定核验范围与责任。",
+    "impact_en": "Check accreditation scope and official registers; general audits or pre-certification do not establish CBAM verifier accreditation.",
+    "category": "政策倡议与咨询",
+    "status": "已采纳记录 · 待核正式条文",
+    "importance": "高",
+    "tags": [
+      "CBAM",
+      "欧盟"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EU"
+    ],
+    "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14133",
+    "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。"
+  },
+  {
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14781-Trade-measure-addressing-the-negative-trade-related-effects-of-global-excess-capacity-on-the-EU-steel-sector_en",
+    "published_date": "2025-10-10",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "欧盟钢铁贸易措施2025年倡议归档：业务判断应转向2026年正式新规",
+    "title_en": "EU 2025 steel-measure initiative archive: use the 2026 adopted regime",
+    "summary_zh": "2025年10月10日倡议版本记录欧委会于10月7日采纳相关提案，反馈阶段已结束。其摘要旨在应对全球过剩产能、旧保障措施于2026年6月30日到期的背景。该历史提案记录不等于2026年当前有效配额表。",
+    "summary_en": "The October 2025 record concerns an adopted Commission proposal against overcapacity as the old safeguard approached expiry. It is historical proposal evidence, not the current quota schedule.",
+    "impact_zh": "输欧报价和报关应核对2026/1384及现行配额分配规则；避免引用历史提案中的建议值。咨询史可用于解释政策背景。",
+    "impact_en": "Use Regulation 2026/1384 and current distribution acts for shipments; historical proposed values are unsuitable for current quotations.",
+    "category": "政策倡议与咨询",
+    "status": "历史提案归档",
+    "importance": "低",
+    "tags": [
+      "CBAM",
+      "欧盟"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EU"
+    ],
+    "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14781",
+    "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。"
+  },
+  {
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15132-Amendment-of-the-Implementing-Act-on-the-CBAM-Registry_en",
+    "published_date": "2025-10-09",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "CBAM登记册修订倡议：2025年10月规划记录未列新的采纳日期",
+    "title_en": "CBAM registry amendment initiative: planning record without adoption date",
+    "summary_zh": "2025年10月9日倡议拟修订建立CBAM登记册实施规则的若干要素。官方API已发布阶段仍为规划，后续草案反馈标为待启动，未列新的截止或采纳日期；摘要没有说明最终新增字段。",
+    "summary_en": "The 9 October 2025 initiative would amend elements of registry rules. The API still exposes a planning publication with later drafting upcoming and no adoption date.",
+    "impact_zh": "进口商应监控登记册实际版本及主管机关通知，测试接口和数据字段变更；不要据笼统倡议臆测已实行的系统改动。",
+    "impact_en": "Monitor actual registry releases and authority notices; do not infer implemented field changes from a general initiative summary.",
+    "category": "政策倡议与咨询",
+    "status": "倡议阶段",
+    "importance": "中",
+    "tags": [
+      "CBAM",
+      "欧盟"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EU"
+    ],
+    "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/15132",
+    "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。"
+  },
+  {
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14828-Carbon-border-adjustment-mechanism-CBAM-methodology-for-the-definitive-period_en",
+    "published_date": "2025-08-28",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "CBAM正式期方法学旧倡议：咨询已结束，计算应以现行正式规则为准",
+    "title_en": "CBAM definitive methodology historical initiative: use current rules",
+    "summary_zh": "2025年8月28日倡议拟规定实际内含排放的计算方法以及间接排放方法要素。该阶段反馈于2025年9月25日结束；API后续阶段仍标为待启动。本记录仅是历史倡议，不能据此否定后来正式法规或2026年指引。",
+    "summary_en": "The August 2025 initiative addresses actual embedded emissions and indirect-emissions methods. Feedback closed 25 September 2025; API stage labels do not establish the absence of later legislation.",
+    "impact_zh": "钢厂应按当前正式法规和2026指引建立装置排放监测，区分直接/间接排放及前体边界；不能从这段摘要推导某产品具体计费范围。",
+    "impact_en": "Use current legislation/guidance for monitoring and boundaries; this summary cannot determine a product's chargeable emissions.",
+    "category": "政策倡议与咨询",
+    "status": "历史咨询归档",
+    "importance": "低",
+    "tags": [
+      "CBAM",
+      "欧盟"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EU"
+    ],
+    "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14828",
+    "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。"
+  },
+  {
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14829-Adjustment-of-the-obligation-to-surrender-CBAM-certificates-to-take-account-of-ETS-free-allowances-phase-out_en",
+    "published_date": "2025-08-28",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "CBAM证书清缴免费配额调整旧倡议：不提供当前减免系数",
+    "title_en": "CBAM surrender/free-allocation historical initiative: no current relief factor",
+    "summary_zh": "2025年8月28日倡议拟规定授权申报人清缴证书如何反映EU ETS免费配额，并考虑ETS原则。该阶段意见期于2025年9月25日结束，API后续阶段标为待启动；此摘要未给当前产品基准或调整公式。",
+    "summary_en": "The 2025 initiative concerns surrender adjustment reflecting ETS free allowances. Feedback closed 25 September 2025; the summary does not provide current product benchmarks or formulas.",
+    "impact_zh": "出口报价应独立核对排放、当期证书价格和现行免费配额调整，不可简单把历史倡议描述解释为固定折扣。",
+    "impact_en": "Verify emissions, certificate prices and current allocation adjustment separately; no fixed discount follows from this historical summary.",
+    "category": "政策倡议与咨询",
+    "status": "历史咨询归档",
+    "importance": "低",
+    "tags": [
+      "CBAM",
+      "欧盟"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EU"
+    ],
+    "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14829",
+    "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。"
+  },
+  {
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14748-Extension-of-the-scope-of-the-carbon-border-adjustment-mechanism-to-downstream-products-and-anti-circumvention-measures_en",
+    "published_date": "2025-07-01",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "CBAM下游扩围与反规避旧倡议：咨询结束不等于产品已纳入",
+    "title_en": "CBAM downstream scope/anti-circumvention initiative: consultation is not coverage",
+    "summary_zh": "2025年7月1日倡议拟将部分下游产品纳入CBAM，降低生产外迁或进口替代导致的碳泄漏，并打击无正当经济理由的规避财务义务行为。公众咨询于8月26日结束；本API记录未列最终采纳日期或具体新增CN编码。",
+    "summary_en": "The initiative proposes downstream coverage and anti-circumvention measures; consultation closed 26 August 2025. This record supplies neither final adoption nor newly covered CN codes.",
+    "impact_zh": "下游制品出口商应逐项跟进最终CN范围、生效期及贸易链安排。不能仅凭媒体或倡议标题认定所有钢制品已经缴纳CBAM。",
+    "impact_en": "Track final CN coverage, commencement and supply-chain rules; not all steel products become covered merely through this initiative.",
+    "category": "政策倡议与咨询",
+    "status": "历史咨询归档",
+    "importance": "中",
+    "tags": [
+      "CBAM",
+      "欧盟"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EU"
+    ],
+    "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14748",
+    "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。"
+  },
+  {
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14116-Authorisation-of-CBAM-declarants_en",
+    "published_date": "2025-03-28",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "CBAM授权申报人倡议：官方API记录2025年3月17日采纳",
+    "title_en": "CBAM authorised-declarant initiative: adoption recorded 17 March 2025",
+    "summary_zh": "倡议摘要拟规定申报人授权条件和程序，以及申请人、主管机关、欧委会之间的沟通、格式与期限。API列示采纳日期2025年3月17日、该版本3月28日发布；本条未逐条核验最终法律或后续简化修订。",
+    "summary_en": "The API records adoption on 17 March 2025 and publication on 28 March. The initiative concerns authorisation procedures and authority communications; later amendments are not assessed here.",
+    "impact_zh": "欧盟进口商应核对实际授权状态与现行资格规则，钢厂做好装置及排放资料支持。授权问题不能用一般注册或咨询公司承诺替代。",
+    "impact_en": "Confirm actual authorisation against current rules; mills should provide installation/emissions evidence.",
+    "category": "政策倡议与咨询",
+    "status": "已采纳记录 · 待核正式条文",
+    "importance": "中",
+    "tags": [
+      "CBAM",
+      "欧盟"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EU"
+    ],
+    "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14116",
+    "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。"
+  },
+  {
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14117-Establishment-of-the-CBAM-Registry_en",
+    "published_date": "2025-01-03",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "CBAM登记册建立倡议：官方记录显示2024年12月18日采纳",
+    "title_en": "CBAM registry establishment initiative: adoption recorded 18 December 2024",
+    "summary_zh": "官方API显示建立CBAM登记册的倡议已在2024年12月18日采纳，2025年1月3日发布该阶段版本，咨询关闭。摘要确认登记册设立，但未提供当前操作权限、字段或后续系统改版细节。",
+    "summary_en": "The API records adoption on 18 December 2024 and publication on 3 January 2025. It confirms registry establishment but not current fields, access rights or later releases.",
+    "impact_zh": "进口商应以现行登记册指南核对账号权限和数据上传，生产装置与代理之间明确责任；历史建立记录不能替代最新操作说明。",
+    "impact_en": "Check current registry access and upload instructions and allocate installation/agent responsibilities.",
+    "category": "政策倡议与咨询",
+    "status": "历史采纳记录",
+    "importance": "低",
+    "tags": [
+      "CBAM",
+      "欧盟"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EU"
+    ],
+    "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14117",
+    "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。"
   }
 ]
