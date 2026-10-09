@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-09T07:25:42Z",
+  "generated_at": "2026-10-09T07:54:15Z",
   "disclaimer": "机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。",
   "items": [
     {
@@ -151,7 +151,11 @@
         "global overcapacity",
         "TRQ",
         "50% additional tariff"
-      ]
+      ],
+      "review_disposition": "blocked",
+      "review_note_zh": "EUR-Lex正文返回202空响应/机器人验证；尝试官方HTML和出版局入口仍未获得正文。配额实施细则不能替代框架条例全文核验。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "f0e64ceb0a997cd17404",
@@ -192,7 +196,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-07-21T21:54:23Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "UK's steel trade measure from 1 July 2026 - GOV.UK Cookies on GOV.UK We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Accept additional cookies Reject additional cookies View cookies Hide cookie message Skip to main content GOV.UK Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and…",
       "evidence_url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
       "coverage": "已核对官方说明的10月1日修订、产品范围及配额表；未逐项核算20类报关税负，实时余额须以英国海关为准。",
@@ -238,7 +242,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "A targeted consultation seeking stakeholders' feedback on the implementation of the new EU Steel Regulation Steel producers (upstream), steel users (downstream), business associations, third country governments and exporters, and any other interested stakeholders. EU Regulation 2026/1384 establishes a tariff rate quota system to protect the Union steel market from negative trade-related effects of global overcapacity. Considering the end of the first quarter of application of the Regulation and in order to establish a strong and targeted monitoring mechanism enabling an ongoing assessment of the implementation and functioning of the Regulation, the Commission is launching this targeted consultation which aims to gather detailed information on the immediate impact on all industry potentially affected, including steel producers (upstream), steel users (downstream), business associations, third country governments and exporters, and any other interested stakeholders. Trade isn't just abo…",
       "consultation": {
         "status": "OPEN",
@@ -292,7 +296,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "News article 18 September 2026 Commission imposes provisional safeguard measures on imports of grain-oriented electrical steel Today, the European Commission imposed provisional safeguard measures on imports of grain-oriented electrical steel products, in the form of tariff-rate quotas coupled with price thresholds. 2 min read",
       "review_method": "source_checked",
       "reviewed_at": "2026-09-28"
@@ -632,7 +636,11 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-25T07:44:21Z",
-      "last_seen": "2026-08-02T07:53:57Z"
+      "last_seen": "2026-08-02T07:53:57Z",
+      "review_disposition": "blocked",
+      "review_note_zh": "欧盟法院/公报原文未取得，不能仅凭案名确定迟交商业发票的判决适用条件。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "e35ed0d5a73d3dbbcac1",
@@ -673,7 +681,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "State-of-play CBAM accreditation 7 October 2026 English Download (297.22 KB - PDF)",
       "coverage": "2026-10-09全文提取并逐页目视核对当前两页官方PDF，覆盖四列状态、机构、24/18/7/7合计及备注；未逐一核验国家认可机构网站或具体企业证书。以现有采集记录2026-10-07版本匹配替换同URL旧研判，未另造重复记录。",
       "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
@@ -711,7 +719,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-06T12:14:56Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) published notice in the Federal Register of July 25, 2018 and October 20, 2023 in which Commerce announced the final results of the first and second sunset reviews of the countervailing duty (CVD) order on drawn stainless steel sinks from the People's Republic of China (China). These notices incorrectly stated an all-others rate of 8.61 percent.",
       "evidence_url": "https://federalregister.gov/documents/2026/10/06/2026-20481/drawn-stainless-steel-sinks-from-the-peoples-republic-of-china-final-results-of-the-expedited-first",
       "coverage": "已核对Federal Register正文及公开审阅PDF；未核对各企业当前CBP保证金指令。",
@@ -759,7 +767,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-03T10:40:46Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) orders on certain cut-to-length carbon steel plate (CTL plate) from the People's Republic of China (China) and the Russian Federation (Russia) would be likely to lead to continuation or recurrence of dumping, at the levels indicated in the \"Final Results of Sunset Reviews\" section of this notice.",
       "coverage": "Official Federal Register full notice reviewed, including final-results margins; the linked Issues and Decision Memorandum was not treated as separately reviewed.",
       "evidence_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20381/certain-cut-to-length-carbon-steel-plate-from-the-peoples-republic-of-china-and-the-russian",
@@ -805,12 +813,42 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-05T08:04:22Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "05 Oct 2026 Q3 2026 CBAM Certificate price now available! Each 2026 quarterly price is calculated by the Commission in the first calendar week after the quarter ends, based on publicly available EU ETS auction information.",
       "evidence_url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/price-cbam-certificates_en",
       "coverage": "Official DG TAXUD price table and methodology page checked on 5 October 2026.",
       "review_method": "source_checked",
-      "reviewed_at": "2026-10-05"
+      "reviewed_at": "2026-10-05",
+      "related_sources": [
+        {
+          "name": "煤炭资源网",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BY3RiTjdPM2FidC1CRXhRMjlnUWQxX084SlV0UGlGMmxhdlg0aWlpSl9HUksyN3g5akZLZjRBdkVDQUN2Q21JcVhMRUJmenlaSC1Sa1VJaG5IOUd3Qk9HM2FpRmg?oc=5"
+        },
+        {
+          "name": "Balkan Green Energy News",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JSUdCdzdtWUhuZnFnNEl4dUlRQjQxeEtjQmhVc3RZYTF5SE4xYzBtX1FxdHVoMHFpRTVmM2IyTkpjaUQ1eDJtR2xmNW9jYnlfekxNOEZyUjJsVWYyYTRtYlk0Rm1ZVzR0TzZ5UEdtVjloUC16RDhqSlNB?oc=5"
+        },
+        {
+          "name": "EUROMETAL",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rTlBPZnVCRXBtT01ROEJDbHp2c0Z5dTVSbUdqNUNtekxJNzkyTFgyd1UyVDcyRjRGNjAtai1reHo1ODdadFozQlR6YVhiN1ZxaWRJUG5lMURoVWl3UmdfQlVaWThIV1k1?oc=5"
+        },
+        {
+          "name": "SteelRadar",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX1dubzJFUFlpLUlXTHotU25WX3M1LXE1NjNGcEJtN3N5d19fVEF6WmtZcUZiaDBIVFhQaHpxTC1MOFdBdnZxcGN6akxOTFllTG1oQ0wzVW40Z2JxaTdyMzVIbWhCWjUzbkJ3cVJLbzhhMmg0bkVveG1ic3hqMk5sUWVQNXBaY0ZMQmlVS05vQ2JJRVZ5MGt6TlBadWFqZXZwallFbVVIR1ZLSUgtRS1oeXpXaw?oc=5"
+        },
+        {
+          "name": "Steel Orbis",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbXg1bG12N3YwMjBZT3JFVE4yTy1BZXFubXlCdF8tckQ5WEY1Mm9EYnA4SFZDZjZQeUZRSy1wcmxwSV9RWU9mUXJrenFfMDA2VVhSbXZYTm8zakJwdHl5Z1dNT1p3emdIcGc4dFM3ZXlaNngteTVyZ3luWEZWVTRUbHdNdWx4ZDJwV19XdWlCNXVEUnZkVFRDTHBsUk91Sk83LS1YS0NXWXZKNGEzSl9QeTllUQ?oc=5"
+        },
+        {
+          "name": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdVVMTnhBeTZwYVBRUGJiUmQxRmVocnNLZkNac3dacGlVN0s3eHhGeVB3Y2xaZGFHcmdKU3FPRzJVM185MkhZTXNRS0FqZmx6X202dDM4anhuSEFYdURVT0RRajRrOW5LQnFXdjV2N3dQWGlzTXh5RksxdnhySmt1SWJwR1JDd1QxOXVWX3FuSUpHM1JDRU0wWWNSVWY0MDYtWm9kNU1nMA?oc=5"
+        },
+        {
+          "name": "GMK Center",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSC10WTgwa2VfME9MNHBERTRqckl1VXY0WTJBTmpXcTkxYmc4clI5VHB6Rk9MVFc2d01ZMWlrV3RvQmhsRlprajd3WEx4QnB2LW85NzZRcjZlVVhOWmtfZ0pNdHk0T0tCY2tNaDYzNU14Y2tWY0FkX0dfejRDY1NhLTNhdVlWTml6bVZ1MGd2d2VKUG9LX3ZDQ3FCaXVyRU1yWUhaMkwxZDJvQUxF0gGyAUFVX3lxTFB6Z0xvTmRCcE5MZVJxVkIyM3NHMVZud0JtZUFORG14RF9Za2lFRzBUUnN6UVBOSlBRWWMzVnhtQklPRUlBcGdTV1Z0cXh6MDZKTTlVNzR2bWNpWFlkUi01dnhfeGN3WXdGa1RBY2pDc3BtSk50R3JMUXIwdWxiRFJoUHBNX1UzV1hRQWE0bzI4VENTS21fd3p6V1ptdmQxZ2J2WHB0U1hodlBoS29oaW1Ld0E?oc=5"
+        }
+      ]
     },
     {
       "id": "89b61cd115398217e25b",
@@ -855,7 +893,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-02T07:17:36Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) published notice to the public in the Federal Register of August 28, 2026 that the U.S. Court of International Trade's (CIT) final judgment was not in harmony with Commerce's covered merchandise inquiry (CMI) determination. Specifically, Commerce amended the CMI determination to find that products cut to length and formed into the rough shape of certain carbon steel butt-weld pipe fittings (butt-weld pipe fittings) in the People's Republic of China (China) represent \"unfinished\" fittings, which are covered by the scope of the Order, and that when such products are further processed in the Socialist Republic of Vietnam (Vietnam), they remain subject to the antidumping (AD) order on butt- weld pipe fittings from China. This notice did not provide clear notice to parties that the liquidation of entries of these unfinished fittings will be retroactively suspended.",
       "evidence_url": "https://www.federalregister.gov/documents/2026/10/02/2026-20258/certain-carbon-steel-butt-weld-pipe-fittings-from-the-peoples-republic-of-china-notice-of-court",
       "coverage": "Official Federal Register correction and the linked 28 August notice checked; date windows are limited to still-unliquidated covered entries.",
@@ -953,7 +991,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-02T07:17:36Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) has received requests to conduct administrative reviews of various antidumping duty (AD) and countervailing duty (CVD) orders with August anniversary dates. In accordance with Commerce's regulations, we are initiating those administrative reviews.",
       "follow_up": {
         "due_at": "2026-10-15",
@@ -1050,12 +1088,34 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "MILWAUKEE – Today, Ambassador Jamieson Greer chaired the Ministerial Meeting of the Global Forum on Steel Excess Capacity, which reached consensus on a comprehensive framework for joint action (“the Milwaukee Framework”). Ambassador Greer highlighted the effective actions taken by the Trump Administration to address global steel excess capacity and its impacts, including on U.S. manufacturers and workers, and invited like-minded partners to take similar steps to more fully address excess capacity and the global market distortions it causes. Ambassador Greer Issues Statement Following the Ministerial Meeting of the Global Forum on Steel Excess Capacity “Under President Trump, the U.S. steel industry is undergoing a renaissance on the strength of tariffs, trade deals, favorable tax treatment, improved energy policy, and the American entrepreneurial spirit,” said Ambassador Greer . “If like-minded partners adopt similar policies, they can hold accountable those countries that are contrib…",
       "coverage": "USTR release and final GFSEC framework/ministerial statement checked.",
       "evidence_url": "https://www.steelforum.org/content/dam/steel-forum/en/publications/gfsec-comprehensive-framework-for-joint-action.pdf",
       "review_method": "source_checked",
-      "reviewed_at": "2026-10-01"
+      "reviewed_at": "2026-10-01",
+      "related_sources": [
+        {
+          "name": "IDNFinancials",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxON3ZEV2R2X1B0UEV0Z3FoY3EzUXdFVkxfem1QcElkTXFtZTJBTlJ0SDJZYm11anl1RVVjOEYyTk5CcW1wR0VMZGJCY3BxempGaVgyNmtleTRGOTJ3VC1fZ1RuVm9WY0h5R2VjUkpJR1lBSzJsZW1TSmFsU1NndGg2cVpkblMyY21va0tkQkJXZkZkVktsbDJNRWR6SlFIenFjcm9MczhMMXZzRlJ0ZDBLM1RDUHlrMUFKbFFUTmlnQjc5N3VGQlp2ZkxTTnROcEhGazZpaEJFaEZZNGEySnVVNVJtdlQzaEdBUGlWSGRSUjBjSmlseEltMTR3RmZUVVdYU25HTFhjaGNNLXdFVVBpSmZzMExORkYxeDZSMWNxN0tGS1lSb2tSVw?oc=5"
+        },
+        {
+          "name": "The Hans India",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQby1rQXV6aGlwMC1fZ19tSkFabzJGVG9BQWozdnlDVnB3NUREX2NIaU1lTzJFVDFmWVN2VGVYWTRXeUNsSVluQS10WTdLUnBWR3RKVGllUU1odzJDVDRqLWJiX0pPQWljR0hkU2ZHNnd6TGloS2hlTFdMNjF5WkhoelF2UG42VEFJcjVRZUlkRHFrczk0SXJjZ0x4S1o5ZEtGUmZwcjVYZm5Qa2lsWm9DOVM4UDN5ZURiaEZwbEtONHZibjlCQV9QdmRpeVRZSGpodFE?oc=5"
+        },
+        {
+          "name": "The Australian",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWs2NnBaR0NtT0wwZml6YnpGUWNyWlMzeDE5MXYxV2JFUzJ3eGFOaUpZQ3ZZRzBidmdORmVHUlNQRnVPSWhTWW91ZmEwMC14MVlPUE9CQVpDOUZ5akZ3R2sxU1VqVXN0RFVIVEtiTHZNQ3FtMEN1Wno1ZlFBYVAwSldDdlk3QlZidm1wWmtrMmxiZnl4eHJXSGJDSzJCNFZYN3NKZE5PazJCb21jZXhOb1c5VWFTbklwNVZOM3hLZzNpT3V0UnlocjhXU1B4ZnRib0lB?oc=5"
+        },
+        {
+          "name": "South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcEozcnlsZ09GMVotdVpOMjNUVkhIRlFoVmxVRVowRC14MTAxbUZuMjFPY0FWaUEzaU9pMnBHeGN1aHRNdkNfbDBrRm9tbmdWYUNDdmFoQ3JEQkdNdDdVU2RtM2E3NkNWZlktYUpEVGZ1NWFJdHlLelhyY05PcWx1RmliRFljdGw5Z2J6aGlMRVdpeE5VSmNIcm0yRm1JN3hsWjlhWlZUdkNqSURzY0RwdFR5RmR6NEVocWlncjlR0gG-AUFVX3lxTFBWaC1iRW53amgtaTBNd3hHUm56M0NDYnhwOEdiUnQtUTI5TjAxbFJ1MXBmVjR6OTRYZzU5emtxV2xaZVNzS1FUYlVHb0JLQlZIYU5ZeTI4dVVrVU50NVRId3hwdUt3V1p4d2w0TjVJQU1CMzBaU2c2RF9iVTl3bVMzQVFLN0l4aDliek5pdEVJMVRBNWdTdEEyTTVsRzVlLXhxMGY4ZjBnSzFqSjBhUEQ4MjZURS03bmdWa0JaZkE?oc=5"
+        },
+        {
+          "name": "RFI",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPUFljU0RmLUE3NjR0dTZEeFBDV196aFRkeDdjOHdBUUp6dGk2MEdhV19ibFp1a1hMaExPaHo5S2x0MzU4UkdqS2VCeG1RYzZIbUZ4YWpfTW9KSWJhbHl0RzI5bmVWSjhaZXhmOXpYM2hXX2F6UlNxclpTNDdiSnJublItcG1lOTFsc2lWSkd2SmZNVWhPY0J3c1phcU8yRVRRZ0d1Y1dwb2kwcTZFZXlTTDV3NjBCbkVuT2ZmV2M1bW9pMGRqZ2JxbmNWVjEwcXZnTUxBMkxLRm10X2dBeWlfWnhBRmtTVkwxT0pVeUplQndwSjc0OEVWMzNMNG9VenVtemVxX3hrT1FVZmdUaUJ1U1ozOFhtanlfem9JbTMycF8xYzQ?oc=5"
+        }
+      ]
     },
     {
       "id": "f82f193520bbccb65e3f",
@@ -1096,7 +1156,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-29T11:35:40Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "",
       "evidence_url": "https://www.federalregister.gov/documents/full_text/text/2026/09/29/2026-19852.txt",
       "review_method": "source_checked",
@@ -1141,7 +1201,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "28 Sep 2026 New resources available for CBAM verifiers The Commission has published an overview of the latest resources available to support CBAM verifiers. It brings together guidance on verification and accreditation, information on access to the CBAM Registry, operational documents for Accredited Verifiers and training videos on the use of the CBAM Registry - O3CI portal. Consult the overview and access all the available resources.",
       "review_method": "source_checked",
       "reviewed_at": "2026-09-28",
@@ -1187,7 +1247,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-26T10:18:21Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "The Commission hereby gives notice of the scheduling of the final phase of antidumping and countervailing duty investigation Nos. 701-TA-792 and 731-TA-1786-1788 (Final) pursuant to the Tariff Act of 1930 to determine whether an industry in the United States is materially injured or threatened with material injury, or the establishment of an industry in the United States is materially retarded, by reason of imports of tin mill products from China, Taiwan, and Turkey, provided for in subheadings 7210.11.00, 7210.12.00, 7210.50.00, 7212.10.00, 7212.50.00, if of non-alloy steel and under HTSUS subheadings 7225.99.00, and 7226.99.01 of the Harmonized Tariff Schedule of the United States, preliminarily determined by the Department of Commerce (\"Commerce\") to be subsidized and sold at less-than-fair-value. Commerce's preliminary determinations with respect to tin mill products from Taiwan and Turkey, alleged to be sold in the United States at less-than-fair- value, are pending.",
       "follow_up": {
         "due_at": "2026-11-13",
@@ -1237,7 +1297,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "28 Sep 2026 New training videos for accredited verifiers The videos provide guidance on applying to become a registered verifier, submitting requests for change, and managing collaboration requests with operators of Third Country Installations in the CBAM Registry.",
       "coverage": "Official Registry page reviewed; individual training videos not watched.",
       "review_method": "source_checked",
@@ -1286,7 +1346,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-22T10:21:49Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines that imports of steel wire garment hangers (hangers), completed in Cambodia using: (1) steel wire or (2) steel wire and paper accessories, produced in the People's Republic of China (China) or the Socialist Republic of Vietnam (Vietnam), are circumventing the antidumping duty (AD) order on hangers from China, or the AD and countervailing duty (CVD) orders on hangers from Vietnam. Interested parties are invited to comment on this preliminary determination.",
       "follow_up": {
         "due_at": "2026-10-22",
@@ -1340,7 +1400,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-22T10:21:49Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines that imports of compacted graphite iron (CGI) brake drums, from the People's Republic of China (China), constitute later-developed merchandise that is circumventing the antidumping duty (AD) and countervailing duty (CVD) orders on certain brake drums (brake drums) from China. Interested parties are invited to comment on this preliminary determination.",
       "follow_up": {
         "due_at": "2026-10-06",
@@ -1478,7 +1538,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "This is a policy summary for the carbon border adjustment mechanism.",
       "review_method": "source_checked",
       "reviewed_at": "2026-09-28"
@@ -1520,7 +1580,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "Find out what to do if you import specific goods from the aluminium, cement, fertiliser, hydrogen, and iron and steel sectors into the UK from 1 January 2027.",
       "review_method": "source_checked",
       "reviewed_at": "2026-09-28"
@@ -1836,7 +1896,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "Guidance on CBAM verification and accreditation for verifiers and National Accreditation Bodies General publications 24 August 2026 English Download (1.75 MB - PDF)",
       "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/030fe146-38e5-46b8-82b5-5f72da089a7b_en?filename=GUIDANCE+ON+CBAM+VERIFICATION+AND+ACCREDITATION+FOR+VERIFIERS+AND+NATIONAL+ACCREDITATION+BODIES.pdf",
       "coverage": "已核对PDF目录及第4.9节（印刷页59—62）现场访问、例外及证据要求；未逐页核验141页全文或全部认可细则。",
@@ -1879,7 +1939,70 @@
       "evidence_url": "https://taxation-customs.ec.europa.eu/news/european-commission-publishes-guidance-cbam-verifiers-and-accreditation-bodies-2026-08-24_en",
       "coverage": "已核对官方发布新闻及登记流程说明；本条不表示141页指南全部已核验。",
       "review_method": "source_checked",
-      "reviewed_at": "2026-10-08"
+      "reviewed_at": "2026-10-08",
+      "related_sources": [
+        {
+          "name": "Металлургпром",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNEhqc2JsUVhBVzRzT1l6ZmJQU1lmb1JPUFcxd2xiS2U1Y1BKc090YWo1V3lzTUw0alU0d2c0SDNQT0x5bGc4VmU2ZVZkaS1xWXFxbXF0NmkydFRReDVURUhuYnU5WmdrZ05jSExPdWg3NW1fS0lDcEw1UkxCRXlKWXc5WnlaMHVqQnhUb2NMMTJEUzJ2bFJnSVZxTHdidGZUUTJzbEpXbjdZSzRIUHFkZWdUMEFBMEJKWlNZeTlXU244MnZsVmlPUtIB2gFBVV95cUxQV3owSG54NVJMZ1Z4QkJONUl2N3VYNGJQc0VzbHF5by1CZ0F5S1dLcVVLdHA0dVNhOGFwZ0UzSlFuczVzVktwbWNxR1BZelF5enh2TlR2VDJwTnNuc3d1MkJOcnFES2RKdkhBZVBrZ0Y5dUpVV2pVa3RVZXZ3dnVYRGpPMDQyQWdSN0xMRW5CYmJOWERES29KR0RnNF9sLTVqSWpneFBnNXRiTmpjdkF3RDYyY2JwQVNkOGVUMDMyV1RMSkM3UW9mWF8tQ21SXzZwMTYxWEtOQl9BZw?oc=5"
+        },
+        {
+          "name": "EUROMETAL",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORk1pUUdvMHpZRVlhck52RDE0RkRuZU1IbVVwcXN1YldXaVJnUUdlZ0hWU2VvdHlyNXRHanlLa2ZKbnpwNmV2ekNMV1hfcTkzOUY5TmZsTlYtZlUwZjc3MHk0Y1RqdHYySzhZRjNLNmxGTkttdWVSckp5S0IzS2NKU2QxLWZyeTlhbTA2ODVoWk54SlphNFp1ZENR?oc=5"
+        },
+        {
+          "name": "Steel Orbis",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRFBKOTJMbzJLSlc3SkxLQ3RzOE5XTE9QWW92Z1J0amFsNnNKVDVYUTNjdHR4c1ZhZVUxTVRBb0toXzhLZE5HRGIwRVlYdmdqNjUxQTZHNnZZMVlBbGwyVVlJRzhHaEtZdnpmSi1weVg0dkNDeFJST2pXRW5DSlB5NldfQnhCRlhFWHc1Z1o0UnZLeFBLeXZMaDYxbE9NckhpV2pqTktDc2JabGtxRW9UZ3BCRjdwT2tyazBCMGQ2Y3dERzdlS1R2SFJYbnpsLXNHQTZPT2tXOGUtdm9FSXI4Nw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a79139e2995dcd9202fc",
+      "title_zh": "英国对华部分焊接管反倾销措施延至2031年，中国税率90.6%",
+      "title_en": "UK extends welded-tube duties to 2031; China rate 90.6%",
+      "title_original": "Trade remedies notices: anti-dumping duty on welded tubes and pipes from Belarus and China",
+      "summary_zh": "英国贸易救济通知2026/24自2026年8月21日生效，相关措施自2026年1月30日起延长至2031年1月30日。适用外径不超过168.3毫米的圆截面铁或非合金钢焊接管；油气输送管、套管、精密管等除外。商品编码7306304120、7306307280、7306307780、7306304920；中国所有企业税率90.6%，附加编码8A91；白俄罗斯38.1%，8A90。按未完税边境净价计税。",
+      "summary_en": "Notice 2026/24 takes effect on 21 August 2026 and extends the measure from 30 January 2026 to 30 January 2031. Covered circular welded iron/non-alloy tubes have an outside diameter up to 168.3 mm, with stated exclusions. Codes: 7306304120, 7306307280, 7306307780, 7306304920. China: 90.6%, additional code 8A91; Belarus: 38.1%, 8A90, on net frontier price before duty.",
+      "impact_zh": "输英前同时核对产品描述、用途、外径及税号；不能仅凭HS编码认定适用或豁免。报价应单列反倾销税并由进口商确认申报编码。",
+      "impact_en": "Check scope, diameter, use and commodity codes before quoting; confirm declaration treatment with the importer.",
+      "url": "https://gov.uk/government/publications/trade-remedies-notice-anti-dumping-duty-on-certain-welded-tubes-and-pipes-of-iron-or-non-alloy-steel-originating-in-belarus-the-peoples-republic-of",
+      "published_at": "2026-08-20T10:00:01Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "贸易救济",
+      "status": "正式措施",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-08-21T06:18:01Z",
+      "last_seen": "2026-09-10T10:03:27Z",
+      "machine_translation": {
+        "title_zh": "贸易补救通知:白俄罗斯和中国关于焊接管和管道的反倾销税",
+        "excerpt_zh": "",
+        "fingerprint": "67ab4c04afe13be2955cfa3d64e113fd6abf589c5d54d745526cd12deaa1f607",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-09-29T15:10:16Z"
+      },
+      "coverage": "核读英国政府通知2026/24正文、产品描述、税率表及期限。",
+      "evidence_url": "https://www.gov.uk/government/publications/trade-remedies-notice-anti-dumping-duty-on-certain-welded-tubes-and-pipes-of-iron-or-non-alloy-steel-originating-in-belarus-the-peoples-republic-of/trade-remedies-notice-202624-anti-dumping-duties-on-welded-tubes-and-pipes-from-belarus-and-china",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "9006b52bf90c58391987",
@@ -1950,12 +2073,180 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "Guidance No. 3 - CBAM methods for the calculation of emissions embedded in goods 14 August 2026 English Download (1.86 MB - PDF)",
       "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/29b9eec7-1a4b-4eb6-ab85-96a0c9e35fd0_en?filename=Guidance+No.+3+-+CBAM+methods+for+the+calculation+of+emissions+embedded+in+goods.pdf",
       "coverage": "已核对PDF封面、版本、目录，第2章方法变更表及第4.9节活动水平/品质数据相关段落；147页未逐页核验，未复算示例。",
       "review_method": "source_checked",
       "reviewed_at": "2026-10-08"
+    },
+    {
+      "id": "59ad423475892b281299",
+      "title_zh": "CBAM指南1：区分嵌入排放、免费配额调整与已付碳价",
+      "title_en": "CBAM Guidance 1: emissions, free-allocation adjustment and carbon price",
+      "title_original": "Guidance No. 1 - Introduction to CBAM concepts",
+      "summary_zh": "欧委会指南说明CBAM覆盖商品及生产装置的基本概念。证书义务须结合商品嵌入排放、对应免费配额调整和符合条件的第三国实际已付碳价，不能简单将钢材重量乘证书价格；指南是操作解释，不能替代法规。",
+      "summary_en": "The guidance explains covered goods and installations. Certificate liability depends on embedded emissions, the free-allocation adjustment and eligible carbon price already paid abroad; tonnes of steel times certificate price is not the calculation.",
+      "impact_zh": "出口团队先建立CN编码、生产装置、前体材料和排放数据对应关系；与进口商分别核算排放、调整和碳价扣减。",
+      "impact_en": "Map CN codes, installations, precursors and emissions; keep the three calculation components distinct.",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/031abf60-21a9-4822-b258-ac8b111d8358_en?filename=Guidance+No.+1+-+Introduction+to+CBAM+concepts.pdf",
+      "published_at": "2026-08-14T00:00:00Z",
+      "source": {
+        "id": "ec_watch_pages",
+        "name": "DG TAXUD · CBAM Guidance",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "碳与环保",
+      "status": "官方指南",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-09-29T04:08:19Z",
+      "last_seen": "2026-10-09T07:54:15Z",
+      "source_excerpt": "Guidance No. 1 - Introduction to CBAM concepts 14 August 2026 English Download (870.75 KB - PDF)",
+      "coverage": "核读35页PDF中概念与证书计算关键章节；不声称逐项复算全部示例。",
+      "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/031abf60-21a9-4822-b258-ac8b111d8358_en?filename=Guidance+No.+1+-+Introduction+to+CBAM+concepts.pdf",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "id": "a97059110c1a3fc96dad",
+      "title_zh": "CBAM指南2：境外钢厂须准备监测计划和可核查数据",
+      "title_en": "CBAM Guidance 2: monitoring and verifiable data for non-EU mills",
+      "title_original": "Guidance No. 2 - Quick guide for non-EU operators on CBAM implementation",
+      "summary_zh": "境外生产者应识别覆盖商品、工艺边界和前体材料，制定监测计划并向欧盟进口商提供所需排放信息。生产者可通过O3CI登记或沟通模板分享数据；交易商同样需要协调实际生产装置。",
+      "summary_en": "Non-EU operators should identify covered goods, process boundaries and precursors, prepare monitoring plans and provide emissions information. O3CI registration or communication templates support data sharing; traders must coordinate with producing installations.",
+      "impact_zh": "把数据责任落实到生产厂、前体供应商和进口商，提前安排核查；贸易商自己的说明不能替代生产装置数据。",
+      "impact_en": "Assign data responsibilities across mills, precursor suppliers and importers; arrange verification early.",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/91e1056c-4524-4705-aaa7-e25c1439a87a_en?filename=Guidance+No.+2+-+Quick+guide+for+non-EU+operators+on+CBAM+implementation.pdf",
+      "published_at": "2026-08-14T00:00:00Z",
+      "source": {
+        "id": "ec_watch_pages",
+        "name": "DG TAXUD · CBAM Guidance",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "碳与环保",
+      "status": "官方指南",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-09-29T04:08:19Z",
+      "last_seen": "2026-10-09T07:54:15Z",
+      "source_excerpt": "Guidance No. 2 - Quick guide for non-EU operators on CBAM implementation 14 August 2026 English Download (414.92 KB - PDF)",
+      "coverage": "核读15页PDF中境外生产者实施流程、数据沟通和内控要点；登记为自愿数据沟通渠道，不等于核查认可。",
+      "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/91e1056c-4524-4705-aaa7-e25c1439a87a_en?filename=Guidance+No.+2+-+Quick+guide+for+non-EU+operators+on+CBAM+implementation.pdf",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "id": "f724daaf1f0408654f16",
+      "title_zh": "CBAM指南4：免费配额调整须按商品、工艺和年份计算",
+      "title_en": "CBAM Guidance 4: free-allocation adjustment is product and year specific",
+      "title_original": "Guidance No. 4 - CBAM calculation of the free allocation adjustment to the number of CBAM certificates to be surrendered",
+      "summary_zh": "指南将商品免费配额调整表示为单位商品调整量SEFA乘进口量M；生产工艺基准、CBAM因子、跨行业修正因子及前体材料共同影响结果。使用默认排放值时须配套默认调整量；实际数据须有相应核查依据。2026年进口按2026申报年度的调整规则处理，不因商品生产年份更早自动采用旧因子。",
+      "summary_en": "FAA equals specific adjustment SEFA times imported quantity M. Benchmarks, the CBAM factor, cross-sectoral correction and precursors affect the result. Default emissions require matching default adjustment values. The reporting year governs the adjustment for 2026 imports, even for earlier production.",
+      "impact_zh": "不要给所有钢材套用统一折扣；维护CN编码、路线、前体和申报年度参数表，实际值与默认值场景分开报价。",
+      "impact_en": "Avoid a universal discount; separate actual/default scenarios by CN code, route, precursor and reporting year.",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/3aa2c730-4f1b-4524-8f71-d9cfe4880ac7_en?filename=Guidance+No.+4+-+CBAM+calculation+of+the+free+allocation+adjustment+to+the+number+of+CBAM+certificates+to+be+surrendered.pdf",
+      "published_at": "2026-08-14T00:00:00Z",
+      "source": {
+        "id": "ec_watch_pages",
+        "name": "DG TAXUD · CBAM Guidance",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "碳与环保",
+      "status": "官方指南",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-09-29T04:08:19Z",
+      "last_seen": "2026-10-09T07:54:15Z",
+      "source_excerpt": "Guidance No. 4 - CBAM calculation of the free allocation adjustment to the number of CBAM certificates to be surrendered 14 August 2026 English Download (997.49 KB - PDF)",
+      "coverage": "核读38页PDF第2—3章和前体材料关键段落；未对全部附件算例进行独立重算。",
+      "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/3aa2c730-4f1b-4524-8f71-d9cfe4880ac7_en?filename=Guidance+No.+4+-+CBAM+calculation+of+the+free+allocation+adjustment+to+the+number+of+CBAM+certificates+to+be+surrendered.pdf",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "id": "8fad486859b7e74e4dcb",
+      "title_zh": "CBAM钢铁指南5d：生产路线、前体与成材率影响单位排放",
+      "title_en": "CBAM iron-and-steel Guidance 5d: routes, precursors and yield matter",
+      "title_original": "Guidance No. 5d - Sector-specific guidance document on iron and steel",
+      "summary_zh": "指南涵盖铁钢工艺边界和前体排放，单位为tCO₂e/t商品。钢铁通常计直接排放，但烧结矿CN26011200需计间接排放；不能把该例外扩大到所有矿石。钢坯、粗钢相关CN7206、7207、7218、7224及下游产品应按各自边界追溯；废钢不作为收费覆盖商品并不意味着工艺中的废钢碳完全不计。加工损耗和成材率会影响吨成品排放。",
+      "summary_en": "The guidance addresses boundaries and precursor emissions in tCO2e/t goods. Steel generally uses direct emissions, while agglomerated ore CN26011200 includes indirect emissions. Crude/semi-finished steel codes include 7206, 7207, 7218 and 7224. Scrap scope exclusions do not erase process carbon; yield affects product intensity.",
+      "impact_zh": "整理各路线年报、前体核查证据和物料平衡；审查废钢分类、加工损耗及不同工艺是否同一装置，避免仅凭绿色钢宣传认定CBAM减免。",
+      "impact_en": "Collect route-level annual reports, precursor evidence and mass balances; check scrap and yield treatment.",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/3eb64513-8255-4c71-875a-bd0a8c7ff772_en?filename=Guidance+No.+5d+-+Sector-specific+guidance+document+on+iron+and+steel.pdf",
+      "published_at": "2026-08-14T00:00:00Z",
+      "source": {
+        "id": "ec_watch_pages",
+        "name": "DG TAXUD · CBAM Guidance",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "碳与环保",
+      "status": "官方指南",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-09-29T04:08:19Z",
+      "last_seen": "2026-10-09T07:54:15Z",
+      "source_excerpt": "Guidance No. 5d - Sector-specific guidance document on iron and steel 14 August 2026 English Download (1.86 MB - PDF)",
+      "coverage": "核读65页PDF工艺边界、前体、钢铁特定参数与加工章节（第7—14、32—34页等）；未声称全部算例已重算。",
+      "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/3eb64513-8255-4c71-875a-bd0a8c7ff772_en?filename=Guidance+No.+5d+-+Sector-specific+guidance+document+on+iron+and+steel.pdf",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "8aa460189c097b753c59",
@@ -2602,6 +2893,51 @@
       "reviewed_at": "2026-10-08"
     },
     {
+      "id": "97e800927deecb542fe6",
+      "title_zh": "英国CBAM法定效力通知仍为草案，需为2027年实施准备",
+      "title_en": "UK CBAM force-of-law notices remain drafts ahead of 2027",
+      "title_original": "Carbon Border Adjustment Mechanism: force of law notice and reference document",
+      "summary_zh": "政府文件集合页列出管理、碳价减免及排放核查通知草案，明确目前尚无法定效力，计划配合2027年1月1日CBAM实施。页面已列9月9日排放及核查草案；碳价核查表和系统边界文件是准备资料，不能把集合页视为已生效规则。",
+      "summary_en": "The official collection lists administration, carbon-price relief and emissions/verification drafts. They do not yet have force of law and are intended for commencement on 1 January 2027. The page includes the 9 September emissions/verification draft.",
+      "impact_zh": "输英供应链提前准备装置、商品和碳价证据；合同保留最终通知变更条款，正式申报须再核对最终文本。",
+      "impact_en": "Prepare installation and carbon-price evidence and revisit final notices before filing.",
+      "url": "https://gov.uk/government/publications/carbon-border-adjustment-mechanism-force-of-law-notice-and-reference-document",
+      "published_at": "2026-07-13T08:30:00Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "碳与环保",
+      "status": "通知草案",
+      "importance": "高",
+      "products": [
+        "钢铁"
+      ],
+      "products_en": [
+        "steel"
+      ],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.8,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-07-24T07:59:09Z",
+      "coverage": "完整核读政府集合页及草案说明；未核读118页排放与核查通知全文，不给出未核实的全部技术要求。",
+      "evidence_url": "https://gov.uk/government/publications/carbon-border-adjustment-mechanism-force-of-law-notice-and-reference-document",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
+    },
+    {
       "id": "1627d64054a754a91222",
       "title_zh": "美国启动泰国耐腐蚀钢反规避调查，涉及中国原料加工后输美",
       "title_original": "Certain Corrosion-Resistant Steel Products From the People's Republic of China: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders",
@@ -2689,7 +3025,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -2744,7 +3080,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -2799,7 +3135,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -2853,7 +3189,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -2905,13 +3241,17 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-24T07:59:09Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
         "opens_at": "2025-12-19T17:32:00Z",
         "closes_at": "2026-01-31T23:59:59Z"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "仅涉及铝废料供给，不属于本看板钢铁、CBAM或相关贸易范围。",
+      "review_note_en": "Outside the dashboard scope: valuation/speculation, unrelated product, or no specific steel policy/trade event.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "8c106d9c1d94ad433e5f",
@@ -2956,7 +3296,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -2964,6 +3304,56 @@
       },
       "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14133",
       "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "id": "c99def27c7ea6f233f80",
+      "title_zh": "CBAM下游扩围进入协商阶段，律所预计10月20日首次政治三方会谈",
+      "title_en": "CBAM downstream proposal heads to trilogue; meeting dates need official confirmation",
+      "title_original": "EU’s CBAM Downstream Extension and Anti-Circumvention Amendments: the Road to Trilogue",
+      "summary_zh": "Mayer Brown梳理欧委会、理事会和议会的不同下游商品范围及反规避方案，称9月28日技术会议后，首次政治三方会谈计划10月20日，第二次暂定11月30日。日期为律所信息，本轮未取得官方议程确认；扩围仍是立法协商，不能将议会方案中的457类商品直接当成现行义务。",
+      "summary_en": "Mayer Brown compares competing downstream and anti-circumvention proposals. It reports a 20 October political trilogue and tentative 30 November follow-up; official agenda confirmation remains outstanding. Parliament’s proposed 457 categories are not current final scope.",
+      "impact_zh": "下游出口企业先筛查产品和钢铝前体数据；10月20日前后核查官方协商结果，报价保留规则变化条款。",
+      "impact_en": "Screen downstream products and precursor data; check official negotiations around 20 October.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSldWZXhJcUZDZG9BRlRtazdUZDVPZnpweDRpX0hQTkMzOFZKYTNkT1A0bUhGZXhCN2lUSnRTbnhJOEIyMDdaTGNtb0JlMW55eDh1b1YzTjVNLW93Y201OG9HZnY5OE1ydWE2RFBqdGRqeTBtSm8wZ1dZRjRIS29vM2VTbUhVN2pBajN2bmt3bjROM3ZvNjk4QnJiVUY0Q2NkY3FyRnBmbHU1OTdRbmwzYU1wQm1KbGtIdjZMdkU1WlV6NWR0NXBMQUZMbWdxazZlZk1lM3o3bGR4ZDQ3?oc=5",
+      "published_at": "2026-10-07T22:01:19Z",
+      "source": {
+        "id": "rss",
+        "name": "Mayer Brown",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "政策倡议与咨询",
+      "status": "立法评论·协商中",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-10-09T07:23:15Z",
+      "last_seen": "2026-10-09T07:23:15Z",
+      "source_excerpt": "EU’s CBAM Downstream Extension and Anti-Circumvention Amendments: the Road to Trilogue Mayer Brown",
+      "machine_translation": {
+        "title_zh": "欧盟的CBAM下游扩展和反规避修正:通向三重唱之路",
+        "excerpt_zh": "欧盟的CBAM下游扩展和反规避修正:通向五月三餐节之路",
+        "fingerprint": "90b8418672f9c2d3fbbc59d53405baca49cfa579819f384cad83ee47774ec555",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-10-09T07:23:31Z"
+      },
+      "coverage": "核读律所全文；欧议会原始文本遇机器人验证，未完成全部官方附件核验。",
+      "evidence_url": "https://www.mayerbrown.com/en/insights/publications/2026/10/eus-cbam-downstream-extension-and-anti-circumvention-amendments-the-road-to-trilogue",
       "review_method": "source_checked",
       "reviewed_at": "2026-10-09"
     },
@@ -3018,6 +3408,54 @@
       "reviewed_at": "2026-10-03"
     },
     {
+      "id": "5f3926eb9f98fd4a450c",
+      "title_zh": "韩国媒体：低价中国热轧镀锌板加剧竞争，业界要求扩大救济",
+      "title_en": "Korean report: Chinese hot-rolled galvanized offers intensify competition",
+      "title_original": "[独家]“每吨84万韩元的放着不买,偏要花100万韩元买吗”......市场正被中国钢铁吞噬",
+      "summary_zh": "《每日经济》报道中国HGI报价约620美元/吨（约84万韩元），韩国CGI报价超过100万韩元，业界称价差超过15%，并担忧年约100万吨镀锌板市场。HGI与CGI生产路线不同；报道中的扩大反倾销、配额和保障措施均为业界诉求，尚未取得官方决定核验。",
+      "summary_en": "Maeil Business reports Chinese HGI offers around USD620/t (KRW840,000), versus Korean CGI above KRW1 million, and industry calls for wider remedies. HGI/CGI differ in processing; demands for quotas or safeguards are not verified official measures.",
+      "impact_zh": "韩国订单核对冷轧工序、镀层与产品描述；勿仅凭媒体报道断言HGI免税或规避合规，应跟进韩国官方调查范围。",
+      "impact_en": "Check process, coating and scope; do not assume exemption or lawful avoidance from the report.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NaWVkaTVnNWlDb0pPaXpvaFNzMjFDQXRiMF9DdW9NMjROS1RDajd3VzFTakNFWnV3NHE0aUppTVpCRmpMMDdQNjE3MERteWJFYUg0?oc=5",
+      "published_at": "2026-10-01T08:44:47Z",
+      "source": {
+        "id": "rss",
+        "name": "매일경제",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "贸易救济",
+      "status": "媒体报道·官方范围待核",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
+      "language": "zh",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-10-01T11:50:59Z",
+      "last_seen": "2026-10-07T12:03:28Z",
+      "source_excerpt": "[独家]“每吨84万韩元的放着不买,偏要花100万韩元买吗”......市场正被中国钢铁吞噬 매일경제",
+      "coverage": "核读Daum刊载的韩文《每日经济》正文；报价为当日报道，韩国正式税令和扩围决定未取得。",
+      "evidence_url": "https://v.daum.net/v/20261001174504131",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09",
+      "related_sources": [
+        {
+          "name": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TcXFTREsxeEl5dmxBZ2pLRG1QUlRhMXh1OXFaMnNsTGNBUEFISW44MC1FclJZcEpkWHozMm1LdlN0Uks1N0hqSjVBb2VfTE44TDdN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4b9bcf412439034e3050",
       "title_zh": "印度钢企转向本土市场，印度对中日俄热轧钢启动反倾销调查",
       "title_original": "Indian steelmakers pivot home as Europe tightens imports, China squeezes margins",
@@ -3064,7 +3502,11 @@
         "China",
         "Japan",
         "Russia"
-      ]
+      ],
+      "review_disposition": "blocked",
+      "review_note_zh": "Reuters返回401；未取得可核读授权转载全文。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "f877e128c1001f2d865d",
@@ -3156,6 +3598,10 @@
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:10:11Z"
       },
+      "review_disposition": "blocked",
+      "review_note_zh": "EUR-Lex原文返回空响应/机器人验证；期满复审产品、期限和提交要求须等待正文核验。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
@@ -3193,6 +3639,10 @@
       "translation_state": "pending",
       "first_seen": "2026-08-16T06:03:13Z",
       "last_seen": "2026-08-30T10:42:16Z",
+      "review_disposition": "blocked",
+      "review_note_zh": "EUR-Lex正文未取得；新出口商企业名、附加编码及税率不得从标题推断。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
@@ -3229,7 +3679,11 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-08-01T07:52:19Z",
-      "last_seen": "2026-08-22T06:02:00Z"
+      "last_seen": "2026-08-22T06:02:00Z",
+      "review_disposition": "blocked",
+      "review_note_zh": "EUR-Lex主管机关名单正文未取得；不凭历史名单认定当前联系人。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "3a59a097f5616f2b8006",
@@ -3270,7 +3724,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-01T11:50:59Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "Yesterday, the European Energy Exchange (EEX) published the revised 2027 EU ETS1 and the new 2027 EU ETS2 auction calendars. The published calendar for ETS1 allowances reflects the addition of 25 million allowances allocated to the Greek Decarbonisation Fund pursuant to Article 10a(9) of the ETS Directive . The first published calendar for ETS2 allowances reflects the early auctioning of 2028 volumes in accordance with Article 8(5) of the Auctioning Regulation . Pursuant to Article 13(7) of the Auctioning Regulation, the current auction volume for 2027 includes 140 000 000 allowances allocated to the Social Climate Fund and allowances allocated to Member States that have implemented in their national legislation the obligation of regulated entities to surrender allowances and the penalties for excess emissions. Several Members States are finalising or have finalised the implementation of the surrender obligation and the penalties in their national legislation after the determination o…",
       "coverage": "Official DG CLIMA notice reviewed; linked EEX calendar was not treated as a change to CBAM legislation.",
       "review_method": "source_checked",
@@ -3313,7 +3767,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-30T11:23:38Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "This page provides access to communication materials, frequently asked questions (FAQs), and recent webinars related to the Carbon Border Adjustment Mechanism (CBAM). Examples of the communication template filled in for each sector: cement, aluminium, fertilisers, hydrogen, steel (blast furnace, EAF, screws and nuts).",
       "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/5eb1f852-7c81-4d99-ae04-5593303076c1_en?filename=KP-01-26-043-EN-N.pdf",
       "review_method": "source_checked",
@@ -3358,7 +3812,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "The Commission will publish the available surrender and compliance data 2025 on October 6, 2026, at the latest.",
       "follow_up": "已完成发布入口和代码5/24、最新合规年份2025的限定计数核验；后续如需年度排放或装置风险结论，另查年度核验排放表、EUTL代码解释及主管机关记录。",
       "review_method": "source_checked",
@@ -3397,7 +3851,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "News article 18 September 2026 Demand for trade defence action, EU commitment to tackle unfair trade remain strong in 2025 Strong demand for trade defence action continued in 2025, with the European Commission again opening an above-average number of investigations, reveals a new report. 2 min read",
       "evidence_url": "https://policy.trade.ec.europa.eu/news/demand-trade-defence-action-eu-commitment-tackle-unfair-trade-remain-strong-2025-2026-09-18_en",
       "coverage": "已核对官方正文；仅总结本页，不表示已阅读全文所链接的法规或附件。",
@@ -3441,7 +3895,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-10T10:03:27Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "This tax information and impact note is about the new Carbon Border Adjustment Mechanism (CBAM) tax.",
       "review_method": "source_checked",
       "reviewed_at": "2026-09-28"
@@ -3523,217 +3977,12 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-28T11:59:57Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "News article 4 September 2026 Notification by Germany of voluntary cancellation of allowances in the EU ETS for plants closed in 2022 Germany notified to the Commission in May 2026 the exact number of allowances to be cancelled, in relation to the year 2024, during the period between 1 September and 31 December of 2026. 1 min read",
       "evidence_url": "https://climate.ec.europa.eu/news-other-reads/news/notification-germany-voluntary-cancellation-allowances-eu-ets-plants-closed-2022-2026-09-04_en",
       "coverage": "已核对官方新闻正文；未逐一读取德文通知附件。",
       "review_method": "source_checked",
       "reviewed_at": "2026-10-08"
-    },
-    {
-      "id": "a79139e2995dcd9202fc",
-      "title_zh": "Trade remedies notices: anti-dumping duty on welded tubes and pipes from Belarus and China",
-      "title_en": "Trade remedies notices: anti-dumping duty on welded tubes and pipes from Belarus and China",
-      "title_original": "Trade remedies notices: anti-dumping duty on welded tubes and pipes from Belarus and China",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://gov.uk/government/publications/trade-remedies-notice-anti-dumping-duty-on-certain-welded-tubes-and-pipes-of-iron-or-non-alloy-steel-originating-in-belarus-the-peoples-republic-of",
-      "published_at": "2026-08-20T10:00:01Z",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "英国",
-      "region": "欧洲",
-      "category": "法规与正式文件",
-      "status": "审查中",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-08-21T06:18:01Z",
-      "last_seen": "2026-09-10T10:03:27Z",
-      "machine_translation": {
-        "title_zh": "贸易补救通知:白俄罗斯和中国关于焊接管和管道的反倾销税",
-        "excerpt_zh": "",
-        "fingerprint": "67ab4c04afe13be2955cfa3d64e113fd6abf589c5d54d745526cd12deaa1f607",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-09-29T15:10:16Z"
-      },
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      }
-    },
-    {
-      "id": "59ad423475892b281299",
-      "title_zh": "Guidance No. 1 - Introduction to CBAM concepts",
-      "title_en": "Guidance No. 1 - Introduction to CBAM concepts",
-      "title_original": "Guidance No. 1 - Introduction to CBAM concepts",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://taxation-customs.ec.europa.eu/document/download/031abf60-21a9-4822-b258-ac8b111d8358_en?filename=Guidance+No.+1+-+Introduction+to+CBAM+concepts.pdf",
-      "published_at": "2026-08-14T00:00:00Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "DG TAXUD · CBAM Guidance",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "欧盟",
-      "region": "欧洲",
-      "category": "碳与环保",
-      "status": "待核对",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-09T07:25:42Z",
-      "source_excerpt": "Guidance No. 1 - Introduction to CBAM concepts 14 August 2026 English Download (870.75 KB - PDF)",
-      "machine_translation": {
-        "title_zh": "第1号指导意见 -- -- 介绍CBAM概念",
-        "excerpt_zh": "指南No. 1 - 介绍CBAM概念 14 August 2026英语下载(870.75 KB - PDF)",
-        "fingerprint": "cf257a19cd1fd8dfda94be83c0afb866388eb4c1b23df3d68283ec996e124619",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-09-29T15:10:19Z"
-      }
-    },
-    {
-      "id": "a97059110c1a3fc96dad",
-      "title_zh": "Guidance No. 2 - Quick guide for non-EU operators on CBAM implementation",
-      "title_en": "Guidance No. 2 - Quick guide for non-EU operators on CBAM implementation",
-      "title_original": "Guidance No. 2 - Quick guide for non-EU operators on CBAM implementation",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://taxation-customs.ec.europa.eu/document/download/91e1056c-4524-4705-aaa7-e25c1439a87a_en?filename=Guidance+No.+2+-+Quick+guide+for+non-EU+operators+on+CBAM+implementation.pdf",
-      "published_at": "2026-08-14T00:00:00Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "DG TAXUD · CBAM Guidance",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "欧盟",
-      "region": "欧洲",
-      "category": "碳与环保",
-      "status": "待核对",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-09T07:25:42Z",
-      "source_excerpt": "Guidance No. 2 - Quick guide for non-EU operators on CBAM implementation 14 August 2026 English Download (414.92 KB - PDF)",
-      "machine_translation": {
-        "title_zh": "第2号指南 -- -- 非欧盟操作员关于CBAM执行的快速指南",
-        "excerpt_zh": "2 - 非欧盟操作员关于CBAM 执行的快速指南 14 August 2026 English down (414.92 KB - PDF)",
-        "fingerprint": "d64f8d32977ecf0dd35370957feb13ab85eae913826c70a4ea472cf1ad33b8e2",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-09-29T15:10:20Z"
-      }
-    },
-    {
-      "id": "f724daaf1f0408654f16",
-      "title_zh": "Guidance No. 4 - CBAM calculation of the free allocation adjustment to the number of CBAM certificates to be surrendered",
-      "title_en": "Guidance No. 4 - CBAM calculation of the free allocation adjustment to the number of CBAM certificates to be surrendered",
-      "title_original": "Guidance No. 4 - CBAM calculation of the free allocation adjustment to the number of CBAM certificates to be surrendered",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://taxation-customs.ec.europa.eu/document/download/3aa2c730-4f1b-4524-8f71-d9cfe4880ac7_en?filename=Guidance+No.+4+-+CBAM+calculation+of+the+free+allocation+adjustment+to+the+number+of+CBAM+certificates+to+be+surrendered.pdf",
-      "published_at": "2026-08-14T00:00:00Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "DG TAXUD · CBAM Guidance",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "欧盟",
-      "region": "欧洲",
-      "category": "碳与环保",
-      "status": "待核对",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-09T07:25:42Z",
-      "source_excerpt": "Guidance No. 4 - CBAM calculation of the free allocation adjustment to the number of CBAM certificates to be surrendered 14 August 2026 English Download (997.49 KB - PDF)"
-    },
-    {
-      "id": "8fad486859b7e74e4dcb",
-      "title_zh": "Guidance No. 5d - Sector-specific guidance document on iron and steel",
-      "title_en": "Guidance No. 5d - Sector-specific guidance document on iron and steel",
-      "title_original": "Guidance No. 5d - Sector-specific guidance document on iron and steel",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://taxation-customs.ec.europa.eu/document/download/3eb64513-8255-4c71-875a-bd0a8c7ff772_en?filename=Guidance+No.+5d+-+Sector-specific+guidance+document+on+iron+and+steel.pdf",
-      "published_at": "2026-08-14T00:00:00Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "DG TAXUD · CBAM Guidance",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "欧盟",
-      "region": "欧洲",
-      "category": "法规与正式文件",
-      "status": "待核对",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-09T07:25:42Z",
-      "source_excerpt": "Guidance No. 5d - Sector-specific guidance document on iron and steel 14 August 2026 English Download (1.86 MB - PDF)",
-      "machine_translation": {
-        "title_zh": "第5d号指导----关于钢铁的部门性指导文件",
-        "excerpt_zh": "指南编号:5d -- -- 关于钢和钢的行业指导文件14 8月2026英语下载(1.86 MB - PDF)",
-        "fingerprint": "33710c595024835547ded5ce12609af0ad94af0f27578085e9e7031de63d2265",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-09-29T15:10:23Z"
-      }
     },
     {
       "id": "8c9daff7588f79fcfc11",
@@ -3866,7 +4115,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "Status: Closed Targeted consultation on the first product scope review under the EU Steel Regulation Opening date 30 July 2026 Deadline 30 September 2026, 23:59 (CEST)",
       "consultation": {
         "status": "CLOSED",
@@ -3907,57 +4156,12 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "News article 30 July 2026 Revised 2026 and 2027 EU ETS1 auction calendars published Today, the European Energy Exchange (EEX) published the revised 2026 and the new 2027 EU ETS1 auction calendars. 3 min read",
       "evidence_url": "https://climate.ec.europa.eu/news-other-reads/news/revised-2026-and-2027-eu-ets1-auction-calendars-published-2026-07-30_en",
       "coverage": "已核对官方正文；仅总结本页，不表示已阅读全文所链接的法规或附件。",
       "review_method": "source_checked",
       "reviewed_at": "2026-10-08"
-    },
-    {
-      "id": "97e800927deecb542fe6",
-      "title_zh": "碳边界调整机制：法律效力通知和参考文件",
-      "title_en": "Carbon Border Adjustment Mechanism: force of law notice and reference document",
-      "title_original": "Carbon Border Adjustment Mechanism: force of law notice and reference document",
-      "summary_zh": "了解碳边界调整机制的法律效力通知及相关参考文件。",
-      "summary_en": "Find out about the force of law notice for the Carbon Border Adjustment Mechanism and reference document.",
-      "impact_zh": "中国钢铁企业需关注法律效力的变化，以便及时调整合规策略。",
-      "impact_en": "Chinese steel companies need to pay attention to changes in legal force to adjust compliance strategies in a timely manner.",
-      "url": "https://gov.uk/government/publications/carbon-border-adjustment-mechanism-force-of-law-notice-and-reference-document",
-      "published_at": "2026-07-13T08:30:00Z",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "英国",
-      "region": "欧洲",
-      "category": "法规与正式文件",
-      "status": "审查中",
-      "importance": "中",
-      "products": [
-        "钢铁"
-      ],
-      "products_en": [
-        "steel"
-      ],
-      "tags": [
-        "CBAM",
-        "法律效力",
-        "钢铁"
-      ],
-      "tags_en": [
-        "CBAM",
-        "legal force",
-        "steel"
-      ],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.8,
-      "translation_state": "complete",
-      "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-07-24T07:59:09Z"
     },
     {
       "id": "fff0a23e9ea254f913ca",
@@ -4049,7 +4253,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ISC_WORKFLOW",
@@ -4104,7 +4308,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -4156,7 +4360,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "INIT_PLANNED",
@@ -4169,13 +4373,13 @@
     },
     {
       "id": "46c7acfed4758beaf669",
-      "title_zh": "RoHS下铅作为钢铁、铝和铜合金元素的豁免",
-      "title_en": "Exemptions under RoHS for lead as an alloying element in steel, aluminium and copper",
+      "title_zh": "RoHS含铅合金钢豁免倡议已采纳，具体范围和期限仍查正式附件",
+      "title_en": "RoHS lead-alloy exemption initiative records adoption; annex details remain unchecked",
       "title_original": "Exemptions under RoHS for lead as an alloying element in steel, aluminium and copper",
-      "summary_zh": "欧盟正在评估关于铅作为合金元素在钢铁、铝和铜中的豁免申请。",
-      "summary_en": "The EU is assessing exemption requests for lead as an alloying element in steel, aluminium, and copper.",
-      "impact_zh": "若豁免获得批准，可能会影响相关钢铁产品的生产和出口标准。",
-      "impact_en": "If the exemption is approved, it may affect the production and export standards of related steel products.",
+      "summary_zh": "欧委会官方API显示该倡议关注电子电气设备使用的钢、铝、铜合金中的铅豁免，2025年9月8日记录授权指令采纳并发布。倡议摘要只确认主题和程序，不能据此确认具体钢种、铅含量上限及到期日。",
+      "summary_en": "The Commission API records adoption and publication on 8 September 2025 for lead-alloy exemptions in electrical/electronic equipment. It confirms the initiative and procedure, not detailed steel grades, limits or expiry dates.",
+      "impact_zh": "向电子电气行业供钢时按最终指令附件和客户物质限制规范核对；不可将历史倡议理解为所有含铅钢永久豁免。",
+      "impact_en": "Check the adopted annex and customer substance specifications; no blanket permanent exemption is established.",
       "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14172-Exemptions-under-RoHS-for-lead-as-an-alloying-element-in-steel-aluminium-and-copper_en",
       "published_at": "2025-09-08T12:08:42Z",
       "source": {
@@ -4187,7 +4391,7 @@
       "country": "欧盟",
       "region": "欧洲",
       "category": "法规与正式文件",
-      "status": "审查中",
+      "status": "采纳程序记录",
       "importance": "中",
       "products": [
         "钢铁"
@@ -4196,26 +4400,26 @@
         "steel"
       ],
       "tags": [
-        "RoHS",
-        "铅",
-        "合金"
+        "钢铁"
       ],
       "tags_en": [
-        "RoHS",
-        "lead",
-        "alloy"
+        "Steel"
       ],
       "language": "en",
       "image_url": "",
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
         "opens_at": "2025-09-08T12:08:42Z"
-      }
+      },
+      "coverage": "核读官方API dossierSummary和publications；未核读采纳指令与附件全文，仅完成摘要和程序核验。",
+      "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14172",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "bfbddce9a303487810b2",
@@ -4258,13 +4462,17 @@
       "confidence": 0.8,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
         "opens_at": "2025-08-22T13:56:33Z",
         "closes_at": "2025-11-14T23:59:59Z"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "一般企业救助与重组指引倡议，缺乏钢铁特定政策或业务事项。",
+      "review_note_en": "Outside the dashboard scope: valuation/speculation, unrelated product, or no specific steel policy/trade event.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "ae6368902d8dfda17b80",
@@ -4307,7 +4515,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "OPC_LAUNCHED",
@@ -4360,7 +4568,7 @@
       "confidence": 0.85,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -4373,13 +4581,13 @@
     },
     {
       "id": "ae93a638b2649c9bd17e",
-      "title_zh": "CTI华测检测旗下机构获CBAM核查资质，覆盖全部六大管制行业",
-      "title_en": "CTI华测检测旗下机构获CBAM核查资质，覆盖全部六大管制行业",
+      "title_zh": "华测旗下机构公告取得CBAM核查认可，证书范围仍需独立核对",
+      "title_en": "CTI affiliate announces CBAM accreditation; certificate scope needs checking",
       "title_original": "CTI华测检测旗下机构获CBAM核查资质，覆盖全部六大管制行业",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "华测发布的企业公告称希腊EmiCert取得ESYD签发的CBAM认可，证书编号874-9，覆盖六个管制行业，并称为全球首家。已核读公告，但尚未在认可机构名录独立确认完整证书范围和“全球首家”说法；不能据公告为具体钢厂核查资格背书。",
+      "summary_en": "CTI says Greek EmiCert obtained ESYD accreditation, certificate 874-9, covering six sectors. The announcement was read, but the register, detailed scope and “world first” claim were not independently verified.",
+      "impact_zh": "委托前索取有效证书、钢铁工艺认可范围、人员能力和签字权限，并与认可机构公开名录核对。",
+      "impact_en": "Obtain the valid certificate and steel-process scope and check the accreditation register.",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOckNIRm5Bb3cyamw0UFItUFNGcGs5endMNFFaTV9ORDR3ZEtQel9sMUlpaVhmS0xWTVRBMmRxZXdvTTBaR19kZExvU0d2M0RqZFRPV2R1YzRKWlRnRERSQUdVWVpmNW9JemJ2QThJWWdVR1BGN1BJb2djSV9UUmFPaGRWa0I3UlV6aG9scHVTRmpqcHpuLWxDSUxQeTJyd21IYm9rVg?oc=5",
       "published_at": "2026-10-09T01:46:04Z",
       "source": {
@@ -4391,29 +4599,37 @@
       "country": "全球",
       "region": "全球",
       "category": "碳与环保",
-      "status": "新闻",
+      "status": "企业公告·范围待确认",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "zh",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-10-09T07:14:21Z",
-      "last_seen": "2026-10-09T07:25:42Z",
-      "source_excerpt": "CTI华测检测旗下机构获CBAM核查资质，覆盖全部六大管制行业 搜狐网"
+      "last_seen": "2026-10-09T07:54:15Z",
+      "source_excerpt": "CTI华测检测旗下机构获CBAM核查资质，覆盖全部六大管制行业 搜狐网",
+      "coverage": "核读华测发布的9月23日公告；六行业与首家为企业陈述，尚未独立核认证书附件。",
+      "evidence_url": "https://www.prnasia.com/story/549120-1.shtml",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "c74d7ec5e6ec5e5bb075",
-      "title_zh": "CBAM turns inward: What developing countries need to look out for",
-      "title_en": "CBAM turns inward: What developing countries need to look out for",
+      "title_zh": "ECDPM评论：CBAM转向内部产业政策，第三国应加强数据能力",
+      "title_en": "ECDPM commentary: CBAM and third-country data capacity",
       "title_original": "CBAM turns inward: What developing countries need to look out for",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "作者认为CBAM正更多服务欧盟内部产业政策，并提醒发展中国家关注排放监测、资金和制度调整。属于智库评论，不能据此认定新的税率、豁免或已通过的下游扩围。",
+      "summary_en": "The commentary argues that CBAM increasingly reflects internal EU industrial priorities and urges developing countries to address monitoring, finance and institutional capacity. It establishes no new rate or exemption.",
+      "impact_zh": "中国出口商可把装置数据、核查预算与进口商合作列入长期准备，但适用商品和法定期限仍查官方文件。",
+      "impact_en": "Plan data and verification capacity; use official texts for legal scope and deadlines.",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2Y4cERnUHhMZVJuVjZFQnpVa3o2ZUZrMUN6YVZnRjJOUUEydEMtSEFNYUctNks4WnhSVmtiM0dqYTVBTVJVdlRFMnZ3Qld3UDBOX0wtdTlRZ3MtYmNyUVlWMGlrNTV6MTczTzMyVW5xU2NrSEs2b1hrcHd3Ym1xcjFCYk9uUjg1RUZLLXBFdm83ZG1Wd2VTN1FVaTk2dTA2VmFadzFodk01SHd1TUdZd081aENsV05l?oc=5",
       "published_at": "2026-10-08T09:45:34Z",
       "source": {
@@ -4425,27 +4641,27 @@
       "country": "全球",
       "region": "全球",
       "category": "碳与环保",
-      "status": "新闻",
+      "status": "智库评论",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-10-08T12:16:05Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "CBAM turns inward: What developing countries need to look out for PubAffairs Bruxelles",
-      "machine_translation": {
-        "title_zh": "CBAM 向内旋转:发展中国家需要注意什么",
-        "excerpt_zh": "CBAM 向内转: 哪些发展中国家需要关注普巴费尔斯·布鲁谢尔斯",
-        "fingerprint": "dce27cb6bcbdab200f7617959d00e8bd65d01cf9fd17b418b9eb30290752a6b2",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-10-08T12:16:19Z"
-      }
+      "coverage": "核读PubAffairs转载的ECDPM署名评论；原评论10月6日，转载页10月8日，法律状态未以评论替代官方文件。",
+      "evidence_url": "https://www.pubaffairsbruxelles.eu/opinion-analysis/cbam-turns-inward-what-developing-countries-need-to-look-out-for/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "c0363c3cbbb31722a69f",
@@ -4478,8 +4694,12 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-08T12:16:05Z",
-      "last_seen": "2026-10-09T07:25:42Z",
-      "source_excerpt": "乌克兰钢厂被炸要花15亿美元买钢：中国愁销路的钢材迎来新买家 搜狐网"
+      "last_seen": "2026-10-09T07:54:15Z",
+      "source_excerpt": "乌克兰钢厂被炸要花15亿美元买钢：中国愁销路的钢材迎来新买家 搜狐网",
+      "review_disposition": "blocked",
+      "review_note_zh": "Google索引503且未找到可靠原始采购文件；15亿美元用钢需求和中国订单机会均无法证实。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "d08c729400ed80435fb6",
@@ -4512,50 +4732,13 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-08T12:16:05Z",
-      "last_seen": "2026-10-09T07:25:42Z",
-      "source_excerpt": "欧盟公布2026年三季度CBAM证书参考价 环比上涨明显 煤炭资源网"
-    },
-    {
-      "id": "c99def27c7ea6f233f80",
-      "title_zh": "EU’s CBAM Downstream Extension and Anti-Circumvention Amendments: the Road to Trilogue",
-      "title_en": "EU’s CBAM Downstream Extension and Anti-Circumvention Amendments: the Road to Trilogue",
-      "title_original": "EU’s CBAM Downstream Extension and Anti-Circumvention Amendments: the Road to Trilogue",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSldWZXhJcUZDZG9BRlRtazdUZDVPZnpweDRpX0hQTkMzOFZKYTNkT1A0bUhGZXhCN2lUSnRTbnhJOEIyMDdaTGNtb0JlMW55eDh1b1YzTjVNLW93Y201OG9HZnY5OE1ydWE2RFBqdGRqeTBtSm8wZ1dZRjRIS29vM2VTbUhVN2pBajN2bmt3bjROM3ZvNjk4QnJiVUY0Q2NkY3FyRnBmbHU1OTdRbmwzYU1wQm1KbGtIdjZMdkU1WlV6NWR0NXBMQUZMbWdxazZlZk1lM3o3bGR4ZDQ3?oc=5",
-      "published_at": "2026-10-07T22:01:19Z",
-      "source": {
-        "id": "rss",
-        "name": "Mayer Brown",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "碳与环保",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-10-09T07:23:15Z",
-      "last_seen": "2026-10-09T07:23:15Z",
-      "source_excerpt": "EU’s CBAM Downstream Extension and Anti-Circumvention Amendments: the Road to Trilogue Mayer Brown",
-      "machine_translation": {
-        "title_zh": "欧盟的CBAM下游扩展和反规避修正:通向三重唱之路",
-        "excerpt_zh": "欧盟的CBAM下游扩展和反规避修正:通向五月三餐节之路",
-        "fingerprint": "90b8418672f9c2d3fbbc59d53405baca49cfa579819f384cad83ee47774ec555",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-10-09T07:23:31Z"
-      }
+      "last_seen": "2026-10-09T07:54:15Z",
+      "source_excerpt": "欧盟公布2026年三季度CBAM证书参考价 环比上涨明显 煤炭资源网",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/price-cbam-certificates_en"
     },
     {
       "id": "420ba7484372bd82af59",
@@ -4588,8 +4771,13 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-08T12:16:05Z",
-      "last_seen": "2026-10-09T07:25:42Z",
-      "source_excerpt": "Rio Tinto Pushes Steel Decarbonization with Carbon Capture Trial in China CarbonCredits.com"
+      "last_seen": "2026-10-09T07:54:15Z",
+      "source_excerpt": "Rio Tinto Pushes Steel Decarbonization with Carbon Capture Trial in China CarbonCredits.com",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXVIM1dSZHpIWW80N09FdlhwSXlyVms5OURrU3Y2MjZ2NVYwNXAxSnp5cFJZQ19MYmVrQXA0Rk0xT1FhMEdjYjJJWjQ3LXA5SWdBZFdRVGxWV1gwUENrYnp5SWhnNTJJd1VzcTc5dFZXdmkwMVg0NHViYkQwZDRQU093MUtTSFY1VjExWFh2OGduN1E0aWMzSmQzWkFvZlRCUl9LNGlDb3VuazhfYkRBX000Z2VTMFc1aHhvS21EUXVlX2QwQjVNQmtZTXpSWkNMT0s1RUR3?oc=5"
     },
     {
       "id": "7b56250db570578d17ff",
@@ -4622,8 +4810,12 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-08T12:16:05Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "Swedish steelmaker laments tone of EU ETS reform talks Montel News",
+      "review_disposition": "blocked",
+      "review_note_zh": "Montel原页仅提供导语并要求注册；仅知Stegra担心放松ETS的讨论，未取得全文与正式政策依据。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09",
       "machine_translation": {
         "title_zh": "瑞典钢铁制造商对EU ETS改革会谈的语气悲叹",
         "excerpt_zh": "瑞典钢铁制造商对EU ETS改革演讲的语气感到悲哀",
@@ -4664,26 +4856,22 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-07T12:03:28Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "Baosteel stock faces 18.8 percent Australian steel duties AD HOC NEWS",
-      "machine_translation": {
-        "title_zh": "Baosteel公司面临18.8百分比的澳大利亚钢税",
-        "excerpt_zh": "Baosteel公司面临18.8百分比的澳大利亚钢铁税",
-        "fingerprint": "a55d7428abaf462810bff42500ac6b0a2f410e794c22428548447904730344e7",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-10-07T12:03:43Z"
-      }
+      "review_disposition": "excluded",
+      "review_note_zh": "以股票表现为主的估值新闻；18.8%关税线索未获官方确认，不据此新增税率判断。",
+      "review_note_en": "Outside the dashboard scope: valuation/speculation, unrelated product, or no specific steel policy/trade event.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "36362117bff1bdef0b05",
-      "title_zh": "中国钢铁行业转型，澳大利亚铁矿石承压| 对话地球",
-      "title_en": "中国钢铁行业转型，澳大利亚铁矿石承压| 对话地球",
+      "title_zh": "中国钢铁低碳转型推动澳大利亚重新评估矿石与绿铁出口",
+      "title_en": "China steel transition prompts Australia to assess green-iron exports",
       "title_original": "中国钢铁行业转型，澳大利亚铁矿石承压| 对话地球",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "对话地球报道中国需求放缓和低碳工艺变化可能影响澳大利亚矿石出口，讨论绿铁路径、中澳研究合作，以及可再生电力、氢气、基础设施和矿石品位的约束。绿铁项目仍处探索期，受访者预测并不构成已确定采购需求。",
+      "summary_en": "Dialogue Earth examines Australia’s ore and green-iron options as China’s steel sector changes. Power, hydrogen, infrastructure and ore quality remain constraints; interview projections do not establish committed purchases.",
+      "impact_zh": "中国钢厂评估矿石与绿铁时比较综合成本、品位和实际排放，优先验证试验数据及供应保障。",
+      "impact_en": "Compare delivered cost, quality, measured emissions and supply reliability.",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1GUUxiRFdSQWxpVVhmWnUzZ0FoWUdOMERRb2N1SDV4TGRNYzNCNG9pc1NvOWkzcF96RnQ0QlNRdm5ZaGg0SFRfdzJfWFhPQQ?oc=5",
       "published_at": "2026-10-06T14:35:27Z",
       "source": {
@@ -4694,20 +4882,28 @@
       },
       "country": "全球",
       "region": "全球",
-      "category": "市场与产能",
-      "status": "新闻",
+      "category": "企业与供应链",
+      "status": "一般新闻",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "zh",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-10-07T12:03:28Z",
-      "last_seen": "2026-10-09T07:25:42Z",
-      "source_excerpt": "中国钢铁行业转型，澳大利亚铁矿石承压| 对话地球 Dialogue Earth"
+      "last_seen": "2026-10-09T07:54:15Z",
+      "source_excerpt": "中国钢铁行业转型，澳大利亚铁矿石承压| 对话地球 Dialogue Earth",
+      "coverage": "核读对话地球中文报道主体；保留预测与项目试验性质，未核读其全部引用研究。",
+      "evidence_url": "https://dialogue.earth/zh/1/60154303/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "e16e52ac4fc8c4afe77d",
@@ -4740,16 +4936,13 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-07T12:03:28Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "Tsingshan, Zimbabwe rail sign deal to boost coal and steel haulage Bulawayo24 News",
-      "machine_translation": {
-        "title_zh": "辛山,津巴布韦铁路标志交易,促进煤炭和钢铁运输",
-        "excerpt_zh": "辛山,津巴布韦铁路标志协议 以推进煤和钢铁运输 布拉瓦约24 News",
-        "fingerprint": "9f9d8ebf56cfac511031e92f2dcdf65f7093ad88fe9e60bbf3ef173b09ea40b0",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-10-07T12:03:44Z"
-      }
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUNRMVFTUXhGQXdJdS03dXZZN1VEb3JNX0x3QmhRZnVtYjZqbHhpWVJMYUtsSWE2aXJjVURwTVZoUEIwUWJ5dlh2eXJLUlQzWVVKMzI0U3AxRmJGSWNGakpwQk9SMktMS0RYTHhXQUs4YzFZUVJ1MkFDWHFIMW5RVUsxMjR1T0NpYTZrUTljcUI4YzB4dGFMbERMRWtFNWl2R1BPVXZWZDZKN1cwNk1SNUdxTDFWTkhNQURkU041TXM?oc=5"
     },
     {
       "id": "020ab011dd800b792d0c",
@@ -4782,16 +4975,13 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-07T12:03:28Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "CBAM certificate price up nearly 10% Balkan Green Energy News",
-      "machine_translation": {
-        "title_zh": "CBAM 证书价格接近10%",
-        "excerpt_zh": "CBAM 证书价格接近 10% 巴尔干绿色能源新闻",
-        "fingerprint": "22b76bab337beecf303d2bdf6516b5be71c453b5130d840ebc1f280aea6e0ccb",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-10-07T12:03:44Z"
-      }
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/price-cbam-certificates_en"
     },
     {
       "id": "6457a05877db5e448764",
@@ -4833,7 +5023,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-08T12:16:22Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "英联邦原报告入口多次访问失败；未核读报告，不能套用该报道推导UK CBAM具体影响。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "f261f49c9ce2af5af3b0",
@@ -4866,16 +5060,13 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-06T12:14:56Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "CBAM certificate price rises in Q3 EUROMETAL",
-      "machine_translation": {
-        "title_zh": "CBAM 证书价格在 Q3 中上涨",
-        "excerpt_zh": "CBAM 证书在 Q3 EUROMETAL 中的价格上涨",
-        "fingerprint": "6a7c323ec9dd4f6389781e79b84a9f544da0c3928d02c61dd6549103c705b76c",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-10-06T12:15:10Z"
-      }
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/price-cbam-certificates_en"
     },
     {
       "id": "dcb33fc43d95851c1558",
@@ -4909,7 +5100,12 @@
       "translation_state": "pending",
       "first_seen": "2026-10-06T12:14:56Z",
       "last_seen": "2026-10-08T12:16:05Z",
-      "source_excerpt": "EU Commission announces CBAM certificate price for the third quarter of 2026 SteelRadar"
+      "source_excerpt": "EU Commission announces CBAM certificate price for the third quarter of 2026 SteelRadar",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/price-cbam-certificates_en"
     },
     {
       "id": "d9188d5cc68f79cb92b0",
@@ -4942,8 +5138,13 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-07T12:03:28Z",
-      "last_seen": "2026-10-09T07:25:42Z",
-      "source_excerpt": "EU CBAM certificate price rises to €82.32 for Q3 2026 Steel Orbis"
+      "last_seen": "2026-10-09T07:54:15Z",
+      "source_excerpt": "EU CBAM certificate price rises to €82.32 for Q3 2026 Steel Orbis",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/price-cbam-certificates_en"
     },
     {
       "id": "298cfae4706a2d760005",
@@ -4976,26 +5177,23 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-06T12:14:56Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "Tsingshan’s Zimbabwe Steel Plant Is Rebuilding The Rail Link Finimize",
-      "machine_translation": {
-        "title_zh": "清山的津巴布韦钢铁厂正在重建铁路连线",
-        "excerpt_zh": "清山的津巴布韦钢铁厂正在重建铁路链条",
-        "fingerprint": "1205ef512af1cfdf77ae64eb19cc1ae3fc3cabca9996d8659631a61b4eae17a7",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-10-06T12:15:11Z"
-      }
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUNRMVFTUXhGQXdJdS03dXZZN1VEb3JNX0x3QmhRZnVtYjZqbHhpWVJMYUtsSWE2aXJjVURwTVZoUEIwUWJ5dlh2eXJLUlQzWVVKMzI0U3AxRmJGSWNGakpwQk9SMktMS0RYTHhXQUs4YzFZUVJ1MkFDWHFIMW5RVUsxMjR1T0NpYTZrUTljcUI4YzB4dGFMbERMRWtFNWl2R1BPVXZWZDZKN1cwNk1SNUdxTDFWTkhNQURkU041TXM?oc=5"
     },
     {
       "id": "8047bcf3652a29c5e1db",
-      "title_zh": "Australia’s low CBAM iron ore default creates an indirect trade advantage",
-      "title_en": "Australia’s low CBAM iron ore default creates an indirect trade advantage",
+      "title_zh": "澳洲矿石的CBAM优势主要限于团聚矿，不能推广到粉矿和块矿",
+      "title_en": "Australian CBAM ore advantage is limited to agglomerated ore",
       "title_original": "Australia’s low CBAM iron ore default creates an indirect trade advantage",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "Fastmarkets分析称CBAM覆盖CN26011200的团聚矿，澳洲多数粉矿、块矿不在该类别；较低默认值可能影响使用球团、并以实际排放申报输欧钢材的亚洲钢厂采购。但可用产量、品位、运费和实际核查值同样重要，媒体比较值未在本轮逐项复核法规附件。",
+      "summary_en": "Fastmarkets distinguishes CN26011200 agglomerated ore from Australian fines and lump. Potential precursor advantages depend on product availability, suitability, freight and the mill’s emissions reporting. Numerical defaults were not independently reconciled with the annex.",
+      "impact_zh": "按商品形态核对前体数据，先算冶炼和物流综合成本；不要把澳洲来源标签直接等同CBAM免税或固定节省。",
+      "impact_en": "Check precursor form and total process/logistics cost; Australian origin is not an exemption.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTZwM0R6amgtMnZsRW5vTllQUllNWjB6UG1pN3pTaE9KOEFtNUNUTUpPd1g1VmFIQ0lSUnZRd2t5ZWhNeDA5UVUtYjZlT0RBdlRwdDc5U1QzWW8wRW5WWGM0R2ROUUhLcTB1U2wtNFl1cGZOSk5vZVdqWWVHLUR2QllGczJQNHZDLXVNaVlPNXB3Tk4zU1E4aklPRUdsUGpMalBWM3ZuQzE3NkRHNHdZ?oc=5",
       "published_at": "2026-10-05T19:49:07Z",
       "source": {
@@ -5007,37 +5205,37 @@
       "country": "全球",
       "region": "全球",
       "category": "碳与环保",
-      "status": "新闻",
+      "status": "行业分析",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-10-06T12:14:56Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "Australia’s low CBAM iron ore default creates an indirect trade advantage Fastmarkets",
-      "machine_translation": {
-        "title_zh": "澳大利亚较低的CBAM铁矿石违约造成了间接贸易优势",
-        "excerpt_zh": "澳大利亚较低的CBAM铁矿石违约造成了间接贸易优势",
-        "fingerprint": "ecb23e74c811f241dd15185ff5647f0721923d84fe851169426f61775c895f67",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-10-06T12:15:14Z"
-      }
+      "coverage": "核读Fastmarkets正文及官方钢铁指南的前体范围；未独立复算预测贸易量和国家默认值表。",
+      "evidence_url": "https://www.fastmarkets.com/insights/australias-low-cbam-iron-ore-default-creates-an-indirect-trade-advantage/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "a966512c67de38f34f9b",
-      "title_zh": "Tsingshan's Zimbabwe steel unit partners with state rail firm to boost haulage capacity",
-      "title_en": "Tsingshan's Zimbabwe steel unit partners with state rail firm to boost haulage capacity",
+      "title_zh": "青山津巴布韦钢厂签铁路运输合作，煤和钢材运量为协议计划",
+      "title_en": "Tsingshan’s Zimbabwe unit signs rail deal with planned coal and steel volumes",
       "title_original": "Tsingshan's Zimbabwe steel unit partners with state rail firm to boost haulage capacity",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "路透报道Dinson与津巴布韦国家铁路合作，由集团企业提供机车、货车和燃料，国家铁路提供线路和人员。协议涉及110万吨煤、60万吨钢材运输，80公里既有线改造约2700万美元，随后建设50公里钢厂连接线。这些是协议计划，不是已完成运量或已建成铁路。",
+      "summary_en": "Reuters reports a Dinson/NRZ deal for locomotives, wagons, fuel and railway services. Planned volumes are 1.1 Mt coal and 0.6 Mt steel, with an 80-km upgrade costing about USD27 million and a subsequent 50-km plant link; these are plans.",
+      "impact_zh": "关注融资、建设节点和运输履约，可降低当地钢厂物流瓶颈；不能立即据此增加区域可售产量。",
+      "impact_en": "Track financing, construction and service delivery before assuming extra market supply.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUNRMVFTUXhGQXdJdS03dXZZN1VEb3JNX0x3QmhRZnVtYjZqbHhpWVJMYUtsSWE2aXJjVURwTVZoUEIwUWJ5dlh2eXJLUlQzWVVKMzI0U3AxRmJGSWNGakpwQk9SMktMS0RYTHhXQUs4YzFZUVJ1MkFDWHFIMW5RVUsxMjR1T0NpYTZrUTljcUI4YzB4dGFMbERMRWtFNWl2R1BPVXZWZDZKN1cwNk1SNUdxTDFWTkhNQURkU041TXM?oc=5",
       "published_at": "2026-10-05T17:55:44Z",
       "source": {
@@ -5048,19 +5246,23 @@
       },
       "country": "全球",
       "region": "全球",
-      "category": "市场与产能",
-      "status": "新闻",
+      "category": "企业与供应链",
+      "status": "一般新闻",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-10-06T12:14:56Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "Tsingshan's Zimbabwe steel unit partners with state rail firm to boost haulage capacity Reuters",
       "machine_translation": {
         "title_zh": "津山的津巴布韦钢铁厂合伙人 与国家铁路公司合作提高运输能力",
@@ -5069,7 +5271,21 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-06T12:15:14Z"
-      }
+      },
+      "coverage": "核读MarketScreener刊载的路透全文；Reuters入口访问失败，以带路透署名的转载正文核验，NRZ原始声明未独立取得。",
+      "evidence_url": "https://uk.marketscreener.com/news/tsingshan-s-zimbabwe-steel-unit-partners-with-state-rail-firm-to-boost-haulage-capacity-ce785dd8da8bf424",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09",
+      "related_sources": [
+        {
+          "name": "Bulawayo24 News",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4RzJtVjR1QTNlODNFbzZFMnJIeG90QmJ4Z2o4am5KblJnOG5PVF9JQjc5TmY1QUlndWkxczZYTmZNRnUzV253TmdRbWVEUHk0R2hHcmJ0WmNVUVg5dF9iMkpKeENJUXNtY2k1Vm14US0yUQ?oc=5"
+        },
+        {
+          "name": "Finimize",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXI0Z21sQ082ci1QbXBBNDFnb1pLaVB0YlAtSUV6b21QSnF6bXVIWjRDQmlRMklxczdOTENoZ0xBZUxpTjkzdGlkbl9nc0o0MmRFaTZoOHpVc0RBaG83YTdCTWFIcDVsM1F6cHJLZ0dLV3liY2NRVi0zdVdLMFB5THM4b2l1LXhjektOSTFLQzNHdw?oc=5"
+        }
+      ]
     },
     {
       "id": "31db57a3ce450b8d411d",
@@ -5111,7 +5327,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-06T12:15:15Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "SteelOrbis正文入口不可用；仅有会议线索，须区分9月活动和10月报道以及EUROFER主席更替。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "a4c67175c69903ae921f",
@@ -5145,7 +5365,12 @@
       "translation_state": "pending",
       "first_seen": "2026-10-08T12:16:05Z",
       "last_seen": "2026-10-08T12:16:05Z",
-      "source_excerpt": "欧盟2026年第三季度CBAM证书价格定为每吨82.32欧元 - 新闻和统计 IndexBox"
+      "source_excerpt": "欧盟2026年第三季度CBAM证书价格定为每吨82.32欧元 - 新闻和统计 IndexBox",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/price-cbam-certificates_en"
     },
     {
       "id": "5f8683e60d2ebcf53c08",
@@ -5178,18 +5403,23 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-06T12:14:56Z",
-      "last_seen": "2026-10-09T07:25:42Z",
-      "source_excerpt": "The European Commission has announced the price of CBAM certificates for Q3 2026 GMK Center"
+      "last_seen": "2026-10-09T07:54:15Z",
+      "source_excerpt": "The European Commission has announced the price of CBAM certificates for Q3 2026 GMK Center",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/price-cbam-certificates_en"
     },
     {
       "id": "9fedc204024c1ff0343d",
-      "title_zh": "China Steel Raises November List Prices by NT$900 Per Ton, Second Consecutive Monthly Increase",
-      "title_en": "China Steel Raises November List Prices by NT$900 Per Ton, Second Consecutive Monthly Increase",
+      "title_zh": "台湾中钢11月月盘调涨NT$900/吨，应与中国大陆钢企区分",
+      "title_en": "Taiwan CSC raises November monthly prices by NT$900/t",
       "title_original": "China Steel Raises November List Prices by NT$900 Per Ton, Second Consecutive Monthly Increase",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "Yieh报道台湾China Steel Corporation对11月交货的主要月盘产品加价NT$900/吨，包含热轧、冷轧及部分镀锌板卷。此处“China Steel”指台湾中钢，不是中国大陆钢铁行业整体涨价；挂牌调价也不等于实际成交价。",
+      "summary_en": "Yieh reports a NT$900/t increase for major November monthly products at Taiwan’s CSC, including hot/cold rolled and selected galvanized coils. “China Steel” is Taiwan CSC; list prices are not transaction prices.",
+      "impact_zh": "作为亚洲报价竞争参考，分别比较交期、币种、规格与成交折扣；避免主体名称误判。",
+      "impact_en": "Compare Asian offers by delivery, currency, specification and discounts.",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UVFJjVlp6RlktQkZvVDdZdThOYllMNS1jaF9kSDcxNVltOG9KN29UcnJMRUlpaUcyUXliSzd6UVJhajVBdjdVWnNld0lja0N6Nll2MjdXaXFDLWtaWWxpbHdOdV9YMWVmb2duS3JSdmFwZW4zbHc?oc=5",
       "published_at": "2026-10-05T08:25:00Z",
       "source": {
@@ -5200,28 +5430,28 @@
       },
       "country": "全球",
       "region": "全球",
-      "category": "市场与产能",
-      "status": "新闻",
+      "category": "企业与供应链",
+      "status": "一般新闻",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-10-07T12:03:28Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "China Steel Raises November List Prices by NT$900 Per Ton, Second Consecutive Monthly Increase BigGo Finance",
-      "machine_translation": {
-        "title_zh": "中国钢铁11月涨价,每吨NT$900, 第二次连续月涨价",
-        "excerpt_zh": "中国钢铁11月涨价 以每吨NT$900为单位, 第二次连续每月涨价",
-        "fingerprint": "ed8e9cf0760a68ed478993c725dd029c78c367874a87a0185734cd9a1dfdbf53",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-10-07T12:03:46Z"
-      }
+      "coverage": "核读Yieh10月6日报道核对涨幅与产品；未取得CSC原始月盘通知，不将媒体报价当作实时成交。",
+      "evidence_url": "https://yieh.com/en/News/taiwans-csc-increases-product-prices-by-nt900ton-for-november/162830",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "d45c079577111eafbb75",
@@ -5254,16 +5484,13 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-05T08:04:22Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "Can Rio Tinto (ASX:RIO) and Shougang Turn Steel Emissions Into Fuel? Kalkine Media",
-      "machine_translation": {
-        "title_zh": "力拓(ASX:RIO)和首钢能将钢排放转化为燃料吗?",
-        "excerpt_zh": "力拓(ASX:RIO)和首钢能将钢排放转化为燃料吗?",
-        "fingerprint": "c5828baf855b936340fccb1b16024837ff40bad37b06904427332c1be0f53388",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-10-05T08:04:42Z"
-      }
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXVIM1dSZHpIWW80N09FdlhwSXlyVms5OURrU3Y2MjZ2NVYwNXAxSnp5cFJZQ19MYmVrQXA0Rk0xT1FhMEdjYjJJWjQ3LXA5SWdBZFdRVGxWV1gwUENrYnp5SWhnNTJJd1VzcTc5dFZXdmkwMVg0NHViYkQwZDRQU093MUtTSFY1VjExWFh2OGduN1E0aWMzSmQzWkFvZlRCUl9LNGlDb3VuazhfYkRBX000Z2VTMFc1aHhvS21EUXVlX2QwQjVNQmtZTXpSWkNMT0s1RUR3?oc=5"
     },
     {
       "id": "288a834a0930bc3c3b0d",
@@ -5305,7 +5532,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-03T07:16:34Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "找到Energy News Beat列表摘要，但原报道/CTV及项目采购原文件未核读；330亿项目投资不等于钢材订单金额。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "a96563e3c02940f3abf5",
@@ -5347,17 +5578,22 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-03T07:16:35Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXVIM1dSZHpIWW80N09FdlhwSXlyVms5OURrU3Y2MjZ2NVYwNXAxSnp5cFJZQ19MYmVrQXA0Rk0xT1FhMEdjYjJJWjQ3LXA5SWdBZFdRVGxWV1gwUENrYnp5SWhnNTJJd1VzcTc5dFZXdmkwMVg0NHViYkQwZDRQU093MUtTSFY1VjExWFh2OGduN1E0aWMzSmQzWkFvZlRCUl9LNGlDb3VuazhfYkRBX000Z2VTMFc1aHhvS21EUXVlX2QwQjVNQmtZTXpSWkNMT0s1RUR3?oc=5"
     },
     {
       "id": "a5e8132773293e9fc3e8",
-      "title_zh": "New CBAM Study: Relief from 2028, but Not for SMEs",
-      "title_en": "New CBAM Study: Relief from 2028, but Not for SMEs",
+      "title_zh": "Steelnews批评CBAM简化研究：中小企业仍面临数据成本",
+      "title_en": "Steelnews questions SME relief in a CBAM simplification study",
       "title_original": "New CBAM Study: Relief from 2028, but Not for SMEs",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "Gerber Group评论ERCST研究，认为拟议的小额采购简化对中小企业帮助有限，重点在2028年下游扩围背景下的大企业采购。属于行业观点和研究建议，未确认为已生效的额外豁免。",
+      "summary_en": "Gerber Group critiques an ERCST study’s proposed small-purchase relief, arguing it offers limited SME benefit. The proposal is not an enacted additional exemption.",
+      "impact_zh": "中国供应商仍应准备客户要求的排放资料，不据行业评论停止申报；低吨位多供应商业务评估数据成本。",
+      "impact_en": "Continue preparing customer data; assess costs for low-volume, multi-supplier trade.",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4wd1lpWmhmUWFSV3hoUElXOHBlMnRfelNuQTJzal9DWDVtRlU5VTVBbml1ekhZR1gwZjlLZXkwc1h3QnpJLWQtVkVxRUQtR05pSlhmckN0R3UwQXlvc25rNlZiLWZDM1ZPQVZNWjBtQkFxaUQwai1NcjdxRQ?oc=5",
       "published_at": "2026-10-02T09:30:00Z",
       "source": {
@@ -5369,37 +5605,37 @@
       "country": "全球",
       "region": "全球",
       "category": "碳与环保",
-      "status": "新闻",
+      "status": "行业评论",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-10-02T11:23:16Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "source_excerpt": "New CBAM Study: Relief from 2028, but Not for SMEs Steel and Stainless Steel News",
-      "machine_translation": {
-        "title_zh": "新的CBAM研究:从2028得到的救济,但对中小企业则不是",
-        "excerpt_zh": "新的CBAM研究:来自2028的救济,但对于中小企业而言,不是钢和不锈钢新闻",
-        "fingerprint": "1c5284a7e94fdb298d15b702eebb8680ec63cf82b270fe438120374e1fdf2da8",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-10-07T12:03:47Z"
-      }
+      "coverage": "核读Steelnews评论全文；ERCST研究模型与豁免方案未逐项独立复核。",
+      "evidence_url": "https://steelnews.biz/new-cbam-study-relief-from-2028-but-not-for-smes/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "6c88b59b5d1d402b2f13",
-      "title_zh": "The issue of CBAM must remain the number one priority at the highest level of government",
-      "title_en": "The issue of CBAM must remain the number one priority at the highest level of government",
+      "title_zh": "乌克兰雇主组织要求推迟CBAM付款，属于政策诉求",
+      "title_en": "Ukrainian employers seek CBAM payment deferral",
       "title_original": "The issue of CBAM must remain the number one priority at the highest level of government",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "乌克兰雇主联合会负责人在署名文章中主张继续实际排放报告、因战争推迟收费，并要求政府加强与欧盟交涉。其配额、默认值和经济损失说法为当事方陈述，文章不能证明欧盟已经批准延期或乌克兰钢材豁免。",
+      "summary_en": "A Ukrainian employers’ representative calls for reporting but deferred payment due to war. Quota and default-value criticisms are the author’s claims, not evidence of an EU-approved exemption.",
+      "impact_zh": "关注可能改变竞争条件的谈判；现有合同不应预设乌克兰获豁免，更不能推导中国出口同等待遇。",
+      "impact_en": "Monitor negotiations without assuming Ukrainian exemption or equivalent treatment for China.",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVEdORTRza2F4YzU3UEthV3hlem85NkNkeWNCQkJtdHpxcDV3TVNyTE5hSldRT1hyWjZnMWt2WUdEOGtDWWJkc3hJdXJGUDRQRGFpR3Fram96N2pDYmMyUkRpV2NVSDNSTUtObEVNc3hhS0FfNEw1WjRZVjVZR1ozeHdGV3JYc19sT0ZncFN4aUdYZ081OFlzYVRSc1JKVVVncno4cTNydlVZQmRkOU9OM1d5YlU2TExNU1BZ0gHAAUFVX3lxTE1tWGZ0YjRKVTAxdU1WLVpja1g5MEVSN1JJOXhFNHVkb21ldGR0RjIxOVE2cWlUZG1Lb0Iyc2lKS1F5dFprd1hUUVVFYmlsMEhQTnIyeUpzajVXanZhQUhyN294bE9hUVYtX00ySTRSbUw3c185TE5GeDVsQmI4WWxiSkpWaHBubFdKOWRCaGNfLVZfUG55Q25udlBpYWotbm80T2YzTm51NDN5MDBVekl2dEphSzcwOEl1WnFUVml4Sg?oc=5",
       "published_at": "2026-10-02T09:14:28Z",
       "source": {
@@ -5410,17 +5646,21 @@
       },
       "country": "全球",
       "region": "全球",
-      "category": "碳与环保",
-      "status": "新闻",
+      "category": "政策倡议与咨询",
+      "status": "行业诉求",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-10-03T07:16:17Z",
       "last_seen": "2026-10-05T08:04:22Z",
       "source_excerpt": "The issue of CBAM must remain the number one priority at the highest level of government GMK Center",
@@ -5431,17 +5671,21 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-03T10:41:04Z"
-      }
+      },
+      "coverage": "完整核读GMK署名观点；相关法律豁免、配额个案与损失估算未独立确认。",
+      "evidence_url": "https://gmk.center/en/opinion/the-issue-of-cbam-must-remain-the-number-one-priority-at-the-highest-level-of-government/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "7d02c7caebcc1dee644d",
-      "title_zh": "CBAM reporting: Reducing the administrative burden for European manufacturer",
-      "title_en": "CBAM reporting: Reducing the administrative burden for European manufacturer",
+      "title_zh": "ACEA研究倡议减少CBAM报告负担，并非新增法定豁免",
+      "title_en": "ACEA advocates reducing CBAM reporting burden",
       "title_original": "CBAM reporting: Reducing the administrative burden for European manufacturer",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "ACEA介绍委托ERCST开展的研究，指出整卷钢和极少量紧固件在逐项数据报告上都可能产生较高固定成本，提出优化小额进口处理。页面陈述的是行业研究与建议，不是欧盟已采纳的新豁免门槛。",
+      "summary_en": "ACEA discusses commissioned ERCST research into fixed reporting costs for large coils versus tiny fastener purchases and advocates improved small-volume treatment. It establishes no newly enacted threshold.",
+      "impact_zh": "供应商按客户、CN编码和生产装置组织数据，减少重复核查；仍按正式法规确认豁免资格。",
+      "impact_en": "Organize reusable data by customer, code and installation; use legislation for exemptions.",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcG9zQi0yNmNWaXF4dWdrLVRuZDVrZkFHUGw5QUlUSm9MNHctUFZEbTdjcUZQWGFpTTJ6ZU9GeDZhdzVoZ3RXcVR0WmUzMlJKYk5DWEtLUzFuUnVLNWxJZDIwV05KU0RldzZYVHpaNWxyZ05SSHVDcDVQTVgtbEE0OFdjWDdnRXNndGg4LXZITEg1V3l2cFJsNzEzNW4xTDYwdE9FVGVn?oc=5",
       "published_at": "2026-10-01T15:25:55Z",
       "source": {
@@ -5453,16 +5697,20 @@
       "country": "全球",
       "region": "全球",
       "category": "碳与环保",
-      "status": "新闻",
+      "status": "行业研究倡议",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-10-02T07:17:36Z",
       "last_seen": "2026-10-05T08:04:22Z",
       "source_excerpt": "CBAM reporting: Reducing the administrative burden for European manufacturer ACEA - European Automobile Manufacturers' Association",
@@ -5473,7 +5721,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-02T07:17:57Z"
-      }
+      },
+      "coverage": "核读ACEA页面正文；未核读ERCST研究附件全部模型。",
+      "evidence_url": "https://www.acea.auto/news/cbam-reporting-reducing-the-administrative-burden-for-european-manufacturer/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "7591667c234e4593c9eb",
@@ -5507,7 +5759,11 @@
       "translation_state": "pending",
       "first_seen": "2026-10-08T12:16:05Z",
       "last_seen": "2026-10-08T12:16:05Z",
-      "source_excerpt": "每日读报｜美国成立无人机统筹司令部恐怖分子以色列上空劫机被制服英雄乘客叙述事件经过伊朗是否已失去对海湾石油出口的控制美国重振钢铁业美联储官员上网交中国女友落圈套｜2026年10月1日 YouTube"
+      "source_excerpt": "每日读报｜美国成立无人机统筹司令部恐怖分子以色列上空劫机被制服英雄乘客叙述事件经过伊朗是否已失去对海湾石油出口的控制美国重振钢铁业美联储官员上网交中国女友落圈套｜2026年10月1日 YouTube",
+      "review_disposition": "excluded",
+      "review_note_zh": "混合时政视频合集，缺少独立可核验钢铁原文。",
+      "review_note_en": "Outside the dashboard scope: valuation/speculation, unrelated product, or no specific steel policy/trade event.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "aa87032a8ae707cedde1",
@@ -5541,7 +5797,12 @@
       "translation_state": "pending",
       "first_seen": "2026-10-01T11:50:59Z",
       "last_seen": "2026-10-07T12:03:28Z",
-      "source_excerpt": "OECD推动提高钢铁关税以应对中国产能过剩 IDNFinancials"
+      "source_excerpt": "OECD推动提高钢铁关税以应对中国产能过剩 IDNFinancials",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-following-ministerial-meeting-global-forum-steel-excess-capacity"
     },
     {
       "id": "e678d800ccbf2ded1768",
@@ -5575,41 +5836,11 @@
       "translation_state": "pending",
       "first_seen": "2026-10-01T11:50:59Z",
       "last_seen": "2026-10-02T11:23:16Z",
-      "source_excerpt": "[SMM Analysis] SMM Launches Stainless Steel CBAM Calculator — Indonesian 304 CRC carries a €626/mt CBAM bill into the EU news.metal.com"
-    },
-    {
-      "id": "5f3926eb9f98fd4a450c",
-      "title_zh": "[独家]“每吨84万韩元的放着不买,偏要花100万韩元买吗”......市场正被中国钢铁吞噬",
-      "title_en": "[独家]“每吨84万韩元的放着不买,偏要花100万韩元买吗”......市场正被中国钢铁吞噬",
-      "title_original": "[独家]“每吨84万韩元的放着不买,偏要花100万韩元买吗”......市场正被中国钢铁吞噬",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NaWVkaTVnNWlDb0pPaXpvaFNzMjFDQXRiMF9DdW9NMjROS1RDajd3VzFTakNFWnV3NHE0aUppTVpCRmpMMDdQNjE3MERteWJFYUg0?oc=5",
-      "published_at": "2026-10-01T08:44:47Z",
-      "source": {
-        "id": "rss",
-        "name": "매일경제",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "市场与产能",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "zh",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-10-01T11:50:59Z",
-      "last_seen": "2026-10-07T12:03:28Z",
-      "source_excerpt": "[独家]“每吨84万韩元的放着不买,偏要花100万韩元买吗”......市场正被中国钢铁吞噬 매일경제"
+      "source_excerpt": "[SMM Analysis] SMM Launches Stainless Steel CBAM Calculator — Indonesian 304 CRC carries a €626/mt CBAM bill into the EU news.metal.com",
+      "review_disposition": "blocked",
+      "review_note_zh": "已定位SMM模型摘要，626欧元/吨计算假设尚未与现行默认值、年度因子及适用碳价逐项核对，保持待核验。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "617e91286a938a739966",
@@ -5643,7 +5874,12 @@
       "translation_state": "pending",
       "first_seen": "2026-10-07T12:03:28Z",
       "last_seen": "2026-10-07T12:03:28Z",
-      "source_excerpt": "年100万吨镀锌钢板市场恐将落入中国之手 매일경제"
+      "source_excerpt": "年100万吨镀锌钢板市场恐将落入中国之手 매일경제",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NaWVkaTVnNWlDb0pPaXpvaFNzMjFDQXRiMF9DdW9NMjROS1RDajd3VzFTakNFWnV3NHE0aUppTVpCRmpMMDdQNjE3MERteWJFYUg0?oc=5"
     },
     {
       "id": "6e9699c425a6bcc87e60",
@@ -5685,7 +5921,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-02T07:18:01Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-following-ministerial-meeting-global-forum-steel-excess-capacity"
     },
     {
       "id": "8b9103bc5570ead96f80",
@@ -5727,7 +5968,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-05T08:04:45Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-following-ministerial-meeting-global-forum-steel-excess-capacity"
     },
     {
       "id": "59e351f4a66b2836f754",
@@ -5769,7 +6015,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-07T12:03:49Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-following-ministerial-meeting-global-forum-steel-excess-capacity"
     },
     {
       "id": "cd52cb7a3d50eba1be5f",
@@ -5803,101 +6054,22 @@
       "translation_state": "pending",
       "first_seen": "2026-10-01T07:26:21Z",
       "last_seen": "2026-10-07T12:03:28Z",
-      "source_excerpt": "美贸易代表推G20联手应对中国钢铁过剩 RFI"
-    },
-    {
-      "id": "1e71799c0b7069bf9777",
-      "title_zh": "Policy options for Albania, Bosnia & Herzegovina and Serbia to negotiate CBAM",
-      "title_en": "Policy options for Albania, Bosnia & Herzegovina and Serbia to negotiate CBAM",
-      "title_original": "Policy options for Albania, Bosnia & Herzegovina and Serbia to negotiate CBAM",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcV92TmIydkxXaEZHU1F3bVlocVdYb3Z2a2RrV0g1VlNjV2ExbnZvOGRzOU8xOUNLNjJyOXdQOWJxT2dxV3kza0JUVlFFbFFTVy1hM0E5OWtKYWFoRmVrWjh3R0YyTW4xSERZWkt3dmNlUmozdnBvalhGdkdfdHdLYjkyd05pZXctQTZmVHZfNjAyTmZQMXdpNjV2VHlFRzBYTGJjQlFYM3VnVURxS0lfdjJwS3BaVkM5MHladHBHRzN5M2FWc1Q3NEdkb3BhTmdvVGFWVXpzYUZVQTB4cUxPRGNTSWc?oc=5",
-      "published_at": "2026-09-30T16:40:35Z",
-      "source": {
-        "id": "rss",
-        "name": "Climate Analytics",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "碳与环保",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-07T12:03:28Z",
-      "source_excerpt": "Policy options for Albania, Bosnia & Herzegovina and Serbia to negotiate CBAM Climate Analytics",
-      "machine_translation": {
-        "title_zh": "阿尔巴尼亚、波斯尼亚和黑塞哥维那和塞尔维亚谈判CBAM的政策选择",
-        "excerpt_zh": "阿尔巴尼亚、波斯尼亚和黑塞哥维那和塞尔维亚谈判CBAM气候分析的政策选择",
-        "fingerprint": "3ee2eb42589158e1733067fefffed569029188ffbe719e5281ff31e85241f99f",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-10-01T07:27:19Z"
-      }
-    },
-    {
-      "id": "c525f8dd8eb82a3a16f4",
-      "title_zh": "Iron Ore Futures Rebound to CNY 710 as China Manufacturing Returns to Growth",
-      "title_en": "Iron Ore Futures Rebound to CNY 710 as China Manufacturing Returns to Growth",
-      "title_original": "Iron Ore Futures Rebound to CNY 710 as China Manufacturing Returns to Growth",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXJjUDdiRExzR292dl9qVXluYjhLeWw4bk4tWllwb1N6UDJQYnQ2TjlycDdkRjFxLV9Bb05vSk1NN2FuUExtVlJfeUNLMFprbi1QY1NfR2NYMGt1SWlTdTF6bUxJS3pMT1g0aFByQUswRnktcEFRSkNKLXRFcVgybmh0WmxjOGFVT1ZNMm13V1hvVTU4bC0tTFVVbw?oc=5",
-      "published_at": "2026-09-30T12:20:36Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "市场与产能",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-10-01T07:26:21Z",
-      "last_seen": "2026-10-07T12:03:28Z",
-      "source_excerpt": "Iron Ore Futures Rebound to CNY 710 as China Manufacturing Returns to Growth - News and Statistics IndexBox",
-      "machine_translation": {
-        "title_zh": "随着中国制造业回归增长,铁矿石期货将改成CNY 710",
-        "excerpt_zh": "铁矿石期货公司在中国制造业增长回报时被约束到 CNY 710 - 新闻和统计索引Box",
-        "fingerprint": "ecd6bda3101a2731f5f8f2d47bd4cc6e25d57abb1a908d5564f6093e75c20480",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-10-01T07:27:20Z"
-      }
+      "source_excerpt": "美贸易代表推G20联手应对中国钢铁过剩 RFI",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/september/ambassador-greer-issues-statement-following-ministerial-meeting-global-forum-steel-excess-capacity"
     },
     {
       "id": "4e584745e6ffebffb5a3",
-      "title_zh": "Furnaces, Fossils, and the Future of Chinese Green Steel",
-      "title_en": "Furnaces, Fossils, and the Future of Chinese Green Steel",
+      "title_zh": "Rhodium研究：中国绿钢路线受废钢、氢气和高炉投资周期影响",
+      "title_en": "Rhodium examines scrap, hydrogen and furnace investment in Chinese green steel",
       "title_original": "Furnaces, Fossils, and the Future of Chinese Green Steel",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "研究认为需求下降与废钢增加可能推动减排，同时高炉续建会锁定化石路线；焦炉煤气和高炉富氢改造是渐进路线，绿氢DRI仍需规模化。其CBAM影响和长期排放预测均有模型假设，不能作为具体装置应缴税额。",
+      "summary_en": "Rhodium discusses demand decline, scrap growth, furnace reinvestment and hydrogen pathways. Its long-term emissions and CBAM estimates are model-dependent and do not establish plant-specific liability.",
+      "impact_zh": "评估高炉改造与新路线时同时考虑资源、实际排放和投资寿命；出口税费另用已核查的装置数据计算。",
+      "impact_en": "Assess resources, measured emissions and asset life; calculate export liability separately.",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KMmRxcFBsV0RRTGZqc295WWQzbFhGR1d3bDBjY1h6eE9jdm5Ga2NxZnNGM1l5bEd5SnpDenBaLXEzQ2NBZFhhOVhTVE1XeXQtOVBlOVpvS1FvR2U2N3NwbzF1eFZidw?oc=5",
       "published_at": "2026-09-30T12:07:11Z",
       "source": {
@@ -5908,17 +6080,21 @@
       },
       "country": "全球",
       "region": "全球",
-      "category": "市场与产能",
-      "status": "新闻",
+      "category": "碳与环保",
+      "status": "智库研究",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-10-01T07:26:21Z",
       "last_seen": "2026-10-07T12:03:28Z",
       "source_excerpt": "Furnaces, Fossils, and the Future of Chinese Green Steel Rhodium Group",
@@ -5929,7 +6105,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-07T12:03:49Z"
-      }
+      },
+      "coverage": "核读Rhodium网页研究主体；未独立重算模型、下载附件及税费假设。",
+      "evidence_url": "https://rhg.com/research/future-of-chinese-green-steel/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "f644fc8b601f001cdec5",
@@ -5963,7 +6143,12 @@
       "translation_state": "pending",
       "first_seen": "2026-10-06T12:14:56Z",
       "last_seen": "2026-10-06T13:25:30Z",
-      "source_excerpt": "美国要建史上最大钢铁厂！特朗普：跟中国要钢铁造坦克行不通 搜狐网"
+      "source_excerpt": "美国要建史上最大钢铁厂！特朗普：跟中国要钢铁造坦克行不通 搜狐网",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzEwckhrSjFvQ3hDeTRyQ1BUaEdISmF4d3RBdFVCaUhOSm1ORFhTb1lwejFxWkdzcWdMb1BBc3dfRE0yaWxuS2FyZlY1VlN5ZTQ3YmQ5ck5MakZNVVdjcDZrSF9TajNLdVF6cVhFRUNXYVUyMXJqQVZ5ZF9NZ2k0QUN6X3lab2850gGIAUFVX3lxTFBTMTBySGtKMW9DeEN5NHJDUFRoR0hKYXh3dEF0VUJpSE5KbU5EWFNvWXB6MXFaR3NxZ0xvUEFzd19ETTJpbG5LYXJmVjVWU3llNDdiZDlyTkxqRk1VV2NwNmtIX1NqM0t1UXpxWEVFQ1dhVTIxcmpBVnlkX01naTRBQ3pfeVpvbzk?oc=5"
     },
     {
       "id": "8faf079a315e0957bdf0",
@@ -6005,7 +6190,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-04T11:20:37Z"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "钢铁股票涨势及估值评论，不属于政策与贸易研判范围。",
+      "review_note_en": "Outside the dashboard scope: valuation/speculation, unrelated product, or no specific steel policy/trade event.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "7f73df934aca7df872c4",
@@ -6039,7 +6228,12 @@
       "translation_state": "pending",
       "first_seen": "2026-10-01T07:26:21Z",
       "last_seen": "2026-10-01T07:26:21Z",
-      "source_excerpt": "特朗普总统宣布在艾奥瓦州新建美国最大钢铁厂计划 voachinese.com"
+      "source_excerpt": "特朗普总统宣布在艾奥瓦州新建美国最大钢铁厂计划 voachinese.com",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzEwckhrSjFvQ3hDeTRyQ1BUaEdISmF4d3RBdFVCaUhOSm1ORFhTb1lwejFxWkdzcWdMb1BBc3dfRE0yaWxuS2FyZlY1VlN5ZTQ3YmQ5ck5MakZNVVdjcDZrSF9TajNLdVF6cVhFRUNXYVUyMXJqQVZ5ZF9NZ2k0QUN6X3lab2850gGIAUFVX3lxTFBTMTBySGtKMW9DeEN5NHJDUFRoR0hKYXh3dEF0VUJpSE5KbU5EWFNvWXB6MXFaR3NxZ0xvUEFzd19ETTJpbG5LYXJmVjVWU3llNDdiZDlyTkxqRk1VV2NwNmtIX1NqM0t1UXpxWEVFQ1dhVTIxcmpBVnlkX01naTRBQ3pfeVpvbzk?oc=5"
     },
     {
       "id": "7f47184b4cc85c15e0fb",
@@ -6081,7 +6275,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-03T10:41:07Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/news/european-commission-publishes-guidance-cbam-verifiers-and-accreditation-bodies-2026-08-24_en"
     },
     {
       "id": "3b9c64c8ef1fb895e0a7",
@@ -6123,7 +6322,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:09:33Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/news/european-commission-publishes-guidance-cbam-verifiers-and-accreditation-bodies-2026-08-24_en"
     },
     {
       "id": "7554b26ab5274d1fd503",
@@ -6165,7 +6369,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-01T07:37:10Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "未取得Federacciai原始声明；暂停ETS为行业诉求，未证明制度已停用。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "20eb7fca0c9bceac9d67",
@@ -6199,7 +6407,12 @@
       "translation_state": "pending",
       "first_seen": "2026-09-29T11:35:40Z",
       "last_seen": "2026-10-03T10:40:46Z",
-      "source_excerpt": "美国将建最大钢铁厂 特朗普：总不能向中国要！ 网易新闻客户端"
+      "source_excerpt": "美国将建最大钢铁厂 特朗普：总不能向中国要！ 网易新闻客户端",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzEwckhrSjFvQ3hDeTRyQ1BUaEdISmF4d3RBdFVCaUhOSm1ORFhTb1lwejFxWkdzcWdMb1BBc3dfRE0yaWxuS2FyZlY1VlN5ZTQ3YmQ5ck5MakZNVVdjcDZrSF9TajNLdVF6cVhFRUNXYVUyMXJqQVZ5ZF9NZ2k0QUN6X3lab2850gGIAUFVX3lxTFBTMTBySGtKMW9DeEN5NHJDUFRoR0hKYXh3dEF0VUJpSE5KbU5EWFNvWXB6MXFaR3NxZ0xvUEFzd19ETTJpbG5LYXJmVjVWU3llNDdiZDlyTkxqRk1VV2NwNmtIX1NqM0t1UXpxWEVFQ1dhVTIxcmpBVnlkX01naTRBQ3pfeVpvbzk?oc=5"
     },
     {
       "id": "e672c1e6207e7a66c82a",
@@ -6241,7 +6454,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-01T11:52:05Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "媒体下游扩围报道未取得全文及完整官方附件；不可把立法提案当已生效范围。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "effffbdc558306eda8b4",
@@ -6275,7 +6492,11 @@
       "translation_state": "pending",
       "first_seen": "2026-09-29T15:08:38Z",
       "last_seen": "2026-10-05T08:04:22Z",
-      "source_excerpt": "国际钢铁周 | 开阑公司联合创始人保罗·马林斯：以开放协作对冲CBAM等新规则挑战 csteelnews.com"
+      "source_excerpt": "国际钢铁周 | 开阑公司联合创始人保罗·马林斯：以开放协作对冲CBAM等新规则挑战 csteelnews.com",
+      "review_disposition": "blocked",
+      "review_note_zh": "未找到该专访的可核读原文；大会报道只能确认出席，不足以验证个人具体建议。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "c00ab6a90f84a4b3d389",
@@ -6317,17 +6538,21 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-30T11:24:38Z"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "BHP股票与潜在权益交易猜测，未提供已公布交易依据。",
+      "review_note_en": "Outside the dashboard scope: valuation/speculation, unrelated product, or no specific steel policy/trade event.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "2c1f72751491d2229f12",
-      "title_zh": "特朗普总统宣布美国史上最大钢铁厂计划",
-      "title_en": "特朗普总统宣布美国史上最大钢铁厂计划",
+      "title_zh": "美国艾奥瓦州宣布拟建综合钢厂，尚处投资计划阶段",
+      "title_en": "Iowa announces proposed integrated steel complex",
       "title_original": "特朗普总统宣布美国史上最大钢铁厂计划",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "艾奥瓦州政府9月28日公告称Mesabi Metallics计划在该州建设综合钢铁基地，并将其描述为重大投资。公告未提供已投产证明、详细建设时间表或可用于出口预测的确定供货量；新闻中的投资与就业承诺不等于建成产能。",
+      "summary_en": "Iowa’s 28 September release says Mesabi Metallics plans an integrated steel complex. It does not establish operational capacity, a detailed delivery schedule or firm export volumes.",
+      "impact_zh": "对中国钢企是美国本土化竞争信号；跟踪许可、融资和建设进展，避免把计划产能加入近期供给。",
+      "impact_en": "Track permitting, financing and construction before counting near-term supply.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzEwckhrSjFvQ3hDeTRyQ1BUaEdISmF4d3RBdFVCaUhOSm1ORFhTb1lwejFxWkdzcWdMb1BBc3dfRE0yaWxuS2FyZlY1VlN5ZTQ3YmQ5ck5MakZNVVdjcDZrSF9TajNLdVF6cVhFRUNXYVUyMXJqQVZ5ZF9NZ2k0QUN6X3lab2850gGIAUFVX3lxTFBTMTBySGtKMW9DeEN5NHJDUFRoR0hKYXh3dEF0VUJpSE5KbU5EWFNvWXB6MXFaR3NxZ0xvUEFzd19ETTJpbG5LYXJmVjVWU3llNDdiZDlyTkxqRk1VV2NwNmtIX1NqM0t1UXpxWEVFQ1dhVTIxcmpBVnlkX01naTRBQ3pfeVpvbzk?oc=5",
       "published_at": "2026-09-28T23:57:20Z",
       "source": {
@@ -6338,20 +6563,42 @@
       },
       "country": "全球",
       "region": "全球",
-      "category": "市场与产能",
-      "status": "新闻",
+      "category": "企业与供应链",
+      "status": "一般新闻",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "zh",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-09-29T04:08:19Z",
       "last_seen": "2026-10-01T07:26:21Z",
-      "source_excerpt": "特朗普总统宣布美国史上最大钢铁厂计划 voachinese.com"
+      "source_excerpt": "特朗普总统宣布美国史上最大钢铁厂计划 voachinese.com",
+      "coverage": "核读州政府9月28日公告全文；未以媒体投资额和就业预测补充未证实的投产结论。",
+      "evidence_url": "https://governor.iowa.gov/press-release/2026-09-28/gov-reynolds-attends-white-house-announcement-nations-largest-ever-steel-manufacturing-investment",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09",
+      "related_sources": [
+        {
+          "name": "搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vbUtBc25fbk1WSjE0b2wwS2NoVmtDb25sSFpfVUctNUx1WG4tX2dPZzJPZEVWUUlzREgxZm1NNWdvbXB1eXJnNFF6bnhyazJualhR?oc=5"
+        },
+        {
+          "name": "voachinese.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa2haUWlVRVplYURkLXZCOVE3TVRjbXZVN0V6UWU1YXVBNm56b1Roek9kcnJ1cmVvQjhiYm4zYklENEZIM24wSjlGRk5LNUhWNF9tcVJNNW1MUS1XUHlZT3FCQ2pZQVhNdGlMdlpNQnB4YzBnVVNfdGJLc0F1WERYMGlpSVY5NGdsWEpYbjN0S2xWRHIwT242QVlHdGlONkpOcEVvRdIBpAFBVV95cUxQa2haUWlVRVplYURkLXZCOVE3TVRjbXZVN0V6UWU1YXVBNm56b1Roek9kcnJ1cmVvQjhiYm4zYklENEZIM24wSjlGRk5LNUhWNF9tcVJNNW1MUS1XUHlZT3FCQ2pZQVhNdGlMdlpNQnB4YzBnVVNfdGJLc0F1WERYMGlpSVY5NGdsWEpYbjN0S2xWRHIwT242QVlHdGlONkpOcEVvRQ?oc=5"
+        },
+        {
+          "name": "网易新闻客户端",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1ZE9SanBrMHlwalpaZWJmRmpkSUZOWnEwLWtIVHhqZzI5SDdDd2t0ckh0c0NqVzdNX3Q3NHZIWXFxQUE0OTc3U3BGcWt3M1g1aHFFSnhjZjJ2aF92?oc=5"
+        }
+      ]
     },
     {
       "id": "ba5598db65b5a45c6483",
@@ -6393,17 +6640,22 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-03T07:16:41Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/news/european-commission-publishes-guidance-cbam-verifiers-and-accreditation-bodies-2026-08-24_en"
     },
     {
       "id": "e469cfaaf301b4005f63",
-      "title_zh": "Rio Tinto and Shougang commission blast furnace carbon capture trial facility",
-      "title_en": "Rio Tinto and Shougang commission blast furnace carbon capture trial facility",
+      "title_zh": "首钢京唐与力拓投运高炉煤气碳捕集试验装置",
+      "title_en": "Shougang and Rio Tinto commission blast-furnace gas capture trial",
       "title_original": "Rio Tinto and Shougang commission blast furnace carbon capture trial facility",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "力拓9月28日公告称试验装置处理高炉煤气3000立方米/小时，设计年捕集1万吨CO₂，在2022年合作备忘录和2024年较小试验基础上推进。余热利用与捕集碳制合成气仍是技术探索，设计能力不是已实现全年减排或已签发碳信用。",
+      "summary_en": "Rio Tinto reports a trial processing 3,000 m3/hour of blast-furnace gas, designed to capture 10,000 tCO2/year. Heat integration and captured-carbon use remain research; design capacity is not measured annual abatement or issued credits.",
+      "impact_zh": "关注连续运行、能耗和捕集碳去向；CBAM申报以适用方法和可核查实绩为准，不能仅凭装置投运扣减。",
+      "impact_en": "Track operating data and carbon destination; a commissioning announcement alone does not justify CBAM deductions.",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXVIM1dSZHpIWW80N09FdlhwSXlyVms5OURrU3Y2MjZ2NVYwNXAxSnp5cFJZQ19MYmVrQXA0Rk0xT1FhMEdjYjJJWjQ3LXA5SWdBZFdRVGxWV1gwUENrYnp5SWhnNTJJd1VzcTc5dFZXdmkwMVg0NHViYkQwZDRQU093MUtTSFY1VjExWFh2OGduN1E0aWMzSmQzWkFvZlRCUl9LNGlDb3VuazhfYkRBX000Z2VTMFc1aHhvS21EUXVlX2QwQjVNQmtZTXpSWkNMT0s1RUR3?oc=5",
       "published_at": "2026-09-28T10:44:52Z",
       "source": {
@@ -6414,20 +6666,50 @@
       },
       "country": "全球",
       "region": "全球",
-      "category": "碳与环保",
-      "status": "新闻",
+      "category": "企业与供应链",
+      "status": "企业试验公告",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-09-29T11:35:40Z",
       "last_seen": "2026-10-03T07:16:17Z",
-      "source_excerpt": "Rio Tinto and Shougang commission blast furnace carbon capture trial facility Steel Orbis"
+      "source_excerpt": "Rio Tinto and Shougang commission blast furnace carbon capture trial facility Steel Orbis",
+      "coverage": "核读力拓9月28日原始公告；未审计运行结果或认证碳信用。",
+      "evidence_url": "https://www.riotinto.com/en/news/releases/2026/shougang-group-and-rio-tinto-commission-an-industrial-scale-carbon-capture-trial-facility-for-blast-furnace-gas",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09",
+      "related_sources": [
+        {
+          "name": "CarbonCredits.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWG1wbDhFOFNrM1FHdm9DaXRKdGNwcFBaUzZnekpIcEhKMUJEbkVPNTh4WUpCYUZWT1hHbU1pX3dVOXJpakdRRVM2MWtubHVGUjNXQnlDZDJmMGhKZ2F1ZktWWUZaT2paVWhKUk56aUxUcDVRS1AtN1dLQ20wN1dNRDEwM3Q5dV9PRTE1VmVrUDBfRThmY2V1UkJjYlRyNlBnVUE?oc=5"
+        },
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbUZyczZyckZ6REVuNW9VMlB4SVgwZFNSbWwwTl9GX0NBazRDRlV3Njg0V0tMdmc2WUtZZ0tTUXV0aW5wQjVnbTR6aHpwSWpKbEtMb25vVTdnNWVVb25Ta3hwczVGYUZ0ZHBoblFRX20yaUNBQXlZbUhtbV82YlZpaUg1UnZUXzlxRlF2RzAxbVV4T3pfc2FaVkg2TVdPbWhtbFpMUEphTVJlVXVTVTBjTw?oc=5"
+        },
+        {
+          "name": "gasworld",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWm5LVTZOd3J3VU5zSDFnOUIzckYtUkZZcmk2NHRIVXRxc2FnOFV3ZFpIX3huMlpUWE5oaTdzYkZCc0tjYjNkb2hMSi03ZDRoVFIzZVJlZl9YZWhzQzBWZ0ZnaFp6QkVvT1k1c25aWkFFVG1oTXFWVlU2c2ZGSnBEaS1BNzNYRlZFUDhTdkFyT0JrUnRuTDhyU3hBVEt3WThmNGNqOUpieGZ6ZnFNb0hRVnlBU2pUV2JzNWVNSnRyalZPd3NtbzNZ?oc=5"
+        },
+        {
+          "name": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZHMzNWh5TTItRWNLOU1zQXF1TzcyT3FzQ3hjS0VwZ3l6Sk9BY09RUUVJOG9aeEp5Nk92Y0dvSDRObW11UGxmYnlVQ2VmMG1YN2RqT3NuS3c4N2I5Nzdna1JEaEVMSkpMdjlwUTc0STVta1NITUJMeTBtZWRDWTlDM1FmNDQzREJwVDV1cl9RUS03N3dvdVhTZg?oc=5"
+        },
+        {
+          "name": "SteelRadar",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY09HOU9DZjFUMVdCNWQ4YW9CVC15NkdvLWxDM0h1emVKWEk3dzdsLTBIanhCRlNQQlhfNVdqVmJMbnFWTmN1bkJxWUFfdTBrbjFoOFBfOENhbmx2NzdneHJ0ZFUyWnNjMEtNTFBDZ2RRVEFLYXdNZ0NTVmxxODc1OUZXcE5KYjdvS3o5ODRRaHVyeVd5LXJ2blhOYXRuRTIzaUhWRmIwNWlOUjhKRFE?oc=5"
+        }
+      ]
     },
     {
       "id": "93b9c169f356f5b674e3",
@@ -6461,7 +6743,12 @@
       "translation_state": "pending",
       "first_seen": "2026-09-28T11:50:11Z",
       "last_seen": "2026-10-03T07:16:17Z",
-      "source_excerpt": "Rio Tinto Launches Carbon Capture Pilot at Shougang's Jingtang Steel Site - News and Statistics IndexBox"
+      "source_excerpt": "Rio Tinto Launches Carbon Capture Pilot at Shougang's Jingtang Steel Site - News and Statistics IndexBox",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXVIM1dSZHpIWW80N09FdlhwSXlyVms5OURrU3Y2MjZ2NVYwNXAxSnp5cFJZQ19MYmVrQXA0Rk0xT1FhMEdjYjJJWjQ3LXA5SWdBZFdRVGxWV1gwUENrYnp5SWhnNTJJd1VzcTc5dFZXdmkwMVg0NHViYkQwZDRQU093MUtTSFY1VjExWFh2OGduN1E0aWMzSmQzWkFvZlRCUl9LNGlDb3VuazhfYkRBX000Z2VTMFc1aHhvS21EUXVlX2QwQjVNQmtZTXpSWkNMT0s1RUR3?oc=5"
     },
     {
       "id": "3b8fd89dd0545ca33b71",
@@ -6503,7 +6790,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:50:34Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXVIM1dSZHpIWW80N09FdlhwSXlyVms5OURrU3Y2MjZ2NVYwNXAxSnp5cFJZQ19MYmVrQXA0Rk0xT1FhMEdjYjJJWjQ3LXA5SWdBZFdRVGxWV1gwUENrYnp5SWhnNTJJd1VzcTc5dFZXdmkwMVg0NHViYkQwZDRQU093MUtTSFY1VjExWFh2OGduN1E0aWMzSmQzWkFvZlRCUl9LNGlDb3VuazhfYkRBX000Z2VTMFc1aHhvS21EUXVlX2QwQjVNQmtZTXpSWkNMT0s1RUR3?oc=5"
     },
     {
       "id": "ce8a003bd0b94e632d63",
@@ -6537,7 +6829,11 @@
       "translation_state": "pending",
       "first_seen": "2026-09-29T04:08:19Z",
       "last_seen": "2026-09-29T11:35:40Z",
-      "source_excerpt": "花旗：中国钢铁需求较水泥属更后期周期 中期跌幅料较缓-证券之星 hk.stockstar.com"
+      "source_excerpt": "花旗：中国钢铁需求较水泥属更后期周期 中期跌幅料较缓-证券之星 hk.stockstar.com",
+      "review_disposition": "excluded",
+      "review_note_zh": "证券估值背景下的一般行业周期评论，无明确钢铁政策或出口动作。",
+      "review_note_en": "Outside the dashboard scope: valuation/speculation, unrelated product, or no specific steel policy/trade event.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "9d80bb55f2f13aa4709d",
@@ -6634,7 +6930,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-01T07:27:26Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "原行情报道及报价底层时点尚未核读；100美元价格不是实时行情。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "baa25ff4c412045efc8e",
@@ -6676,17 +6976,21 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-30T11:24:44Z"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "宝钢股票涨跌新闻，不作为政策或贸易事件。",
+      "review_note_en": "Outside the dashboard scope: valuation/speculation, unrelated product, or no specific steel policy/trade event.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "0f3c839575f22f87a17b",
-      "title_zh": "Ukrainian steel should be exempt from the CBAM — Pascal Lami",
-      "title_en": "Ukrainian steel should be exempt from the CBAM — Pascal Lami",
+      "title_zh": "拉米主张乌克兰钢材免于CBAM，尚不能认定获准豁免",
+      "title_en": "Lamy advocates Ukrainian steel exemption; approval not established",
       "title_original": "Ukrainian steel should be exempt from the CBAM — Pascal Lami",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "GMK转述前欧盟贸易委员拉米观点：战争背景下应豁免乌克兰钢材，并称相关提案仍在立法过程中。报道使用应当豁免的意见表述，不能证明欧盟已决定免除证书义务。",
+      "summary_en": "GMK reports former EU trade commissioner Lamy’s view that Ukrainian steel should be exempt during war and says proposals remain in legislation. This is advocacy, not proof of an adopted exemption.",
+      "impact_zh": "跟踪正式法律文本及适用期限，不据访谈调整中国或乌克兰来源钢材的税费预算。",
+      "impact_en": "Check adopted texts before changing cost budgets for either origin.",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2YwdU10NXgwTTdOSWRFa1otWlBMTmMzcFItQ2JlcDc4NTRFVHRJQWRtNjVtanAzeml6cXgtZDVMNzZVYkRTQl82OVBIYUdHeGRyRWdLMHlOenp2bHdvX0JvTWdmT1JJWDVUcXZYd1hvbWNWVHNDdUVsM2trME44b1o5NWk5cklzNGpKdDhTMNIBlAFBVV95cUxQNUprd290aHQ3TlFhbmJMT3EyMmtId18zUmloVzJnU2NOUHJGSVJHYmtHeVA4eENwQnFWU3FxYU5lS2cwdjBVUkpBeU8tTUlfcTFhSXctcE14WjY4aFczMG5iblIzVTBpanVrdjNZOENPbHFIb3c2c0w5WC1OT3ZUYmVtUVAyanVqazVmaWYyTlZLRzkt?oc=5",
       "published_at": "2026-09-25T08:14:17Z",
       "source": {
@@ -6697,17 +7001,21 @@
       },
       "country": "全球",
       "region": "全球",
-      "category": "碳与环保",
-      "status": "新闻",
+      "category": "政策倡议与咨询",
+      "status": "个人政策观点",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-09-28T11:50:11Z",
       "last_seen": "2026-10-02T07:17:36Z",
       "source_excerpt": "Ukrainian steel should be exempt from the CBAM — Pascal Lami GMK Center",
@@ -6718,7 +7026,17 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:09:43Z"
-      }
+      },
+      "coverage": "核读GMK报道全文；Forbes原始访谈及欧盟豁免法律未独立核验。",
+      "evidence_url": "https://gmk.center/en/news/ukrainian-steel-should-be-exempt-from-the-cbam-pascal-lami/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09",
+      "related_sources": [
+        {
+          "name": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeUZnWDh0QzYzQnp3X2tZTFVLYUpiVXFfemUteVFDbzI5RUt5TGdFLWpkNTBBSjNmendwazM3UTdXdFNUeG03LVZRTjNCeUU3Q2pNb1c3UlB5bVg2NjhsVXZoajllT1kzbFVGYWkzNG9FTEdPVEhieVl4em9KWXhiamNpWkFTdw?oc=5"
+        }
+      ]
     },
     {
       "id": "180f6ae8fcb0fa1f72e5",
@@ -6760,17 +7078,21 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:09:44Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "尚未取得中钢协控产降库的原通知；媒体引述不证明政府强制减产。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "07d46201bee40405ae7f",
-      "title_zh": "EUROFER: EU ETS Revision May Raise Steel Carbon Costs to EUR8.2B by 2031",
-      "title_en": "EUROFER: EU ETS Revision May Raise Steel Carbon Costs to EUR8.2B by 2031",
+      "title_zh": "媒体转述EUROFER碳成本预测：2031年82亿欧元并非法定税额",
+      "title_en": "Reported EUROFER EUR8.2bn carbon-cost scenario is not a legal bill",
       "title_original": "EUROFER: EU ETS Revision May Raise Steel Carbon Costs to EUR8.2B by 2031",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "IndexBox转述EUROFER估算，欧洲钢铁年碳成本或由2026年34亿欧元升至2031年82亿欧元，并呼吁渐进取消免费配额。是协会情景预测及政策诉求；本轮未取得完整原模型，不能推导中国钢材每吨确定CBAM税额。",
+      "summary_en": "IndexBox attributes a EUR3.4bn-to-EUR8.2bn annual-cost scenario to EUROFER and reports its call for gradual free-allocation phase-out. The underlying model was not verified; it gives no fixed Chinese CBAM rate.",
+      "impact_zh": "关注欧洲钢厂竞争与政策压力，预算按碳价、工艺和免费配额分别做情景，不把协会总额平均分摊到出口商品。",
+      "impact_en": "Model prices, routes and adjustments separately; do not allocate an association total to export tonnes.",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3pFeEtMSWJESXdsZWs1cE03N3B0NDdrZXA1RnpaYjc0QTNKWi0wX3p4Q1NrZG9xX295NnJ6X2l4aEVDQkVmOUlhQkFGNHdCRmZ1dWQyREUtRkppeDczc2ZxNWIxcV9MajN0d1gtVFdSU0lNUHZGRmNZa3hfSFJLMGJadURrVjhpZ2RSUXFLaHRKZDJ4c2xad2k0MVBjRGJt?oc=5",
       "published_at": "2026-09-24T12:10:25Z",
       "source": {
@@ -6782,16 +7104,20 @@
       "country": "全球",
       "region": "全球",
       "category": "碳与环保",
-      "status": "新闻",
+      "status": "协会预测·媒体转述",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-09-28T11:50:11Z",
       "last_seen": "2026-09-29T15:56:03Z",
       "source_excerpt": "EUROFER: EU ETS Revision May Raise Steel Carbon Costs to EUR8.2B by 2031 - News and Statistics IndexBox",
@@ -6802,7 +7128,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:09:45Z"
-      }
+      },
+      "coverage": "核读IndexBox正文；未取得EUROFER原报告和模型，82亿欧元仅作为已核读的归属明确的媒体陈述。",
+      "evidence_url": "https://www.indexbox.io/blog/eurofer-warns-eu-ets-revision-could-double-steel-carbon-costs-by-2031/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "cdb50416b0abf1267c89",
@@ -6844,17 +7174,21 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:09:45Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "ORF原文403；未取得可读官方备用入口或完整正文。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "1681037511d890b34cc6",
-      "title_zh": "CBAM Expansion: Bureaucracy Costs Are Out of Control",
-      "title_en": "CBAM Expansion: Bureaucracy Costs Are Out of Control",
+      "title_zh": "Steelnews称下游扩围将增加报告负担，成本数字为自行推算",
+      "title_en": "Steelnews warns of downstream reporting burden using its own estimates",
       "title_original": "CBAM Expansion: Bureaucracy Costs Are Out of Control",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "Gerber Group批评拟议CBAM下游扩围，认为按吨位衡量负担低估多产品、多供应商企业的固定合规成本。其企业数量和行政成本是自行外推，不是正式征税决定，也未在本轮独立复算。",
+      "summary_en": "Gerber Group argues that proposed downstream expansion underestimates fixed compliance costs for multi-product suppliers. Its company-count and cost extrapolations are not tax decisions and were not independently recalculated.",
+      "impact_zh": "建立可复用的材料来源、CN编码和装置数据，评估系统成本；最终扩围范围仍等正式法规。",
+      "impact_en": "Prepare reusable origin/code/installation data and await enacted scope.",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jSDVncEEzSlFrdWY2LUs0T2hNR3I4YnVncEt6ZXZrNS1acG5VcnpGZ1NCM1hOMWtWTmVoMmxGWG5CQTJmcFVBalJVWUdEQWNHc3hyZkZqdVg0RmVFYlRXeW1SWkFrRUQxcER5b0ItcS1jTlotVVNnVjBWTzhVcVU?oc=5",
       "published_at": "2026-09-24T08:13:43Z",
       "source": {
@@ -6866,16 +7200,20 @@
       "country": "全球",
       "region": "全球",
       "category": "碳与环保",
-      "status": "新闻",
+      "status": "行业评论",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-09-28T11:50:11Z",
       "last_seen": "2026-10-01T07:36:14Z",
       "source_excerpt": "CBAM Expansion: Bureaucracy Costs Are Out of Control steelnews.biz",
@@ -6886,7 +7224,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:09:46Z"
-      }
+      },
+      "coverage": "核读评论正文；未确认其全部统计、立法附件或行政成本推算。",
+      "evidence_url": "https://steelnews.biz/cbam-expansion-bureaucracy-costs-are-out-of-control/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "de055ce1a1b8c5c0ba82",
@@ -6928,41 +7270,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:09:46Z"
-      }
-    },
-    {
-      "id": "0a454569356737c4dfca",
-      "title_zh": "Global Steel Flows Up 1% in July 2026: China Drives Growth, India Exports Jump 51%",
-      "title_en": "Global Steel Flows Up 1% in July 2026: China Drives Growth, India Exports Jump 51%",
-      "title_original": "Global Steel Flows Up 1% in July 2026: China Drives Growth, India Exports Jump 51%",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVBEdHlTcWI4RnhYS2M5TjVldHVYS2NpVUlPOElxdEc4TzVXdGVyaVhvQjNhNFRqZzFJZThiaTNOaWFNVkozMUZLOWNpd0ltdml3WGIzc19oTHl2dUp1LXQtYTVQLVcwdnZHUkc4cE5NUjNjWWhOTWIzYzNEajNuUHhDTk9OcG96QTMyQXFFLWVwUGVNLU5JYVVQYmhVVWZaUkx5dEhWbmZOY2htSDcxNGN3?oc=5",
-      "published_at": "2026-09-24T05:00:33Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
       },
-      "country": "全球",
-      "region": "全球",
-      "category": "市场与产能",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-09-30T11:23:38Z",
-      "source_excerpt": "Global Steel Flows Up 1% in July 2026: China Drives Growth, India Exports Jump 51% - News and Statistics IndexBox"
+      "review_disposition": "blocked",
+      "review_note_zh": "媒体正文及议会原始文本未取得，官方入口机器人验证，无法逐项确认扩围清单。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "67c81731269971195e39",
@@ -7003,7 +7315,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:09:48Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "AISI倡议与GFSEC政府声明并非同一文件；尚未取得该协会原文，避免错误合并。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "99e47299b0152086f7a0",
@@ -7045,7 +7361,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:50:43Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ2ZFZVBDRjlnbVFmeHFaMlhTeW4tQ1BHSEtmTWswdVFqUW1JMmJ2UlFoSFB2OS1PcWtDVUNwRnFDNVhUclpEZ29DMkxUZ0hYZWk0czlIZ3N3cEVqMngwcl8tRlM4X2RZakdzcEJDSF9iOWdQQ0JIcmJrUjFYckxvemJ0ejFCZUV1aHBQWjN1ZXJaU3l6dXNjYjVYUWdveEdyaW9pRmprc1AyWUpSNnl2dDV4bWxDSHFFYXphalNLdlMwemhxOURPbk9lQ3J5Z0RyYmxSRFVZZWc1bkMy?oc=5"
     },
     {
       "id": "dda9d9876f7d982613da",
@@ -7087,17 +7408,22 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:09:50Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2YwdU10NXgwTTdOSWRFa1otWlBMTmMzcFItQ2JlcDc4NTRFVHRJQWRtNjVtanAzeml6cXgtZDVMNzZVYkRTQl82OVBIYUdHeGRyRWdLMHlOenp2bHdvX0JvTWdmT1JJWDVUcXZYd1hvbWNWVHNDdUVsM2trME44b1o5NWk5cklzNGpKdDhTMNIBlAFBVV95cUxQNUprd290aHQ3TlFhbmJMT3EyMmtId18zUmloVzJnU2NOUHJGSVJHYmtHeVA4eENwQnFWU3FxYU5lS2cwdjBVUkpBeU8tTUlfcTFhSXctcE14WjY4aFczMG5iblIzVTBpanVrdjNZOENPbHFIb3c2c0w5WC1OT3ZUYmVtUVAyanVqazVmaWYyTlZLRzkt?oc=5"
     },
     {
       "id": "6a72728187e06f265d00",
-      "title_zh": "China Steel Demand Above 800 Million Tonnes in 15th Five-Year Plan, CISA Says",
-      "title_en": "China Steel Demand Above 800 Million Tonnes in 15th Five-Year Plan, CISA Says",
+      "title_zh": "媒体称中钢协预计十五五需求保持8亿吨以上，属于行业预测",
+      "title_en": "Reported CISA 800-Mt demand outlook is an industry forecast",
       "title_original": "China Steel Demand Above 800 Million Tonnes in 15th Five-Year Plan, CISA Says",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "IndexBox引述SteelOrbis称中钢协会长刘键预计2026—2030年年需求仍在8亿吨以上但总体下行。河钢9月21日原始大会报道确认讲话和产能治理、提质、能碳效率等方向，未列出该数值；数字尚未获得讲话原稿独立印证，更不是政府生产配额。",
+      "summary_en": "IndexBox attributes an above-800-Mt annual demand outlook for 2026–2030 to CISA’s Liu Jian. HBIS confirms his speech and strategic themes but omits that figure; it is an uncorroborated reported forecast, not a production quota.",
+      "impact_zh": "分产品做需求情景，结合高端化和产能治理；不要按“8亿吨”当作确定产量或政府目标。",
+      "impact_en": "Use product-level scenarios rather than treating 800 Mt as a binding target.",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGp1bzRDbHhlZDF6aFZ2WVlmV2VkQ0xtekkyeW13LXJwandrOTJleFltdjdoaElMOE50aC01MzBtYklzeU5rS1JLRnZ0Sk1GTXhpN3hOWXJiTllxTG96Nm5TVWc1RC1VcFFzbW00RXVSLU9TT0NNZ2xOeDVZMVV4NzZBZVBwQjJ4WUI1ZHVmekVoSGt0dnJpajdQV3FxbkJxckIwTnhIZXhrZmdPSi1n?oc=5",
       "published_at": "2026-09-23T10:50:53Z",
       "source": {
@@ -7108,20 +7434,34 @@
       },
       "country": "全球",
       "region": "全球",
-      "category": "市场与产能",
-      "status": "新闻",
+      "category": "企业与供应链",
+      "status": "行业预测·数字待确认",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-09-28T11:50:11Z",
       "last_seen": "2026-09-29T15:56:03Z",
-      "source_excerpt": "China Steel Demand Above 800 Million Tonnes in 15th Five-Year Plan, CISA Says - News and Statistics IndexBox"
+      "source_excerpt": "China Steel Demand Above 800 Million Tonnes in 15th Five-Year Plan, CISA Says - News and Statistics IndexBox",
+      "coverage": "核读IndexBox正文，并核对河钢原始大会报道https://hbisco.com/news/hbis/group/t709/3433；8亿吨数值未获原始讲话印证。",
+      "evidence_url": "https://www.indexbox.io/blog/chinas-steel-demand-to-stay-above-800-million-tonnes-through-2026-2030-cisa-says/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09",
+      "related_sources": [
+        {
+          "name": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkVaZXZ3N2FMVUszTUlJWUdlcWw3LWJURUJ2cFpFY2Z1NFp4bWlQWTlRQzVXeVFuYTdBaXphaVlmdXl5VHlNeXo5OUdDZ3dpeVVsREFoa1ZWem5iUDJ0Mi0ybVZ5aXlhdmdyS2JxeUc0bFhHZTVGaFdXOVdWRWMwSnBreGRyVnlTbk9Rc3kwN011TmMyQVVCMFYxWmVhbUNYMFphdjctRXRBQUd0T3RCd0ZoeVFfLUFza1E?oc=5"
+        }
+      ]
     },
     {
       "id": "be8384017f875a55fbdd",
@@ -7155,7 +7495,12 @@
       "translation_state": "pending",
       "first_seen": "2026-09-29T04:08:19Z",
       "last_seen": "2026-09-29T15:56:03Z",
-      "source_excerpt": "中钢协：十五五期间中国钢铁需求将保持在8亿吨以上 - 新闻和统计 IndexBox"
+      "source_excerpt": "中钢协：十五五期间中国钢铁需求将保持在8亿吨以上 - 新闻和统计 IndexBox",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGp1bzRDbHhlZDF6aFZ2WVlmV2VkQ0xtekkyeW13LXJwandrOTJleFltdjdoaElMOE50aC01MzBtYklzeU5rS1JLRnZ0Sk1GTXhpN3hOWXJiTllxTG96Nm5TVWc1RC1VcFFzbW00RXVSLU9TT0NNZ2xOeDVZMVV4NzZBZVBwQjJ4WUI1ZHVmekVoSGt0dnJpajdQV3FxbkJxckIwTnhIZXhrZmdPSi1n?oc=5"
     },
     {
       "id": "3c6a31997d1f3810c2f4",
@@ -7197,7 +7542,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:09:52Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一事件线索已在已核验主条目呈现；保留此转载链接，不另计待研判。",
+      "review_note_en": "The event is covered by the verified main item; this link is retained without a separate backlog count.",
+      "review_attempted_at": "2026-10-09",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ2ZFZVBDRjlnbVFmeHFaMlhTeW4tQ1BHSEtmTWswdVFqUW1JMmJ2UlFoSFB2OS1PcWtDVUNwRnFDNVhUclpEZ29DMkxUZ0hYZWk0czlIZ3N3cEVqMngwcl8tRlM4X2RZakdzcEJDSF9iOWdQQ0JIcmJrUjFYckxvemJ0ejFCZUV1aHBQWjN1ZXJaU3l6dXNjYjVYUWdveEdyaW9pRmprc1AyWUpSNnl2dDV4bWxDSHFFYXphalNLdlMwemhxOURPbk9lQ3J5Z0RyYmxSRFVZZWc1bkMy?oc=5"
     },
     {
       "id": "124e7f6f8cc40d98e3ab",
@@ -7239,17 +7589,21 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:09:52Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "媒体原文及正式法律附件未取得；标题“Expands”不能证明扩围已完成立法。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "3c6d1c0dfa0ce00a5a5b",
-      "title_zh": "BHP and China Baowu renew steel decarbonization partnership for another five years",
-      "title_en": "BHP and China Baowu renew steel decarbonization partnership for another five years",
+      "title_zh": "必和必拓与宝武续签五年低碳炼钢合作，减排比例为目标",
+      "title_en": "BHP and Baowu renew five-year decarbonisation partnership",
       "title_original": "BHP and China Baowu renew steel decarbonization partnership for another five years",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "BHP9月21日公告续签五年合作，推进高炉改造、DRI及电熔炼等路径。改造高炉至少降低30%排放强度、结合CCS与可再生能源可超过80%的表述为研发目标和条件情景，不是全部宝武产品已实现的减排结果。",
+      "summary_en": "BHP renews a five-year partnership covering blast-furnace retrofits, DRI and electric smelting. At least 30% lower intensity and potentially over 80% with CCS/renewables are targets and conditional scenarios, not achieved performance for all Baowu products.",
+      "impact_zh": "跟踪中试、能耗与装置级核查，区分研发结果和商业商品证据；出口客户承诺不能引用目标代替实绩。",
+      "impact_en": "Track trials and verified installation performance; do not sell targets as achieved product reductions.",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ2ZFZVBDRjlnbVFmeHFaMlhTeW4tQ1BHSEtmTWswdVFqUW1JMmJ2UlFoSFB2OS1PcWtDVUNwRnFDNVhUclpEZ29DMkxUZ0hYZWk0czlIZ3N3cEVqMngwcl8tRlM4X2RZakdzcEJDSF9iOWdQQ0JIcmJrUjFYckxvemJ0ejFCZUV1aHBQWjN1ZXJaU3l6dXNjYjVYUWdveEdyaW9pRmprc1AyWUpSNnl2dDV4bWxDSHFFYXphalNLdlMwemhxOURPbk9lQ3J5Z0RyYmxSRFVZZWc1bkMy?oc=5",
       "published_at": "2026-09-22T08:28:02Z",
       "source": {
@@ -7260,17 +7614,21 @@
       },
       "country": "全球",
       "region": "全球",
-      "category": "碳与环保",
-      "status": "新闻",
+      "category": "企业与供应链",
+      "status": "研发合作公告",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-09-28T11:59:57Z",
       "last_seen": "2026-09-29T04:12:52Z",
       "source_excerpt": "BHP and China Baowu renew steel decarbonization partnership for another five years Steel Orbis",
@@ -7281,7 +7639,21 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:09:53Z"
-      }
+      },
+      "coverage": "核读BHP9月21日原始公告；未审计全部试验结果，条件减排目标明确与实绩区分。",
+      "evidence_url": "https://www.bhp.com/news/media-centre/releases/2026/09/bhp-and-china-baowu-renew-steel-decarbonisation-partnership",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09",
+      "related_sources": [
+        {
+          "name": "SteelRadar",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdExmVEVRdEpMNGNEUEwzLTdEWjhQRXJ3blpkSGJGVkNvSndYdUJIN2pBTW13X2ltUVFlb3NwLUdZRUZZQWJVWHBrWF85aDdRbTdFQ1pHUU1nTHJzME53NXdMSlYyUUZHZ0s2WVhNZFhUMFBhR01qVVBMdjJMSVFMbU01TEVvN1dkRG55TWpQY3BqR09MSzhOMGJR?oc=5"
+        },
+        {
+          "name": "Geomechanics.io",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQ1l1czAxTGh0T0hsdlZkYWhwTThrWlBwTHJnUjBZTF91VnZzRThJNFdITWg4aHJIRHF5V0dQdWt2NUlKZG93TzlIWExNOVUzOXVjNGN1VEkxVi1YQm84M2RKUnNZZnhtTnBfaVNJTXZVZkZYM0QyRHdQQXIyUmdTLTZsb2hqXzJXd01GeFhrektrWEc1djllX0NMbU5qOXJ4a1c0Tzk0V0lURE0xZnBzY1o3SmszcDBKdmVOYVNLaw?oc=5"
+        }
+      ]
     },
     {
       "id": "7477d57c0f217442db6f",
@@ -7323,7 +7695,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-09-29T15:09:53Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "Table Briefings原文未核读，可能受订阅限制；不能把其他智库文章当该文全文。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "6d54afb9276a826d4519",
@@ -7370,14 +7746,18 @@
         "Production",
         "Domestic Demand",
         "Iron Ore Imports"
-      ]
+      ],
+      "review_disposition": "blocked",
+      "review_note_zh": "Reuters401；原文观点和统计比较尚无法核读。",
+      "review_note_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "5ab9c3c078fed7eb0d51",
-      "title_zh": "中国钢材出口创纪录，但后续订单与贸易摩擦或压制涨势",
+      "title_zh": "7月S&P报道中国半成品出口创新高，三季度放缓是当时预测",
       "title_original": "China's steel exports hit record but rally may prove short-lived",
-      "summary_zh": "标普全球报道，中国钢材出口达到纪录水平，其中钢坯出口同比显著增长；但订单走弱以及2026年反倾销案件增加，可能使第三季度出口动能放缓。",
-      "impact_zh": "出口量越高，越容易触发进口国行业申诉和调查。钢厂应提前按市场、品种和客户监测订单下滑与立案风险，避免集中发运。",
+      "summary_zh": "S&P7月20日报道6月半成品出口283.9万吨，半成品与成品合计1315.9万吨；上半年两者合计6446.8万吨，同比增0.7%。受访者担忧订单减弱导致三季度回落，属于当时判断。报道钢坯段落的月份表述存在不一致，未采用该分项数字。",
+      "impact_zh": "统计比较必须区分成品与包含半成品的口径；本轮是补录历史分析，不将7月预测写成10月已验证结果。",
       "url": "https://spglobal.com/energy/en/news-research/latest-news/metals/072026-chinas-steel-exports-hit-record-but-rally-may-prove-short-lived",
       "published_at": "2026-07-20T08:00:00Z",
       "source": {
@@ -7388,17 +7768,15 @@
       },
       "country": "中国",
       "region": "亚洲",
-      "category": "市场与产能",
-      "status": "新闻",
+      "category": "企业与供应链",
+      "status": "一般新闻",
       "importance": "中",
       "products": [
         "钢材",
         "钢坯"
       ],
       "tags": [
-        "出口纪录",
-        "订单",
-        "反倾销风险"
+        "钢铁"
       ],
       "language": "en",
       "image_url": "",
@@ -7406,25 +7784,27 @@
       "translation_state": "complete",
       "first_seen": "2026-07-21T21:54:23Z",
       "last_seen": "2026-07-21T21:54:23Z",
-      "summary_en": "S&P Global reports that China's steel exports have reached record levels, with significant year-on-year growth in semi-finished steel exports; however, weakening orders and an increase in anti-dumping cases in 2026 may slow export momentum in the third quarter.",
+      "summary_en": "S&P reported 2.839 Mt semi-finished June exports and 13.159 Mt combined exports; H1 combined exports were 64.468 Mt, up 0.7%. The Q3 slowdown was a July forecast. An inconsistent billet-month reference was omitted.",
       "products_en": [
         "Steel",
         "Semi-finished Steel"
       ],
-      "title_en": "China's Steel Exports Hit Record but Rally May Prove Short-Lived",
-      "impact_en": "The higher the export volume, the more likely it is to trigger complaints and investigations from importing countries. Steel mills should monitor order declines and filing risks in advance based on market, variety, and customer to avoid concentrated shipments.",
+      "title_en": "July S&P report records semi-finished export surge and a conditional Q3 outlook",
+      "impact_en": "Separate finished-only from combined totals; historical forecasts are not current confirmed outcomes.",
       "tags_en": [
-        "Export Record",
-        "Orders",
-        "Anti-dumping Risk"
-      ]
+        "Steel"
+      ],
+      "coverage": "完整核读S&P正文；原始海关明细未逐项对账，保留历史时点与预测性质。",
+      "evidence_url": "https://spglobal.com/energy/en/news-research/latest-news/metals/072026-chinas-steel-exports-hit-record-but-rally-may-prove-short-lived",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "f0c5bb1b386f6ab81437",
-      "title_zh": "敬业集团就英国接管British Steel寻求补偿并考虑仲裁",
+      "title_zh": "敬业就英国钢铁国有化要求补偿，金额与争端结果尚未确定",
       "title_original": "Chinese company demands compensation from the UK over British Steel nationalization",
-      "summary_zh": "美联社报道，敬业集团因英国政府接管British Steel运营而要求补偿，并正依据双边投资安排磋商、考虑国际仲裁。英国方面表示将通过独立评估确定可能的补偿。",
-      "impact_zh": "事件不仅影响敬业集团资产处置，也会提高中资钢铁企业评估英国投资时对政府干预、关键产能认定及投资协定保护条款的关注。",
+      "summary_zh": "AP7月19日报道敬业要求英国政府补偿，并称已启动相关双边投资安排下的协商、保留仲裁权利；英国方面表示将独立评估是否支付补偿。诉求、协商和可能仲裁并不等于已经裁决赔偿，报道未给出确定金额。",
+      "impact_zh": "中国钢企境外投资应梳理控制权、投资保护和证据保存；具体争端进度需再查双方正式公告。",
       "url": "https://apnews.com/article/4403c8df143be871825b7d20302385e0",
       "published_at": "2026-07-19T10:00:00Z",
       "source": {
@@ -7436,17 +7816,14 @@
       "country": "英国",
       "region": "欧洲",
       "category": "企业与供应链",
-      "status": "新闻",
+      "status": "投资争议报道",
       "importance": "中",
       "products": [
         "粗钢",
         "长流程产能"
       ],
       "tags": [
-        "敬业集团",
-        "British Steel",
-        "补偿",
-        "投资仲裁"
+        "钢铁"
       ],
       "language": "en",
       "image_url": "",
@@ -7454,19 +7831,20 @@
       "translation_state": "complete",
       "first_seen": "2026-07-21T21:54:23Z",
       "last_seen": "2026-07-21T21:54:23Z",
-      "summary_en": "According to the Associated Press, Jingye Group is seeking compensation from the UK government for the takeover of British Steel operations and is negotiating based on bilateral investment arrangements, considering international arbitration. The UK side stated that it would determine possible compensation through an independent assessment.",
+      "summary_en": "AP reports Jingye seeking compensation, initiating investment-agreement consultations and reserving arbitration rights. The UK says an independent evaluation will assess compensation. No award or fixed amount is established.",
       "products_en": [
         "Crude Steel",
         "Long Process Capacity"
       ],
-      "title_en": "Chinese Company Demands Compensation from the UK over British Steel Nationalization",
-      "impact_en": "This event not only affects Jingye Group's asset disposal but also raises concerns among Chinese steel companies regarding government intervention, key capacity identification, and investment agreement protection clauses when evaluating investments in the UK.",
+      "title_en": "Jingye seeks compensation over British Steel nationalisation",
+      "impact_en": "Review control rights, investment protection and records; monitor formal dispute updates.",
       "tags_en": [
-        "Jingye Group",
-        "British Steel",
-        "Compensation",
-        "Investment Arbitration"
-      ]
+        "Steel"
+      ],
+      "coverage": "核读AP全文；未核读双边条约程序文件或最新仲裁卷宗，不推断争端已解决。",
+      "evidence_url": "https://apnews.com/article/4403c8df143be871825b7d20302385e0",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
     },
     {
       "id": "9daf07563c5363d89397",
@@ -7511,7 +7889,11 @@
       "confidence": 0.7,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-08-03T08:52:16Z"
+      "last_seen": "2026-08-03T08:52:16Z",
+      "review_disposition": "excluded",
+      "review_note_zh": "活性炭反倾销案件，产品不是钢铁；关键词carbon不代表CBAM。",
+      "review_note_en": "Outside the dashboard scope: valuation/speculation, unrelated product, or no specific steel policy/trade event.",
+      "review_attempted_at": "2026-10-09"
     },
     {
       "id": "9590e3c600410f1a3857",
@@ -7554,7 +7936,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "ADOPTION_WORKFLOW",
@@ -7607,7 +7989,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -7660,7 +8042,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "CLOSED",
         "stage": "PLANNING_WORKFLOW",
@@ -7713,7 +8095,7 @@
       "confidence": 0.9,
       "translation_state": "complete",
       "first_seen": "2026-07-26T07:58:19Z",
-      "last_seen": "2026-10-09T07:25:42Z",
+      "last_seen": "2026-10-09T07:54:15Z",
       "consultation": {
         "status": "DISABLED",
         "stage": "ADOPTION_WORKFLOW",
@@ -7721,6 +8103,148 @@
       },
       "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14117",
       "coverage": "2026-10-09核对欧委会官方API dossierSummary及publications程序信息；未核读草案/采纳法案和附件全文，仅完成倡议摘要与状态核验，不作为当前完整法规研判。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "id": "1e71799c0b7069bf9777",
+      "title_zh": "Climate Analytics发布西巴尔干三国CBAM应对政策简报",
+      "title_en": "Climate Analytics outlines CBAM options for three Balkan economies",
+      "title_original": "Policy options for Albania, Bosnia & Herzegovina and Serbia to negotiate CBAM",
+      "summary_zh": "机构发布阿尔巴尼亚、波黑和塞尔维亚政策简报，研究覆盖行业的CBAM暴露与通过成本有效减排降低风险的路径。网页确认研究范围及报告入口，不足以核实每国详细税额或所有模型假设。",
+      "summary_en": "The institute’s publication page introduces Albania, Bosnia and Herzegovina, and Serbia briefs on CBAM exposure and cost-effective decarbonisation. The landing page does not verify country cost models.",
+      "impact_zh": "作为欧洲邻近市场竞争和合作线索；涉及当地客户的项目再核读国别简报，不据摘要判断具体成本。",
+      "impact_en": "Use as a regional screening lead; read country briefs before costing specific projects.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcV92TmIydkxXaEZHU1F3bVlocVdYb3Z2a2RrV0g1VlNjV2ExbnZvOGRzOU8xOUNLNjJyOXdQOWJxT2dxV3kza0JUVlFFbFFTVy1hM0E5OWtKYWFoRmVrWjh3R0YyTW4xSERZWkt3dmNlUmozdnBvalhGdkdfdHdLYjkyd05pZXctQTZmVHZfNjAyTmZQMXdpNjV2VHlFRzBYTGJjQlFYM3VnVURxS0lfdjJwS3BaVkM5MHladHBHRzN5M2FWc1Q3NEdkb3BhTmdvVGFWVXpzYUZVQTB4cUxPRGNTSWc?oc=5",
+      "published_at": "2026-09-30T16:40:35Z",
+      "source": {
+        "id": "rss",
+        "name": "Climate Analytics",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "碳与环保",
+      "status": "研究发布",
+      "importance": "低",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-10-01T07:26:21Z",
+      "last_seen": "2026-10-07T12:03:28Z",
+      "source_excerpt": "Policy options for Albania, Bosnia & Herzegovina and Serbia to negotiate CBAM Climate Analytics",
+      "machine_translation": {
+        "title_zh": "阿尔巴尼亚、波斯尼亚和黑塞哥维那和塞尔维亚谈判CBAM的政策选择",
+        "excerpt_zh": "阿尔巴尼亚、波斯尼亚和黑塞哥维那和塞尔维亚谈判CBAM气候分析的政策选择",
+        "fingerprint": "3ee2eb42589158e1733067fefffed569029188ffbe719e5281ff31e85241f99f",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-10-01T07:27:19Z"
+      },
+      "coverage": "核读机构发布页正文与三份报告入口；未核读三份国别PDF和五份行业深度报告。",
+      "evidence_url": "https://climateanalytics.org/publications/decarbonising-electricity-cement-iron-and-steel-and-chemicals-in-albania-bosnia-and-herzegovina-and-serbia-2",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "id": "c525f8dd8eb82a3a16f4",
+      "title_zh": "9月30日矿石期货报道接近710元/吨，属于历史行情",
+      "title_en": "30 September ore futures report near CNY710/t is historical",
+      "title_original": "Iron Ore Futures Rebound to CNY 710 as China Manufacturing Returns to Growth",
+      "summary_zh": "IndexBox引用Trading Economics称铁矿石期货反弹至接近710元/吨，将其与制造业数据和国庆前交易安排联系。是9月30日市场评论；未给出可独立核对的完整合约与成交时点，不能显示成今日价格。",
+      "summary_en": "IndexBox cites Trading Economics for ore futures near CNY710/t in a 30 September market commentary. The precise contract/time was not independently checked; it is not today’s quote.",
+      "impact_zh": "采购和套保使用交易所的对应合约、时点与交割标准；市场评论只作背景。",
+      "impact_en": "Use exchange-specific contracts and timestamps for procurement and hedging.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXJjUDdiRExzR292dl9qVXluYjhLeWw4bk4tWllwb1N6UDJQYnQ2TjlycDdkRjFxLV9Bb05vSk1NN2FuUExtVlJfeUNLMFprbi1QY1NfR2NYMGt1SWlTdTF6bUxJS3pMT1g0aFByQUswRnktcEFRSkNKLXRFcVgybmh0WmxjOGFVT1ZNMm13V1hvVTU4bC0tTFVVbw?oc=5",
+      "published_at": "2026-09-30T12:20:36Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "企业与供应链",
+      "status": "历史行情评论",
+      "importance": "低",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-10-01T07:26:21Z",
+      "last_seen": "2026-10-07T12:03:28Z",
+      "source_excerpt": "Iron Ore Futures Rebound to CNY 710 as China Manufacturing Returns to Growth - News and Statistics IndexBox",
+      "machine_translation": {
+        "title_zh": "随着中国制造业回归增长,铁矿石期货将改成CNY 710",
+        "excerpt_zh": "铁矿石期货公司在中国制造业增长回报时被约束到 CNY 710 - 新闻和统计索引Box",
+        "fingerprint": "ecd6bda3101a2731f5f8f2d47bd4cc6e25d57abb1a908d5564f6093e75c20480",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-10-01T07:27:20Z"
+      },
+      "coverage": "核读IndexBox新闻正文；行情与宏观数据未独立对账，不作为实时报价。",
+      "evidence_url": "https://www.indexbox.io/blog/iron-ore-futures-rebound-to-cny-710-on-china-manufacturing-growth/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-10-09"
+    },
+    {
+      "id": "0a454569356737c4dfca",
+      "title_zh": "IndexBox报道7月钢铁流量增长1%，统计口径仍待核对",
+      "title_en": "IndexBox reports July steel flows up 1%; scope needs confirmation",
+      "title_original": "Global Steel Flows Up 1% in July 2026: China Drives Growth, India Exports Jump 51%",
+      "summary_zh": "媒体称7月钢铁流量2220万吨、同比增1%，中国增长而其他来源下降近8%。该网页未提供可复算的完整底层数据与统计口径；其熔炼浇铸法律判断未以本轮可读正式法条确认，不能把“流量”直接当全球海关钢材出口总量。",
+      "summary_en": "IndexBox reports July flows of 22.2 Mt, up 1%, with China growing and other origins down nearly 8%. The underlying scope/data were not reconciled; flows should not be treated as total world customs exports.",
+      "impact_zh": "用于市场方向筛查；订单决策再核对海关品类、目的地及正式原产地规则，尤其避免把加工转口概括为全面禁止。",
+      "impact_en": "Reconcile customs categories and official origin rules before routing orders.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVBEdHlTcWI4RnhYS2M5TjVldHVYS2NpVUlPOElxdEc4TzVXdGVyaVhvQjNhNFRqZzFJZThiaTNOaWFNVkozMUZLOWNpd0ltdml3WGIzc19oTHl2dUp1LXQtYTVQLVcwdnZHUkc4cE5NUjNjWWhOTWIzYzNEajNuUHhDTk9OcG96QTMyQXFFLWVwUGVNLU5JYVVQYmhVVWZaUkx5dEhWbmZOY2htSDcxNGN3?oc=5",
+      "published_at": "2026-09-24T05:00:33Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "企业与供应链",
+      "status": "媒体统计·口径待核",
+      "importance": "低",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "钢铁"
+      ],
+      "tags_en": [
+        "Steel"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-09-28T11:50:11Z",
+      "last_seen": "2026-09-30T11:23:38Z",
+      "source_excerpt": "Global Steel Flows Up 1% in July 2026: China Drives Growth, India Exports Jump 51% - News and Statistics IndexBox",
+      "coverage": "核读IndexBox新闻正文；底层数据、贸易口径及其法规推论未独立验证。",
+      "evidence_url": "https://www.indexbox.io/blog/global-steel-flows-rise-1-in-july-2026-as-china-gains-and-non-china-volumes-fall-8/",
       "review_method": "source_checked",
       "reviewed_at": "2026-10-09"
     }
