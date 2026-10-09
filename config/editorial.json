@@ -192,16 +192,16 @@
   },
   {
     "url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
-    "published_date": "2026-09-29",
-    "reviewed_at": "2026-10-01",
-    "title_zh": "CBAM 认可进展更新：德国可受理申请，清单不是核查机构资质名单",
-    "title_en": "CBAM accreditation update: Germany accepts applications; list is not verifier approval",
-    "summary_zh": "9 月 29 日版清单统计 24 家认可机构愿提供 CBAM 认可、16 家可受理申请、7 家同意认可第三国申请者、5 家已受理第三国申请。德国 DAkkS 列为可受理申请，但不认可第三国申请者；法国 COFRAC 四项均为 Yes。",
-    "summary_en": "The 29 September list reports 24 bodies offering CBAM accreditation, 16 ready for applications, seven agreeing to accredit third-country applicants and five accepting them. Germany's DAkkS accepts applications but not third-country applicants; France's COFRAC lists Yes in all four columns.",
-    "impact_zh": "跟踪判断：按核查公司设立地确认申请渠道；这份清单不能证明 BV 或其他具体核查公司已获得 CBAM 资质，仍须核对认可证书及钢铁行业范围。",
-    "impact_en": "Assessment: check the route against the verifier's place of establishment. This list does not establish accreditation of BV or another individual verifier; confirm its certificate and steel-sector scope.",
+    "published_date": "2026-10-07",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "CBAM认可进展更新：7家机构已受理第三国申请（旧版为5家）",
+    "title_en": "CBAM accreditation update: seven bodies accept third-country applications, previously five",
+    "summary_zh": "欧委会两页进展表现列24家国家认可机构同意提供CBAM认可、18家准备受理申请、7家同意认可第三国申请人且已开始受理；相比9月29日版本，准备受理及已受理第三国申请机构分别由16、5增至18、7。第三国受理机构为法国COFRAC、希腊ESYD、意大利Accredia、荷兰RvA、波兰PCA、斯洛伐克SNAS、瑞典Swedac。罗马尼亚RENAR、斯洛文尼亚SA仍标为未准备受理，分别备注2026年10月、11月，不能据月份认定已启动。荷兰及瑞典另有分别涉及土耳其TURKAK、乌克兰NAAU的协议备注。",
+    "summary_en": "The updated Commission table lists 24 bodies offering CBAM accreditation, 18 ready for applications and seven agreeing to accredit and already accepting third-country applicants, versus 16 and five in the 29 September version. The seven are COFRAC, ESYD, Accredia, RvA, PCA, SNAS and Swedac. RENAR and SA remain marked not ready, with October and November 2026 notes respectively; the notes do not establish commencement. RvA and Swedac have agreement notes concerning TURKAK and NAAU.",
+    "impact_zh": "中国核验机构可向上述国家认可机构确认申请资格、程序和适用条件；钢厂选服务商时应查有效认可证书、钢铁产品／活动范围和官方名录。本表描述受理渠道，不证明特定检测公司已获认可或覆盖全部CBAM行业，签约前应留存证书及范围证据。",
+    "impact_en": "Chinese verifier applicants can confirm eligibility and procedures with these bodies. Mills should check valid certificates, steel activity scope and official listings before contracting. Application readiness does not prove that any individual company is accredited across all CBAM sectors.",
     "category": "碳与环保",
-    "status": "新闻",
+    "status": "官方进展信息",
     "importance": "高",
     "tags": [
       "CBAM",
@@ -213,8 +213,8 @@
       "verifiers",
       "accreditation progress"
     ],
-    "evidence_url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-verification_en",
-    "coverage": "29 September PDF and official verification page reviewed."
+    "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
+    "coverage": "2026-10-09全文提取并逐页目视核对当前两页官方PDF，覆盖四列状态、机构、24/18/7/7合计及备注；未逐一核验国家认可机构网站或具体企业证书。以现有采集记录2026-10-07版本匹配替换同URL旧研判，未另造重复记录。"
   },
   {
     "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-registry_en",
