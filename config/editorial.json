@@ -2,13 +2,13 @@
   {
     "url": "https://climate.ec.europa.eu/news-other-reads/news/eu-ets-publication-surrender-and-compliance-data-2026-09-25_en",
     "published_date": "2026-09-25",
-    "reviewed_at": "2026-10-08",
-    "title_zh": "EU ETS：2025年度合规数据已列入官方登记册（10月5日）",
-    "title_en": "EU ETS: 2025 compliance data listed in the Union Registry on 5 October",
-    "summary_zh": "9月25日通知预告最迟10月6日发布2025年度清缴合规数据。本次核对官方Union Registry报告列表，已列出日期为2026年10月5日的“Compliance data for 2025”，并链接compliance_2025_code_en.xlsx。已确认发布入口；本轮读取工具不支持该XLSX，尚未检查装置明细或行业汇总。",
-    "summary_en": "The September notice promised publication by 6 October. The official Union Registry now lists 'Compliance data for 2025' dated 5 October and links the XLSX. Publication is verified at listing level; installation rows and sector totals were not examined.",
-    "impact_zh": "发布节点已完成。可供研究欧洲钢厂排放、免费配额与履约情况，但不能从列表推出钢铁行业缺口、EUA涨跌或中国出口CBAM税额；下一步读取钢铁装置数据并排除无关行业。",
-    "impact_en": "The publication milestone is resolved. Analyse steel-installation rows before drawing conclusions on compliance gaps, EUA prices or CBAM costs.",
+    "reviewed_at": "2026-10-09",
+    "title_zh": "EU ETS：2025合规表已发布，生铁／钢生产记录完成限定范围核验",
+    "title_en": "EU ETS: 2025 compliance workbook published; scoped iron/steel check completed",
+    "summary_zh": "官方登记册于10月5日列出2025合规表。本轮读取XLSX的Export Worksheet及activity codes工作表，筛选COMPLIANCE_STATUS_LATEST_YEAR=2025、MAIN_ACTIVITY_TYPE_CODE为5或24（生铁或钢生产），得到180条记录：合规代码A为175条、B为4条、C为1条。计数仅覆盖上述活动与年份筛选，不代表整个钢铁价值链；TOTAL_VERIFIED_EMISSIONS与TOTAL_SURRENDERED_ALLOWANCES字段不在本条中作为2025年度总量使用。代码含义与具体异常原因仍需结合EUTL说明和主管机关记录核实。",
+    "summary_en": "The Registry listed the 2025 workbook on 5 October. Reading both worksheets and filtering latest compliance year=2025 and main activity code 5 or 24 (pig iron or steel) yields 180 records: code A 175, B 4, C 1. This is a scoped record count, not a whole steel value-chain total. Total emissions/surrender fields are not treated as annual 2025 totals. Code meanings and case-specific causes require EUTL guidance and authority records.",
+    "impact_zh": "这份表可支持核对欧盟钢铁装置的合规记录；不能据代码分布推导中国钢材CBAM税额、装置年度排放强度或行业违法比例。对合作装置逐一核对登记册标识、年份和官方解释，再判断是否需要补充尽调。",
+    "impact_en": "Use the workbook to check EU installation records. Code counts do not establish Chinese steel CBAM charges, annual emissions intensity or an industry breach rate. Verify installation IDs, years and official interpretations before further due diligence.",
     "category": "碳与环保",
     "status": "新闻",
     "importance": "中",
@@ -22,9 +22,9 @@
       "compliance data",
       "follow-up"
     ],
-    "follow_up": "已核对发布入口；后续读取2025合规XLSX中钢铁装置及行业数据，当前不认定数值已核验。",
-    "evidence_url": "https://climate.ec.europa.eu/areas-action/carbon-markets/eu-emissions-trading-system-eu-ets/union-registry_en",
-    "coverage": "已读9月25日通知及官方登记册报告列表；XLSX入口返回不支持的内容类型，未读数据行。"
+    "follow_up": "已完成发布入口和代码5/24、最新合规年份2025的限定计数核验；后续如需年度排放或装置风险结论，另查年度核验排放表、EUTL代码解释及主管机关记录。",
+    "evidence_url": "https://climate.ec.europa.eu/document/download/f7de3320-ca3d-43d1-afd4-bf0b5d3d355f_en?filename=compliance_2025_code_en.xlsx",
+    "coverage": "2026-10-09已读9月25日通知、登记册报告列表和10月5日官方XLSX两工作表；核对字段、活动代码及上述180条记录的代码分布，未核验各装置异常原因，未计算行业年度排放或清缴总量。"
   },
   {
     "url": "https://gov.uk/government/collections/carbon-border-adjustment-mechanism",
