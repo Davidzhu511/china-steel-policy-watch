@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-10T07:54:23Z",
+  "generated_at": "2026-10-10T08:00:29Z",
   "run_ok": true,
   "model": "gpt-4.1-mini",
   "translation_available": false,
   "analysis_status": "unconfigured",
   "active_items": 140,
   "archived_items": 42,
-  "verified_items": 128,
-  "pending_analysis": 12,
-  "pending_translation": 12,
-  "blocked_items": 9,
+  "verified_items": 130,
+  "pending_analysis": 10,
+  "pending_translation": 10,
+  "blocked_items": 10,
   "offline_translation": {
     "status": "partial",
     "translated": 0,
     "warnings": [
-      "4 条译文未通过完整性检查，保留原文待重试。"
+      "2 条译文未通过完整性检查，保留原文待重试。"
     ],
-    "remaining": 4
+    "remaining": 2
   },
   "machine_translated_items": 7,
   "collected_items": 67,
-  "processed_items": 14,
+  "processed_items": 12,
   "deferred_items": 0,
-  "new_items": 3,
+  "new_items": 0,
   "total_items": 182,
   "source_success": 6,
   "source_total": 6,
@@ -33,10 +33,12 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 8151,
-      "warnings": [],
-      "last_success_at": "2026-10-10T07:54:23Z",
-      "last_observed_at": "2026-10-10T07:54:23Z",
+      "duration_ms": 11039,
+      "warnings": [
+        "倡议 14123 详情未取得：ConnectionError"
+      ],
+      "last_success_at": "2026-10-10T08:00:29Z",
+      "last_observed_at": "2026-10-10T08:00:29Z",
       "consecutive_failures": 0
     },
     {
@@ -45,10 +47,10 @@
       "ok": true,
       "count": 22,
       "error": "",
-      "duration_ms": 3279,
+      "duration_ms": 2689,
       "warnings": [],
-      "last_success_at": "2026-10-10T07:54:23Z",
-      "last_observed_at": "2026-10-10T07:54:23Z",
+      "last_success_at": "2026-10-10T08:00:29Z",
+      "last_observed_at": "2026-10-10T08:00:29Z",
       "consecutive_failures": 0
     },
     {
@@ -57,10 +59,10 @@
       "ok": true,
       "count": 3,
       "error": "",
-      "duration_ms": 25268,
+      "duration_ms": 25664,
       "warnings": [],
-      "last_success_at": "2026-10-10T07:54:23Z",
-      "last_observed_at": "2026-10-10T07:54:23Z",
+      "last_success_at": "2026-10-10T08:00:29Z",
+      "last_observed_at": "2026-10-10T08:00:29Z",
       "consecutive_failures": 0
     },
     {
@@ -69,10 +71,10 @@
       "ok": true,
       "count": 8,
       "error": "",
-      "duration_ms": 461,
+      "duration_ms": 435,
       "warnings": [],
-      "last_success_at": "2026-10-10T07:54:23Z",
-      "last_observed_at": "2026-10-10T07:54:23Z",
+      "last_success_at": "2026-10-10T08:00:29Z",
+      "last_observed_at": "2026-10-10T08:00:29Z",
       "consecutive_failures": 0
     },
     {
@@ -81,10 +83,10 @@
       "ok": true,
       "count": 2,
       "error": "",
-      "duration_ms": 5965,
+      "duration_ms": 214,
       "warnings": [],
-      "last_success_at": "2026-10-10T07:54:23Z",
-      "last_observed_at": "2026-10-10T07:54:23Z",
+      "last_success_at": "2026-10-10T08:00:29Z",
+      "last_observed_at": "2026-10-10T08:00:29Z",
       "consecutive_failures": 0
     },
     {
@@ -93,16 +95,17 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 2279,
+      "duration_ms": 1868,
       "warnings": [],
-      "last_success_at": "2026-10-10T07:54:23Z",
-      "last_observed_at": "2026-10-10T07:54:23Z",
+      "last_success_at": "2026-10-10T08:00:29Z",
+      "last_observed_at": "2026-10-10T08:00:29Z",
       "consecutive_failures": 0
     }
   ],
   "warnings": [
-    "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202602240",
+    "倡议 14123 详情未取得：ConnectionError",
     "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202602256",
-    "4 条译文未通过完整性检查，保留原文待重试。"
+    "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202602240",
+    "2 条译文未通过完整性检查，保留原文待重试。"
   ]
 }
