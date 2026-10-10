@@ -433,3 +433,19 @@ def test_ec_timeline_uses_listing_date_and_keeps_newest_shared_link():
     assert len(items) == 1
     assert items[0].title == "CBAM new training"
     assert items[0].published_at.startswith("2026-09-28")
+
+
+def test_eurlex_empty_or_challenge_is_not_successful_zero():
+    for body in ("", "<html>Verify you are human</html>", "<html>Unexpected service page</html>"):
+        collector = EurLexCollector({"lookback_days": 1, "series": ["L"]}, {"settings": {}})
+        collector.session = FakeSession(body)
+        result = collector.run()
+        assert not result.ok
+        assert "EUR-Lex" in result.error
+
+
+def test_eurlex_valid_empty_issue_is_successful_zero():
+    collector = EurLexCollector({"lookback_days": 1, "series": ["L"]}, {"settings": {}})
+    collector.session = FakeSession("<html><h1>Official Journal L series daily view</h1></html>")
+    result = collector.run()
+    assert result.ok and not result.items
