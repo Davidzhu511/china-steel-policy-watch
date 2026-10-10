@@ -53,3 +53,20 @@ def test_archived_rows_remain_in_history_but_leave_latest_and_rss(tmp_path):
     assert len(json.loads((docs / "data/latest.json").read_text())["items"]) == 1
     feed = (docs / "feed.xml").read_text()
     assert "Story 0" in feed and "Story 1" not in feed and "Story 2" not in feed
+
+
+def test_reviewed_headline_does_not_mark_body_verified_and_expires():
+    item = {"url": "https://example.org/story", "published_at": "2026-10-09"}
+    config = {"triage": [{"url": item["url"], "published_date": "2026-10-09",
+                          "decision": "blocked", "title_zh": "已校对标题",
+                          "evidence_url": "https://example.org/evidence", "coverage": "仅标题"}]}
+    _apply_triage([item], config)
+    assert item["review_title_zh"] == "已校对标题"
+    assert item["review_evidence_url"] == "https://example.org/evidence"
+    assert item["review_coverage"] == "仅标题"
+    assert _review_counts([item])["pending_analysis"] == 1
+    item["published_at"] = "2026-10-10"
+    _apply_triage([item], config)
+    assert "review_title_zh" not in item
+    assert "review_evidence_url" not in item
+    assert "review_coverage" not in item
