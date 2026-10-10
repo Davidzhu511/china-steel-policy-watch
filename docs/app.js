@@ -103,7 +103,7 @@
     analysisError: "自动摘要暂不可用；原文照常收录。", analysisOk: "自动摘要已启用。",
     pendingCount: ({count}) => `${count} 条待原文核验`, sourcePartial: "部分渠道异常 · 其余正常",
     machineCount: ({count}) => `${count} 条已附机器译文；业务影响仍待核对。`,
-    sourceZero: "运行正常 · 本次无命中", monitorPending: "采集正常 · 摘要待补充",
+    sourceZero: "请求完成 · 本次无有效命中", monitorPending: "采集正常 · 摘要待补充",
     pendingCopy: "标题与来源已收录，中文解读待补充。可展开摘录或打开原文。",
     machineCopy: "以下为原文摘录的机器译文，业务影响仍待核对。",
     machineTitleOnly: "标题为机器译文；可展开原文摘录，业务影响仍待核对。",
@@ -123,7 +123,7 @@
     analysisError: "Automatic briefs are unavailable. Source collection continues.", analysisOk: "Automatic briefs enabled.",
     pendingCount: ({count}) => `${count} source reviews pending`, sourcePartial: "Some channels failed; others active",
     machineCount: ({count}) => `${count} items have machine translations; business impact still needs review.`,
-    sourceZero: "Operating normally · no matches this run", monitorPending: "Collection active · briefs pending",
+    sourceZero: "Request complete · no valid matches this run", monitorPending: "Collection active · briefs pending",
     pendingCopy: "Title and source collected. Analysis is pending; expand the excerpt or open the original.",
     machineCopy: "Machine translation of the source excerpt. Business impact is under review.",
     machineTitleOnly: "The title is machine translated; expand the source excerpt. Business impact needs review.",
@@ -207,8 +207,8 @@
   function itemTitle(item) {
     return state.lang === "en"
       ? item.title_en || item.title_original || item.title_zh
-      : item.translation_state === "complete" ? item.title_zh || item.title_original
-        : item.machine_translation?.title_zh || item.title_original;
+      : item.review_title_zh || (item.translation_state === "complete" ? item.title_zh || item.title_original
+        : item.machine_translation?.title_zh || item.title_original);
   }
 
   function itemSummary(item) {
@@ -378,7 +378,8 @@
       return `
       <div class="source-item" title="${escapeHtml(source.error || source.warnings?.join("; ") || statusText)}">
         <i class="source-dot ${source.ok && !source.warnings?.length ? "" : "bad"}"></i>
-        <span><strong>${escapeHtml(state.lang === "en" && source.name.includes(" / ") ? source.name.split(" / ")[0] : source.name)}</strong><small>${escapeHtml(statusText)}</small>${!source.ok && (source.last_success_at || source.last_observed_at) ? `<small>${escapeHtml(t(source.last_success_at ? "lastSuccess" : "lastObserved"))} ${berlinDate(source.last_success_at || source.last_observed_at)}</small>` : ""}</span>
+        <span><strong>${escapeHtml(state.lang === "en" && source.name.includes(" / ") ? source.name.split(" / ")[0] : source.name)}</strong><small>${escapeHtml(statusText)}</small>${!source.ok && (source.last_success_at || source.last_observed_at) ? `<small>${escapeHtml(t(source.last_success_at ? "lastSuccess" : "lastObserved"))} ${berlinDate(source.last_success_at || source.last_observed_at)}</small>` : ""}
+        ${source.last_observed_at ? `<small>${escapeHtml(t("lastObserved"))} ${berlinDate(source.last_observed_at)}</small>` : ""}</span>
         <b class="source-count">${Number(source.count || 0)}</b>
       </div>`;
     }).join("");
@@ -423,7 +424,7 @@
   function filteredItems() {
     const query = elements.search.value.trim().toLowerCase();
     const filtered = state.items.filter((item) => {
-      const text = [item.title_zh, item.title_en, item.title_original, item.summary_zh, item.summary_en, item.impact_zh, item.impact_en,
+      const text = [item.review_title_zh, item.title_zh, item.title_en, item.title_original, item.summary_zh, item.summary_en, item.impact_zh, item.impact_en,
         item.machine_translation?.title_zh, item.machine_translation?.excerpt_zh,
         item.country, item.region, item.category, ...(item.products || []), ...(item.products_en || []), ...(item.tags || []), ...(item.tags_en || [])]
         .join(" ").toLowerCase();
@@ -456,6 +457,7 @@
       ${item.translation_state === "complete" ? `<p class="card-impact"><b>${escapeHtml(t("impactPrefix"))}</b>${escapeHtml(itemImpact(item))}</p>` : ""}
       ${item.review_method === "source_checked" ? `<p class="card-evidence"><b>${state.lang === "zh" ? "核验范围：" : "Coverage: "}</b>${escapeHtml(typeof item.coverage === "object" ? (item.coverage[state.lang] || item.coverage.zh || "") : (item.coverage || (state.lang === "zh" ? "未注明，请核对原文" : "Not specified; check the source")))} · ${escapeHtml(item.reviewed_at || "")} ${item.evidence_url ? `<a href="${safeUrl(item.evidence_url)}" target="_blank" rel="noopener noreferrer">${state.lang === "zh" ? "证据原文" : "Evidence"}</a>` : ""}</p>` : ""}
       ${item.review_note_zh ? `<p class="card-evidence"><b>${state.lang === "zh" ? "待核验原因：" : "Review blocker: "}</b>${escapeHtml(state.lang === "en" ? (item.review_note_en || item.review_note_zh) : item.review_note_zh)} · ${escapeHtml(item.review_attempted_at || "")}</p>` : ""}
+      ${item.review_evidence_url ? `<p class="card-evidence">${escapeHtml(item.review_coverage || "")} <a href="${safeUrl(item.review_evidence_url)}" target="_blank" rel="noopener noreferrer">${state.lang === "zh" ? "核验入口（正文待核）" : "Evidence entry (body pending)"}</a></p>` : ""}
       ${followUp(item)}
       ${item.source_excerpt ? `<details class="source-excerpt"><summary>${escapeHtml(t("excerpt"))}</summary><p>${escapeHtml(item.source_excerpt)}</p></details>` : ""}
       ${(item.related_sources || []).map((source) => `<a class="related-source" href="${safeUrl(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(t("related"))}: ${escapeHtml(source.name)}</a>`).join("")}
