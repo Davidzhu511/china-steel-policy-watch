@@ -212,6 +212,10 @@
   }
 
   function itemSummary(item) {
+    if (item.review_disposition === "blocked" && item.review_coverage) {
+      return state.lang === "zh" ? item.review_coverage
+        : "Limited evidence only; full-text review remains pending.";
+    }
     if (item.translation_state !== "complete") {
       if (state.lang === "en") return item.source_excerpt || t("pendingCopy");
       return item.machine_translation?.excerpt_zh
@@ -443,7 +447,7 @@
     return `<article class="intel-card" data-importance="${escapeHtml(item.importance)}">
       <div class="card-head">
         <div class="badge-row">
-          ${item.translation_state === "complete" ? `<span class="badge importance-${escapeHtml(item.importance)}">${escapeHtml(importance)}</span>` : `<span class="badge pending">${escapeHtml(t(item.machine_translation ? "machineTranslated" : "pending"))}</span>`}
+          ${item.translation_state === "complete" ? `<span class="badge importance-${escapeHtml(item.importance)}">${escapeHtml(importance)}</span>` : `<span class="badge pending">${escapeHtml(t(item.machine_translation && !item.review_title_zh ? "machineTranslated" : "pending"))}</span>`}
           ${item.priority_signal ? `<span class="badge official">${escapeHtml(item.priority_signal[state.lang] || item.priority_signal.zh)}</span>` : ""}
           <span class="badge ${item.source?.official ? "official" : ""}">${escapeHtml(item.source?.official ? t("official") : label("status", item.status))}</span>
           <span class="badge">${escapeHtml(label("category", item.category))}</span>
