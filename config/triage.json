@@ -342,155 +342,129 @@
     "attempted_at": "2026-10-09"
   },
   {
-    "url": "https://eur-lex.europa.eu/eli/reg/2026/1384/oj/eng",
-    "published_date": "2026-06-24",
-    "decision": "blocked",
-    "reason_zh": "EUR-Lex正文返回202空响应/机器人验证；尝试官方HTML和出版局入口仍未获得正文。配额实施细则不能替代框架条例全文核验。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
-  },
-  {
-    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AC_202603630",
-    "published_date": "2026-07-20",
-    "decision": "blocked",
-    "reason_zh": "欧盟法院/公报原文未取得，不能仅凭案名确定迟交商业发票的判决适用条件。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
-  },
-  {
-    "url": "https://reuters.com/world/china/indian-steelmakers-pivot-home-europe-tightens-imports-china-squeezes-margins-2026-07-21",
-    "published_date": "2026-07-21",
-    "decision": "blocked",
-    "reason_zh": "Reuters返回401；未取得可核读授权转载全文。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
-  },
-  {
     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AC_202604636",
     "published_date": "2026-09-01",
     "decision": "blocked",
-    "reason_zh": "EUR-Lex原文返回空响应/机器人验证；期满复审产品、期限和提交要求须等待正文核验。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
-  },
-  {
-    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601926",
-    "published_date": "2026-08-10",
-    "decision": "blocked",
-    "reason_zh": "EUR-Lex正文未取得；新出口商企业名、附加编码及税率不得从标题推断。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
+    "title_zh": "欧盟启动对中国预应力钢丝及钢绞线反倾销措施的到期复审",
+    "reason_zh": "原公报HTML入口404；尚未获得公告正文，无法核验产品编码、参与期限与持续征税条款。后续重试官方ELI/PDF或DG TRADE案件页。 核验入口：https://eur-lex.europa.eu/eli/C/2026/4636/oj/eng",
+    "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
+    "attempted_at": "2026-10-10",
+    "evidence_url": "https://eur-lex.europa.eu/eli/C/2026/4636/oj/eng",
+    "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
   },
   {
     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AC_202604231",
     "published_date": "2026-08-02",
     "decision": "blocked",
-    "reason_zh": "EUR-Lex主管机关名单正文未取得；不凭历史名单认定当前联系人。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
+    "title_zh": "欧盟CBAM成员国主管机关名单公告",
+    "reason_zh": "原公报HTML入口404；无法核验名单的具体更新。后续重试官方ELI/PDF，并与DG TAXUD主管机关名录交叉核对。 核验入口：https://eur-lex.europa.eu/eli/C/2026/4231/oj/eng",
+    "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
+    "attempted_at": "2026-10-10",
+    "evidence_url": "https://eur-lex.europa.eu/eli/C/2026/4231/oj/eng",
+    "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQlhONF9BMWRWRGM4TmZoOW0wRjc2VW1PeUZvUjNPVkVKbkNOWmV0RHNTXzkxOWxsY0Q2UmpRODNJTEZsOHcydHFRTENmVjIyeWtxSlFTSnhjRjV1MFpzSVY3ZXlvVlVYR0dfUFlhNGtveExQRGNSVkxXR19RR2t5ZjlybFBlY0NkandNZw?oc=5",
     "published_date": "2026-10-08",
     "decision": "blocked",
-    "reason_zh": "Google索引503且未找到可靠原始采购文件；15亿美元用钢需求和中国订单机会均无法证实。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
+    "title_zh": "乌克兰钢厂受损与15亿美元进口需求：媒体说法待核实",
+    "reason_zh": "Google索引无正文；钢之家相关报道入口返回空正文，15亿美元指向2027年额外进口预测，未获原始统计或报告，不能确认订单流向中国。后续核对乌克兰官方或行业协会原始测算。 核验入口：https://steelhome.cn/MessageShow.php?nid=4771811",
+    "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
+    "attempted_at": "2026-10-10",
+    "evidence_url": "https://steelhome.cn/MessageShow.php?nid=4771811",
+    "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZHJRQjRZUVhVeHAtZVRCUDd4QXBxQUozNHIzd2F3ekFyNHNOWXJTbGtSTWw3a3lmdVNzZmFGbnBlcmhYVWcwaDl1VXdDem1jbHZOMlZUdHRSRDBvMjBKeWF3cjJDdXJqV2JSaFVDMnpBQjNpdTRiVE1mVmdaNndMM0ZQeHNCVnZmLVE?oc=5",
+    "published_date": "2026-10-08",
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSldWZXhJcUZDZG9BRlRtazdUZDVPZnpweDRpX0hQTkMzOFZKYTNkT1A0bUhGZXhCN2lUSnRTbnhJOEIyMDdaTGNtb0JlMW55eDh1b1YzTjVNLW93Y201OG9HZnY5OE1ydWE2RFBqdGRqeTBtSm8wZ1dZRjRIS29vM2VTbUhVN2pBajN2bmt3bjROM3ZvNjk4QnJiVUY0Q2NkY3FyRnBmbHU1OTdRbmwzYU1wQm1KbGtIdjZMdkU1WlV6NWR0NXBMQUZMbWdxazZlZk1lM3o3bGR4ZDQ3?oc=5",
+    "attempted_at": "2026-10-10",
+    "reason_zh": "已核对同一Mayer Brown原文，合并到10月7日已核验条目；保留此索引转载。",
+    "reason_en": "Original reporting checked; the same event is covered by the verified main item. Original link retained."
   },
   {
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUlvLUgySXdBZHNCczhZUkt4MHNFUDdyNXJ2ZTFyRnNuVXdBN3B6Z2k0Z3VKeURVN0pzb2VmS0dvNkxTbmxLZUZBUmtxbTZQa3hxdmE3M3d1dUNxbjFTdlhBTEI5MjRJeG9uVHplTzNXSTJmcktaZmpFVF9ZQ0NWWGhQdWlQLWRvdmVqSzVYOUU0bzhLcldjM0FLSVhyRV9TZk9JVGh5YlFnSFRVTTlKRWdGTEVXbVN2a1ZfUA?oc=5",
     "published_date": "2026-10-07",
     "decision": "blocked",
-    "reason_zh": "Montel原页仅提供导语并要求注册；仅知Stegra担心放松ETS的讨论，未取得全文与正式政策依据。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa01ESXo4ZzdYRzN6N1g3ZnlwdzBFdEltbEtxWXlNeDJVYndUU19zRTdfbWt1X1M1eDhzdmFVTTh4QjJfNHNTbGZoYlA3WTU0UWVGOFBhaWluT000NC1BWW9YWlhYWWtmOE5hZU1DOWtFYUwxdTl1R3Jlc3pZdGkyX3BHeE0?oc=5",
-    "published_date": "2026-10-06",
-    "decision": "blocked",
-    "reason_zh": "英联邦原报告入口多次访问失败；未核读报告，不能套用该报道推导UK CBAM具体影响。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
+    "title_zh": "瑞典钢企Stegra担忧欧盟ETS改革讨论方向",
+    "reason_zh": "Montel原页仅可读标题、日期和导语，其余需注册；未读取受限正文。导语确认Stegra担忧放宽碳市场规则，不代表欧盟已改法。下轮重试公开原文或企业公告。 核验入口：https://montelnews.com/news/2b9a0aa3-63a3-44d0-a0bb-33cd302dcf40/swedish-steel-maker-laments-tone-of-eu-ets-reform-talks",
+    "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
+    "attempted_at": "2026-10-10",
+    "evidence_url": "https://montelnews.com/news/2b9a0aa3-63a3-44d0-a0bb-33cd302dcf40/swedish-steel-maker-laments-tone-of-eu-ets-reform-talks",
+    "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPczZrZkJQSUhoTDNjQmRGek1CclVMOUt3YXQ0dU5yZm4tZU53U1VrOFd2UXUzRW0tVHRCNkJrSVJoTW03RFJkdDBPQTZPbEtzY0RvMzdYWFQyaXpjVWlqOUlmZGVzMWxEU3JfbWUxakNaTG5UaF8zYk0yeHhRa0dJTnN1T29EZ1V2U09QVVliS2VsMUVqTkx2a3hGYVd4ZVNIdkNITlFLbFBJRFhBRWRJaHpETE1qSlA2QndLb0tYR3d0QWs2WVF3UXp6N0I2RjdVSS1CS3BPYno5VzFYR0Nn?oc=5",
     "published_date": "2026-10-05",
     "decision": "blocked",
-    "reason_zh": "SteelOrbis正文入口不可用；仅有会议线索，须区分9月活动和10月报道以及EUROFER主席更替。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
+    "title_zh": "EUROFER主席与土耳其钢企讨论CBAM及竞争力",
+    "reason_zh": "已定位SteelOrbis原文，返回404；搜索摘要不足以核验会议细节。后续重试原文及EUROFER公开公告。 核验入口：https://www.steelorbis.com/steel-news/latest-news/eurofer-president-meets-turkish-steel-executives-to-discuss-cbam-and-competitiveness-1481628.htm",
+    "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
+    "attempted_at": "2026-10-10",
+    "evidence_url": "https://www.steelorbis.com/steel-news/latest-news/eurofer-president-meets-turkish-steel-executives-to-discuss-cbam-and-competitiveness-1481628.htm",
+    "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNU1NQllWX3lVRjdfaXB5WmNzVzViRGZoVFJsenJuN0Y2QWh1eXIxT2ZrNVdCaW1LQjZhWGctSnZKR292djRnQkVPYmVpMThfM0Y5UTMwdlRlSUJLcmR3NkZvb1RXRzliSUdXZkM0Y2oyUXJ2RjZ0ZUYzcm9EaFpYckxxVUJFZlh0VU01Vllpb3FJN0otQ2ZxeC1IRXY0TFQ1ZXpLNVJrR3Rma0RYVVFkdmd6eWRpelNmVDZsOFJzZWZhMUNhM2lMNDJSZzBCVUpxNFBfaXQ2WGU1RjB2cm5QMHdEeGpPYVlCM1E?oc=5",
     "published_date": "2026-09-29",
     "decision": "blocked",
-    "reason_zh": "未取得Federacciai原始声明；暂停ETS为行业诉求，未证明制度已停用。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
+    "title_zh": "意大利钢铁协会呼吁暂缓燃气发电的ETS成本：原文待核验",
+    "reason_zh": "尚未获得本条Yieh原文。SMM与ANSA内容不完全一致：ANSA仅报道暂缓燃气发电ETS的行业诉求，不支持已暂停ETS或暂停配额拍卖。后续查Yieh原文及Federacciai原始声明；已读辅助报道不等于核验本条全文。 核验入口：https://www.ansa.it/sito/notizie/economia/2026/09/22/federacciai-rischio-fermata-per-impianti-siderurgici-sospendere-ets_291004c7-eced-4997-9529-c85a0be8f495.html",
+    "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
+    "attempted_at": "2026-10-10",
+    "evidence_url": "https://www.ansa.it/sito/notizie/economia/2026/09/22/federacciai-rischio-fermata-per-impianti-siderurgici-sospendere-ets_291004c7-eced-4997-9529-c85a0be8f495.html",
+    "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ0NDM1VZanVhTGxPdW5IMEdBWU5MRzQycTl5VWlhYzhya2pOYzh1aHZXVWVEMmtYdzUtcTBFbkY4MUt5VjA5ZVBWRmNtckZyNnVWaERURTZQMzJsLVNNWEI4a280M182WC01aW4ybnJGOTRERVJEb2EwNzJndEVpYjY3bm5Kdw?oc=5",
     "published_date": "2026-09-29",
-    "decision": "blocked",
-    "reason_zh": "媒体下游扩围报道未取得全文及完整官方附件；不可把立法提案当已生效范围。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcmtOTE1LdnAwMGpHYUFrdUY5UURCN09rdnc5dkNzR0JYWnlaMmp5S21yc2plbmV0SDR3MFB6VkFYRnRXM0RpUEdpbkxUZlJmZmFkTm1JUnNBX2x3WEdpc2hKb3lNU0twUFlyZTRkRDJIVnFkWExNVVpRZmprMzY2QjNLWldBTkZZeHItTE1BT2U?oc=5",
-    "published_date": "2026-09-27",
-    "decision": "blocked",
-    "reason_zh": "原行情报道及报价底层时点尚未核读；100美元价格不是实时行情。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTi1faDZEMkttU09pUFJhSkZSMlZyeXBrY0pad1FVdVRjT3o2SWZSeDBDRzVqTzhxSkZfNHNsZFVFMHNPVFZxWm8zNjYzaWg0dXM1bGRzaGMzNHhMUU15LW95OWhvSnJ6eGFEZFoxc2oyN2k0YUc1YVNjZ2pIb1FjSjZMcFdsSmY4TWNwdjk3V25mVTY4LWtWUk5Semk2WGlMN0JXMWstT1hDWkdlQWozdlNmM2dXdmYyYU1nbA?oc=5",
+    "attempted_at": "2026-10-10",
+    "reason_zh": "已读媒体原文并核对欧洲议会官方程序摘要，同属9月15日CBAM扩围谈判立场事件，归并至已核验主条目，保留来源。",
+    "reason_en": "Original reporting checked; the same event is covered by the verified main item. Original link retained."
   },
   {
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkFGYVltRXR6dGxteWY4VVlabW92QzNhaXJMQldRV0dmMDh6M2V2UkRQOVVOY21hbklBcmltQjA1TnBzZ2E1U1pnOGRRYXR1TElZbzhFVWpwR0JnZVZjT3V2VklVbjJxQmg1c3FrNGV5NzhWVjJfSWJCYlA5NU5EdnZsRHcwNzQ4V1pQbGxxLXhCcWFVLVk0cEtOaExqTng3MDQ5aFQ5a0VrZnVGTmpOWWlmUjRsUQ?oc=5",
     "published_date": "2026-09-25",
     "decision": "blocked",
-    "reason_zh": "尚未取得中钢协控产降库的原通知；媒体引述不证明政府强制减产。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
+    "title_zh": "媒体称中国钢铁工业协会呼吁钢厂控制产量：原始声明待核",
+    "reason_zh": "索引无正文，Hellenic相关入口未提供可核验原文；未找到对应中钢协声明。不能把行业转述视为官方限产命令。后续查中钢协公开原始文件和媒体原文。 核验入口：https://www.chinaisa.org.cn/",
+    "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
+    "attempted_at": "2026-10-10",
+    "evidence_url": "https://www.chinaisa.org.cn/",
+    "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWS1YV1F3VnhYdWZ6TkdwS0lEWGVFMEFkbDc1akZpMUJGRGRpdXdsMFVDTW4zZVlETGxvZGZKcXBMS04wMndRV1JyMmhldE5zTTduc2RNM29TMXlLNzJnZjd6UXhyZnJWQmhNWHUxSFVlOHhTSmRDRThhV2F5UVFkNG9LSXhva1hzMDVOTWVoWUpHMzZRbktn?oc=5",
     "published_date": "2026-09-24",
     "decision": "blocked",
-    "reason_zh": "ORF原文403；未取得可读官方备用入口或完整正文。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTi1faDZEMkttU09pUFJhSkZSMlZyeXBrY0pad1FVdVRjT3o2SWZSeDBDRzVqTzhxSkZfNHNsZFVFMHNPVFZxWm8zNjYzaWg0dXM1bGRzaGMzNHhMUU15LW95OWhvSnJ6eGFEZFoxc2oyN2k0YUc1YVNjZ2pIb1FjSjZMcFdsSmY4TWNwdjk3V25mVTY4LWtWUk5Semk2WGlMN0JXMWstT1hDWkdlQWozdlNmM2dXdmYyYU1nbA?oc=5",
-    "published_date": "2026-09-24",
-    "decision": "blocked",
-    "reason_zh": "媒体正文及议会原始文本未取得，官方入口机器人验证，无法逐项确认扩围清单。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
+    "title_zh": "印度能否将CBAM挑战转化为机遇？ORF评论待核",
+    "reason_zh": "ORF原文入口访问失败；搜索仅找到同题索引及机构社交简介，未读正文。下轮重试原文，不以其他国家案例推导中国出口税额。 核验入口：https://www.orfonline.org/expert-speak/can-india-turn-the-cbam-challenge-into-an-opportunity",
+    "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
+    "attempted_at": "2026-10-10",
+    "evidence_url": "https://www.orfonline.org/expert-speak/can-india-turn-the-cbam-challenge-into-an-opportunity",
+    "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhc0N6SDlMUlU1ejE0X2I0X2h1UmRucGZGbHZOUEh1dTJlcU4xOW1CalpSWjdGTG5QbldGaFVnWUx2NDF5YUxGLS1UU1N4MklHdm1SQU8ydXFqVzVjM3dPaXlvamRBS0pIcVVaZ0ZWRzB3c0E?oc=5",
     "published_date": "2026-09-22",
-    "decision": "blocked",
-    "reason_zh": "媒体原文及正式法律附件未取得；标题“Expands”不能证明扩围已完成立法。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTi1faDZEMkttU09pUFJhSkZSMlZyeXBrY0pad1FVdVRjT3o2SWZSeDBDRzVqTzhxSkZfNHNsZFVFMHNPVFZxWm8zNjYzaWg0dXM1bGRzaGMzNHhMUU15LW95OWhvSnJ6eGFEZFoxc2oyN2k0YUc1YVNjZ2pIb1FjSjZMcFdsSmY4TWNwdjk3V25mVTY4LWtWUk5Semk2WGlMN0JXMWstT1hDWkdlQWozdlNmM2dXdmYyYU1nbA?oc=5",
+    "attempted_at": "2026-10-10",
+    "reason_zh": "已读媒体原文并核对欧洲议会官方程序摘要，同属9月15日CBAM扩围谈判立场事件，归并至已核验主条目，保留来源。",
+    "reason_en": "Original reporting checked; the same event is covered by the verified main item. Original link retained."
   },
   {
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXFJWmlSbGpyVUkxTnNWOE5OMDRZdGlpRFN2VFFTVHZhdnZtRE1ON1NKNFQ1bzZtLUJ0Tl80WjNSR3FtOVZ3c0l2VnRzX0RaU1M4Y3RuQW51TF9mNmVtNUtIYmMxNzFnVngxVWJNQzFaeUR0UjBoVE9KVkUxeW5uOHM5N1lHemU5OEgzZlFmM3NSVU4zQjRubElRTVdROWVwWHRKb2VIcFpCTk5y?oc=5",
     "published_date": "2026-09-22",
     "decision": "blocked",
-    "reason_zh": "Table Briefings原文未核读，可能受订阅限制；不能把其他智库文章当该文全文。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
-  },
-  {
-    "url": "https://reuters.com/commentary/reuters-open-interest/chinas-steel-sector-looks-weaker-than-it-is-reverse-iron-ore-2026-07-21",
-    "published_date": "2026-07-21",
-    "decision": "blocked",
-    "reason_zh": "Reuters401；原文观点和统计比较尚无法核读。",
-    "reason_en": "The original text or required primary evidence remains unavailable; not marked as verified.",
-    "attempted_at": "2026-10-09"
+    "title_zh": "智库呼吁CBAM加强与欧盟以外国家合作：正文待核",
+    "reason_zh": "未获得Table.Briefings同题正文；候选原文入口访问失败。不能以索引标题替代所涉智库报告。后续重试公开原文和报告原始入口。 核验入口：https://table.media/",
+    "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
+    "attempted_at": "2026-10-10",
+    "evidence_url": "https://table.media/",
+    "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
   }
 ]
