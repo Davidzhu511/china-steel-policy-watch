@@ -1,4 +1,5 @@
 import json
+from datetime import UTC, datetime, timedelta
 from pathlib import Path
 
 from steelwatch.collectors.ec_have_your_say import EcHaveYourSayCollector
@@ -449,3 +450,27 @@ def test_eurlex_valid_empty_issue_is_successful_zero():
     collector.session = FakeSession("<html><h1>Official Journal L series daily view</h1></html>")
     result = collector.run()
     assert result.ok and not result.items
+
+
+def test_federal_register_rejects_future_and_missing_publication_dates():
+    today = datetime.now(UTC).date()
+    records = [{"title": "China steel antidumping notice",
+                "html_url": f"https://federalregister.gov/example/{n}",
+                "publication_date": value}
+               for n, value in enumerate([today.isoformat(),
+                                           (today + timedelta(days=3)).isoformat(), ""])]
+    collector = FederalRegisterCollector(
+        {"queries": ["China steel"]},
+        {"settings": {}, "keywords": {"china": ["china"], "materials": ["steel"]}},
+    )
+
+    class Session:
+        def get(self, url, **kwargs):
+            assert kwargs["params"]["conditions[publication_date][lte]"] == today.isoformat()
+            return FakeJsonResponse({"results": records})
+
+    collector.session = Session()
+    items = collector.collect()
+    assert len(items) == 1
+    assert items[0].published_at == f"{today.isoformat()}T00:00:00Z"
+    assert collector.warnings == ["Federal Register record lacks a valid publication date"]
