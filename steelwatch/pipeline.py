@@ -187,7 +187,8 @@ def _apply_triage(items: list[dict[str, Any]], config: dict[str, Any]) -> None:
     by_url = {canonical_url(item["url"]): item for item in items}
     for item in items:
         for key in ("review_disposition", "review_note_zh", "review_note_en",
-                    "review_attempted_at", "duplicate_of"):
+                    "review_attempted_at", "duplicate_of", "review_title_zh",
+                    "review_evidence_url", "review_coverage"):
             item.pop(key, None)
         row = rows.get((canonical_url(item["url"]), item["published_at"][:10]))
         if not row or item.get("review_method") == "source_checked":
@@ -202,6 +203,12 @@ def _apply_triage(items: list[dict[str, Any]], config: dict[str, Any]) -> None:
         item.update(review_disposition=decision, review_note_zh=row.get("reason_zh", ""),
                     review_note_en=row.get("reason_en", ""),
                     review_attempted_at=row.get("attempted_at", ""))
+        if decision == "blocked" and row.get("title_zh"):
+            item["review_title_zh"] = row["title_zh"]
+        if decision == "blocked":
+            for key in ("evidence_url", "coverage"):
+                if row.get(key):
+                    item[f"review_{key}"] = row[key]
         if decision == "duplicate":
             item["duplicate_of"] = target["url"]
             links = target.setdefault("related_sources", [])

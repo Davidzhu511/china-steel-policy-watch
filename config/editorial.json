@@ -2103,25 +2103,29 @@
   },
   {
     "url": "https://gov.uk/government/publications/carbon-border-adjustment-mechanism-force-of-law-notice-and-reference-document",
-    "published_date": "2026-07-13",
-    "reviewed_at": "2026-10-09",
-    "title_zh": "英国CBAM法定效力通知仍为草案，需为2027年实施准备",
-    "title_en": "UK CBAM force-of-law notices remain drafts ahead of 2027",
-    "summary_zh": "政府文件集合页列出管理、碳价减免及排放核查通知草案，明确目前尚无法定效力，计划配合2027年1月1日CBAM实施。页面已列9月9日排放及核查草案；碳价核查表和系统边界文件是准备资料，不能把集合页视为已生效规则。",
-    "summary_en": "The official collection lists administration, carbon-price relief and emissions/verification drafts. They do not yet have force of law and are intended for commencement on 1 January 2027. The page includes the 9 September emissions/verification draft.",
-    "impact_zh": "输英供应链提前准备装置、商品和碳价证据；合同保留最终通知变更条款，正式申报须再核对最终文本。",
-    "impact_en": "Prepare installation and carbon-price evidence and revisit final notices before filing.",
+    "published_date": "2026-10-09",
+    "reviewed_at": "2026-10-10",
+    "title_zh": "英国CBAM：10月9日替换排放核验草案文件，仍须区分草案与生效规则",
+    "title_en": "UK CBAM: verification draft file replaced on 9 October",
+    "summary_zh": "官方更新记录确认10月9日以ODT替换旧PDF，并未声明实质规则改变。页面仍说明草案尚未生效，拟自2027年1月1日起具有法律效力。草案要求跟踪生产过程直接排放及相关前体排放，保存可复核数据，并由认可范围覆盖相关活动的核验机构提供合理保证。",
+    "summary_en": "The 9 October update replaces the PDF with an ODT; it does not state a substantive change. Notices remain drafts, intended to take legal effect on 1 January 2027. Reviewed provisions cover direct/precursor emissions, reproducible records and appropriately accredited verification.",
+    "impact_zh": "对英供货钢厂应与进口商核对生产边界、前体数据和核验机构资质，准备2027年合规；不据文件格式变化推导新税率。",
+    "impact_en": "Prepare process boundaries, precursor data and verifier credentials with UK buyers before 2027. A format replacement does not establish a new rate.",
     "category": "碳与环保",
-    "status": "通知草案",
+    "status": "拟议",
     "importance": "高",
     "tags": [
-      "钢铁"
+      "英国CBAM",
+      "排放核验",
+      "需行动"
     ],
     "tags_en": [
-      "Steel"
+      "UK CBAM",
+      "verification",
+      "action"
     ],
-    "evidence_url": "https://gov.uk/government/publications/carbon-border-adjustment-mechanism-force-of-law-notice-and-reference-document",
-    "coverage": "完整核读政府集合页及草案说明；未核读118页排放与核查通知全文，不给出未核实的全部技术要求。"
+    "evidence_url": "https://www.gov.uk/government/publications/carbon-border-adjustment-mechanism-force-of-law-notice-and-reference-document",
+    "coverage": "已读10月9日官方页面与新版ODT，重点核对A.2、J.6.1、J.7.1—2；未逐项审计全部计算公式、附件或与旧PDF逐字比较。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOckNIRm5Bb3cyamw0UFItUFNGcGs5endMNFFaTV9ORDR3ZEtQel9sMUlpaVhmS0xWTVRBMmRxZXdvTTBaR19kZExvU0d2M0RqZFRPV2R1YzRKWlRnRERSQUdVWVpmNW9JemJ2QThJWWdVR1BGN1BJb2djSV9UUmFPaGRWa0I3UlV6aG9scHVTRmpqcHpuLWxDSUxQeTJyd21IYm9rVg?oc=5",
@@ -2760,5 +2764,231 @@
     "tags_en": [
       "Steel"
     ]
+  },
+  {
+    "url": "https://eur-lex.europa.eu/eli/reg/2026/1384/oj/eng",
+    "published_date": "2026-06-24",
+    "reviewed_at": "2026-10-10",
+    "title_zh": "欧盟钢铁新规2026/1384：10月起须提供熔炼与浇铸国证明",
+    "title_en": "EU steel regulation 2026/1384: melt-and-pour evidence required from October",
+    "summary_zh": "正式条例设置关税配额及配额外50%关税；第4条要求以钢厂证书等可核验证据证明首次液态熔炼和首次凝固浇铸所在国，自2026年10月1日起适用。熔炼浇铸国不应直接等同现行配额分配原产地；第12条要求最迟2028年6月30日评估是否以其作为配额依据。",
+    "summary_en": "The regulation sets tariff-rate quotas and a 50% out-of-quota duty. Article 4 requires verifiable evidence of initial melting and first solid casting, applicable from 1 October 2026. Using melt-and-pour country as the quota allocation basis remains subject to assessment by 30 June 2028.",
+    "impact_zh": "对欧出口应立即把钢厂证书、炉号和贸易单据关联；逐项核对产品附件、配额及原产地规则，不能仅凭熔炼国推定可用配额。",
+    "impact_en": "Link mill certificates and heat numbers to shipment records now. Check product annexes, quota availability and origin rules separately.",
+    "category": "配额与关税",
+    "status": "已生效",
+    "importance": "高",
+    "tags": [
+      "欧盟钢铁",
+      "熔炼浇铸",
+      "需行动"
+    ],
+    "tags_en": [
+      "EU steel",
+      "melt and pour",
+      "action"
+    ],
+    "evidence_url": "https://eur-lex.europa.eu/eli/reg/2026/1384/oj/eng",
+    "coverage": "已读取官方条例正文，重点核对第2—4、12、14条；本解读不逐项核验产品附件、企业配额余额或全部实施细则。"
+  },
+  {
+    "url": "https://reuters.com/world/china/indian-steelmakers-pivot-home-europe-tightens-imports-china-squeezes-margins-2026-07-21",
+    "published_date": "2026-07-21",
+    "reviewed_at": "2026-10-10",
+    "title_zh": "印度钢厂转向内需，应对欧洲进口收紧及中国竞争",
+    "title_en": "Indian mills pivot to domestic demand amid European restrictions",
+    "summary_zh": "路透社7月21日报道印度钢厂转向国内市场；受访企业预测对欧盟及英国出口可能最多下降40%。这是当时的企业预期，并非已实现的贸易统计。",
+    "summary_en": "Reuters reported on 21 July that Indian mills were pivoting home; an executive forecast up to a 40% fall in exports to the EU and UK. This was a forecast, not an observed trade total.",
+    "impact_zh": "中国出口商宜复核目的地准入和客户需求；该历史采访不能代替当前报价、配额或订单判断。",
+    "impact_en": "Check current access and buyer demand; this historical interview does not establish today's prices or orders.",
+    "category": "市场与产能",
+    "status": "新闻",
+    "importance": "中",
+    "tags": [
+      "印度",
+      "钢铁出口"
+    ],
+    "tags_en": [
+      "India",
+      "steel exports"
+    ],
+    "evidence_url": "https://www.reuters.com/world/china/indian-steelmakers-pivot-home-europe-tightens-imports-china-squeezes-margins-2026-07-21/",
+    "coverage": "已读路透社原文；只作简短行业新闻解读，未把采访预测作为政策或实际贸易降幅。"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601926",
+    "published_date": "2026-08-10",
+    "reviewed_at": "2026-10-10",
+    "title_zh": "欧盟给予Ningbo Orange紧固件新出口商待遇，适用39.6%反倾销税",
+    "title_en": "EU grants Ningbo Orange new-exporter treatment at 39.6%",
+    "summary_zh": "实施条例2026/1926将Ningbo Orange Hardware Co., Ltd加入2022/191附件，适用未抽样合作企业39.6%的反倾销税率，TARIC附加码88FE；8月10日公布，8月11日生效。调整针对该企业及母条例所涉某些钢铁紧固件。",
+    "summary_en": "Regulation 2026/1926 adds Ningbo Orange Hardware Co., Ltd to the 2022/191 annex at the 39.6% cooperating non-sampled rate, TARIC additional code 88FE. Published 10 August, effective 11 August; this is company-specific.",
+    "impact_zh": "相关报关须核对生产商身份、商业发票和母条例产品范围；其他企业不得套用该税率。",
+    "impact_en": "Check producer identity, invoices and the parent regulation's scope; other exporters cannot use this rate.",
+    "category": "贸易救济",
+    "status": "已生效",
+    "importance": "高",
+    "tags": [
+      "反倾销",
+      "紧固件",
+      "企业税率"
+    ],
+    "tags_en": [
+      "anti-dumping",
+      "fasteners",
+      "company rate"
+    ],
+    "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1926",
+    "coverage": "原OJ入口404，已通过官方CELEX入口读取2026/1926全文；未逐项核对母条例2022/191的全部CN编码。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTldrRERpbVZ6bHJhN2xlZTlwMHR0MUFFLURGZE1yWC1lcnJSZkR2UUc3WWVhSTI0UXg5b1lXZ3NodmIxLXBpWWNFbEdYTmpxU001bThVdUc4X1VkQjBBS1c3QnRtc28tWFBBdUFhYnUxSnZIazVNTU1iZjZneUwzeE82MHFtM3JDbXVHNW5DdVZVVUw4ZlEzbnBRa0d6VC1HdnBOb2hRUWRYSS0ycDNVb0FpYUhSMkXSAbwBQVVfeXFMUHByREJET19haENNNGJxeEktUUFCcGkyUHZleTJiQVlnVXR4cE9vbjhBOEhVT0dZbHMxdmJacHFva2RkZldvbFNBcUp0OXdfNXVrbVZoNXQwVVBaaDJpR0dhbXE4SER3UEZjdHFnbE5nYmJYczg2OUNCLVVLLWV3dllIRmtGUEs3NlJaTFpQWG8wVEN6N25Ub3RiR0xNMjZIY3dkWkxzZ0R1Y2N2emdBbEtnanRQTXZwT2RYMmY?oc=5",
+    "published_date": "2026-10-08",
+    "reviewed_at": "2026-10-10",
+    "title_zh": "欧洲汽车业反对仓促扩大CBAM下游范围：行业意见不等于法规变更",
+    "title_en": "Automotive industry urges caution on downstream CBAM expansion",
+    "summary_zh": "GMK 10月8日报道ACEA、CLEPA及Tyres Europe对CBAM下游扩围的准备时间和供应链核验负担表示担忧。ACEA 10月5日联合声明确认该立场，要求以证据确定碳泄漏风险与可操作方案；这是行业对提案的意见。",
+    "summary_en": "GMK reports automotive associations' concerns about readiness and supply-chain verification. ACEA's 5 October joint statement confirms calls for evidence-based leakage assessment and workable implementation. This is an industry position on a proposal.",
+    "impact_zh": "中国钢材及汽车零部件供应商可提前梳理产品编码、材料来源和排放数据；最终范围及期限仍须以正式立法为准。",
+    "impact_en": "Map product codes, materials and emissions data; final scope and dates require enacted legislation.",
+    "category": "碳与环保",
+    "status": "拟议",
+    "importance": "中",
+    "tags": [
+      "CBAM扩围",
+      "汽车供应链"
+    ],
+    "tags_en": [
+      "CBAM expansion",
+      "automotive supply chain"
+    ],
+    "evidence_url": "https://www.acea.auto/news/joint-statement-on-the-proposed-downstream-extension-of-the-carbon-border-adjustment-mechanism-cbam/",
+    "coverage": "已读GMK原文及ACEA联合声明网页；未读取声明所链PDF附件，未核验最终立法清单。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa01ESXo4ZzdYRzN6N1g3ZnlwdzBFdEltbEtxWXlNeDJVYndUU19zRTdfbWt1X1M1eDhzdmFVTTh4QjJfNHNTbGZoYlA3WTU0UWVGOFBhaWluT000NC1BWW9YWlhYWWtmOE5hZU1DOWtFYUwxdTl1R3Jlc3pZdGkyX3BHeE0?oc=5",
+    "published_date": "2026-10-06",
+    "reviewed_at": "2026-10-10",
+    "title_zh": "英联邦研究报告分析英国CBAM的数据核验与发展中国家适应问题",
+    "title_en": "Commonwealth research examines UK CBAM verification challenges",
+    "summary_zh": "英联邦秘书处10月6日发布研究，讨论英国CBAM设计、默认排放值、监测报告核验（MRV）及发展中国家出口影响，并提出援助与政策改进建议。这是作者研究观点，相关豁免建议不是英国已实施的规则。",
+    "summary_en": "The 6 October publication examines UK CBAM design, default values, MRV and developing-country exposure. Its assistance and policy recommendations are research opinions, not enacted exemptions.",
+    "impact_zh": "中国企业可借鉴数据准备和供应链核验思路；报告针对英联邦国家的成本估算不能套用于中国钢材。",
+    "impact_en": "Use the data-readiness discussion; Commonwealth-specific cost estimates do not determine Chinese steel charges.",
+    "category": "碳与环保",
+    "status": "新闻",
+    "importance": "中",
+    "tags": [
+      "英国CBAM",
+      "研究报告",
+      "MRV"
+    ],
+    "tags_en": [
+      "UK CBAM",
+      "research",
+      "MRV"
+    ],
+    "evidence_url": "https://thecommonwealth.org/publications/uk-carbon-border-adjustment-mechanism",
+    "coverage": "已读官方出版介绍及40页PDF的执行摘要、设计与MRV章节（PDF第9—14页）；未全文核验国家案例、模型和税额估算。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcmtOTE1LdnAwMGpHYUFrdUY5UURCN09rdnc5dkNzR0JYWnlaMmp5S21yc2plbmV0SDR3MFB6VkFYRnRXM0RpUEdpbkxUZlJmZmFkTm1JUnNBX2x3WEdpc2hKb3lNU0twUFlyZTRkRDJIVnFkWExNVVpRZmprMzY2QjNLWldBTkZZeHItTE1BT2U?oc=5",
+    "published_date": "2026-09-27",
+    "reviewed_at": "2026-10-10",
+    "title_zh": "9月铁矿石报价回落：IndexBox转述青岛62%品位矿价96.6美元／吨",
+    "title_en": "September iron ore report cites a $96.6/t Qingdao quotation",
+    "summary_zh": "IndexBox 9月27日转述Kallanish：9月25日KORE 62% Fe青岛CFR价96.6美元／吨，较9月4日低4.2%；报道把弱钢厂利润、备货结束及检修计划列为需求压力。报价属于历史时点，原始价格数据库未独立核验。",
+    "summary_en": "IndexBox cites Kallanish's 25 September KORE 62% Fe/Qingdao CFR quote of $96.6/t, down 4.2% from 4 September, alongside weak mill margins and maintenance plans. The underlying price database was not independently verified.",
+    "impact_zh": "采购谈判须重新核对日期、品位、交货口径与现时报价；不能把报道预测当作已发生的减产。",
+    "impact_en": "Recheck date, grade, delivery basis and current quotes; forecasts are not realised production cuts.",
+    "category": "市场与产能",
+    "status": "新闻",
+    "importance": "低",
+    "tags": [
+      "铁矿石",
+      "历史报价"
+    ],
+    "tags_en": [
+      "iron ore",
+      "historical quote"
+    ],
+    "evidence_url": "https://www.indexbox.io/blog/iron-ore-prices-slip-below-100t-as-chinese-market-narrows/",
+    "coverage": "已读IndexBox免费新闻正文；未购买报告或访问Kallanish价格数据库，报价保留媒体归属和9月25日时点。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTi1faDZEMkttU09pUFJhSkZSMlZyeXBrY0pad1FVdVRjT3o2SWZSeDBDRzVqTzhxSkZfNHNsZFVFMHNPVFZxWm8zNjYzaWg0dXM1bGRzaGMzNHhMUU15LW95OWhvSnJ6eGFEZFoxc2oyN2k0YUc1YVNjZ2pIb1FjSjZMcFdsSmY4TWNwdjk3V25mVTY4LWtWUk5Semk2WGlMN0JXMWstT1hDWkdlQWozdlNmM2dXdmYyYU1nbA?oc=5",
+    "published_date": "2026-09-24",
+    "reviewed_at": "2026-10-10",
+    "title_zh": "欧洲议会通过CBAM下游扩围谈判立场，最终规则尚待协商",
+    "title_en": "Parliament adopts negotiating position on downstream CBAM",
+    "summary_zh": "欧洲议会官方摘要确认9月15日以464票赞成、50票反对、159票弃权通过2025/0419(COD)修正立场，案件进入机构间谈判。拟扩大至部分钢铝下游制品；2028年1月1日是提案计划日期，不是所有最终产品已确定生效。",
+    "summary_en": "The official summary confirms the 15 September vote (464–50, 159 abstentions) on 2025/0419(COD), referred for interinstitutional negotiations. Downstream steel/aluminium coverage and 1 January 2028 implementation remain proposed.",
+    "impact_zh": "先建立出口产品编码和钢铝投入映射，持续跟踪最终法规；不可按媒体标题把拟议扩围当作当前纳税范围。",
+    "impact_en": "Map export codes and metal inputs, and track final legislation. Proposed coverage is not today's chargeable scope.",
+    "category": "碳与环保",
+    "status": "拟议",
+    "importance": "高",
+    "tags": [
+      "CBAM扩围",
+      "欧洲议会",
+      "谈判"
+    ],
+    "tags_en": [
+      "CBAM expansion",
+      "European Parliament",
+      "negotiations"
+    ],
+    "evidence_url": "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1914940",
+    "coverage": "已读Yieh原文和欧洲议会立法观察站官方决定摘要；核验程序状态及摘要中的范围，未逐项核验通过文本附件和最终法规。"
+  },
+  {
+    "url": "https://reuters.com/commentary/reuters-open-interest/chinas-steel-sector-looks-weaker-than-it-is-reverse-iron-ore-2026-07-21",
+    "published_date": "2026-07-21",
+    "reviewed_at": "2026-10-10",
+    "title_zh": "路透专栏：钢铁表观疲弱与铁矿石进口增长并存",
+    "title_en": "Reuters commentary contrasts steel weakness and ore imports",
+    "summary_zh": "路透7月21日专栏认为国内钢铁需求分化，与铁矿石进口增长并存；作者强调库存、供应增长及刺激政策的不确定性。这是当时的市场评论，不是官方预测。",
+    "summary_en": "The 21 July Reuters column contrasts uneven steel demand with rising ore imports and highlights inventory, supply and stimulus uncertainty. This is historical commentary, not an official forecast.",
+    "impact_zh": "用最新订单、产量和库存交叉核对采购判断，不能把7月评论当作10月走势。",
+    "impact_en": "Check fresh orders, production and stocks before procurement decisions; July commentary is not an October outlook.",
+    "category": "市场与产能",
+    "status": "新闻",
+    "importance": "低",
+    "tags": [
+      "铁矿石",
+      "路透评论"
+    ],
+    "tags_en": [
+      "iron ore",
+      "Reuters commentary"
+    ],
+    "evidence_url": "https://www.reuters.com/commentary/reuters-open-interest/chinas-steel-sector-looks-weaker-than-it-is-reverse-iron-ore-2026-07-21/",
+    "coverage": "已读路透原文，简要呈现作者观点；未独立复核其引用的全部统计。"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AC_202603630",
+    "published_date": "2026-07-20",
+    "reviewed_at": "2026-10-10",
+    "title_zh": "DELVE 2判决：紧固件发票可事后补交，但不自动取得企业税率",
+    "title_en": "DELVE 2: retrospective invoices do not automatically secure individual duty rates",
+    "summary_zh": "C-889/24、ECLI:EU:C:2026:413的5月21日判决允许报关后补交符合2022/191第1(3)条的有效商业发票；发票只是必要条件，海关仍可核实真实生产商和单据信息。援引海关法典第173(3)条的报关更正期限为接受申报起3年；本条7月20日日期为公报公告版本，不是判决作出日。",
+    "summary_en": "The 21 May judgment, C-889/24 (ECLI:EU:C:2026:413), permits retrospective valid invoices under Article 1(3) of 2022/191, but they do not automatically secure individual rates. Customs can check producer identity and evidence. Article 173(3) provides a three-year declaration-amendment window. The item's 20 July date is its OJ notice version.",
+    "impact_zh": "中国紧固件企业应向进口商提供可追溯生产及运输证据；历史申报更正须核对期限和个案条件，不能承诺仅补发票即可退税。",
+    "impact_en": "Provide traceable production and shipping evidence. Check deadlines and case-specific conditions; a replacement invoice alone cannot guarantee repayment.",
+    "category": "贸易救济",
+    "status": "司法修订",
+    "importance": "高",
+    "tags": [
+      "紧固件",
+      "发票",
+      "海关更正"
+    ],
+    "tags_en": [
+      "fasteners",
+      "invoices",
+      "customs amendment"
+    ],
+    "evidence_url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=311399&doclang=EN",
+    "coverage": "EUR-Lex入口仍受访问检查限制；已读CURIA官方公告及判决全文，核对两项裁判、海关检查和三年更正期限；未判断个别进口商退税资格。"
   }
 ]

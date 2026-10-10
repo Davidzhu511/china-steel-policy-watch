@@ -5,6 +5,7 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
+from ..fetch import is_access_block_text
 from ..models import RawItem
 from ..util import canonical_url, is_rule_relevant, stable_id
 from .base import Collector
@@ -31,7 +32,14 @@ class EurLexCollector(Collector):
                     timeout=self.timeout,
                 )
                 response.raise_for_status()
+                if (getattr(response, "status_code", 200) == 202
+                        or not response.text.strip()
+                        or is_access_block_text(response.text)):
+                    raise ValueError("EUR-Lex daily view unavailable: empty or access-check response")
                 soup = BeautifulSoup(response.text, "html.parser")
+                legal_links = soup.select('a[href*="/eli/"], a[href*="/legal-content/"]')
+                if not legal_links and "official journal" not in soup.get_text(" ", strip=True).lower():
+                    raise ValueError("EUR-Lex response is not an identifiable Official Journal page")
                 for link in soup.select("a[href]"):
                     title = " ".join(link.get_text(" ", strip=True).split())
                     href = link.get("href", "")
