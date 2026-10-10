@@ -28,3 +28,12 @@ def test_page_excerpt_rejects_access_challenge(monkeypatch):
     )
     monkeypatch.setattr(fetch, "safe_get", lambda session, url, timeout: page)
     assert fetch.fetch_page_excerpt("https://example.com/steel", official=True) == ""
+
+
+def test_page_excerpt_rejects_eurlex_robot_notice(monkeypatch):
+    page = FakeResponse(
+        "<html><h1>JavaScript is disabled</h1><p>In order to continue, we need to "
+        "verify that you're not a robot. This requires JavaScript.</p></html>"
+    )
+    monkeypatch.setattr(fetch, "safe_get", lambda session, url, timeout: page)
+    assert fetch.fetch_page_excerpt("https://eur-lex.europa.eu/legal-content/EN/TXT/", official=True) == ""

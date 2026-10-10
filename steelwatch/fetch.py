@@ -16,6 +16,9 @@ ACCESS_BLOCK_PHRASES = (
     "aggressive automated scraping",
     "please complete the captcha",
     "verify you are human",
+    "verify that you're not a robot",
+    "verify that you are not a robot",
+    "verify you are not a robot",
 )
 
 
