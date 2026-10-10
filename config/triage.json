@@ -357,7 +357,7 @@
     "published_date": "2026-08-02",
     "decision": "blocked",
     "title_zh": "欧盟CBAM成员国主管机关名单公告",
-    "reason_zh": "原公报HTML入口404；无法核验名单的具体更新。后续重试官方ELI/PDF，并与DG TAXUD主管机关名录交叉核对。 核验入口：https://eur-lex.europa.eu/eli/C/2026/4231/oj/eng",
+    "reason_zh": "原公报HTML入口404；无法核验名单的具体更新。后续重试官方ELI/PDF，并与DG TAXUD主管机关名录交叉核对。 核验入口：https://eur-lex.europa.eu/eli/C/2026/4231/oj/eng 官方检索元数据标示7月31日，与采集8月2日版本日期不一致；正文仍受访问检查限制，日期及名单待取得正式文本后校正。",
     "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
     "attempted_at": "2026-10-10",
     "evidence_url": "https://eur-lex.europa.eu/eli/C/2026/4231/oj/eng",
@@ -368,11 +368,11 @@
     "published_date": "2026-10-08",
     "decision": "blocked",
     "title_zh": "乌克兰钢厂受损与15亿美元进口需求：媒体说法待核实",
-    "reason_zh": "Google索引无正文；钢之家相关报道入口返回空正文，15亿美元指向2027年额外进口预测，未获原始统计或报告，不能确认订单流向中国。后续核对乌克兰官方或行业协会原始测算。 核验入口：https://steelhome.cn/MessageShow.php?nid=4771811",
+    "reason_zh": "已读10月8日搜狐署名评论全文，15亿美元说法指向2027年额外进口预测，不是中国已获订单；仍缺GMK原始测算、企业原始声明和对应贸易统计。钢之家辅助入口空正文。下轮查原始报告，不把自媒体多项数字或资金方案当事实。",
     "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
     "attempted_at": "2026-10-10",
-    "evidence_url": "https://steelhome.cn/MessageShow.php?nid=4771811",
-    "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
+    "evidence_url": "https://m.sohu.com/a/1085061251_122483031",
+    "coverage": "已读搜狐评论；核心统计和订单结论缺原始证据，保留待研判。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZHJRQjRZUVhVeHAtZVRCUDd4QXBxQUozNHIzd2F3ekFyNHNOWXJTbGtSTWw3a3lmdVNzZmFGbnBlcmhYVWcwaDl1VXdDem1jbHZOMlZUdHRSRDBvMjBKeWF3cjJDdXJqV2JSaFVDMnpBQjNpdTRiVE1mVmdaNndMM0ZQeHNCVnZmLVE?oc=5",
@@ -466,5 +466,16 @@
     "attempted_at": "2026-10-10",
     "evidence_url": "https://table.media/",
     "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202602240",
+    "published_date": "2026-10-06",
+    "decision": "blocked",
+    "title_zh": "欧盟理事会就将CBAM纳入EEA环境附件确定立场：正文待核",
+    "attempted_at": "2026-10-10",
+    "reason_zh": "原OJ链接404；官方CELEX文本及HTML入口显示机器人验证，未取得正文。仅官方搜索摘要确认标题、公报日期10月6日与文号2026/2240，不能确认附件适用条件或EEA后续生效。下轮重试公开正文。",
+    "reason_en": "OJ URL returns 404; official CELEX text/HTML shows an access check. Only official search metadata is available; the annex and subsequent EEA implementation remain unverified.",
+    "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2240",
+    "coverage": "官方检索元数据／标题；未完成正文研判。"
   }
 ]

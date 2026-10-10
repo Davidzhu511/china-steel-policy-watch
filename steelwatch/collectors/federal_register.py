@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from datetime import UTC, datetime, timedelta
+from datetime import UTC, date, datetime, timedelta
 
 from ..models import RawItem
 from ..util import canonical_url, is_rule_relevant, stable_id
@@ -13,7 +13,8 @@ class FederalRegisterCollector(Collector):
 
     def collect(self) -> list[RawItem]:
         lookback = int(self.config.get("lookback_days", 21))
-        start_date = (datetime.now(UTC).date() - timedelta(days=lookback)).isoformat()
+        today = datetime.now(UTC).date()
+        start_date = (today - timedelta(days=lookback)).isoformat()
         keywords = self.app_config.get("keywords", {})
         found: dict[str, RawItem] = {}
 
@@ -30,11 +31,20 @@ class FederalRegisterCollector(Collector):
                     "order": "newest",
                     "conditions[term]": query,
                     "conditions[publication_date][gte]": start_date,
+                    "conditions[publication_date][lte]": today.isoformat(),
                 },
                 timeout=self.timeout,
             )
             response.raise_for_status()
             for record in response.json().get("results", []):
+                published = record.get("publication_date") or ""
+                try:
+                    published_date = date.fromisoformat(published)
+                except (ValueError, TypeError):
+                    self.warnings.append("Federal Register record lacks a valid publication date")
+                    continue
+                if published_date > today:
+                    continue
                 title = record.get("title") or ""
                 excerpt = record.get("abstract") or ""
                 omnibus_targeted = targeted_query and title.casefold() == (
@@ -56,7 +66,7 @@ class FederalRegisterCollector(Collector):
                     id=identifier,
                     title=title,
                     url=target,
-                    published_at=f"{record.get('publication_date', start_date)}T00:00:00Z",
+                    published_at=f"{published}T00:00:00Z",
                     source_id=self.source_id,
                     source_name=self.source_name,
                     source_kind="official-notice",

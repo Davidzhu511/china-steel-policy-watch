@@ -2976,7 +2976,7 @@
     "impact_zh": "中国紧固件企业应向进口商提供可追溯生产及运输证据；历史申报更正须核对期限和个案条件，不能承诺仅补发票即可退税。",
     "impact_en": "Provide traceable production and shipping evidence. Check deadlines and case-specific conditions; a replacement invoice alone cannot guarantee repayment.",
     "category": "贸易救济",
-    "status": "司法修订",
+    "status": "司法判决",
     "importance": "高",
     "tags": [
       "紧固件",
@@ -2990,5 +2990,57 @@
     ],
     "evidence_url": "https://juris.curia.europa.eu/juris/document/document.jsf?docid=311399&doclang=EN",
     "coverage": "EUR-Lex入口仍受访问检查限制；已读CURIA官方公告及判决全文，核对两项裁判、海关检查和三年更正期限；未判断个别进口商退税资格。"
+  },
+  {
+    "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202602256",
+    "published_date": "2026-10-08",
+    "reviewed_at": "2026-10-10",
+    "title_zh": "欧盟理事会确定EEA的CBAM系统分摊谈判立场：附件仍为草案",
+    "title_en": "Council establishes EEA CBAM financing position; attached joint decision remains draft",
+    "summary_zh": "决定2026/2256于9月24日通过并生效，10月8日刊登公报，确定欧盟在EEA联合委员会的立场。附件是拟议的冰岛、挪威CBAM登记册及海关系统技术和财务安排，列支系统开发、运行与预算分摊；不能据此认定附件联合委员会决定已通过。",
+    "summary_en": "Decision 2026/2256 was adopted and entered into force on 24 September, published on 8 October. It sets the EU's EEA Joint Committee position. The attached draft concerns Iceland/Norway registry, customs IT and cost sharing; it is not evidence that the joint decision has been adopted.",
+    "impact_zh": "出口企业跟踪EEA联合委员会后续决定及正式实施通知，向冰岛、挪威客户确认当地申报安排；系统分摊金额不是中国钢材的单位碳税。",
+    "impact_en": "Track subsequent joint decisions and implementation notices with Icelandic/Norwegian buyers. IT contributions are not per-tonne steel charges.",
+    "category": "碳与环保",
+    "status": "已生效",
+    "importance": "中",
+    "tags": [
+      "CBAM",
+      "EEA",
+      "系统协作"
+    ],
+    "tags_en": [
+      "CBAM",
+      "EEA",
+      "IT cooperation"
+    ],
+    "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32026D2256",
+    "coverage": "原OJ链接404，已读官方CELEX HTML决定及附件，区分生效的理事会立场与所附联合委员会草案；未核验后续联合委员会采纳。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3JEMUJqUlUyX1hvT01ka0NVcmdhOWYwcFVZNXVuZGhPaVNvdVI1RnBNNmdFcVlRMXp5Rlp2OTIxNTB5d0FXSjhyNVlBMTZsd096RU9vVmYzV3NqV2hmSDd5SmY3RldiZ3NEc3Z3M1NRRG9MN0lGdl9oWDF4NG0xQ0ItaERldk8ycTB3RkoxUzZQbkR1bmFuOEpsRQ?oc=5",
+    "published_date": "2026-10-09",
+    "reviewed_at": "2026-10-10",
+    "title_zh": "Trasteel负责人预测钢铁CBAM成本或达每年50亿欧元：企业观点",
+    "title_en": "Trasteel CEO forecasts up to €5bn annual steel CBAM cost: business opinion",
+    "summary_zh": "EUROMETAL 10月9日刊登Platts访谈，Trasteel首席执行官Gianfranco Imperato预测钢铁CBAM成本可能达每年50亿欧元并向买方传导；他称采购来源正随配额调整。金额和涨价判断为受访者预测，不是欧委会核定成本或已实现统计。",
+    "summary_en": "EUROMETAL republishes a Platts interview dated 9 October. Gianfranco Imperato forecasts steel CBAM costs up to €5bn/year and buyer pass-through, while sourcing adjusts to quotas. These are executive forecasts, not Commission-assessed costs or observed totals.",
+    "impact_zh": "中国钢厂与进口商按具体商品、排放、配额和合同测算到岸成本；不能把行业总额平均摊成单吨税费或保证可转嫁。",
+    "impact_en": "Calculate shipment costs from product scope, emissions, quotas and contracts. An industry forecast cannot determine unit charges or guarantee pass-through.",
+    "category": "市场与产能",
+    "status": "行业访谈",
+    "importance": "中",
+    "tags": [
+      "CBAM",
+      "企业预测",
+      "贸易流向"
+    ],
+    "tags_en": [
+      "CBAM",
+      "executive forecast",
+      "trade flows"
+    ],
+    "evidence_url": "https://eurometal.net/eu-steel-prices-to-rise-as-cbam-cost-could-reach-e5b-y-says-trasteel-ceo/",
+    "coverage": "已读EUROMETAL发布的署名Platts访谈正文；未独立复核受访者成本模型或全部市场统计。"
   }
 ]
