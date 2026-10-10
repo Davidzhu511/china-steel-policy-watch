@@ -120,3 +120,5 @@ tests/                    离线单元测试
 `config/triage.json` 保存按原文URL和发布日期限定的处理结论：`duplicate` 合并到已核验主条目，`excluded` 排除无关内容，`blocked` 保留原文访问或证据不足的原因。重复与排除记录保留在完整数据归档，退出最新列表与RSS；重复主条目缺失或未核验时仍作为待核验处理。来源出现新日期版本时旧处理结论失效，不把旧研判或旧排除结论应用到新版本。
 
 `pending_analysis` 统计未有 `source_checked` 的有效条目；`pending_translation` 单列译文未完成数量，机器译文和模型摘要均不代表原文已核验。`verified_items`、`blocked_items`、`active_items` 与 `archived_items` 分列记录，网页展示核验范围、证据链接、核验日期及访问阻塞原因。限定摘要核验、企业公告、行业观点与完整法规核验应在 `coverage` 和正文中明确区分。
+
+受阻记录可提供人工校对的 `title_zh`、`evidence_url` 和 `coverage`；页面优先显示准确标题及可点击的核验入口，仍计入待研判，来源日期改变后这些信息失效。EUR-Lex 的202空响应、访问检查页和非公报页面作为来源异常报告，不能当作正常零命中；来源面板显示最后有效收录日期，零命中不代表完整覆盖。
