@@ -3151,5 +3151,23 @@
     "tags_en": ["EU ETS", "Federacciai", "Italy", "energy costs"],
     "evidence_url": "https://www.ansa.it/sito/notizie/economia/2026/09/22/federacciai-rischio-fermata-per-impianti-siderurgici-sospendere-ets_291004c7-eced-4997-9529-c85a0be8f495.html",
     "coverage": "已读Yieh同题全文及ANSA对Federacciai会后声明的原始报道，核对诉求对象；未取得协会声明附件，也未发现正式暂停ETS的法规。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSDBxV0pqWkNmYmo2WW9XbEJxNDRFZHI2VWtiM29sSmdSaF9LNVRWT3Y4Z2x0NnhpNHpwQmtCTDlUV3VVaXEtOTBrNWk3eENmUm4zbkJoa01Hb0ZEQjd0NG9iM3ZyTHNvSGRrbTZGZUJ0dGhFREl6dWNoeEV4TGRxSHdKVVQzeHJqN2FSVHBOMGFPM1c4OHfSAZsBQVVfeXFMTUt1X0tDV0FWZU1mWnBEMXVmakdBNlVGaGEzUmJtSHN6cjFEQlFVU3lpTm9VRlo4T0daaTFxcGx2ZGp6U01JWFhmTTNPSi1jUEQ0ektmeWFPNFI2c0Z5RUhOMm41dm1mcF9jUzNIcVZPZDRza09xUGtDZ1pCWjA3Qm90ZFN2OHRldjRVWWRRUVZtbG8xUnJSUmlzWHM?oc=5",
+    "published_date": "2026-10-09",
+    "reviewed_at": "2026-10-11",
+    "title_zh": "SNS模型研究：CBAM对出口型欧洲重工业的保护弱于免费配额，并非现实产量预测",
+    "title_en": "SNS model: CBAM protects export-oriented European heavy industry less than free allocation; not an observed forecast",
+    "summary_zh": "SNS 10月8日报告以多部门、多区域CGE模型比较免费配额与类CBAM碳关税。相对“无气候政策”的假设基准，瑞典排放密集、贸易暴露行业产出在碳关税情景下降1.3%，免费配额情景下降0.6%；欧洲其他地区分别下降2.6%和1.3%。模型碳泄漏率为碳关税16.0%、免费配额16.9%，碳关税叠加出口返还时降至10.6%。这些是模型情景结果，不是已观测产量、确定预测或现行法规变更；GMK转述的钢铁下降1.7%也应按部门模型结果理解。",
+    "summary_en": "The 8 October SNS report compares free allocation with CBAM-style carbon tariffs in a multi-sector, multi-region CGE model. Relative to a hypothetical no-policy baseline, Swedish EITE output falls 1.3% with tariffs versus 0.6% with free allocation; the rest of Europe falls 2.6% versus 1.3%. Modelled leakage is 16.0% with tariffs, 16.9% with free allocation and 10.6% when export rebates are added. These are scenario results, not observed output, a firm forecast or a regulatory change; GMK's 1.7% steel figure is likewise a sector-model result.",
+    "impact_zh": "研究可能强化欧盟出口型钢企争取出口补偿或调整CBAM设计的政策诉求，但目前没有改变进口商的CBAM义务、证书安排或具体税费。中国钢厂可关注未来咨询和立法讨论，不应把模型百分比直接用于订单需求、到岸成本或税额测算。",
+    "impact_en": "The study may strengthen EU exporters' calls for export relief or CBAM redesign, but it does not change current importer obligations, certificates or charges. Chinese mills should monitor consultations and legislation without using model percentages as shipment demand, landed cost or tax estimates.",
+    "category": "碳与环保",
+    "status": "研究报告·模型情景",
+    "importance": "中",
+    "tags": ["CBAM", "EU ETS", "免费配额", "碳泄漏", "模型研究"],
+    "tags_en": ["CBAM", "EU ETS", "free allocation", "carbon leakage", "model study"],
+    "evidence_url": "https://www.sns.se/en/publications/cbam-swedish-industry-2026",
+    "coverage": "已读SNS官方英文报告全文，重点核对摘要、CGE模型结果表、敏感性分析和结论，并与GMK报道交叉检查；未复算GTAP数据、模型方程或部门敏感性结果，数值均按作者模型口径呈现。"
   }
 ]
