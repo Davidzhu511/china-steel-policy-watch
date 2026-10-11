@@ -173,8 +173,17 @@ def _apply_editorial(items: list[dict[str, Any]], config: dict[str, Any]) -> Non
     }
     for item in items:
         review = reviews.get(canonical_url(item["url"]))
-        if not review or item["published_at"][:10] != review.get("published_date"):
+        if not review:
             continue
+        source_date = item["published_at"][:10]
+        match_date = review.get("match_published_date", review.get("published_date"))
+        if source_date != match_date:
+            continue
+        # Some feeds expose an observation date rather than the date printed in
+        # the official document. Keep exact-version matching on the observed
+        # revision, then show the source-backed publication date on the board.
+        if review.get("match_published_date") and review.get("published_date"):
+            item["published_at"] = review["published_date"] + item["published_at"][10:]
         item.update({key: review[key] for key in fields if key in review})
         item.update(translation_state="complete", review_method="source_checked",
                     reviewed_at=review["reviewed_at"])
