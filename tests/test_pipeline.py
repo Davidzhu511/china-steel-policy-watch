@@ -356,6 +356,24 @@ def test_editorial_brief_does_not_override_a_new_source_revision():
     assert item["title_zh"] == "New version"
 
 
+def test_editorial_can_correct_feed_observation_date_after_exact_match():
+    item = {
+        "url": "https://example.com/official-notice",
+        "published_at": "2026-08-02T00:00:00Z",
+        "title_zh": "Feed title",
+    }
+    pipeline._apply_editorial([item], {"editorial": [{
+        "url": item["url"],
+        "match_published_date": "2026-08-02",
+        "published_date": "2026-07-31",
+        "reviewed_at": "2026-10-11",
+        "title_zh": "Official title",
+    }]})
+    assert item["published_at"] == "2026-07-31T00:00:00Z"
+    assert item["title_zh"] == "Official title"
+    assert item["review_method"] == "source_checked"
+
+
 def test_identical_syndicated_news_keeps_related_source_links():
     common = {"published_at": "2026-09-28", "first_seen": "2026-09-28", "translation_state": "pending"}
     rows = [{**common, "url": f"https://example.com/{source}",
