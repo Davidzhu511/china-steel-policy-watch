@@ -380,16 +380,16 @@
   {
     "url": "https://policy.trade.ec.europa.eu/consultations/monitoring-functioning-new-eu-steel-regulation_en",
     "published_date": "2026-09-28",
-    "reviewed_at": "2026-10-01",
-    "title_zh": "欧盟钢铁新规运行情况咨询：10 月 11 日截止，出口商可参与",
-    "title_en": "EU steel regulation monitoring consultation closes 11 October",
-    "summary_zh": "欧委会 9 月 28 日启动对条例 (EU) 2026/1384 运行情况的定向咨询，面向上游钢企、下游用户、协会、第三国政府与出口商等。截止为 2026 年 10 月 11 日 23:59（CEST）；不同产品类别可分别提交回复。",
-    "summary_en": "The Commission opened a targeted consultation on Regulation (EU) 2026/1384 on 28 September for producers, users, associations, third-country governments and exporters. Deadline: 11 October 2026, 23:59 CEST; separate responses may cover different product categories.",
-    "impact_zh": "跟踪判断：尽快协调客户用实际配额、供货及成本影响提交意见，保留提交记录；咨询启动不代表配额或税率已调整。",
-    "impact_en": "Assessment: coordinate customer evidence on quotas, supply and costs and retain submission records. Opening the consultation does not change quotas or duty rates.",
+    "reviewed_at": "2026-10-12",
+    "title_zh": "欧盟钢铁新规运行情况咨询已关闭，进入后续评估跟踪阶段",
+    "title_en": "EU steel regulation monitoring consultation has closed; follow-up assessment now pending",
+    "summary_zh": "欧委会页面现已标为“Closed”，并确认回复期于2026年10月11日23:59（CEST）结束。该定向咨询围绕条例（EU）2026/1384实施首个季度的实际影响，面向上游钢企、下游用户、协会、第三国政府和出口商；不同产品类别原可分别提交回复。页面尚未公布反馈汇总、评估结论或配额、税率调整。",
+    "summary_en": "The Commission page is now marked Closed and confirms that responses ended on 11 October 2026 at 23:59 CEST. The targeted consultation covered first-quarter implementation impacts of Regulation (EU) 2026/1384 and invited producers, users, associations, third-country governments and exporters, with separate product-category responses allowed. No response summary, assessment conclusion, quota change or rate change has yet been published.",
+    "impact_zh": "提交窗口已经结束。已参与企业应保存问卷、附件和提交回执，后续核对欧委会评估及任何正式修法；未参与企业不能再把该页面当作仍可提交的入口，可整理配额、交付与成本证据供后续监测或下一轮咨询使用。咨询关闭本身不改变现行配额或税率。",
+    "impact_en": "The submission window has ended. Participants should retain responses, attachments and receipts and monitor the Commission's assessment and any formal amendment. Non-participants should not treat the page as an open submission route; preserve quota, delivery and cost evidence for later monitoring or consultations. Closure itself changes no quota or duty rate.",
     "category": "配额与关税",
-    "status": "审查中",
-    "importance": "重大",
+    "status": "咨询已关闭",
+    "importance": "高",
     "tags": [
       "欧盟",
       "钢铁新规",
@@ -401,10 +401,11 @@
       "consultation"
     ],
     "follow_up": {
-      "due_at": "2026-10-11T21:59:00Z",
-      "action_zh": "在德国时间 10 月 11 日 23:59 前提交反馈，协调并记录客户参与情况",
-      "action_en": "Submit before 11 October 23:59 CEST and track customer participation."
-    }
+      "action_zh": "保存已提交材料与回执，跟踪欧委会反馈汇总、运行评估及任何正式调整",
+      "action_en": "Retain submissions and receipts; monitor the Commission's response summary, assessment and any formal change."
+    },
+    "evidence_url": "https://policy.trade.ec.europa.eu/consultations/monitoring-functioning-new-eu-steel-regulation_en",
+    "coverage": "2026-10-12已读欧委会咨询页面当前全文，核对Closed状态、原开放日期、截止时间、目标受众及回复期结束提示；页面尚无反馈汇总、评估结果或规则调整。"
   },
   {
     "url": "https://policy.trade.ec.europa.eu/consultations/targeted-consultation-first-product-scope-review-under-eu-steel-regulation_en",
