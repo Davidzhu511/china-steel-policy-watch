@@ -477,5 +477,32 @@
     "reason_en": "OJ URL returns 404; official CELEX text/HTML shows an access check. Only official search metadata is available; the annex and subsequent EEA implementation remain unverified.",
     "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026D2240",
     "coverage": "官方检索元数据／标题；未完成正文研判。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92c2JsU1RYdktweEVwcENDcktHMU5pZmJjYjN0bTVBV3lOT05qTmQwM1VjMTdRSVk1Q1BBdnNwQUlJU2pPakpLQWdvall5NDNrdmNtaXowNU15RTlXcmc?oc=5",
+    "published_date": "2026-10-09",
+    "decision": "duplicate",
+    "reason_zh": "澎湃转载与已核验的华测／EmiCert取得ESYD CBAM认可为同一事件；保留本来源链接并归并到已有研判，不重复显示。",
+    "reason_en": "The Paper item covers the same CTI/EmiCert ESYD CBAM accreditation event as the source-checked brief. Retain the link and archive it as a duplicate.",
+    "attempted_at": "2026-10-12",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOckNIRm5Bb3cyamw0UFItUFNGcGs5endMNFFaTV9ORDR3ZEtQel9sMUlpaVhmS0xWTVRBMmRxZXdvTTBaR19kZExvU0d2M0RqZFRPV2R1YzRKWlRnRERSQUdVWVpmNW9JemJ2QThJWWdVR1BGN1BJb2djSV9UUmFPaGRWa0I3UlV6aG9scHVTRmpqcHpuLWxDSUxQeTJyd21IYm9rVg?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXI0Z21sQ082ci1QbXBBNDFnb1pLaVB0YlAtSUV6b21QSnF6bXVIWjRDQmlRMklxczdOTENoZ0xBZUxpTjkzdGlkbl9nc0o0MmRFaTZoOHpVc0RBaG83YTdCTWFIcDVsM1F6cHJLZ0dLV3liY2NRVi0zdVdLMFB5THM4b2l1LXhjektOSTFLQzNHdw?oc=5",
+    "published_date": "2026-10-05",
+    "decision": "duplicate",
+    "reason_zh": "Finimize报道与已核验的路透社青山津巴布韦钢厂—国家铁路运输合作为同一事件；保留来源链接并归并，不把改写标题视为新项目。",
+    "reason_en": "The Finimize story covers the same Tsingshan Zimbabwe rail-haulage agreement as the source-checked Reuters brief. Retain the link and archive it as a duplicate.",
+    "attempted_at": "2026-10-12",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUNRMVFTUXhGQXdJdS03dXZZN1VEb3JNX0x3QmhRZnVtYjZqbHhpWVJMYUtsSWE2aXJjVURwTVZoUEIwUWJ5dlh2eXJLUlQzWVVKMzI0U3AxRmJGSWNGakpwQk9SMktMS0RYTHhXQUs4YzFZUVJ1MkFDWHFIMW5RVUsxMjR1T0NpYTZrUTljcUI4YzB4dGFMbERMRWtFNWl2R1BPVXZWZDZKN1cwNk1SNUdxTDFWTkhNQURkU041TXM?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vU2FTN2RWMU5yZ1dJMmlFMEdIQlB4SUtDejF1VUI1UkJIZ0tEWG81SEFIMnRMTERRdzFEcjRhM1JZUTBMbkIteElLUWFDMVItTGFhcTVR?oc=5",
+    "published_date": "2026-10-05",
+    "decision": "duplicate",
+    "reason_zh": "腾讯新闻改写与已核验的GMK乌克兰钢厂停产情景测算为同一事件；39%／零产量和中国机会等标题表述不另作新事实，保留链接并归并到已有研判。",
+    "reason_en": "The Tencent rewrite covers the same GMK Ukraine mill-shutdown scenario as the source-checked brief. Headline claims are not treated as a separate fact set; retain the link and archive it as a duplicate.",
+    "attempted_at": "2026-10-12",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQlhONF9BMWRWRGM4TmZoOW0wRjc2VW1PeUZvUjNPVkVKbkNOWmV0RHNTXzkxOWxsY0Q2UmpRODNJTEZsOHcydHFRTENmVjIyeWtxSlFTSnhjRjV1MFpzSVY3ZXlvVlVYR0dfUFlhNGtveExQRGNSVkxXR19RR2t5ZjlybFBlY0NkandNZw?oc=5"
   }
 ]
