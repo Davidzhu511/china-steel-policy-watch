@@ -452,6 +452,40 @@ def test_eurlex_valid_empty_issue_is_successful_zero():
     assert result.ok and not result.items
 
 
+def test_eurlex_uses_official_cellar_fallback_for_empty_daily_page():
+    class Response:
+        status_code = 202
+        text = ""
+
+        def raise_for_status(self):
+            return None
+
+        def json(self):
+            return {"results": {"bindings": [{
+                "date": {"value": "2026-10-12"},
+                "celex": {"value": "52026XC09999"},
+                "title": {"value": "Notice concerning China steel anti-dumping measures"},
+            }]}}
+
+    class Session:
+        def get(self, url, **kwargs):
+            response = Response()
+            response.status_code = 200 if "sparql" in url else 202
+            return response
+
+    collector = EurLexCollector(
+        {"name": "EUR-Lex", "lookback_days": 1, "series": ["L"]},
+        {"settings": {}, "keywords": {"china": ["china"], "materials": ["steel"]}},
+    )
+    collector.session = Session()
+
+    result = collector.run()
+
+    assert result.ok and len(result.items) == 1
+    assert result.items[0].metadata["retrieval"] == "publications-office-cellar-sparql"
+    assert "official Publications Office" in result.warnings[0]
+
+
 def test_federal_register_rejects_future_and_missing_publication_dates():
     today = datetime.now(UTC).date()
     records = [{"title": "China steel antidumping notice",

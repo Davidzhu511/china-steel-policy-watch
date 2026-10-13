@@ -14,6 +14,66 @@ from .base import Collector
 class EurLexCollector(Collector):
     source_id = "eurlex"
     base_url = "https://eur-lex.europa.eu"
+    cellar_sparql_url = "https://publications.europa.eu/webapi/rdf/sparql"
+
+    def _collect_cellar(self, start_date, end_date, keywords) -> list[RawItem]:
+        query = f"""
+PREFIX cdm: <http://publications.europa.eu/ontology/cdm#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+SELECT DISTINCT ?work ?date ?celex ?title WHERE {{
+  ?work cdm:official-journal-act_date_publication ?date ;
+        cdm:resource_legal_id_celex ?celex ;
+        cdm:work_title ?title .
+  FILTER(?date >= \"{start_date.isoformat()}\"^^xsd:date &&
+         ?date <= \"{end_date.isoformat()}\"^^xsd:date)
+  FILTER(lang(?title) = \"en\")
+}}
+ORDER BY DESC(?date)
+LIMIT 5000
+""".strip()
+        response = self.session.get(
+            self.cellar_sparql_url,
+            params={"query": query},
+            headers={"Accept": "application/sparql-results+json"},
+            timeout=max(self.timeout, 60),
+        )
+        response.raise_for_status()
+        payload = response.json()
+        bindings = payload.get("results", {}).get("bindings", [])
+        if not isinstance(bindings, list):
+            raise ValueError("CELLAR SPARQL response has no result bindings")
+
+        found: dict[str, RawItem] = {}
+        for binding in bindings:
+            title = " ".join(binding.get("title", {}).get("value", "").split())
+            celex = binding.get("celex", {}).get("value", "").strip()
+            published = binding.get("date", {}).get("value", "").strip()
+            if not title or not celex or not published:
+                continue
+            if not is_rule_relevant(title, "", keywords):
+                continue
+            target = canonical_url(
+                f"{self.base_url}/legal-content/EN/TXT/?uri=CELEX:{celex}"
+            )
+            identifier = stable_id(target, title)
+            found[identifier] = RawItem(
+                id=identifier,
+                title=title,
+                url=target,
+                published_at=f"{published}T00:00:00Z",
+                source_id=self.source_id,
+                source_name=self.source_name,
+                source_kind="official-law",
+                region="欧洲",
+                country="欧盟",
+                language="en",
+                metadata={
+                    "celex": celex,
+                    "official": True,
+                    "retrieval": "publications-office-cellar-sparql",
+                },
+            )
+        return list(found.values())
 
     def collect(self) -> list[RawItem]:
         lookback = int(self.config.get("lookback_days", 21))
@@ -21,8 +81,9 @@ class EurLexCollector(Collector):
         keywords = self.app_config.get("keywords", {})
         found: dict[str, RawItem] = {}
 
+        today = datetime.now(UTC).date()
         for offset in range(lookback):
-            issue_date = datetime.now(UTC).date() - timedelta(days=offset)
+            issue_date = today - timedelta(days=offset)
             date_parameter = issue_date.strftime("%d%m%Y")
             for journal_series in series:
                 url = f"{self.base_url}/oj/daily-view/{journal_series}-series/default.html"
@@ -35,7 +96,22 @@ class EurLexCollector(Collector):
                 if (getattr(response, "status_code", 200) == 202
                         or not response.text.strip()
                         or is_access_block_text(response.text)):
-                    raise ValueError("EUR-Lex daily view unavailable: empty or access-check response")
+                    try:
+                        fallback = self._collect_cellar(
+                            today - timedelta(days=max(lookback - 1, 0)),
+                            today,
+                            keywords,
+                        )
+                    except Exception as exc:
+                        raise ValueError(
+                            "EUR-Lex daily view unavailable and official CELLAR fallback failed: "
+                            f"{type(exc).__name__}: {str(exc)[:180]}"
+                        ) from exc
+                    self.warnings.append(
+                        "EUR-Lex daily view unavailable; used official Publications Office "
+                        "CELLAR/SPARQL metadata fallback."
+                    )
+                    return fallback
                 soup = BeautifulSoup(response.text, "html.parser")
                 legal_links = soup.select('a[href*="/eli/"], a[href*="/legal-content/"]')
                 if not legal_links and "official journal" not in soup.get_text(" ", strip=True).lower():
