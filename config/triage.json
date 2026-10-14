@@ -388,9 +388,9 @@
     "published_date": "2026-10-07",
     "decision": "blocked",
     "title_zh": "瑞典钢企Stegra担忧欧盟ETS改革讨论方向",
-    "reason_zh": "10月13日再次检查Montel原文，公开页仍只有标题和导语并要求注册；另查到Energy Reader二手摘要，但不足以核实Stegra高管完整表述、问题上下文及是否存在正式公司声明。下轮继续重试Montel公开页并查Stegra官方渠道。 核验入口：https://montelnews.com/news/2b9a0aa3-63a3-44d0-a0bb-33cd302dcf40/swedish-steel-maker-laments-tone-of-eu-ets-reform-talks",
+    "reason_zh": "10月14日再次检查Montel原文，公开页仍只有标题和导语并要求注册；Stegra官网未找到对应声明，Energy Reader二手摘要不足以核实高管完整表述和上下文。下轮继续重试原文及公司官方渠道。 核验入口：https://montelnews.com/news/2b9a0aa3-63a3-44d0-a0bb-33cd302dcf40/swedish-steel-maker-laments-tone-of-eu-ets-reform-talks",
     "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
-    "attempted_at": "2026-10-13",
+    "attempted_at": "2026-10-14",
     "evidence_url": "https://montelnews.com/news/2b9a0aa3-63a3-44d0-a0bb-33cd302dcf40/swedish-steel-maker-laments-tone-of-eu-ets-reform-talks",
     "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
   },
@@ -430,9 +430,9 @@
     "published_date": "2026-09-25",
     "decision": "blocked",
     "title_zh": "媒体称中国钢铁工业协会呼吁钢厂控制产量：原始声明待核",
-    "reason_zh": "10月13日再次检索中钢协官网、公开信息和行业转载，仍未找到与索引标题对应的限产声明或可核验原文。现有报道只能证明有媒体转述，不能把它当作中钢协正式限产命令；下轮继续查协会原始文件及会议记录。 核验入口：https://www.chinaisa.org.cn/",
+    "reason_zh": "10月14日再次检索中钢协官网、公开信息和行业转载，仍未找到与索引标题对应的限产声明或可核验原文。现有报道只能证明有媒体转述，不能把它当作中钢协正式限产命令；下轮继续查协会原始文件及会议记录。 核验入口：https://www.chinaisa.org.cn/",
     "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
-    "attempted_at": "2026-10-13",
+    "attempted_at": "2026-10-14",
     "evidence_url": "https://www.chinaisa.org.cn/",
     "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
   },
@@ -455,17 +455,6 @@
     "attempted_at": "2026-10-10",
     "reason_zh": "已读媒体原文并核对欧洲议会官方程序摘要，同属9月15日CBAM扩围谈判立场事件，归并至已核验主条目，保留来源。",
     "reason_en": "Original reporting checked; the same event is covered by the verified main item. Original link retained."
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXFJWmlSbGpyVUkxTnNWOE5OMDRZdGlpRFN2VFFTVHZhdnZtRE1ON1NKNFQ1bzZtLUJ0Tl80WjNSR3FtOVZ3c0l2VnRzX0RaU1M4Y3RuQW51TF9mNmVtNUtIYmMxNzFnVngxVWJNQzFaeUR0UjBoVE9KVkUxeW5uOHM5N1lHemU5OEgzZlFmM3NSVU4zQjRubElRTVdROWVwWHRKb2VIcFpCTk5y?oc=5",
-    "published_date": "2026-09-22",
-    "decision": "blocked",
-    "title_zh": "智库呼吁CBAM加强与欧盟以外国家合作：正文待核",
-    "reason_zh": "10月13日再次检索Table.Briefings同题正文、作者线索及可能对应的智库报告，仍未获得公开正文或能与标题可靠对应的原始报告；检索到的其他CBAM国际合作文章并非本条来源，不能替代研判。下轮继续重试。 核验入口：https://table.media/",
-    "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
-    "attempted_at": "2026-10-13",
-    "evidence_url": "https://table.media/",
-    "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
   },
   {
     "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202602240",
@@ -530,5 +519,14 @@
     "reason_en": "The same Tsingshan Zimbabwe steel-unit and state-rail partnership is covered by the verified main item; this media link is retained.",
     "attempted_at": "2026-10-13",
     "duplicate_of": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUNRMVFTUXhGQXdJdS03dXZZN1VEb3JNX0x3QmhRZnVtYjZqbHhpWVJMYUtsSWE2aXJjVURwTVZoUEIwUWJ5dlh2eXJLUlQzWVVKMzI0U3AxRmJGSWNGakpwQk9SMktMS0RYTHhXQUs4YzFZUVJ1MkFDWHFIMW5RVUsxMjR1T0NpYTZrUTljcUI4YzB4dGFMbERMRWtFNWl2R1BPVXZWZDZKN1cwNk1SNUdxTDFWTkhNQURkU041TXM?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXpmWjNiWDM3OUdoUFdxM2llNEZOVWRoWlFyWUNGckF5YXI1V21jMmRNekh1V3MwV1NJaVl5RU15NWtZS2NjRFVqQzVjNnVOSy03U0RENGZvWjdYQWRhUEI1NVlONUZZUUVrV0h4Q21KX2o4ZHNTTzZOempMb2tSS3E1eDI5N2lRZ01obHlMVDUtUUpvUVBNR2g1bmVDZ3duRnh4cTRtLTViS295akVRSXlJUHdXVXZfcGNvN3ZtaWx4YzZ3cHJqcEZob29qSXllZUFj?oc=5",
+    "published_date": "2026-10-13",
+    "decision": "duplicate",
+    "reason_zh": "SteelOrbis报道复述已核验的SNS《Economic Impacts of CBAM for Sweden and Beyond》模型结果；归并到原始报告主条目，避免把1.3%、0.6%等情景结果误写成现实产量预测。",
+    "reason_en": "SteelOrbis restates the source-checked SNS model study. Merge it into the original-report brief so scenario results such as 1.3% and 0.6% are not presented as observed output forecasts.",
+    "attempted_at": "2026-10-14",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSDBxV0pqWkNmYmo2WW9XbEJxNDRFZHI2VWtiM29sSmdSaF9LNVRWT3Y4Z2x0NnhpNHpwQmtCTDlUV3VVaXEtOTBrNWk3eENmUm4zbkJoa01Hb0ZEQjd0NG9iM3ZyTHNvSGRrbTZGZUJ0dGhFREl6dWNoeEV4TGRxSHdKVVQzeHJqN2FSVHBOMGFPM1c4OHfSAZsBQVVfeXFMTUt1X0tDV0FWZU1mWnBEMXVmakdBNlVGaGEzUmJtSHN6cjFEQlFVU3lpTm9VRlo4T0daaTFxcGx2ZGp6U01JWFhmTTNPSi1jUEQ0ektmeWFPNFI2c0Z5RUhOMm41dm1mcF9jUzNIcVZPZDRza09xUGtDZ1pCWjA3Qm90ZFN2OHRldjRVWWRRUVZtbG8xUnJSUmlzWHM?oc=5"
   }
 ]
