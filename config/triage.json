@@ -528,5 +528,30 @@
     "reason_en": "SteelOrbis restates the source-checked SNS model study. Merge it into the original-report brief so scenario results such as 1.3% and 0.6% are not presented as observed output forecasts.",
     "attempted_at": "2026-10-14",
     "duplicate_of": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSDBxV0pqWkNmYmo2WW9XbEJxNDRFZHI2VWtiM29sSmdSaF9LNVRWT3Y4Z2x0NnhpNHpwQmtCTDlUV3VVaXEtOTBrNWk3eENmUm4zbkJoa01Hb0ZEQjd0NG9iM3ZyTHNvSGRrbTZGZUJ0dGhFREl6dWNoeEV4TGRxSHdKVVQzeHJqN2FSVHBOMGFPM1c4OHfSAZsBQVVfeXFMTUt1X0tDV0FWZU1mWnBEMXVmakdBNlVGaGEzUmJtSHN6cjFEQlFVU3lpTm9VRlo4T0daaTFxcGx2ZGp6U01JWFhmTTNPSi1jUEQ0ektmeWFPNFI2c0Z5RUhOMm41dm1mcF9jUzNIcVZPZDRza09xUGtDZ1pCWjA3Qm90ZFN2OHRldjRVWWRRUVZtbG8xUnJSUmlzWHM?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVWlZcFFDRjMyVTRmVGpFRDYyNzh2XzFiUmRUUk5FaTJJM0lsOVUyeTUzWGVYZV80RzFyQldUcXQ2SjZ1MjRVT0tKal96ZU90LXVlcV9ka2h5SGNNS0NkYkRpQ3lHZU4zWF8wYzd6bFQ1cHNXV2dOOE1GVU5YVmJ4OTFLYXdpTVdZWFNJN3ZkVXRtczh5YndlQXNGLWlMQk5nMGdwVkdIdHRnWEdwNkFUWWpnTzdLWlJ4RHVaS2tEUQ?oc=5",
+    "published_date": "2026-10-14",
+    "decision": "excluded",
+    "reason_zh": "股票资讯自动稿把日本制铁2021年10月14日提起的无取向电工钢专利诉讼误写成2026年10月14日新起诉，并混入股价目标和财务指标；日本制铁官方资料确认起诉日为2021年，2023年撤回对丰田诉讼后仅继续对宝钢诉讼。本条没有新的可核验公司或法院事件，按错误时效和股票估值内容归档。",
+    "reason_en": "An automated stock article misdates Nippon Steel's 14 October 2021 non-oriented electrical-steel patent suit as a new filing on 14 October 2026 and mixes it with price targets and financial metrics. Nippon Steel's official record confirms the 2021 filing and that only the Baosteel action continued after the Toyota action was withdrawn in 2023. No new verified company or court event is provided.",
+    "attempted_at": "2026-10-14"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85NXY1V0J0WVlnZWdOSTdUWnMxbFNBWGV2dTktaHBLOVVlNnhtRFVUNU93cGU3QWkzemh6cERwSU50Y1NXS2R0aXk1R3hDb0QtMko1TUo1LVV3N0tlZEg5czZjR0E2TThP?oc=5",
+    "published_date": "2026-10-14",
+    "decision": "excluded",
+    "reason_zh": "海关汽车整车出口数量，不涉及钢材出口、钢铁贸易措施、钢企经营事件或可执行的钢铁政策；避免用整车数量直接推导汽车板出口需求。",
+    "reason_en": "Aggregate customs data on complete-vehicle exports does not report steel exports, a steel trade measure, a steelmaker event or an actionable steel policy; vehicle counts cannot directly establish automotive-sheet export demand.",
+    "attempted_at": "2026-10-14"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWFsMFVnWHBNdDRxZWNINDFqRmU2amRoZm02UW9nN1AyamFMcmtjZG1hWk1wZUhDRHFSTUVlUmg4LWRPcjdFSnh4bExkdkhCTXpiWlU1ekNwNDRXbkxBcjRpMGQwTEpSUk8tLTVsNE9FSnIyLVJzcm9CVDFiNWIyWWgtdFY2R21UVnIwWFhQOExmUk8wSzF4WFJvRVVtWWFpYURCaFU5VW1VYkVQLVpKTHhiSXItOWc?oc=5",
+    "published_date": "2026-10-08",
+    "decision": "duplicate",
+    "reason_zh": "Quantum Commodity Intelligence报道的是同一份USTR《联邦公报》CBAM征询通知；归并到已核验主条目，避免把媒体所称“可能报复”误写成已经采取执法或关税行动。",
+    "reason_en": "Quantum Commodity Intelligence covers the same USTR Federal Register CBAM request for comments. Merge it into the source-checked main brief so possible retaliation is not presented as an adopted enforcement or tariff action.",
+    "attempted_at": "2026-10-14",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0pINE8xZDkwNjJ1cHBBZ3F0MVZwMGFuZTJPd3BPeTJ1UlRBeGxhZnYxZjB4Zk5CT1RCUmFLT3RsZ1JBRTBTRnNNa20tSFJIOXBQeml0Smc5aWxsblFQQWpRZkVnbFYwZE54N2J3TTQyQ1pQMk9xcnNpQzAwVGJCS3A3bHBET2JLUkJkYzF6NEExdVpRMmF3aFhFdm5MZnFPd1BkTjhjZFZnSzdTekJCMzQyZ1Q?oc=5"
   }
 ]
