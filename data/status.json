@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-15T10:21:48Z",
+  "generated_at": "2026-10-16T10:09:14Z",
   "run_ok": true,
   "model": "gpt-4.1-mini",
   "translation_available": false,
   "analysis_status": "unconfigured",
-  "active_items": 162,
+  "active_items": 176,
   "archived_items": 51,
   "verified_items": 150,
-  "pending_analysis": 12,
-  "pending_translation": 12,
+  "pending_analysis": 26,
+  "pending_translation": 26,
   "blocked_items": 2,
   "offline_translation": {
     "status": "partial",
-    "translated": 5,
+    "translated": 11,
     "warnings": [
-      "2 条译文未通过完整性检查，保留原文待重试。"
+      "3 条译文未通过完整性检查，保留原文待重试。"
     ],
-    "remaining": 2
+    "remaining": 3
   },
-  "machine_translated_items": 7,
-  "collected_items": 66,
-  "processed_items": 14,
+  "machine_translated_items": 18,
+  "collected_items": 73,
+  "processed_items": 20,
   "deferred_items": 0,
-  "new_items": 10,
-  "total_items": 213,
+  "new_items": 14,
+  "total_items": 227,
   "source_success": 6,
   "source_total": 6,
   "sources": [
@@ -33,22 +33,32 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 8520,
-      "warnings": [],
-      "last_success_at": "2026-10-15T10:21:48Z",
-      "last_observed_at": "2026-10-15T10:21:48Z",
+      "duration_ms": 34220,
+      "warnings": [
+        "倡议 12518 详情未取得：HTTPError",
+        "倡议 14172 详情未取得：HTTPError",
+        "倡议 1104 详情未取得：HTTPError",
+        "倡议 11915 详情未取得：HTTPError",
+        "倡议 11889 详情未取得：HTTPError",
+        "倡议 16933 详情未取得：HTTPError",
+        "倡议 14132 详情未取得：HTTPError",
+        "倡议 14830 详情未取得：HTTPError",
+        "倡议 14117 详情未取得：HTTPError"
+      ],
+      "last_success_at": "2026-10-16T10:09:14Z",
+      "last_observed_at": "2026-10-16T10:09:14Z",
       "consecutive_failures": 0
     },
     {
       "id": "ec_watch_pages",
       "name": "重点官方页面直采",
       "ok": true,
-      "count": 20,
+      "count": 21,
       "error": "",
-      "duration_ms": 3896,
+      "duration_ms": 3026,
       "warnings": [],
-      "last_success_at": "2026-10-15T10:21:48Z",
-      "last_observed_at": "2026-10-15T10:21:48Z",
+      "last_success_at": "2026-10-16T10:09:14Z",
+      "last_observed_at": "2026-10-16T10:09:14Z",
       "consecutive_failures": 0
     },
     {
@@ -57,12 +67,12 @@
       "ok": true,
       "count": 1,
       "error": "",
-      "duration_ms": 1051,
+      "duration_ms": 1121,
       "warnings": [
         "EUR-Lex daily view unavailable; used official Publications Office CELLAR/SPARQL metadata fallback."
       ],
-      "last_success_at": "2026-10-15T10:21:48Z",
-      "last_observed_at": "2026-10-15T10:21:48Z",
+      "last_success_at": "2026-10-16T10:09:14Z",
+      "last_observed_at": "2026-10-16T10:09:14Z",
       "consecutive_failures": 0
     },
     {
@@ -71,39 +81,48 @@
       "ok": true,
       "count": 8,
       "error": "",
-      "duration_ms": 1496,
+      "duration_ms": 820,
       "warnings": [],
-      "last_success_at": "2026-10-15T10:21:48Z",
-      "last_observed_at": "2026-10-15T10:21:48Z",
+      "last_success_at": "2026-10-16T10:09:14Z",
+      "last_observed_at": "2026-10-16T10:09:14Z",
       "consecutive_failures": 0
     },
     {
       "id": "govuk",
       "name": "GOV.UK / 英国政府",
       "ok": true,
-      "count": 2,
+      "count": 3,
       "error": "",
-      "duration_ms": 9289,
+      "duration_ms": 4946,
       "warnings": [],
-      "last_success_at": "2026-10-15T10:21:48Z",
-      "last_observed_at": "2026-10-15T10:21:48Z",
+      "last_success_at": "2026-10-16T10:09:14Z",
+      "last_observed_at": "2026-10-16T10:09:14Z",
       "consecutive_failures": 0
     },
     {
       "id": "rss",
       "name": "RSS / Google News 新闻发现",
       "ok": true,
-      "count": 20,
+      "count": 24,
       "error": "",
-      "duration_ms": 1858,
+      "duration_ms": 2006,
       "warnings": [],
-      "last_success_at": "2026-10-15T10:21:48Z",
-      "last_observed_at": "2026-10-15T10:21:48Z",
+      "last_success_at": "2026-10-16T10:09:14Z",
+      "last_observed_at": "2026-10-16T10:09:14Z",
       "consecutive_failures": 0
     }
   ],
   "warnings": [
+    "倡议 12518 详情未取得：HTTPError",
+    "倡议 14172 详情未取得：HTTPError",
+    "倡议 1104 详情未取得：HTTPError",
+    "倡议 11915 详情未取得：HTTPError",
+    "倡议 11889 详情未取得：HTTPError",
+    "倡议 16933 详情未取得：HTTPError",
+    "倡议 14132 详情未取得：HTTPError",
+    "倡议 14830 详情未取得：HTTPError",
+    "倡议 14117 详情未取得：HTTPError",
     "EUR-Lex daily view unavailable; used official Publications Office CELLAR/SPARQL metadata fallback.",
-    "2 条译文未通过完整性检查，保留原文待重试。"
+    "3 条译文未通过完整性检查，保留原文待重试。"
   ]
 }
