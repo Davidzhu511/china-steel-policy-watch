@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T09:43:35Z",
+  "generated_at": "2026-10-18T09:55:55Z",
   "items": [
     {
       "id": "e1dd62cd6e262c634c7f",
@@ -32,7 +32,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "UK CBAM: HMRC Publishes Default Emissions Values and Illustrative Rates Beckchoice",
       "machine_translation": {
         "title_zh": "联合王国 CBAM: HMRC 发布默认排放值和说明率",
@@ -41,6 +41,48 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-10-17T09:43:52Z"
+      }
+    },
+    {
+      "id": "d30188821987e783fae3",
+      "title_zh": "EU institutions split on scope of CBAM expansion",
+      "title_en": "EU institutions split on scope of CBAM expansion",
+      "title_original": "EU institutions split on scope of CBAM expansion",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcG5aejNwUkQyZ0VpZEJKdFdKNXNxQkc5NFhaZWR3ZkpoR3FtNG1sN19oeUlNZ0l2Y0o4aDFuWHlxVUdZdldIU1hMOG5PbGlCcDFYWkdwUU8wWVB5SXVrYjFraEpBdUxZZXJMV0k2UUx3OWdUS2k5dWxSVkRXbHYzaUttU2xsVVcyNHNqMWwzX2Q1eUNMTXgyNl9xYm9mVzlON0VFWWFSN0t0dFhsM29HMmN4NndQd25EVUhtQVh5NXQ1RUxsWkE?oc=5",
+      "published_at": "2026-10-16T11:22:11Z",
+      "source": {
+        "id": "rss",
+        "name": "S&P Global",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "碳与环保",
+      "status": "新闻",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-10-18T09:55:55Z",
+      "last_seen": "2026-10-18T09:55:55Z",
+      "source_excerpt": "EU institutions split on scope of CBAM expansion S&P Global",
+      "machine_translation": {
+        "title_zh": "欧盟机构划分CBAM扩展范围",
+        "excerpt_zh": "欧盟机构划分CBAM扩展范围",
+        "fingerprint": "ac021ee629d3d780e2bdf9469c2945849d9af476815da132099b43332b99970e",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-10-18T09:56:30Z"
       }
     },
     {
@@ -74,7 +116,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-16T10:09:14Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Ukraine has repealed anti-dumping measures on steel fasteners from China GMK Center",
       "machine_translation": {
         "title_zh": "乌克兰已经废除了对中国钢铁装配厂的反倾销措施",
@@ -116,7 +158,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-16T10:09:14Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "商务部、科技部拟修订《中国禁止出口限制出口技术目录》，增列部分人工智能、生物医药、光伏技术 我的钢铁"
     },
     {
@@ -150,7 +192,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-16T10:09:14Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "[SMM Weekly Summary] Weak Demand and Flat Baowu Pricing Policy May Keep Grain-Oriented Silicon Steel Prices in the Doldrums Next Week Shanghai Metals Market",
       "machine_translation": {
         "title_zh": "[SMM 每周摘要] 弱需求和平压巴乌定价政策 下个星期可能保持谷状硅钢价格",
@@ -192,7 +234,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "CBAM and EUDR: why European buyers now demand carbon footprints from African exporters Capmad",
       "machine_translation": {
         "title_zh": "CBAM和EURDR:为什么欧洲买方现在要求非洲出口商提供碳足迹",
@@ -234,7 +276,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Find out about the force of law notice for the Carbon Border Adjustment Mechanism and reference document. Force of law notices These documents are in draft. ‘The Carbon Border Adjustment Mechanism (Administrative Provisions and Determination of Carbon Price Relief) Force of Law Notice (Draft)’ was published on 14 July 2026 alongside the relevant CBAM secondary legislation being laid in parliament. ‘The Carbon Border Adjustment Mechanism (Emissions and Verification) Force of Law Notice (Draft)’ was published on the 9 September 2026 alongside the relevant CBAM secondary legislation being laid in parliament. ‘The Carbon Border Adjustment Mechanism (Default Values) Force of Law Notice (Draft)’ was published on the 16 October 2026. The notices have not yet commenced and do not currently have the force of law. It will only come into effect once it has been commenced on 1 January 2027. They cover a range of administrative and technical issues in respect of the tax. Carbon Pricing Verificatio…"
     },
     {
@@ -268,7 +310,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "This is a policy summary for the carbon border adjustment mechanism. This document provides a summary of CBAM policy. It includes the core policy framework which is set out via primary legislation in the Finance Act 2026 and details set out in the draft secondary legislation and notices. Further details will be included in secondary legislation, notices and GOV.UK guidance. The details in this document may be updated; any changes will be reflected here. We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Data, Freedom of Information releases and corporate reports Page further updated to reflect the r…"
     },
     {
@@ -302,7 +344,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Find out which records you must keep if you're the importer of CBAM goods. evidence of UK origin materials, already carbon taxed in reimported goods Keep records of any CBAM goods you import which are of UK origin (under the non-preferential rules of origin) . This could include:",
       "machine_translation": {
         "title_zh": "保存 碳边境调节机制(CBAM)的记录",
@@ -344,7 +386,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Find out about rates for CBAM goods and how they apply to your imports. For example, if you import steel bars in February 2028, the CBAM rate that applies is for iron and steel between 1 January to 31 March 2028."
     },
     {
@@ -378,7 +420,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Find out the default values for your goods, when to use them and when to combine them with your actual emissions. Each Carbon Border Adjustment Mechanism ( CBAM ) good has a default value. You can use the default value in your CBAM return, instead of verified actual emissions data. The values are in tonnes of carbon dioxide equivalents (tCO2e) per tonne of product. We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Data, Freedom of Information releases and corporate reports Each Carbon Border Adjustment Mechanism ( CBAM ) good has a default value. You can use the default value in your CBAM return, i…",
       "machine_translation": {
         "title_zh": "检查 碳边境调节机制 (CBAM) 的默认值",
@@ -420,7 +462,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Find out how sector-level CBAM rates are calculated under the CBAM rate methodology using illustrative rates and worked example. The UK Carbon Border Adjustment Mechanism ( CBAM ) is designed to address the risk of carbon leakage as the UK decarbonises its economy. It does this by applying a carbon price to imported goods in covered sectors that reflects the carbon price faced by comparable domestic production. Unlike most taxes, CBAM does not have a single headline rate set out in primary legislation. Instead, the rate is determined using a methodology that combines recent carbon pricing data, sector-level emissions information and the extent to which domestic producers continue to receive free allowances under the UK Emissions Trading Scheme. This methodology is set out in law, via the Finance Act 2026. The purpose of this note is to explain how sector-level CBAM rates are calculated under the CBAM rate methodology. It is intended as a transparency tool to help businesses understand…",
       "machine_translation": {
         "title_zh": "CBAM标准说明和碳边境调节机制(CBAM)工作范例",
@@ -462,7 +504,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Find out how to get your emissions intensity as an importer (also known as a liable person) when importing Carbon Border Adjustment Mechanism (CBAM) goods into the UK.",
       "machine_translation": {
         "title_zh": "导入 碳边境调节机制 (CBAM) 货物时获取排放强度",
@@ -504,7 +546,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Find out about monitoring emissions and getting emissions verified if you are an installation exporting Carbon Border Adjustment Mechanism (CBAM) goods. We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Data, Freedom of Information releases and corporate reports The Carbon Border Adjustment Mechanism ( CBAM ) comes into effect on 1 January 2027. Importers (liable persons) will be taxed on the CO2e embodied within the CBAM good they’re importing into the UK. Read more about the introduction of CBAM . If you produce goods that are in scope of UK CBAM and would like the importer to use actual values w…",
       "machine_translation": {
         "title_zh": "监测向联合王国出口的用于生产碳边境调节机制(CBAM)货物的海外设施的排放量",
@@ -546,7 +588,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Find out what you must do if you’re verifying emissions data for the Carbon Border Adjustment Mechanism (CBAM). We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Data, Freedom of Information releases and corporate reports If liable persons (the importers) choose to use actual emissions data on their Carbon Border Adjustment Mechanism ( CBAM ) tax return, the installation producing the CBAM good that was imported must have: To verify emissions data for CBAM you will need to both: You must be accredited by an eligible accreditation body against the: To verify a particular installation’s emissions dat…",
       "machine_translation": {
         "title_zh": "核查碳边境调节机制(CBAM)货物的排放数据",
@@ -592,7 +634,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Find out your responsibilities as an accreditation body if you accredit verifiers for the Carbon Border Adjustment Mechanism (CBAM). We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Data, Freedom of Information releases and corporate reports As an accreditation body you may accredit verifiers for the Carbon Border Adjustment Mechanism ( CBAM ), providing you meet the eligibility requirements. To be eligible to accredit verifiers for CBAM you must: You must also be peer evaluated for your ability to accredit verifiers to the following ISO standards: You may accredit verifiers based in the same coun…",
       "priority_signal": {
         "zh": "CBAM 执行信息 · 待核对",
@@ -630,7 +672,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "This guide provides detailed information for overseas installation operators, verifiers and importers (liable persons) who monitor, verify and report Carbon Border Adjustment Mechanism (CBAM) emissions.",
       "machine_translation": {
         "title_zh": "碳边境调节机制(CBAM):监测、核查和报告排放量的技术指南",
@@ -676,7 +718,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-16T10:09:14Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "[SMM Analysis] CBAM Costs and Emissions Data Reshape European Procurement of Indian Steel Shanghai Metals Market",
       "machine_translation": {
         "title_zh": "[SMM分析] CBAM 成本和排放数据重塑",
@@ -718,7 +760,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-16T10:09:14Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Gasgoo Daily: Geely Holding Q1-Q3 Sales Top 3 Million; Chery, Shougang Debut 55% Recycled Steel; Black Sesame Technologies Secures RMB300 Million AI Server Deal Gasgoo",
       "machine_translation": {
         "title_zh": "Gasgoo Daily: Geely Holding Q1-Q3 销售额最高3百万; Chery, 首钢 Debut 55% 回收钢; 黑芝麻技术保障3亿 AI 服务器交易",
@@ -760,7 +802,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-16T10:09:14Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "China's First Commercial Hydrogen DRI Batch: 360 Tonnes for Green Auto Steel - News and Statistics IndexBox",
       "machine_translation": {
         "title_zh": "中国首批商业氢气DRI批量:360吨的绿色汽车钢",
@@ -802,7 +844,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-16T10:09:14Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "2026年9月中国钢材出口增长3.3% | 进口与铁矿石数据 - 新闻和统计 IndexBox"
     },
     {
@@ -836,7 +878,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-16T10:09:14Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "The EC has launched a review of anti-dumping duties on Chinese wire rod GMK Center",
       "machine_translation": {
         "title_zh": "欧共体已着手审查对中国盘条的反倾销税",
@@ -920,7 +962,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-15T10:21:48Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Chery, Shougang roll out jointly developed parts made with 55% recycled steel Gasgoo",
       "machine_translation": {
         "title_zh": "切利,首钢 推出与55%回收钢制成的联合开发部件",
@@ -1038,7 +1080,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-16T10:09:14Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "CBAM - Questions and Answers 15 October 2026 English Download (604.21 KB - PDF)",
       "machine_translation": {
         "title_zh": "CBAM 问答",
@@ -1080,7 +1122,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-16T10:09:14Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Companies and products awarded compensation for the indirect costs of the UK Emissions Trading Scheme (UK ETS) and Carbon Price Support (CPS) scheme by year. The UK Emissions Trading Scheme (UK ETS ) and Carbon Price Support ( CPS ) mechanism are designed to reduce emissions. To prevent carbon leakage the UK ETS CPS indirect compensation scheme supports energy intensive industries (EIIs) with these carbon costs. This page contains lists of companies and products that have received this support. We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Data, Freedom of Information releases and corporate rep…",
       "machine_translation": {
         "title_zh": "公司和产品获赔 ETS CPS 赔偿",
@@ -1122,7 +1164,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-15T10:21:48Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Mysteel早读：本期中国钢材出口发运创年内新高，焦煤期货大跌超4% 我的钢铁"
     },
     {
@@ -1156,7 +1198,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-16T10:09:14Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Iron Ore Futures Fall to Four-Year Low on China Blast Furnace Maintenance and Ample Supply - News and Statistics IndexBox",
       "machine_translation": {
         "title_zh": "铁矿石期货在中国的 高炉 维护和供应量降到4年以下",
@@ -1198,7 +1240,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-15T10:21:48Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "China Iron Ore Prices Fall Post-Holiday: Q4 Supply Rise to Weigh - News and Statistics IndexBox",
       "machine_translation": {
         "title_zh": "中国铁矿石价格下跌后周日:Q4供给上升至微弱",
@@ -1316,7 +1358,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-15T10:21:48Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Mysteel晚餐：9月中国出口钢材1049.2万吨，江苏象屿不锈钢正式挂牌 我的钢铁"
     },
     {
@@ -1350,7 +1392,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-15T10:21:48Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "How Burdensome Is CBAM? Washington Wants to Know Steel and Stainless Steel News"
     },
     {
@@ -1396,7 +1438,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-14T07:59:20Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "Baowu Steel announced flat prices for November Yieh Corp.",
       "coverage": "2026-10-14已通读Yieh公开全文，并交叉核对Mysteel公开标题及首段；覆盖平盘方向、报道给出的市场解释和热卷等主要板材范围，未取得宝钢股份原始完整价格表，未推断各规格绝对价格或出口加价。",
       "evidence_url": "https://yieh.com/en/News/baowu-steel-announced-flat-prices-for-november/162934",
@@ -1446,7 +1488,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-14T07:59:20Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) and countervailing duty (CVD) orders on boltless steel shelving units prepackaged for sale from (boltless steel shelving) the People's Republic of China (China) would likely lead to the continuation or recurrence of dumping, countervailable subsidies, and material injury to an industry in the United States, Commerce is publishing a notice of continuation of these AD and CVD orders.",
       "coverage": "2026-10-14已读取《联邦公报》91 FR 65162-65163官方全文，核对案号、生效日、完整书面范围、排除项、HTSUS提示和现金保证金安排；本通知未列示企业具体税率，未以其他行政复审结果代替进口时适用税率。",
       "evidence_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20920.pdf",
@@ -1496,7 +1538,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-14T07:59:20Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "",
       "follow_up": "跟踪美国商务部正式延续A-570-126/C-570-127措施的通知，并以届时报关日期、生产商和出口商组合核对现金保证金率。",
       "coverage": "2026-10-14已读取《联邦公报》91 FR 65253官方全文，核对调查号、程序日期、肯定性损害结论和Publication 5799引用；本条未取得Publication 5799全文，产品范围与税率须结合商务部命令和后续延续通知。",
@@ -1611,8 +1653,42 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "今年中国钢材出口有多难？被全球20多个国家针对，包括越南巴西 QQ News"
+    },
+    {
+      "id": "59d1301b2c928fc9a897",
+      "title_zh": "中国是巴西大豆与牛肉的最大买家，巴西为何还对中国钢材加关税？",
+      "title_en": "中国是巴西大豆与牛肉的最大买家，巴西为何还对中国钢材加关税？",
+      "title_original": "中国是巴西大豆与牛肉的最大买家，巴西为何还对中国钢材加关税？",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95V182UWZ4WHNQbGMzS0NtOTR0Ym14UE9teDY5alk1U3JFcjlMazB1QnM2TjdvMDNXQ0VRSUhTSGRqNTQyUEZlRmlYdVlqLWszLWpIRXp1UTE1Y1pHUnRXbw?oc=5",
+      "published_at": "2026-10-13T01:11:00Z",
+      "source": {
+        "id": "rss",
+        "name": "搜狐网",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "市场与产能",
+      "status": "新闻",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "zh",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-10-18T09:55:55Z",
+      "last_seen": "2026-10-18T09:55:55Z",
+      "source_excerpt": "中国是巴西大豆与牛肉的最大买家，巴西为何还对中国钢材加关税？ 搜狐网"
     },
     {
       "id": "45a4fc960dffe3f1b6e6",
@@ -1699,7 +1775,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-13T08:02:09Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "CBAM costs for steel products could reach €5 billion a year — Trasteel CEO GMK Center",
       "coverage": "2026-10-13已读GMK公开全文；其明确说明信息来自Platts采访，但Platts原访谈未公开取得，因此50亿欧元及企业表述按二手转述呈现，未独立复算或视为欧委会预测。",
       "evidence_url": "https://gmk.center/en/news/cbam-costs-for-steel-products-could-reach-e5-billion-a-year-trasteel-ceo/",
@@ -1805,13 +1881,51 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-13T08:02:09Z",
-      "last_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-10-18T09:55:55Z",
       "source_excerpt": "",
       "follow_up": "立即核对R877并在公告后7日抽样窗口内行动；随后跟踪抽样决定、秘鲁代表国意见、问卷、披露和终裁。所有具体截止时点以TRON及欧委会通知为准。",
       "evidence_url": "https://op.europa.eu/o/opportal-service/download-handler?format=PDF&identifier=011e27b8-c5d7-11f1-bfcb-01aa75ed71a1&language=en&productionSystem=cellar",
       "coverage": "2026-10-13已通过欧盟出版局官方CELLAR下载并通读C/2026/5244全部12页，核对申请人、产品及15个CN编码、现行措施、拟议代表国、调查期、案件号、抽样与其他提交期限及结案期限；未读取TRON受限卷宗、EUROFER机密申请或企业问卷答复。",
       "review_method": "source_checked",
       "reviewed_at": "2026-10-13"
+    },
+    {
+      "id": "c816c2edd2486ade4830",
+      "title_zh": "Case T-175/24: Judgment of the General Court of 2 September 2026 – Özkan v Commission (Dumping – Imports of steel bulb flats originating in China and Türkiye – Definitive anti-dumping duty – Implementing Regulation (EU) 2024/209 – Article 2(10)(j) of Regulation (EU) 2016/1036 – Currency conversions – Article 2(4), (10) and (11) of Regulation 2016/1036 – Ordinary course of trade – Fair comparison between the export price and the normal value – Quarterly dumping margin calculation)",
+      "title_en": "Case T-175/24: Judgment of the General Court of 2 September 2026 – Özkan v Commission (Dumping – Imports of steel bulb flats originating in China and Türkiye – Definitive anti-dumping duty – Implementing Regulation (EU) 2024/209 – Article 2(10)(j) of Regulation (EU) 2016/1036 – Currency conversions – Article 2(4), (10) and (11) of Regulation 2016/1036 – Ordinary course of trade – Fair comparison between the export price and the normal value – Quarterly dumping margin calculation)",
+      "title_original": "Case T-175/24: Judgment of the General Court of 2 September 2026 – Özkan v Commission (Dumping – Imports of steel bulb flats originating in China and Türkiye – Definitive anti-dumping duty – Implementing Regulation (EU) 2024/209 – Article 2(10)(j) of Regulation (EU) 2016/1036 – Currency conversions – Article 2(4), (10) and (11) of Regulation 2016/1036 – Ordinary course of trade – Fair comparison between the export price and the normal value – Quarterly dumping margin calculation)",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AC_202605067",
+      "published_at": "2026-10-12T00:00:00Z",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "贸易救济",
+      "status": "待核对",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-10-18T09:55:55Z",
+      "last_seen": "2026-10-18T09:55:55Z",
+      "source_excerpt": "",
+      "priority_signal": {
+        "zh": "贸易救济程序 · 待核对",
+        "en": "Trade-remedy procedure · review needed"
+      }
     },
     {
       "id": "53fed2510c2d19d615a9",
@@ -1957,158 +2071,6 @@
       "coverage": "已读EUROMETAL发布的署名Platts访谈正文；未独立复核受访者成本模型或全部市场统计。",
       "review_method": "source_checked",
       "reviewed_at": "2026-10-10"
-    },
-    {
-      "id": "cf0c400f8a82b04c4012",
-      "title_zh": "SNS模型研究：CBAM对出口型欧洲重工业的保护弱于免费配额，并非现实产量预测",
-      "title_en": "SNS model: CBAM protects export-oriented European heavy industry less than free allocation; not an observed forecast",
-      "title_original": "CBAM undermines the protection of European heavy industry — study",
-      "summary_zh": "SNS 10月8日报告以多部门、多区域CGE模型比较免费配额与类CBAM碳关税。相对“无气候政策”的假设基准，瑞典排放密集、贸易暴露行业产出在碳关税情景下降1.3%，免费配额情景下降0.6%；欧洲其他地区分别下降2.6%和1.3%。模型碳泄漏率为碳关税16.0%、免费配额16.9%，碳关税叠加出口返还时降至10.6%。这些是模型情景结果，不是已观测产量、确定预测或现行法规变更；GMK转述的钢铁下降1.7%也应按部门模型结果理解。",
-      "summary_en": "The 8 October SNS report compares free allocation with CBAM-style carbon tariffs in a multi-sector, multi-region CGE model. Relative to a hypothetical no-policy baseline, Swedish EITE output falls 1.3% with tariffs versus 0.6% with free allocation; the rest of Europe falls 2.6% versus 1.3%. Modelled leakage is 16.0% with tariffs, 16.9% with free allocation and 10.6% when export rebates are added. These are scenario results, not observed output, a firm forecast or a regulatory change; GMK's 1.7% steel figure is likewise a sector-model result.",
-      "impact_zh": "研究可能强化欧盟出口型钢企争取出口补偿或调整CBAM设计的政策诉求，但目前没有改变进口商的CBAM义务、证书安排或具体税费。中国钢厂可关注未来咨询和立法讨论，不应把模型百分比直接用于订单需求、到岸成本或税额测算。",
-      "impact_en": "The study may strengthen EU exporters' calls for export relief or CBAM redesign, but it does not change current importer obligations, certificates or charges. Chinese mills should monitor consultations and legislation without using model percentages as shipment demand, landed cost or tax estimates.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSDBxV0pqWkNmYmo2WW9XbEJxNDRFZHI2VWtiM29sSmdSaF9LNVRWT3Y4Z2x0NnhpNHpwQmtCTDlUV3VVaXEtOTBrNWk3eENmUm4zbkJoa01Hb0ZEQjd0NG9iM3ZyTHNvSGRrbTZGZUJ0dGhFREl6dWNoeEV4TGRxSHdKVVQzeHJqN2FSVHBOMGFPM1c4OHfSAZsBQVVfeXFMTUt1X0tDV0FWZU1mWnBEMXVmakdBNlVGaGEzUmJtSHN6cjFEQlFVU3lpTm9VRlo4T0daaTFxcGx2ZGp6U01JWFhmTTNPSi1jUEQ0ektmeWFPNFI2c0Z5RUhOMm41dm1mcF9jUzNIcVZPZDRza09xUGtDZ1pCWjA3Qm90ZFN2OHRldjRVWWRRUVZtbG8xUnJSUmlzWHM?oc=5",
-      "published_at": "2026-10-09T10:07:09Z",
-      "source": {
-        "id": "rss",
-        "name": "GMK Center",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "碳与环保",
-      "status": "研究报告·模型情景",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [
-        "CBAM",
-        "EU ETS",
-        "免费配额",
-        "碳泄漏",
-        "模型研究"
-      ],
-      "tags_en": [
-        "CBAM",
-        "EU ETS",
-        "free allocation",
-        "carbon leakage",
-        "model study"
-      ],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "complete",
-      "first_seen": "2026-10-11T07:30:17Z",
-      "last_seen": "2026-10-15T10:21:48Z",
-      "source_excerpt": "CBAM undermines the protection of European heavy industry — study GMK Center",
-      "coverage": "已读SNS官方英文报告全文，重点核对摘要、CGE模型结果表、敏感性分析和结论，并与GMK报道交叉检查；未复算GTAP数据、模型方程或部门敏感性结果，数值均按作者模型口径呈现。",
-      "evidence_url": "https://www.sns.se/en/publications/cbam-swedish-industry-2026",
-      "review_method": "source_checked",
-      "reviewed_at": "2026-10-11",
-      "related_sources": [
-        {
-          "name": "SteelOrbis",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXpmWjNiWDM3OUdoUFdxM2llNEZOVWRoWlFyWUNGckF5YXI1V21jMmRNekh1V3MwV1NJaVl5RU15NWtZS2NjRFVqQzVjNnVOSy03U0RENGZvWjdYQWRhUEI1NVlONUZZUUVrV0h4Q21KX2o4ZHNTTzZOempMb2tSS3E1eDI5N2lRZ01obHlMVDUtUUpvUVBNR2g1bmVDZ3duRnh4cTRtLTViS295akVRSXlJUHdXVXZfcGNvN3ZtaWx4YzZ3cHJqcEZob29qSXllZUFj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f53e146c8064a27d8fb5",
-      "title_zh": "RINA公告取得ACCREDIA的CBAM核查认可：具体证书范围仍须核对",
-      "title_en": "RINA announces ACCREDIA accreditation for CBAM verification; certificate scope still needs checking",
-      "title_original": "RINA获得ACCREDIA CBAM核查认可- 船级社",
-      "summary_zh": "RINA于9月30日公告，其已取得ACCREDIA对CBAM核查活动的认可，并称其为ACCREDIA首家获此认可的机构、也是全球首批之一。公告称实际排放数据采用时须由获认可的CBAM核查机构验证，并列出2026年9月开始核查活动、2027年2月起可购买证书及2027年9月30日完成首次申报和清缴等节点。这是RINA自身公告；本轮未在ACCREDIA证书附件中独立确认全部行业、国家和活动范围。",
-      "summary_en": "RINA announced on 30 September that ACCREDIA had accredited it for CBAM verification, describing itself as ACCREDIA's first such body and among the first worldwide. It says accredited verification is required when actual emissions are used and lists September 2026 verification activity, February 2027 certificate availability and the first declaration/surrender by 30 September 2027. The full sectoral and geographic certificate scope was not independently confirmed in ACCREDIA's annex.",
-      "impact_zh": "中国钢厂可把RINA列为候选核查机构，但签约前仍应查ACCREDIA有效证书、钢铁活动范围、签字权限以及能否服务第三国装置；企业“首家”说法不等于对所有CBAM行业均具资质。",
-      "impact_en": "Chinese mills may treat RINA as a candidate verifier, but should check the live ACCREDIA certificate, iron-and-steel scope, signatory authority and ability to serve non-EU installations before engagement. The 'first' claim does not establish universal sector coverage.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYzY4dFpsOUdHaDZhNjk0MmFjRDBmVXg0d0F1ZkJjNDZ2elV4c0lMSEcyM05NbVNVRXV6WThNVlFLYkxndUFWUFFjcGozRWctVm1MUkpXMG41eU9ZN1BmLVlObTRwM1VIM2FMV0p3aV9mZTRST2ZrUHd5NjIyZjBxdzd3?oc=5",
-      "published_at": "2026-10-09T04:19:03Z",
-      "source": {
-        "id": "rss",
-        "name": "国际船舶网",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "碳与环保",
-      "status": "企业公告·范围待确认",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [
-        "CBAM",
-        "核查机构",
-        "ACCREDIA",
-        "RINA"
-      ],
-      "tags_en": [
-        "CBAM",
-        "verifier",
-        "ACCREDIA",
-        "RINA"
-      ],
-      "language": "zh",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "complete",
-      "first_seen": "2026-10-10T11:24:54Z",
-      "last_seen": "2026-10-14T10:38:51Z",
-      "source_excerpt": "RINA获得ACCREDIA CBAM核查认可- 船级社 国际船舶网",
-      "evidence_url": "https://www.rina.org/en/media/news/2026/09/30/cbam-accreditation",
-      "coverage": "已读RINA 9月30日原始公告全文，并与欧委会核查指引入口交叉检查；未取得ACCREDIA完整证书附件，认可范围和“首家”仍按企业陈述处理。",
-      "review_method": "source_checked",
-      "reviewed_at": "2026-10-11"
-    },
-    {
-      "id": "ae93a638b2649c9bd17e",
-      "title_zh": "华测旗下机构公告取得CBAM核查认可，证书范围仍需独立核对",
-      "title_en": "CTI affiliate announces CBAM accreditation; certificate scope needs checking",
-      "title_original": "CTI华测检测旗下机构获CBAM核查资质，覆盖全部六大管制行业",
-      "summary_zh": "华测发布的企业公告称希腊EmiCert取得ESYD签发的CBAM认可，证书编号874-9，覆盖六个管制行业，并称为全球首家。已核读公告，但尚未在认可机构名录独立确认完整证书范围和“全球首家”说法；不能据公告为具体钢厂核查资格背书。",
-      "summary_en": "CTI says Greek EmiCert obtained ESYD accreditation, certificate 874-9, covering six sectors. The announcement was read, but the register, detailed scope and “world first” claim were not independently verified.",
-      "impact_zh": "委托前索取有效证书、钢铁工艺认可范围、人员能力和签字权限，并与认可机构公开名录核对。",
-      "impact_en": "Obtain the valid certificate and steel-process scope and check the accreditation register.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOckNIRm5Bb3cyamw0UFItUFNGcGs5endMNFFaTV9ORDR3ZEtQel9sMUlpaVhmS0xWTVRBMmRxZXdvTTBaR19kZExvU0d2M0RqZFRPV2R1YzRKWlRnRERSQUdVWVpmNW9JemJ2QThJWWdVR1BGN1BJb2djSV9UUmFPaGRWa0I3UlV6aG9scHVTRmpqcHpuLWxDSUxQeTJyd21IYm9rVg?oc=5",
-      "published_at": "2026-10-09T01:46:04Z",
-      "source": {
-        "id": "rss",
-        "name": "搜狐网",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "碳与环保",
-      "status": "企业公告·范围待确认",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [
-        "钢铁"
-      ],
-      "tags_en": [
-        "Steel"
-      ],
-      "language": "zh",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "complete",
-      "first_seen": "2026-10-09T07:14:21Z",
-      "last_seen": "2026-10-09T12:07:34Z",
-      "source_excerpt": "CTI华测检测旗下机构获CBAM核查资质，覆盖全部六大管制行业 搜狐网",
-      "coverage": "核读华测发布的9月23日公告；六行业与首家为企业陈述，尚未独立核认证书附件。",
-      "evidence_url": "https://www.prnasia.com/story/549120-1.shtml",
-      "review_method": "source_checked",
-      "reviewed_at": "2026-10-09",
-      "related_sources": [
-        {
-          "name": "ThePaper.cn",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92c2JsU1RYdktweEVwcENDcktHMU5pZmJjYjN0bTVBV3lOT05qTmQwM1VjMTdRSVk1Q1BBdnNwQUlJU2pPakpLQWdvall5NDNrdmNtaXowNU15RTlXcmc?oc=5"
-        }
-      ]
     }
   ]
 }
