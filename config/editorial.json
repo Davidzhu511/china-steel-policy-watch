@@ -4667,5 +4667,31 @@
     ],
     "evidence_url": "https://www.hk01.com/article/60401197",
     "coverage": "2026-10-22：已读HK01实质正文，并核对欧委会钢铁监测咨询当前页面；未取得BBC完整采访，不据报道独立确认配额总额或各国适用表。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWszMXRaN0p0ZDI0a0NVMUZ0cThwNW1Ta1JnRW9PVm9rUTlXaG5lakNOSnFNcWZwVFdLRDVnVlREN3pQVmhpUlczUlNGLXpNOXJueGxreGo4S2NEWU9Ca1BST1lSeDVURmpoaGxJalRQV3VjTVVKYTVuRlNha2NPelQzVG1EOGg2bmZBMmdMUXU3eEpfT3FkZmttUzl5RUlTLVhWcXM1QU5tVnhJQjhNVFAyYw?oc=5",
+    "published_date": "2026-10-16",
+    "reviewed_at": "2026-10-22",
+    "title_zh": "非洲出口商碳足迹评论须区分CBAM与EUDR，原文2024年适用日期已过时",
+    "title_en": "African-exporter footprint commentary conflates CBAM and EUDR; its 2024 application date is obsolete",
+    "summary_zh": "已读Capmad全文并核对欧委会环境总司现行说明：原文把EUDR适用日写为2024年12月30日，已过时；当前大中型经营者为2026年12月30日，多数微小型经营者为2027年6月30日，原EUTR覆盖的微小型经营者为2026年12月30日。EUDR针对所列农林商品及衍生品的无毁林尽调，不能当作钢铁CBAM一般碳足迹义务。CBAM对钢铁核算则须用其规定的产品和装置排放边界，不能把运输、土地利用等全生命周期数据直接照搬。",
+    "summary_en": "Capmad’s full article was checked against DG Environment’s current guidance. Its 30 December 2024 EUDR date is obsolete: large/medium operators apply from 30 December 2026, most micro/small operators from 30 June 2027, and EUTR-covered small operators from 30 December 2026. EUDR due diligence for listed agricultural/forest products is distinct from steel CBAM accounting; transport and land-use lifecycle footprints cannot simply replace CBAM product/installation boundaries.",
+    "impact_zh": "中国钢厂应向欧洲客户交付适合CBAM口径的可核查数据，先按商品编码确认法定义务，再区分客户自愿采购要求。不要因文章并列两项制度，就给全部钢铁出口增加EUDR地块定位要求；涉及具体农林产品时另查其清单及适用日期。",
+    "impact_en": "Provide steel customers with CBAM-compatible verified evidence and distinguish law from voluntary buyer requirements. This combined commentary does not impose EUDR plot-geolocation requirements on all steel exports; separately check any actual agricultural/forest product.",
+    "category": "碳与环保",
+    "status": "媒体评论／已纠正旧日期",
+    "importance": "中",
+    "tags": [
+      "CBAM",
+      "日期更正",
+      "制度边界"
+    ],
+    "tags_en": [
+      "CBAM",
+      "date correction",
+      "separate regimes"
+    ],
+    "evidence_url": "https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en",
+    "coverage": "2026-10-22已读Capmad原文（https://www.capmad.com/post/cbam-and-eudr-why-european-buyers-now-demand-carbon-footprints-from-african-exporters/）全文及欧委会环境总司现行页面；完成制度区分和旧日期纠正，未认证其南非贸易金额、企业项目或农林链个案，也不作EUDR全部商品法律评注。"
   }
 ]
