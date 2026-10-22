@@ -178,12 +178,21 @@ def _apply_editorial(items: list[dict[str, Any]], config: dict[str, Any]) -> Non
         source_date = item["published_at"][:10]
         match_date = review.get("match_published_date", review.get("published_date"))
         if source_date != match_date:
+            # Normalize a date-only correction already applied by this review.
+            # This does not apply any review text to a different source revision.
+            if (review.get("match_published_date")
+                    and source_date == review.get("published_date")
+                    and item.get("review_method") == "source_checked"
+                    and item.get("reviewed_at") == review.get("reviewed_at")):
+                item["published_at"] = source_date + "T00:00:00Z"
             continue
         # Some feeds expose an observation date rather than the date printed in
         # the official document. Keep exact-version matching on the observed
         # revision, then show the source-backed publication date on the board.
         if review.get("match_published_date") and review.get("published_date"):
-            item["published_at"] = review["published_date"] + item["published_at"][10:]
+            # The correction establishes a calendar date, not the old feed's
+            # time of day, which could otherwise display as the following day.
+            item["published_at"] = review["published_date"] + "T00:00:00Z"
         item.update({key: review[key] for key in fields if key in review})
         item.update(translation_state="complete", review_method="source_checked",
                     reviewed_at=review["reviewed_at"])
