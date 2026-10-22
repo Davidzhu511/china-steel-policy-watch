@@ -374,6 +374,39 @@ def test_editorial_can_correct_feed_observation_date_after_exact_match():
     assert item["review_method"] == "source_checked"
 
 
+def test_date_only_correction_avoids_timezone_rollover_without_reviewing_new_version():
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+
+    review = {
+        "url": "https://example.com/article",
+        "match_published_date": "2026-10-19",
+        "published_date": "2026-10-20",
+        "reviewed_at": "2026-10-22",
+        "title_zh": "Reviewed version",
+    }
+    config = {"editorial": [review]}
+    item = {"url": review["url"], "published_at": "2026-10-19T22:38:05Z"}
+    pipeline._apply_editorial([item], config)
+    assert datetime.fromisoformat(item["published_at"]).astimezone(
+        ZoneInfo("Europe/Berlin")
+    ).date().isoformat() == "2026-10-20"
+
+    # Repair the timestamp created by the former time-preserving implementation.
+    item["published_at"] = "2026-10-20T22:38:05Z"
+    pipeline._apply_editorial([item], config)
+    assert item["published_at"] == "2026-10-20T00:00:00Z"
+    pipeline._apply_editorial([item], config)
+    assert item["published_at"] == "2026-10-20T00:00:00Z"
+
+    newer = {"url": review["url"], "published_at": "2026-10-20T22:38:05Z",
+             "title_zh": "New source version", "translation_state": "pending"}
+    pipeline._apply_editorial([newer], config)
+    assert newer["title_zh"] == "New source version"
+    assert newer["published_at"] == "2026-10-20T22:38:05Z"
+    assert "review_method" not in newer
+
+
 def test_identical_syndicated_news_keeps_related_source_links():
     common = {"published_at": "2026-09-28", "first_seen": "2026-09-28", "translation_state": "pending"}
     rows = [{**common, "url": f"https://example.com/{source}",
