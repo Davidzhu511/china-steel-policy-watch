@@ -687,12 +687,12 @@
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12Q05ZYVJaVFU3SU9uWXI4TzdiaWNHejlkVTBreXg2cnNRZVBDdEZUTG02R1U2QUZ4WklTSEYxN1hTWEtkS3RsSXlCNmhJMlcxWjdwVWp5aWFkNXhrVi00R2lIWlI?oc=5",
     "published_date": "2026-10-21",
     "decision": "blocked",
-    "reason_zh": "已读媒体全文，但其将议会谈判立场写成覆盖结果，并泛用单一中国钢铁排放值测算税差；未取得可核对的议会附件及最终文本。下一步核对EP/理事会提案、最终CN清单和门槛，不采用960元/吨等推算。",
+    "reason_zh": "已读媒体全文，并经欧洲议会官方备用PDF读完9月15日新闻稿：464/50/159是谈判立场票数，非最终生效法规。新闻稿未列出其所称光伏CN清单或5吨门槛；官方现行CBAM问答仍列一般50吨。下一步取得议会修正案附件及后续正式文本后逐项核对；不采用单一中国钢铁排放值或960元/吨推算。",
     "reason_en": "Evidence remains incomplete. The Chinese note records the precise access or primary-document gap and next verification step; not marked as source checked.",
     "attempted_at": "2026-10-22",
-    "evidence_url": "https://www.sxcoal.com/news/detail/2112830120865812482",
+    "evidence_url": "https://www.europarl.europa.eu/pdfs/news/expert/2026/9/press_release/20260911IPR47450/20260911IPR47450_en.pdf",
     "title_zh": "媒体讨论光伏CBAM扩围：最终清单、门槛及测算仍待官方核验",
-    "coverage": "2026-10-22：全文媒体可读；未完成其核心政策主张和具体税差的原始法规核验。"
+    "coverage": "2026-10-22已读媒体全文、欧洲议会官方三页新闻稿及OEIL程序摘要；仍缺光伏产品具体附件及门槛主张证据，保留未完成状态。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd01xTE1lNlRmZERGbjZBVGQ3U1IxZHM3Q2J2elUtZzlOb201WVRKMWo1VnVsTzdsY3FkdFh0QVRaMGI1UlNYRnNPU3FaaWJwZU1NS0VLbGdMaTFoMk5fLUwzdUFxNmk5N0V6V0ttOUk1Z0FLU0tSSWNGX29TTVczc3RHQjJhRzZlMWQ2LWVuSWpHT2VUV3BIdjh2azJTQ3Fs?oc=5",
