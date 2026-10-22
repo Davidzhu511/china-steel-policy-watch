@@ -418,9 +418,11 @@
   function followUp(item) {
     if (!item.follow_up) return "";
     const task = item.follow_up;
-    const overdue = Date.now() > new Date(`${task.due_at}T23:59:59+02:00`).getTime();
-    const text = state.lang === "en" ? task.action_en : task.action_zh;
-    return `<div class="follow-up"><b>${escapeHtml(t(overdue ? "overdue" : "followUp"))} · ${escapeHtml(task.due_at)}</b><span>${escapeHtml(text)}</span></div>`;
+    const dueAt = typeof task === "object" ? task.due_at : "";
+    const overdue = dueAt && Date.now() > new Date(`${dueAt}T23:59:59+02:00`).getTime();
+    const text = typeof task === "string" ? task : (state.lang === "en" ? task.action_en : task.action_zh);
+    const dateLabel = dueAt ? ` · ${escapeHtml(dueAt)}` : "";
+    return `<div class="follow-up"><b>${escapeHtml(t(overdue ? "overdue" : "followUp"))}${dateLabel}</b><span>${escapeHtml(text || "")}</span></div>`;
   }
 
   function filteredItems() {

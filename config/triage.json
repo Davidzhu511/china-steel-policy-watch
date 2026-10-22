@@ -384,17 +384,6 @@
     "reason_en": "Original reporting checked; the same event is covered by the verified main item. Original link retained."
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUlvLUgySXdBZHNCczhZUkt4MHNFUDdyNXJ2ZTFyRnNuVXdBN3B6Z2k0Z3VKeURVN0pzb2VmS0dvNkxTbmxLZUZBUmtxbTZQa3hxdmE3M3d1dUNxbjFTdlhBTEI5MjRJeG9uVHplTzNXSTJmcktaZmpFVF9ZQ0NWWGhQdWlQLWRvdmVqSzVYOUU0bzhLcldjM0FLSVhyRV9TZk9JVGh5YlFnSFRVTTlKRWdGTEVXbVN2a1ZfUA?oc=5",
-    "published_date": "2026-10-07",
-    "decision": "blocked",
-    "title_zh": "瑞典钢企Stegra担忧欧盟ETS改革讨论方向",
-    "reason_zh": "10月14日再次检查Montel原文，公开页仍只有标题和导语并要求注册；Stegra官网未找到对应声明，Energy Reader二手摘要不足以核实高管完整表述和上下文。下轮继续重试原文及公司官方渠道。 核验入口：https://montelnews.com/news/2b9a0aa3-63a3-44d0-a0bb-33cd302dcf40/swedish-steel-maker-laments-tone-of-eu-ets-reform-talks",
-    "reason_en": "Original or required primary evidence remains unavailable. Retry the public publisher/official evidence entry next run; headline-only coverage is not a completed review.",
-    "attempted_at": "2026-10-14",
-    "evidence_url": "https://montelnews.com/news/2b9a0aa3-63a3-44d0-a0bb-33cd302dcf40/swedish-steel-maker-laments-tone-of-eu-ets-reform-talks",
-    "coverage": "准确标题／有限公开线索；未完成原文全文研判。"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPczZrZkJQSUhoTDNjQmRGek1CclVMOUt3YXQ0dU5yZm4tZU53U1VrOFd2UXUzRW0tVHRCNkJrSVJoTW03RFJkdDBPQTZPbEtzY0RvMzdYWFQyaXpjVWlqOUlmZGVzMWxEU3JfbWUxakNaTG5UaF8zYk0yeHhRa0dJTnN1T29EZ1V2U09QVVliS2VsMUVqTkx2a3hGYVd4ZVNIdkNITlFLbFBJRFhBRWRJaHpETE1qSlA2QndLb0tYR3d0QWs2WVF3UXp6N0I2RjdVSS1CS3BPYno5VzFYR0Nn?oc=5",
     "published_date": "2026-10-05",
     "decision": "blocked",
@@ -553,5 +542,222 @@
     "reason_en": "Quantum Commodity Intelligence covers the same USTR Federal Register CBAM request for comments. Merge it into the source-checked main brief so possible retaliation is not presented as an adopted enforcement or tariff action.",
     "attempted_at": "2026-10-14",
     "duplicate_of": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0pINE8xZDkwNjJ1cHBBZ3F0MVZwMGFuZTJPd3BPeTJ1UlRBeGxhZnYxZjB4Zk5CT1RCUmFLT3RsZ1JBRTBTRnNNa20tSFJIOXBQeml0Smc5aWxsblFQQWpRZkVnbFYwZE54N2J3TTQyQ1pQMk9xcnNpQzAwVGJCS3A3bHBET2JLUkJkYzF6NEExdVpRMmF3aFhFdm5MZnFPd1BkTjhjZFZnSzdTekJCMzQyZ1Q?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNnU3ZC1WdXV2RnVuUVNLZmxBSnY1TV81bFpGakxJcGhHeTlxZWRjT2F5N19KUElHellfVVF2dVFwMFNmRnVvd3FyLVUtWmE3N1l0dHF0dVduZTVHNWZQSzRjVFBGdGdjX0ZBWGpfUmVHS3p0dXBjMlYtdkU1NXgzXw?oc=5",
+    "published_date": "2026-10-22",
+    "decision": "duplicate",
+    "reason_zh": "本条所述发布／事件已由已核验主条目覆盖，归并保留转载链接；不将转载自动视为独立政策。",
+    "reason_en": "The same event is covered by the verified main item. Retain this source link; limited-access titles/leads are not represented as full-text verification.",
+    "attempted_at": "2026-10-22",
+    "duplicate_of": "https://gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-policy-summary"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEJBdmtNeDBYLWNkcUl6cE91eWtBRVpTZEZ5aG1lbk5LTXNTdjBTNnlQV0N1QV9KQWlUcXl3bmhOUDhLN2lHMzNKT0VpRGdQM3BJTUl3a1djOTdRTkEtbWtBVW05NkRNdGJ2R2FZQ0EzSlhteFFESGtFdTd1UnlDdk1qa9IBiAFBVV95cUxOWjM0b0pDTzZMX3p0VzlTOGdJWC12WVBySDlyS2pYSXpneVRScnRYUkI2czN5a2VoZzlEZ1gzeXN2TUE3ODdqaGZ5VW9Ic09Qbmxvd2RYaENvZWpVNjhoRkV3SzYwYzJQaVRub1d6dXg5czJVWXFNRlFJczZFS19OcTk3cmRDRFJa?oc=5",
+    "published_date": "2026-10-21",
+    "decision": "duplicate",
+    "reason_zh": "本条所述发布／事件已由已核验主条目覆盖，归并保留转载链接；不将转载自动视为独立政策。",
+    "reason_en": "The same event is covered by the verified main item. Retain this source link; limited-access titles/leads are not represented as full-text verification.",
+    "attempted_at": "2026-10-22",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZFVEdEJqeTkwYk5ZckFmY1Q3S2ZoV3luY2FjOGZiWHY1MHhGQ3hVc1NJaGpLelRLZU5ScHZ2bkg0YUxFZWcwdWFjMUN2RkhFNnlLUDdsQXVId0s3Y3VDZnNNSDh4X094SkY3dmpnUGdTSWpyR05GX0EycWpFOUdFbFQ4UQ?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONTc4cG9OZzg2U3BkNXhlM3RIbzRIN1gwOUg5dlV1M2U3R29UVFd5U2lrTTY3SllFaEpvVVdEOGgxV0cyZ0dSMFpkWDctQzRhWE5KS003OW5NWlNjZ3E3SzdBalNhWFVKSndWZUN3RF9kSmZuXzctTUtnZ3JibUdZbUpyalhOUlBITWtSTlR0NFl0bV9TNnQ0N25iWDQyYmxMblZB?oc=5",
+    "published_date": "2026-10-20",
+    "decision": "duplicate",
+    "reason_zh": "公开标题／导语所述事件与已核验主条目一致；原站正文访问受限，仅归并重复线索，未冒充阅读全文，保留原链接。",
+    "reason_en": "The same event is covered by the verified main item. Retain this source link; limited-access titles/leads are not represented as full-text verification.",
+    "attempted_at": "2026-10-22",
+    "duplicate_of": "https://gov.uk/government/publications/illustrative-cbam-rates-and-worked-example-for-carbon-border-adjustment-mechanism-cbam"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR1U3T0IwR2VfVGVIUHNkRzdWZHNLZGgtTDBXWFg0M2xGLXFJQ1dPaUZrdHFRSG40bnAxd3N1YlFMLUZ5QUUzS2I1SGhpTDVqX2ZWb2JBY2dObEFidWxrQ3BzVnpibXpraXFvcFpMVndGNS1qbGk1bHdZalFyWDYxOUNxVmZhUng0YlpXOTVyYnotcW9JSUlsTU1BcHczaUJhckVueWZMelFVck0?oc=5",
+    "published_date": "2026-10-19",
+    "decision": "duplicate",
+    "reason_zh": "本条所述发布／事件已由已核验主条目覆盖，归并保留转载链接；不将转载自动视为独立政策。",
+    "reason_en": "The same event is covered by the verified main item. Retain this source link; limited-access titles/leads are not represented as full-text verification.",
+    "attempted_at": "2026-10-22",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeERIQnBLMWdJQkQ3eWdIQzg0S1RTbmhMUlY4QW5EdDlSa2hQM2x3N3Fpclk2Y3VLVnhiVXR4RmRjdjdJYnlHX05DTGVyUkZqdExDNktfNUxfSEtKcVhLMVBuZm5PeHBxU29wbGFYY3FVcllPSE4tVC1yZmtmR04zcnk0OG1nZXA1RGRzYjlqemRWVXhlcDdzajY5eGEtRW4x?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSjhuRDE1d3hmYWZIMzk0dGVNM2JlRlI2RnpNTF9qMk9RTDFsVC1iV1ZPSXd5WjZsYWJBUzdGOFJianNsR1VocjcyNFYwVjUxa1pYZXZqMXpkNkpicFFSTnZSMVloOU12anlOUWtOSUlCRU9DZnF0NmF6d2JGdHdhQlRJUFhheTA?oc=5",
+    "published_date": "2026-10-19",
+    "decision": "duplicate",
+    "reason_zh": "公开标题／导语所述事件与已核验主条目一致；原站正文访问受限，仅归并重复线索，未冒充阅读全文，保留原链接。",
+    "reason_en": "The same event is covered by the verified main item. Retain this source link; limited-access titles/leads are not represented as full-text verification.",
+    "attempted_at": "2026-10-22",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFJOSEtCWnJQU21nVnIwRTA2UVRpcFNvNVlmekRTSmRsTjBzYlp5R0tYZDFELWowbmhaU2MtbFV0T0M4aVQxZi0zakQ2djh4cmRLVXk3MVM3bTdma29mSEtHYjV6ZDBBS1IwSkZqMGRoc2IwNkpDT3gzbGw4NmE2N3ZxS2RvVnFHWnpKZ2VZLUNrWDVEVkcxeWw1SFVXSVpmNVN2TDFtdw?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbHJkd1ZlbVh3bk5PUVdSMVZYWFFDbjM0bWpCbUtjOHZnOW8wNjF2Q3VZSTB1SF9DMjJYV0F4eHNGZDZBYUF2SUZwYnhqZXFVbmU5M2dmN3FyLWlobXl5T200dUFNVGlXbjY3X29zRnEwWG5scXNPQWZUQkpzX2l5OTV0b2IyX2Q2a0tYQTBId1B3b3A3ODZLVTg1a2VlVU9ZNFloTEctZzdEdzhsQ1N1TXIwWEtuRVR3TFc0MkZ30gG-AUFVX3lxTFBscmR3VmVtWHduTk9RV1IxVlhYUUNuMzRtakJtS2M4dmc5bzA2MXZDdVlJMHVIX0MyMlhXQXh4c0ZkNkFhQXZJRnBieGplcVVuZTkzZ2Y3cXItaWhteXlPbTR1QU1UaVduNjdfb3NGcTBYbmxxc09BZlRCSnNfaXk5NXRvYjJfZDZrS1hBMEh3UHdvcDc4NktVODVrZWVVT1k0WWhMRy1nN0R3OGxDU3VNcjBYS25FVHdMVzQyRnc?oc=5",
+    "published_date": "2026-10-19",
+    "decision": "duplicate",
+    "reason_zh": "本条所述发布／事件已由已核验主条目覆盖，归并保留转载链接；不将转载自动视为独立政策。",
+    "reason_en": "The same event is covered by the verified main item. Retain this source link; limited-access titles/leads are not represented as full-text verification.",
+    "attempted_at": "2026-10-22",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFJOSEtCWnJQU21nVnIwRTA2UVRpcFNvNVlmekRTSmRsTjBzYlp5R0tYZDFELWowbmhaU2MtbFV0T0M4aVQxZi0zakQ2djh4cmRLVXk3MVM3bTdma29mSEtHYjV6ZDBBS1IwSkZqMGRoc2IwNkpDT3gzbGw4NmE2N3ZxS2RvVnFHWnpKZ2VZLUNrWDVEVkcxeWw1SFVXSVpmNVN2TDFtdw?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQenhwNWZYeGhEVm1pM0Q2MjQtVktBZUh4UG5OOUJDbW5nQnZseVRBeGUyYnd3ZldiS3ppUXFOZHJCX3dDamlBU0lBcjdDNlQydFFvb0Q3S1hrZ3gzaUl0alNvamZyMUtaV0tkSWNBbnhZWkoxX1NHVVE0SWFraXRfd0p0MkttQVNPLW5JYWhmci1pQm04UnpWS05xTnFJQzRaY2RrMVlqYw?oc=5",
+    "published_date": "2026-10-16",
+    "decision": "duplicate",
+    "reason_zh": "本条所述发布／事件已由已核验主条目覆盖，归并保留转载链接；不将转载自动视为独立政策。",
+    "reason_en": "The same event is covered by the verified main item. Retain this source link; limited-access titles/leads are not represented as full-text verification.",
+    "attempted_at": "2026-10-22",
+    "duplicate_of": "https://gov.uk/government/publications/check-the-default-values-for-the-carbon-border-adjustment-mechanism-cbam"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNdWw3Q2xFY3BpbjctNDI1ZlRHRnYzZmRkZldRTTJBbHVnOW5iXzdoSEl0c0R0Q0NUckVIcmZFdVhCX3FQTUhKaXhSbTdDMU54N2twdEtHY1gtR0lhUlB0amc1QnpYQ3U1cEdjWGlMbEg4Tm1udmtVNGdkaFM4bEUtX1ZHU25uNG1YY1drbm1ocWNjMkFraHVrOXBSUzBlSnJ3WGp3RW5KVHIydjE3cTRPOXhLRWhNWnJONGhILUxfRmNVaWJQX2gydXJVWldCQUZjNDhMdDhRbnQ0VDcxdkZpX0c1NFl1c0prNUNBaU9EZ0g1NnZ1SkpaSDNLbmJiSHZBMjJXNHNuRmNqSjlXUVRhWnBnOXgtYUdaZ1VpaUNEdkhEOC16dzlmQWpheVJUdWZ2NFU5ZlprS1U2Qm5NQXc?oc=5",
+    "published_date": "2026-10-16",
+    "decision": "duplicate",
+    "reason_zh": "本条所述发布／事件已由已核验主条目覆盖，归并保留转载链接；不将转载自动视为独立政策。",
+    "reason_en": "The same event is covered by the verified main item. Retain this source link; limited-access titles/leads are not represented as full-text verification.",
+    "attempted_at": "2026-10-22",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQalFLRDJwUHhzRDZKakZWUXh4WThkY2VkTlRBREdyQzYwLVE1T3RORUEzY1J2ZXJnazljdXJqTGlpMGJFdlpsVmE0YzJaWjR4eWVtWkk2YkJxTTVPOEtHaUtHREVlbUp1SXo4UmoteTVYYVhGcEpxUURrQmx2NFI5SXJlMndyYlZvWG0td05RZ19WWVJVUzgwOGd2V3Rha2Y3MjJYT3k4V2Q2S2dKWVVIcW4tSXcyRDZDS2l6V19yUkU1ZDU1bVZNZE5iMGFka1NQejA5QTB1a21pQUxBVXEtVzZR?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPczdzZURlSnRnOFpRT3UzTEIwV0Zja0paeHY1cTRuM0szdDducmktNm45Uk5RMWsxU21CR2F6ZUJ0WnNmWHcxbTZmYldpQ2Y4a2dqS1d0SDh3QndRU2YxUGRzQjJtWGFtN2lZcDhGX0huU2NBMnN5YVdvR2V1Z0ZRNEVFNDVJcVI4QWoyOXRtcHFJX2h0Y3pEUFdsbkJUdndL0gGmAUFVX3lxTE1CTlB4NVBwRUN6bGc1Q0g5SjVfOF9ld0JibVdpb0ZkZ2FiRU85ZzB6eEVpUjhVS29DSlFlQUQzdUZpWktZY3FuTHVpbUFhcDdHVDNGYUgzaGxKVFBHRkFtMi01Y1I1bmtKd2JBc3lKMDBjRDBMcHNmMThGQlV5ZE1URmE0NGJUbk9EOFB4cXMwWG9XVWJ3a0dMQnQ0VGQxZ194UXVEalE?oc=5",
+    "published_date": "2026-10-15",
+    "decision": "duplicate",
+    "reason_zh": "本条所述发布／事件已由已核验主条目覆盖，归并保留转载链接；不将转载自动视为独立政策。",
+    "reason_en": "The same event is covered by the verified main item. Retain this source link; limited-access titles/leads are not represented as full-text verification.",
+    "attempted_at": "2026-10-22",
+    "duplicate_of": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=CELEX%3A52026XC05244"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV3hoQmNpVWRicHVKM2JFTDFCSjBlaHRLQXdTUnJxQkYzV1Ayb0JmUDJpMlZVSkk5b3VZZXJTaEY1cF91MjZSZENSSGpBdC1ETWE5bDI1SEhfUkNzWU5YUXVvajZMSDA5NmxTLTRSRER4Ql9hSmlOZ0tHcVRfQ3VURTRZNDk3V1hyR0HSAYoBQVVfeXFMUFd4aEJjaVVkYnB1SjNiRUwxQkowZWh0S0F3U1JycUJGM1dQMm9CZlAyaTJWVUpJOW91WWVyU2hGNXBfdTI2UmRDUkhqQXQtRE1hOWwyNUhIX1JDc1lOWFF1b2o2TEgwOTZsUy00UkREeEJfYUppTmdLR3FUX0N1VEU0WTQ5N1dYckdB?oc=5",
+    "published_date": "2026-10-15",
+    "decision": "duplicate",
+    "reason_zh": "本条所述发布／事件已由已核验主条目覆盖，归并保留转载链接；不将转载自动视为独立政策。",
+    "reason_en": "The same event is covered by the verified main item. Retain this source link; limited-access titles/leads are not represented as full-text verification.",
+    "attempted_at": "2026-10-22",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNkpObDlNenZJMzRxa0hnZjRYcGFuelZ6QlVNU005N2RiUlh0RGVoLVNkLTlsTXJLZHFUT0lrTFdkTXBCU0lKUHQxOWx6SkpJREdwUkZMLXJkaFJKVVRFOUs0bE5zUDZ1QTVHMjRSell3ckI5SVB0b0lYbHdkcmU5M0xMVHhoWjc0Znp3TQ?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02MmdPckI0UTlzX1lhUjktR3djTTVZU214dmMwVTVpQ2QtelRlY0pmOUhqT1RMR2xXbGp5Q2RwZ0t0NF80bWNhb1J5QnVFUERYbXRTQzZWejZkanhlS3hKWVRDNUkwc0o5U1RCQ2dHZVYwWTN3WndSa01n?oc=5",
+    "published_date": "2026-10-14",
+    "decision": "duplicate",
+    "reason_zh": "公开标题／导语所述事件与已核验主条目一致；原站正文访问受限，仅归并重复线索，未冒充阅读全文，保留原链接。",
+    "reason_en": "The same event is covered by the verified main item. Retain this source link; limited-access titles/leads are not represented as full-text verification.",
+    "attempted_at": "2026-10-22",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0pINE8xZDkwNjJ1cHBBZ3F0MVZwMGFuZTJPd3BPeTJ1UlRBeGxhZnYxZjB4Zk5CT1RCUmFLT3RsZ1JBRTBTRnNNa20tSFJIOXBQeml0Smc5aWxsblFQQWpRZkVnbFYwZE54N2J3TTQyQ1pQMk9xcnNpQzAwVGJCS3A3bHBET2JLUkJkYzF6NEExdVpRMmF3aFhFdm5MZnFPd1BkTjhjZFZnSzdTekJCMzQyZ1Q?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWVvdnpRa1ZPaUQtcU5Ed3NZQndoeHl2LVpLdnRXYmNuMjljRjQ4U0R3cW8zNDVqSWdMNWpxVU5ZMmRQYkt3M244NUx1bHE5Tmk0NEVPOC1BOWh1Z1pLU0w3QzFQQkZzbF9SQjFESG1GN0lxRUxOOEtTbWthNDZQOEx5MFNIX05FYXI3MVR4U19ZOThLdjJtYVZla182OTRNN3BKeV9veXRaajJZLTFLZWNvSk9nMFBXV0VUTHJnRQ?oc=5",
+    "published_date": "2026-10-13",
+    "decision": "duplicate",
+    "reason_zh": "公开标题／导语所述事件与已核验主条目一致；原站正文访问受限，仅归并重复线索，未冒充阅读全文，保留原链接。",
+    "reason_en": "The same event is covered by the verified main item. Retain this source link; limited-access titles/leads are not represented as full-text verification.",
+    "attempted_at": "2026-10-22",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0pINE8xZDkwNjJ1cHBBZ3F0MVZwMGFuZTJPd3BPeTJ1UlRBeGxhZnYxZjB4Zk5CT1RCUmFLT3RsZ1JBRTBTRnNNa20tSFJIOXBQeml0Smc5aWxsblFQQWpRZkVnbFYwZE54N2J3TTQyQ1pQMk9xcnNpQzAwVGJCS3A3bHBET2JLUkJkYzF6NEExdVpRMmF3aFhFdm5MZnFPd1BkTjhjZFZnSzdTekJCMzQyZ1Q?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ0ljRkZiTlZGcHlDYTNYdTI0OWNPS3BQdURpb195NUpSZkk5dkZNTkR1YlR4UkkwOUgzR2FFQnVJOHhlN3N2ZmluZi12UTBtckJsYjJ1NUZqNkI0YXBLZWJ4Z1RrWHhMM3VEclNXM05TQlNDQUZKZENKM2JvX1d2WFlnOXRoaHFzblI5TG56aXhmR1Rrd3dCQ2xPS2xkdnZVVzRzYTl4MEtQdDlqeDBpNElna0lhWldXbEo3WmRUYWRROXlPMmRYVTJTYWVXTlVIcm4tZkxSM0otOVUtSnRUQ2RHdm9xYkd3VDN1MG9POA?oc=5",
+    "published_date": "2026-10-20",
+    "decision": "excluded",
+    "reason_zh": "厂商推荐榜及企业推广稿，不是可核验的新政策或独立行业新闻；保留历史链接。",
+    "reason_en": "Archived as promotional, equity-valuation or non-steel material outside the board’s direct business scope; source history is retained.",
+    "attempted_at": "2026-10-22"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOajVKU0pWbFhKSkluX3cyMC1TTVBCR1dJVE15Q3dtUEFNZ2c4emhRZDdobGdqeWM5c2U1OFhLOFVfdjFEREVuanRVTkxsQ3J5d3c4VV9UbkR3UWYtRGRDRlF6d0VLMjRjNllheEJJT1hScXlnNlowR1B0dldyVDM2RTVLLVRhREdlT3N5b1lZQ1llMFZPSjZSc1RzbWJCMXVjY2JYR2pVY2lSekN6UUg0N05ITGtJVWZ0WVVROHBUcTFzb2RpaXc?oc=5",
+    "published_date": "2026-10-20",
+    "decision": "excluded",
+    "reason_zh": "以券商目标价、股票估值和财报日历为中心的聚合稿；所提沙特项目无本轮可核验的新增正式进展，按股票估值噪声归档。",
+    "reason_en": "Archived as promotional, equity-valuation or non-steel material outside the board’s direct business scope; source history is retained.",
+    "attempted_at": "2026-10-22"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DMlprakZtZ2d1c091UE44SjBBSGJ1eUhMS0h6bkRaeEJJV3JQMWh3c0ZNa2tlWkFhM0NHZEltYzBBQmhvT1U3Qnc1X0N5aTM2a1Fhd25LZUNIZ2xSMkVtU1hBUEN5emZx?oc=5",
+    "published_date": "2026-10-19",
+    "decision": "excluded",
+    "reason_zh": "机床等机电产品统计，未提供钢铁贸易或钢材政策的直接新增事实；超出本看板核心范围。",
+    "reason_en": "Archived as promotional, equity-valuation or non-steel material outside the board’s direct business scope; source history is retained.",
+    "attempted_at": "2026-10-22"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56cGgwTlQ5RnB2R1d2aE4xenB3YXVxYUZfbzBhMmNPX3pfMGZaWG9xcS1obWZRQkRnZmJYa0w0Uk9kekhLd1l1aUFoM3Mydng0RExKOEotWVByYWxEUW1GU3pZT1pwYlJ2?oc=5",
+    "published_date": "2026-10-16",
+    "decision": "excluded",
+    "reason_zh": "公告涉及AI、生物医药和光伏技术出口，未涉及本轮钢铁产品政策；不因泛用出口关键词纳入钢铁动态。",
+    "reason_en": "Archived as promotional, equity-valuation or non-steel material outside the board’s direct business scope; source history is retained.",
+    "attempted_at": "2026-10-22"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12Q05ZYVJaVFU3SU9uWXI4TzdiaWNHejlkVTBreXg2cnNRZVBDdEZUTG02R1U2QUZ4WklTSEYxN1hTWEtkS3RsSXlCNmhJMlcxWjdwVWp5aWFkNXhrVi00R2lIWlI?oc=5",
+    "published_date": "2026-10-21",
+    "decision": "blocked",
+    "reason_zh": "已读媒体全文，并经欧洲议会官方备用PDF读完9月15日新闻稿：464/50/159是谈判立场票数，非最终生效法规。新闻稿未列出其所称光伏CN清单或5吨门槛；官方现行CBAM问答仍列一般50吨。下一步取得议会修正案附件及后续正式文本后逐项核对；不采用单一中国钢铁排放值或960元/吨推算。",
+    "reason_en": "Evidence remains incomplete. The Chinese note records the precise access or primary-document gap and next verification step; not marked as source checked.",
+    "attempted_at": "2026-10-22",
+    "evidence_url": "https://www.europarl.europa.eu/pdfs/news/expert/2026/9/press_release/20260911IPR47450/20260911IPR47450_en.pdf",
+    "title_zh": "媒体讨论光伏CBAM扩围：最终清单、门槛及测算仍待官方核验",
+    "coverage": "2026-10-22已读媒体全文、欧洲议会官方三页新闻稿及OEIL程序摘要；仍缺光伏产品具体附件及门槛主张证据，保留未完成状态。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd01xTE1lNlRmZERGbjZBVGQ3U1IxZHM3Q2J2elUtZzlOb201WVRKMWo1VnVsTzdsY3FkdFh0QVRaMGI1UlNYRnNPU3FaaWJwZU1NS0VLbGdMaTFoMk5fLUwzdUFxNmk5N0V6V0ttOUk1Z0FLU0tSSWNGX29TTVczc3RHQjJhRzZlMWQ2LWVuSWpHT2VUV3BIdjh2azJTQ3Fs?oc=5",
+    "published_date": "2026-10-19",
+    "decision": "blocked",
+    "reason_zh": "已读Seoul Economic Daily英文页面，页面自述为AI译文；与Yieh/SMM交叉发现KTC 2026-22号初裁及建议临时税率线索，但未取得KTC公告或财政部门生效令。下一步读韩文原稿和KTC/财政部公告，核对产品排除、HS及生效日期，不能把建议写成已经征税。",
+    "reason_en": "Evidence remains incomplete. The Chinese note records the precise access or primary-document gap and next verification step; not marked as source checked.",
+    "attempted_at": "2026-10-22",
+    "evidence_url": "https://www.sedaily.com/article/20103462?ref=sedailyEng",
+    "title_zh": "韩国锻造企业担忧中国钢棒反倾销建议：正式决定与适用范围待核验",
+    "coverage": "2026-10-22：媒体正文与二手交叉线索可读，原始初裁/实施法令尚未核验。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWZnWlpmdnplMXBjZk13djExUC0tZ1p5TVpWUmFvN01YRjVVNUlUdTRGOU1xUU5xUVNRcDdyTzRYS2gtMHVZU2FmMm4wTjRINlF4YUw4NWtid3FUYkxaaFhsUEhqaC1fUFdyR2txVzQyR1BqM2dYSWdlVjZiVlhvSDhvczcyV1AwQkkyYW1meFpFSGVZUlV2ZHlQSElGMW1MdTh1Z05TODYtanND?oc=5",
+    "published_date": "2026-10-16",
+    "decision": "blocked",
+    "reason_zh": "原站仅公开标题、导语和两段正文，随后为订阅墙；页面Digest Hub明确AI generated，未用它替代原文。下一步在合法可读原文或相关企业公开材料恢复后补全核验。",
+    "reason_en": "Evidence remains incomplete. The Chinese note records the precise access or primary-document gap and next verification step; not marked as source checked.",
+    "attempted_at": "2026-10-22",
+    "evidence_url": "https://www.caixinglobal.com/2026-10-16/in-depth-chinas-green-steel-ambitions-hit-a-red-light-102494074.html",
+    "title_zh": "财新：中国绿色钢铁商业化面临成本与买方溢价障碍（正文受限）",
+    "coverage": "2026-10-22：仅标题、导语及两段公开正文；没有阅读全文。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWszMXRaN0p0ZDI0a0NVMUZ0cThwNW1Ta1JnRW9PVm9rUTlXaG5lakNOSnFNcWZwVFdLRDVnVlREN3pQVmhpUlczUlNGLXpNOXJueGxreGo4S2NEWU9Ca1BST1lSeDVURmpoaGxJalRQV3VjTVVKYTVuRlNha2NPelQzVG1EOGg2bmZBMmdMUXU3eEpfT3FkZmttUzl5RUlTLVhWcXM1QU5tVnhJQjhNVFAyYw?oc=5",
+    "published_date": "2026-10-16",
+    "decision": "blocked",
+    "reason_zh": "已读媒体正文，但将EUDR起点写为2024-12-30且混合木材/可可与CBAM。下一步分别核对现行EUDR延期法规和CBAM编码，剔除不相关农林内容后再完成政策解读；不沿用该文旧日期。",
+    "reason_en": "Evidence remains incomplete. The Chinese note records the precise access or primary-document gap and next verification step; not marked as source checked.",
+    "attempted_at": "2026-10-22",
+    "evidence_url": "https://www.capmad.com/post/cbam-and-eudr-why-european-buyers-now-demand-carbon-footprints-from-african-exporters/",
+    "title_zh": "非洲出口商碳足迹评论混用EUDR旧日期，政策部分待校核",
+    "coverage": "2026-10-22：全文可读；政策日期及跨制度推论未完成原始法规核验。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QN0hJdXJGekRvU3hWYlF2RlhEcXZFbFF1QjlmVzVTRFlzM0VqN1o5ZDJXYUNlTUNaaE8zYXN1SVVVSHUzcVNiUDJYd3NMbFcyUkcyUjNKRXpxMDRaS3kwWERB?oc=5",
+    "published_date": "2026-10-13",
+    "decision": "blocked",
+    "reason_zh": "Google新闻入口无正文，已定位同题搜狐页面但原站403；搜索可见题目和片段不能验证各国调查、税率及生效时间。下一步恢复原文并逐国对照主管机关公告；不把“20多国”当作已审定清单。",
+    "reason_en": "Evidence remains incomplete. The Chinese note records the precise access or primary-document gap and next verification step; not marked as source checked.",
+    "attempted_at": "2026-10-22",
+    "evidence_url": "https://www.sohu.com/a/1087231433_122219860",
+    "title_zh": "评论称中国钢材面临多国壁垒：逐国措施与“20多国”统计待核验",
+    "coverage": "2026-10-22：仅同题来源线索和搜索片段，未读完整原文及各国政策。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95V182UWZ4WHNQbGMzS0NtOTR0Ym14UE9teDY5alk1U3JFcjlMazB1QnM2TjdvMDNXQ0VRSUhTSGRqNTQyUEZlRmlYdVlqLWszLWpIRXp1UTE1Y1pHUnRXbw?oc=5",
+    "published_date": "2026-10-13",
+    "decision": "blocked",
+    "reason_zh": "Google新闻入口无正文，定位到腾讯同题转载但直接访问仅返回限制页面；搜狐入口也未取得正文。下一步读取原作者正文及巴西CAMEX/MDIC公告，按产品、原产地和日期核验，不能以农产品采购推导钢材豁免。",
+    "reason_en": "Evidence remains incomplete. The Chinese note records the precise access or primary-document gap and next verification step; not marked as source checked.",
+    "attempted_at": "2026-10-22",
+    "evidence_url": "https://new.qq.com/rain/a/20261012A07GN700",
+    "title_zh": "评论讨论巴西钢材贸易保护与对华农产品出口，具体措施待核验",
+    "coverage": "2026-10-22：仅题目、同题转载与搜索摘要；未完成巴西具体法规核验。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUlvLUgySXdBZHNCczhZUkt4MHNFUDdyNXJ2ZTFyRnNuVXdBN3B6Z2k0Z3VKeURVN0pzb2VmS0dvNkxTbmxLZUZBUmtxbTZQa3hxdmE3M3d1dUNxbjFTdlhBTEI5MjRJeG9uVHplTzNXSTJmcktaZmpFVF9ZQ0NWWGhQdWlQLWRvdmVqSzVYOUU0bzhLcldjM0FLSVhyRV9TZk9JVGh5YlFnSFRVTTlKRWdGTEVXbVN2a1ZfUA?oc=5",
+    "published_date": "2026-10-07",
+    "decision": "blocked",
+    "reason_zh": "10月22日重试原站，公开导语后仍显示注册后继续阅读。仅确认Stegra担忧放松讨论，未据此推断具体改革条件或企业财务。下一步恢复合法正文或寻找企业公开声明；不绕过注册墙。",
+    "reason_en": "Evidence remains incomplete. The Chinese note records the precise access or primary-document gap and next verification step; not marked as source checked.",
+    "attempted_at": "2026-10-22",
+    "evidence_url": "https://montelnews.com/news/2b9a0aa3-63a3-44d0-a0bb-33cd302dcf40/swedish-steel-maker-laments-tone-of-eu-ets-reform-talks",
+    "title_zh": "Stegra担忧欧盟ETS放松讨论影响低碳投资，Montel正文仍需注册",
+    "coverage": "2026-10-22：标题、作者、10月7日时间及一段导语已核对，全文不可读。"
   }
 ]
