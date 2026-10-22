@@ -16,9 +16,8 @@ def _rss(items: list[dict], generated_at: str) -> str:
         checked = item.get("translation_state") == "complete" or (
             not item.get("translation_state") and bool(item.get("summary_zh"))
         )
-        machine = item.get("machine_translation") or {}
         title = html.escape(
-            (item.get("title_zh") if checked else machine.get("title_zh"))
+            (item.get("title_zh") if checked else None)
             or item.get("title_original") or ""
         )
         link = html.escape(item.get("url") or "", quote=True)
@@ -27,8 +26,6 @@ def _rss(items: list[dict], generated_at: str) -> str:
             description = html.escape(
                 f"{item.get('summary_zh', '')} 影响：{item.get('impact_zh', '')}"
             )
-        elif machine.get("excerpt_zh"):
-            description = html.escape(f"机器译文，业务影响待核对：{machine['excerpt_zh']}")
         else:
             description = "中文解读待补充，请核对原文。"
         pub_date = html.escape(

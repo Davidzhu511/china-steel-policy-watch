@@ -9,13 +9,13 @@
     "model": "gpt-4.1-mini",
     "model_batch_size": 2,
     "english_backfill_per_run": 8,
-    "offline_translation": true,
+    "offline_translation": false,
     "max_offline_translations_per_run": 100,
     "offline_translation_seconds": 180,
     "model_fallbacks": [],
     "model_timeout_seconds": 35,
     "model_attempts_per_model": 1,
-    "max_model_items_per_run": 12
+    "max_model_items_per_run": 0
   },
   "sources": {
     "ec_have_your_say": {

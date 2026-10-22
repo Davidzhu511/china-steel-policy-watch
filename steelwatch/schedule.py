@@ -11,8 +11,8 @@ def should_run(event_name: str, schedule: str, now: datetime | None = None) -> b
         ZoneInfo("Europe/Berlin")
     )
     offset_hours = int((local_now.utcoffset().total_seconds() if local_now.utcoffset() else 0) / 3600)
-    if schedule == "50 5 * * *":
+    if schedule in {"50 5 * * *", "50 11 * * *"}:
         return offset_hours == 2
-    if schedule == "50 6 * * *":
+    if schedule in {"50 6 * * *", "50 12 * * *"}:
         return offset_hours == 1
     return False
