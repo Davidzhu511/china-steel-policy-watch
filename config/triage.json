@@ -739,17 +739,6 @@
     "coverage": "2026-10-22：仅同题来源线索和搜索片段，未读完整原文及各国政策。"
   },
   {
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95V182UWZ4WHNQbGMzS0NtOTR0Ym14UE9teDY5alk1U3JFcjlMazB1QnM2TjdvMDNXQ0VRSUhTSGRqNTQyUEZlRmlYdVlqLWszLWpIRXp1UTE1Y1pHUnRXbw?oc=5",
-    "published_date": "2026-10-13",
-    "decision": "blocked",
-    "reason_zh": "Google新闻入口无正文，定位到腾讯同题转载但直接访问仅返回限制页面；搜狐入口也未取得正文。下一步读取原作者正文及巴西CAMEX/MDIC公告，按产品、原产地和日期核验，不能以农产品采购推导钢材豁免。",
-    "reason_en": "Evidence remains incomplete. The Chinese note records the precise access or primary-document gap and next verification step; not marked as source checked.",
-    "attempted_at": "2026-10-22",
-    "evidence_url": "https://new.qq.com/rain/a/20261012A07GN700",
-    "title_zh": "评论讨论巴西钢材贸易保护与对华农产品出口，具体措施待核验",
-    "coverage": "2026-10-22：仅题目、同题转载与搜索摘要；未完成巴西具体法规核验。"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUlvLUgySXdBZHNCczhZUkt4MHNFUDdyNXJ2ZTFyRnNuVXdBN3B6Z2k0Z3VKeURVN0pzb2VmS0dvNkxTbmxLZUZBUmtxbTZQa3hxdmE3M3d1dUNxbjFTdlhBTEI5MjRJeG9uVHplTzNXSTJmcktaZmpFVF9ZQ0NWWGhQdWlQLWRvdmVqSzVYOUU0bzhLcldjM0FLSVhyRV9TZk9JVGh5YlFnSFRVTTlKRWdGTEVXbVN2a1ZfUA?oc=5",
     "published_date": "2026-10-07",
     "decision": "blocked",
