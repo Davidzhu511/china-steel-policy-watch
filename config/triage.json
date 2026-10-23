@@ -770,5 +770,16 @@
     "attempted_at": "2026-10-23",
     "evidence_url": "https://www.indexbox.io/blog/eurometal-joins-industry-call-to-broaden-cbam-coverage-to-recycled-goods/",
     "coverage": "2026-10-23已读IndexBox公开全文并与EUROMETAL原始声明核对；作为同事件转载归并，同时标注标题术语偏差。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSG9lUkE4NnNqQzZVWnBiUWRSSmZyM3RScXNreUNoOG12Zm5xR19QSWoydHA2Wm0wOFJPVTlUYkRYZ1Baek9UazF0MnBJcTlWMUg0RUJZR0VieDhwcXRwOTRqNjUyLWF1RXc4YkprbE0wWFI5RjlSRm56UTVFYjdlSUo5UFBpdWZ4cm9oUFhkTld5dEVuX1J3Z0IxcnFfc1g1akRMZFMzbk0?oc=5",
+    "published_date": "2026-10-19",
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd01xTE1lNlRmZERGbjZBVGQ3U1IxZHM3Q2J2elUtZzlOb201WVRKMWo1VnVsTzdsY3FkdFh0QVRaMGI1UlNYRnNPU3FaaWJwZU1NS0VLbGdMaTFoMk5fLUwzdUFxNmk5N0V6V0ttOUk1Z0FLU0tSSWNGX29TTVczc3RHQjJhRzZlMWQ2LWVuSWpHT2VUV3BIdjh2azJTQ3Fs?oc=5",
+    "reason_zh": "已读Yieh Corp.全文：其转述KTC第2026-22号初裁、三档建议临时税率（25.08%、27.96%、27.33%）及16个HS编码，与现有韩国钢棒受阻主记录属于同一事件。因仍未取得KTC原始公告或财政部门实施令，本链接仅作为相关媒体证据归并，不把建议税率写成已经生效征税。",
+    "reason_en": "Full Yieh report read and linked to the existing blocked Korea steel-bar case. It remains secondary reporting; no KTC original notice or Ministry of Economy and Finance implementing order was obtained, so recommended rates are not represented as duties in force.",
+    "attempted_at": "2026-10-23",
+    "evidence_url": "https://www.yieh.com/en/News/south-korea-makes-preliminary-ad-ruling-on-chinas-steel-bars-and-rods/162996",
+    "coverage": "2026-10-23已读Yieh Corp.全文并核对其列示的KTC公告号、建议税率、企业组和16个HS编码；未取得韩国主管机关原始初裁或临时措施生效文件，作为同事件相关来源归并。"
   }
 ]
