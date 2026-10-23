@@ -748,5 +748,27 @@
     "evidence_url": "https://montelnews.com/news/2b9a0aa3-63a3-44d0-a0bb-33cd302dcf40/swedish-steel-maker-laments-tone-of-eu-ets-reform-talks",
     "title_zh": "Stegra担忧欧盟ETS放松讨论影响低碳投资，Montel正文仍需注册",
     "coverage": "2026-10-22：标题、作者、10月7日时间及一段导语已核对，全文不可读。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSVMwNXVOZzhyYlVKLXFZeWdQSDlDQnd3dDZwQjJ0SFZacmxBNVR2QlA5TWNjeWFvMEVHTHpwQ2tsNlhJbmg1R1RFVWhiWE5CQ2F6OHczSDNsWmRrRXVkT0VQbGppcWdMdjJoM0szbzY1OURSeTVjaG56U3hGMXJmUnRRU0ZGU2FIR2FZa3NqU1NaZw?oc=5",
+    "published_date": "2026-10-20",
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFJOSEtCWnJQU21nVnIwRTA2UVRpcFNvNVlmekRTSmRsTjBzYlp5R0tYZDFELWowbmhaU2MtbFV0T0M4aVQxZi0zakQ2djh4cmRLVXk3MVM3bTdma29mSEtHYjV6ZDBBS1IwSkZqMGRoc2IwNkpDT3gzbGw4NmE2N3ZxS2RvVnFHWnpKZ2VZLUNrWDVEVkcxeWw1SFVXSVpmNVN2TDFtdw?oc=5",
+    "reason_zh": "Yieh Corp.全文报道的是EUROMETAL参与19个行业协会及industriAll欧洲工会联合声明、要求在10月20日三方会谈前扩大CBAM下游覆盖；同一事件已由EUROMETAL原始声明主条目完成核验，本链接作为相关来源归并。",
+    "reason_en": "Same EUROMETAL joint-statement event as the source-checked primary record; archived as a related syndicated source.",
+    "attempted_at": "2026-10-23",
+    "evidence_url": "https://www.yieh.com/en/News/eurometal-urges-eu-to-expand-cbam-to-downstream-products/163009",
+    "coverage": "2026-10-23已读Yieh Corp.全文，并与EUROMETAL原始联合声明主条目核对；未作为独立政策事件重复展示。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUxpUTlOTlZUckswTTlFVnRwbUtqSEtYeC1IVFFYR0hnYTlGNlZLMEl6SGFpNFRWRkxiVF9ySm10bWtWZTBZeHBraXBremhXaU9ESEJUa21nUjNSUElkcGloOUN3aDFyaWI5SFBqckQ0UHliVmlLeUJVT0phQVo0d0lnd19xS0VaVWdQZVlBTllNNm5PZnBjUGxMLWtQT3g1MjBNcw?oc=5",
+    "published_date": "2026-10-19",
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFJOSEtCWnJQU21nVnIwRTA2UVRpcFNvNVlmekRTSmRsTjBzYlp5R0tYZDFELWowbmhaU2MtbFV0T0M4aVQxZi0zakQ2djh4cmRLVXk3MVM3bTdma29mSEtHYjV6ZDBBS1IwSkZqMGRoc2IwNkpDT3gzbGw4NmE2N3ZxS2RvVnFHWnpKZ2VZLUNrWDVEVkcxeWw1SFVXSVpmNVN2TDFtdw?oc=5",
+    "reason_zh": "IndexBox转载同一EUROMETAL联合声明；其标题把downstream/processed goods写成“recycled goods”，容易误解为再生商品。原始声明主张的是尽可能广泛覆盖下游产品，并非已生效法规。本链接归并到已核验主条目。",
+    "reason_en": "Syndicated coverage of the same EUROMETAL joint statement. Its 'recycled goods' wording is potentially misleading; the source-checked primary record concerns downstream products and remains an industry request, not enacted law.",
+    "attempted_at": "2026-10-23",
+    "evidence_url": "https://www.indexbox.io/blog/eurometal-joins-industry-call-to-broaden-cbam-coverage-to-recycled-goods/",
+    "coverage": "2026-10-23已读IndexBox公开全文并与EUROMETAL原始声明核对；作为同事件转载归并，同时标注标题术语偏差。"
   }
 ]
