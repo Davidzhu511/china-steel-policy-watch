@@ -4693,5 +4693,39 @@
     ],
     "evidence_url": "https://environment.ec.europa.eu/topics/forests/deforestation/regulation-deforestation-free-products_en",
     "coverage": "2026-10-22已读Capmad原文（https://www.capmad.com/post/cbam-and-eudr-why-european-buyers-now-demand-carbon-footprints-from-african-exporters/）全文及欧委会环境总司现行页面；完成制度区分和旧日期纠正，未认证其南非贸易金额、企业项目或农林链个案，也不作EUDR全部商品法律评注。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95V182UWZ4WHNQbGMzS0NtOTR0Ym14UE9teDY5alk1U3JFcjlMazB1QnM2TjdvMDNXQ0VRSUhTSGRqNTQyUEZlRmlYdVlqLWszLWpIRXp1UTE1Y1pHUnRXbw?oc=5",
+    "published_date": "2026-10-13",
+    "reviewed_at": "2026-10-23",
+    "title_zh": "巴西对中印预涂钢征最终反倾销税：农产品贸易不构成钢材豁免",
+    "title_en": "Brazil imposes definitive anti-dumping duties on pre-painted steel from China and India; farm trade creates no steel exemption",
+    "summary_zh": "腾讯转载评论以中巴农产品、矿产和钢铁贸易反差为切入点。经巴西发展、工业、贸易和服务部（MDIC）官方案件页核验，GECEX第849号决议于2026年1月30日作出、2月2日刊登，正式对原产于中国和印度的预涂钢征收最终反倾销税，期限最长五年；该调查已经结束。文章关于大豆、牛肉和铁矿石采购的讨论属于作者观点，不能改变按产品、原产地和生产商适用的贸易救济措施，也不能据此推导中国钢材享有豁免。",
+    "summary_en": "The syndicated commentary contrasts Brazil’s agricultural and mineral exports to China with its steel trade remedies. Brazil’s Ministry of Development, Industry, Trade and Services (MDIC) confirms that GECEX Resolution No. 849, dated 30 January 2026 and published on 2 February, imposed definitive anti-dumping duties for up to five years on pre-painted steel originating in China and India; the investigation is closed. The article’s discussion of soy, beef and iron-ore trade is the author’s opinion and does not alter product-, origin- or producer-specific trade-remedy treatment or create an exemption for Chinese steel.",
+    "impact_zh": "向巴西销售预涂钢的中国企业应把第849号决议视为已生效的正式措施，而非媒体所说的笼统“加关税”。报价和合同审查应由巴西进口商或贸易救济律师依据决议附件核对产品描述、NCM编码、生产商对应税额及排除项；本条未核验完整决议附件，因此不引用文章所称“超过60%”作为通用税率。农产品采购规模可用于宏观经贸研判，但不能替代个案应诉、复审或合规核对。",
+    "impact_en": "Chinese exporters of pre-painted steel to Brazil should treat Resolution No. 849 as an effective formal trade-remedy measure, not a generic tariff increase. For quotations and contracts, the Brazilian importer or trade-remedy counsel should check the resolution annex for the exact product description, NCM code, producer-specific duty and exclusions. This review did not verify the full annex and therefore does not present the article’s “over 60%” claim as a general rate. Agricultural trade volumes are macro context, not a substitute for case-specific compliance or review procedures.",
+    "category": "贸易救济",
+    "status": "最终反倾销措施／媒体评论",
+    "importance": "高",
+    "tags": [
+      "巴西",
+      "反倾销",
+      "预涂钢",
+      "GECEX第849号决议",
+      "中巴贸易"
+    ],
+    "tags_en": [
+      "Brazil",
+      "anti-dumping",
+      "pre-painted steel",
+      "GECEX Resolution 849",
+      "China-Brazil trade"
+    ],
+    "follow_up": {
+      "action_zh": "巴西业务在报价、接单和报关前，按第849号决议附件核对NCM、生产商税额及排除项；如涉及复审或退税可能性，咨询巴西贸易救济律师。",
+      "action_en": "Before quoting, contracting or customs entry, verify the NCM, producer-specific duty and exclusions in Resolution 849; obtain Brazilian trade-remedy advice for any review or refund route."
+    },
+    "evidence_url": "https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/defesa-comercial-e-interesse-publico/investigacoes/investigacoes-de-defesa-comercial/acos-pre-pintados-rvd",
+    "coverage": "2026-10-23已读取腾讯转载全文，并核对巴西MDIC官方案件页及GECEX第233次会议决定，确认措施性质、来源国、决议日期、刊登日期和最长五年期限；未通读第849号决议完整附件，未逐项核验NCM、企业税额、排除项及文章中的宏观贸易统计，故不提供通用税率。"
   }
 ]
