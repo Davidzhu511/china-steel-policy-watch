@@ -776,11 +776,10 @@
     "published_date": "2026-10-19",
     "decision": "duplicate",
     "duplicate_of": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd01xTE1lNlRmZERGbjZBVGQ3U1IxZHM3Q2J2elUtZzlOb201WVRKMWo1VnVsTzdsY3FkdFh0QVRaMGI1UlNYRnNPU3FaaWJwZU1NS0VLbGdMaTFoMk5fLUwzdUFxNmk5N0V6V0ttOUk1Z0FLU0tSSWNGX29TTVczc3RHQjJhRzZlMWQ2LWVuSWpHT2VUV3BIdjh2azJTQ3Fs?oc=5",
-    "reason_zh": "已读Yieh Corp.全文：其转述KTC第2026-22号初裁、三档建议临时税率（25.08%、27.96%、27.33%）及16个HS编码，与现有韩国钢棒受阻主记录属于同一事件。因仍未取得KTC原始公告或财政部门实施令，本链接仅作为相关媒体证据归并，不把建议税率写成已经生效征税。",
-    "reason_en": "Full Yieh report read and linked to the existing blocked Korea steel-bar case. It remains secondary reporting; no KTC original notice or Ministry of Economy and Finance implementing order was obtained, so recommended rates are not represented as duties in force.",
-    "attempted_at": "2026-10-23",
+    "reason_zh": "韩国贸易委员会官方新闻稿已核验该事件的肯定性初裁、25.08%—27.96%临时税建议区间和2027年2月终裁计划；本Yieh全文作为细分税率与HSK线索归并至已核验主条目，不另计待研判，且不把建议税率写成已生效征税。",
+    "reason_en": "The KTC official release now confirms the affirmative preliminary determination, the recommended 25.08%–27.96% provisional-duty range and the planned February 2027 final determination. This Yieh report is retained as a related source for rate/HSK leads, without treating recommended duties as effective.",
+    "attempted_at": "2026-10-24",
     "evidence_url": "https://www.yieh.com/en/News/south-korea-makes-preliminary-ad-ruling-on-chinas-steel-bars-and-rods/162996",
-    "coverage": "2026-10-23已读Yieh Corp.全文并核对其列示的KTC公告号、建议税率、企业组和16个HS编码；未取得韩国主管机关原始初裁或临时措施生效文件，作为同事件相关来源归并。",
-    "title_zh": "韩国对中国合金钢棒作肯定性反倾销初裁：建议临时税率尚待正式实施文件"
+    "coverage": "2026-10-24归并至已核验韩国案件主条目；Yieh全文已读，逐企业税率和16个HSK编码仍需以韩国主管机关附件或实施公告为准。"
   }
 ]
