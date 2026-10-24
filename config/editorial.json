@@ -4727,5 +4727,39 @@
     },
     "evidence_url": "https://www.gov.br/mdic/pt-br/assuntos/comercio-exterior/defesa-comercial-e-interesse-publico/investigacoes/investigacoes-de-defesa-comercial/acos-pre-pintados-rvd",
     "coverage": "2026-10-23已读取腾讯转载全文，并核对巴西MDIC官方案件页及GECEX第233次会议决定，确认措施性质、来源国、决议日期、刊登日期和最长五年期限；未通读第849号决议完整附件，未逐项核验NCM、企业税额、排除项及文章中的宏观贸易统计，故不提供通用税率。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd01xTE1lNlRmZERGbjZBVGQ3U1IxZHM3Q2J2elUtZzlOb201WVRKMWo1VnVsTzdsY3FkdFh0QVRaMGI1UlNYRnNPU3FaaWJwZU1NS0VLbGdMaTFoMk5fLUwzdUFxNmk5N0V6V0ttOUk1Z0FLU0tSSWNGX29TTVczc3RHQjJhRzZlMWQ2LWVuSWpHT2VUV3BIdjh2azJTQ3Fs?oc=5",
+    "published_date": "2026-10-19",
+    "reviewed_at": "2026-10-24",
+    "title_zh": "韩国对中国合金钢棒作肯定性反倾销初裁，临时税率仍待财政部门决定",
+    "title_en": "South Korea preliminarily finds injury from Chinese alloy-steel bars; provisional duties await finance-ministry action",
+    "summary_zh": "韩国贸易委员会于2026年9月17日第477次会议对中国合金钢棒作出倾销和产业损害肯定性初裁，并建议财政经济部门在调查期间征收25.08%—27.96%的临时反倾销税。涉案棒材用于汽车、工程机械、造船、轴承和工业机械零部件；申请人为世亚贝斯特与世亚昌原特殊钢，调查对象包括中国大冶、江苏永钢和金腾三组供应商。委员会预计于2027年2月作出终裁。该初裁及建议不等同于临时税已经生效。",
+    "summary_en": "At its 477th meeting on 17 September 2026, the Korea Trade Commission made an affirmative preliminary dumping and injury determination on alloy-steel bars from China and recommended provisional anti-dumping duties of 25.08%–27.96% during the investigation. The bars are used in automotive, construction-equipment, shipbuilding, bearing and industrial-machinery parts. SeAH Besteel and SeAH Changwon Special Steel filed the petition; the investigated supplier groups include Daye, Jiangsu Yonggang and Jinteng. A final determination is planned for February 2027. The preliminary finding and recommendation do not by themselves put provisional duties into force.",
+    "impact_zh": "对韩出口合金钢棒的中国生产商和贸易商应立即按韩国书面产品范围核对牌号、制造方式、HSK编码、生产商—出口商组合及关联企业，并保存内销、对韩销售、成本和产能数据以应对后续核查。报价和到港安排不得直接套用媒体列示的企业税率；只有韩国财政部门发布实施公告后，才能确认临时税的生效日、征收期和报关适用税率。同步跟踪2027年2月终裁节点。",
+    "impact_en": "Chinese producers and traders exporting alloy-steel bars to Korea should immediately map grades, manufacturing method, HSK codes, producer-exporter combinations and affiliates against the written scope, and preserve home-market sales, Korean sales, cost and capacity data for the continuing investigation. Do not apply media-reported company rates to quotations or arrivals until the Korean finance authority publishes an implementing notice confirming the effective date, collection period and entry rate. Monitor the planned February 2027 final determination.",
+    "category": "贸易救济",
+    "status": "反倾销肯定性初裁／临时税建议",
+    "importance": "高",
+    "tags": [
+      "韩国",
+      "反倾销",
+      "合金钢棒",
+      "临时税建议",
+      "KTC"
+    ],
+    "tags_en": [
+      "South Korea",
+      "anti-dumping",
+      "alloy-steel bars",
+      "provisional-duty recommendation",
+      "KTC"
+    ],
+    "follow_up": {
+      "action_zh": "立即核对韩国调查产品范围、HSK及企业组合；持续检查财政部门临时税实施公告，并准备2027年2月终裁前的调查答卷和核查材料。",
+      "action_en": "Verify Korean scope, HSK codes and company combinations now; monitor the finance authority's provisional-duty notice and prepare submissions and verification records ahead of the planned February 2027 final determination."
+    },
+    "evidence_url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782276",
+    "coverage": "2026-10-24已通读韩国贸易委员会经韩国政策简报发布的官方新闻稿全文，并核对会议日期、初裁性质、25.08%—27.96%建议区间、申请企业、三组调查对象、用途及2027年2月终裁计划；官方新闻稿未列16个HSK编码和逐企业税率，Yieh报道中的细分税率仅作相关线索，不作为已生效征税依据；截至本轮未发现财政部门临时措施实施公告。"
   }
 ]
