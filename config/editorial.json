@@ -4761,5 +4761,39 @@
     },
     "evidence_url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782276",
     "coverage": "2026-10-24已通读韩国贸易委员会经韩国政策简报发布的官方新闻稿全文，并核对会议日期、初裁性质、25.08%—27.96%建议区间、申请企业、三组调查对象、用途及2027年2月终裁计划；官方新闻稿未列16个HSK编码和逐企业税率，Yieh报道中的细分税率仅作相关线索，不作为已生效征税依据；截至本轮未发现财政部门临时措施实施公告。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaFdRWlVvZXVIWmRXTE9oYmFXZnhDb3lCNzVGSW4zT2x3clNwSHBwemZ0aUhfNHRvdUFzV0k2X3V0MkEzTXFFTXRjMkVhSVBkQ2MtZjYwSmNqNjVuY0hXdk41alluYXhPUXU5NkZWLS1aRXhNaUQ4RkJlb25QV0xLLVZQaTZ6ODlmWTBSWkNub2xQQk9VOW04WThzdFZZeUZZYjBHTG82UWcwZWFscHV1SHlEbTNiUXVVTWd4SVZFcDJYWURnTjBfWmI1ZTVzdVk?oc=5",
+    "published_date": "2026-10-19",
+    "reviewed_at": "2026-10-25",
+    "title_zh": "首钢股份拟不超30.15亿元增持首钢智新19.60%股份，尚待股东会批准",
+    "title_en": "Shougang Co. proposes up to CNY 3.015bn purchase of a 19.60% additional stake in Shougang Zhixin, subject to shareholder approval",
+    "summary_zh": "首钢股份公告编号2026-047显示，公司拟以自有及自筹资金，按5.1269元/股受让首钢智新11家股东合计587,911,257股，占首钢智新总股本19.60%，预计总价不超过30.15亿元。若按拟议范围完成，首钢股份持股比例将由66.23%升至85.83%，仍为控股股东。九届八次董事会已于2026年10月15日通过，关联董事回避表决；交易构成关联交易、不构成重大资产重组，仍须2026年11月3日临时股东会批准，最终股份数量和价款还取决于实际签署协议。",
+    "summary_en": "Announcement No. 2026-047 says Shougang Co. proposes to acquire 587,911,257 shares in Shougang Zhixin from 11 shareholders at CNY 5.1269 per share, representing 19.60% of the subsidiary, for up to CNY 3.015 billion using internal and raised funds. If completed as proposed, its stake would rise from 66.23% to 85.83%. The board approved the related-party transaction on 15 October 2026 with related directors abstaining; it is not a major asset restructuring but still requires approval at the extraordinary shareholders' meeting on 3 November. Final shares and consideration depend on executed agreements.",
+    "impact_zh": "这项交易首先是控股权和治理结构调整，不等同于新增30.15亿元电工钢产能，也不会直接改变出口关税、CBAM或产品认证。若获批并完成，少数股东权益下降、决策权进一步集中，可能有利于高端取向及无取向电工钢研发、产能升级和全产业链协同；但具体产量、产品组合、资本开支和客户供货变化仍须以后续项目及经营公告为准。业务团队应在11月3日后核对股东会结果及最终协议，再更新对客户的产能和供应判断。",
+    "impact_en": "This is primarily a control and governance transaction, not CNY 3.015 billion of new electrical-steel capacity, and it does not directly change tariffs, CBAM treatment or product approvals. If approved and completed, greater control may support R&D, capacity upgrades and value-chain coordination in high-grade grain-oriented and non-oriented electrical steel, but output, product mix, capex and customer-supply effects require later operating disclosures. Recheck the shareholder vote and final agreements after 3 November before changing customer-facing capacity or supply assumptions.",
+    "category": "企业与供应链",
+    "status": "董事会通过／待股东会批准的关联交易",
+    "importance": "高",
+    "tags": [
+      "首钢股份",
+      "首钢智新",
+      "电工钢",
+      "关联交易",
+      "股权收购"
+    ],
+    "tags_en": [
+      "Shougang Co.",
+      "Shougang Zhixin",
+      "electrical steel",
+      "related-party transaction",
+      "stake acquisition"
+    ],
+    "follow_up": {
+      "action_zh": "2026年11月3日后核对临时股东会表决结果、实际签署的股份数量和最终价款；此后再跟踪工商/股东名册变更及具体电工钢产能升级公告。",
+      "action_en": "After 3 November 2026, verify the extraordinary shareholders' meeting result, executed share volume and final consideration; then monitor ownership registration and specific electrical-steel capacity-upgrade disclosures."
+    },
+    "evidence_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-10/2026-10-17/12646316.PDF",
+    "coverage": "2026-10-25已通读首钢股份公告编号2026-047共17页，核对交易状态、股份数、19.60%比例、每股5.1269元、不超过30.15亿元、拟持股85.83%、关联交易性质、非重大资产重组及11月3日股东会节点；公告通过指定信披媒体PDF镜像取得。未把董事会方案视为已完成交易，也未从股权交易推导具体新增产能或出口政策变化。"
   }
 ]
