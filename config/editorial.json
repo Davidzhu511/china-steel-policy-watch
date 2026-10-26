@@ -4795,5 +4795,39 @@
     },
     "evidence_url": "https://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/CNSESZ_STOCK/2026/2026-10/2026-10-17/12646316.PDF",
     "coverage": "2026-10-25已通读首钢股份公告编号2026-047共17页，核对交易状态、股份数、19.60%比例、每股5.1269元、不超过30.15亿元、拟持股85.83%、关联交易性质、非重大资产重组及11月3日股东会节点；公告通过指定信披媒体PDF镜像取得。未把董事会方案视为已完成交易，也未从股权交易推导具体新增产能或出口政策变化。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUlvLUgySXdBZHNCczhZUkt4MHNFUDdyNXJ2ZTFyRnNuVXdBN3B6Z2k0Z3VKeURVN0pzb2VmS0dvNkxTbmxLZUZBUmtxbTZQa3hxdmE3M3d1dUNxbjFTdlhBTEI5MjRJeG9uVHplTzNXSTJmcktaZmpFVF9ZQ0NWWGhQdWlQLWRvdmVqSzVYOUU0bzhLcldjM0FLSVhyRV9TZk9JVGh5YlFnSFRVTTlKRWdGTEVXbVN2a1ZfUA?oc=5",
+    "published_date": "2026-10-07",
+    "reviewed_at": "2026-10-26",
+    "title_zh": "Stegra呼吁欧盟维持ETS碳价信号并强化CBAM，反对人为压低碳价",
+    "title_en": "Stegra urges the EU to preserve the ETS carbon-price signal and strengthen CBAM",
+    "summary_zh": "Montel公开导语称，已投资脱碳的企业担忧欧盟放松碳市场规则。Stegra随后公开的完整公司立场明确：EU ETS提供的清晰、可预期政策框架，是其等企业投入数十亿欧元建设低碳钢产能的重要基础；公司要求欧盟在下一轮ETS修订中避免人为压低碳价，将更大比例的ETS拍卖收入用于工业投资，并继续强化CBAM。该内容属于企业及行业政策主张，不是欧盟已经通过的新法规或税率调整。",
+    "summary_en": "Montel's public lead reports concern among companies that have invested in decarbonisation about loosening EU carbon-market rules. Stegra's full public company statement says the predictable EU ETS framework has underpinned billions of euros of low-carbon steel investment and calls on the EU to avoid measures that artificially depress the carbon price, recycle a much larger share of auction revenues into industrial investment, and continue strengthening CBAM. This is corporate and industry policy advocacy, not an enacted EU rule or duty change.",
+    "impact_zh": "对中国钢厂和输欧业务而言，该主张说明欧洲低碳钢投资者会推动维持较强ETS价格信号和CBAM约束，企业仍应完善产品级排放数据、核查证据及低碳产品商业方案。但本声明没有新增CN/HS范围、CBAM计价方法、证书购买期限或钢材税率，不能据此调整具体报价税负。后续应以欧委会ETS修订提案、欧洲议会和理事会谈判文本及最终法规为准。",
+    "impact_en": "For Chinese mills and EU-bound business, the statement indicates that European low-carbon steel investors will press for a strong ETS price signal and robust CBAM, reinforcing the need for product-level emissions data, verification evidence and a commercial low-carbon offering. It creates no new CN/HS scope, CBAM calculation rule, certificate deadline or steel duty and should not be used to change transaction-level tax assumptions. Monitor the Commission proposal, Parliament and Council negotiating texts, and the final legislation.",
+    "category": "碳政策与市场",
+    "status": "企业政策主张／非正式法规",
+    "importance": "中",
+    "tags": [
+      "Stegra",
+      "EU ETS",
+      "CBAM",
+      "绿色钢铁",
+      "企业立场"
+    ],
+    "tags_en": [
+      "Stegra",
+      "EU ETS",
+      "CBAM",
+      "green steel",
+      "corporate position"
+    ],
+    "follow_up": {
+      "action_zh": "跟踪欧盟ETS修订的正式提案和立法谈判；只有正式文本改变碳价机制、免费配额或CBAM规则时，才更新具体业务假设。",
+      "action_en": "Track the formal EU ETS revision proposal and legislative negotiations; update transaction assumptions only when enacted texts change carbon pricing, free allocation or CBAM rules."
+    },
+    "evidence_url": "https://www.linkedin.com/posts/stegraab_europe-must-stay-the-course-on-its-climate-activity-7480962488667336704-WK9A",
+    "coverage": "2026-10-26已读取Montel公开标题、日期和导语，并通读Stegra公开发布的完整公司立场，核对其关于ETS碳价、拍卖收入回投工业和强化CBAM的三项主张；Montel注册墙后的正文未读取，因此本条仅呈现Stegra可核验的公开立场，不推断付费正文中的其他表述。"
   }
 ]
