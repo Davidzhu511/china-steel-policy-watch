@@ -781,5 +781,38 @@
     "attempted_at": "2026-10-24",
     "evidence_url": "https://www.yieh.com/en/News/south-korea-makes-preliminary-ad-ruling-on-chinas-steel-bars-and-rods/162996",
     "coverage": "2026-10-24归并至已核验韩国案件主条目；Yieh全文已读，逐企业税率和16个HSK编码仍需以韩国主管机关附件或实施公告为准。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVU0S3JDbk5EVFZ0SVNZOHI3MEx0ajRXcFdVb0FoUVZkZVdieEFVYXpJdFV2aEotcDRpYy1aS01jN3dDcC1qdk5WS29sX21ZOWJJdk01X1dVZmotWThZaHJJUHdHcVk1ektGZWNvdnBlNWFodFhEakVhOWNFdzVTLUE5N2toTG53WU9ELVBBTFpyVGxJbWRUUGhNb3FXQWNjZEJEYTRFWVdVdTUtMFE5TXF1V1d0SWZiZDUwb3NCbWpoUQ?oc=5",
+    "published_date": "2026-10-26",
+    "decision": "blocked",
+    "reason_zh": "Petromindo原页仅公开标题、日期、作者及一段导语，随后要求登录。可确认印尼方面正与青山讨论深化镍和不锈钢加工及下游合作，但无法核实项目名称、投资额、产能、地点、期限或是否形成正式协议。等待印尼政府、Danantara、青山或工业园原始声明；取得前不把会议线索写成已决定投资或新增产能。",
+    "reason_en": "The Petromindo page exposes only the title, date, byline and one lead paragraph before login. It supports a meeting lead, but not project scope, investment, capacity, location, timing or a binding decision.",
+    "attempted_at": "2026-10-26",
+    "evidence_url": "https://www.petromindo.com/news/article/rosan-discusses-deeper-nickel-and-stainless-steel-processing-with-tsingshan-chairman",
+    "title_zh": "印尼与青山讨论深化镍及不锈钢加工：项目范围与投资决定待原始声明",
+    "coverage": "2026-10-26仅读取Petromindo公开标题、时间、作者、标签和导语；登录后的正文未读，未绕过访问限制。已检索印尼政府、Danantara及青山公开入口，尚未找到等效的本次会议完整声明。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeEo1dmx2NlRlSVNQakE5YVhTWkZCdXlEaXVVakc4RjVPRTRYb05yY09yOFl0WmZCQk5nbEJxMEM1WGJFd2gyN095WmY1V25kUHNYWEU4LWJVSF9WWEtYeHBTOU15M1V3dXhqdDdqbXRmSHhiVjFUeHNIdDh2UHFiNG05M2NrTGl1SkVPSWpEMUc?oc=5",
+    "published_date": "2026-10-23",
+    "decision": "excluded",
+    "reason_zh": "Fastmarkets原页是定于2026年11月26日举行的60分钟网络研讨会预告，列出拟讨论的钢铝贸易流、碳成本、英欧制度差异及2027年情景，但没有发布研究结果、法规变更或可核验的新数据。按活动推广归档；活动后如公开实质材料再作为新版本评估。",
+    "reason_en": "The source is a promotional landing page for a 26 November 2026 webinar. It lists intended discussion topics but contains no findings, policy change or new verifiable dataset.",
+    "attempted_at": "2026-10-26",
+    "evidence_url": "https://www.fastmarkets.com/webinars/after-the-reckoning-cbam-and-global-trade-in-2027/",
+    "title_zh": "Fastmarkets预告11月26日CBAM网络研讨会，尚无研究结论",
+    "coverage": "2026-10-26已读Fastmarkets活动页全部实质正文，核对日期、形式、议题和讲者；网页没有会议内容、研究结论或新政策文件。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDJiWHE4OUlfQXdkQkhDUVQ1RndVSjJBVVNQUVROZUdMS1VWOFpkWEl4MXE5RmFXTzhCbkJSMVhxSWJNTGJBblpjMm81TTk2eFlnZWFhWVhhM3hudFdFQXYtTWl2aktEUUZiMl9WVVlleTlXTmVhZlNmVVlzckVsaTZ5OFlxNGdLZnpTYnRxUE9VTTdnYldFbFBZTGZLQQ?oc=5",
+    "published_date": "2026-10-22",
+    "decision": "blocked",
+    "reason_zh": "已确认ORF发布题为《The Impact of CBAM’s Extension to Downstream Products on MSMEs》的研究条目，但原文页面当前返回403，检索结果仅有标题和摘要，未找到可核读的同版PDF。仅凭摘要不足以核对其产品范围、数据口径、情景假设和政策建议，继续计入待全文核验。",
+    "reason_en": "ORF's publication and topic are confirmed, but the article currently returns HTTP 403 and no same-version readable PDF was found. Search snippets are insufficient to verify product scope, data, assumptions or recommendations.",
+    "attempted_at": "2026-10-26",
+    "evidence_url": "https://www.orfonline.org/research/the-impact-of-cbam-s-extension-to-downstream-products-on-msmes",
+    "title_zh": "ORF研究CBAM下游扩围对中小企业影响：正文访问受阻，待核数据与范围",
+    "coverage": "2026-10-26仅核对ORF官方检索结果中的标题、发布入口及摘要；正文页面返回403，未读取全文或图表，也未找到同版公开PDF。"
   }
 ]
