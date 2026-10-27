@@ -814,5 +814,17 @@
     "evidence_url": "https://www.orfonline.org/research/the-impact-of-cbam-s-extension-to-downstream-products-on-msmes",
     "title_zh": "ORF研究CBAM下游扩围对中小企业影响：正文访问受阻，待核数据与范围",
     "coverage": "2026-10-27复查：ORF官方条目仍可由站内列表和检索结果确认，但正文直接读取继续返回403，未找到同版公开PDF；未读取全文、图表或模型附件。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTVrQ1QtckstWXlhTGR0cE5RUmpTc2l4NDlJeFMzUGc3WVV1MDVsVGxQRFl6UkJmdHJZcUMzSDhNYVpDd2RXZXRyUXE5NDE3MVBvaGsyeXBZOXMyMnBCNm1OWlJqNUFTeHNCTnJkQU1LaWp4bG90WDZyWlRDRzBYcTlvUThLOUJFM3RfaGtvRV9uaTZZYTE2dUdaSEI3NzBrX3AyYg?oc=5",
+    "published_date": "2026-10-20",
+    "decision": "duplicate",
+    "duplicate_of": "https://gov.uk/government/publications/illustrative-cbam-rates-and-worked-example-for-carbon-border-adjustment-mechanism-cbam",
+    "reason_zh": "Yieh全文转述英国政府10月16日发布的CBAM计价、示例税率和默认排放值；同一事项已由看板中多条GOV.UK原始页面完成核验，包括钢铁£9.69/tCO₂e仅为按2026年第三季度UK ETS均价计算的示例、正式2027年季度税率尚未公布，以及默认值和实际核查数据规则。本链接作为相关媒体来源归并，不重复展示。",
+    "reason_en": "The Yieh report restates the UK government's 16 October CBAM guidance. The dashboard already contains source-checked GOV.UK records covering the illustrative GBP 9.69/tCO2e steel rate, the still-pending live 2027 quarterly rates, default values and verified actual-emissions rules.",
+    "attempted_at": "2026-10-27",
+    "evidence_url": "https://www.yieh.com/en/News/uk-releases-rate-calculation-method-and-default-emissions-for-cbam/163022",
+    "title_zh": "Yieh转述英国CBAM示例税率与默认值，归并至GOV.UK原始规则",
+    "coverage": "2026-10-27已通读Yieh全文并逐项对照GOV.UK 10月16日计价、示例税率、默认值及核查指南；确认没有超出已核验官方条目的独立政策变化。"
   }
 ]
