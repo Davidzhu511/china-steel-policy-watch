@@ -4917,5 +4917,73 @@
     ],
     "evidence_url": "https://www.businesstoday.in/india/story/eu-shooting-itself-in-the-foot-piyush-goyal-warns-europe-over-cbam-import-duty-563176-2026-10-23",
     "coverage": "2026-10-27已通读Business Today全文，并用印度新闻信息局10月21日官方访问公告核对戈亚尔参加柏林全球对话及印欧FTA议程；未发现欧盟或印度发布CBAM豁免、配额调整或关税决定。媒体所称印度出口可能承担20%—35%成本未作为中国订单税率，也未独立验证。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzAxOWk0TmJzb0kwMnQ0ZjFJUlh6VFNvLVBKS3JDbldYaDk3M19iWWtVOFQ3SlJUUzJNS1h5QWFGR0pJZk1TVnd4ZDF4VkNuTENFNktMd1hyMllYZnlCbmQ1YVdRWVZqTHpUendKMERveTF4TmhnemtPbW42aW1zQmU0S2FnWlJEWlVZdTZTSGRIT3BmQVZTSnNBakFVRXpzY0tiM0VWMjY2SThqdWhTN3h1X1lwMHZQdEZj0gG7AUFVX3lxTFBXMDE5aTROYnNvSTAydDRmMUlSWHpUU28tUEpLckNuV1hoOTczX2JZa1U4VDdKUlRTMk1LWHlBYUZHSklmTVNWd3hkMXhWQ25MQ0U2S0x3WHIyWVhmeUJuZDVhV1FZVmpMelR6d0owRG95MXhOaGd6a09tbjZpbXNCZTRLYWdaUkRaVVl1NlNIZEhPcGZBVlNKc0FqQVVFenNjS2IzRVYyNjZJOGp1aFM3eHVfWXAwdlB0RmM?oc=5",
+    "published_date": "2026-10-27",
+    "reviewed_at": "2026-10-27",
+    "title_zh": "GMK称乌克兰CBAM损失已高于欧委会预测，主张重算影响评估",
+    "title_en": "GMK says Ukraine's CBAM losses already exceed the Commission forecast and calls for a reassessment",
+    "summary_zh": "GMK Center 10月27日分析称，2026年上半年乌克兰对欧盟、覆盖全部CBAM钢铁编码的出口额同比减少1.49亿欧元；其把供应链效应计入后，估算相当于约0.3%的GDP损失。GMK还预计，扁平材平均CBAM支付可能由2026年的78欧元/吨升至2030年的198欧元/吨，长材由61欧元/吨升至173欧元/吨，并主张欧委会把战争破坏、停产、能源和物流约束纳入重新评估。上述数据和预测是GMK模型结果及政策主张，不是欧盟正式豁免或税率决定。欧委会正式报告的基准是到2035年GDP影响约负0.01%，并非GMK文中所写的2031年。",
+    "summary_en": "GMK Center said on 27 October that the value of Ukrainian iron and steel exports to the EU across all CBAM-covered codes fell by EUR 149 million year on year in H1 2026; including supply-chain effects, it estimates a GDP loss of about 0.3%. GMK projects average CBAM payments rising from EUR 78/t in 2026 to EUR 198/t in 2030 for flat products and from EUR 61/t to EUR 173/t for long products, and calls on the Commission to reassess war damage, shutdowns, energy and logistics constraints. These are GMK modelling results and policy requests, not an EU exemption or tariff decision. The Commission's formal report states an estimated GDP effect of about -0.01% by 2035, not 2031 as written in GMK's article.",
+    "impact_zh": "对中国钢厂的直接规则没有变化。该争议提示，第三国行业会以战争、发展水平和投资能力争取特殊或过渡安排；若乌克兰最终获得可执行优惠，可能改变其钢材在欧盟市场相对中国货源的竞争条件。但中国企业不能据此预期同等待遇，应继续准备经核查的产品级排放数据、测算不同EU ETS价格情景，并在DDP等合同中明确最终CBAM差额和核查失败风险。",
+    "impact_en": "No rule for Chinese steel changes. The dispute shows that third-country industries may seek special or transitional treatment based on war damage, development level and investment capacity; any enforceable Ukraine-specific relief could alter its competitive position versus Chinese supply in the EU. Chinese firms should not assume comparable treatment and should continue preparing verified product-level emissions data, modelling ETS-price scenarios and allocating final CBAM and verification risks in DDP contracts.",
+    "category": "碳与环保",
+    "status": "行业研究与政策主张／非欧盟决定",
+    "importance": "中",
+    "tags": [
+      "CBAM",
+      "乌克兰",
+      "钢铁出口",
+      "影响评估",
+      "行业研究"
+    ],
+    "tags_en": [
+      "CBAM",
+      "Ukraine",
+      "steel exports",
+      "impact assessment",
+      "industry research"
+    ],
+    "follow_up": {
+      "action_zh": "跟踪欧委会是否正式重开乌克兰CBAM影响评估，以及是否依据《CBAM条例》第30(7)条提出可执行的临时安排；在正式文本发布前不得假定豁免。",
+      "action_en": "Monitor whether the Commission formally reopens its Ukraine CBAM assessment or proposes an enforceable temporary measure under Article 30(7); assume no exemption before an official act."
+    },
+    "evidence_url": "https://gmk.center/en/infographic/cbam-for-ukraine-why-the-european-commission-should-revise-its-impact-assessment/",
+    "coverage": "2026-10-27已通读GMK Center完整英文分析页，核对1.49亿欧元、约0.3% GDP、扁平材78→198欧元/吨、长材61→173欧元/吨及重算诉求；并通读GMK 2026年3月18页研究的核心假设、方法和情景，同时以欧委会COM(2025) 783正式报告核对官方基准。发现GMK本页把欧委会负0.01%预测年份写为2031年，而正式报告为2035年，已在摘要纠正。GMK模型中的企业排放强度并非排放方正式确认，未将其外推为中国产品税额。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOVnZ1cGpSWmtZc1NEaEpoZnBkdXlkY2h5NWVYb2RvSGc1LWU3dlhuS1RmTlBxUThJcG1aMGs5bm1vamh0bGVWSjlGTGhCSm5kZUFGZk1xazRKM2gyS3pNYndPMlZkUXZ2U21SV1g1YzJudWg1M2hDTDlaLVM0am4yaDYwcGsxMGwzaGpZajZZYjVOdkJpeVc4ZHh1RUFHNklNYUp2WlJGVGVPeTNCWHl6ZFFLZlJhaVdkdDRUbG9sM1JBLWFRUXlwd2w1WkFIZjJNaXdJXzB6M2hBZnBvb3EzZUtmVzh1V2hrSzhpdEM0Wkg?oc=5",
+    "published_date": "2026-10-22",
+    "reviewed_at": "2026-10-27",
+    "title_zh": "欧洲热卷：北欧钢厂一季度报800—830欧元/吨，CBAM资金占用压制采购",
+    "title_en": "European HRC: Nordic Q1 offers at EUR 800–830/t as CBAM working-capital needs weigh on buying",
+    "summary_zh": "SMM 10月22日市场报告称，北欧主要钢厂对2027年2—3月交付的热卷报价为800—830欧元/吨DDP；西北欧热卷评估价维持740欧元/吨EXW，意大利市场降1欧元至743欧元/吨EXW。报道认为终端需求偏弱、库存偏高，同时CBAM证书余额要求占用买方和贸易商流动资金，抑制补库。欧委会CBAM Registry页面确认系统已提供监测“50%规则”的功能；但SMM所称“预购并冻结至少全年义务的50%”是媒体对资金影响的概括，不应替代法规的季度账户余额计算。",
+    "summary_en": "SMM reported on 22 October that major Nordic mills offered HRC for February-March 2027 delivery at EUR 800-830/t DDP; Northwest European HRC was assessed at EUR 740/t EXW and Italian HRC at EUR 743/t EXW, down EUR 1. It attributed weak restocking to soft end demand, high inventories and the working-capital effect of CBAM certificate-balance requirements. The Commission's CBAM Registry page confirms tools for monitoring the '50% rule', but SMM's description of pre-purchasing and freezing 50% of annual obligations is a media characterisation, not a substitute for the legal quarterly account-balance calculation.",
+    "impact_zh": "这是一份市场报价与采购情绪报告，不是官方基准价格或新法规。对中国热卷出口商而言，欧盟买方可能把CBAM证书持有和融资成本计入报价、付款条件或采购节奏；企业应给客户提供可核查的实际排放资料，并分别测算EXW/DDP、配额和CBAM资金成本。不得把800—830欧元/吨视为全欧统一成交价，也不得据此给中国订单加上固定“50%融资附加费”。",
+    "impact_en": "This is a market and sentiment report, not an official benchmark or new law. EU buyers may incorporate CBAM certificate holdings and financing costs into quotations, payment terms or purchasing schedules. Chinese HRC exporters should provide verifiable actual-emissions data and model EXW/DDP, quota and CBAM working-capital effects separately. Do not treat EUR 800-830/t as a Europe-wide transaction price or add a fixed '50% financing surcharge' to Chinese orders.",
+    "category": "市场与产能",
+    "status": "市场报道／非政策文件",
+    "importance": "中",
+    "tags": [
+      "欧洲热卷",
+      "CBAM",
+      "资金占用",
+      "DDP",
+      "钢材价格"
+    ],
+    "tags_en": [
+      "European HRC",
+      "CBAM",
+      "working capital",
+      "DDP",
+      "steel prices"
+    ],
+    "follow_up": {
+      "action_zh": "跟踪2027年一季度实际成交价、欧委会50%规则操作指南及买方合同条款；只有法规或官方指南变化时才更新合规口径。",
+      "action_en": "Track Q1 2027 transaction prices, Commission operational guidance on the 50% rule and buyer contract terms; change compliance assumptions only on official guidance or legislation."
+    },
+    "evidence_url": "https://news.metal.com/newscontent/104173310-smm-steel-european-hrc-nordic-mills-push-higher-q1-offers-cbam-capital-tie-up-and-high-stocks-drag-buying-momentum",
+    "coverage": "2026-10-27已通读SMM公开全文，核对800—830欧元/吨DDP、740和743欧元/吨EXW及市场判断；报价为SMM市场沟通和内部模型处理数据，未独立取得钢厂正式报价单或成交记录。另核对欧委会CBAM Registry官方页面对50%规则监测功能的说明；未把SMM的“预购/冻结全年义务”表述当作精确法律定义。"
   }
 ]
