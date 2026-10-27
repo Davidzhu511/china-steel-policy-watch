@@ -4829,5 +4829,63 @@
     },
     "evidence_url": "https://www.linkedin.com/posts/stegraab_europe-must-stay-the-course-on-its-climate-activity-7480962488667336704-WK9A",
     "coverage": "2026-10-26已读取Montel公开标题、日期和导语，并通读Stegra公开发布的完整公司立场，核对其关于ETS碳价、拍卖收入回投工业和强化CBAM的三项主张；Montel注册墙后的正文未读取，因此本条仅呈现Stegra可核验的公开立场，不推断付费正文中的其他表述。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUHhrMjJtcXBhUS01ZnZfRVpNa0VTM2dlMnlhc3ZCWk1GSkZTdWNPbHh5MTZ2Q2FRb1dhdGJUeEJDZE0xNi1hOW5DaEV5MmIyUXZDa2dRenkwX1NqeTZodmJ4ZW53THVZTXdLNVN3MFpTUkVHb1ZfWC1KUUZtdlJGSzBNdy1oaUUya05yV0UzT3ZENkhvYU52VnhLdU9CX1BlamM4cHlEbU9JVmRxa0E?oc=5",
+    "published_date": "2026-10-27",
+    "reviewed_at": "2026-10-27",
+    "title_zh": "中国钢厂盈利走弱，铁矿石期货逼近四年低位",
+    "title_en": "Iron ore futures near four-year lows as Chinese mill profitability weakens",
+    "summary_zh": "IndexBox 10月27日市场简报称，铁矿石期货周一跌向每吨670元人民币，接近四年低位；其引用的行业数据称，上周247家中国钢厂高炉开工率为80%，同比下降4.3%。同时，中国港口到货量偏高、全球发运增加，供应较充裕。报道还提到中国矿产资源集团与力拓达成新的供应安排，但具体条款未公开。",
+    "summary_en": "IndexBox reported on 27 October that iron-ore futures moved toward CNY 670 per tonne on Monday, near four-year lows. It cited an 80% blast-furnace operating rate across 247 Chinese mills last week, down 4.3% year on year, alongside elevated port arrivals and rising global shipments. It also mentioned a new CMRG-Rio Tinto supply arrangement whose terms were not disclosed.",
+    "impact_zh": "这是市场信号，不是政策文件。原料价格下行有助于降低长流程钢厂采购成本，但其成因同时反映钢材需求和钢厂利润偏弱，不能据一日价格判断出口订单或利润已经改善。钢厂应分别跟踪现货矿价、钢材售价、库存和高炉利润；涉及中矿集团—力拓安排的采购判断，须等待双方可核实披露，不能把媒体所称口头通知当成公开合同条款。",
+    "impact_en": "This is a market signal, not a policy measure. Lower ore prices can reduce blast-furnace input costs, but also reflect weak steel demand and mill margins; one day's price does not establish improved export profitability. Track spot ore, steel prices, inventories and furnace margins separately, and do not treat reported verbal notice of the CMRG-Rio Tinto arrangement as disclosed contract terms.",
+    "category": "市场与产能",
+    "status": "市场报道／非政策文件",
+    "importance": "中",
+    "tags": [
+      "铁矿石",
+      "钢厂利润",
+      "高炉开工率",
+      "原料采购"
+    ],
+    "tags_en": [
+      "iron ore",
+      "mill margins",
+      "blast-furnace utilisation",
+      "raw-material procurement"
+    ],
+    "evidence_url": "https://www.indexbox.io/blog/iron-ore-futures-near-four-year-low-as-chinese-steel-mill-profitability-weakens/",
+    "coverage": "2026-10-27已通读IndexBox公开全文，核对670元/吨、247家钢厂、80%开工率、同比下降4.3%及供应描述；这些为媒体引用的市场数据，未独立取得交易所结算表或行业样本底稿。中矿集团—力拓协议条款未公开，未据此推断价格或数量。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOREdxMFVuM0w2S005MzBRM3dRWjdZeTB4dHc1T3ZvY2w4UFlSUHpmUmxoNzY1bVExdnVmQVhCY0t1bENSd3U4RlAwTVhMMmhkQnVmcGJ2RHhGck5HaU10bEZ1Wlg0TFZQcVVpdmk2c05BbHNOSWM0alZJSlpFQVJMd3dsc09GU2RIYzUzaGdYcUdZQTdCbGFBY1YxVWJhR3RsR3ZjQ2JsVGdSX3RRTVkzVUM0dW53MFBlM1B2Y091dXFsb3lyZXJLZFNObDktYXR1aHN1ZmZ3UkgtM1dPNGlLTkpWVDNNVFAz?oc=5",
+    "published_date": "2026-10-20",
+    "reviewed_at": "2026-10-27",
+    "title_zh": "南非研究：CBAM冲击取决于产品排放强度与进口价格，不宜只看国家平均值",
+    "title_en": "South African study says CBAM exposure depends on product emissions and import prices, not country averages alone",
+    "summary_zh": "Business Day刊发开普敦大学Lawrence Edwards与Nicola Wills的评论，基于ER​​SA产品层面局部均衡研究。作者指出，同类产品的排放强度可在国家和企业间显著不同，固定的每吨碳成本对低价、高排放产品造成的价格涨幅更大。其南非情景以80欧元/吨CO₂e并计入直接与间接排放时，模拟钢铁平均欧盟进口价格上升约31%；直接排放情景下南非钢铁进口量约降48%，纳入间接排放后约降76%。这些是南非模型结果，不是对中国产品的税额或销量预测。",
+    "summary_en": "Business Day published commentary by UCT researchers Lawrence Edwards and Nicola Wills based on an ERSA product-level partial-equilibrium study. They argue that emissions vary across products and firms, while a fixed carbon cost causes a larger percentage price increase for cheaper, emissions-intensive goods. In their South African scenario using EUR 80/tCO2e and both direct and indirect emissions, the model raises average EU import prices for iron and steel by about 31%; estimated South African steel imports fall about 48% with direct emissions only and 76% when indirect emissions are included. These are South African model results, not Chinese duty or volume forecasts.",
+    "impact_zh": "对中国钢厂的可用启示是，应按产品、装置和工艺准备实际排放数据，并把产品单价、排放强度和客户替代弹性一起纳入欧盟报价情景；提升产品附加值可以降低固定碳成本占售价的比例。但不得把文中的31%、48%或76%直接套用于中国订单。若欧盟未来正式纳入更多间接排放，应再依据最终法规、CN范围、实际排放和届时EU ETS价格重算。",
+    "impact_en": "For Chinese mills, the useful lesson is to model EU quotations using product-, installation- and process-level verified emissions together with unit value and demand substitution. Higher-value products may reduce the carbon charge as a share of price. Do not apply the article's 31%, 48% or 76% South African estimates to Chinese orders. Recalculate only against final EU rules, CN scope, actual emissions and the relevant ETS price if indirect-emissions coverage changes.",
+    "category": "碳与环保",
+    "status": "研究解读／非政策文件",
+    "importance": "中",
+    "tags": [
+      "CBAM",
+      "产品级排放",
+      "南非",
+      "价格竞争力",
+      "情景分析"
+    ],
+    "tags_en": [
+      "CBAM",
+      "product-level emissions",
+      "South Africa",
+      "price competitiveness",
+      "scenario analysis"
+    ],
+    "evidence_url": "https://www.businessday.co.za/opinion/2026-10-20-lawrence-edwards-and-nicola-wills-the-cbam-wake-up-call-decarbonisation-is-now-an-export-survival-issue/",
+    "coverage": "2026-10-27已通读Business Day全文，核对作者、研究来源、产品级方法、80欧元/吨CO₂e假设及南非钢铝情景结果；未将南非模型结果外推为中国税额或销量。文章为研究者评论，不是欧盟法规、执法通知或正式税率文件。"
   }
 ]
