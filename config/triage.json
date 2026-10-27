@@ -826,5 +826,17 @@
     "evidence_url": "https://www.yieh.com/en/News/uk-releases-rate-calculation-method-and-default-emissions-for-cbam/163022",
     "title_zh": "Yieh转述英国CBAM示例税率与默认值，归并至GOV.UK原始规则",
     "coverage": "2026-10-27已通读Yieh全文并逐项对照GOV.UK 10月16日计价、示例税率、默认值及核查指南；确认没有超出已核验官方条目的独立政策变化。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDJPYXpxQkhBazB3WUljVEFaRXBsMk94WURjUTFCYTFHWHRxT1hhQXlwX2RlZnpVTkN4a01VOGRnaW1laGlqY2tLaExpbjVoRl9DLU4yeE9MdXlmU0ZUMkJidHNkaUpkNlcxVVAycF9aZVMxMjdLc0V6aUkyZVU2UjBPMkxxNVVEV3F1ZkFVMVhYV1dtRzRHOUZNLW81cW9rNWQydTlkV1hIR181b1FyQWdYekZhakJCRFZERTkxNTQweUZR0gHKAUFVX3lxTE5idkhaZnlLdzRjaFJpT1IxakdvQ3AyZjZoNEFhQ056bmI4cllKQ19qUEFCQ25BLVcwV0taYm50SWdiRzBaLV91N1ZHRDNDX0xudzZYRzhGZWFpU21rQVYwRUZqYU85TXRITU1pVENXWWdTY3NLQ1V0Z0g1VDh1MVFaZmt1UUU0TEcyWV9ZNlZuS0ItNFlmVmJqMFBsQ1NLUWpzSDJIbFdsa0ppV1h2WlVXR1U3ekZiVlpPaUJJSVRia0lKNHN2cHdSQVE?oc=5",
+    "published_date": "2026-10-22",
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMk4xNjVCVVV0Z1BhTDYyYXBCVlY5MnZVMDRjN0JoVlZmbUYtbjNpdjdxZnpneUZyTkx2WU04U1JpdlFqeWpDZEpiZmRTMXM1eDhuNUNhSHNWZTRRYkEwaXZhV1RHUWJZU3B4UEtWUzNiZWd1MThBbWw3N2JmSFREa050X3JTcFk5R2V3TGpwSWktQlRWejRCX2JrTVptbnV4ZkN4bVlSMmh1dWEwNzV2MWdqWVZOeFl6ZWg1OS1ObHFqU20yNWlsVVk3eEl5b3kxWXdJ0gHYAUFVX3lxTE5lV0YyX1hHUlFpTXVtWTRoSGIzWnZwTHBCME1UZ3lJZEFzU0lkd1p5WGJEa0V0T0VWbkRMZzlZZUcxRW9mZVI0Z1pRTGNWRlU3Y3RValVLSmNqZjU0OGNBTXBrOVJQZUhqbEctb05CODdkaDFKM2hOYU9haDh1d0kzNXdTMExyU3MwM2xldm9mZVFSUVhXbDNhR0d4MUFaQ0twaGJvYjhTSUJicGZ4RUN0N203WXNENnZZc0UzYkdPX1NVWHpldWRHY3BIV1ZmellxT3ZQUmlyVQ?oc=5",
+    "reason_zh": "Moneycontrol与Business Today报道同一场10月22日柏林全球对话、同一组戈亚尔关于欧盟钢铁限制和CBAM的发言。Business Today主条目已结合印度政府官方访问公告完成核验；本链接作为同事件相关来源归并，不重复展示，也不把部长评论写成欧盟规则变化。",
+    "reason_en": "Moneycontrol reports the same 22 October Berlin Global Dialogue remarks by Piyush Goyal. The Business Today record has been checked against India's official visit notice; this link is archived as a same-event source.",
+    "attempted_at": "2026-10-27",
+    "evidence_url": "https://www.moneycontrol.com/news/business/europe-shooting-itself-in-the-foot-with-steel-curbs-cbam-piyush-goyal-14057958.html",
+    "title_zh": "Moneycontrol转述戈亚尔批评欧盟钢铁限制与CBAM，归并同场发言",
+    "coverage": "2026-10-27已读取Moneycontrol公开全文并与Business Today及印度新闻信息局访问公告核对；未作为独立政策事件重复展示。"
   }
 ]
