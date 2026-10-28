@@ -885,5 +885,23 @@
     "evidence_url": "https://organiser.org/2026/10/23/419552/world/berlin-global-dialogue-2026-cbam-trade-barriers-wont-solve-climate-crisis-piyush-goyal-confronts-eu-leadership/",
     "title_zh": "Organiser评论戈亚尔批评欧盟CBAM与钢铁限制，归并同场发言",
     "coverage": "2026-10-27通读Organiser公开全文，并与已核验Business Today主条目及印度政府访问公告核对；未发现独立政策决定或规则变更，文章中的评论与未逐项核验数字不作为看板结论。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeTNDS0RjSXJSTkRLQkVJVUllR2tWN3BMVUxQTHBMXzh2MWtIV3dadlhJVGROOEZyZFl6Um1EbWdpc1dqM0VtLWszTGlxNXhFemhVSnRMOHdwQV9sSl80UFVwUnRIbVcwSFdGYVZUMjM3dEZmb0VfeFptZzNqV1lFb3JCLThtMzJIRlprdE5GSWMtV19W?oc=5",
+    "published_date": "2026-10-27",
+    "decision": "exclude",
+    "reason_zh": "单纯铁矿石现货/期货价格下跌及中国需求担忧的行情稿，不涉及钢铁出口政策、贸易救济、CBAM/ETS、配额、原产地或主要钢企的可执行动作，按现有范围归档并保留来源链接。",
+    "reason_en": "A commodity-price story on iron ore and China demand, with no steel trade-policy, trade-remedy, CBAM/ETS, quota, origin or actionable major-producer development. Archived as out of scope while retaining the source link.",
+    "attempted_at": "2026-10-28"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1laXJyQzVHY1hxRWhOWDdwUHo5QWZQX2ZpNTVVTzdsUGtycTlvWjFvTzV1Mm5UY0d0U1BZc1RublVWbjF0NW93WmdqOFBnMGxKSEE5b0FVVmpxS2U5ZkRzWg?oc=5",
+    "published_date": "2026-10-26",
+    "decision": "duplicate",
+    "reason_zh": "同一USTR征求意见事件已由10月8日《联邦公报》2026-20615号主条目完成原文核验。搜狐标题称“正式调查、或反制”会夸大法律状态：官方文件仅为征求意见，案卷USTR-2026-0661，截止2026年11月9日，并未启动301调查或决定报复措施。保留转载链接，不另计待研判。",
+    "reason_en": "The same USTR request for comments is already covered by a source-checked main item based on Federal Register document 2026-20615. The official notice opens docket USTR-2026-0661 through 9 November 2026; it does not initiate a Section 301 investigation or decide retaliation.",
+    "attempted_at": "2026-10-28",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0pINE8xZDkwNjJ1cHBBZ3F0MVZwMGFuZTJPd3BPeTJ1UlRBeGxhZnYxZjB4Zk5CT1RCUmFLT3RsZ1JBRTBTRnNNa20tSFJIOXBQeml0Smc5aWxsblFQQWpRZkVnbFYwZE54N2J3TTQyQ1pQMk9xcnNpQzAwVGJCS3A3bHBET2JLUkJkYzF6NEExdVpRMmF3aFhFdm5MZnFPd1BkTjhjZFZnSzdTekJCMzQyZ1Q?oc=5",
+    "evidence_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20615/request-for-comments-on-the-effect-of-the-european-unions-carbon-border-adjustment-mechanism-and-the"
   }
 ]
