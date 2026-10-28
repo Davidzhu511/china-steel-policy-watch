@@ -889,7 +889,7 @@
   {
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeTNDS0RjSXJSTkRLQkVJVUllR2tWN3BMVUxQTHBMXzh2MWtIV3dadlhJVGROOEZyZFl6Um1EbWdpc1dqM0VtLWszTGlxNXhFemhVSnRMOHdwQV9sSl80UFVwUnRIbVcwSFdGYVZUMjM3dEZmb0VfeFptZzNqV1lFb3JCLThtMzJIRlprdE5GSWMtV19W?oc=5",
     "published_date": "2026-10-27",
-    "decision": "exclude",
+    "decision": "excluded",
     "reason_zh": "单纯铁矿石现货/期货价格下跌及中国需求担忧的行情稿，不涉及钢铁出口政策、贸易救济、CBAM/ETS、配额、原产地或主要钢企的可执行动作，按现有范围归档并保留来源链接。",
     "reason_en": "A commodity-price story on iron ore and China demand, with no steel trade-policy, trade-remedy, CBAM/ETS, quota, origin or actionable major-producer development. Archived as out of scope while retaining the source link.",
     "attempted_at": "2026-10-28"
