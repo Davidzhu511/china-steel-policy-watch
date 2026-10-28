@@ -903,5 +903,27 @@
     "attempted_at": "2026-10-28",
     "duplicate_of": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0pINE8xZDkwNjJ1cHBBZ3F0MVZwMGFuZTJPd3BPeTJ1UlRBeGxhZnYxZjB4Zk5CT1RCUmFLT3RsZ1JBRTBTRnNNa20tSFJIOXBQeml0Smc5aWxsblFQQWpRZkVnbFYwZE54N2J3TTQyQ1pQMk9xcnNpQzAwVGJCS3A3bHBET2JLUkJkYzF6NEExdVpRMmF3aFhFdm5MZnFPd1BkTjhjZFZnSzdTekJCMzQyZ1Q?oc=5",
     "evidence_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20615/request-for-comments-on-the-effect-of-the-european-unions-carbon-border-adjustment-mechanism-and-the"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RMXZ3cHRIenBfa0hQNW80bVd1dzRhSjdSQ2s5ZUIxVHFjb1ZuQ1F5Z1NLZnI0Z2ZYdFNXWTl2ZTFidHAwYTZNaXJIamxQV25zeEtfR3puaHlfTldldGZ2bkV2c2ZyMjl1WFJzUE5CU3NRQjRFSk5UTFdNUkNKUQ?oc=5",
+    "published_date": "2026-10-28",
+    "decision": "duplicate",
+    "duplicate_of": "https://gov.uk/guidance/keeping-records-for-carbon-border-adjustment-mechanism-cbam",
+    "reason_zh": "Trans.INFO全文将CMR通常记录的毛重与英国CBAM要求的净重作实务解释；政策事实已由10月22日核验的HMRC记录指南主条目覆盖。官方要求从2027年1月1日起记录不含包装的进口时净重（千克，最多6位小数），而非另行创设“CMR规则”。本链接作为有用的物流解读归并，不重复显示为政策变化。",
+    "reason_en": "The full Trans.INFO article explains the practical distinction between gross CMR weight and UK CBAM net mass. The source-checked HMRC record-keeping guidance already covers the policy facts, so this is retained as a related logistics explainer rather than a separate policy event.",
+    "attempted_at": "2026-10-28",
+    "evidence_url": "https://trans.info/en/uk-cbam-net-mass-records-hauliers-forwarders-511254",
+    "coverage": "2026-10-28已读Trans.INFO全文并逐项对照HMRC记录指南；确认其未发布超出官方主条目的新法规、税率或期限。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2eGlvSkVuYTQwbWp2NGR0NHM3U2hMTTBfaXNOdkFadllZTVllTTdCR1hqNlNRbTZLQlZXNVhfbkYySHFuNTV0YW5PdlFqM2tLQTNJZGxiV19Zb2RsQ1lraDA3RHBscGVLS2NTWQ?oc=5",
+    "published_date": "2026-10-28",
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBseVhmRkhxQm8zd1FENnNOYTdMVVhkTkhUSGVkc2xtaHU5eW5oaHBUSFZPbFhhMUJFYWotdnlKeHVScm1kRVEzaERud1ZoazhidXFWYjJwNWZpUDAwbnhQR1Q2bVpTRTFobmprUjRNNWtJUHNDQ3c?oc=5",
+    "reason_zh": "观察者网文章报道的是日本10月27日决定对中国和台湾镍系冷轧不锈钢实施最终反倾销税的同一事件，已由核验日本财务省公告和部会资料的主条目覆盖。标题“加税42.1%”不能代表全部中国供应商：山西太钢及未抽样合作企业为27.7%，浦项（张家港）及其他供应商为42.1%；产品也限于公告所列镍系冷轧不锈钢范围。本链接归并保留。",
+    "reason_en": "This Chinese report covers the same Japanese final anti-dumping decision already reviewed against Ministry of Finance and council documents. Its 42.1% headline is not the rate for every Chinese supplier; the source-checked main record preserves the producer-specific rates and product scope.",
+    "attempted_at": "2026-10-28",
+    "evidence_url": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261027.html",
+    "coverage": "2026-10-28核对转载标题与已完成的日本财务省主条目；按同事件重复归并，未把媒体表述当成新的统一税率。"
   }
 ]
