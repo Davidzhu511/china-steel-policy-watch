@@ -687,12 +687,12 @@
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12Q05ZYVJaVFU3SU9uWXI4TzdiaWNHejlkVTBreXg2cnNRZVBDdEZUTG02R1U2QUZ4WklTSEYxN1hTWEtkS3RsSXlCNmhJMlcxWjdwVWp5aWFkNXhrVi00R2lIWlI?oc=5",
     "published_date": "2026-10-21",
     "decision": "blocked",
-    "reason_zh": "已核对欧洲议会OEIL程序页及2026年9月15日通过的T10-0276/2026摘要：议会以464票赞成、50票反对、159票弃权通过部分一读修正案，案件随后退回委员会进行机构间谈判，当前仍不是最终法规。官方材料确认欧委会方案拟自2028年扩至180类钢铝密集型下游产品，议会要求进一步扩大；但公开文本仍不足以确认媒体所称光伏组件具体CN清单或5吨门槛。取得附件和最终法规前不按已生效义务处理。",
+    "reason_zh": "2026年10月28日再次核对欧洲议会OEIL程序2025/0419(COD)及官方摘要：案件仍显示等待议会一读立场，2026年9月15日部分表决后退回机构间谈判，尚非最终法规。官方材料支持欧委会拟自2028年扩围部分钢铝密集型下游产品及议会扩大范围的方向，但仍无最终附件可核对媒体所称光伏组件具体CN清单或5吨门槛。取得最终法律文本和附件前不按已生效义务处理。",
     "reason_en": "Evidence remains incomplete. The Chinese note records the precise access or primary-document gap and next verification step; not marked as source checked.",
-    "attempted_at": "2026-10-27",
+    "attempted_at": "2026-10-28",
     "evidence_url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0419%28COD%29",
     "title_zh": "媒体讨论光伏CBAM扩围：最终清单、门槛及测算仍待官方核验",
-    "coverage": "2026-10-27复核欧盟议会OEIL程序及官方研究入口：立法仍处机构间协商，尚无足以核对媒体所称光伏组件具体CN清单或5吨门槛的最终附件；继续按未完成处理。"
+    "coverage": "2026-10-28复核OEIL 2025/0419(COD)：仍处一读/机构间谈判阶段，未见最终法规及附件；光伏组件CN清单和5吨门槛仍无法由最终官方文本确认，继续按未完成处理。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd01xTE1lNlRmZERGbjZBVGQ3U1IxZHM3Q2J2elUtZzlOb201WVRKMWo1VnVsTzdsY3FkdFh0QVRaMGI1UlNYRnNPU3FaaWJwZU1NS0VLbGdMaTFoMk5fLUwzdUFxNmk5N0V6V0ttOUk1Z0FLU0tSSWNGX29TTVczc3RHQjJhRzZlMWQ2LWVuSWpHT2VUV3BIdjh2azJTQ3Fs?oc=5",
@@ -709,12 +709,12 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWZnWlpmdnplMXBjZk13djExUC0tZ1p5TVpWUmFvN01YRjVVNUlUdTRGOU1xUU5xUVNRcDdyTzRYS2gtMHVZU2FmMm4wTjRINlF4YUw4NWtid3FUYkxaaFhsUEhqaC1fUFdyR2txVzQyR1BqM2dYSWdlVjZiVlhvSDhvczcyV1AwQkkyYW1meFpFSGVZUlV2ZHlQSElGMW1MdTh1Z05TODYtanND?oc=5",
     "published_date": "2026-10-16",
     "decision": "blocked",
-    "reason_zh": "再次打开财新原页，仍只公开标题、作者、发布日期、导语及两段正文，随后为订阅墙。页面Digest Hub虽列出氢冶金、成本和绿色溢价数据，但明确标注AI生成，未把其用作原文证据，也未找到足以覆盖全文论据的公开原始资料。继续等待合法可读全文或对应企业、协会原始材料。",
+    "reason_zh": "2026年10月28日再次打开财新原页：仍只可核读标题、作者、发布日期、导语及两段正文，随后为订阅墙。页面Digest Hub多处明确标注AI生成，仅供参考，本轮未把其中数字或结论用作原文证据。未找到足以覆盖全文论据的公开同版材料，继续等待合法可读全文或对应企业、协会原始资料。",
     "reason_en": "Evidence remains incomplete. The Chinese note records the precise access or primary-document gap and next verification step; not marked as source checked.",
-    "attempted_at": "2026-10-27",
+    "attempted_at": "2026-10-28",
     "evidence_url": "https://www.caixinglobal.com/2026-10-16/in-depth-chinas-green-steel-ambitions-hit-a-red-light-102494074.html",
     "title_zh": "财新：中国绿色钢铁商业化面临成本与买方溢价障碍（正文受限）",
-    "coverage": "2026-10-27复查财新原页：仍只可核读标题、作者、日期、导语和两段正文，随后为订阅墙；Digest Hub继续明确标注AI生成，未作为原文证据，也未据其数字完成研判。"
+    "coverage": "2026-10-28复查财新原页：标题、作者、日期、导语和两段正文可读，随后为订阅墙；明确标注AI生成的Digest Hub未作为证据，未完成全文研判。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWszMXRaN0p0ZDI0a0NVMUZ0cThwNW1Ta1JnRW9PVm9rUTlXaG5lakNOSnFNcWZwVFdLRDVnVlREN3pQVmhpUlczUlNGLXpNOXJueGxreGo4S2NEWU9Ca1BST1lSeDVURmpoaGxJalRQV3VjTVVKYTVuRlNha2NPelQzVG1EOGg2bmZBMmdMUXU3eEpfT3FkZmttUzl5RUlTLVhWcXM1QU5tVnhJQjhNVFAyYw?oc=5",
@@ -731,12 +731,12 @@
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QN0hJdXJGekRvU3hWYlF2RlhEcXZFbFF1QjlmVzVTRFlzM0VqN1o5ZDJXYUNlTUNaaE8zYXN1SVVVSHUzcVNiUDJYd3NMbFcyUkcyUjNKRXpxMDRaS3kwWERB?oc=5",
     "published_date": "2026-10-13",
     "decision": "blocked",
-    "reason_zh": "已复核搜狐署名评论全文并检索商务部中国贸易救济信息网。该站可核对单项案件，但本轮仍未找到公开的2026年上半年钢铁98起调查、涉及20多个国家的结构化官方清单或统计稿，无法逐项复算。继续将文章视为作者汇总与趋势评论，不把98起或20多国写成已独立验证的官方统计。",
+    "reason_zh": "2026年10月28日再次检索商务部中国贸易救济信息网：可核对若干单项案件，但仍未找到可复算“2026年上半年钢铁98起调查、涉及20多个国家”的结构化官方清单或统计稿。继续把该数字视为媒体作者汇总，不标为已独立验证；后续须取得完整案件清单后逐项去重、核对产品和立案日期。",
     "reason_en": "Evidence remains incomplete. The Chinese note records the precise access or primary-document gap and next verification step; not marked as source checked.",
-    "attempted_at": "2026-10-27",
+    "attempted_at": "2026-10-28",
     "evidence_url": "https://cacs.mofcom.gov.cn/",
     "title_zh": "评论称中国钢材面临多国壁垒：逐国措施与“20多国”统计待核验",
-    "coverage": "2026-10-27复查商务部中国贸易救济信息网及公开检索：可继续核对单项案件，但未发现2026年上半年钢铁98起调查、涉及20多个国家的结构化官方清单或统计稿，仍无法逐项复算该汇总数字。"
+    "coverage": "2026-10-28复查商务部中国贸易救济信息网：仍只有可逐案核对的单项记录，未发现支持“98起/20多个国家”的结构化官方汇总，无法复算，继续待核。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUlvLUgySXdBZHNCczhZUkt4MHNFUDdyNXJ2ZTFyRnNuVXdBN3B6Z2k0Z3VKeURVN0pzb2VmS0dvNkxTbmxLZUZBUmtxbTZQa3hxdmE3M3d1dUNxbjFTdlhBTEI5MjRJeG9uVHplTzNXSTJmcktaZmpFVF9ZQ0NWWGhQdWlQLWRvdmVqSzVYOUU0bzhLcldjM0FLSVhyRV9TZk9JVGh5YlFnSFRVTTlKRWdGTEVXbVN2a1ZfUA?oc=5",
@@ -786,12 +786,12 @@
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVU0S3JDbk5EVFZ0SVNZOHI3MEx0ajRXcFdVb0FoUVZkZVdieEFVYXpJdFV2aEotcDRpYy1aS01jN3dDcC1qdk5WS29sX21ZOWJJdk01X1dVZmotWThZaHJJUHdHcVk1ektGZWNvdnBlNWFodFhEakVhOWNFdzVTLUE5N2toTG53WU9ELVBBTFpyVGxJbWRUUGhNb3FXQWNjZEJEYTRFWVdVdTUtMFE5TXF1V1d0SWZiZDUwb3NCbWpoUQ?oc=5",
     "published_date": "2026-10-26",
     "decision": "blocked",
-    "reason_zh": "Petromindo原页仅公开标题、日期、作者及一段导语，随后要求登录。可确认印尼方面正与青山讨论深化镍和不锈钢加工及下游合作，但无法核实项目名称、投资额、产能、地点、期限或是否形成正式协议。等待印尼政府、Danantara、青山或工业园原始声明；取得前不把会议线索写成已决定投资或新增产能。",
+    "reason_zh": "2026年10月28日再次核对Petromindo原页、矿业栏目及镍标签页：公开范围仍只有标题、日期、作者和一段导语，随后要求登录。同步检索印尼政府、Danantara及青山公开入口，仍未找到覆盖本次会谈项目名称、投资额、产能、地点、期限或约束性决定的等效原始声明。继续将其视为会谈线索，不写成已决定投资或新增产能。",
     "reason_en": "The Petromindo page exposes only the title, date, byline and one lead paragraph before login. It supports a meeting lead, but not project scope, investment, capacity, location, timing or a binding decision.",
-    "attempted_at": "2026-10-27",
+    "attempted_at": "2026-10-28",
     "evidence_url": "https://www.petromindo.com/news/article/rosan-discusses-deeper-nickel-and-stainless-steel-processing-with-tsingshan-chairman",
     "title_zh": "印尼与青山讨论深化镍及不锈钢加工：项目范围与投资决定待原始声明",
-    "coverage": "2026-10-27复查Petromindo原页：仍仅公开标题、日期、作者、标签和一段导语，随后要求登录；未绕过访问限制。同步检索印尼政府、Danantara及青山公开入口，仍未找到覆盖本次会谈项目、投资额、产能或约束性决定的等效原始声明。"
+    "coverage": "2026-10-28复查Petromindo原页、矿业栏目及镍标签页：仍仅能核读标题、日期、作者和一段导语；未找到印尼政府、Danantara或青山的等效原始声明，未完成全文研判。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeEo1dmx2NlRlSVNQakE5YVhTWkZCdXlEaXVVakc4RjVPRTRYb05yY09yOFl0WmZCQk5nbEJxMEM1WGJFd2gyN095WmY1V25kUHNYWEU4LWJVSF9WWEtYeHBTOU15M1V3dXhqdDdqbXRmSHhiVjFUeHNIdDh2UHFiNG05M2NrTGl1SkVPSWpEMUc?oc=5",
@@ -808,12 +808,12 @@
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDJiWHE4OUlfQXdkQkhDUVQ1RndVSjJBVVNQUVROZUdMS1VWOFpkWEl4MXE5RmFXTzhCbkJSMVhxSWJNTGJBblpjMm81TTk2eFlnZWFhWVhhM3hudFdFQXYtTWl2aktEUUZiMl9WVVlleTlXTmVhZlNmVVlzckVsaTZ5OFlxNGdLZnpTYnRxUE9VTTdnYldFbFBZTGZLQQ?oc=5",
     "published_date": "2026-10-22",
     "decision": "blocked",
-    "reason_zh": "已确认ORF发布题为《The Impact of CBAM’s Extension to Downstream Products on MSMEs》的研究条目，但原文页面当前返回403，检索结果仅有标题和摘要，未找到可核读的同版PDF。仅凭摘要不足以核对其产品范围、数据口径、情景假设和政策建议，继续计入待全文核验。",
+    "reason_zh": "2026年10月28日再次直接打开ORF官方原文，仍返回HTTP 403；仅检索到第三方监测摘要，未找到同版公开PDF或可核读的全文、图表和模型附件。第三方摘要不足以核对产品范围、数据口径、情景假设及政策建议，继续计入待全文核验。",
     "reason_en": "ORF's publication and topic are confirmed, but the article currently returns HTTP 403 and no same-version readable PDF was found. Search snippets are insufficient to verify product scope, data, assumptions or recommendations.",
-    "attempted_at": "2026-10-27",
+    "attempted_at": "2026-10-28",
     "evidence_url": "https://www.orfonline.org/research/the-impact-of-cbam-s-extension-to-downstream-products-on-msmes",
     "title_zh": "ORF研究CBAM下游扩围对中小企业影响：正文访问受阻，待核数据与范围",
-    "coverage": "2026-10-27复查：ORF官方条目仍可由站内列表和检索结果确认，但正文直接读取继续返回403，未找到同版公开PDF；未读取全文、图表或模型附件。"
+    "coverage": "2026-10-28复查：ORF官方原文仍返回403；仅有第三方监测摘要，未找到同版可读PDF、全文、图表或模型附件，未完成全文研判。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTVrQ1QtckstWXlhTGR0cE5RUmpTc2l4NDlJeFMzUGc3WVV1MDVsVGxQRFl6UkJmdHJZcUMzSDhNYVpDd2RXZXRyUXE5NDE3MVBvaGsyeXBZOXMyMnBCNm1OWlJqNUFTeHNCTnJkQU1LaWp4bG90WDZyWlRDRzBYcTlvUThLOUJFM3RfaGtvRV9uaTZZYTE2dUdaSEI3NzBrX3AyYg?oc=5",
