@@ -5023,5 +5023,34 @@
     },
     "evidence_url": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261027.html",
     "coverage": "2026-10-28已通读日本财务省10月27日公告、英文暂译及10月19日特殊关税部会9页资料，核对法律状态、2026-10-31至2031-10-30期限、成分范围、22个税目所在HS项、四组生产商税率和调查结论。日本正式政令拟于10月30日公布，届时仍应以公布文本和具体日本税目为准。"
+  },
+  {
+    "url": "https://gov.uk/government/consultations/carbon-border-adjustment-mechanism-cbam-a-consultation-on-sectoral-scope-expansion-to-include-refinery-products",
+    "published_date": "2026-10-28",
+    "reviewed_at": "2026-10-28",
+    "title_zh": "英国就将炼油产品纳入CBAM征求意见，反馈截止2027年1月20日",
+    "title_en": "UK consults on adding refinery products to CBAM; responses due 20 January 2027",
+    "summary_zh": "英国财政部与税务海关总署发布开放咨询，拟在技术可行后尽快把部分炼油产品纳入英国CBAM；这不是已生效扩围，实施时间尚未确定。文件建议初期覆盖15个8位商品编码下的汽油、柴油、航空煤油和煤油：2710 1225、2710 1231、2710 1241、2710 1245、2710 1249、2710 1250、2710 1270、2710 1290、2710 1921、2710 1925、2710 1929、2710 1944、2710 1946、2710 1947、2710 1948；同时征询是否初期排除乙醇和FAME等低碳燃料，并按质量平衡扣除混合燃料中的低碳部分。拟议方法包括装置级统一强度、装置级重新分配以及生产过程级核算；氢可能作为前体计入。炼油产品默认值、原产炼厂/国家证明、行业税率及碳价减免仍待决定。咨询于2027年1月20日23:59截止。",
+    "summary_en": "HM Treasury and HMRC opened a consultation on adding a subset of refinery products to UK CBAM as soon as feasible; no implementation date has been set and the scope expansion is not yet law. The proposal tests 15 eight-digit commodity codes covering petrol, diesel, jet fuel and kerosene: 2710 1225, 2710 1231, 2710 1241, 2710 1245, 2710 1249, 2710 1250, 2710 1270, 2710 1290, 2710 1921, 2710 1925, 2710 1929, 2710 1944, 2710 1946, 2710 1947 and 2710 1948. It asks whether neat low-carbon fuels such as ethanol and FAME should initially be excluded, with mass-balance treatment for blends. Installation-level and process-level emissions methods, hydrogen as a precursor, defaults, origin evidence, a refining-sector rate and carbon-price relief remain under consultation. Responses close at 11:59pm on 20 January 2027.",
+    "impact_zh": "本咨询不改变2027年起已覆盖钢铁的英国CBAM范围、钢铁税率或申报义务；对中国钢企的直接合规工作仍应按现行钢铁规则推进。间接影响可能来自英国物流、燃料和供应链成本，炼油方法也可能成为未来其他行业扩围的参考。集团如同时向英国出口成品油、经营贸易/仓储或掌握炼厂排放与原产追溯数据，应在2027年1月20日23:59前提交对商品编码、混合燃料质量平衡、炼厂追溯、默认值和成本传导的证据；不能据咨询稿预估确定税额。",
+    "impact_en": "The consultation does not change the existing UK CBAM scope, rate or compliance duties for iron and steel from 2027. Steel exporters should continue preparing under the enacted steel rules. Indirect effects may arise through UK fuel, logistics and supply-chain costs, and the refinery methodology may inform later scope expansion. Groups that also export refined fuels, trade or store them, or hold refinery emissions/origin data should submit evidence on codes, blend mass balance, refinery traceability, defaults and cost pass-through by 11:59pm on 20 January 2027. Do not price a definite charge from this consultation.",
+    "category": "碳与环保",
+    "status": "开放咨询",
+    "importance": "中",
+    "tags": [
+      "UK CBAM",
+      "征求意见",
+      "炼油产品",
+      "商品编码"
+    ],
+    "tags_en": [
+      "UK CBAM",
+      "consultation",
+      "refinery products",
+      "commodity codes"
+    ],
+    "follow_up": "2027年1月20日23:59前可回应；后续跟踪政府答复、正式扩围法案、实施时间、最终商品编码、排放核算和默认值。",
+    "evidence_url": "https://assets.publishing.service.gov.uk/media/6ae1866b779378370fd80a99/Carbon_Border_Adjustment_Mechanism_sectoral_scope_expansion_to_refinery_products.pdf",
+    "coverage": "2026-10-28已核读GOV.UK咨询页和44页官方PDF全文，核对咨询法律状态、截止时间、拟议15个炼油产品编码、低碳燃料/混合物方案、氢前体、三类排放分配方法、默认值、原产追溯、税率和实施安排；尚无政府答复、最终法案或实施日期。"
   }
 ]
