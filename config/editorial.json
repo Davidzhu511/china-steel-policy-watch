@@ -4985,5 +4985,43 @@
     },
     "evidence_url": "https://news.metal.com/newscontent/104173310-smm-steel-european-hrc-nordic-mills-push-higher-q1-offers-cbam-capital-tie-up-and-high-stocks-drag-buying-momentum",
     "coverage": "2026-10-27已通读SMM公开全文，核对800—830欧元/吨DDP、740和743欧元/吨EXW及市场判断；报价为SMM市场沟通和内部模型处理数据，未独立取得钢厂正式报价单或成交记录。另核对欧委会CBAM Registry官方页面对50%规则监测功能的说明；未把SMM的“预购/冻结全年义务”表述当作精确法律定义。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBseVhmRkhxQm8zd1FENnNOYTdMVVhkTkhUSGVkc2xtaHU5eW5oaHBUSFZPbFhhMUJFYWotdnlKeHVScm1kRVEzaERud1ZoazhidXFWYjJwNWZpUDAwbnhQR1Q2bVpTRTFobmprUjRNNWtJUHNDQ3c?oc=5",
+    "published_date": "2026-10-27",
+    "reviewed_at": "2026-10-28",
+    "title_zh": "日本决定对中国及台湾镍系冷轧不锈钢征收五年反倾销税，10月31日起实施",
+    "title_en": "Japan decides five-year definitive anti-dumping duties on Chinese and Taiwanese nickel-added cold-rolled stainless steel from 31 October",
+    "summary_zh": "日本财务省10月27日宣布，内阁已决定对原产于或从中国、台湾出口的镍系冷轧不锈钢带及冷轧板征收最终反倾销税；政令拟于10月30日公布，课税期为2026年10月31日至2031年10月30日。调查范围为含铬10.5%以上、镍0.6%以上的合金钢，涉及HS 7219.31—7219.35、7219.90、7220.20及7220.90项下22个税目。中国山西太钢及未抽样合作企业税率为27.7%，浦项（张家港）不锈钢（PZSS）及其他供应商为42.1%；台湾YUSCO及未抽样企业为3.6%，Walsin及其他供应商为20.1%。最终税率与7月9日起的临时税率相同。",
+    "summary_en": "Japan's Ministry of Finance announced on 27 October that the Cabinet had decided definitive anti-dumping duties on nickel-added cold-rolled stainless steel coil, sheet and strip originating in or exported from China and Taiwan. The Cabinet Order is due to be promulgated on 30 October and duties will apply from 31 October 2026 through 30 October 2031. Scope covers alloy steel with at least 10.5% chromium and more than 0.6% nickel under 22 tariff lines within HS 7219.31-7219.35, 7219.90, 7220.20 and 7220.90. Rates are 27.7% for Shanxi Taigang and cooperating non-sampled Chinese suppliers, 42.1% for PZSS and other Chinese suppliers, 3.6% for YUSCO and cooperating non-sampled Taiwanese suppliers, and 20.1% for Walsin and other Taiwanese suppliers. These rates are unchanged from the provisional measure.",
+    "impact_zh": "这是已由日本内阁决定、即将公布并按明确日期实施的最终措施，不是提案。向日本出口相关冷轧不锈钢的中国钢厂和贸易商应在10月31日前按制造商身份、原产地/出口地和日本税目逐票复核适用税率；尤其不要把27.7%合作税率误用于PZSS或未获该待遇的供应商。报价和合同应明确反倾销税承担、在途货物清关日期及错误归类风险，并保存材质成分、宽度、轧制状态、制造商和原产地证明。该措施仅覆盖上述镍系冷轧不锈钢范围，不能外推到所有不锈钢板材。",
+    "impact_en": "This is a definitive measure decided by Japan's Cabinet with a specified implementation date, not a proposal. Chinese mills and traders shipping covered cold-rolled stainless steel to Japan should verify the producer, origin/export route and Japanese tariff classification shipment by shipment before 31 October. Do not apply the 27.7% cooperating rate to PZSS or suppliers not entitled to it. Contracts and quotations should allocate anti-dumping duty, customs-clearance timing and misclassification risk, while retaining composition, width, rolling condition, producer and origin evidence. The measure covers the specified nickel-added cold-rolled products only, not all stainless plate.",
+    "category": "贸易救济",
+    "status": "最终反倾销措施／10月31日起实施",
+    "importance": "高",
+    "tags": [
+      "日本",
+      "反倾销",
+      "冷轧不锈钢",
+      "中国",
+      "台湾",
+      "HS 7219",
+      "HS 7220"
+    ],
+    "tags_en": [
+      "Japan",
+      "anti-dumping",
+      "cold-rolled stainless steel",
+      "China",
+      "Taiwan",
+      "HS 7219",
+      "HS 7220"
+    ],
+    "follow_up": {
+      "action_zh": "10月30日核对正式公布的政令及日本税目明细；10月31日起按生产商、原产地/出口地和清关日期确认税率，期限至2031年10月30日。",
+      "action_en": "Check the promulgated Cabinet Order and detailed Japanese tariff lines on 30 October; from 31 October confirm the rate by producer, origin/export route and customs-clearance date. The measure runs through 30 October 2031."
+    },
+    "evidence_url": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261027.html",
+    "coverage": "2026-10-28已通读日本财务省10月27日公告、英文暂译及10月19日特殊关税部会9页资料，核对法律状态、2026-10-31至2031-10-30期限、成分范围、22个税目所在HS项、四组生产商税率和调查结论。日本正式政令拟于10月30日公布，届时仍应以公布文本和具体日本税目为准。"
   }
 ]
