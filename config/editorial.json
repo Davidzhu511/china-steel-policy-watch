@@ -5052,5 +5052,34 @@
     "follow_up": "2027年1月20日23:59前可回应；后续跟踪政府答复、正式扩围法案、实施时间、最终商品编码、排放核算和默认值。",
     "evidence_url": "https://assets.publishing.service.gov.uk/media/6ae1866b779378370fd80a99/Carbon_Border_Adjustment_Mechanism_sectoral_scope_expansion_to_refinery_products.pdf",
     "coverage": "2026-10-28已核读GOV.UK咨询页和44页官方PDF全文，核对咨询法律状态、截止时间、拟议15个炼油产品编码、低碳燃料/混合物方案、氢前体、三类排放分配方法、默认值、原产追溯、税率和实施安排；尚无政府答复、最终法案或实施日期。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lXzBGQUJ6bkt5RDZlR0lsdWNTRW5Ha2w5cFBaZ3ozYl9UTWxwM2huOExHbDNSaS1OMnFTNkJiWmZBaE1jeXBZSDB0a2J3cjlvNFAyZ28xZDRwTjNIV2I1X2x3?oc=5",
+    "published_date": "2026-10-22",
+    "reviewed_at": "2026-10-28",
+    "title_zh": "HKTDC：香港转口英国CBAM商品需准备核证排放与合同分工",
+    "title_en": "UK CBAM: What Hong Kong Traders Need to Know",
+    "summary_zh": "这是一篇香港贸发局行业解读，并非新法规。文章梳理英国CBAM自2027年1月1日起适用于铝、水泥、化肥、氢及钢铁五个行业；法律责任由英国进口商承担，但境外生产商和香港贸易商需要提供产品与生产装置对应关系、净重、实际隐含排放及已支付碳价等证据，否则进口商可能使用默认值计税。英国进口商在过去12个月或未来30日内受管商品净重达到50,000英镑价值门槛时须注册；2027年首个年度申报期的申报和付款截止日为2028年5月31日，此后改为季度申报。英国政府当前合格碳定价制度名单包含中国全国碳排放权交易市场，但这不等于自动或足额减免：可抵扣金额取决于实际有效碳价及可核验证据，免费配额、补贴或返还会降低可主张金额。",
+    "summary_en": "This is an HKTDC industry explainer, not a new legal measure. It outlines the UK CBAM starting on 1 January 2027 for aluminium, cement, fertiliser, hydrogen and iron and steel. UK importers bear the legal liability, but overseas producers and Hong Kong traders will need product-to-installation links, net mass, verified embedded-emissions data and evidence of carbon prices actually paid; otherwise defaults may be used. Registration applies when relevant imports cross the GBP 50,000 value threshold over the relevant look-back or forward-looking test. The first 2027 return and payment are due on 31 May 2028, followed by quarterly periods. The current UK qualifying-schemes list includes the China National ETS, but relief is not automatic or necessarily full: it depends on the effective price and verified evidence, and is reduced by free allocation, subsidies or rebates.",
+    "impact_zh": "对向英国出口钢铁、经香港转口或由香港贸易商组织交易的中国企业，重点不是仅向英国客户提供一个企业平均排放数，而是尽快按8位商品编码、生产企业和具体装置建立可追溯数据包，保存净重、实际直接/间接排放边界、核证文件及中国全国碳市场实际支付碳价证明，并在销售合同中明确数据提供、第三方核证、默认值风险、税负转嫁和更正责任。中国全国碳市场被列入合格制度只提供申请减免的制度入口，不能据此在报价中预设固定抵扣额；应由英国进口商依据实际有效碳价和证据申报。英国与欧盟CBAM的申报、价格和认可机制不同，不能直接共用税额结论。",
+    "impact_en": "Chinese steel producers exporting to the UK, including Hong Kong-routed trades, should build traceable data packs by 8-digit commodity code, producer and installation rather than provide only a company-wide average. Retain net mass, boundary-consistent direct and indirect emissions data, verification records and evidence of carbon prices effectively paid under China's national ETS, and allocate data, verification, default-value, pass-through and correction risks in contracts. Inclusion of China's ETS on the qualifying-schemes list creates a route to claim relief but does not justify assuming a fixed credit in pricing; the UK importer must substantiate the effective price. UK and EU CBAM rules remain separate.",
+    "category": "碳与环保",
+    "status": "行业解读",
+    "importance": "中",
+    "tags": [
+      "UK CBAM",
+      "香港贸易商",
+      "中国全国碳市场",
+      "碳价减免"
+    ],
+    "tags_en": [
+      "UK CBAM",
+      "Hong Kong traders",
+      "China national ETS",
+      "carbon price relief"
+    ],
+    "follow_up": "2027年1月1日前完成英国受管商品编码、生产装置、净重、排放与实际碳价证据映射；跟踪英国政府对合格碳定价制度名单及申报细则的更新。英国进口商2028年1月1日起办理注册，2027年度首份申报及付款截止2028年5月31日。",
+    "evidence_url": "https://research.hktdc.com/en/article/MjQ1NjU3NTk3Ng",
+    "coverage": "2026-10-28已通读HKTDC原文，并核对GOV.UK英国CBAM政策汇总、当前合格碳定价制度名单和记录保存指南；未替任何具体企业核算税额或确认实际可获减免。"
   }
 ]
