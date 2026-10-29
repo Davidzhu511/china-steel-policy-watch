@@ -5081,5 +5081,34 @@
     "follow_up": "2027年1月1日前完成英国受管商品编码、生产装置、净重、排放与实际碳价证据映射；跟踪英国政府对合格碳定价制度名单及申报细则的更新。英国进口商2028年1月1日起办理注册，2027年度首份申报及付款截止2028年5月31日。",
     "evidence_url": "https://research.hktdc.com/en/article/MjQ1NjU3NTk3Ng",
     "coverage": "2026-10-28已通读HKTDC原文，并核对GOV.UK英国CBAM政策汇总、当前合格碳定价制度名单和记录保存指南；未替任何具体企业核算税额或确认实际可获减免。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZmVmcWlGZGtJa25Uc1A5emFBMTNLa2RVY1lsVEVoLThBUk5oSVZETnZ1bFJfWEVUNlZrbkRmeFhraFlVZ3R3Wl84N0xMWEY4RGEw?oc=5",
+    "published_date": "2026-10-27",
+    "reviewed_at": "2026-10-29",
+    "title_zh": "中国钢材出口仍处高位、贸易救济增多：调查、裁决与已征税须逐案区分",
+    "title_en": "China’s steel exports remain high as trade remedies rise; case status must be checked individually",
+    "summary_zh": "这是一篇市场评论，不是政府措施或新的贸易救济决定。文章所引核心外贸数据可核对：2025年中国出口钢材11901.9万吨，同比增长7.5%，出口均价约693.8美元/吨、同比下降8.2%；2026年1—9月累计出口8564.1万吨，同比下降2.6%。文中“20多个国家和地区、98起贸易救济案件”可追溯至Mysteel依据中国贸易救济信息网公开记录所作的不完全汇总，其中混合了调查、裁决等不同节点，并非商务部发布的一项官方汇总统计，更不能理解为98项已经生效的新税。文章同时指出，发起调查不等于已经认定倾销或开始征税，这一区分是正确的；其关于行业“寒冬”和转型路径的表述属于作者判断。",
+    "summary_en": "This is market commentary, not a government measure or a new trade-remedy decision. Core trade data can be cross-checked: China exported 119.019 million tonnes of steel products in 2025, up 7.5%, at an average price of about USD 693.8 per tonne, down 8.2%; exports in January–September 2026 were 85.641 million tonnes, down 2.6%. The claim of 98 trade-remedy cases across more than 20 jurisdictions traces to a Mysteel incomplete aggregation of public China Trade Remedies Information records. It combines investigations and determinations at different stages, is not a single official MOFCOM aggregate release, and does not mean 98 new duties are in force. The article correctly distinguishes initiation from a dumping finding or an effective duty; its broader “winter” and transformation narrative is commentary.",
+    "impact_zh": "中国钢厂和出口商不应把“98起”当作统一税负或市场关闭程度。实务上应建立按国家／地区、产品、HS税号、生产商—出口商组合、案件编号和法律阶段管理的台账，分别标注立案、初裁、临时措施、终裁、期终复审、保障措施及生效日期；报价前逐案核对税率、保证金、配额、原产地及熔炼浇铸证据。高端化和海外加工可以改善产品与市场结构，但境外加工并不会自动改变原产地或规避反规避审查，不能据评论稿直接调整税率、合同或投资判断。",
+    "impact_en": "Chinese mills and exporters should not treat “98 cases” as a uniform tariff burden or a measure of market closure. Maintain a case matrix by jurisdiction, product, HS code, producer-exporter combination, case number and legal stage, separating initiation, preliminary determination, provisional measures, final measures, reviews, safeguards and effective dates. Before quoting, verify the applicable rate, deposits, quotas, origin and melt-and-pour evidence case by case. Higher-value products and overseas processing may improve market positioning, but foreign processing does not automatically change origin or avoid anti-circumvention scrutiny.",
+    "category": "贸易政策",
+    "status": "市场评论／非政策文件",
+    "importance": "中",
+    "tags": [
+      "中国钢材出口",
+      "贸易救济",
+      "反倾销",
+      "出口风险"
+    ],
+    "tags_en": [
+      "China steel exports",
+      "trade remedies",
+      "anti-dumping",
+      "export risk"
+    ],
+    "follow_up": "持续按商务部中国贸易救济信息网及各调查机关原始公告更新案件台账；每个订单以适用产品、生产商、原产地、法律阶段和清关日期为准，不存在适用于全部“98起案件”的统一期限或税率。",
+    "evidence_url": "https://timeline.sohu.com/news/FXLopmNDK3",
+    "coverage": "2026-10-29已通读搜狐公开全文，并以国家统计局2025年公报、中钢协/海关数据核对2025全年及2026年1—9月出口量价；以Mysteel基于中国贸易救济信息网的汇总核对“98起/20多个国家”出处。未取得商务部发布的同口径结构化汇总，也未逐项复算98条案件，故明确保留为媒体/行业汇总。"
   }
 ]
