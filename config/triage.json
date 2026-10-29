@@ -923,5 +923,49 @@
     "attempted_at": "2026-10-28",
     "evidence_url": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261027.html",
     "coverage": "2026-10-28核对转载标题与已完成的日本财务省主条目；按同事件重复归并，未把媒体表述当成新的统一税率。"
+  },
+  {
+    "url": "https://gov.uk/guidance/opt-out-of-the-uk-ets-if-your-installation-is-a-hospital-or-small-emitter",
+    "published_date": "2026-10-29",
+    "decision": "excluded",
+    "reason_zh": "采集器将页面列入10月29日新增，但GOV.UK原页显示发布于2021年7月1日、最后更新于2025年10月15日；本次没有新的法规、名单或期限变化。内容仅适用于英国境内医院及年排放低于25,000吨CO₂e、额定热输入低于35MW等条件的小排放设施，不是英国CBAM进口规则，也未形成中国钢材出口商的新增动作。按非新增且非本看板核心业务归档，保留官方链接。",
+    "reason_en": "The collector surfaced this page as new on 29 October, but GOV.UK shows it was published on 1 July 2021 and last updated on 15 October 2025. It contains no new rule, list or deadline in this run and concerns UK installations qualifying as hospitals or small emitters, not UK CBAM import obligations.",
+    "attempted_at": "2026-10-29",
+    "evidence_url": "https://www.gov.uk/guidance/opt-out-of-the-uk-ets-if-your-installation-is-a-hospital-or-small-emitter",
+    "title_zh": "英国ETS医院及小排放设施旧指南被误列为今日新增",
+    "coverage": "2026-10-29通读GOV.UK页面并核对更新历史、2026—2030适用条件和合规要求；确认本轮没有页面更新，不将旧指南当作新政策。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTIyREx1TmxUUno1ekp6UDc2RldPcEZIeC12U3kxOEZiX0xONElaR2lNUk05dXpsV0oteEVBNHdGcGprSzhHN3VOemw3RE1mUDlSeDItRG55YTlocGNSeVFvSWI2aC1MdU5aQUpPTUVfUGNWc2VCVDY3QkozajRiTWJhNF9wcENaT2pObw?oc=5",
+    "published_date": "2026-10-29",
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBseVhmRkhxQm8zd1FENnNOYTdMVVhkTkhUSGVkc2xtaHU5eW5oaHBUSFZPbFhhMUJFYWotdnlKeHVScm1kRVEzaERud1ZoazhidXFWYjJwNWZpUDAwbnhQR1Q2bVpTRTFobmprUjRNNWtJUHNDQ3c?oc=5",
+    "reason_zh": "搜狐稿仍是日本10月27日决定对中国和台湾镍系冷轧不锈钢征收五年最终反倾销税的同一事件，已由日本财务省公告和部会资料核验的主条目覆盖。转载标题把措施描述为对稀土出口的“报复”，官方文件没有作这种因果认定；税率也并非对全部中国供应商统一适用。保留转载链接并归并，不重复展示。",
+    "reason_en": "This Sohu story repeats Japan's 27 October final anti-dumping decision on nickel-based cold-rolled stainless steel already covered by a source-checked item. Official documents do not characterize the measure as retaliation for rare-earth controls, and the rates are producer-specific rather than one uniform China rate.",
+    "attempted_at": "2026-10-29",
+    "evidence_url": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261027.html",
+    "coverage": "2026-10-29将转载标题与已核验日本财务省主条目逐项对照；确认同事件且媒体新增的政治因果说法无官方依据。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOVZNNG5aREVoYnJGQWtaRnN1TjNDaE1MaDcySGxnckNpY3NOTVY2VTZGODJfT2g1VHBJWk1XVERLWVUxN1luRVJ6eGFWUjRoSmFZNk5GOW5WeXBrWTVBMFNxMXFmYWM4RXVDMlZwNDFPWUNQX1JXM2Y2c2RJSERxdmVIT2NFb1pGOFljMi0xV2RSWkxwVU03V0gyeEJITHE2dmwzVGJoNFQzQnlnRFlsVm95MjU3UmZVNFdDN01feXl3NUU1WjhRV0RLSlZ5RnQzRlozQVRhTVlpLUo3?oc=5",
+    "published_date": "2026-10-29",
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOREdxMFVuM0w2S005MzBRM3dRWjdZeTB4dHc1T3ZvY2w4UFlSUHpmUmxoNzY1bVExdnVmQVhCY0t1bENSd3U4RlAwTVhMMmhkQnVmcGJ2RHhGck5HaU10bEZ1Wlg0TFZQcVVpdmk2c05BbHNOSWM0alZJSlpFQVJMd3dsc09GU2RIYzUzaGdYcUdZQTdCbGFBY1YxVWJhR3RsR3ZjQ2JsVGdSX3RRTVkzVUM0dW53MFBlM1B2Y091dXFsb3lyZXJLZFNObDktYXR1aHN1ZmZ3UkgtM1dPNGlLTkpWVDNNVFAz?oc=5",
+    "reason_zh": "Polity/Econ3x3全文是10月20日Business Day已发布并完成核验的同一南非产品级CBAM研究解读：作者、80欧元/吨CO₂e假设、钢铝产品层面方法及“不得把情景当预测”的结论一致。本版增加了部分铝业示例，但没有新的欧盟法规、税率或对中国订单可直接套用的结论；保留为同研究的后续转载，不重复显示。",
+    "reason_en": "The Polity/Econ3x3 article republishes the same South African product-level CBAM research already reviewed from Business Day: authors, EUR 80/tCO2e scenario, iron-steel/aluminium method and non-forecast caveat align. It adds examples but no new EU rule, rate or China-specific result.",
+    "attempted_at": "2026-10-29",
+    "evidence_url": "https://www.polity.org.za/article/how-the-european-unions-carbon-border-adjustment-mechanism-eu-cbam-may-affect-south-african-exports-2026-10-29",
+    "coverage": "2026-10-29通读Polity/Econ3x3全文并与10月20日已核验主条目的作者、方法、假设和结论对照；按同研究重复归并。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNM0twdVdhNm1kVmJ1d0ZZQ0RXQmw0dUZIMWtQZEs2MW51N3JqanIydUNjUXF0TU5YLTdwOGNZbjNuS2R6c1JPWU5iWU5BdHlsWElSZUpqV0hwX05HX0xEZEVKdTJVVU92YlZ4aFg3WVB1UnhtQ2gtOVYxaDF5YTZQeUJRUTZqT0xQQW9SNFkxYmdUeUhnSEZaTkxQOHEwb3AwVTJWT2szblNTZWN4RkREZldnRklOYjBZVUpMTzF1ZE0wXzZUN3BHYTVDSlJtZUt4OE5IX21jT2NuRDNaZ1hVUWtsNkszYWphdHA1T1lrY2YteHh3anlkWVRJUXdyYlpqUG8td2h3ZDJjQUxydHk3UlZjaUFzUDdISFdQYVhYa25aYWtDUjZOTzRwMA?oc=5",
+    "published_date": "2026-10-29",
+    "decision": "blocked",
+    "reason_zh": "TradingView摘要称首钢股份第三季度转为亏损并将前三季利润、现金流下降归因于钢铁盈利转弱；但截至本轮核验，巨潮资讯和公司公开披露中尚未找到北京首钢股份有限公司2026年第三季度报告，公开财报日历仍指向10月30日披露。媒体标题不足以核对营业收入、净利润、经营现金流、同比口径和原因，因此不得标为已研判。下一步在正式报告发布后逐项核对并决定是否纳入主要钢企经营动向。",
+    "reason_en": "A TradingView summary says Beijing Shougang swung to a Q3 loss, but no official 2026 third-quarter report was found in CNINFO or the issuer's disclosures during this review, while public calendars still indicate a 30 October release. The headline is insufficient to verify figures, comparison bases or causes; review must wait for the filing.",
+    "attempted_at": "2026-10-29",
+    "evidence_url": "https://www.cninfo.com.cn/",
+    "title_zh": "首钢股份三季度亏损线索待正式报告核验",
+    "coverage": "2026-10-29检索巨潮资讯、公司披露及公开财报日历；仅确认媒体标题和预定披露时间，未获得正式三季报正文，不推断数值或经营原因。"
   }
 ]
