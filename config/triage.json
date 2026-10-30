@@ -1000,5 +1000,16 @@
     "evidence_url": "https://www.edie.net/making-the-uk-cbam-ready/",
     "title_zh": "edie调查称供应商碳数据是英国CBAM准备难点，全文仍待核验",
     "coverage": "2026-10-30读取edie公开页至注册墙，并检索Weightmans官网、公开索引和研讨会线索；仅确认70%和66%两项导语数据及2027年实施背景，未获得样本量、问卷设计或完整正文。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY05md2ZOcGlEMzVsdUFudWdjR29EcFg1RVFBMVdOVG5ZWS1tbHVnTWhsYXBlel9jUDRRZzJnS0FyRHlzNFNTMExrRTRJRzFBZGdLYXY4YVVZcnVQTFk5b2N3eFdyUThCR2NEOXVQenUwRkJ1S2NaQURCVzYzdjhYYVZvbG95YVV4MHppeGUzcnJhd19oLUZWaTZQb3c4U0Q3QUhjM0xjUkNuaVZwRTFIeUJHNzFDU0EzeGc?oc=5",
+    "published_date": "2026-10-30",
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYm9Ea3NUcGk0UjBnVHQ3VWUwVzRqTGdUSGozVUtqOW9rZGNkMlZnTVdodko3X2FQdkFmUUZCNnExd0pDd3JWNVJ5NXQtM2t1a3lndm1Yd0MzZ3d1cC1heHEzTkdHbHNYTG5WTXN5aWd4UkNkRFpZWjlkYk52d3FyTGs5d1BHUGxUbzdEV0s2X0dEZTJZRktUQVVybmV6MUVaUWdrWGpPdGlSQ0FIYkVz?oc=5",
+    "reason_zh": "IndexBox中文标题索引与同日英文索引指向同一篇欧英不锈钢配额及CBAM成本报道，发布时间完全一致，底层均引用MEPS分析。英文索引主条目已于2026年10月30日完成原文和官方交叉核验，覆盖配额使用、50%超额税率、英国默认值和示例税率；本链接作为语言镜像归并，保留来源但不重复计入待研判。",
+    "reason_en": "This Chinese-title IndexBox feed item is a language-index duplicate of the same 30 October article already reviewed through the English feed URL. Publication time and underlying MEPS analysis match; retain the link without counting it as a separate review.",
+    "attempted_at": "2026-10-30",
+    "evidence_url": "https://mepsinternational.com/gb/en/news/european-importers-come-to-terms-with-increased-tariffs",
+    "coverage": "2026-10-30对照两条IndexBox索引的发布时间、主题、标题和MEPS底层证据；确认同一事件的语言镜像，主条目已完成完整解读。"
   }
 ]
