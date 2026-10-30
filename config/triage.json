@@ -989,5 +989,16 @@
     "attempted_at": "2026-10-30",
     "evidence_url": "https://www.rediff.com/money/report/netherlands-minister-no-cbam-renegotiation-essential-measure/20261027.htm",
     "coverage": "2026-10-30通读Rediff/PTI全文并与同场论坛的既有主条目对照；保留荷兰部长表态的证据链接，但明确其不改变欧盟CBAM法律状态。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83RFpwRlhrajRQbnVXOEdzbFhOaFNqU0NXcl9Yb2R6ZE9HclVNR3pfdTdnOEJnekJyNDlKcy1kanItSnI3Qk5oemZZSzNQT2tqbWtGVmtMVlp0QdIBZkFVX3lxTE52aGZpellxd0Noa2pSMFdES1EyZlowb1BVS0xNbEtNQ2dhTEp6VHhza0J0Yi1ta2ZpSEhlVnlDbzA1QndTM3E4NHZMeEl3X1ZId19XRjZmRU16MWJHTDA3ZDFFUnFzUQ?oc=5",
+    "published_date": "2026-10-28",
+    "decision": "blocked",
+    "reason_zh": "edie公开页仅显示标题、导语及Weightmans网络研讨会即时投票结果：约70%的受访者已开始或完成英国CBAM适用性评估，66%把供应商碳数据列为最大合规挑战；正文在注册墙后，本轮无法核对样本量、投票对象、调查方法、合同建议及全文限定条件。该调查与中国钢材对英业务相关，但不能据有限摘要完成全文研判或把比例外推至全部进口商。下一步尝试作者Weightmans的公开版本、研讨会录像或可合法访问的完整正文，并继续以HMRC规则核对。",
+    "reason_en": "The public edie page exposes only the headline, introduction and webinar poll figures: about 70% had started or completed a UK CBAM applicability assessment and 66% identified supplier carbon data as the biggest challenge. The full article is behind registration, so sample size, audience, method, contractual advice and caveats could not be checked. Keep pending rather than extrapolating the poll.",
+    "attempted_at": "2026-10-30",
+    "evidence_url": "https://www.edie.net/making-the-uk-cbam-ready/",
+    "title_zh": "edie调查称供应商碳数据是英国CBAM准备难点，全文仍待核验",
+    "coverage": "2026-10-30读取edie公开页至注册墙，并检索Weightmans官网、公开索引和研讨会线索；仅确认70%和66%两项导语数据及2027年实施背景，未获得样本量、问卷设计或完整正文。"
   }
 ]

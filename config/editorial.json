@@ -5265,5 +5265,106 @@
     "follow_up": "继续跟踪欧委会对默认值、基准值、核证方法及免费配额调整的正式修订；如模型假设或欧盟法规变化，按新版本重算，不能沿用本文情景值。",
     "evidence_url": "https://www.fastmarkets.com/insights/how-cbam-will-widen-the-premium-for-high-grade-iron-ore/",
     "coverage": "2026-10-30已通读Fastmarkets全文，核对两条工艺路线、矿石品位、成本与排放敏感性数字；并对照欧委会CBAM立法指南、实施条例(EU) 2025/2621（经(EU) 2026/1740修正）及欧盟气候行动页面核实默认值加成和2026—2038免费配额退出区间。未独立审计Fastmarkets模型底稿、矿价和碳价假设，所有前瞻数字均按情景而非确定税额处理。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYm9Ea3NUcGk0UjBnVHQ3VWUwVzRqTGdUSGozVUtqOW9rZGNkMlZnTVdodko3X2FQdkFmUUZCNnExd0pDd3JWNVJ5NXQtM2t1a3lndm1Yd0MzZ3d1cC1heHEzTkdHbHNYTG5WTXN5aWd4UkNkRFpZWjlkYk52d3FyTGs5d1BHUGxUbzdEV0s2X0dEZTJZRktUQVVybmV6MUVaUWdrWGpPdGlSQ0FIYkVz?oc=5",
+    "published_date": "2026-10-30",
+    "reviewed_at": "2026-10-30",
+    "title_zh": "欧英不锈钢进口配额趋紧：部分配额已用尽，英国CBAM默认值将放大数据不足成本",
+    "title_en": "EU and UK stainless quotas tighten; UK CBAM defaults raise the cost of missing data",
+    "summary_zh": "MEPS对2026年第四季度配额使用情况的分析显示，欧盟不锈钢棒及轻型材的“其他国家”溢出配额2,399吨已用尽，截至10月15日超额申请14,858吨；印度国别配额23,139吨也已用尽，而中国、日本和韩国国别配额尚有余额。欧盟无缝不锈钢管的FTA/国别溢出配额亦超额申请逾750吨，印度3,832吨和“其他国家”774吨配额已用尽。英国方面，截至10月15日，欧盟来源不锈钢棒及轻型材4,135吨配额约78%尚未使用，但其他来源棒材/轻型材590吨和盘条59吨已用尽；土耳其“其他焊管”第四季度3,629吨配额已用尽。英欧自7月1日起缩减钢铁配额并将超额税率提高至50%。MEPS按英国官方示例税率£9.69/tCO₂e测算，部分冷轧不锈钢默认值5.347—6.746 tCO₂e/t对应约£51.81—£65.36/t；这只是示例税率乘默认值的情景，不是正式2027年应缴税额。英国首季正式CBAM税率仍须在2026年底前发布。",
+    "summary_en": "MEPS reports that the EU's 2,399t overflow quota for stainless bars and light sections was exhausted and over-allocated by 14,858t by 15 October; India's 23,139t country quota was also exhausted, while China, Japan and Korea still had balances. EU seamless stainless tube overflow and India/other-country quotas were likewise exhausted. In the UK, about 78% of the 4,135t EU quota for stainless bars and light sections remained, but small residual quotas and Türkiye's 3,629t other-welded-tube quota were exhausted. MEPS multiplies official UK default values by the illustrative £9.69/tCO2e rate to show roughly £51.81–£65.36/t for certain cold-rolled stainless products. This is a scenario, not the official 2027 liability.",
+    "impact_zh": "中国不锈钢出口商不能只看50%超额税率，应按目的市场、产品类别、原产地和到港季度逐票核对配额余额；中国国别配额尚有余额不等于所有不锈钢品类均可免税。对英订单应立即向客户提供8位CN编码、净重、生产装置和可核证实际排放，并在合同中明确配额用尽、CBAM默认值、核查费及碳价减免的承担方。缺少实际排放数据时，英国进口商可用默认值，但由此测算的成本可能高于企业实际排放；正式报价须等待季度正式税率并核对具体编码，不能把£51.81—£65.36/t直接套用于所有产品。",
+    "impact_en": "Check quota balances by market, product category, origin and arrival quarter; remaining China-specific balances do not cover every stainless product. For UK orders, provide the eight-digit CN code, net mass, installation and verifiable actual emissions, and allocate quota, default-value, verification and carbon-price-relief risks in contracts. Do not apply the modelled £51.81–£65.36/t universally; use the official quarterly rate and product code.",
+    "category": "配额与关税",
+    "status": "行业配额与成本分析／非官方测算",
+    "importance": "高",
+    "tags": [
+      "欧盟钢铁配额",
+      "英国钢铁配额",
+      "不锈钢",
+      "英国CBAM",
+      "默认值"
+    ],
+    "tags_en": [
+      "EU steel quotas",
+      "UK steel quotas",
+      "stainless steel",
+      "UK CBAM",
+      "default values"
+    ],
+    "follow_up": {
+      "action_zh": "每周核对欧英对应配额余额；2026年底复核英国2027年第一季度正式CBAM税率，并按实际CN编码重算。",
+      "action_en": "Monitor quota balances and reprice after the official UK Q1 2027 CBAM rate is published.",
+      "due_at": "2026-12-31"
+    },
+    "evidence_url": "https://mepsinternational.com/gb/en/news/european-importers-come-to-terms-with-increased-tariffs",
+    "coverage": "2026-10-30已核对IndexBox全文、MEPS原始分析的可检索正文及其配额数字，并对照GOV.UK钢铁贸易措施、英国议会10月16日声明和HMRC钢铁默认值表确认50%超额税率、示例税率的非正式性质及默认值单位。MEPS网页直连在本轮工具中不可抓取，未独立读取欧英海关实时配额数据库；所有余额截至文中10月15日，可能继续变化。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV3lLc3d3NkdWUkZiZ2JQUms1YWhGRVRZdmhfLVdKUWNvQXF5QWxOWG5KMk05QTc5UXExWVlXd2tnY0FmQ241Y0s1LVp1TEdGUHhCV1JJUlozZGI4Wm5kc1M3SFhEcVhJUFUxXy03VmV2Q0lSTWxPSklsMkQ5Ulg0MTByOU1ZZTg4RTZIQTRIM2N3ZXZ40gGaAUFVX3lxTE9EbGZGSnhHTWx0MGlIMGpvbEtVQVVnMFctcE1ZdzlHb3ktcXNYQUpPc0R2UXZWa3Q1M19sT3FZdDhNR1ZIR3VuMGYxS19YUDR2ZldXYkNOZEN2MjJBejN1cnVFSE1rdHBFY1VReldsSWJEMVEtUWsta0Q5cDdDRFhPTmJCVmJENUZtT3QxVEJ4T0szZjJkekh2ZHc?oc=5",
+    "published_date": "2026-10-28",
+    "reviewed_at": "2026-10-30",
+    "title_zh": "印度学者建议为中小企业建立英欧CBAM编码、排放核算与核证支持体系",
+    "title_en": "Indian policy commentary calls for SME support on UK and EU CBAM data and verification",
+    "summary_zh": "印度贾瓦哈拉尔·尼赫鲁大学学者Amita Batra的评论认为，英欧CBAM对中小出口企业的主要障碍是商品编码映射、供应链排放计量、核证能力和碳价减免证明，建议政府或行业协会提供基础设施、培训、技术和融资支持。经官方交叉核对：英国CBAM将于2027年1月1日覆盖铝、水泥、化肥、氢、钢铁；印度CCTS列入英国现行合格碳定价机制清单，但减免仍取决于实际应付碳价及合格证据；间接排放最早到2029年才纳入。英国法规要求核查机构独立并由合格认可机构认可，文章将“Global Accreditation Cooperation正式成员”的要求直接写到核查人员身上并不准确。欧盟证书自2027年2月起购买，首份2026年度申报和证书清缴截止2027年9月30日。文中“180多种下游产品拟扩围”属于政策进程表述，不代表已经纳入现行范围。",
+    "summary_en": "Amita Batra argues that SMEs need public or industry support for product-code mapping, value-chain emissions measurement, verification, finance and training. Official checks confirm that UK CBAM starts on 1 January 2027 and India's CCTS is on the qualifying carbon-pricing list, but relief still depends on actual payable carbon costs and evidence. Indirect emissions are delayed until at least 2029. The article conflates verifier and accreditation-body eligibility: UK law requires an independent verifier accredited by an eligible accreditation body. EU certificates go on sale from February 2027 and the first 2026 declaration/surrender deadline is 30 September 2027. Proposed downstream expansion is not current scope.",
+    "impact_zh": "对中国中小钢企同样适用的动作是：先按英欧各自8位编码建立产品清单，将工厂、工艺、前体材料、排放年度和客户逐项映射；再选择认可范围覆盖相应钢铁活动的核查机构，并保存境外碳价实际支付证明。英国与欧盟的口径、期限和减免机制不能混成一套模板。行业评论可作为能力建设建议，但不应据此认定中国ETS已自动获得英国减免、欧盟已完成扩围，或某一核查人员天然合格。",
+    "impact_en": "Chinese SMEs should build separate UK and EU code maps, link products to installations, processes, precursors and reporting years, appoint verifiers with the correct steel scope, and retain evidence of carbon prices actually paid. Do not assume automatic relief, completed EU scope expansion or universal verifier eligibility from this commentary.",
+    "category": "碳与环保",
+    "status": "专家评论／政策建议",
+    "importance": "中",
+    "tags": [
+      "英国CBAM",
+      "欧盟CBAM",
+      "中小企业",
+      "碳价减免",
+      "核查机构"
+    ],
+    "tags_en": [
+      "UK CBAM",
+      "EU CBAM",
+      "SMEs",
+      "carbon price relief",
+      "verifiers"
+    ],
+    "follow_up": {
+      "action_zh": "英国正式税率发布后复核减免和核证指引；欧盟扩围仅在正式法规通过后更新产品清单。",
+      "action_en": "Recheck UK official rates and update EU product scope only after adopted legislation.",
+      "due_at": "2026-12-31"
+    },
+    "evidence_url": "https://www.business-standard.com/amp/opinion/columns/cbam-let-s-get-ready-126102801954_1.html",
+    "coverage": "2026-10-30已通读Business Standard全文，并对照英国Finance Act 2026、SI 2026/995、GOV.UK合格碳定价机制清单及欧委会CBAM官方页面核对实施时间、行业范围、间接排放、认可/核查关系、证书购买和首份申报期限。本文为作者个人政策评论；未将印度—欧盟FTA时间表或“180多种”扩围说法当成已生效法律。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUjFXZy1hYkp3NzBKa2o1MTRfUmxBQ0g5MFFpUjBMS2lkUTZaS1BSNEZQeHA2anlhajFIQkJNbjFNNllIcnZvOU5HTkpMcVlwQzZPMHdoaUdUOEctNzRiOFlfY01MZHNfZ0xMck5OZ3BoNGhTNzBIbVdFY0tic0pjVmNsZlEwSmxpVXloNVRoSE5tTWV3a3VfbFZod2NRR0laZ281eTB1RTE1N2V2dExRc0R5VjcyWFFW?oc=5",
+    "published_date": "2026-10-27",
+    "reviewed_at": "2026-10-30",
+    "title_zh": "土耳其贸易部长：前三季对欧钢铁出口下降6.7%，对非欧盟市场增长10%",
+    "title_en": "Türkiye says nine-month steel exports to the EU fell 6.7% while non-EU shipments rose 10%",
+    "summary_zh": "土耳其贸易部长Ömer Bolat在Steel Networking Summits 2026表示，2026年1—9月土耳其对欧盟的CBAM覆盖钢铁产品出口同比下降1.7%，全部钢铁出口下降6.7%，对欧盟以外市场出口增长10%；欧盟仍占土耳其钢铁出口的42.3%。他把变化与欧盟钢铁配额自7月1日起收紧及CBAM正式期实施并列讨论，并批评单边限制增加成本。官方讲话还称，土耳其2025年粗钢产量38.1百万吨，钢材出口额171亿美元，约78%的产能采用废钢电弧炉，电炉粗钢产量27.5百万吨、废钢进口18.8百万吨。这是土耳其政府对贸易流向和政策压力的判断，不是欧盟修改配额、CBAM减免或新增税率的决定。",
+    "summary_en": "Trade Minister Ömer Bolat said Türkiye's January–September 2026 exports of CBAM-covered steel products to the EU fell 1.7%, total iron and steel exports to the EU fell 6.7%, and non-EU shipments rose 10%; the EU still represented 42.3% of Turkish steel exports. He linked the pressure to tighter EU quotas and definitive CBAM and criticised unilateral restrictions. The ministry also reported 38.1Mt of 2025 crude steel output, $17.1bn of steel exports, 78% scrap-EAF capacity, 27.5Mt EAF output and 18.8Mt scrap imports. This is a Turkish government trade assessment, not a new EU rule or exemption.",
+    "impact_zh": "土耳其钢材对欧受限并向非欧盟市场转移，可能加剧中东、北非、英国及其他第三国市场的竞价和贸易转移风险；但现有数据不能证明这些增量全部流向中国企业的目标市场。中国钢厂应按产品和目的地监测土耳其报价、到货量及贸易救济案件，同时比较废钢电炉路线的核证排放优势。不能把土耳其部长的批评当作欧盟将给予豁免或调整CBAM的信号。",
+    "impact_en": "Diversion from the EU may intensify competition in third-country markets, but the data do not show where all additional shipments went. Chinese exporters should monitor Turkish offers and arrivals by product and destination, trade-remedy exposure and verified EAF emissions. The minister's criticism is not evidence of an EU exemption or CBAM amendment.",
+    "category": "贸易与出口",
+    "status": "政府讲话／贸易数据",
+    "importance": "中",
+    "tags": [
+      "土耳其钢铁",
+      "欧盟配额",
+      "CBAM",
+      "贸易转移",
+      "电弧炉"
+    ],
+    "tags_en": [
+      "Turkish steel",
+      "EU quotas",
+      "CBAM",
+      "trade diversion",
+      "EAF"
+    ],
+    "follow_up": "跟踪欧盟按产品和原产地的配额使用、土耳其月度出口流向及第三国贸易救济；只有出现正式欧盟文本时才更新法律状态。",
+    "evidence_url": "https://ticaret.gov.tr/haberler/ticaret-bakani-omer-bolat-steel-networking-summits-2026da-konustu",
+    "coverage": "2026-10-30已通读Türkiye Today全文，并以土耳其贸易部官方讲话核对1.7%、6.7%、10%、42.3%、38.1百万吨、171亿美元、78%、27.5百万吨和18.8百万吨等数字。欧盟措施的法律状态另以Regulation (EU) 2026/1384核对；未获得按HS/CN和目的国拆分的土耳其海关明细，不能判断具体产品转移量。"
   }
 ]
