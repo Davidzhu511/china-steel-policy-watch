@@ -5366,5 +5366,190 @@
     "follow_up": "跟踪欧盟按产品和原产地的配额使用、土耳其月度出口流向及第三国贸易救济；只有出现正式欧盟文本时才更新法律状态。",
     "evidence_url": "https://ticaret.gov.tr/haberler/ticaret-bakani-omer-bolat-steel-networking-summits-2026da-konustu",
     "coverage": "2026-10-30已通读Türkiye Today全文，并以土耳其贸易部官方讲话核对1.7%、6.7%、10%、42.3%、38.1百万吨、171亿美元、78%、27.5百万吨和18.8百万吨等数字。欧盟措施的法律状态另以Regulation (EU) 2026/1384核对；未获得按HS/CN和目的国拆分的土耳其海关明细，不能判断具体产品转移量。"
+  },
+  {
+    "url": "https://gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
+    "published_date": "2026-10-30",
+    "reviewed_at": "2026-10-31",
+    "title_zh": "英国更新2021—2026年UK ETS装置免费配额表，部分2026年数值仍在复核",
+    "title_en": "UK updates its 2021–2026 installation free-allocation table; some 2026 figures remain under review",
+    "summary_zh": "英国UK ETS主管机构于2026年10月30日更新装置运营商免费配额表，调整源于活动水平变化。表格覆盖2021—2026配额期；2026年按现有配额期延长一年处理。首次在2026年获得免费配额、或因发电设施规则变化而新增合格子装置的运营商，使用已核证的2023年活动数据确定2026年配额。已加入2026—2030年医院及小排放设施或超小排放设施名单的原免费配额接收者，2026年不再获得免费配额。部分2026年Standard (A)和NER (B)栏故意留空、只列Total (C)，表示其总量仍可能因2025年活动水平变化程序调整。",
+    "summary_en": "On 30 October 2026 the UK ETS Authority updated the installation allocation table for activity-level changes. The table covers 2021–2026, with 2026 treated as an extension of the current period. Verified 2023 activity data determine 2026 allocations for first-time recipients and newly eligible sub-installations. Operators moving to the 2026–2030 Hospital and Small Emitter or Ultra-Small Emitter lists receive no free allocation in 2026. Blank Standard (A) and NER (B) cells with only Total (C) indicate figures still under review through the 2025 activity-level-change process.",
+    "impact_zh": "这不是英国CBAM税率表，也不直接给出中国钢材的进口税额；它反映英国同类装置获得的免费配额基础，相关变化可能影响英国生产者的有效碳成本和后续CBAM行业税率环境。对英出口企业应继续依据正式CBAM行业税率、默认值或核证实际排放报价，不能从单个英国装置的免费配额反推进口税负。英国客户和竞争分析可关注钢铁装置2026年Total (C)及后续复核结果。",
+    "impact_en": "This is not a UK CBAM rate table and does not determine a Chinese shipment's tax. It records free allocation for UK installations and may affect domestic effective carbon costs and the broader CBAM rate environment. Exporters should use official sector rates, defaults or verified actual emissions rather than infer import tax from an individual installation's allocation.",
+    "category": "碳与环保",
+    "status": "官方数据更新",
+    "importance": "中",
+    "tags": [
+      "UK ETS",
+      "免费配额",
+      "活动水平变化",
+      "英国CBAM"
+    ],
+    "tags_en": [
+      "UK ETS",
+      "free allocation",
+      "activity level change",
+      "UK CBAM"
+    ],
+    "follow_up": "跟踪主管机构补填仍在复核的2026年Standard (A)和NER (B)栏，以及英国正式CBAM行业税率发布；不得把配额表直接当作进口税率。",
+    "evidence_url": "https://www.gov.uk/government/publications/uk-ets-allocation-table-for-operators-of-installations",
+    "coverage": "2026-10-31已核读GOV.UK发布页的2026年说明、更新记录和Excel附件入口；已确认配额期、活动水平变化、2023年活动数据、小排放设施待遇及空白栏含义。未逐行审计Excel内所有装置数值。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWVZONlJvS3l6aGxJLXotMnRtbHlMYmd0Z1luZkNsS1RBVjJHQ2VJOFFDVzFteGJ6eHdjRGhCeGNaaFQ5bmdzUU5JaHlZX2oxcWk5QUl6ZGppUXBfMVNJblVrOGFzemF1Y0FEWDNJQnRkWERNZXZlZmE3SU1jVThmTl9hb0pEVUNNNVRnUlBFcGg2enZtUWR2VEZoZFEtR1ltblhNRFV1aUhvM19sazVmT2lSVzZUa2hHR0ZnZ2ZOR1Y4eWhaN3RNTzVuNmJLZ1ZPLXc?oc=5",
+    "published_date": "2026-10-30",
+    "reviewed_at": "2026-10-31",
+    "title_zh": "意大利铸造业协会称欧盟钢铁配额和CBAM造成上下游成本不对称",
+    "title_en": "Italian foundry association says EU steel quotas and CBAM create an upstream-downstream cost asymmetry",
+    "summary_zh": "Eunews完整报道及Confimi Industria Meccanica声明称，参加帕多瓦会议的铸造和机械企业中“近30%”出现订单下降；协会认为，原材料钢进口超过欧盟配额后承担50%从价税，而部分半成品、铸件和下游部件未受到同等贸易防御或CBAM约束，造成成本不对称。协会主席Flavio Lorenzin还称，自2025年11月以来，碳钢、不锈钢和铝成本平均分别上升13%、16%和37%，并要求调整进口税、能源和监管成本，同时在CBAM谈判中纳入半成品、铸件和部件。官方交叉核对确认：Regulation (EU) 2026/1384自2026年7月1日起实施18.3百万吨年度免税配额及配额外50%税率；CBAM下游扩围仍是2025/0419(COD)立法提案，不能把协会诉求写成已通过规则。",
+    "summary_en": "Eunews and Confimi Industria Meccanica report that nearly 30% of foundry and engineering companies represented at a Padua event had lost orders. The association argues that the 50% out-of-quota steel duty and CBAM leave some semi-finished goods, castings and components outside equivalent treatment, creating a cost asymmetry. It cites average cost increases since November 2025 of 13% for carbon steel, 16% for stainless steel and 37% for aluminium. Official checks confirm that Regulation (EU) 2026/1384 applies an 18.3Mt annual quota and 50% out-of-quota duty from 1 July 2026; downstream CBAM expansion remains proposal 2025/0419(COD), not adopted law.",
+    "impact_zh": "这是意大利行业协会的调查和政策立场，不是欧盟对损失订单、成本涨幅或扩围范围的官方认定。对中国钢厂而言，现行钢铁配额外50%税率已构成实际市场准入约束；同时，若未来CBAM扩大到更多下游制成品，原材料与部件之间的成本差可能收窄。出口商应按CN产品类别和配额余额核价，并跟踪2025/0419(COD)最终附件；不能根据协会发言预设半成品或部件已纳入CBAM。",
+    "impact_en": "This is an association survey and policy position, not an EU finding on lost orders, cost inflation or final CBAM scope. Chinese exporters already face the 50% out-of-quota steel duty where quotas are exhausted. They should price by CN category and quota balance and monitor the final annex to 2025/0419(COD), without assuming downstream goods are already covered.",
+    "category": "贸易与出口",
+    "status": "行业协会立场",
+    "importance": "中",
+    "tags": [
+      "欧盟钢铁配额",
+      "CBAM",
+      "铸造业",
+      "下游产品",
+      "意大利"
+    ],
+    "tags_en": [
+      "EU steel quotas",
+      "CBAM",
+      "foundries",
+      "downstream goods",
+      "Italy"
+    ],
+    "follow_up": "跟踪2025/0419(COD)三方谈判及最终CN附件，并核对欧盟各钢铁产品配额余额；协会所称订单和成本数据仅作行业样本信号。",
+    "evidence_url": "https://www.eunews.it/en/2026/10/30/steel-confimis-italian-foundries-take-on-brussels-tariffs-and-the-cbam-are-hurting-the-supply-chain/",
+    "coverage": "2026-10-31已通读Eunews英文全文并核对Confimi原始声明摘要；另以Regulation (EU) 2026/1384、Implementing Regulation (EU) 2026/1457及EUR-Lex程序2025/0419(COD)核对50%配额外税率和CBAM扩围法律状态。未获得“近30%”及13%/16%/37%的样本量、计算方法或企业明细，故只按协会陈述呈现。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcjVFSHdsN2owY1RDVXZ4NDhueVIzYUNDMklRVDMwSzVqakJ6NzIwSWE2ZEZ3bUc4SDk3OVhmU1hsM2c2VFpVRUw0ZXhMd2E4MEdVaDVCdjQ5RzU5SVptZmQyUWxXMGdNVzNnWl9XbEkyRjh6UDNIRUhBWEhYczhQUFZyaGdSVE9zeTZQSXdCVlAzUEREV2x3cE9WNU50MElfRzFrN2d3cER5SzNaN3NXMndUSkY?oc=5",
+    "published_date": "2026-10-30",
+    "reviewed_at": "2026-10-31",
+    "title_zh": "港口库存升至1.5372亿吨，铁矿石期货跌破680元／吨",
+    "title_en": "Iron ore futures fall below CNY 680/t as port stocks reach 153.72Mt",
+    "summary_zh": "IndexBox 10月30日市场简报称，铁矿石期货跌破680元／吨、接近四年低位；其引用的行业数据称，中国主要港口库存周环比增加近1%至1.5372亿吨，澳大利亚和巴西以外生产国发运维持高位，钢厂盈利比例为11.26%、与前一周持平。北方部分省份环保限制继续压低铁水产量，但限制解除后可能恢复；淡水河谷另报第三季度核心利润下降20%，归因于矿价走低及燃料、运费成本偏高。该文是即时市场报道，价格、库存和盈利比例并非官方统计序列。",
+    "summary_en": "IndexBox reported on 30 October that iron ore futures fell below CNY 680/t toward four-year lows. Cited industry data put major Chinese port stocks at 153.72Mt, up nearly 1% week on week, and the share of profitable steel mills at 11.26%, unchanged. Environmental curbs constrained hot-metal output in northern provinces, while Vale reported a 20% fall in third-quarter core profit. These are market-series figures, not official statistics.",
+    "impact_zh": "库存增加和低盈利比例说明矿价反弹基础仍弱，但单日价格不能直接证明钢厂利润将改善或必须减产。钢厂应同时看焦煤、焦炭、成材价格、库存结构和到港节奏，按采购窗口管理原料风险；贸易商应标明期货合约、交割月份和数据来源，避免把“接近四年低位”当作长期价格底部。",
+    "impact_en": "Higher stocks and a low profitable-mill ratio point to weak support, but a one-day futures move does not prove margins will recover or mills must cut output. Mills should assess coking coal, coke, finished-steel prices, stock composition and arrivals together, and traders should identify the contract and data source rather than treat a near-four-year low as a durable floor.",
+    "category": "市场与产能",
+    "status": "市场报道",
+    "importance": "低",
+    "tags": [
+      "铁矿石",
+      "港口库存",
+      "钢厂利润",
+      "期货"
+    ],
+    "tags_en": [
+      "iron ore",
+      "port stocks",
+      "mill profitability",
+      "futures"
+    ],
+    "follow_up": "跟踪后续港口库存、到港量、铁水产量及钢厂盈利比例；价格结论仅适用于报道时点。",
+    "evidence_url": "https://www.indexbox.io/blog/iron-ore-futures-fall-below-cny-680-as-port-stockpiles-rise-and-steel-demand-softens/",
+    "coverage": "2026-10-31已通读IndexBox公开全文，核对680元／吨、1.5372亿吨、近1%和11.26%等数字及淡水河谷表述；原始行业数据库和Trading Economics序列未逐笔审计，故按媒体引用的市场数据处理。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPampDay1mbEFyOWN4ek5saldmTVE4YmVPYXRaYjVhMm9vWndRMWdlZklidDNvRkRoNXNvUVF1Zm5aZFlNUnpsTEo5bUJZYTlHV2hpUlpkSWFtaEEybHJNckZsZkZxNHZ3VVpRSTlXc0o0MjMzQ01Na0dWVmdxOGlLX1hWSHEyd2NK0gGOAUFVX3lxTE9GUklmN1V0RmdqUEFxTmdqNlZXc3hqdkx2ek51emc1enBjWnJ6ZUtDYy1OZHJzZVlPQjZTOVhGM0pqMm90clVSTGV4WkNqQ1VBMnZGSEJrYzF6WHBONnQ3TlM1NUNyaXJGVkZNZXNDQlJubEVnbnZDOXM1OXpxdGFXQ09GRzhMNzBDQ3VPZWc?oc=5",
+    "published_date": "2026-10-30",
+    "reviewed_at": "2026-10-31",
+    "title_zh": "宝钢股份前三季度归母净利润67.39亿元，同比下降15.33%",
+    "title_en": "Baosteel's nine-month net profit falls 15.33% to CNY 6.739bn",
+    "summary_zh": "宝钢股份2026年第三季度报告显示，第三季度营业收入849.16亿元、同比增长4.75%，归母净利润21.67亿元、同比下降29.67%，扣非归母净利润19.61亿元、同比下降40.50%；前三季度营业收入2456.48亿元、同比增长5.68%，归母净利润67.39亿元、同比下降15.33%，扣非归母净利润64.93亿元、同比下降19.20%。前三季度铁产量3660.5万吨、钢产量3863.2万吨、商品坯材销量3915.0万吨、合并利润86.1亿元；出口接单量587.3万吨，同比增加70.4万吨。公司称单位铁水、物流、能源及质量成本同口径分别下降3%、6%、4%和16%。财务报表未经审计。",
+    "summary_en": "Baosteel's unaudited third-quarter report shows Q3 revenue of CNY 84.916bn (+4.75% y/y), attributable net profit of CNY 2.167bn (-29.67%) and adjusted attributable profit of CNY 1.961bn (-40.50%). For January–September, revenue was CNY 245.648bn (+5.68%), attributable net profit CNY 6.739bn (-15.33%) and adjusted profit CNY 6.493bn (-19.20%). Nine-month steel output was 38.632Mt, saleable billet and product sales 39.150Mt, consolidated profit CNY 8.61bn, and export orders 5.873Mt, up 0.704Mt.",
+    "impact_zh": "收入增长但利润下降，说明吨钢盈利仍受钢价、原燃料及结构因素挤压；与此同时，产销量和出口接单增长并不支持简单推断宝钢正在减产。采购方和竞争对手应把5.873百万吨出口接单视为公司口径的订单量，而非已报关出口量，并继续跟踪第四季度交付、价格和库存。成本改善是公司披露的同口径指标，不能替代外部审计或推导单个产品利润。",
+    "impact_en": "Revenue growth alongside lower profit indicates margin pressure, while higher output, sales and export orders do not support a simple production-cut conclusion. Treat the 5.873Mt figure as company-reported export orders, not customs-cleared exports, and monitor Q4 delivery, pricing and stocks. Company cost-improvement metrics are not an audit of product-level margins.",
+    "category": "钢企动态",
+    "status": "上市公司季度报告",
+    "importance": "高",
+    "tags": [
+      "宝钢股份",
+      "三季报",
+      "钢材出口",
+      "产销量",
+      "盈利"
+    ],
+    "tags_en": [
+      "Baosteel",
+      "quarterly report",
+      "steel exports",
+      "output and sales",
+      "profitability"
+    ],
+    "follow_up": "在年度报告发布时核对出口订单的实际交付、全年产销量、分产品毛利及现金流变化；不把未经审计季报外推为全年结果。",
+    "evidence_url": "https://paper.cnstock.com/html/2026-10/28/content_2282413.htm",
+    "coverage": "2026-10-31已通读上海证券报所载宝钢股份2026年第三季度报告及主要经营数据公告，核对收入、归母净利润、扣非净利润、产销量、出口接单和成本指标；报告明确为未经审计，未核验订单级出口目的地和产品结构。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkYXpwMV9PNzVuZjRZYWpQWkhpMHVsYmlndmJONWQwMVZLZzNhc0FGN1dTOHhTYmJCUEQwdWJtenlxbDJCMEFJR3F1M2VpelZVZllubmY4U1NEQTR4QmVsYm1sYnQyNjVjUGc?oc=5",
+    "published_date": "2026-10-30",
+    "reviewed_at": "2026-10-31",
+    "title_zh": "中钢协：前三季度钢铁供强需弱、库存高位，重点企业利润下降27.4%",
+    "title_en": "CISA says nine-month steel supply outpaced demand as key-member profits fell 27.4%",
+    "summary_zh": "新华财经对中钢协三季度信息发布会的完整报道显示，2026年前三季度全国粗钢产量7.25亿吨、同比下降2.9%，折合粗钢表观消费量6.25亿吨、下降3.8%；钢材出口8564万吨、下降2.6%，出口均价709美元／吨、上升1.8%。重点统计企业平均钢材库存1685万吨，为近四年最高；CSPI平均92.28点、同比下降1.48%，为近十年同期最低。重点企业营业收入4.57万亿元、下降2.3%，营业成本4.29万亿元、下降1.9%，利润总额718亿元、下降27.4%。炼焦煤、冶金焦、喷吹煤和国产铁精矿采购成本分别上涨20.45%、16.66%、16.06%和0.15%，进口粉矿下降1.31%。中钢协副会长唐祖君称行业主要矛盾仍是供强需弱，并倡导“以销定产、以效定产、以现定销”。",
+    "summary_en": "Xinhua Finance's full report on CISA's Q3 briefing says January–September crude-steel output was 725Mt (-2.9%), apparent crude-steel consumption 625Mt (-3.8%), steel exports 85.64Mt (-2.6%) and average export price USD 709/t (+1.8%). Key-member average finished-steel stocks were 16.85Mt, the highest in four years, while the average CSPI was 92.28, the lowest comparable level in a decade. Key members reported CNY 4.57tn revenue (-2.3%) and CNY 71.8bn total profit (-27.4%). Coking-coal, coke and PCI-coal purchase costs rose 20.45%, 16.66% and 16.06%.",
+    "impact_zh": "需求降幅大于产量降幅、库存高位和焦煤焦炭成本上升共同压缩利润，出口量下降但出口均价回升，不能只凭出口均价判断盈利改善。钢厂应按订单、现金回款和边际贡献落实动态产销平衡，控制成品库存与高成本原料敞口；出口部门应继续按目的国贸易救济、配额和CBAM要求筛选订单。协会“三定三不要”属于行业自律和经营倡议，不是行政限产或新的出口配额。",
+    "impact_en": "Consumption fell faster than output, high stocks and higher coal/coke costs squeezed margins, while a higher average export price does not prove better profitability. Mills should align output with orders, cash collection and marginal contribution, manage finished-goods and raw-material exposure, and screen exports for trade remedies, quotas and CBAM. CISA's operating principles are industry guidance, not an administrative production cut or export quota.",
+    "category": "市场与产能",
+    "status": "行业协会发布会／市场数据",
+    "importance": "高",
+    "tags": [
+      "中钢协",
+      "粗钢产量",
+      "钢材出口",
+      "库存",
+      "行业利润"
+    ],
+    "tags_en": [
+      "CISA",
+      "crude steel output",
+      "steel exports",
+      "inventories",
+      "industry profit"
+    ],
+    "follow_up": "跟踪四季度重点企业库存、煤焦成本、月度粗钢产量及钢材出口；年度数据发布后复核全年口径。",
+    "evidence_url": "https://finance.eastmoney.com/a/202610303917006973.html",
+    "coverage": "2026-10-31已通读新华财经署名全文的公开转载，核对中钢协发布会引述及国家统计局、海关总署口径数字；尚未取得中钢协官网同日新闻稿，故行业库存、利润和采购成本按新华财经对发布会的原文报道呈现。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQR2VWUWN0RnFEMVV5eHVRWnN3aFZ1b0c1TlpaV0N2d1QweE1sZHhycXlsQUJIX3hkb3p2NC1ha1Y0QWlaczRsWEZkSW9nd1JGSVFMOFRqdmYyRktZdEhFa240b2ZCSVhxY3hQWDlneGxCRHN1emFPUE5WeUtqV3NCX1hwbk9DQ1F3dmhjTjFZZWtjUFRraG1BNFdoOS1XNkk2Y3dTVkRacnJnNGV5UGo2ODF2NnhmMlkzNkpCQXpmLUdxZ1dkVVdpeERiWWp4eU9GVXNuZHBncTRtblNGTVpTRU1CWmE5eVdvQmsteA?oc=5",
+    "match_published_date": "2026-10-30",
+    "published_date": "2026-10-29",
+    "reviewed_at": "2026-10-31",
+    "title_zh": "首钢京唐将改造曹妃甸2号双流板坯连铸机，计划2027年9月投运",
+    "title_en": "Shougang Jingtang plans September 2027 startup for No. 2 slab-caster revamp",
+    "summary_zh": "Primetals Technologies 10月29日公告称，首钢京唐选择其对河北曹妃甸基地2号双流板坯连铸机实施全面改造，目标是提高汽车钢板坯中心质量、后续轧制质量、浇铸速度和生产率，计划于2027年9月投运。项目包括DynaGap Soft Reduction、LevCon结晶器液位控制、带水平段干式浇铸能力的新导向段、EcoStar Spiral辊及Level 1/Level 2自动化系统。现有设备半径9.5米，冶金长度39.5米、未来可延长至44.26米；板坯规格250毫米×1100—2150毫米，最高浇铸速度1.7米／分钟。公告未披露合同金额、改造后年产能或确定的新增产量。",
+    "summary_en": "Primetals Technologies said on 29 October that Shougang Jingtang selected it for a comprehensive revamp of the No. 2 two-strand slab caster at Caofeidian, with startup scheduled for September 2027. The project adds DynaGap Soft Reduction, LevCon mold-level control, a new strand guide with horizontal dry casting, EcoStar Spiral rolls and new Level 1/2 automation. Existing specifications include a 9.5m radius, 39.5m metallurgical length (44.26m future extension), 250mm by 1,100–2,150mm slabs and speeds up to 1.7m/min. No contract value or post-revamp annual capacity was disclosed.",
+    "impact_zh": "改造重点是汽车钢板坯质量和过程稳定性，可能提升首钢京唐在汽车外板、内板等高附加值产品上的成材率和一致性，但公告不足以证明新增产能或2027年前供应量变化。汽车钢采购方可在2027年投运和认证阶段关注质量指标、客户验证及爬坡进度；竞争分析不得把设备最高速度或未来冶金长度直接换算成年产量。",
+    "impact_en": "The revamp targets slab quality and process stability for automotive grades and may improve yield and consistency, but the release does not establish added capacity or near-term supply changes. Buyers should monitor commissioning, customer qualification and ramp-up in 2027; equipment speed and metallurgical length should not be converted directly into annual output.",
+    "category": "钢企动态",
+    "status": "设备改造合同",
+    "importance": "中",
+    "tags": [
+      "首钢京唐",
+      "板坯连铸",
+      "汽车钢",
+      "设备改造"
+    ],
+    "tags_en": [
+      "Shougang Jingtang",
+      "slab casting",
+      "automotive steel",
+      "revamp"
+    ],
+    "follow_up": {
+      "action_zh": "跟踪2027年9月投运、汽车钢客户认证、质量指标和实际产能披露。",
+      "action_en": "Track September 2027 startup, automotive customer qualification, quality results and any disclosed capacity.",
+      "due_at": "2027-09-30"
+    },
+    "evidence_url": "https://www.primetals.com/en/news/shougang-jingtang-selects-primetals-technologies-for-slab-caster-revamp-to-enable-high-quality-production/",
+    "coverage": "2026-10-31已通读Primetals Technologies官方新闻稿全文，核对设备编号、地点、技术范围、尺寸、速度及计划投运时间；未找到首钢公告或合同金额、改造后年产能数据，因此未推导新增产量。"
   }
 ]
