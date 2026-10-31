@@ -5551,5 +5551,36 @@
     },
     "evidence_url": "https://www.primetals.com/en/news/shougang-jingtang-selects-primetals-technologies-for-slab-caster-revamp-to-enable-high-quality-production/",
     "coverage": "2026-10-31已通读Primetals Technologies官方新闻稿全文，核对设备编号、地点、技术范围、尺寸、速度及计划投运时间；未找到首钢公告或合同金额、改造后年产能数据，因此未推导新增产量。"
+  },
+  {
+    "url": "https://www.ine.cn/publicnotice/news/202610/t20261029_833894.html",
+    "published_date": "2026-10-29",
+    "reviewed_at": "2026-10-31",
+    "title_zh": "LME上线以上期所热轧卷板结算价为基准的美元现金结算合约",
+    "title_en": "LME launches USD cash-settled Shanghai hot-rolled coil contract linked to SHFE settlement prices",
+    "summary_zh": "上海国际能源交易中心10月29日披露，伦敦金属交易所（LME）已于10月27日上线以上海期货交易所热轧卷板期货结算价为基准的合约。合约代码HS，每手10吨，以美元／吨报价并采用现金结算，提供连续12个月的月度合约；到期结算价以上期所热轧卷板期货次月到期合约在LME合约到期日的结算价为基础，按中国外汇交易中心公布的美元兑人民币中间价换算。LME提供的数据显示，上市首日截至伦敦时间18:00，LMEselect成交880手，叠加办公室交易后当日清算总成交量2513手。",
+    "summary_en": "The Shanghai International Energy Exchange reported on 29 October that the London Metal Exchange launched a contract on 27 October using the Shanghai Futures Exchange hot-rolled coil futures settlement price as its reference. Contract HS is quoted in USD per tonne, cash settled, sized at 10 tonnes per lot and offered in 12 consecutive monthly maturities. Its final settlement is based on the SHFE HRC contract expiring in the following month on the LME expiry date, converted using the CFETS USD/CNY central parity rate. LME data cited by the official release showed 880 lots traded on LMEselect and 2,513 lots cleared in total by 18:00 London time on launch day.",
+    "impact_zh": "这是交易和风险管理工具上线，不是钢材关税、出口政策或现货指导价。以美元报价中国热卷的钢厂和贸易商可评估其用于订单定价参考或跨市场套保，但现金结算意味着它不能替代实物交割安排，也不能消除人民币／美元换算、上期所与出口现货之间的基差风险。实际使用前应核对经纪商接入、保证金、流动性、结算汇率时点和企业内部套保授权，先以小规模头寸验证套保相关性。",
+    "impact_en": "This is a new trading and risk-management instrument, not a steel tariff, export policy or official spot-price directive. Mills and traders quoting Chinese HRC in US dollars may assess it as a pricing reference or cross-market hedge, but cash settlement does not replace physical-delivery arrangements or remove FX and SHFE-versus-export-spot basis risk. Before use, firms should check broker access, margin, liquidity, the FX conversion timing and internal hedge mandates, and validate hedge correlation with small positions.",
+    "category": "企业与市场",
+    "status": "官方产品发布／非政策文件",
+    "importance": "中",
+    "tags": [
+      "热轧卷板",
+      "LME",
+      "上期所",
+      "出口定价",
+      "套期保值"
+    ],
+    "tags_en": [
+      "hot-rolled coil",
+      "LME",
+      "SHFE",
+      "export pricing",
+      "hedging"
+    ],
+    "follow_up": "跟踪合约流动性、持仓和中国热卷出口报价中的实际采用情况；不得把期货基准直接当作现货成交价。",
+    "evidence_url": "https://www.ine.cn/publicnotice/news/202610/t20261029_833894.html",
+    "coverage": "2026-10-31已通读上海国际能源交易所官方新闻全文，核对上市日期、合约代码、合约规模、报价币种、现金结算、月度期限、结算价换算机制及首日成交量；该文为交易所产品发布，不是贸易政策或钢材现货定价规定。"
   }
 ]
