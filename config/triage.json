@@ -1011,5 +1011,16 @@
     "attempted_at": "2026-10-30",
     "evidence_url": "https://mepsinternational.com/gb/en/news/european-importers-come-to-terms-with-increased-tariffs",
     "coverage": "2026-10-30对照两条IndexBox索引的发布时间、主题、标题和MEPS底层证据；确认同一事件的语言镜像，主条目已完成完整解读。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYUhCNGVac3F1RVNhSjFLSzM5MkpYUG9IbWcwX1pWYjZ4OHRBbDFuQ0FWc3hvcDJUSzd6UVhsbjBWY3V0UG1QaE4tSktaV0JuSGxCQ00zY016aE10eXU5T1o1V1JwM1JqRkRnWHVKMzgtTXA3VzE0akpPd2Q3alpuNHpudHVHQ0o2MEhPLTJRX0IwTUR5bkJaZGNZMnpZdi05STJ5U1dfaU96UEF5SDdOcE5KTmRsakdFRHNvbUhWeVB1SlBCS3c?oc=5",
+    "published_date": "2026-10-31",
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkYXpwMV9PNzVuZjRZYWpQWkhpMHVsYmlndmJONWQwMVZLZzNhc0FGN1dTOHhTYmJCUEQwdWJtenlxbDJCMEFJR3F1M2VpelZVZllubmY4U1NEQTR4QmVsYm1sYnQyNjVjUGc?oc=5",
+    "reason_zh": "BigMint 10月31日线索与已核验的中钢协前三季度行业运行主条目引用同一组海关/行业数据：1—9月钢材出口约8564万吨、同比下降2.6%。BigMint全文受订阅限制，公开标题所称地区流向变化无法逐项核验；不将其不可见的地区数据另作事实发布。主条目已保留出口量、均价、库存、价格和行业利润等经新华社/中钢协公开报道核对的数据。本链接作为同一统计事件的后续媒体线索归并保留，不重复计入待研判。",
+    "reason_en": "The 31 October BigMint lead uses the same Jan-Sep customs/industry release already covered by the source-checked CISA main item, including about 85.64Mt of exports, down 2.6% year on year. BigMint's regional breakdown is subscription-only and could not be verified, so no unseen regional figures are republished. The link is retained as duplicate coverage.",
+    "attempted_at": "2026-10-31",
+    "evidence_url": "https://news.smm.cn/live/detail/104156082",
+    "coverage": "2026-10-31核对BigMint公开标题及订阅提示，并与海关统计公开转述和已核验中钢协主条目对照；仅确认8564.1万吨、同比下降2.6%等公开统计，未读取或推断BigMint付费区内的地区分项。"
   }
 ]
