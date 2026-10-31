@@ -5582,5 +5582,37 @@
     "follow_up": "跟踪合约流动性、持仓和中国热卷出口报价中的实际采用情况；不得把期货基准直接当作现货成交价。",
     "evidence_url": "https://www.ine.cn/publicnotice/news/202610/t20261029_833894.html",
     "coverage": "2026-10-31已通读上海国际能源交易所官方新闻全文，核对上市日期、合约代码、合约规模、报价币种、现金结算、月度期限、结算价换算机制及首日成交量；该文为交易所产品发布，不是贸易政策或钢材现货定价规定。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR1lNcEFlLVhoSGlvXzF3YjdxZHp1QnNJUlJCVGhUNzU3SGNSRTd6Y040MlVnMFd2NFkzM0xNcUEwb0ZHRUxnQkN3OFptTjhGdTdsYVJNQk9CSE90Z2lCSXRmRF9ZbnAzOFkwR0dpVm4tX3l5WUVuY1dWM2pIRTliZmNGVGdsVnRKTzJScTlxWkZCcUdj?oc=5",
+    "match_published_date": "2026-10-31",
+    "published_date": "2026-10-30",
+    "reviewed_at": "2026-10-31",
+    "title_zh": "中国35港铁矿石库存升至1.4805亿吨，日均疏港量回落",
+    "title_en": "China's 35-port iron ore stocks reach 148.05Mt as daily port pick-up slows",
+    "summary_zh": "SMM 10月30日数据显示，中国35个主要港口铁矿石库存为1.4805亿吨，环比增加30万吨；日均疏港量减少3.5万吨至317.5万吨。本周港口到货明显增加，而钢厂高炉铁水产量下降，下游采购偏谨慎，供需边际走弱并带来小幅累库。SMM预计下一周钢厂需求仍偏弱、铁水产量可能继续下降，疏港量难明显改善，港口库存或继续增加；这一段属于机构短期判断，不是已发生的确定结果。",
+    "summary_en": "SMM data for 30 October put iron ore inventories across 35 major Chinese ports at 148.05Mt, up 0.30Mt on the reported comparison, while average daily port pick-up fell by 0.035Mt to 3.175Mt. Port arrivals rose notably during the week, blast-furnace hot-metal output declined and downstream purchasing remained cautious, producing a slight inventory build. SMM expects subdued mill demand, potentially lower hot-metal output and little improvement in port pick-up next week, but that is a short-term forecast rather than an observed outcome.",
+    "impact_zh": "35港口径的库存上升、疏港回落和铁水下降共同显示钢厂补库意愿偏弱，短期不利于铁矿石需求和价格支撑。钢厂可继续按生产节奏和边际利润安排刚需采购，贸易商应同步跟踪港口到货、钢厂利润、铁水复产及成材需求。该数据来自SMM模型和市场调研，并非海关或统计局官方数据；也不能与其他机构覆盖港口数量不同的库存口径直接比较。",
+    "impact_en": "Rising stocks on SMM's 35-port measure, slower port pick-up and lower hot-metal output point to weak mill restocking and softer near-term support for ore demand and prices. Mills can keep procurement aligned with production and marginal profitability, while traders should monitor arrivals, mill margins, hot-metal restarts and finished-steel demand. These are SMM market-research data, not customs or official statistical data, and should not be compared directly with inventory series covering a different port universe.",
+    "category": "市场与产能",
+    "status": "行业数据／短期预测",
+    "importance": "中",
+    "tags": [
+      "铁矿石",
+      "港口库存",
+      "疏港量",
+      "铁水产量",
+      "SMM"
+    ],
+    "tags_en": [
+      "iron ore",
+      "port inventories",
+      "port pick-up",
+      "hot metal",
+      "SMM"
+    ],
+    "follow_up": "下周复核SMM 35港库存、疏港量和铁水变化，并与其他机构口径分开记录。",
+    "evidence_url": "https://news.metal.com/newscontent/104187942-iron-ore-port-inventory-and-port-pick-up-volume-on-october-30-2026",
+    "coverage": "2026-10-31已通读SMM原始页面正文，核对35港覆盖范围、库存、环比变化、日均疏港量及供需解释；IndexBox仅作为发现线索。SMM声明其数据结合公开信息、市场沟通和内部数据库模型，故按行业数据呈现，不冒充中国官方统计。"
   }
 ]
