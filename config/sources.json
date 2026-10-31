@@ -266,6 +266,25 @@
           "include_paths": [
             "/government/publications/uks-steel-trade-measure-from-1-july-2026/"
           ]
+        },
+        {
+          "name": "上海国际能源交易中心 · LME上海热轧卷板合约",
+          "url": "https://www.ine.cn/publicnotice/news/202610/t20261029_833894.html",
+          "country": "中国",
+          "region": "亚洲",
+          "language": "zh",
+          "emit_self": true,
+          "self_title": "“LME上海热轧卷板合约”正式上市交易 “上海价格”国际应用场景进一步扩展",
+          "allowed_domains": [
+            "ine.cn"
+          ],
+          "match_terms": [
+            "LME",
+            "热轧卷板",
+            "上海价格"
+          ],
+          "match_in_title": true,
+          "max_items": 1
         }
       ]
     },
@@ -489,6 +508,7 @@
     "economy.gob.mx": "墨西哥",
     "economia.gob.mx": "墨西哥",
     "trade.gov.tr": "土耳其",
-    "moit.gov.vn": "越南"
+    "moit.gov.vn": "越南",
+    "ine.cn": "中国"
   }
 }
