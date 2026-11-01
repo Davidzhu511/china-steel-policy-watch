@@ -5682,5 +5682,36 @@
     "follow_up": "跟踪四季度中板、钢筋产量与制造业用钢占比；如用于CBAM或绿色采购，另行核对企业级核查报告和产品碳数据。",
     "evidence_url": "https://www.chinanews.com.cn/cj/2026/10-31/10723817.shtml",
     "coverage": "2026-11-01已通读中新网转载的央视网全文，核对中板、钢筋、制造业用钢占比、进出口、超低排放改造和极致能效数据；稿件将数据归于中钢协，未提供企业清单、逐厂核查报告或产品级排放明细，因此按行业协会汇总数据和媒体转述呈现。"
+  },
+  {
+    "url": "https://mcinet.gov.ma/fr/content/avis-public-ndeg-ddc122026-relatif-aux-resultats-de-lenquete-de-reexamen-pour-prorogation",
+    "published_date": "2026-10-26",
+    "reviewed_at": "2026-11-01",
+    "title_zh": "摩洛哥延长焊接钢管保障措施至2029年：中国等当前列入豁免清单",
+    "title_en": "Morocco extends welded-pipe safeguard through 2029; China is currently exempt",
+    "summary_zh": "摩洛哥工贸部第DDC/12/2026号公告决定自2026年11月6日起将进口焊接铁或钢管保障措施延长三年。产品为圆形、方形或矩形截面的锥形或棱锥形焊接管，涉及摩洛哥税号7306191090、7306199900、7306301099、7306309900、7306501090、7306509900、7306611010、7306611090、7306619000、7306691000、7306699900、7306902012、7306902019、7306902022、7306902029、7306902039、7306909019、7306909099。附加从价税依次为：2026年11月6日至2027年11月5日19%，2027年11月6日至2028年11月5日18%，2028年11月6日至2029年11月5日17%。附件按WTO发展中成员低于3%进口份额规则列出豁免来源，当前包括中国大陆、香港、澳门和中华台北；主管机关可按最新进口数据调整清单。",
+    "summary_en": "Morocco's Ministry of Industry and Trade, in Notice DDC/12/2026, extends the safeguard on imported welded iron or steel tubes and pipes for three years from 6 November 2026. The measure covers conical or pyramidal welded pipes with circular, square or rectangular cross-sections under Moroccan tariff codes 7306191090, 7306199900, 7306301099, 7306309900, 7306501090, 7306509900, 7306611010, 7306611090, 7306619000, 7306691000, 7306699900, 7306902012, 7306902019, 7306902022, 7306902029, 7306902039, 7306909019 and 7306909099. Additional ad valorem duties are 19% from 6 November 2026 to 5 November 2027, 18% to 5 November 2028, and 17% to 5 November 2029. The annex currently exempts mainland China, Hong Kong, Macao and Chinese Taipei under the WTO developing-country import-share rule; the list may be revised using updated import data.",
+    "impact_zh": "对中国钢管出口商，当前关键结论是不能把19%直接套用于中国原产货物。应保留原产地、生产及运输链证据，并在每票出运前复核豁免附件是否调整。转口或非中国原产货物不得借用中国豁免；若某来源进口份额超过3%，清单存在调整风险。",
+    "impact_en": "Chinese pipe exporters should not automatically apply the 19% duty to Chinese-origin goods because China is currently listed as exempt. Preserve origin, production and transport-chain evidence and recheck the annex before each shipment. Transshipped or non-Chinese-origin goods cannot rely on China's exemption, and the list may change if an origin's import share exceeds 3%.",
+    "category": "贸易救济",
+    "status": "保障措施延长／中国当前豁免",
+    "importance": "高",
+    "tags": [
+      "摩洛哥",
+      "保障措施",
+      "焊接钢管",
+      "原产地",
+      "豁免清单"
+    ],
+    "tags_en": [
+      "Morocco",
+      "safeguard",
+      "welded pipe",
+      "origin",
+      "exemption list"
+    ],
+    "follow_up": "2026年11月6日措施进入延长期；出运前复核摩洛哥工贸部附件中的发展中成员豁免清单及进口份额调整。",
+    "evidence_url": "https://mcinet.gov.ma/sites/default/files/documents/Avis%20public%20n%C2%B0DDC-12-2026%20r%C3%A9sultats%20r%C3%A9examen%20pour%20progoratoon%20sauvegarde.pdf",
+    "coverage": "2026-11-01逐页核对摩洛哥工贸部DDC/12/2026三页官方PDF，核对产品描述、18个税号、三档税率和附件豁免清单；未替具体货物核定原产地，也未核验公告发布后的清单调整。"
   }
 ]

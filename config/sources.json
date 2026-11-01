@@ -304,6 +304,46 @@
           "match_in_title": true,
           "max_items": 1,
           "self_published_date": "2026-10-22"
+        },
+        {
+          "name": "哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销",
+          "url": "https://www.defensoriadian.gov.co/al-dia-con-la-normativa/",
+          "country": "哥伦比亚",
+          "region": "南美洲",
+          "language": "es",
+          "emit_self": true,
+          "self_title": "Resolución No. 00695 de 16 de octubre de 2026 - investigación antidumping sobre perfiles de hierro o acero en L y U",
+          "allowed_domains": [
+            "defensoriadian.gov.co"
+          ],
+          "match_terms": [
+            "Resolución 00695",
+            "perfiles de hierro o acero",
+            "L y U"
+          ],
+          "match_in_title": true,
+          "max_items": 1,
+          "self_published_date": "2026-10-19"
+        },
+        {
+          "name": "摩洛哥工贸部 · 焊接钢管保障措施复审终裁",
+          "url": "https://mcinet.gov.ma/fr/content/avis-public-ndeg-ddc122026-relatif-aux-resultats-de-lenquete-de-reexamen-pour-prorogation",
+          "country": "摩洛哥",
+          "region": "非洲",
+          "language": "fr",
+          "emit_self": true,
+          "self_title": "Avis public n° DDC/12/2026 relatif aux résultats du réexamen de la mesure de sauvegarde sur les tubes et tuyaux en fer ou en acier",
+          "allowed_domains": [
+            "mcinet.gov.ma"
+          ],
+          "match_terms": [
+            "DDC/12/2026",
+            "tubes et tuyaux",
+            "sauvegarde"
+          ],
+          "match_in_title": true,
+          "max_items": 1,
+          "self_published_date": "2026-10-26"
         }
       ]
     },
