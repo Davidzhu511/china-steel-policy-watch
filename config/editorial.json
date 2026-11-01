@@ -5616,8 +5616,8 @@
     "coverage": "2026-10-31已通读SMM原始页面正文，核对35港覆盖范围、库存、环比变化、日均疏港量及供需解释；IndexBox仅作为发现线索。SMM声明其数据结合公开信息、市场沟通和内部数据库模型，故按行业数据呈现，不冒充中国官方统计。"
   },
   {
-    "url": "https://cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189638&type=",
-    "published_date": "2026-10-30",
+    "url": "https://thaitr.dft.go.th/th/search/AD1057",
+    "published_date": "2026-10-22",
     "reviewed_at": "2026-11-01",
     "title_zh": "泰国对中国预应力钢绞线启动反倾销调查，出口商问卷12月3日截止",
     "title_en": "Thailand opens anti-dumping investigation into Chinese PC strand; exporter questionnaire due 3 December",
@@ -5649,5 +5649,38 @@
     },
     "evidence_url": "https://thaitr.dft.go.th/th/search/AD1057",
     "coverage": "2026-11-01已读取泰国商业部外贸厅AD1057官方案件页面，核对产品、国家、HS编码、调查状态、公告／启动日期、0%当前税率及2026年12月3日问卷期限；并与中国商务部贸易救济信息网对泰国政府公报的编译交叉核对30日评述要求。已打开DFT链接的三页泰国政府公报PDF并确认2026年10月22日刊登信息，但PDF泰文字体编码导致正文提取乱码，故未声称核验公告中的全部产品排除、调查期或程序细节。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SZlBOalh3alE4RjBCZHhNYlVjel9weXJib1R4MGg5RFJtOHpMdFVkalpvajREYVJWZU9ELTRxOFBvRUpoZG5yVE1OM2ZTS3ppRDRBN19Tdm1YSk04S2tzUElPdmxTWjQ?oc=5",
+    "published_date": "2026-10-31",
+    "reviewed_at": "2026-11-01",
+    "title_zh": "中钢协：中板增产491万吨、钢筋减产1718万吨，钢材结构继续向制造业调整",
+    "title_en": "CISA: plate output rises 4.91Mt while rebar falls 17.18Mt as steel mix shifts toward manufacturing",
+    "summary_zh": "央视网稿件经中新网转载显示，2026年前三季度中国粗钢产量7.25亿吨；中板产量同比增加491万吨，是增量最大品种，钢筋产量同比减少1718万吨，是减量最大品种。制造业用钢占比在2025年首次超过建筑业、达到51%，2026年上半年升至52%。同期钢材出口8564万吨、同比下降2.6%，出口均价709美元／吨、上升1.8%，进口钢材407万吨、下降10.5%。截至9月底，307家钢企完成或部分完成超低排放改造和评估监测，其中282家全过程完成、涉及粗钢产能约9.4亿吨；143家企业、7.5亿吨粗钢产能参加极致能效培育，三年累计节能超过2400万吨标准煤、减排二氧化碳6000万吨。",
+    "summary_en": "A CCTV report republished by China News Service says China produced 725Mt of crude steel in January-September 2026. Plate output rose 4.91Mt year on year, the largest product increase, while rebar fell 17.18Mt, the largest decline. Manufacturing's share of steel use first exceeded construction in 2025 at 51% and reached 52% in H1 2026. Steel exports were 85.64Mt (-2.6%) at an average USD 709/t (+1.8%), while imports fell 10.5% to 4.07Mt. By end-September, 307 mills had completed all or part of ultra-low-emission retrofits and assessment, including 282 fully completed sites covering about 940Mt of crude-steel capacity. CISA's three-year efficiency programme involved 143 firms and 750Mt of capacity, reporting more than 24Mtce of energy savings and 60Mt of CO2 reductions.",
+    "impact_zh": "中板增、钢筋减以及制造业用钢占比上升，说明需求和产品结构正从地产相关长材向制造业板材、高性能和特种钢倾斜；钢厂应按真实订单、认证周期和产品盈利调整品种，而不是把协会数据理解为行政性品种配额。出口量下降、均价上升也不等同于所有企业利润改善。超低排放和节能数据是中钢协汇总口径，不能直接作为单厂、单产品的CBAM实际排放值或第三方核查结果；出口企业仍需建立产品级排放数据和可验证证据链。",
+    "impact_en": "Higher plate and lower rebar output, together with a rising manufacturing share, point to a shift from property-linked long products toward manufacturing plate and higher-specification steel. Mills should adjust their mix against real orders, qualification cycles and margins rather than treat association data as an administrative quota. Lower export volume and a higher average price do not prove better margins for every producer. CISA's aggregate retrofit and energy-saving figures are not installation- or product-level CBAM actual emissions or third-party verification; exporters still need auditable product data.",
+    "category": "市场与产能",
+    "status": "行业协会数据／媒体转述",
+    "importance": "中",
+    "tags": [
+      "中钢协",
+      "中板",
+      "钢筋",
+      "制造业用钢",
+      "超低排放",
+      "钢材出口"
+    ],
+    "tags_en": [
+      "CISA",
+      "plate",
+      "rebar",
+      "manufacturing steel demand",
+      "ultra-low emissions",
+      "steel exports"
+    ],
+    "follow_up": "跟踪四季度中板、钢筋产量与制造业用钢占比；如用于CBAM或绿色采购，另行核对企业级核查报告和产品碳数据。",
+    "evidence_url": "https://www.chinanews.com.cn/cj/2026/10-31/10723817.shtml",
+    "coverage": "2026-11-01已通读中新网转载的央视网全文，核对中板、钢筋、制造业用钢占比、进出口、超低排放改造和极致能效数据；稿件将数据归于中钢协，未提供企业清单、逐厂核查报告或产品级排放明细，因此按行业协会汇总数据和媒体转述呈现。"
   }
 ]
