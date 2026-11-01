@@ -175,7 +175,23 @@ class EcWatchPagesCollector(Collector):
             successes += 1
             if page.get("emit_self"):
                 page_text = _clean(soup.get_text(" ", strip=True))
-                published = _extract_latest_date(page_text, cutoff)
+                configured_date = str(page.get("self_published_date") or "").strip()
+                if configured_date:
+                    try:
+                        published = date_parser.isoparse(configured_date)
+                    except (TypeError, ValueError, OverflowError):
+                        published = None
+                        self.warnings.append(
+                            f"{url}: invalid self_published_date {configured_date!r}"
+                        )
+                    if published is not None:
+                        if published.tzinfo is None:
+                            published = published.replace(tzinfo=UTC)
+                        published = published.astimezone(UTC)
+                        if not cutoff <= published <= datetime.now(UTC) + timedelta(days=1):
+                            published = None
+                else:
+                    published = _extract_latest_date(page_text, cutoff)
                 title = str(page.get("self_title") or "").strip()
                 if published is not None and title:
                     target = canonical_url(url)
