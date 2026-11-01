@@ -285,6 +285,25 @@
           ],
           "match_in_title": true,
           "max_items": 1
+        },
+        {
+          "name": "商务部贸易救济信息网 · 泰国预应力钢绞线反倾销调查",
+          "url": "https://cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189638&type=",
+          "country": "中国",
+          "region": "亚洲",
+          "language": "zh",
+          "emit_self": true,
+          "self_title": "泰国对华预应力钢绞线启动反倾销调查",
+          "allowed_domains": [
+            "mofcom.gov.cn"
+          ],
+          "match_terms": [
+            "预应力钢绞线",
+            "反倾销",
+            "泰国"
+          ],
+          "match_in_title": true,
+          "max_items": 1
         }
       ]
     },
