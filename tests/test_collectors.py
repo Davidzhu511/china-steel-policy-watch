@@ -196,6 +196,34 @@ class FakeRichSession:
         return self.response
 
 
+def test_ec_watch_pages_emit_self_uses_configured_date():
+    collector = EcWatchPagesCollector(
+        {
+            "name": "EC Watch",
+            "lookback_days": 5000,
+            "pages": [
+                {
+                    "name": "Thai DFT case",
+                    "url": "https://thaitr.dft.go.th/th/search/AD1057",
+                    "emit_self": True,
+                    "self_title": "Thailand opens PC strand investigation",
+                    "self_published_date": "2026-10-22",
+                }
+            ],
+        },
+        {"settings": {}},
+    )
+    collector.session = FakeRichSession(
+        FakeRichResponse(text="<html><body>Official case page without Gregorian date</body></html>")
+    )
+
+    items = collector.collect()
+
+    assert len(items) == 1
+    assert items[0].published_at == "2026-10-22T00:00:00Z"
+    assert items[0].url == "https://thaitr.dft.go.th/th/search/AD1057"
+
+
 def test_ec_watch_pages_collects_dated_cbam_document():
     html = """
     <html><body>
