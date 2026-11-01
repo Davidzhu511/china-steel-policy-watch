@@ -287,23 +287,23 @@
           "max_items": 1
         },
         {
-          "name": "商务部贸易救济信息网 · 泰国预应力钢绞线反倾销调查",
-          "url": "https://cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189638&type=",
-          "country": "中国",
+          "name": "泰国商业部外贸厅 · 对华预应力钢绞线反倾销调查",
+          "url": "https://thaitr.dft.go.th/th/search/AD1057",
+          "country": "泰国",
           "region": "亚洲",
-          "language": "zh",
+          "language": "th",
           "emit_self": true,
-          "self_title": "泰国对华预应力钢绞线启动反倾销调查",
+          "self_title": "ลวดเหล็กกล้าตีเกลียวสำหรับคอนกรีตอัดแรง (PC Strand) - China - AD1057",
           "allowed_domains": [
-            "mofcom.gov.cn"
+            "dft.go.th"
           ],
           "match_terms": [
-            "预应力钢绞线",
-            "反倾销",
-            "泰国"
+            "PC Strand",
+            "AD1057"
           ],
           "match_in_title": true,
-          "max_items": 1
+          "max_items": 1,
+          "self_published_date": "2026-10-22"
         }
       ]
     },
