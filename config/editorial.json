@@ -5614,5 +5614,40 @@
     "follow_up": "下周复核SMM 35港库存、疏港量和铁水变化，并与其他机构口径分开记录。",
     "evidence_url": "https://news.metal.com/newscontent/104187942-iron-ore-port-inventory-and-port-pick-up-volume-on-october-30-2026",
     "coverage": "2026-10-31已通读SMM原始页面正文，核对35港覆盖范围、库存、环比变化、日均疏港量及供需解释；IndexBox仅作为发现线索。SMM声明其数据结合公开信息、市场沟通和内部数据库模型，故按行业数据呈现，不冒充中国官方统计。"
+  },
+  {
+    "url": "https://cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189638&type=",
+    "published_date": "2026-10-30",
+    "reviewed_at": "2026-11-01",
+    "title_zh": "泰国对中国预应力钢绞线启动反倾销调查，出口商问卷12月3日截止",
+    "title_en": "Thailand opens anti-dumping investigation into Chinese PC strand; exporter questionnaire due 3 December",
+    "summary_zh": "泰国商业部外贸厅（DFT）案件页面显示，反倾销案AD1057涉及原产于中国的预应力混凝土用钢绞线（PC Strand），泰国海关编码7312.10.91。公告于2026年10月22日刊登，调查自10月23日启动；目前状态为“调查中”，页面列示税率为0%，即尚未作出征税裁定。DFT页面把外国生产商／出口商问卷截止日列为2026年12月3日。中国商务部贸易救济信息网根据泰国政府公报编译称，利益相关方还应在公告发布之日起30日内提交书面评述意见和证据。",
+    "summary_en": "Thailand's Department of Foreign Trade (DFT) case page shows that anti-dumping case AD1057 covers prestressed concrete steel wire strand (PC strand) originating in China under Thai customs code 7312.10.91. The notice was published on 22 October 2026 and the investigation started on 23 October. The case remains under investigation and the portal shows a zero duty, so no dumping duty has yet been imposed. DFT lists 3 December 2026 as the questionnaire deadline for foreign producers/exporters. China's MOFCOM trade-remedy portal, citing the Thai Gazette, also says interested parties have 30 days from publication to file written comments and evidence.",
+    "impact_zh": "这是正式立案调查，不是反倾销税终裁。向泰国出口涉案钢绞线的中国企业应立即按HS 7312.10.91和产品描述筛查调查期内交易、泰国客户及关联方，尽快完成利害关系方登记、律师授权和书面意见；不要把12月3日问卷期限与公告后30日的评述期限混为一谈。未按期、完整答卷可能使泰方依据可得事实裁定。报价和合同可预留贸易救济风险条款，但在出现初裁或终裁前不应自行假设税率。",
+    "impact_en": "This is a formal initiation, not a final duty determination. Chinese exporters should screen transactions, Thai customers and affiliates using both the written product description and HS 7312.10.91, register as interested parties, retain counsel and prepare comments and questionnaire responses promptly. The 3 December questionnaire deadline is separate from the 30-day comment period. Incomplete or late responses may lead to facts-available findings. Contracts may allocate trade-remedy risk, but firms should not assume a duty rate before a preliminary or final determination.",
+    "category": "贸易救济",
+    "status": "反倾销调查立案／尚未征税",
+    "importance": "高",
+    "tags": [
+      "泰国",
+      "反倾销",
+      "预应力钢绞线",
+      "HS 7312.10.91",
+      "应诉期限"
+    ],
+    "tags_en": [
+      "Thailand",
+      "anti-dumping",
+      "PC strand",
+      "HS 7312.10.91",
+      "response deadline"
+    ],
+    "follow_up": {
+      "action_zh": "优先按公告后30日窗口提交书面评述和证据，并在2026年12月3日前完成外国生产商／出口商问卷；同步核对泰方后续补充通知、抽样和初裁。",
+      "action_en": "Prioritise written comments and evidence within the 30-day notice window, complete the foreign producer/exporter questionnaire by 3 December 2026, and monitor sampling and preliminary findings.",
+      "due_at": "2026-11-21"
+    },
+    "evidence_url": "https://thaitr.dft.go.th/th/search/AD1057",
+    "coverage": "2026-11-01已读取泰国商业部外贸厅AD1057官方案件页面，核对产品、国家、HS编码、调查状态、公告／启动日期、0%当前税率及2026年12月3日问卷期限；并与中国商务部贸易救济信息网对泰国政府公报的编译交叉核对30日评述要求。已打开DFT链接的三页泰国政府公报PDF并确认2026年10月22日刊登信息，但PDF泰文字体编码导致正文提取乱码，故未声称核验公告中的全部产品排除、调查期或程序细节。"
   }
 ]
