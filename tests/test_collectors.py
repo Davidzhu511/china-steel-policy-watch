@@ -511,7 +511,7 @@ def test_eurlex_uses_official_cellar_fallback_for_empty_daily_page():
 
     assert result.ok and len(result.items) == 1
     assert result.items[0].metadata["retrieval"] == "publications-office-cellar-sparql"
-    assert "official Publications Office" in result.warnings[0]
+    assert any("official Publications Office" in warning for warning in result.warnings)
 
 
 def test_federal_register_rejects_future_and_missing_publication_dates():
