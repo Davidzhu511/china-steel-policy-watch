@@ -344,6 +344,28 @@
           "match_in_title": true,
           "max_items": 1,
           "self_published_date": "2026-10-26"
+        },
+        {
+          "name": "中国商务部贸易救济调查局 · 埃及钢材反倾销终止",
+          "url": "https://cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189657&type=11",
+          "country": "埃及",
+          "region": "非洲",
+          "language": "zh",
+          "emit_self": true,
+          "self_title": "埃及终止对涉华冷轧卷、镀锌卷和彩涂卷钢材产品反倾销调查",
+          "allowed_domains": [
+            "mofcom.gov.cn"
+          ],
+          "match_terms": [
+            "埃及",
+            "冷轧卷",
+            "镀锌卷",
+            "彩涂卷",
+            "反倾销"
+          ],
+          "match_in_title": true,
+          "max_items": 1,
+          "self_published_date": "2026-04-01"
         }
       ]
     },
