@@ -1056,4 +1056,27 @@
     "evidence_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkJSUWJKVkFrNDY1dVNQOWZmXzBBSUhfR2gwR2JVSTYtSVFPazl6dWV4YU5LaS1oUUhsQXhIWHVlRlFSbmpESmF0UmxUWFhlRUd4WkxGbTVfd1hrOWdYSUlPUElwVENrQWZkU2JsSzJ1Q2pKbzBJOTQ4V05hWHhXdXZGTzJVTTdj?oc=5",
     "coverage": "标题级有限线索；未取得原文正文，未完成翻译与行业研判。"
   }
+  ,
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNnRiMVAyQXpDUWtiWWNOMlgxVGFrcGU4aXlueXY5LTFGNERSamV3TkY4ZjhGM3pwNkZZd3ZWdWZUdzJ5aExRVG0tT1hmVU9SUVdROTFjWnM1QW15TTNpaG5Hdjd5ZU1FUzBqbFAzM1VMZTVITXExVjJ4R3EtY3NTd3poUFVrb0gxVFNBdkhDZWZyWENUTmJQTzg3UDczX2RXLVgtUGtTMWxBYnlJeGl4Tk9n?oc=5",
+    "published_date": "2026-11-02",
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcm5ZanNnM2xYVnZyclZKWW4wTFJibnRhTnVVdFdRQ3ZENWRhX2Q1dVNkdEFUenpRcVFSSWtWSFRwZXdLY3ZpWXdxNUpMWG82dWswREo3eEFqNWczZVFkUjZtU0MyZmdUeWxtQ0ZuN2NmWExTemF2S01OT1RtTE1MaG9qVWJydGpNM0tEWm9UNlhMTk1QakwtUXJWYzN4aVVzR1h6a3ZTcURraXc1RC14RzhkVUhVczJtVmlPc3ZEQlN2SG44R3B6NzdKRQ?oc=5",
+    "reason_zh": "Nikkei Asia标题及公开导语所述需求走弱、燃料成本上升、钢厂利润受压并推动出口的核心事件，已由本看板11月2日完成原始数据核验的中钢协三季度主条目覆盖。Nikkei正文受订阅及访问限制，未读取其中企业案例和新增数字，不把不可见细节转述为事实；保留此媒体链接并归并，避免把同一行业运行事件重复计入待研判。",
+    "reason_en": "The Nikkei headline and public teaser describe the same weak-demand, higher-fuel-cost and margin-pressure event already covered by the source-checked CISA Q3 item. The subscription article could not be read, so no unseen company examples or figures are republished. Retain the link as duplicate coverage.",
+    "attempted_at": "2026-11-02",
+    "evidence_url": "https://www.chinaisa.org.cn/",
+    "coverage": "2026-11-02仅核对Nikkei标题和公开导语，并与已核验的中钢协产量、消费、库存、利润及行业自律主条目对照；未绕过订阅墙，未声称阅读全文。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUNrOTNjSDNPdXVJTVRrNEtXY25ET0NISEVURDduU3QtUklGZU16R1JwNTNsaUNtWnNkTy14cHlRZ2g4TzFYV3ZDQnlldkhkMHF0TGpneXBfeEtiRmVhWmd1bnhFSXhreGRkNGJPZFdCbzdwdUJDVUtmUW9zbTRoVVFaemE1VFJMNFFMeXV0RmNBaTREU1ppbmtXRFotUzRGYVR4Y1J2SDEyclk?oc=5",
+    "published_date": "2026-10-27",
+    "decision": "blocked",
+    "title_zh": "Kalkine铁矿石与中国钢需评论正文待核验",
+    "reason_zh": "2026年11月2日按英文标题检索Kalkine站点、公开索引及可用镜像，仍未找到稳定可读的原文或等效作者版本。现阶段只能确认标题涉及中国钢材需求放缓对铁矿石价格的影响，无法核对所用价格时点、合约、库存／铁水数据、分析师归属和预测条件；不得用其他日期的铁矿石报道替代本条正文。",
+    "reason_en": "Searches of Kalkine, public indexes and available mirrors found no stable full text or equivalent author version. Only the headline can be confirmed; price dates, contracts, inventory or hot-metal data, attribution and forecast conditions remain unverified. Other iron-ore reports must not be substituted for this article.",
+    "attempted_at": "2026-11-02",
+    "evidence_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUNrOTNjSDNPdXVJTVRrNEtXY25ET0NISEVURDduU3QtUklGZU16R1JwNTNsaUNtWnNkTy14cHlRZ2g4TzFYV3ZDQnlldkhkMHF0TGpneXBfeEtiRmVhWmd1bnhFSXhreGRkNGJPZFdCbzdwdUJDVUtmUW9zbTRoVVFaemE1VFJMNFFMeXV0RmNBaTREU1ppbmtXRFotUzRGYVR4Y1J2SDEyclk?oc=5",
+    "coverage": "标题级有限线索；未取得原文正文，未完成数字核验、翻译和行业研判。"
+  }
 ]
