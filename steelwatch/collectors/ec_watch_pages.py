@@ -165,13 +165,35 @@ class EcWatchPagesCollector(Collector):
             url = str(page.get("url") or "").strip()
             if not url:
                 continue
-            try:
-                response = self.session.get(url, timeout=max(self.timeout, 35))
-                response.raise_for_status()
-                soup = BeautifulSoup(response.text, "html.parser")
-            except Exception as exc:
-                self.warnings.append(f"{url}: {type(exc).__name__}: {str(exc)[:120]}")
+            # One-off official notices can become inaccessible from cloud runners.
+            # Only use explicitly configured, verified republications as fallback.
+            candidates = [{"url": url}, *page.get("fallbacks", [])] if page.get("emit_self") else [{"url": url}]
+            selected = None
+            failed = []
+            for candidate in candidates:
+                candidate_url = str(candidate.get("url") or "").strip()
+                if not candidate_url:
+                    continue
+                try:
+                    response = self.session.get(candidate_url, timeout=max(self.timeout, 35))
+                    response.raise_for_status()
+                    soup = BeautifulSoup(response.text, "html.parser")
+                    page_text = _clean(soup.get_text(" ", strip=True))
+                    required = candidate.get("required_text", [])
+                    if not page_text or not all(str(word).lower() in page_text.lower() for word in required):
+                        raise ValueError("response is empty or lacks the required notice details")
+                    selected = candidate
+                    break
+                except Exception as exc:
+                    failed.append(f"{candidate_url}: {type(exc).__name__}: {str(exc)[:85]}")
+            if selected is None:
+                self.warnings.append("; ".join(failed)[:320])
                 continue
+            fetch_url = str(selected["url"])
+            used_fallback = fetch_url != url
+            selected_name = str(selected.get("name") or page.get("name") or self.source_name)
+            selected_kind = str(selected.get("source_kind") or "official-notice")
+            selected_official = bool(selected.get("official", True))
             successes += 1
             if page.get("emit_self"):
                 page_text = _clean(soup.get_text(" ", strip=True))
@@ -194,7 +216,7 @@ class EcWatchPagesCollector(Collector):
                     published = _extract_latest_date(page_text, cutoff)
                 title = str(page.get("self_title") or "").strip()
                 if published is not None and title:
-                    target = canonical_url(url)
+                    target = canonical_url(fetch_url)
                     identifier = stable_id(target, title)
                     found[identifier] = RawItem(
                         id=identifier,
@@ -202,16 +224,18 @@ class EcWatchPagesCollector(Collector):
                         url=target,
                         published_at=published.replace(microsecond=0).isoformat().replace("+00:00", "Z"),
                         source_id=self.source_id,
-                        source_name=str(page.get("name") or self.source_name),
-                        source_kind="official-notice",
+                        source_name=selected_name,
+                        source_kind=selected_kind,
                         region=str(page.get("region") or "欧洲"),
                         country=str(page.get("country") or "欧盟"),
                         excerpt=trim_text(page_text, 1600),
                         language=str(page.get("language") or "en"),
                         metadata={
-                            "official": True,
+                            "official": selected_official,
                             "scope_relevant": True,
-                            "watch_page": url,
+                            "watch_page": fetch_url,
+                            "original_notice_url": url,
+                            "fallback_used": used_fallback,
                         },
                     )
             terms = [str(term).lower() for term in page.get("match_terms", []) if term]
@@ -231,7 +255,7 @@ class EcWatchPagesCollector(Collector):
             }
 
             for anchor in soup.select("a[href]"):
-                target = canonical_url(urljoin(url, anchor.get("href") or ""))
+                target = canonical_url(urljoin(fetch_url, anchor.get("href") or ""))
                 if not target:
                     continue
                 parts = urlsplit(target)
