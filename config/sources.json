@@ -304,7 +304,20 @@
           ],
           "match_in_title": true,
           "max_items": 1,
-          "self_published_date": "2026-10-30"
+          "self_published_date": "2026-10-30",
+          "fallbacks": [
+            {
+              "url": "https://ccpit.nanjing.gov.cn/mymcyjxx/202611/t20261102_6030166.html",
+              "name": "南京市贸促会（中国贸易救济信息转载）",
+              "source_kind": "official-notice",
+              "official": true,
+              "required_text": [
+                "预应力钢绞线",
+                "反倾销调查",
+                "7312.10.91"
+              ]
+            }
+          ]
         },
         {
           "name": "哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销",
@@ -353,7 +366,7 @@
           "region": "非洲",
           "language": "zh",
           "emit_self": true,
-          "self_title": "埃及对涉华冷轧卷、镀锌卷和彩涂卷钢材产品作出反倾销终裁",
+          "self_title": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
           "allowed_domains": [
             "mofcom.gov.cn"
           ],
@@ -366,7 +379,21 @@
           ],
           "match_in_title": true,
           "max_items": 1,
-          "self_published_date": "2026-11-02"
+          "self_published_date": "2026-11-02",
+          "fallbacks": [
+            {
+              "url": "https://news.mysteel.com/a/26110215/722BC206CFA1DEAD.html",
+              "name": "我的钢铁网（商务部公告转载）",
+              "source_kind": "news",
+              "official": false,
+              "required_text": [
+                "镀锌卷",
+                "彩涂卷",
+                "终止",
+                "反倾销"
+              ]
+            }
+          ]
         }
       ]
     },
