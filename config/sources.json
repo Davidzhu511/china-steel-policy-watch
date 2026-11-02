@@ -316,6 +316,17 @@
                 "反倾销调查",
                 "7312.10.91"
               ]
+            },
+            {
+              "url": "https://news.mysteel.com/a/26103009/E921E5CBA72B4D5E.html",
+              "name": "我的钢铁网（商务部公告转载）",
+              "source_kind": "news",
+              "official": false,
+              "required_text": [
+                "预应力钢绞线",
+                "反倾销调查",
+                "7312.10.91"
+              ]
             }
           ]
         },
