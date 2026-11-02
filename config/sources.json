@@ -287,23 +287,24 @@
           "max_items": 1
         },
         {
-          "name": "泰国商业部外贸厅 · 对华预应力钢绞线反倾销调查",
-          "url": "https://thaitr.dft.go.th/th/search/AD1057",
+          "name": "中国商务部贸易救济信息网 · 泰国钢绞线反倾销立案",
+          "url": "https://admin.cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189638&type=",
           "country": "泰国",
           "region": "亚洲",
-          "language": "th",
+          "language": "zh",
           "emit_self": true,
-          "self_title": "ลวดเหล็กกล้าตีเกลียวสำหรับคอนกรีตอัดแรง (PC Strand) - China - AD1057",
+          "self_title": "泰国对华预应力钢绞线启动反倾销调查",
           "allowed_domains": [
-            "dft.go.th"
+            "mofcom.gov.cn"
           ],
           "match_terms": [
-            "PC Strand",
-            "AD1057"
+            "泰国",
+            "预应力钢绞线",
+            "反倾销"
           ],
           "match_in_title": true,
           "max_items": 1,
-          "self_published_date": "2026-10-22"
+          "self_published_date": "2026-10-30"
         },
         {
           "name": "哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销",
@@ -346,13 +347,13 @@
           "self_published_date": "2026-10-26"
         },
         {
-          "name": "中国商务部贸易救济调查局 · 埃及钢材反倾销终止",
-          "url": "https://cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189657&type=11",
+          "name": "中国商务部贸易救济信息网 · 埃及钢卷反倾销终裁",
+          "url": "https://admin.cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189657&type=11",
           "country": "埃及",
           "region": "非洲",
           "language": "zh",
           "emit_self": true,
-          "self_title": "埃及终止对涉华冷轧卷、镀锌卷和彩涂卷钢材产品反倾销调查",
+          "self_title": "埃及对涉华冷轧卷、镀锌卷和彩涂卷钢材产品作出反倾销终裁",
           "allowed_domains": [
             "mofcom.gov.cn"
           ],
@@ -365,7 +366,7 @@
           ],
           "match_in_title": true,
           "max_items": 1,
-          "self_published_date": "2026-04-01"
+          "self_published_date": "2026-11-02"
         }
       ]
     },
