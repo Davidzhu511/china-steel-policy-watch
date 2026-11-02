@@ -404,3 +404,79 @@ button:focus-visible, a:focus-visible, summary:focus-visible { outline: 2px soli
 
 .card-evidence { font-size: .82rem; line-height: 1.6; opacity: .85; overflow-wrap: anywhere; }
 .card-evidence a { color: var(--accent); }
+
+/* Wide-screen methodology: full-width introduction with four equal process cards.
+   Tablet uses a two-column grid; mobile preserves the compact stacked timeline. */
+.method {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  margin-top: 36px;
+  padding: 32px 0;
+}
+.method > div { min-width: 0; }
+.method .eyebrow { margin-bottom: 12px; }
+.method h2 {
+  max-width: 100%;
+  font-family: inherit;
+  font-size: clamp(19px, 2.1vw, 26px);
+  line-height: 1.5;
+}
+.method ol {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin: 0;
+  padding: 0;
+}
+.method li, .method li:first-child {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+  min-width: 0;
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--field);
+}
+.method li b {
+  color: var(--gold-bright);
+  font-family: Georgia, serif;
+  font-size: 13px;
+  line-height: 1;
+}
+.method li span {
+  color: var(--text-body);
+  font-size: 13px;
+  line-height: 1.75;
+  overflow-wrap: anywhere;
+}
+.method li strong {
+  display: inline;
+  min-width: 0;
+  margin-right: .35em;
+  color: var(--text-strong);
+  font-weight: 650;
+}
+@media (min-width: 781px) and (max-width: 1100px) {
+  .method ol { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 780px) {
+  .method { gap: 26px; margin-top: 36px; padding: 30px 0; }
+  .method ol { grid-template-columns: 1fr; gap: 0; }
+  .method li, .method li:first-child {
+    display: grid;
+    grid-template-columns: 44px minmax(0, 1fr);
+    align-items: center;
+    gap: 15px;
+    padding: 17px 0;
+    border: 0;
+    border-bottom: 1px solid var(--line);
+    border-radius: 0;
+    background: transparent;
+  }
+  .method li:first-child { border-top: 1px solid var(--line); }
+  .method li span { font-size: 12px; }
+  .method h2 { font-size: 24px; }
+}
