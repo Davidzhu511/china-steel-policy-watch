@@ -628,3 +628,90 @@ def test_eurlex_cellar_query_can_use_untagged_work_titles_and_english_expression
     result = collector.run()
     assert result.ok and len(result.items) == 1
     assert result.items[0].metadata["retrieval"] == "publications-office-cellar-sparql"
+
+def test_official_watch_notice_uses_attributed_fallback_with_verified_content():
+    from datetime import UTC, datetime
+
+    primary = "https://admin.cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189638"
+    mirror = "https://ccpit.nanjing.gov.cn/example"
+    page = {
+        "name": "Chinese trade-remedy notice",
+        "url": primary,
+        "emit_self": True,
+        "self_title": "泰国对华预应力钢绞线启动反倾销调查",
+        "self_published_date": datetime.now(UTC).date().isoformat(),
+        "country": "泰国",
+        "language": "zh",
+        "fallbacks": [{
+            "url": mirror,
+            "name": "南京市贸促会（转载）",
+            "official": True,
+            "source_kind": "official-notice",
+            "required_text": ["预应力钢绞线", "反倾销调查"],
+        }],
+    }
+
+    class Session:
+        def get(self, url, **kwargs):
+            if url == primary:
+                raise ConnectionError("SSL handshake failed")
+            assert url == mirror
+            return FakeResponse(
+                "<html><body>泰国对华预应力钢绞线启动反倾销调查"
+                " 本案涉及预应力钢绞线，反倾销调查已开始。</body></html>"
+            )
+
+    collector = EcWatchPagesCollector({"pages": [page]}, {"settings": {}})
+    collector.session = Session()
+    result = collector.run()
+    assert result.ok and len(result.items) == 1
+    record = result.items[0]
+    assert record.url == mirror
+    assert record.source_name == "南京市贸促会（转载）"
+    assert record.source_kind == "official-notice"
+    assert record.metadata["original_notice_url"] == primary
+    assert record.metadata["fallback_used"] is True
+    assert record.metadata["official"] is True
+    assert result.warnings == []
+
+
+def test_watch_notice_does_not_trust_unverified_fallback_or_mark_media_official():
+    today = datetime.now(UTC).date().isoformat()
+    primary = "https://admin.cacs.mofcom.gov.cn/notice"
+    mirror = "https://news.mysteel.com/republication"
+    page = {
+        "name": "Official source", "url": primary,
+        "emit_self": True, "self_title": "Egypt terminated anti-dumping investigation",
+        "self_published_date": today,
+        "fallbacks": [{
+            "url": mirror, "name": "Industry media (republication)",
+            "official": False, "source_kind": "news",
+            "required_text": ["Egypt", "terminated", "anti-dumping"],
+        }],
+    }
+
+    class Session:
+        def __init__(self, body):
+            self.body = body
+
+        def get(self, url, **kwargs):
+            if url == primary:
+                raise ConnectionError("TLS failed")
+            return FakeResponse(self.body)
+
+    collector = EcWatchPagesCollector({"pages": [page]}, {"settings": {}})
+    collector.session = Session("<html><body>News site home page</body></html>")
+    bad = collector.run()
+    assert not bad.ok
+    assert "required notice details" in bad.error
+
+    collector = EcWatchPagesCollector({"pages": [page]}, {"settings": {}})
+    collector.session = Session(
+        "<html><body>Egypt terminated its anti-dumping investigation "
+        "without imposing new tariffs.</body></html>"
+    )
+    good = collector.run()
+    assert good.ok and len(good.items) == 1
+    assert good.items[0].source_kind == "news"
+    assert good.items[0].metadata["official"] is False
+    assert good.items[0].metadata["fallback_used"] is True
