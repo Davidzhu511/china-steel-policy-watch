@@ -536,3 +536,95 @@ def test_federal_register_rejects_future_and_missing_publication_dates():
     assert len(items) == 1
     assert items[0].published_at == f"{today.isoformat()}T00:00:00Z"
     assert collector.warnings == ["Federal Register record lacks a valid publication date"]
+
+def test_eurlex_rss_accepts_official_l_c_feeds_and_filters_only_relevant_acts():
+    from email.utils import format_datetime
+
+    publication = format_datetime(datetime.now(UTC), usegmt=True)
+    relevant = f"""<rss><channel><item>
+        <title>OJ:L_202602397: Commission Implementing Regulation concerning China steel anti-dumping</title>
+        <link>https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R2397</link>
+        <pubDate>{publication}</pubDate>
+    </item></channel></rss>"""
+    unrelated = f"""<rss><channel><item>
+        <title>OJ:C_202605722: Competition notification concerning pharmaceuticals</title>
+        <link>https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026XC05722</link>
+        <pubDate>{publication}</pubDate>
+    </item></channel></rss>"""
+
+    class Session:
+        def get(self, url, **kwargs):
+            if "rssId=222" in url:
+                return FakeResponse(relevant)
+            if "rssId=221" in url:
+                return FakeResponse(unrelated)
+            raise AssertionError(f"Should use the official RSS feeds, not daily HTML: {url}")
+
+    collector = EurLexCollector(
+        {"lookback_days": 3, "series": ["L", "C"]},
+        {"keywords": {"china": ["china"], "materials": ["steel"], "exclude": []}},
+    )
+    collector.session = Session()
+    result = collector.run()
+    assert result.ok and len(result.items) == 1
+    assert result.items[0].title.startswith("Commission Implementing Regulation")
+    assert result.items[0].metadata["retrieval"] == "eurlex-official-rss"
+    assert not result.warnings
+
+
+def test_eurlex_rss_valid_unrelated_feed_is_a_real_zero_without_fallback():
+    from email.utils import format_datetime
+
+    publication = format_datetime(datetime.now(UTC), usegmt=True)
+    rss = f"""<rss><channel><item>
+        <title>OJ:L_202600001: Commission notice on pharmaceuticals</title>
+        <link>https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0001</link>
+        <pubDate>{publication}</pubDate>
+    </item></channel></rss>"""
+    collector = EurLexCollector(
+        {"lookback_days": 3, "series": ["L"]},
+        {"keywords": {"china": ["china"], "materials": ["steel"]}},
+    )
+    collector.session = FakeSession(rss)
+    result = collector.run()
+    assert result.ok and not result.items
+    assert not result.warnings
+
+
+def test_eurlex_empty_rss_and_empty_cellar_is_reported_as_failure():
+    class Session:
+        def get(self, url, **kwargs):
+            if "sparql" in url:
+                return FakeJsonResponse({"results": {"bindings": []}})
+            return FakeResponse("")
+
+    collector = EurLexCollector({"lookback_days": 1, "series": ["L"]}, {"keywords": {}})
+    collector.session = Session()
+    result = collector.run()
+    assert not result.ok
+    assert "CELLAR SPARQL returned no dated" in result.error
+
+
+def test_eurlex_cellar_query_can_use_untagged_work_titles_and_english_expressions():
+    class Session:
+        def get(self, url, **kwargs):
+            if "sparql" not in url:
+                return FakeResponse("")
+            query = kwargs["params"]["query"]
+            assert "cdm:expression_title" in query
+            assert "COALESCE(?english_title, ?default_title)" in query
+            assert "FILTER(lang(?title)" not in query
+            return FakeJsonResponse({"results": {"bindings": [{
+                "date": {"value": datetime.now(UTC).date().isoformat()},
+                "celex": {"value": "32026R2397"},
+                "title": {"value": "Commission Regulation on China steel anti-dumping"},
+            }]}})
+
+    collector = EurLexCollector(
+        {"lookback_days": 1, "series": ["L"]},
+        {"keywords": {"china": ["china"], "materials": ["steel"]}},
+    )
+    collector.session = Session()
+    result = collector.run()
+    assert result.ok and len(result.items) == 1
+    assert result.items[0].metadata["retrieval"] == "publications-office-cellar-sparql"
