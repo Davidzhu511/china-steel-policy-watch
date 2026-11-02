@@ -1079,4 +1079,16 @@
     "evidence_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUNrOTNjSDNPdXVJTVRrNEtXY25ET0NISEVURDduU3QtUklGZU16R1JwNTNsaUNtWnNkTy14cHlRZ2g4TzFYV3ZDQnlldkhkMHF0TGpneXBfeEtiRmVhWmd1bnhFSXhreGRkNGJPZFdCbzdwdUJDVUtmUW9zbTRoVVFaemE1VFJMNFFMeXV0RmNBaTREU1ppbmtXRFotUzRGYVR4Y1J2SDEyclk?oc=5",
     "coverage": "标题级有限线索；未取得原文正文，未完成数字核验、翻译和行业研判。"
   }
+  ,
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4dkpISEplVkhUenhhVUdRNkwwYmgzTzdzS3hjZEhaVndDUDVsclhOZWMxeXpEei0wd09DTWdPXzlSY0ZDRnhvOEllaHZOV1lYUzF2TnFtNy1EdUVBS1lHQWNQNFJ5bThQRGMtTHQ3MnBhdw?oc=5",
+    "published_date": "2026-11-02",
+    "decision": "duplicate",
+    "duplicate_of": "https://gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-technical-guidance-for-monitoring-verifying-and-reporting-emissions",
+    "reason_zh": "IOM3标题所称英国CBAM指南发布，指向HMRC 10月16日发布的313页监测、核查和报告技术指南。该官方指南的钢铁章节、适用对象、法律状态及11月13日反馈期限已在已核验主条目呈现；本线索没有新的法规、税率或期限，作为行业机构的后续提示归并，不重复计入待研判。",
+    "reason_en": "The IOM3 headline refers to HMRC's 16 October 313-page UK CBAM monitoring, verification and reporting guide. Its steel chapters, audience, legal status and 13 November feedback deadline are already covered by a source-checked official item. This follow-up notice adds no new rule, rate or deadline and is retained as duplicate coverage.",
+    "attempted_at": "2026-11-02",
+    "evidence_url": "https://www.gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-technical-guidance-for-monitoring-verifying-and-reporting-emissions",
+    "coverage": "2026-11-02核对IOM3标题与HMRC官方指南发布页，并与2026-10-22已完成的官方主条目对照；确认同一指南发布事件，未把行业提示另作政策变化。"
+  }
 ]
