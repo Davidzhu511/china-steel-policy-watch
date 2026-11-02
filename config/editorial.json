@@ -5713,5 +5713,70 @@
     "follow_up": "2026年11月6日措施进入延长期；出运前复核摩洛哥工贸部附件中的发展中成员豁免清单及进口份额调整。",
     "evidence_url": "https://mcinet.gov.ma/sites/default/files/documents/Avis%20public%20n%C2%B0DDC-12-2026%20r%C3%A9sultats%20r%C3%A9examen%20pour%20progoratoon%20sauvegarde.pdf",
     "coverage": "2026-11-01逐页核对摩洛哥工贸部DDC/12/2026三页官方PDF，核对产品描述、18个税号、三档税率和附件豁免清单；未替具体货物核定原产地，也未核验公告发布后的清单调整。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcm5ZanNnM2xYVnZyclZKWW4wTFJibnRhTnVVdFdRQ3ZENWRhX2Q1dVNkdEFUenpRcVFSSWtWSFRwZXdLY3ZpWXdxNUpMWG82dWswREo3eEFqNWczZVFkUjZtU0MyZmdUeWxtQ0ZuN2NmWExTemF2S01OT1RtTE1MaG9qVWJydGpNM0tEWm9UNlhMTk1QakwtUXJWYzN4aVVzR1h6a3ZTcURraXc1RC14RzhkVUhVczJtVmlPc3ZEQlN2SG44R3B6NzdKRQ?oc=5",
+    "published_date": "2026-11-02",
+    "reviewed_at": "2026-11-02",
+    "title_zh": "中国铁水产量降幅小于预期，铁矿石期价小幅反弹但四季度供应压力仍在",
+    "title_en": "Iron ore edges higher as China's hot-metal decline proves smaller than expected",
+    "summary_zh": "11月2日市场报道显示，大商所主力铁矿石合约在北京时间早盘上涨0.59%至679元/吨，新交所12月合约上涨0.61%至91.3美元/吨；此前两者在9月和10月均连续下跌。Mysteel样本钢厂截至10月29日的日均铁水产量环比仅下降0.2%至约232万吨，降幅小于市场对检修、亏损及北方环保减产的预期。国信期货认为价格接近支撑位后情绪有所恢复，但四季度供应过剩和钢厂盈利偏弱仍限制上行。同期上期所螺纹钢、热卷分别下跌0.59%和0.57%，不锈钢上涨0.34%。",
+    "summary_en": "A 2 November market report said DCE iron ore rose 0.59% to CNY679/t and SGX December iron ore gained 0.61% to USD91.3/t after two monthly declines. Mysteel's surveyed daily hot-metal output fell only 0.2% week on week to about 2.32Mt as of 29 October, less than expected despite maintenance, weak margins and temporary northern output cuts. Guoxin Futures saw support-level stabilisation, while Q4 surplus risk and weak mill margins still capped upside. SHFE rebar and HRC fell 0.59% and 0.57%, while stainless rose 0.34%.",
+    "impact_zh": "本次反弹主要反映铁水降幅不及预期和技术性支撑，不能据此判断钢材终端需求或出口订单已转强。中国钢厂应把铁水、利润、港口库存和到港量共同纳入采购节奏，避免用单日DCE/SGX涨幅锁定中长期矿价；出口报价仍应基于钢材实际成本、汇率和目标市场贸易措施。",
+    "impact_en": "The move reflects a smaller-than-expected hot-metal decline and technical support, not proof of stronger end demand or export orders. Mills should combine hot-metal output, margins, inventories and arrivals when planning ore purchases rather than extrapolate one trading session.",
+    "category": "原料与市场",
+    "status": "市场快讯／非政策文件",
+    "importance": "中",
+    "tags": [
+      "铁矿石",
+      "铁水产量",
+      "大商所",
+      "新交所",
+      "钢厂利润"
+    ],
+    "tags_en": [
+      "iron ore",
+      "hot metal",
+      "DCE",
+      "SGX",
+      "mill margins"
+    ],
+    "evidence_url": "https://www.indexbox.io/blog/iron-ore-prices-edge-higher-after-two-month-slide-as-chinese-demand-drop-proves-smaller-than-expected/",
+    "coverage": "2026-11-02已通读IndexBox公开全文，并与公开的Reuters/Engineering News同题稿交叉核对交易时点、合约价格、月度跌幅、Mysteel样本铁水及上期所品种涨跌；未独立取得交易所结算表、Mysteel样本底稿或国信期货原始报告，所有盘中数字按报道时点呈现。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOckgxSno1blo4a05rZUZXOXZxdGpEWHVrcjhJV1JUeExjUkYxeUVNU0tfT3k3d2pLNzJsMFZfWS1vZ3hjejU2clUwUUw4NW5IMm9zaWZSYXVYYXV2MkNacE95T21vdENEVXg2NVRyOWQ4Qy1yYnRScTExUWNoTU1Lbi1hc01ZN1VpVm1fZEhBeDZONnlEUFVTckQ4ODhKeVFZU0NWQjEtZ05ENk5MVUIzOFlLZ3BCVXFtcVJSUkNoUUV4ZENkZDNFWGhSTi1zWlFxcU9hTW9EUmtMRGoxV0IxdGFVU3J0cXQ2Y0Q3N1c3dGh3Vjg?oc=5",
+    "published_date": "2026-10-31",
+    "reviewed_at": "2026-11-02",
+    "title_zh": "英国钢贸会议预计2027年价格承压上行，CBAM与配额风险正进入合同条款",
+    "title_en": "UK steel meeting expects 2027 price pressure as CBAM and quota risks move into contracts",
+    "summary_zh": "EUROMETAL对10月22日ISTA与NSA利兹年会的报道显示，参会者认为英国钢市仍由供应主导、终端需求偏弱但未继续收缩，2027年价格可能上升。报道援引英国商务与贸易部截至10月26日数据称，热轧卷“其他国家”配额已用尽，印度8,364吨配额使用94%，韩国2,196吨配额使用20.3%，欧盟93,750吨配额已使用65,700吨。由于英国CBAM最终成本受核查和轧制料投入透明度影响，买卖双方正讨论成本分摊或事后调整条款；部分卖方转向DAP以限制超配额税费风险。参会者还担心制成钢品进口绕开上游配额并削弱CBAM效果，但该说法是行业风险判断，不是政府已认定规避或已经扩围。",
+    "summary_en": "EUROMETAL's report on the 22 October ISTA/NSA meeting in Leeds said the UK market remained supply-driven, with weak but not contracting demand and expectations of higher 2027 prices. Citing DBT data as of 26 October, it said the residual HRC quota was exhausted, India had used 94% of 8,364t, South Korea 20.3% of 2,196t, and the EU 65,700t of 93,750t. Verification and input-transparency uncertainty is prompting CBAM true-up or risk-sharing clauses and some DAP offers. Concerns about fabricated-goods imports are industry views, not a government circumvention finding or enacted scope expansion.",
+    "impact_zh": "对输英钢材业务，2027年报价应把配额外关税、英国CBAM、核查失败和港口滞期费拆开列示，并在合同中明确DAP/DDP责任、适用配额时点、碳数据交付、最终税额调整及发票凭证。不能把会议上的涨价预期当成确定行情，也不能假定制成钢品已纳入现行配额或英国CBAM；实际报关前须按英国官方8位商品编码、实时配额余额和正式税率复核。",
+    "impact_en": "For UK-bound steel, separate out-of-quota duty, UK CBAM, verification failure and demurrage risks, and define DAP/DDP responsibility, quota timing, emissions-data delivery and tax true-ups. Treat the price outlook as market opinion and verify 8-digit codes, live quota balances and enacted rates before customs clearance.",
+    "category": "配额与关税",
+    "status": "行业会议／市场预期",
+    "importance": "高",
+    "tags": [
+      "英国",
+      "钢铁配额",
+      "英国CBAM",
+      "热轧卷",
+      "合同条款"
+    ],
+    "tags_en": [
+      "UK",
+      "steel quota",
+      "UK CBAM",
+      "HRC",
+      "contract clauses"
+    ],
+    "follow_up": {
+      "action_zh": "2027年1月1日前按英国官方商品编码、最终CBAM税率和客户进口主体更新合同；每批出运前复核实时配额余额。",
+      "action_en": "Before 1 January 2027, update contracts against official UK codes, final CBAM rates and importer responsibility; recheck live quota balances before each shipment.",
+      "due_at": "2026-12-31"
+    },
+    "evidence_url": "https://eurometal.net/uk-steel-industry-expects-price-increases-in-2027-imports-of-fabricated-goods-may-undermine-trade-regulation/",
+    "coverage": "2026-11-02已通读EUROMETAL公开全文并与SMM转载交叉核对会议日期、配额数字、合同与物流表述；另以GOV.UK确认英国钢铁措施与英国CBAM为并行且独立制度。未独立取得ISTA/NSA会议纪要、DBT 10月26日原始余额快照或港口数据，预测与规避担忧均按参会者观点呈现。"
   }
 ]
