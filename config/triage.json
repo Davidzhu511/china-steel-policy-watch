@@ -687,12 +687,12 @@
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12Q05ZYVJaVFU3SU9uWXI4TzdiaWNHejlkVTBreXg2cnNRZVBDdEZUTG02R1U2QUZ4WklTSEYxN1hTWEtkS3RsSXlCNmhJMlcxWjdwVWp5aWFkNXhrVi00R2lIWlI?oc=5",
     "published_date": "2026-10-21",
     "decision": "blocked",
-    "reason_zh": "2026年10月31日复核EUR-Lex程序2025/0419(COD)、委员会提案COM(2025)989及机构进展：程序仍标记Ongoing，下游扩围尚未形成最终法规和附件。官方材料确认拟扩围钢铝密集型下游产品，但不足以确认媒体所称光伏组件最终CN清单或5吨门槛；不得按提案当作已生效范围。",
+    "reason_zh": "2026年11月2日复核欧洲议会立法观察站和欧盟理事会CBAM页面：欧洲议会已于9月15日通过修正案并把事项交回委员会开展机构间谈判，立法仍未完成。委员会提案拟自2028年扩围钢铝密集型下游产品，但媒体所称光伏组件最终CN清单或5吨门槛仍无最终法规支持；不得按提案当作已生效范围。",
     "reason_en": "Evidence remains incomplete. The Chinese note records the precise access or primary-document gap and next verification step; not marked as source checked.",
-    "attempted_at": "2026-10-31",
-    "evidence_url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0419%28COD%29",
+    "attempted_at": "2026-11-02",
+    "evidence_url": "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1914940",
     "title_zh": "媒体讨论光伏CBAM扩围：最终清单、门槛及测算仍待官方核验",
-    "coverage": "2026-10-31复核EUR-Lex程序页、委员会提案及正式进展；立法仍未完成，光伏具体CN清单和媒体所称门槛没有最终文本支持。"
+    "coverage": "2026-11-02复核欧洲议会正式程序摘要、理事会政策页及委员会提案；机构间谈判尚未形成最终法规，光伏具体CN清单和媒体所称门槛仍待最终文本。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd01xTE1lNlRmZERGbjZBVGQ3U1IxZHM3Q2J2elUtZzlOb201WVRKMWo1VnVsTzdsY3FkdFh0QVRaMGI1UlNYRnNPU3FaaWJwZU1NS0VLbGdMaTFoMk5fLUwzdUFxNmk5N0V6V0ttOUk1Z0FLU0tSSWNGX29TTVczc3RHQjJhRzZlMWQ2LWVuSWpHT2VUV3BIdjh2azJTQ3Fs?oc=5",
@@ -709,12 +709,12 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWZnWlpmdnplMXBjZk13djExUC0tZ1p5TVpWUmFvN01YRjVVNUlUdTRGOU1xUU5xUVNRcDdyTzRYS2gtMHVZU2FmMm4wTjRINlF4YUw4NWtid3FUYkxaaFhsUEhqaC1fUFdyR2txVzQyR1BqM2dYSWdlVjZiVlhvSDhvczcyV1AwQkkyYW1meFpFSGVZUlV2ZHlQSElGMW1MdTh1Z05TODYtanND?oc=5",
     "published_date": "2026-10-16",
     "decision": "blocked",
-    "reason_zh": "2026年10月31日复查财新英文桌面版、移动版及公开索引：仍只可核读标题、作者、导语和开篇段落；详细要点继续标注为AI生成，不能作为原文证据。未找到合法可读的同版全文或覆盖全文论据的原始资料。",
+    "reason_zh": "2026年11月2日复查财新官方页面及公开索引：仍只能核读标题、作者、导语和开篇段落；付费正文不可读，页面的AI生成要点不能作为原文证据。未找到合法可读的同版全文或足以覆盖全文论据的原始资料。",
     "reason_en": "Evidence remains incomplete. The Chinese note records the precise access or primary-document gap and next verification step; not marked as source checked.",
-    "attempted_at": "2026-10-31",
+    "attempted_at": "2026-11-02",
     "evidence_url": "https://www.caixinglobal.com/2026-10-16/in-depth-chinas-green-steel-ambitions-hit-a-red-light-102494074.html",
     "title_zh": "财新：中国绿色钢铁商业化面临成本与买方溢价障碍（正文受限）",
-    "coverage": "2026-10-31复查财新官方桌面/移动入口及公开索引；付费正文仍不可读，AI生成要点未计入核验。"
+    "coverage": "2026-11-02复查财新官方入口和公开索引；付费正文仍不可读，AI生成要点未计入核验，继续待全文核验。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcWszMXRaN0p0ZDI0a0NVMUZ0cThwNW1Ta1JnRW9PVm9rUTlXaG5lakNOSnFNcWZwVFdLRDVnVlREN3pQVmhpUlczUlNGLXpNOXJueGxreGo4S2NEWU9Ca1BST1lSeDVURmpoaGxJalRQV3VjTVVKYTVuRlNha2NPelQzVG1EOGg2bmZBMmdMUXU3eEpfT3FkZmttUzl5RUlTLVhWcXM1QU5tVnhJQjhNVFAyYw?oc=5",
@@ -784,12 +784,12 @@
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVU0S3JDbk5EVFZ0SVNZOHI3MEx0ajRXcFdVb0FoUVZkZVdieEFVYXpJdFV2aEotcDRpYy1aS01jN3dDcC1qdk5WS29sX21ZOWJJdk01X1dVZmotWThZaHJJUHdHcVk1ektGZWNvdnBlNWFodFhEakVhOWNFdzVTLUE5N2toTG53WU9ELVBBTFpyVGxJbWRUUGhNb3FXQWNjZEJEYTRFWVdVdTUtMFE5TXF1V1d0SWZiZDUwb3NCbWpoUQ?oc=5",
     "published_date": "2026-10-26",
     "decision": "blocked",
-    "reason_zh": "2026年10月31日复查印尼公开报道、ANTARA/BKPM材料及Rosan公开说明：仍只能确认10月22—23日在上海与青山集团董事长项光达会谈，讨论印尼镍和不锈钢深加工及IWIP后续投资；未披露新增项目、金额、产能、地点、期限或约束性决定。10月8日披露的100GW太阳能计划参与意向属于另一事项，不能用于补造本次会谈的钢铁项目参数。",
+    "reason_zh": "2026年11月2日复查印尼公开报道、ANTARA/BKPM材料和Petromindo公开索引：仍只能确认Rosan与青山集团董事长项光达会谈并讨论印尼镍、不锈钢深加工及IWIP后续投资；没有新增项目、金额、产能、地点、期限或约束性决定。不得用其他太阳能投资意向补造本次钢铁项目参数。",
     "reason_en": "An ANTARA report citing BKPM now confirms that Rosan met Tsingshan chairman Xiang Guangda on 22–23 October to discuss follow-up investment in Indonesia, including IWIP development. It discloses no new project, value, capacity, location, timetable or binding decision. The Petromindo body remains behind login, so full-article review is still incomplete.",
-    "attempted_at": "2026-10-31",
+    "attempted_at": "2026-11-02",
     "evidence_url": "https://www.antaranews.com/berita/5817815/rosan-jajaki-investasi-tekstil-hingga-otomotif-upayakan-terealisasi",
     "title_zh": "印尼确认与青山讨论IWIP后续投资：未公布新增项目、金额或产能",
-    "coverage": "2026-10-31复查印尼政府转述、公开声明及相关IWIP报道；会谈主题可确认，但无项目级投资或产能文件，继续按有限覆盖处理。"
+    "coverage": "2026-11-02复查印尼政府转述和Petromindo公开索引；会谈主题可确认，但无项目级投资或产能文件，继续按有限覆盖处理。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeEo1dmx2NlRlSVNQakE5YVhTWkZCdXlEaXVVakc4RjVPRTRYb05yY09yOFl0WmZCQk5nbEJxMEM1WGJFd2gyN095WmY1V25kUHNYWEU4LWJVSF9WWEtYeHBTOU15M1V3dXhqdDdqbXRmSHhiVjFUeHNIdDh2UHFiNG05M2NrTGl1SkVPSWpEMUc?oc=5",
@@ -806,12 +806,12 @@
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDJiWHE4OUlfQXdkQkhDUVQ1RndVSjJBVVNQUVROZUdMS1VWOFpkWEl4MXE5RmFXTzhCbkJSMVhxSWJNTGJBblpjMm81TTk2eFlnZWFhWVhhM3hudFdFQXYtTWl2aktEUUZiMl9WVVlleTlXTmVhZlNmVVlzckVsaTZ5OFlxNGdLZnpTYnRxUE9VTTdnYldFbFBZTGZLQQ?oc=5",
     "published_date": "2026-10-22",
     "decision": "blocked",
-    "reason_zh": "2026年10月31日再次检索ORF官方标题、研究页、PDF及公开镜像：官方正文仍不可读，未找到同版公开PDF、全文、图表或模型附件；新闻监测页仅重复标题和导语，无法核对产品范围、MSME样本、数据口径、情景假设及建议。",
+    "reason_zh": "2026年11月2日再次检索ORF官方研究页、PDF和公开镜像：仍未取得同版全文、图表或模型附件，无法核对产品范围、MSME样本、数据口径、情景假设及建议。欧盟官方材料可确认下游扩围提案仍在立法程序中，但不能替代本条ORF研究全文。",
     "reason_en": "ORF's publication and topic are confirmed, but the article currently returns HTTP 403 and no same-version readable PDF was found. Search snippets are insufficient to verify product scope, data, assumptions or recommendations.",
-    "attempted_at": "2026-10-31",
+    "attempted_at": "2026-11-02",
     "evidence_url": "https://www.orfonline.org/research/the-impact-of-cbam-s-extension-to-downstream-products-on-msmes",
     "title_zh": "ORF研究CBAM下游扩围对中小企业影响：正文访问受阻，待核数据与范围",
-    "coverage": "2026-10-31复查ORF官方页、PDF线索及公开索引；仍无同版全文或附件，继续待全文核验。"
+    "coverage": "2026-11-02复查ORF官方页、PDF线索及公开索引；仍无同版全文或附件，欧盟官方立法进展仅作背景，继续待全文核验。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMTVrQ1QtckstWXlhTGR0cE5RUmpTc2l4NDlJeFMzUGc3WVV1MDVsVGxQRFl6UkJmdHJZcUMzSDhNYVpDd2RXZXRyUXE5NDE3MVBvaGsyeXBZOXMyMnBCNm1OWlJqNUFTeHNCTnJkQU1LaWp4bG90WDZyWlRDRzBYcTlvUThLOUJFM3RfaGtvRV9uaTZZYTE2dUdaSEI3NzBrX3AyYg?oc=5",
@@ -994,12 +994,12 @@
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83RFpwRlhrajRQbnVXOEdzbFhOaFNqU0NXcl9Yb2R6ZE9HclVNR3pfdTdnOEJnekJyNDlKcy1kanItSnI3Qk5oemZZSzNQT2tqbWtGVmtMVlp0QdIBZkFVX3lxTE52aGZpellxd0Noa2pSMFdES1EyZlowb1BVS0xNbEtNQ2dhTEp6VHhza0J0Yi1ta2ZpSEhlVnlDbzA1QndTM3E4NHZMeEl3X1ZId19XRjZmRU16MWJHTDA3ZDFFUnFzUQ?oc=5",
     "published_date": "2026-10-28",
     "decision": "blocked",
-    "reason_zh": "2026年10月31日复查edie、Weightmans及公开索引：可见内容仍只有标题、导语和网络研讨会即时投票结果——约70%的受访者已开始或完成英国CBAM适用性评估，66%把供应商碳数据列为最大合规挑战；仍无样本量、对象、方法、合同建议或全文限定条件。不能把比例外推至全部进口商，继续等待作者公开版本或合法可读全文。",
+    "reason_zh": "2026年11月2日复查edie和公开索引：仍只公开标题、导语及网络研讨会即时投票结果——约70%受访者已开始或完成英国CBAM适用性评估，66%把供应商碳数据列为最大挑战；样本量、对象、方法、合同建议和全文限定条件仍不可见，不能外推至全部进口商。",
     "reason_en": "The public edie page exposes only the headline, introduction and webinar poll figures: about 70% had started or completed a UK CBAM applicability assessment and 66% identified supplier carbon data as the biggest challenge. The full article is behind registration, so sample size, audience, method, contractual advice and caveats could not be checked. Keep pending rather than extrapolating the poll.",
-    "attempted_at": "2026-10-31",
+    "attempted_at": "2026-11-02",
     "evidence_url": "https://www.edie.net/making-the-uk-cbam-ready/",
     "title_zh": "edie调查称供应商碳数据是英国CBAM准备难点，全文仍待核验",
-    "coverage": "2026-10-31复查edie页面、Weightmans线索和研讨会索引；仅确认导语及70%/66%两项投票数字，未获得样本量、问卷设计或完整正文。"
+    "coverage": "2026-11-02复查edie公开页面；仅确认导语及70%/66%两项投票数字，未获得样本量、问卷设计或完整正文。"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY05md2ZOcGlEMzVsdUFudWdjR29EcFg1RVFBMVdOVG5ZWS1tbHVnTWhsYXBlel9jUDRRZzJnS0FyRHlzNFNTMExrRTRJRzFBZGdLYXY4YVVZcnVQTFk5b2N3eFdyUThCR2NEOXVQenUwRkJ1S2NaQURCVzYzdjhYYVZvbG95YVV4MHppeGUzcnJhd19oLUZWaTZQb3c4U0Q3QUhjM0xjUkNuaVZwRTFIeUJHNzFDU0EzeGc?oc=5",
@@ -1028,10 +1028,21 @@
     "published_date": "2026-10-19",
     "decision": "blocked",
     "title_zh": "哥伦比亚对中国和土耳其L/U型钢铁型材启动反倾销调查",
-    "reason_zh": "2026年11月1日核对哥伦比亚官方法规汇总及中国商务部贸易救济调查局对第00695号决议的官方编译，可确认正式立案、涉案产品、5个税号、申请企业和调查期；公开通知另提示利害关系方有30个工作日提交意见和证据。但当前官方案件模块未提供可稳定读取的第00695号决议全文、问卷和期限计算规则，不能据此给出确定日历截止日或推断税率。下一步取得MinCIT决议及问卷原件，逐项核对参与资格、送达起算日和提交格式。",
+    "reason_zh": "2026年11月2日再次检索哥伦比亚MinCIT案件入口和第00695号决议。可确认官方法规汇总及中国商务部官方编译所述立案、产品、5个税号、申请企业和调查期；但仍未获得可稳定读取的MinCIT决议全文、问卷和期限计算规则。检索到的同号卫生部门文件与本案无关，已排除。不得给出确定日历截止日或推断税率。",
     "reason_en": "The formal initiation, product scope, five tariff codes, applicants and investigation period were checked against an official Colombian regulatory summary and China's MOFCOM trade-remedy compilation. A public notice indicates a 30-working-day participation window, but the full MinCIT Resolution 00695, questionnaire and deadline-counting rules were not stably accessible. Keep pending until the primary documents are obtained; do not infer a calendar deadline or duty rate.",
-    "attempted_at": "2026-11-01",
+    "attempted_at": "2026-11-02",
     "evidence_url": "https://cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189623&type=1",
-    "coverage": "有限覆盖：确认哥伦比亚第00695号决议正式立案；产品为高度不超过101.60毫米的热轧或热挤压合金／非合金L形、U形钢铁型材，税号7216.10.00.00、7216.21.00.00、7216.31.00.00、7216.40.00.00、7228.70.00.00，申请人为DIACO S.A.和TERNIUM COLOMBIA S.A.S.，调查期为2025年6月29日至2026年6月28日。未完成决议全文和问卷核验。"
+    "coverage": "有限覆盖（2026-11-02复核）：确认哥伦比亚第00695号决议正式立案及既有产品范围、5个税号、申请企业和调查期；未完成MinCIT决议全文、问卷及参与期限规则核验。"
+  },
+  {
+    "url": "https://cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189657&type=11",
+    "published_date": "2026-04-01",
+    "decision": "blocked",
+    "title_zh": "埃及终止对中国和土耳其冷轧卷、镀锌卷和彩涂卷反倾销调查，不实施反倾销措施",
+    "reason_zh": "2026年11月2日已读中国商务部贸易救济调查局官方编译及埃及投资和外贸部现行钢材保障措施页面，可确认埃及于2026年4月1日终止该反倾销调查，理由是相关产品已适用保障措施，因此不另征反倾销税；案件于2024年10月29日立案，倾销调查期为2023年7月1日至2024年6月30日，损害调查期为2021年1月1日至2024年6月30日。尚未取得埃及第7/2026号原始终裁公告全文；商务部页面列示的税号范围与埃及现行保障措施清单存在一处代码差异，必须待原件核对后才能标为全文核验完成。",
+    "reason_en": "China's MOFCOM trade-remedy compilation and Egypt's official safeguard pages confirm termination without anti-dumping duties because safeguards already cover the products. The original Egyptian Notice No. 7/2026 remains unavailable, and the tariff-code list differs at one point from the current safeguard list; keep pending until the primary notice is checked.",
+    "attempted_at": "2026-11-02",
+    "evidence_url": "https://cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189657&type=11",
+    "coverage": "有限覆盖：确认终止调查、不实施反倾销措施、涉中国和土耳其、三类产品及调查期间。商务部页面列示720915、720916、720917、720918、720925、720926、720927、720928、720990、721041、721049、721061、721070、721090、721123、721129、721190、721230、721240、721250、721260、722592、722599、722692、722699；埃及原始第7/2026号公告及准确税号范围待核。"
   }
 ]
