@@ -5813,8 +5813,7 @@
     },
     "evidence_url": "https://www.chinaisa.org.cn/",
     "coverage": "2026-11-02已读取中钢协官网对10月30日三季度发布会的官方入口，并通读钢之家转载的发布会新闻稿及《中国冶金报》评论全文，核对产量、表观消费、库存、利润、亏损面和约10家自律提醒。Bloomberg仅作线索发现；未取得被提醒企业名单，未把协会倡议写成政府强制减产令。"
-  }
-  ,
+  },
   {
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWVYxZEFzbGZNZXNrcEIxbTZCY0VHUWp0a1BhdTNmS1RoT2JXNHBaUnZacWZhTVI2cWJORXBndmpMbllhcFFCdmZmbXViclZmNXJlS0s5a2xTbjEtVm5Wc3Q5aXcyd3JXT24zUzRrN2pKREFhTG9hUE9GT18yVGJTNEN4bjd4aEhNcGcybGJZRUlObUxTeGx1b2FfTEJ1UG5HZmlKOEQ2bFlST2VfUTR0Vkh4WTY5dTk2M0ZyOWRubGo3by10dm9SQWdEanZsbWc4ckd4UQ?oc=5",
     "published_date": "2026-11-02",
@@ -5844,5 +5843,97 @@
     ],
     "evidence_url": "https://www.moneycontrol.com/news/business/india-s-steel-exports-to-eu-fall-20-amid-cbam-quotas-americas-surge-262-africa-96-14066443.html",
     "coverage": "2026-11-02已通读Moneycontrol全文，核对4—9月、9月及地区流向的数量、金额和同比变化；并与欧盟2026/1384、2026/1457号法规核对18,345,922吨总配额、26类产品、7月1日适用及50%超配额附加税。印度贸易明细为媒体对商务部数据的分析，未逐行复算印度官方底表，也未确认9月具体产品配额是否耗尽。"
+  },
+  {
+    "url": "https://gov.uk/guidance/work-out-your-carbon-price-relief",
+    "published_date": "2026-11-02",
+    "reviewed_at": "2026-11-03",
+    "title_zh": "英国CBAM：HMRC明确实际值或默认排放值均可用于计算已付碳价抵扣",
+    "title_en": "UK CBAM: HMRC clarifies actual or default emissions values for Carbon Price Relief",
+    "summary_zh": "【事实】英国税务海关总署（HMRC）11月2日更新《Work out your Carbon Price Relief》。申请英国CBAM已付碳价抵扣，须证明进口货物的相关排放已受符合资格的碳定价制度约束，并持有涵盖进口前两个日历年度之一、经独立核验的碳价核验表。有效碳价按装置受不同碳价要素约束的排放量与相应价格加权计算，免费配额等无价格部分不计价，并扣除适用补偿。抵扣金额按有效碳价乘以符合条件的产品嵌入排放量计算；11月2日新增说明：该排放量应与CBAM申报一致，可按该批货物采用实际排放值或默认值。外币抵扣须使用HMRC公布的、进口前一季度适用汇率换算为英镑；总抵扣不得超过该批货物应缴英国CBAM税额。此为实施指南的解释性更新，并非宣布新增税率。",
+    "summary_en": "HMRC updated its Carbon Price Relief (CPR) guidance on 2 November 2026. A claimant needs a qualifying carbon-pricing scheme and an independently verified carbon-pricing form covering one of the two calendar years preceding importation. The effective price accounts for differently priced emissions, excluding unpriced free allocations and deducting relevant compensation. The update clarifies that eligible embedded emissions used for relief must match the CBAM return and may use actual or default values as reported. HMRC's prior-quarter FX rate converts foreign-currency relief to GBP; relief cannot exceed the CBAM liability. This is guidance, not a new UK CBAM rate.",
+    "impact_zh": "【研判】对拟于2027年起向英国出口钢铁的中国生产商，应提前整理装置碳价缴纳、免费分配、补偿及排放核验材料，并确认采购方/英国进口商能否取得合格证明；不能因中国有碳市场或采用默认排放值，就推定必然可抵扣。报价和合同CBAM条款应分别列示毛CBAM成本与可能抵扣额。下一步核对HMRC认可的碳定价机制清单、钢材商品编码及最终适用核验文件。",
+    "impact_en": "Chinese steel exporters should compile verified installation emissions, actual carbon-price payment, free allocation and compensation evidence, and confirm the importer can substantiate a qualifying scheme. Default emissions values do not automatically establish an entitlement to relief. Price UK business on gross CBAM exposure and separately evidenced relief, subject to the applicable commodity scope and HMRC documentation.",
+    "category": "碳与环保",
+    "status": "官方实施指南更新",
+    "importance": "高",
+    "tags": [
+      "UK CBAM",
+      "已付碳价抵扣",
+      "默认值",
+      "实际值",
+      "2027年"
+    ],
+    "tags_en": [
+      "UK CBAM",
+      "carbon price relief",
+      "default values",
+      "actual emissions",
+      "2027"
+    ],
+    "follow_up": "核对HMRC合格碳价机制名单与2027年汇率公告，向钢厂索取独立核验碳价表；不得将未经证明的抵扣直接扣减报价。",
+    "evidence_url": "https://www.gov.uk/guidance/work-out-your-carbon-price-relief",
+    "coverage": "2026-11-03阅读全文并核对HMRC 2026-11-02更新记录、有效碳价步骤、实际/默认排放值、补偿、汇率及抵扣上限；未核验中国碳市场是否符合具体抵扣资格，也未计算特定企业的抵扣额。"
+  },
+  {
+    "url": "https://gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
+    "published_date": "2026-11-03",
+    "reviewed_at": "2026-11-03",
+    "title_zh": "英国钢材贸易措施官方说明11月3日更新：20类配额、超额50%税及10月税号调整仍适用",
+    "title_en": "UK steel trade measure: 3 November official page confirms 20 quota categories and 50% out-of-quota duty",
+    "summary_zh": "【事实】英国政府《UK's steel trade measure from 1 July 2026》官方页面标示2026年11月3日更新。该措施自7月1日起取代原保障措施，免税进口总配额较原制度减少51%，适用于列示的20类钢材产品；超配额进口加征50%从价关税，按其他进口税前货值计算，原25%保障措施附加税已于6月30日停止。按7月—次年6月配额年度分四季度，原产国单独额度及剩余（residual）额度按先到先得办理；季度未用完额度可向下一季度结转，但不跨配额年度。官方正文也明确此前10月1日起将非合金钢丝税号72173049、72173090排除在措施范围外，该两项由50%降为0%，第28类相关额度不变。最新页面仍列有第1类授权用途专用配额与对应下游加工用途。",
+    "summary_en": "The UK government's steel trade measure page states it was updated on 3 November 2026. The measure replaced the former safeguard on 1 July 2026, cutting aggregate duty-free quota volumes by 51% versus the old safeguard and applying a 50% ad valorem out-of-quota duty to listed goods across 20 categories. Quarterly country/residual quotas operate first come, first served; unused amounts roll to the next quarter but not into a new quota year. A previously effective 1 October change removed non-alloy wire codes 72173049 and 72173090 from the measure, without changing Category 28 quota quantities. Category 1 authorised-use rules also remain set out.",
+    "impact_zh": "【研判】对热轧、第4类金属涂镀、第5类彩涂及其他涉英出口钢材，应按英国8位税号、当季来源国/剩余额度和进口人实际报关时点计算配额风险。不得因11月3日网页标记更新而声称当天新推出50%税或上述10月税号调整；此次网页修订的逐项文本差异尚未取得。下一步核对HMRC实时配额余额、适用配额订单号及中国原产可用额度，再确定英国CFR/DDP报价中的超额税负。",
+    "impact_en": "For UK-bound hot-rolled, coated and other scoped steel, check the exact UK commodity code, eligible country/residual quota and clearance date before pricing. The 50% duty was not newly imposed on 3 November; the 1 October wire-code exemption is also an earlier change. The full text diff for the 3 November page revision has not been established. Confirm live HMRC balances and quota order numbers rather than treating the published annual allocation as available stock.",
+    "category": "钢铁配额与关税",
+    "status": "现行贸易措施／官网11月3日更新",
+    "importance": "高",
+    "tags": [
+      "英国钢材配额",
+      "50%超额税",
+      "20类产品",
+      "72173049",
+      "72173090"
+    ],
+    "tags_en": [
+      "UK steel TRQ",
+      "50% out-of-quota duty",
+      "20 categories",
+      "commodity codes"
+    ],
+    "follow_up": "核对实际报关税号、英国配额订单号和实时余额；如需确认11月3日的具体改动，应与11月2日官方网页存档逐项比较。",
+    "evidence_url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
+    "coverage": "2026-11-03阅读官方全文，核验20类商品、50%超额税、季度配额、结转、10月1日钢丝税号调整及授权用途条款；未取得11月3日与上一版的逐行变更记录，也未读取HMRC当日实时配额余额。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWE81S3V3X2tTcHY3UlVqMUozU1BLYVpQcERFZ1JjdUhNSGZPZlpNc1JzcHZjbDYxSlF4STd2ZTc0c1ZzYklxbE5hSUtsSFRGMW1sV3dKX0dxLXFpQVg2TXNMREFBb2FJZm16aVFkSmFaU1hHVjR5ZmdDRk5GWTU3ZGRTaWVCTlUtU0oySGxnMkdUMlJoRlQ4Qg?oc=5",
+    "published_date": "2026-11-02",
+    "reviewed_at": "2026-11-03",
+    "title_zh": "加拿大对中国碳钢及合金钢管线管启动反倾销、反补贴措施到期复审（RR-2026-008）",
+    "title_en": "Canada starts expiry review RR-2026-008 of China carbon and alloy steel line pipe",
+    "summary_zh": "【事实】加拿大国际贸易法庭（CITT）2026年11月2日宣布启动RR-2026-008到期复审，审查其2022年1月6日就中国碳钢及合金钢管线管作出的既有反倾销、反补贴命令若到期，是否可能再次发生倾销或补贴并损害加拿大产业。加拿大边境服务署（CBSA）最迟于2027年4月1日认定倾销/补贴继续或再发的可能性；如认定为肯定，CITT最迟于2027年9月8日作出损害可能性结论。有意参与者须提交Form I参与通知。该程序是对现有措施的到期复审，不是11月2日新征一个税率，也不是已决定撤销措施。",
+    "summary_en": "On 2 November 2026 the Canadian International Trade Tribunal initiated expiry review RR-2026-008 of its 6 January 2022 order regarding dumping and subsidizing of carbon and alloy steel line pipe from China. CBSA must decide by 1 April 2027 whether dumping or subsidizing is likely to continue or recur. If affirmative, CITT must decide likely injury by 8 September 2027. Interested parties may participate by filing Form I. This is an expiry review of existing measures, not a new duty rate or a revocation.",
+    "impact_zh": "【研判】面向加拿大的中国管线管生产商和出口商应尽快核对现行措施适用的产品定义、生产商税率与出口记录，联络加拿大进口商/律师评估是否提交参与通知和证据。由于公告摘要没有列具体HS税号、公司税率和Form I截止日，不宜推断所有7304/7305/7306钢管均涉案，也不得擅自公布应诉期限。下一步阅读CITT正式Notice、CBSA产品定义与当前征税指令。",
+    "impact_en": "Chinese line-pipe exporters should confirm product scope, producer-specific duty treatment and transaction history and assess participation with Canadian counsel/importers. The press release does not specify HS scope, company duty rates or the filing cut-off; consult the formal notice and CBSA instructions before declaring applicability or deadlines.",
+    "category": "贸易救济",
+    "status": "到期复审已立案",
+    "importance": "高",
+    "tags": [
+      "加拿大",
+      "反倾销",
+      "反补贴",
+      "管线管",
+      "RR-2026-008"
+    ],
+    "tags_en": [
+      "Canada",
+      "anti-dumping",
+      "countervailing",
+      "line pipe",
+      "expiry review"
+    ],
+    "follow_up": "向相关加拿大进口商发送案件预警；取得CITT正式参与通知及CBSA产品定义后核实Form I截止日、税号和现行措施。关键审查节点：2027-04-01及2027-09-08。",
+    "evidence_url": "https://www.citt-tcce.gc.ca/en/news/tribunal-initiates-expiry-review-carbon-and-alloy-steel-line-pipe-china",
+    "coverage": "2026-11-03核对CITT 11月2日官方新闻稿与在办案件表中的RR-2026-008程序和关键日期；正式决定索引访问受限，未对完整涉案税号或Form I提交截止日作具体认定。"
   }
 ]
