@@ -53,6 +53,8 @@ python -m http.server 8000 --directory docs
 
 ## ChatGPT 定时研判与发布核验
 
+采集运行另外生成 `data/review_queue.json`：只包含当前未完成原文核验、尚未排除或合并的条目，附 URL、原始发布日期、英文原题、有限摘录、优先级及期限字段。ChatGPT 优先读取这个较小文件，避免连接器读取体积较大的 `data/items.json` 返回空内容；全文仍需从官方来源或可靠原始报道核验。该文件不是机器翻译或人工核验结论，也不会自动清空积压。
+
 采集工作流继续负责发现和保留原文；ChatGPT 任务读取仓库与官方来源后，把版本限定的双语研判写入 `config/editorial.json`。这是外部任务，不能用 `analysis_status=available` 冒充仓库内模型 API 已配置。未核验条目仍保留待处理状态。
 
 每次内容更新应通过分支和 PR，经 CI 校验后合并，再确认部署和线上数据。原文同 URL 的新版必须重新核验；`reviewed_at` 不能替代发布或采集日期。DG TRADE 咨询列表可独立于 Have Your Say 接口采集，保存当前 OPEN/CLOSED 状态及带时区的截止日期；USTR 钢铁公告也是直采来源。
