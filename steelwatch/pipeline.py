@@ -234,6 +234,43 @@ def _apply_triage(items: list[dict[str, Any]], config: dict[str, Any]) -> None:
                 links.append({"name": item.get("source", {}).get("name", ""), "url": item["url"]})
 
 
+
+def _build_review_queue(items: list[dict[str, Any]], timestamp: str) -> dict[str, Any]:
+    """Small, versioned backlog for ChatGPT when full history exceeds connector limits."""
+    pending = [
+        item for item in items
+        if item.get("review_method") != "source_checked"
+        and item.get("review_disposition") not in {"excluded", "duplicate"}
+    ]
+    pending.sort(
+        key=lambda item: (
+            bool(item.get("priority_signal")),
+            IMPORTANCE_SCORE.get(item.get("importance", "低"), 0),
+            SOURCE_SCORE.get(item.get("source", {}).get("kind", "news"), 0),
+            parse_datetime(item.get("first_seen") or item.get("published_at")),
+        ),
+        reverse=True,
+    )
+    fields = (
+        "id", "url", "published_at", "title_original", "first_seen", "last_seen",
+        "source", "category", "importance", "priority_signal", "translation_state",
+        "review_disposition", "review_note_zh", "review_evidence_url",
+        "review_coverage", "consultation",
+    )
+    rows = []
+    for item in pending:
+        row = {key: item[key] for key in fields if key in item}
+        row["published_date"] = item.get("published_at", "")[:10]
+        row["source_excerpt"] = trim_text(item.get("source_excerpt", ""), 600)
+        rows.append(row)
+    return {
+        "schema_version": 1,
+        "generated_at": timestamp,
+        "pending_count": len(rows),
+        "items": rows,
+    }
+
+
 def _review_counts(items: list[dict[str, Any]]) -> dict[str, int]:
     active = [item for item in items if item.get("review_disposition") not in {"excluded", "duplicate"}]
     return {
@@ -450,6 +487,7 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
         "items": retained,
     }
     atomic_json_write(history_path, payload)
+    atomic_json_write(data_dir / "review_queue.json", _build_review_queue(retained, timestamp))
 
     successful_sources = sum(1 for result in source_results if result.ok)
     previous_sources = {row["id"]: row for row in previous_status.get("sources", [])}
