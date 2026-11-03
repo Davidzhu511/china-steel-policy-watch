@@ -1055,8 +1055,7 @@
     "attempted_at": "2026-11-02",
     "evidence_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkJSUWJKVkFrNDY1dVNQOWZmXzBBSUhfR2gwR2JVSTYtSVFPazl6dWV4YU5LaS1oUUhsQXhIWHVlRlFSbmpESmF0UmxUWFhlRUd4WkxGbTVfd1hrOWdYSUlPUElwVENrQWZkU2JsSzJ1Q2pKbzBJOTQ4V05hWHhXdXZGTzJVTTdj?oc=5",
     "coverage": "标题级有限线索；未取得原文正文，未完成翻译与行业研判。"
-  }
-  ,
+  },
   {
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNnRiMVAyQXpDUWtiWWNOMlgxVGFrcGU4aXlueXY5LTFGNERSamV3TkY4ZjhGM3pwNkZZd3ZWdWZUdzJ5aExRVG0tT1hmVU9SUVdROTFjWnM1QW15TTNpaG5Hdjd5ZU1FUzBqbFAzM1VMZTVITXExVjJ4R3EtY3NTd3poUFVrb0gxVFNBdkhDZWZyWENUTmJQTzg3UDczX2RXLVgtUGtTMWxBYnlJeGl4Tk9n?oc=5",
     "published_date": "2026-11-02",
@@ -1078,8 +1077,7 @@
     "attempted_at": "2026-11-02",
     "evidence_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUNrOTNjSDNPdXVJTVRrNEtXY25ET0NISEVURDduU3QtUklGZU16R1JwNTNsaUNtWnNkTy14cHlRZ2g4TzFYV3ZDQnlldkhkMHF0TGpneXBfeEtiRmVhWmd1bnhFSXhreGRkNGJPZFdCbzdwdUJDVUtmUW9zbTRoVVFaemE1VFJMNFFMeXV0RmNBaTREU1ppbmtXRFotUzRGYVR4Y1J2SDEyclk?oc=5",
     "coverage": "标题级有限线索；未取得原文正文，未完成数字核验、翻译和行业研判。"
-  }
-  ,
+  },
   {
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4dkpISEplVkhUenhhVUdRNkwwYmgzTzdzS3hjZEhaVndDUDVsclhOZWMxeXpEei0wd09DTWdPXzlSY0ZDRnhvOEllaHZOV1lYUzF2TnFtNy1EdUVBS1lHQWNQNFJ5bThQRGMtTHQ3MnBhdw?oc=5",
     "published_date": "2026-11-02",
@@ -1090,5 +1088,27 @@
     "attempted_at": "2026-11-02",
     "evidence_url": "https://www.gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-technical-guidance-for-monitoring-verifying-and-reporting-emissions",
     "coverage": "2026-11-02核对IOM3标题与HMRC官方指南发布页，并与2026-10-22已完成的官方主条目对照；确认同一指南发布事件，未把行业提示另作政策变化。"
+  },
+  {
+    "url": "https://news.mysteel.com/a/26110215/722BC206CFA1DEAD.html",
+    "published_date": "2026-11-02",
+    "decision": "blocked",
+    "title_zh": "埃及对中国冷轧、镀锌和彩涂钢材：4月1日终止反倾销调查，但保障措施仍在实施",
+    "reason_zh": "【已核实的有限事实】商务部贸易救济信息网11月2日报道：埃及投资和对外贸易部2026年4月1日决定终止对中国和土耳其冷轧、镀锌及彩涂钢材的反倾销调查，不另征该案反倾销税。美国商务部trade.gov另确认埃及自2026年4月2日起对相关产品实施全球保障措施，期限公告至2029年9月13日。因此不能将“终止反倾销”误读为“进口无保障措施税”。【未完成】仍未取得埃及4月1日终止反倾销决定的原始全文及全部税号与个别产品的正式适用说明，继续列为待原文核验。",
+    "reason_en": "Limited verification: China's MOFCOM trade-remedy portal reported on 2 Nov that Egypt terminated the China/Turkey CRC, galvanized and coated steel AD case on 1 Apr 2026 without AD duties in that case. The US Commerce Department confirms separate Egyptian global safeguards effective from 2 Apr 2026. No original full Egyptian termination decision or full subheading-level scope comparison was obtained; retain as pending primary-source verification.",
+    "attempted_at": "2026-11-03",
+    "evidence_url": "https://cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189657&type=11",
+    "coverage": "限定覆盖：2026-11-03阅读全文核对商务部11月2日编译公告，并与美国商务部trade.gov关于埃及保障措施的说明交叉印证；未读埃及2026-04-01反倾销终止决定的原始全文，具体到HS税号及税负仍需埃及主管机关文本确认。"
+  },
+  {
+    "url": "https://news.mysteel.com/a/26103009/E921E5CBA72B4D5E.html",
+    "published_date": "2026-10-30",
+    "decision": "blocked",
+    "title_zh": "泰国对中国预应力钢绞线启动反倾销调查：商务部转载提示30日陈述窗口",
+    "reason_zh": "【已核实的有限事实】商务部贸易救济信息网10月30日编译泰国商业部外贸厅公告：2026年10月22日公告对中国原产PC Strand（预应力钢绞线）启动反倾销调查，涉及泰国税号7312.10.91，利益相关方应于公告发布后30日内提交书面评论及证据。潜在涉案出口商应立即向泰国代理人核实泰文公告的正式公布日、期限起算及问卷安排。【未完成】泰国政府公报原始PDF本次无法读取，不能据转载资料单方面锁定确切的最后提交日期、产品完整边界或问卷期限。保留待原文核验。",
+    "reason_en": "Limited verification: a 30 Oct MOFCOM trade-remedy summary relays Thailand's 22 Oct notice initiating an AD case on Chinese PC Strand under Thai code 7312.10.91 and a 30-day written-comment evidence window from publication. The original Thai Royal Gazette PDF was not accessible for full-text review, so the exact due date, full scope and questionnaires need confirmation and this item remains pending.",
+    "attempted_at": "2026-11-03",
+    "evidence_url": "https://cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189638&type=",
+    "coverage": "有限覆盖：2026-11-03已读商务部10月30日的逐项编译说明、所列泰国原始PDF及案件登记链接；泰国官方PDF本次无法访问，尚未对泰文全文、法定日期起算和产品范围作独立核验，保持阻塞待办。"
   }
 ]
