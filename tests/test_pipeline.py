@@ -416,3 +416,34 @@ def test_identical_syndicated_news_keeps_related_source_links():
     assert len(result) == 1
     assert result[0]["source"]["name"] == "Reuters"
     assert result[0]["related_sources"][0]["name"] == "Other"
+
+
+def test_compact_review_queue_keeps_unverified_versions_and_blocked_items():
+    base = {
+        "id": "new-1",
+        "url": "https://example.com/new-policy",
+        "published_at": "2026-11-03T12:00:00Z",
+        "title_original": "China steel policy update",
+        "source": {"kind": "official-notice", "official": True, "name": "Authority"},
+        "importance": "高",
+        "first_seen": "2026-11-03T13:00:00Z",
+        "source_excerpt": "Authority notice: " + ("steel " * 300),
+        "consultation": {"status": "OPEN", "closes_at": "2026-11-09T23:59:59Z"},
+    }
+    verified = {**base, "id": "checked", "review_method": "source_checked"}
+    duplicate = {**base, "id": "duplicate", "review_disposition": "duplicate"}
+    blocked = {
+        **base,
+        "id": "blocked",
+        "review_disposition": "blocked",
+        "review_evidence_url": "https://example.com/primary",
+    }
+    queue = pipeline._build_review_queue(
+        [verified, duplicate, base, blocked], "2026-11-03T14:41:15Z"
+    )
+    assert queue["generated_at"] == "2026-11-03T14:41:15Z"
+    assert queue["pending_count"] == 2
+    assert {item["id"] for item in queue["items"]} == {"new-1", "blocked"}
+    assert all(item["published_date"] == "2026-11-03" for item in queue["items"])
+    assert all(len(item["source_excerpt"]) <= 600 for item in queue["items"])
+    assert queue["items"][0]["consultation"]["closes_at"] == "2026-11-09T23:59:59Z"
