@@ -5935,5 +5935,106 @@
     "follow_up": "向相关加拿大进口商发送案件预警；取得CITT正式参与通知及CBSA产品定义后核实Form I截止日、税号和现行措施。关键审查节点：2027-04-01及2027-09-08。",
     "evidence_url": "https://www.citt-tcce.gc.ca/en/news/tribunal-initiates-expiry-review-carbon-and-alloy-steel-line-pipe-china",
     "coverage": "2026-11-03核对CITT 11月2日官方新闻稿与在办案件表中的RR-2026-008程序和关键日期；正式决定索引访问受限，未对完整涉案税号或Form I提交截止日作具体认定。"
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/11/04/2026-22526/certain-steel-nails-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in-part-of",
+    "published_date": "2026-11-04",
+    "reviewed_at": "2026-11-04",
+    "title_zh": "美国对华钢钉2024—2025年度反倾销复审初裁：悦达9.27%，9家企业终止复审",
+    "title_en": "US preliminary AD review of Chinese steel nails: Yueda 9.27%; nine companies rescinded",
+    "summary_zh": "【事实】美国商务部11月4日发布A-570-909行政复审初裁，复审期2024年8月1日至2025年7月31日。上海悦达钢钉及其滁州关联公司获单独税率资格，初步加权平均倾销幅度9.27%；中国统一税率118.04%本轮未复审、不变。因无可复审的暂缓清算进口记录，对附录II所列9家企业终止本次复审。案情摘要和名单均为官方初裁，并非终裁或对所有中国钢钉统一改税。公告规定利害关系方书面案情陈述须在公布后21日内提交，反驳陈述在此后5日内；听证申请应在公布后30日内通过ACCESS提交。",
+    "summary_en": "Commerce published preliminary results for A-570-909 on 4 November 2026, covering 1 August 2024 to 31 July 2025. Shanghai Yueda Nails and its Chuzhou affiliate received a preliminary separate rate of 9.27%; the China-wide 118.04% rate was not reviewed. Nine companies were rescinded for lack of reviewable suspended entries. Case briefs are due within 21 days of publication, rebuttals five days later, and hearing requests within 30 days. These are preliminary findings, not final duty changes for all Chinese nail exports.",
+    "impact_zh": "【研判】涉美钢钉业务应逐家核实生产商/出口商身份、适用现金保证金和进口批次，不应把悦达9.27%用于其他钢钉企业；终止复审也不等于取消反倾销令。相关企业应在法定时限内由美国代理律师评估陈述、复核计算和听证；本次未独立取得ACCESS完整产品范围备忘录，具体HTSUS归类及适用边界须另行确认。",
+    "impact_en": "Check exporter-specific treatment, deposits and entry history; do not apply Yueda's 9.27% to other exporters. A rescission does not revoke the AD order. Counsel should review briefing and hearing deadlines and verify product scope against the ACCESS memorandum.",
+    "category": "贸易救济",
+    "status": "美国反倾销行政复审初裁",
+    "importance": "高",
+    "tags": [
+      "美国",
+      "钢钉",
+      "反倾销",
+      "A-570-909",
+      "9.27%"
+    ],
+    "tags_en": [
+      "US",
+      "steel nails",
+      "antidumping",
+      "A-570-909",
+      "preliminary margin"
+    ],
+    "follow_up": {
+      "action_zh": "涉案企业核对ACCESS案卷并准备书面陈述；按2026-11-04公布日起算21天（原则上11月25日）及30天（原则上12月4日），最终以美商务部程序规则与任何延期通知为准。",
+      "action_en": "Check ACCESS and filing rules; prepare briefs and hearing requests before applicable deadlines.",
+      "due_at": "2026-11-25"
+    },
+    "evidence_url": "https://public-inspection.federalregister.gov/2026-22526.pdf",
+    "coverage": "2026-11-04已通读美国联邦公报FR Doc 2026-22526官方PDF，核对初裁9.27%、中国统一税率118.04%、九家公司终止复审、评论和听证窗口；未获得ACCESS产品范围备忘录，未核对具体HTSUS。"
+  },
+  {
+    "url": "https://gov.uk/guidance/keeping-records-for-carbon-border-adjustment-mechanism-cbam",
+    "published_date": "2026-11-03",
+    "reviewed_at": "2026-11-04",
+    "title_zh": "英国CBAM 11月3日更新净重记录规则：以进口时不含包装的公斤净重申报",
+    "title_en": "UK CBAM record guidance updated: net mass at import, excluding packaging, in kilograms",
+    "summary_zh": "【事实】英国HMRC 11月3日更新CBAM记录保存指南的重量章节。进口CBAM货物须记录进口时不含包装的净重，单位kg，最多保留6位小数。超过1kg且带小数的重量可按0.5kg阈值四舍五入到整数公斤；不足1kg应以0.开头、最多6位小数记录并去除末尾零。报关单、商业发票、运输重量记录、提单及装箱单均可作为重量证据。2027年1月1日起的进口记录义务、通常6年保存期及2028年1月1日开放注册的时间安排未因这次重量说明改变。",
+    "summary_en": "HMRC updated its CBAM records guidance on 3 November 2026 to specify import-time net mass excluding packaging, in kg, up to six decimal places. Fractions above 1 kg may be rounded to the nearest kg with a 0.5 kg threshold; sub-1 kg values use up to six decimals without trailing zeroes. Import declarations, invoices, carrier records, bills of lading and packing lists can substantiate weight. Existing 2027 record-keeping and 2028 registration dates are unchanged.",
+    "impact_zh": "【研判】英国钢材订单需把轧厂卷净重、包装/托盘重量、提单重量及英国报关净重区分管理，避免将含包装毛重或船运重量直接用于CBAM申报。建议销售与货代对齐卷号级净重字段和公斤精度，留存原始称重与四舍五入记录；具体CBAM税额还需结合商品编码、排放强度及适用税率计算。",
+    "impact_en": "Align mill coil net weights with UK customs net mass, keeping packaging and shipping gross weights separate. Retain traceable coil-level kg data and rounding records; weight alone does not determine the CBAM charge.",
+    "category": "碳与环保",
+    "status": "英国HMRC实施指南更新",
+    "importance": "高",
+    "tags": [
+      "UK CBAM",
+      "净重",
+      "进口记录",
+      "公斤",
+      "2027年"
+    ],
+    "tags_en": [
+      "UK CBAM",
+      "net mass",
+      "recordkeeping",
+      "kilograms"
+    ],
+    "follow_up": {
+      "action_zh": "检查英国客户及货代报关字段是否采用进口时不含包装净重；建立卷号—装箱单—报关重量一致性核对。",
+      "action_en": "Reconcile coil-level net mass across packing lists and customs declarations.",
+      "due_at": "2026-12-15"
+    },
+    "evidence_url": "https://www.gov.uk/guidance/keeping-records-for-carbon-border-adjustment-mechanism-cbam",
+    "coverage": "2026-11-04阅读全文及11月3日更新日志，核验净重定义、kg精度、舍入、证据与记录年限；未对任何具体货物进行申报或税额测算。"
+  },
+  {
+    "url": "https://gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-policy-summary",
+    "published_date": "2026-11-02",
+    "reviewed_at": "2026-11-04",
+    "title_zh": "英国CBAM政策汇总11月2日更新已付碳价抵扣示意，非新增征税范围或税率",
+    "title_en": "UK CBAM policy summary updated 2 November to clarify Carbon Price Relief calculations",
+    "summary_zh": "【事实】英国HMRC官方政策汇总的更新记录明确：11月2日修订集中在“如何计算已付碳价抵扣”（How to calculate CPR）图13的计算说明。政策汇总维持2027年1月1日启动英国CBAM、覆盖指定铝、水泥、化肥、氢及钢铁商品；CBAM负担原则上为嵌入直接排放乘适用英国CBAM税率，再扣除符合条件且有证据的已付碳价抵扣。申报可按规定使用经核验实际排放数据或英国政府默认值。11月2日更新不是宣布新增商品税号、税率或提前注册。",
+    "summary_en": "HMRC's 2 November 2026 change log identifies an update to Figure 13 in the Carbon Price Relief calculation section. The policy summary retains UK CBAM commencement on 1 January 2027 for specified goods in aluminium, cement, fertiliser, hydrogen and iron and steel. The charge is based on embedded direct emissions times the CBAM rate, less eligible evidenced CPR; verified actual emissions or government defaults may be used. This revision does not itself announce new scope, rates or earlier registration.",
+    "impact_zh": "【研判】中国钢铁出口英国报价应分别估算CBAM毛税负与有充分证据的已付碳价抵扣，不应未经确认便把中国碳市场价格全额扣除。由于前一日已单独核验HMRC专门抵扣指南，本条侧重政策汇总版本变化与法规状态，避免将同一政策重复当作两项新税负。",
+    "impact_en": "Model gross UK CBAM exposure separately from verified qualifying carbon-price relief. Do not assume full credit for Chinese carbon-market costs without checking eligibility and documentation. This entry records the policy-summary version change, not a separate new tax.",
+    "category": "碳与环保",
+    "status": "官方政策汇总修订／抵扣说明",
+    "importance": "中",
+    "tags": [
+      "UK CBAM",
+      "碳价抵扣",
+      "政策汇总",
+      "2027年"
+    ],
+    "tags_en": [
+      "UK CBAM",
+      "carbon price relief",
+      "policy summary"
+    ],
+    "follow_up": {
+      "action_zh": "结合HMRC专门的Work out your Carbon Price Relief指南，确认合格碳价机制、核验文件和实际抵扣额；持续跟踪正式税率。",
+      "action_en": "Cross-check eligible carbon pricing, verification and relief against HMRC's dedicated guidance.",
+      "due_at": "2026-12-15"
+    },
+    "evidence_url": "https://www.gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-policy-summary/carbon-border-adjustment-mechanism-cbam-policy-summary",
+    "coverage": "2026-11-04核对11月2日HMRC更新日志并阅读全文的范围、计税及实际/默认排放章节；图13属于既有抵扣政策解释更新，未将其解读为新税率或额外税种。"
   }
 ]
