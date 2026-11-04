@@ -6036,5 +6036,96 @@
     },
     "evidence_url": "https://www.gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-policy-summary/carbon-border-adjustment-mechanism-cbam-policy-summary",
     "coverage": "2026-11-04核对11月2日HMRC更新日志并阅读全文的范围、计税及实际/默认排放章节；图13属于既有抵扣政策解释更新，未将其解读为新税率或额外税种。"
+  },
+  {
+    "url": "https://gov.uk/government/publications/uk-ets-technical-guidance-free-allocation-regulation-far",
+    "published_date": "2026-11-03",
+    "reviewed_at": "2026-11-04",
+    "title_zh": "英国UK ETS免费配额技术指南11月3日清理过期2025基准数据收集材料",
+    "title_en": "UK ETS free allocation guidance removes obsolete 2025 baseline data collection materials",
+    "summary_zh": "【事实】英国能源安全与净零部（DESNZ）于2026年11月3日更新UK ETS免费配额规则（FAR）技术指南。官方更新日志明确，本次删除了不再适用的2025年基准数据收集相关指导。页面继续提供UKETS11（装置级免费配额计算）、UKETS13（监测报告）、UKETS14（核验）、UKETS15（跨界热流）、UKETS16A（停产）、UKETS17（废气与工艺排放）及UKETS18（行业专门指导）等材料。更新日志未宣布11月3日新增碳价、改变钢材进口税率或即时改变英国CBAM适用范围。",
+    "summary_en": "On 3 November 2026 DESNZ removed guidance relating to the obsolete 2025 baseline data collection from the UK ETS Free Allocation Regulation technical-guidance page. The remaining documents cover installation-level allocation, monitoring, verification, heat flows, cessation, waste gases and sector benchmarks. The update log does not announce a new UK carbon price, steel import tariff or CBAM product scope.",
+    "impact_zh": "【研判】主要影响英国境内UK ETS受管制钢铁及相关装置的免费配额申请材料管理，对中国钢材直接出口英国的CBAM义务并非一项新税。若客户在英国有轧制、镀锌或其他受UK ETS覆盖装置，应检查其内部引用的2025基准收集模板是否已过期；出口报价不应因网页更新就增加所谓新碳税。",
+    "impact_en": "The change primarily concerns UK ETS installation operators' allocation documentation, not a new UK CBAM charge on imported steel. UK manufacturing partners should check for outdated 2025 baseline forms; exporters should not price in an invented new levy.",
+    "category": "碳与环保",
+    "status": "官方技术指南维护更新",
+    "importance": "中",
+    "tags": [
+      "UK ETS",
+      "免费配额",
+      "FAR",
+      "2025基准数据"
+    ],
+    "tags_en": [
+      "UK ETS",
+      "free allocation",
+      "FAR",
+      "baseline data"
+    ],
+    "follow_up": "如涉及英国境内受UK ETS覆盖的钢铁加工装置，核对其免费配额申请所引用的模板版本；继续监控UK ETS Authority后续实质规则变动。",
+    "evidence_url": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-free-allocation-regulation-far",
+    "coverage": "2026-11-04核对英国政府页面的2026-11-03更新日志及现存指南清单；未逐页复核全部技术PDF或认定具体钢厂免费配额数额。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3BLZ0Voam9ESlY5Q2hwU21vcFJMYk1Sb0RTMVozNDVDLUIxRDFrMVJKR2pQZFFBc0VtVU9FV3FxZDluNGtxbzN6bzJxUFJqS01sQU5yZEVGVmM1RzN1Q1BxS2VkcWVZX0psS05leFF5SGpDd25sdGVOa0VoSkZVVERPMWVpV0x0cEQ3RzJ6Ynk?oc=5",
+    "published_date": "2026-11-03",
+    "reviewed_at": "2026-11-04",
+    "title_zh": "Isometric推出Ready for CBAM：为钢铁等六大行业提供排放数据整理与核验准备服务",
+    "title_en": "Isometric launches Ready for CBAM emissions-data preparation service for six sectors",
+    "summary_zh": "【事实】Isometric于2026年11月3日宣布推出Ready for CBAM服务，面向向欧盟出口水泥、钢铁、铝、化肥、氢及电力的企业，帮助编制装置级排放监测计划和排放报告，在正式核验前使用软件检查数据、由专家复核，并协助处理核验机构提出的问题。公司称Cementir已使用该服务。该服务是商业数据准备与核验支持方案，**不等于欧盟主管机关认可的独立核验机构资质，也不是欧盟新出台的CBAM规则**。欧盟进口商须为2026年进口货物在2027年9月30日前申报；使用实际排放值需要符合适用核验要求。",
+    "summary_en": "Isometric announced its Ready for CBAM service on 3 November 2026 to help exporters in the six CBAM sectors prepare plant-level monitoring plans and emissions reports, detect data gaps and support the subsequent verification process. Cementir is an early customer. This is a commercial preparation service, not itself evidence of accredited independent verification or a new EU legal requirement. The first 2026-import CBAM declarations are due by 30 September 2027.",
+    "impact_zh": "【研判】中国钢厂可把此类服务视为准备监测计划、排放因子及证据链的工具，但须分别审查数据保密、核算方法、核验人独立性和欧盟认可资质。尤其不应把“Ready for CBAM”服务商的预审等同于最终核验报告；可将其作为现有第三方核验方案的备选，而非直接替换。",
+    "impact_en": "Steel mills may use such providers for emissions-data readiness and audit trails, subject to confidentiality, methodology and independence checks. Preparation support must not be mistaken for final verification by an accredited verifier.",
+    "category": "CBAM服务与合规",
+    "status": "商业服务发布／非新法规",
+    "importance": "中",
+    "tags": [
+      "Isometric",
+      "CBAM",
+      "钢铁",
+      "排放核验",
+      "服务商"
+    ],
+    "tags_en": [
+      "Isometric",
+      "CBAM",
+      "steel",
+      "emissions verification",
+      "service"
+    ],
+    "follow_up": "如拟采购该类服务，索取样例监测计划、核验工作界面、资质证明、数据安全协议及钢铁产品实际值核算案例；不把营销材料当作法规解释。",
+    "evidence_url": "https://webflow.isometric.com/writing-articles/isometric-launches-ready-for-cbam-to-prepare-exporters-for-verification",
+    "coverage": "2026-11-04核对Isometric 11月3日公司原始发布及ESG Today、Agg-Net两家同期报道；已区分数据准备服务与法定独立核验，未审查Isometric或合作方的具体认可核验资质。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZRjhUMkpUM0NqSWdXQUxuM0ZENFU4YkVnRkkyZllfLUItOVVQZUZQaVl5OHZTaEg1UXFsMTBvNDJHMmtNdk45UGJOSERtTW90NmNQaEFjMVNEekZtejBITzNpWU0tTnpTa1kxTko4VFlYQdIBd0FVX3lxTE16eGV5MWd4clJDbEtxOGZzd1VuMWNMZjdVM0wzWjBKTlRRZS1FQm8wdHRweWdHanVNeUtHNklJekdrVFVUak9qZEtuQ2E2YVlzYXBsazB3MG5FS1IwQmVxazJ1Sm1XMEJwOVA3NURidWRaZFlFV05F?oc=5",
+    "published_date": "2026-11-04",
+    "reviewed_at": "2026-11-04",
+    "title_zh": "台湾地区研议本地CBAM及排放交易机制：钢材进口碳成本尚无正式新税率",
+    "title_en": "Taiwan discusses domestic CBAM and emissions trading; no enacted new steel import rate confirmed",
+    "summary_zh": "【事实】GMK Center 2026年11月4日报道，台湾地区当局正研究本地碳边境调节机制和排放交易制度。台湾环境主管部门2026年1月官方政策材料已说明正在规划借鉴欧盟的产品碳排放申报试点，水泥优先，并将与钢铁业讨论后续机制。现行对大型排放源的碳费与拟议的进口CBAM是不同制度；目前核验到的官方材料不构成已经公布对进口钢材征收新CBAM税率、正式生效日期或完整HS税号清单的证据。",
+    "summary_en": "GMK Center reported on 4 November that Taiwan is considering its own CBAM and emissions trading framework. Taiwan's environmental ministry had already described a planned product-emissions declaration pilot in January, initially focused on cement and with steel-sector consultations to follow. Existing domestic carbon fees and a proposed import CBAM are distinct. The reviewed official material does not establish an enacted steel-import CBAM rate, commencement date or tariff-code scope.",
+    "impact_zh": "【研判】向台湾地区出口冷轧、镀锌、彩涂及其他钢材的企业应关注产品级碳足迹申报和后续进口碳成本制度，但现阶段不应在报价中直接加入未经公布的“台湾CBAM税”。可先准备产品碳排放核算与装置数据，等待主管部门正式草案、商品范围、豁免和时间表。",
+    "impact_en": "Steel exporters should monitor product-level emissions declarations and potential future import carbon costs, but should not apply a hypothetical Taiwan CBAM levy to current quotations. Prepare auditable emissions data and wait for an official legal text, tariff scope and effective date.",
+    "category": "碳与环保",
+    "status": "政策规划／尚非进口钢材新税",
+    "importance": "中",
+    "tags": [
+      "台湾地区",
+      "CBAM",
+      "钢材进口",
+      "碳费",
+      "政策规划"
+    ],
+    "tags_en": [
+      "Taiwan",
+      "CBAM",
+      "steel imports",
+      "carbon fees",
+      "policy planning"
+    ],
+    "follow_up": "跟踪台湾环境主管部门及经济主管部门正式法规草案、钢铁产品适用清单和申报试点进度；对客户询价仅披露政策不确定性。",
+    "evidence_url": "https://service.moenv.gov.tw/File/Get/moenv-en/en/O0vVnHvz47cIhJu",
+    "coverage": "2026-11-04阅读全文核对GMK Center 11月4日报道，并交叉查阅台湾环境主管部门2026年1月英文政策材料关于水泥试点和钢铁协商的原文；未取得2026-11-04当日新增法令、税率或实施日期的官方原文，故仅作规划级有限结论。"
   }
 ]
