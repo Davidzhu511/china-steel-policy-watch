@@ -1,6 +1,40 @@
 {
-  "generated_at": "2026-11-05T14:58:24Z",
+  "generated_at": "2026-11-05T20:18:56Z",
   "items": [
+    {
+      "id": "75abf1237798aefe076a",
+      "title_zh": "CBAM boosting European steelmaker's earnings: CEO",
+      "title_en": "CBAM boosting European steelmaker's earnings: CEO",
+      "title_original": "CBAM boosting European steelmaker's earnings: CEO",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnJXRUdNbnp3c2MxVzRwS0ZhMHZtdU9oVWFWWTZVeWMyMEFoLU4zWnBxbjlfbTBtMGlvdUtyQndiTFN6aDdSTzlYeDI3Q3ZGOHlaN1FZVTMwbEIxZm5aYjdvNkRod3FoWkJZQjZ5QjB5LV80OUM3VGFEUmY3bHpndkRfV2RZUHVWcXVCTU5fa3ZnSEtCUlQxWXVTb19tX00?oc=5",
+      "published_at": "2026-11-05T17:47:32Z",
+      "source": {
+        "id": "rss",
+        "name": "Quantum Commodity Intelligence",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "碳与环保",
+      "status": "新闻",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-11-05T20:18:56Z",
+      "last_seen": "2026-11-05T20:18:56Z",
+      "source_excerpt": "CBAM boosting European steelmaker's earnings: CEO Quantum Commodity Intelligence"
+    },
     {
       "id": "e2dff9b9cfa2bf8e8f69",
       "title_zh": "[SMM Stainless Steel Flash] Indonesia’s Krakatau Steel details stainless slab project with Tsingshan at Morowali",
@@ -32,7 +66,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-05T14:58:24Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "[SMM Stainless Steel Flash] Indonesia’s Krakatau Steel details stainless slab project with Tsingshan at Morowali Shanghai Metals Market"
     },
     {
@@ -66,7 +100,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-05T14:58:24Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) has received requests to conduct administrative reviews of various antidumping duty (AD) and countervailing duty (CVD) orders with September anniversary dates. In accordance with Commerce's regulations, we are initiating those administrative reviews.",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
@@ -104,7 +138,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-04T20:05:11Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "UK Steel Panel Warns Pre-CBAM Import Surge Could Strain Ports IndexBox"
     },
     {
@@ -138,7 +172,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-05T14:58:24Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "英国钢铁专题讨论警告：CBAM前进口激增或令港口承压- 新闻和统计 IndexBox"
     },
     {
@@ -172,7 +206,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-05T14:58:24Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "UK Metals Expo warns of port congestion ahead of CBAM as steel imports surge Металлургпром"
     },
     {
@@ -206,7 +240,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-04T14:53:36Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "Taiwan plans to develop its own CBAM GMK Center"
     },
     {
@@ -274,7 +308,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-04T14:53:36Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "2026年中国钢铁行业：产量下降2.9%，行业转向高性能钢材 - 新闻和统计 IndexBox"
     },
     {
@@ -308,7 +342,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-04T20:05:11Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "China Steel Industry 2026: Output Falls 2.9% as Sector Pivots to High-Performance Steel - News and Statistics IndexBox"
     },
     {
@@ -342,7 +376,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-04T16:39:19Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "Turkish steel exporters and CARES sign cooperation agreement on EU and UK CBAM compliance SteelOrbis"
     },
     {
@@ -388,7 +422,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-04T14:53:36Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines that Shanghai Yueda Nails Co., Ltd., (Shanghai Yueda) and Shanghai Yueda Nails (Chuzhou) Ltd. (Chuzhou Yueda) (collectively, Yueda Nails), an exporter of certain steel nails (nails) from the People's Republic of China (China), made sales of subject merchandise at less than normal value (NV) during the period of review (POR), August 1, 2024, through July 31, 2025. In addition, we are rescinding the review with respect to nine companies. Interested parties are invited to comment on these preliminary results of review.",
       "coverage": "2026-11-04已通读美国联邦公报FR Doc 2026-22526官方PDF，核对初裁9.27%、中国统一税率118.04%、九家公司终止复审、评论和听证窗口；未获得ACCESS产品范围备忘录，未核对具体HTSUS。",
       "follow_up": {
@@ -578,7 +612,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-07-21T21:54:23Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "UK's steel trade measure from 1 July 2026 - GOV.UK Cookies on GOV.UK We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Accept additional cookies Reject additional cookies View cookies Hide cookie message Skip to main content GOV.UK Navigation menu Menu Menu Services and information Benefits Births, death, marriages and care Business and self-employed Childcare and parenting Citizenship and living in the UK Crime, justice and the law Disabled people Driving and transport Education and learning Employing people Environment and countryside Housing and local services Money and tax Passports, travel and…",
       "coverage": "2026-11-03阅读官方全文，核验20类商品、50%超额税、季度配额、结转、10月1日钢丝税号调整及授权用途条款；未取得11月3日与上一版的逐行变更记录，也未读取HMRC当日实时配额余额。",
       "follow_up": "核对实际报关税号、英国配额订单号和实时余额；如需确认11月3日的具体改动，应与11月2日官方网页存档逐项比较。",
@@ -628,7 +662,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "Find out which records you must keep if you're the importer of CBAM goods. evidence of UK origin materials, already carbon taxed in reimported goods Keep records of any CBAM goods you import which are of UK origin (under the non-preferential rules of origin) . This could include:",
       "coverage": "2026-11-04阅读全文及11月3日更新日志，核验净重定义、kg精度、舍入、证据与记录年限；未对任何具体货物进行申报或税额测算。",
       "follow_up": {
@@ -757,7 +791,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-03T14:41:15Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "Canadian tribunal opens review of China steel line pipe order Traders Union",
       "coverage": "2026-11-03核对CITT 11月2日官方新闻稿与在办案件表中的RR-2026-008程序和关键日期；正式决定索引访问受限，未对完整涉案税号或Form I提交截止日作具体认定。",
       "follow_up": "向相关加拿大进口商发送案件预警；取得CITT正式参与通知及CBSA产品定义后核实Form I截止日、税号和现行措施。关键审查节点：2027-04-01及2027-09-08。",
@@ -796,7 +830,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-02T21:57:19Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "Tube costs rise, but the CBAM outlook eases Scaffmag"
     },
     {
@@ -892,7 +926,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-02T08:08:38Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "Iron-Ore Prices Rise After Sharp Declines as Chinese Demand Holds Up - News and Statistics IndexBox",
       "evidence_url": "https://www.indexbox.io/blog/iron-ore-prices-edge-higher-after-two-month-slide-as-chinese-demand-drop-proves-smaller-than-expected/",
       "coverage": "2026-11-02已通读IndexBox公开全文，并与公开的Reuters/Engineering News同题稿交叉核对交易时点、合约价格、月度跌幅、Mysteel样本铁水及上期所品种涨跌；未独立取得交易所结算表、Mysteel样本底稿或国信期货原始报告，所有盘中数字按报道时点呈现。",
@@ -1003,7 +1037,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-02T15:10:56Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "Find out how to work out your Carbon Price Relief for the Carbon Border Adjustment Mechanism (CBAM). We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Data, Freedom of Information releases and corporate reports We have set out use of actual and default values for emissions in calculating Carbon Price Relief in the section 'Work out the Carbon Price Relief'. To work out your Carbon Price Relief, you’ll need to: Before you calculate your relief, you’ll need to check: if your CBAM goods have been subject to a qualifying carbon pricing scheme you have a completed carbon pricing verification form that’s…",
       "coverage": "2026-11-03阅读全文并核对HMRC 2026-11-02更新记录、有效碳价步骤、实际/默认排放值、补偿、汇率及抵扣上限；未核验中国碳市场是否符合具体抵扣资格，也未计算特定企业的抵扣额。",
       "follow_up": "核对HMRC合格碳价机制名单与2027年汇率公告，向钢厂索取独立核验碳价表；不得将未经证明的抵扣直接扣减报价。",
@@ -1051,7 +1085,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "This is a policy summary for the carbon border adjustment mechanism. This document provides a summary of CBAM policy. It includes the core policy framework which is set out via primary legislation in the Finance Act 2026 and details set out in the draft secondary legislation and notices. Further details will be included in secondary legislation, notices and GOV.UK guidance. The details in this document may be updated; any changes will be reflected here. We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Data, Freedom of Information releases and corporate reports Page further updated to provide infor…",
       "coverage": "2026-11-04核对11月2日HMRC更新日志并阅读全文的范围、计税及实际/默认排放章节；图13属于既有抵扣政策解释更新，未将其解读为新税率或额外税种。",
       "follow_up": {
@@ -1100,7 +1134,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "埃及对涉华冷轧卷、镀锌卷和彩涂卷钢材产品作出反倾销终裁-我的钢铁网 综合资讯 钢材 建筑钢材 热轧 冷轧 中厚板 型钢 钢管 带钢 涂镀 硅钢 钢结构 不锈钢 废不锈钢 铬 镍 有色金属 铜 铝 铅 锌 锡 稀土 锑铋铟 锗镓硒 建筑材料 水泥 混凝土 砂石 矿渣粉 特钢 优特钢 工业线 工模具 金属制品 铁矿石 废钢 煤炭 焦炭 兰炭 铁合金 钢坯 生铁 耐材 海运 新能源 锂 镍 钴 锰 钒 锂电正极 锂电负极 锂电回收 工业硅 光伏材料 能源 原油 天然气 成品油 化工 烯烃 芳烃 甲醇 橡胶 天然橡胶 丁二烯 合成橡胶 农产品 主粮 杂粮 果蔬 棉业 油料 植物油 蛋白饲料 饲料添加剂 淀粉 糖 食品添加剂 猪 鸡 鸭 首页 宏观 大宗 前沿 下游 快讯 期货 专题 报告 数据 指数 当前位置： 综合资讯 > 钢材 > 正文 埃及对涉华冷轧卷、镀锌卷和彩涂卷钢材产品作出反倾销终裁 2026-11-02 15:25 来源：商务部贸易救济调查局 更多历史数据，上钢联数据 资讯监督…",
       "review_disposition": "blocked",
       "review_note_zh": "【已核实的有限事实】商务部贸易救济信息网11月2日报道：埃及投资和对外贸易部2026年4月1日决定终止对中国和土耳其冷轧、镀锌及彩涂钢材的反倾销调查，不另征该案反倾销税。美国商务部trade.gov另确认埃及自2026年4月2日起对相关产品实施全球保障措施，期限公告至2029年9月13日。因此不能将“终止反倾销”误读为“进口无保障措施税”。【未完成】仍未取得埃及4月1日终止反倾销决定的原始全文及全部税号与个别产品的正式适用说明，继续列为待原文核验。",
@@ -1182,7 +1216,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-10-28T18:31:59Z",
-      "last_seen": "2026-11-04T14:53:36Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "中国钢材出口遇难，20多国接连设限，钢铁行业进入寒冬 搜狐网"
     },
     {
@@ -1281,7 +1315,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-02T08:08:38Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "UK steel industry expects higher prices in 2027; concerns that fabricated goods imports undermine safeguards and CBAM Shanghai Metals Market",
       "follow_up": {
         "action_zh": "2027年1月1日前按英国官方商品编码、最终CBAM税率和客户进口主体更新合同；每批出运前复核实时配额余额。",
@@ -1336,7 +1370,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-30T18:16:25Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "Steel: Confimi’s Italian foundries take on Brussels – tariffs and the CBAM are hurting the supply chain Eunews",
       "follow_up": "跟踪2025/0419(COD)三方谈判及最终CN附件，并核对欧盟各钢铁产品配额余额；协会所称订单和成本数据仅作行业样本信号。",
       "coverage": "2026-10-31已通读Eunews英文全文并核对Confimi原始声明摘要；另以Regulation (EU) 2026/1384、Implementing Regulation (EU) 2026/1457及EUR-Lex程序2025/0419(COD)核对50%配额外税率和CBAM扩围法律状态。未获得“近30%”及13%/16%/37%的样本量、计算方法或企业明细，故只按协会陈述呈现。",
@@ -1385,7 +1419,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-30T18:16:25Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "Iron Ore Futures Near Four-Year Lows on Rising China Port Stocks, Weak Mill Profitability - News and Statistics IndexBox",
       "follow_up": "跟踪后续港口库存、到港量、铁水产量及钢厂盈利比例；价格结论仅适用于报道时点。",
       "coverage": "2026-10-31已通读IndexBox公开全文，核对680元／吨、1.5372亿吨、近1%和11.26%等数字及淡水河谷表述；原始行业数据库和Trading Economics序列未逐笔审计，故按媒体引用的市场数据处理。",
@@ -1470,7 +1504,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-30T18:16:25Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "Baosteel’s net profit fell by 15.3% y/y in nine months GMK Center",
       "follow_up": "在年度报告发布时核对出口订单的实际交付、全年产销量、分产品毛利及现金流变化；不把未经审计季报外推为全年结果。",
       "coverage": "2026-10-31已通读上海证券报所载宝钢股份2026年第三季度报告及主要经营数据公告，核对收入、归母净利润、扣非净利润、产销量、出口接单和成本指标；报告明确为未经审计，未核验订单级出口目的地和产品结构。",
@@ -1688,11 +1722,11 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-31T14:00:59Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "China Iron Ore Port Stocks Rise to 148.05 Million Tons as Demand Softens - News and Statistics IndexBox",
+      "evidence_url": "https://news.metal.com/newscontent/104187942-iron-ore-port-inventory-and-port-pick-up-volume-on-october-30-2026",
       "coverage": "2026-10-31已通读SMM原始页面正文，核对35港覆盖范围、库存、环比变化、日均疏港量及供需解释；IndexBox仅作为发现线索。SMM声明其数据结合公开信息、市场沟通和内部数据库模型，故按行业数据呈现，不冒充中国官方统计。",
       "follow_up": "下周复核SMM 35港库存、疏港量和铁水变化，并与其他机构口径分开记录。",
-      "evidence_url": "https://news.metal.com/newscontent/104187942-iron-ore-port-inventory-and-port-pick-up-volume-on-october-30-2026",
       "review_method": "source_checked",
       "reviewed_at": "2026-10-31"
     },
@@ -1727,7 +1761,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "泰国对华预应力钢绞线启动反倾销调查-我的钢铁网 综合资讯 钢材 建筑钢材 热轧 冷轧 中厚板 型钢 钢管 带钢 涂镀 硅钢 钢结构 不锈钢 废不锈钢 铬 镍 有色金属 铜 铝 铅 锌 锡 稀土 锑铋铟 锗镓硒 建筑材料 水泥 混凝土 砂石 矿渣粉 特钢 优特钢 工业线 工模具 金属制品 铁矿石 废钢 煤炭 焦炭 兰炭 铁合金 钢坯 生铁 耐材 海运 新能源 锂 镍 钴 锰 钒 锂电正极 锂电负极 锂电回收 工业硅 光伏材料 能源 原油 天然气 成品油 化工 烯烃 芳烃 甲醇 橡胶 天然橡胶 丁二烯 合成橡胶 农产品 主粮 杂粮 果蔬 棉业 油料 植物油 蛋白饲料 饲料添加剂 淀粉 糖 食品添加剂 猪 鸡 鸭 首页 宏观 大宗 前沿 下游 快讯 期货 专题 报告 数据 指数 当前位置： 综合资讯 > 钢材 > 正文 泰国对华预应力钢绞线启动反倾销调查 2026-10-30 09:34 来源：商务部贸易救济调查局 更多历史数据，上钢联数据 资讯监督 智能摘要 内容由AI生成 2026年10…",
       "review_disposition": "blocked",
       "review_note_zh": "【已核实的有限事实】商务部贸易救济信息网10月30日编译泰国商业部外贸厅公告：2026年10月22日公告对中国原产PC Strand（预应力钢绞线）启动反倾销调查，涉及泰国税号7312.10.91，利益相关方应于公告发布后30日内提交书面评论及证据。潜在涉案出口商应立即向泰国代理人核实泰文公告的正式公布日、期限起算及问卷安排。【未完成】泰国政府公报原始PDF本次无法读取，不能据转载资料单方面锁定确切的最后提交日期、产品完整边界或问卷期限。保留待原文核验。",
@@ -1880,7 +1914,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-29T08:06:02Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) and countervailing duty (CVD) orders on non-refillable steel cylinders the People's Republic of China (China) would likely lead to the continuation or recurrence of dumping, countervailable subsidies, and material injury to an industry in the United States, Commerce is publishing a notice of continuation of these AD and CVD orders.",
       "follow_up": "下一次五年复审拟不迟于本次USITC裁定五周年前30天启动；当前订单应按入境日有效CBP保证金指令持续核对。",
       "evidence_url": "https://public-inspection.federalregister.gov/2026-22024.pdf",
@@ -1929,7 +1963,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-29T08:06:02Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "The Commission hereby gives notice of the scheduling of expedited reviews pursuant to the Tariff Act of 1930 (\"the Act\") to determine whether revocation of the antidumping duty order on cut-to- length carbon steel plate from China and the termination of the suspended investigations on cut-to-length carbon steel plate from Russia and Ukraine would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time.",
       "follow_up": {
         "due_at": "2026-11-30T22:15:00Z",
@@ -1984,7 +2018,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-31T14:00:59Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "“LME上海热轧卷板合约”正式上市交易 “上海价格”国际应用... 高级搜索 EN 繁 简 首页 产品 数据 服务 规则 公告 关于 期货 能源化工 原油 低硫燃料油 20号胶 金属 铜(BC) 指数 SCFIS欧线 期权 原油 低硫燃料油 20号胶 铜(BC) ISIN编码 业务数据 业务参数汇总查询 月度结算参数调整表 收费标准 市场数据 延时行情 统计数据 日周数据 月年数据 数据下载 交易日历与假期 交易日历 休市安排 交易时间 交易 开户业务指引 适当性制度操作指引 交易席位业务指引 程序化交易报备指引 套期保值业务指引 套利业务指引 交易指令业务指引 结算 交割结算服务指引 结算服务指引 组合保证金服务指引 存管银行 下载资料 交割 业务规定 标准交割业务指引 期转现业务指引 指定交割仓库指引 交割商品 交割仓库与质检机构 标准仓单管理系统 意见征集和举报投诉 技术 业务规范及下载 专线接入指引 信息 行情展示应用申请指引 行情转发商名单 相关技术文档 法律 法律业务指引 监查 大户持仓报告业务指引 下载资料 投资者教育基地 学习园地 交易助手 产业服务 投资者保护 电子书橱 会员及境外特殊参与者 会员及境外特殊参与者名单 境外中介机构名单 如何成为会员或境外特殊参与者 指数 原油指数 现货指数 上海保税船供报价 舟山保税船供报价 中国氢价指数 PFMI PFMI 能源中心规则 业务规则与合约 期货法规 其他法规 公告通知 聚焦能源中心 媒体报道 简介 组织机构 人才招聘 联系方式 个人信息保护政策 首页 产品 期货 能源化工 原油 低硫燃料油 20号胶 金属 铜(BC) 指数 SCFIS欧线 期权 能源化工 原油 低硫燃料油 20号胶 有色金属 铜(BC) ISIN编码 数据 业务数据 业务参数汇总查询 月度结算参数调整表 收费标准 市场数据 延时行情 统计数据 日周数据 月年数据 数据下载 服务 交易日历与假期 交易日历 休市安排 交易时间 交易 开户业务指引 适当性制度操作指引 交易席位业务指引 程序化交易报备指引 套期保值业务指引 套利业务指引 交易指令业务指引 结算 交割结算服务指引 结算服务指引 组合保证金服务指引 存管银行 下载资料 交割 业务规定 标准交割业务指引 期转现业务指引 指定交割仓库指引 交割商品 交割仓库与质检机构 标准仓单…",
       "evidence_url": "https://www.ine.cn/publicnotice/news/202610/t20261029_833894.html",
       "coverage": "2026-10-31已通读上海国际能源交易所官方新闻全文，核对上市日期、合约代码、合约规模、报价币种、现金结算、月度期限、结算价换算机制及首日成交量；该文为交易所产品发布，不是贸易政策或钢材现货定价规定。",
@@ -2033,15 +2067,15 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-30T18:16:25Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "Shougang Jingtang selects Primetals for slab caster revamp to improve automotive steel quality SteelOrbis",
+      "evidence_url": "https://www.primetals.com/en/news/shougang-jingtang-selects-primetals-technologies-for-slab-caster-revamp-to-enable-high-quality-production/",
       "coverage": "2026-10-31已通读Primetals Technologies官方新闻稿全文，核对设备编号、地点、技术范围、尺寸、速度及计划投运时间；未找到首钢公告或合同金额、改造后年产能数据，因此未推导新增产量。",
       "follow_up": {
         "action_zh": "跟踪2027年9月投运、汽车钢客户认证、质量指标和实际产能披露。",
         "action_en": "Track September 2027 startup, automotive customer qualification, quality results and any disclosed capacity.",
         "due_at": "2027-09-30"
       },
-      "evidence_url": "https://www.primetals.com/en/news/shougang-jingtang-selects-primetals-technologies-for-slab-caster-revamp-to-enable-high-quality-production/",
       "review_method": "source_checked",
       "reviewed_at": "2026-10-31"
     },
@@ -2182,85 +2216,13 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-28T13:34:12Z",
-      "last_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-05T20:18:56Z",
       "source_excerpt": "This consultation seeks views on the feasibility and impacts of CBAM sectoral scope expansion to refinery products. At Budget 2025, the government confirmed that it is considering the impacts and feasibility of including refinery products in CBAM in future. This consultation is the next stage of that ongoing assessment. This consultation is being undertaken jointly by His Majesty’s Revenue & Customs (HMRC) and His Majesty’s Treasury (HMT). The government invites views from interested parties, including the importers and their agents, other businesses, individuals, tax advisers, trade and professional bodies and other interested parties, including those overseas. Responses to the response form will be shared between HMRC and HMT. We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their…",
       "follow_up": "2027年1月20日23:59前可回应；后续跟踪政府答复、正式扩围法案、实施时间、最终商品编码、排放核算和默认值。",
       "evidence_url": "https://assets.publishing.service.gov.uk/media/6ae1866b779378370fd80a99/Carbon_Border_Adjustment_Mechanism_sectoral_scope_expansion_to_refinery_products.pdf",
       "coverage": "2026-10-28已核读GOV.UK咨询页和44页官方PDF全文，核对咨询法律状态、截止时间、拟议15个炼油产品编码、低碳燃料/混合物方案、氢前体、三类排放分配方法、默认值、原产追溯、税率和实施安排；尚无政府答复、最终法案或实施日期。",
       "review_method": "source_checked",
       "reviewed_at": "2026-10-28"
-    },
-    {
-      "id": "995861551dd638bd6830",
-      "title_zh": "日本决定对中国及台湾镍系冷轧不锈钢征收五年反倾销税，10月31日起实施",
-      "title_en": "Japan decides five-year definitive anti-dumping duties on Chinese and Taiwanese nickel-added cold-rolled stainless steel from 31 October",
-      "title_original": "Japan to Impose Anti-Dumping Duties of Up to 42.1% on Chinese, Taiwanese Stainless Steel Plate for 5 Years from Oct. 31",
-      "summary_zh": "日本财务省10月27日宣布，内阁已决定对原产于或从中国、台湾出口的镍系冷轧不锈钢带及冷轧板征收最终反倾销税；政令拟于10月30日公布，课税期为2026年10月31日至2031年10月30日。调查范围为含铬10.5%以上、镍0.6%以上的合金钢，涉及HS 7219.31—7219.35、7219.90、7220.20及7220.90项下22个税目。中国山西太钢及未抽样合作企业税率为27.7%，浦项（张家港）不锈钢（PZSS）及其他供应商为42.1%；台湾YUSCO及未抽样企业为3.6%，Walsin及其他供应商为20.1%。最终税率与7月9日起的临时税率相同。",
-      "summary_en": "Japan's Ministry of Finance announced on 27 October that the Cabinet had decided definitive anti-dumping duties on nickel-added cold-rolled stainless steel coil, sheet and strip originating in or exported from China and Taiwan. The Cabinet Order is due to be promulgated on 30 October and duties will apply from 31 October 2026 through 30 October 2031. Scope covers alloy steel with at least 10.5% chromium and more than 0.6% nickel under 22 tariff lines within HS 7219.31-7219.35, 7219.90, 7220.20 and 7220.90. Rates are 27.7% for Shanxi Taigang and cooperating non-sampled Chinese suppliers, 42.1% for PZSS and other Chinese suppliers, 3.6% for YUSCO and cooperating non-sampled Taiwanese suppliers, and 20.1% for Walsin and other Taiwanese suppliers. These rates are unchanged from the provisional measure.",
-      "impact_zh": "这是已由日本内阁决定、即将公布并按明确日期实施的最终措施，不是提案。向日本出口相关冷轧不锈钢的中国钢厂和贸易商应在10月31日前按制造商身份、原产地/出口地和日本税目逐票复核适用税率；尤其不要把27.7%合作税率误用于PZSS或未获该待遇的供应商。报价和合同应明确反倾销税承担、在途货物清关日期及错误归类风险，并保存材质成分、宽度、轧制状态、制造商和原产地证明。该措施仅覆盖上述镍系冷轧不锈钢范围，不能外推到所有不锈钢板材。",
-      "impact_en": "This is a definitive measure decided by Japan's Cabinet with a specified implementation date, not a proposal. Chinese mills and traders shipping covered cold-rolled stainless steel to Japan should verify the producer, origin/export route and Japanese tariff classification shipment by shipment before 31 October. Do not apply the 27.7% cooperating rate to PZSS or suppliers not entitled to it. Contracts and quotations should allocate anti-dumping duty, customs-clearance timing and misclassification risk, while retaining composition, width, rolling condition, producer and origin evidence. The measure covers the specified nickel-added cold-rolled products only, not all stainless plate.",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBseVhmRkhxQm8zd1FENnNOYTdMVVhkTkhUSGVkc2xtaHU5eW5oaHBUSFZPbFhhMUJFYWotdnlKeHVScm1kRVEzaERud1ZoazhidXFWYjJwNWZpUDAwbnhQR1Q2bVpTRTFobmprUjRNNWtJUHNDQ3c?oc=5",
-      "published_at": "2026-10-27T09:55:00Z",
-      "source": {
-        "id": "rss",
-        "name": "BigGo Finance",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "贸易救济",
-      "status": "最终反倾销措施／10月31日起实施",
-      "importance": "高",
-      "products": [],
-      "products_en": [],
-      "tags": [
-        "日本",
-        "反倾销",
-        "冷轧不锈钢",
-        "中国",
-        "台湾",
-        "HS 7219",
-        "HS 7220"
-      ],
-      "tags_en": [
-        "Japan",
-        "anti-dumping",
-        "cold-rolled stainless steel",
-        "China",
-        "Taiwan",
-        "HS 7219",
-        "HS 7220"
-      ],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "complete",
-      "first_seen": "2026-10-28T08:08:25Z",
-      "last_seen": "2026-10-31T14:03:00Z",
-      "source_excerpt": "Japan to Impose Anti-Dumping Duties of Up to 42.1% on Chinese, Taiwanese Stainless Steel Plate for 5 Years from Oct. 31 BigGo Finance",
-      "coverage": "2026-10-28已通读日本财务省10月27日公告、英文暂译及10月19日特殊关税部会9页资料，核对法律状态、2026-10-31至2031-10-30期限、成分范围、22个税目所在HS项、四组生产商税率和调查结论。日本正式政令拟于10月30日公布，届时仍应以公布文本和具体日本税目为准。",
-      "follow_up": {
-        "action_zh": "10月30日核对正式公布的政令及日本税目明细；10月31日起按生产商、原产地/出口地和清关日期确认税率，期限至2031年10月30日。",
-        "action_en": "Check the promulgated Cabinet Order and detailed Japanese tariff lines on 30 October; from 31 October confirm the rate by producer, origin/export route and customs-clearance date. The measure runs through 30 October 2031."
-      },
-      "evidence_url": "https://www.mof.go.jp/policy/customs_tariff/trade/plan/futou/ka20261027.html",
-      "review_method": "source_checked",
-      "reviewed_at": "2026-10-28",
-      "related_sources": [
-        {
-          "name": "观察者网",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2eGlvSkVuYTQwbWp2NGR0NHM3U2hMTTBfaXNOdkFadllZTVllTTdCR1hqNlNRbTZLQlZXNVhfbkYySHFuNTV0YW5PdlFqM2tLQTNJZGxiV19Zb2RsQ1lraDA3RHBscGVLS2NTWQ?oc=5"
-        },
-        {
-          "name": "搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeTIyREx1TmxUUno1ekp6UDc2RldPcEZIeC12U3kxOEZiX0xONElaR2lNUk05dXpsV0oteEVBNHdGcGprSzhHN3VOemw3RE1mUDlSeDItRG55YTlocGNSeVFvSWI2aC1MdU5aQUpPTUVfUGNWc2VCVDY3QkozajRiTWJhNF9wcENaT2pObw?oc=5"
-        },
-        {
-          "name": "搜狐网",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ0J3Yl9OcURpZ2dONDhWQlRQbUVhai1tRkhTaXdHUTBLbFdpNWZaSjRVLWNQcDltWnh2eVJ1cHdOWjFJd3VqSjU1YU5EemdyR0RqMmVDLXFhVExyeWgxcDdkRHdudzNvcEFfV0QtdVhRcTdRVkZWSGF6NUlVdHdZTHF2UnVUUTAzbldUT3RaSWdJR05MVThZZVFCWWg5T2NibkZZaA?oc=5"
-        }
-      ]
     }
   ]
 }
