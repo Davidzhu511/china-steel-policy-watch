@@ -6127,5 +6127,36 @@
     "follow_up": "跟踪台湾环境主管部门及经济主管部门正式法规草案、钢铁产品适用清单和申报试点进度；对客户询价仅披露政策不确定性。",
     "evidence_url": "https://service.moenv.gov.tw/File/Get/moenv-en/en/O0vVnHvz47cIhJu",
     "coverage": "2026-11-04阅读全文核对GMK Center 11月4日报道，并交叉查阅台湾环境主管部门2026年1月英文政策材料关于水泥试点和钢铁协商的原文；未取得2026-11-04当日新增法令、税率或实施日期的官方原文，故仅作规划级有限结论。"
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/11/05/2026-22629/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
+    "published_date": "2026-11-05",
+    "reviewed_at": "2026-11-06",
+    "title_zh": "美国启动9月周年反倾销/反补贴行政复审：涉及中国钢制货架及耐火砖，非钢卷普遍加税",
+    "title_en": "US initiates September-anniversary AD/CVD reviews including Chinese steel racks and magnesia carbon bricks",
+    "summary_zh": "【事实】美国商务部2026年11月5日发布《启动反倾销和反补贴税行政复审》（91 FR 69796，文号2026-22629），对9月周年日的多项现行AD/CVD命令启动复审。中国涉案产品包括钢制货架及零部件（Certain Steel Racks and Parts Thereof，A-570-088，复审期2025-09-01至2026-08-31）和镁碳砖（A-570-954，同期），并非中国热轧、冷轧、镀锌钢卷全面启动新调查。公告同时列有韩国冷轧板、韩国/墨西哥/土耳其厚壁矩形焊管等其他原产地产品。复审启动不等于最终税率改变。公告要求符合条件的非市场经济体出口商原则上于刊登后14个日历日内提交单独税率申请或认证；无销售通知原则上30日内；预计2027-09-30前公布终裁。",
+    "summary_en": "Commerce's 5 Nov 2026 initiation notice (91 FR 69796; document 2026-22629) covers September-anniversary administrative reviews, including China-origin certain steel racks and parts (A-570-088, POR 1 Sep 2025–31 Aug 2026) and magnesia carbon bricks (A-570-954). It also lists Korea-origin cold-rolled steel and heavy-walled rectangular welded pipes from Korea, Mexico and Türkiye. Initiation is not a new blanket tariff or final rate change. Eligible NME exporters generally have 14 calendar days from publication for separate-rate applications/certifications, and no-sales notices are generally due within 30 days. Final results are intended by 30 Sep 2027.",
+    "impact_zh": "【研判】对首钢冷轧、热轧及镀锌卷出口美国，不能由该公告推导新增普遍税负；重点检查是否直接或通过下游客户出口涉案钢制货架及零部件，以及相关企业是否被列名。被列名出口商应立即与美国贸易救济律师核对单独税率资格和申报期限。其他国家原产钢管/冷轧案仅在对应原产地及产品范围内有直接影响。",
+    "impact_en": "Do not treat this notice as a new across-the-board duty on Chinese flat steel. Check direct or downstream shipments of covered steel racks and listed exporters. Affected exporters should promptly review separate-rate filing eligibility and deadlines with US trade counsel.",
+    "category": "贸易救济",
+    "status": "行政复审启动／非最终裁定",
+    "importance": "高",
+    "tags": [
+      "美国",
+      "反倾销",
+      "行政复审",
+      "钢制货架",
+      "截止日期"
+    ],
+    "tags_en": [
+      "US",
+      "antidumping",
+      "administrative review",
+      "steel racks",
+      "deadline"
+    ],
+    "follow_up": "【待确认】逐一核对公告企业清单、具体产品范围和美国进口商申报记录；受影响企业应立即核对2026-11-19左右的14日申请期限，法定计算、周末及电子提交要求以美国商务部程序为准。",
+    "evidence_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22629/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
+    "coverage": "2026-11-06读取美国联邦公报公告全文的启动说明、程序期限、复审产品及中国钢制货架A-570-088/镁碳砖A-570-954列表；未逐一验证所有被列名企业或各产品HS/HTS细分税号，不宣称最终税率变化。"
   }
 ]
