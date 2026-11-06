@@ -1,15 +1,61 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T20:18:56Z",
-  "pending_count": 31,
+  "generated_at": "2026-11-06T14:38:14Z",
+  "pending_count": 39,
   "items": [
+    {
+      "id": "1029e21c10ec29d8d9ef",
+      "url": "https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-pet-resin-chemicals-2026-11-06_en",
+      "published_at": "2026-11-06T00:00:00Z",
+      "title_original": "Commission initiates safeguard investigation into imports of PET resin chemicals",
+      "first_seen": "2026-11-06T14:38:14Z",
+      "last_seen": "2026-11-06T14:38:14Z",
+      "source": {
+        "id": "ec_watch_pages",
+        "name": "DG TRADE · Steel",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "priority_signal": {
+        "zh": "贸易救济程序 · 待核对",
+        "en": "Trade-remedy procedure · review needed"
+      },
+      "translation_state": "pending",
+      "published_date": "2026-11-06",
+      "source_excerpt": "News article 6 November 2026 Commission initiates safeguard investigation into imports of PET resin chemicals Today, the Commission initiated a safeguard investigation to assess whether safeguard measures are needed to protect EU industry from a significant increase in imports of polyethylene terephthalate (PET) resin chemicals. 1 min read"
+    },
+    {
+      "id": "ef962295e62aef64e7cb",
+      "url": "https://federalregister.gov/documents/2026/11/06/2026-22658/steel-wire-garment-hangers-from-the-peoples-republic-of-china-and-the-socialist-republic-of-vietnam",
+      "published_at": "2026-11-06T00:00:00Z",
+      "title_original": "Steel Wire Garment Hangers From the People's Republic of China and the Socialist Republic of Vietnam: Final Affirmative Determination of Circumvention of the Antidumping Duty Order on Steel Wire Garment Hangers From the People's Republic of China and the Antidumping and Countervailing Duty Orders on Steel Wire Garment Hangers From the Socialist Republic of Vietnam",
+      "first_seen": "2026-11-06T14:38:14Z",
+      "last_seen": "2026-11-06T14:38:14Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "priority_signal": {
+        "zh": "贸易救济程序 · 待核对",
+        "en": "Trade-remedy procedure · review needed"
+      },
+      "translation_state": "pending",
+      "published_date": "2026-11-06",
+      "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that imports of steel wire garment hangers (hangers), completed in Cambodia using: (1) steel wire or (2) steel wire and paper accessories, produced in the People's Republic of China (China) or the Socialist Republic of Vietnam (Vietnam), are circumventing the antidumping duty (AD) order on hangers from China, or the AD and countervailing duty (CVD) orders on hangers from Vietnam."
+    },
     {
       "id": "065eb7b70618c58b5d84",
       "url": "https://federalregister.gov/documents/2026/11/05/2026-22629/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
       "published_at": "2026-11-05T00:00:00Z",
       "title_original": "Initiation of Antidumping and Countervailing Duty Administrative Reviews",
       "first_seen": "2026-11-05T14:58:24Z",
-      "last_seen": "2026-11-05T20:18:56Z",
+      "last_seen": "2026-11-06T14:38:14Z",
       "source": {
         "id": "federal_register",
         "name": "U.S. Federal Register / 美国联邦公报",
@@ -32,7 +78,7 @@
       "published_at": "2026-10-19T00:00:00Z",
       "title_original": "Resolución No. 00695 de 16 de octubre de 2026 - investigación antidumping sobre perfiles de hierro o acero en L y U",
       "first_seen": "2026-11-01T14:00:44Z",
-      "last_seen": "2026-11-05T20:18:56Z",
+      "last_seen": "2026-11-06T14:38:14Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销",
@@ -52,6 +98,25 @@
       "review_coverage": "有限覆盖（2026-11-02下午复核）：官方法规汇总确认第00695号决议立案；公开法规转载补充申请方主张的155%／28%倾销幅度，10月23日公告补充30个工作日参与窗口。仍未取得稳定可读的MinCIT原始决议、问卷和期限计算规则，继续计入待全文核验。",
       "published_date": "2026-10-19",
       "source_excerpt": "Al día con la normativa | Defensoría del Contribuyente y del Usuario Aduanero Ir al contenido Buscar: Inicio Nosotros Solicita la intervención Derechos y deberes Educación fiscal Al día con la normativa Inicio Nosotros Solicita la intervención Derechos y deberes Educación fiscal Al día con la normativa Al día con la normativa  Inicio 9 Al día con la normativa Al día con la normativa Consulta la agenda regulatoria de las entidades que, en razón a sus competencias, expiden normas que tienen incidencia directa o indirecta en el cumplimiento de tus obligaciones tributarias, aduaneras o cambiaria…"
+    },
+    {
+      "id": "5db162a3dc0df1e1d770",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/f88a93fa-a9f7-4c9c-8d9a-4aafb5117153_en?filename=Guidance_+Import+of+electricity+and+natural+gas+under+CCI_final+ver.+12_10_2026.pdf",
+      "published_at": "2026-10-22T00:00:00Z",
+      "title_original": "New guidance on electricity imports under Centralised Clearance for Import",
+      "first_seen": "2026-11-06T14:38:14Z",
+      "last_seen": "2026-11-06T14:38:14Z",
+      "source": {
+        "id": "ec_watch_pages",
+        "name": "DG TAXUD · CBAM News",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-10-22",
+      "source_excerpt": "22 Oct 2026 New guidance on electricity imports under Centralised Clearance for Import The European Commission has published a Guidance for import of Electricity under the Centralised Clearance for Import (CCI) framework to support a harmonised approach across the EU. It covers authorisation, declaration and supervision measures under CCI and Entry in the Declarant’s Records (EIDR), as well as CBAM requirements and compliance obligations for electricity imports."
     },
     {
       "id": "ddd77b02ae7fca8ba53c",
@@ -92,12 +157,107 @@
       "source_excerpt": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Monitoring and Reporting Regulation (MRR) 2018."
     },
     {
+      "id": "a522f8e1b8c2564a27c8",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWTXZCWUxFLWgwUmF6TU5OVXVwcFIxX29jU2NHU1hOSGZBVFZRVklJNjZYcXRHdlpOZGFIdXpGamxCcVdXNDJjVWRoYUJUcTZGOFhSYVRJRkJsMDlKM3duMi1KaFZRRFZtakxKOUJZOG5fWkg1VGlydW42d21JZw?oc=5",
+      "published_at": "2026-11-06T09:21:00Z",
+      "title_original": "CBAM Rules for Crediting 3rd Country Carbon Prices",
+      "first_seen": "2026-11-06T14:38:14Z",
+      "last_seen": "2026-11-06T14:38:14Z",
+      "source": {
+        "id": "rss",
+        "name": "Steel and Stainless Steel News",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-06",
+      "source_excerpt": "CBAM Rules for Crediting 3rd Country Carbon Prices Steel and Stainless Steel News"
+    },
+    {
+      "id": "d752c0eac1356423edaa",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY1JwWmV0UGwzdzR5SkdlZ0hfVkFHdFo4YkhEVDQ0VmlvQVZiVmRMdkZYWlAtYlNvTVMyb1F4LXZCRDM5bzBHamFZYVR4WmVfbXNVa3p0VWVlUmlwSXlYZ0ZHc1RDS2RWeWNmb3dydDZ4alhLbjZvdm9PNHIwYWpUWDlqb05wclhMdDlfaWJ2OGtrTTdvLUxYMk5lWjVqQ1I4el9sMmN2MVNwWUVUNnI1OVYwYWFWQ1lveWZrX000OUxweS1RaXc?oc=5",
+      "published_at": "2026-11-06T08:33:32Z",
+      "title_original": "Indonesia Tsingshan adjusts stainless steel export rates upward amid raw material cost pressure",
+      "first_seen": "2026-11-06T14:38:14Z",
+      "last_seen": "2026-11-06T14:38:14Z",
+      "source": {
+        "id": "rss",
+        "name": "Yieh Corp.",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-06",
+      "source_excerpt": "Indonesia Tsingshan adjusts stainless steel export rates upward amid raw material cost pressure Yieh Corp."
+    },
+    {
+      "id": "a8121b9d4c3463d43ca8",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSZU5xdjFIako5UWVReHVTT0xVWjlZQ0ljaWFDSW9IZ0prOU9ZV2I4YU5sNW81M1lqX3RGaU1ZQmZlRDJ6VHl1R2dtVmkzazd1OUdhMlh2bkZYV19JY0szdXhHQUIzS1VxOVVSVWRkcUVUc2NkVWc?oc=5",
+      "published_at": "2026-11-05T08:45:00Z",
+      "title_original": "Taiwan's China Steel Raises December Domestic Steel Prices by NT$300 Across the Board, Citing Stronger Global Steel Prices and Rising Export Orders",
+      "first_seen": "2026-11-06T14:38:14Z",
+      "last_seen": "2026-11-06T14:38:14Z",
+      "source": {
+        "id": "rss",
+        "name": "BigGo Finance",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-05",
+      "source_excerpt": "Taiwan's China Steel Raises December Domestic Steel Prices by NT$300 Across the Board, Citing Stronger Global Steel Prices and Rising Export Orders BigGo Finance"
+    },
+    {
+      "id": "b1e09d89d62d12237ac0",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeVpUOEFfRGppTEo3NkhlMUhtSkRDa1I5LVk2dHVFQk1iZmI3TUZ2R2J5bUVQR29BUlUxRkVDUzlwVC0tLWVrNlIwM3Y3VnpqcDluaVpQckl6QUhfOWR2VzNUZW4wYWo2MTNaQkdrZ3hqRFRVODNSdDdWWW1nTGlldlFKME1Td0tNVG9fZkNzTkRkV285NUFVVmNkZWNwdUlWOGRUTVlkYXdiMlRoUkhKckdUaVl4cmdYYkxIZzQzZFlmNzZFREpucThpVENIdGpvSmg0YQ?oc=5",
+      "published_at": "2026-11-05T08:22:19Z",
+      "title_original": "Taiwan plans to introduce CBAM and ETS to support industrial decarbonization",
+      "first_seen": "2026-11-06T14:38:14Z",
+      "last_seen": "2026-11-06T14:38:14Z",
+      "source": {
+        "id": "rss",
+        "name": "SteelOrbis",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-05",
+      "source_excerpt": "Taiwan plans to introduce CBAM and ETS to support industrial decarbonization SteelOrbis"
+    },
+    {
+      "id": "ea711280de1f5c5a56f0",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUUowZldTdkhVWGJPUGp1cDBJd1huZTd2b3Q5cG1ZRjFJbmxTX0Z0T05NeDFsYXBxbjNOdmNqRHp3a01ISG5GVXV2d1B5Z0RGcDhVdmRxaTJKcjNoRFNEZ3FGdVk0cTFBNUVaUE1HOHotS2dWRU8tMU9XcHdwU3RlQTJvbnNxUzNEMDNHOVdMMnMwRUF0WGQtaUlxc9IBoAFBVV95cUxPU1NhUUxuN2JpNEo5UjB6bGxkazJfcHc4SF9vdmVTTFRJcGZpSzlGUFJaT3JQajF0c1VhWVdCR1VOOVhNa1pRSmk2VTdabWZ5SXV1cG5wQWs5SnAtZDFocWQtMzJZTjBVSy16N0hfaGpCdWVGYURvNmVaVEFTRklsVkJDQllSbWxJd2o3N3dmVzNrUkotNEVBSmpycWxKeUtm?oc=5",
+      "published_at": "2026-11-04T08:45:38Z",
+      "title_original": "China’s steel industry is shifting to a quality-driven growth model",
+      "first_seen": "2026-11-06T14:38:14Z",
+      "last_seen": "2026-11-06T14:38:14Z",
+      "source": {
+        "id": "rss",
+        "name": "GMK Center",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-04",
+      "source_excerpt": "China’s steel industry is shifting to a quality-driven growth model GMK Center"
+    },
+    {
       "id": "75abf1237798aefe076a",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnJXRUdNbnp3c2MxVzRwS0ZhMHZtdU9oVWFWWTZVeWMyMEFoLU4zWnBxbjlfbTBtMGlvdUtyQndiTFN6aDdSTzlYeDI3Q3ZGOHlaN1FZVTMwbEIxZm5aYjdvNkRod3FoWkJZQjZ5QjB5LV80OUM3VGFEUmY3bHpndkRfV2RZUHVWcXVCTU5fa3ZnSEtCUlQxWXVTb19tX00?oc=5",
-      "published_at": "2026-11-05T17:47:32Z",
+      "published_at": "2026-11-05T17:49:17Z",
       "title_original": "CBAM boosting European steelmaker's earnings: CEO",
       "first_seen": "2026-11-05T20:18:56Z",
-      "last_seen": "2026-11-05T20:18:56Z",
+      "last_seen": "2026-11-06T14:38:14Z",
       "source": {
         "id": "rss",
         "name": "Quantum Commodity Intelligence",
@@ -116,7 +276,7 @@
       "published_at": "2026-11-05T01:54:00Z",
       "title_original": "[SMM Stainless Steel Flash] Indonesia’s Krakatau Steel details stainless slab project with Tsingshan at Morowali",
       "first_seen": "2026-11-05T14:58:24Z",
-      "last_seen": "2026-11-05T20:18:56Z",
+      "last_seen": "2026-11-06T14:38:14Z",
       "source": {
         "id": "rss",
         "name": "Shanghai Metals Market",
@@ -154,7 +314,7 @@
       "published_at": "2026-11-04T16:41:41Z",
       "title_original": "UK Metals Expo warns of port congestion ahead of CBAM as steel imports surge",
       "first_seen": "2026-11-05T14:58:24Z",
-      "last_seen": "2026-11-05T20:18:56Z",
+      "last_seen": "2026-11-06T14:38:14Z",
       "source": {
         "id": "rss",
         "name": "Металлургпром",
@@ -173,7 +333,7 @@
       "published_at": "2026-11-04T17:01:54Z",
       "title_original": "UK Steel Panel Warns Pre-CBAM Import Surge Could Strain Ports",
       "first_seen": "2026-11-04T20:05:11Z",
-      "last_seen": "2026-11-05T20:18:56Z",
+      "last_seen": "2026-11-06T14:38:14Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -192,7 +352,7 @@
       "published_at": "2026-11-04T10:33:16Z",
       "title_original": "China Steel Industry 2026: Output Falls 2.9% as Sector Pivots to High-Performance Steel",
       "first_seen": "2026-11-04T20:05:11Z",
-      "last_seen": "2026-11-05T20:18:56Z",
+      "last_seen": "2026-11-06T14:38:14Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -230,7 +390,7 @@
       "published_at": "2026-11-04T11:05:15Z",
       "title_original": "Taiwan plans to develop its own CBAM",
       "first_seen": "2026-11-04T14:53:36Z",
-      "last_seen": "2026-11-05T20:18:56Z",
+      "last_seen": "2026-11-06T14:38:14Z",
       "source": {
         "id": "rss",
         "name": "GMK Center",
@@ -249,7 +409,7 @@
       "published_at": "2026-11-04T11:01:18Z",
       "title_original": "China Property Starts at 2002 Levels: Iron Ore and Coking Coal Demand Outlook",
       "first_seen": "2026-11-04T14:53:36Z",
-      "last_seen": "2026-11-04T20:05:11Z",
+      "last_seen": "2026-11-06T14:38:14Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -268,7 +428,7 @@
       "published_at": "2026-11-04T10:33:16Z",
       "title_original": "2026年中国钢铁行业：产量下降2.9%，行业转向高性能钢材 - 新闻和统计",
       "first_seen": "2026-11-04T14:53:36Z",
-      "last_seen": "2026-11-05T20:18:56Z",
+      "last_seen": "2026-11-06T14:38:14Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -382,7 +542,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-05T20:18:56Z",
+      "last_seen": "2026-11-06T14:38:14Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -405,7 +565,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-05T20:18:56Z",
+      "last_seen": "2026-11-06T14:38:14Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -516,7 +676,7 @@
       "published_at": "2026-11-01T07:00:00Z",
       "title_original": "中国钢材出口遇难，20多国接连设限，钢铁行业进入寒冬",
       "first_seen": "2026-10-28T18:31:59Z",
-      "last_seen": "2026-11-05T20:18:56Z",
+      "last_seen": "2026-11-06T14:38:14Z",
       "source": {
         "id": "rss",
         "name": "搜狐网",
