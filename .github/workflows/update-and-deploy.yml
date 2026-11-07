@@ -40,6 +40,7 @@ jobs:
       artifact_name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
       status_digest: ${{ steps.digest.outputs.status_digest }}
       latest_digest: ${{ steps.digest.outputs.latest_digest }}
+      items_digest: ${{ steps.digest.outputs.items_digest }}
       feed_digest: ${{ steps.digest.outputs.feed_digest }}
     steps:
       - name: 检出仓库
@@ -96,6 +97,7 @@ jobs:
         run: |
           echo "status_digest=$(sha256sum docs/data/status.json | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
           echo "latest_digest=$(sha256sum docs/data/latest.json | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
+          echo "items_digest=$(sha256sum docs/data/items.json | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
           echo "feed_digest=$(sha256sum docs/feed.xml | cut -d' ' -f1)" >> "$GITHUB_OUTPUT"
 
       - name: 配置 GitHub Pages
@@ -136,6 +138,7 @@ jobs:
         env:
           EXPECTED_STATUS: ${{ needs.update.outputs.status_digest }}
           EXPECTED_LATEST: ${{ needs.update.outputs.latest_digest }}
+          EXPECTED_ITEMS: ${{ needs.update.outputs.items_digest }}
           EXPECTED_FEED: ${{ needs.update.outputs.feed_digest }}
         shell: bash
         run: |
@@ -158,6 +161,7 @@ jobs:
           for attempt in 1 2 3 4 5 6; do
             if check_file "data/status.json" "$EXPECTED_STATUS" \
                && check_file "data/latest.json" "$EXPECTED_LATEST" \
+               && check_file "data/items.json" "$EXPECTED_ITEMS" \
                && check_file "feed.xml" "$EXPECTED_FEED"; then
               echo "PUBLISHED: 本次网页数据、最新新闻与RSS均可从公网读取并与构建一致"
               exit 0
