@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T21:58:32Z",
-  "pending_count": 18,
+  "generated_at": "2026-11-07T22:01:23Z",
+  "pending_count": 16,
   "items": [
     {
       "id": "5b038f2baea57e2c9994",
@@ -9,7 +9,7 @@
       "published_at": "2026-10-19T00:00:00Z",
       "title_original": "Resolución No. 00695 de 16 de octubre de 2026 - investigación antidumping sobre perfiles de hierro o acero en L y U",
       "first_seen": "2026-11-01T14:00:44Z",
-      "last_seen": "2026-11-07T21:58:32Z",
+      "last_seen": "2026-11-07T22:01:23Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销",
@@ -54,31 +54,12 @@
       "source_excerpt": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Monitoring and Reporting Regulation (MRR) 2018."
     },
     {
-      "id": "d2ad9789ee8b0af8fed8",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMVJkX29MSnQ0b1J1eEpzM1Z1dkJGbXAtSEV0Z1ZmNk1EQUNqZDZ3YmxaQkV3WGRkUXo4ZHRxeUxMdktEVjhNU0RTZHZjbDRhTGYxQjNIY1AxSWg2RUxHVkY5bDZNcmsyRTdselBLNi1PM1Z5c1oteVZHUmU4WXdua3lR?oc=5",
-      "published_at": "2026-11-06T09:16:30Z",
-      "title_original": "Steel sector shifts to high-quality development amid market headwinds",
-      "first_seen": "2026-11-07T21:58:32Z",
-      "last_seen": "2026-11-07T21:58:32Z",
-      "source": {
-        "id": "rss",
-        "name": "China Daily Global Edition",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-06",
-      "source_excerpt": "Steel sector shifts to high-quality development amid market headwinds China Daily Global Edition"
-    },
-    {
       "id": "a0b9dcdcc0aa3c3995e9",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CYVN2TGI0Qk9RekpqVlZUd1g4OWtaWURZRmtwMk9ZVGN2TVhtTkV4Q0MtTnBaMGNXZUdGZGNiVVhsRzhnSWVLNGlibFQxYnM1WlBFTFpR?oc=5",
       "published_at": "2026-11-04T07:55:00Z",
       "title_original": "1.19亿吨之后：中国钢铁从规模出口转向高端与产能出海",
       "first_seen": "2026-11-07T13:35:33Z",
-      "last_seen": "2026-11-07T21:58:32Z",
+      "last_seen": "2026-11-07T22:01:23Z",
       "source": {
         "id": "rss",
         "name": "QQ News",
@@ -101,7 +82,7 @@
       "published_at": "2026-11-06T09:21:00Z",
       "title_original": "CBAM Rules for Crediting 3rd Country Carbon Prices",
       "first_seen": "2026-11-06T14:38:14Z",
-      "last_seen": "2026-11-07T21:58:32Z",
+      "last_seen": "2026-11-07T22:01:23Z",
       "source": {
         "id": "rss",
         "name": "Steel and Stainless Steel News",
@@ -119,35 +100,12 @@
       "source_excerpt": "CBAM Rules for Crediting 3rd Country Carbon Prices Steel and Stainless Steel News"
     },
     {
-      "id": "b1e09d89d62d12237ac0",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeVpUOEFfRGppTEo3NkhlMUhtSkRDa1I5LVk2dHVFQk1iZmI3TUZ2R2J5bUVQR29BUlUxRkVDUzlwVC0tLWVrNlIwM3Y3VnpqcDluaVpQckl6QUhfOWR2VzNUZW4wYWo2MTNaQkdrZ3hqRFRVODNSdDdWWW1nTGlldlFKME1Td0tNVG9fZkNzTkRkV285NUFVVmNkZWNwdUlWOGRUTVlkYXdiMlRoUkhKckdUaVl4cmdYYkxIZzQzZFlmNzZFREpucThpVENIdGpvSmg0YQ?oc=5",
-      "published_at": "2026-11-05T08:22:19Z",
-      "title_original": "Taiwan plans to introduce CBAM and ETS to support industrial decarbonization",
-      "first_seen": "2026-11-06T14:38:14Z",
-      "last_seen": "2026-11-06T14:38:14Z",
-      "source": {
-        "id": "rss",
-        "name": "SteelOrbis",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "台湾地区拟研议CBAM和ETS的内容与此前GMK报道及环境主管部门政策材料属于同一规划事件，没有新税率、正式生效时间或独立可核实更新。",
-      "review_evidence_url": "https://service.moenv.gov.tw/File/Get/moenv-en/en/O0vVnHvz47cIhJu",
-      "review_coverage": "2026-11-07对照SteelOrbis 11月5日标题与已核验台湾环境部门政策材料，未找到正式钢铁CBAM新规。",
-      "published_date": "2026-11-05",
-      "source_excerpt": "Taiwan plans to introduce CBAM and ETS to support industrial decarbonization SteelOrbis"
-    },
-    {
       "id": "75abf1237798aefe076a",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnJXRUdNbnp3c2MxVzRwS0ZhMHZtdU9oVWFWWTZVeWMyMEFoLU4zWnBxbjlfbTBtMGlvdUtyQndiTFN6aDdSTzlYeDI3Q3ZGOHlaN1FZVTMwbEIxZm5aYjdvNkRod3FoWkJZQjZ5QjB5LV80OUM3VGFEUmY3bHpndkRfV2RZUHVWcXVCTU5fa3ZnSEtCUlQxWXVTb19tX00?oc=5",
       "published_at": "2026-11-05T17:49:17Z",
       "title_original": "CBAM boosting European steelmaker's earnings: CEO",
       "first_seen": "2026-11-05T20:18:56Z",
-      "last_seen": "2026-11-07T21:58:32Z",
+      "last_seen": "2026-11-07T22:01:23Z",
       "source": {
         "id": "rss",
         "name": "Quantum Commodity Intelligence",
@@ -170,7 +128,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-07T21:58:32Z",
+      "last_seen": "2026-11-07T22:01:23Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -193,7 +151,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-07T21:58:32Z",
+      "last_seen": "2026-11-07T22:01:23Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -285,7 +243,7 @@
       "published_at": "2026-11-01T07:00:00Z",
       "title_original": "中国钢材出口遇难，20多国接连设限，钢铁行业进入寒冬",
       "first_seen": "2026-10-28T18:31:59Z",
-      "last_seen": "2026-11-07T21:58:32Z",
+      "last_seen": "2026-11-07T22:01:23Z",
       "source": {
         "id": "rss",
         "name": "搜狐网",
