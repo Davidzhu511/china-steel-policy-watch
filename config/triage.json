@@ -1141,7 +1141,8 @@
     "reason_en": "The collection lists 3 Nov 2026, but the MRR document's own GOV.UK change log still shows 5 May 2026 as its last substantive update. No 3 Nov steel-specific rule or verified text diff was found. Retain as a date-metadata discrepancy rather than asserting a regulatory change.",
     "attempted_at": "2026-11-04",
     "evidence_url": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
-    "coverage": "2026-11-04核对MRR官方正文更新日志与UK ETS技术指南集合页，两处11月3日标记不一致；尚未取得文档版本差异，暂不认定新法规。"
+    "coverage": "2026-11-04核对MRR官方正文更新日志与UK ETS技术指南集合页，两处11月3日标记不一致；尚未取得文档版本差异，暂不认定新法规。",
+    "title_zh": "英国UK ETS监测与报告技术指南：11月3日更新标记与文件版本不一致"
   },
   {
     "url": "https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-pet-resin-chemicals-2026-11-06_en",
@@ -1314,5 +1315,16 @@
     "attempted_at": "2026-11-07",
     "evidence_url": "https://timeline.sohu.com/news/FXLopmNDK3",
     "coverage": "2026-11-07阅读全文搜狐原作者文章；其网页日期与采集日期不一致，且98起和20多国统计未能追溯至正式来源，保留blocked而非伪造核验。"
+  },
+  {
+    "url": "https://defensoriadian.gov.co/al-dia-con-la-normativa",
+    "published_date": "2026-10-19",
+    "decision": "blocked",
+    "title_zh": "哥伦比亚对中国和土耳其L/U型钢发起反倾销调查：原始决议及问卷待确认",
+    "reason_zh": "2026年11月2日下午复核哥伦比亚官方法规汇总、中国商务部官方编译、10月23日参与公告及第00695号决议的公开法规转载。可确认正式立案、产品范围、5个税号、申请企业DIACO与Ternium Colombia、调查期，以及申请方主张中国155%、土耳其28%的倾销幅度；该幅度只是申请方主张，并非临时或最终税率。10月23日公告称相关方有30个工作日提交意见和证据，但MinCIT原始决议、问卷及期限计算规则仍未稳定取得，因此不得擅自换算最终日历截止日。",
+    "reason_en": "Colombia opened an AD inquiry on L/U steel profiles under Resolution 00695; partial official listings and secondary translations establish initiation, but the full ministry decision, questionnaire and exact statutory deadline are not reliably accessible. Petitioner-estimated margins are not imposed duties.",
+    "attempted_at": "2026-11-07",
+    "evidence_url": "https://www.defensoriadian.gov.co/al-dia-con-la-normativa/",
+    "coverage": "有限覆盖（2026-11-02下午复核）：官方法规汇总确认第00695号决议立案；公开法规转载补充申请方主张的155%／28%倾销幅度，10月23日公告补充30个工作日参与窗口。仍未取得稳定可读的MinCIT原始决议、问卷和期限计算规则，继续计入待全文核验。"
   }
 ]
