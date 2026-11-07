@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T17:52:31Z",
-  "pending_count": 48,
+  "generated_at": "2026-11-07T21:20:17Z",
+  "pending_count": 42,
   "items": [
     {
       "id": "1029e21c10ec29d8d9ef",
@@ -9,7 +9,7 @@
       "published_at": "2026-11-06T00:00:00Z",
       "title_original": "Commission initiates safeguard investigation into imports of PET resin chemicals",
       "first_seen": "2026-11-06T14:38:14Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG TRADE · Steel",
@@ -32,7 +32,7 @@
       "published_at": "2026-11-06T00:00:00Z",
       "title_original": "Steel Wire Garment Hangers From the People's Republic of China and the Socialist Republic of Vietnam: Final Affirmative Determination of Circumvention of the Antidumping Duty Order on Steel Wire Garment Hangers From the People's Republic of China and the Antidumping and Countervailing Duty Orders on Steel Wire Garment Hangers From the Socialist Republic of Vietnam",
       "first_seen": "2026-11-06T14:38:14Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "federal_register",
         "name": "U.S. Federal Register / 美国联邦公报",
@@ -50,35 +50,12 @@
       "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that imports of steel wire garment hangers (hangers), completed in Cambodia using: (1) steel wire or (2) steel wire and paper accessories, produced in the People's Republic of China (China) or the Socialist Republic of Vietnam (Vietnam), are circumventing the antidumping duty (AD) order on hangers from China, or the AD and countervailing duty (CVD) orders on hangers from Vietnam."
     },
     {
-      "id": "065eb7b70618c58b5d84",
-      "url": "https://federalregister.gov/documents/2026/11/05/2026-22629/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
-      "published_at": "2026-11-05T00:00:00Z",
-      "title_original": "Initiation of Antidumping and Countervailing Duty Administrative Reviews",
-      "first_seen": "2026-11-05T14:58:24Z",
-      "last_seen": "2026-11-07T17:52:31Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-05",
-      "source_excerpt": "The U.S. Department of Commerce (Commerce) has received requests to conduct administrative reviews of various antidumping duty (AD) and countervailing duty (CVD) orders with September anniversary dates. In accordance with Commerce's regulations, we are initiating those administrative reviews."
-    },
-    {
       "id": "5b038f2baea57e2c9994",
       "url": "https://defensoriadian.gov.co/al-dia-con-la-normativa",
       "published_at": "2026-10-19T00:00:00Z",
       "title_original": "Resolución No. 00695 de 16 de octubre de 2026 - investigación antidumping sobre perfiles de hierro o acero en L y U",
       "first_seen": "2026-11-01T14:00:44Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销",
@@ -105,7 +82,7 @@
       "published_at": "2026-10-22T00:00:00Z",
       "title_original": "New guidance on electricity imports under Centralised Clearance for Import",
       "first_seen": "2026-11-06T14:38:14Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG TAXUD · CBAM News",
@@ -117,25 +94,6 @@
       "translation_state": "pending",
       "published_date": "2026-10-22",
       "source_excerpt": "22 Oct 2026 New guidance on electricity imports under Centralised Clearance for Import The European Commission has published a Guidance for import of Electricity under the Centralised Clearance for Import (CCI) framework to support a harmonised approach across the EU. It covers authorisation, declaration and supervision measures under CCI and Entry in the Declarant’s Records (EIDR), as well as CBAM requirements and compliance obligations for electricity imports."
-    },
-    {
-      "id": "ddd77b02ae7fca8ba53c",
-      "url": "https://gov.uk/government/publications/uk-ets-technical-guidance-free-allocation-regulation-far",
-      "published_at": "2026-11-03T00:00:00Z",
-      "title_original": "UK ETS technical guidance: Free Allocation Regulation (FAR)",
-      "first_seen": "2026-11-03T15:55:42Z",
-      "last_seen": "2026-11-03T19:51:08Z",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-03",
-      "source_excerpt": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Free Allocation Regulation (FAR). These guidance documents are for operators and explain the different elements of free allocation applications and calculations: UK ETS 11 FAR : Determining allocation at the installation level explains how the allocation methodology is applied at the installation level, including the impact of the provisions designed to address the exposure to a significant risk of carbon leakage. It describes the different types of sub-installation defined in the…"
     },
     {
       "id": "a20a3191cbc2ac06e6c9",
@@ -153,6 +111,10 @@
       "category": "法规与正式文件",
       "importance": "中",
       "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "数据采集记录将此UK ETS MRR指南标记为2026-11-03更新，但2026-11-04读取的GOV.UK该文官方页面更新日志仍显示最近一次实质更新为2026-05-05（废弃物自愿MRV排放因子附件修订）；英国UK ETS技术指南集合页则将MRR链接标为11月3日。两个官方页面的更新时间元数据不一致，未发现11月3日新增钢铁行业MRR规则或可核实文本差异。为避免把链接目录更新时间误报为政策修订，暂按证据不一致保留待核验。",
+      "review_evidence_url": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
+      "review_coverage": "2026-11-04核对MRR官方正文更新日志与UK ETS技术指南集合页，两处11月3日标记不一致；尚未取得文档版本差异，暂不认定新法规。",
       "published_date": "2026-11-03",
       "source_excerpt": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Monitoring and Reporting Regulation (MRR) 2018."
     },
@@ -181,7 +143,7 @@
       "published_at": "2026-11-07T08:05:00Z",
       "title_original": "Taiwan's China Steel Posts Second Straight Profitable Quarter, Nine-Month EPS of NT$0.05; December Prices Raised Another NT$300 to Erase Full-Year Loss",
       "first_seen": "2026-11-07T13:35:33Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "BigGo Finance",
@@ -200,7 +162,7 @@
       "published_at": "2026-11-07T06:57:20Z",
       "title_original": "大马对中台越钢铁产品 今起征临时反倾销税",
       "first_seen": "2026-11-07T13:35:33Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "China Press",
@@ -238,7 +200,7 @@
       "published_at": "2026-11-04T07:55:00Z",
       "title_original": "1.19亿吨之后：中国钢铁从规模出口转向高端与产能出海",
       "first_seen": "2026-11-07T13:35:33Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "QQ News",
@@ -257,7 +219,7 @@
       "published_at": "2026-11-06T11:44:50Z",
       "title_original": "Ecomondo 2026: EU steel competitiveness under pressure as ETS and CBAM reshape market dynamics",
       "first_seen": "2026-11-06T19:43:31Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "SteelOrbis",
@@ -276,7 +238,7 @@
       "published_at": "2026-11-05T14:29:14Z",
       "title_original": "Serbia's steel sector faces an estimated CBAM burden of EUR 89.1 million",
       "first_seen": "2026-11-06T19:43:31Z",
-      "last_seen": "2026-11-07T13:35:33Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "SteelRadar",
@@ -295,7 +257,7 @@
       "published_at": "2026-11-04T11:49:00Z",
       "title_original": "BHP (ASX:BHP) Share Price: RBA Hike, China Steel and Copper Demand Drivers for BHP Group",
       "first_seen": "2026-11-06T19:43:31Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "Kalkine",
@@ -314,7 +276,7 @@
       "published_at": "2026-11-02T17:46:00Z",
       "title_original": "China Steel Production Signals Shape Iron Ore Expectations",
       "first_seen": "2026-11-06T19:43:31Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "kalkine.ca",
@@ -333,7 +295,7 @@
       "published_at": "2026-11-06T09:21:00Z",
       "title_original": "CBAM Rules for Crediting 3rd Country Carbon Prices",
       "first_seen": "2026-11-06T14:38:14Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "Steel and Stainless Steel News",
@@ -352,7 +314,7 @@
       "published_at": "2026-11-06T08:33:32Z",
       "title_original": "Indonesia Tsingshan adjusts stainless steel export rates upward amid raw material cost pressure",
       "first_seen": "2026-11-06T14:38:14Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "Yieh Corp.",
@@ -371,7 +333,7 @@
       "published_at": "2026-11-05T08:45:00Z",
       "title_original": "Taiwan's China Steel Raises December Domestic Steel Prices by NT$300 Across the Board, Citing Stronger Global Steel Prices and Rising Export Orders",
       "first_seen": "2026-11-06T14:38:14Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "BigGo Finance",
@@ -428,7 +390,7 @@
       "published_at": "2026-11-05T17:49:17Z",
       "title_original": "CBAM boosting European steelmaker's earnings: CEO",
       "first_seen": "2026-11-05T20:18:56Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "Quantum Commodity Intelligence",
@@ -447,7 +409,7 @@
       "published_at": "2026-11-05T01:54:00Z",
       "title_original": "[SMM Stainless Steel Flash] Indonesia’s Krakatau Steel details stainless slab project with Tsingshan at Morowali",
       "first_seen": "2026-11-05T14:58:24Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "Shanghai Metals Market",
@@ -466,7 +428,7 @@
       "published_at": "2026-11-04T17:01:54Z",
       "title_original": "英国钢铁专题讨论警告：CBAM前进口激增或令港口承压- 新闻和统计",
       "first_seen": "2026-11-05T14:58:24Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -485,7 +447,7 @@
       "published_at": "2026-11-04T16:41:41Z",
       "title_original": "UK Metals Expo warns of port congestion ahead of CBAM as steel imports surge",
       "first_seen": "2026-11-05T14:58:24Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "Металлургпром",
@@ -523,7 +485,7 @@
       "published_at": "2026-11-04T10:33:16Z",
       "title_original": "China Steel Industry 2026: Output Falls 2.9% as Sector Pivots to High-Performance Steel",
       "first_seen": "2026-11-04T20:05:11Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -556,31 +518,12 @@
       "source_excerpt": "Turkish steel exporters and CARES sign cooperation agreement on EU and UK CBAM compliance SteelOrbis"
     },
     {
-      "id": "8b7e26c51941c9df12fc",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZRjhUMkpUM0NqSWdXQUxuM0ZENFU4YkVnRkkyZllfLUItOVVQZUZQaVl5OHZTaEg1UXFsMTBvNDJHMmtNdk45UGJOSERtTW90NmNQaEFjMVNEekZtejBITzNpWU0tTnpTa1kxTko4VFlYQdIBd0FVX3lxTE16eGV5MWd4clJDbEtxOGZzd1VuMWNMZjdVM0wzWjBKTlRRZS1FQm8wdHRweWdHanVNeUtHNklJekdrVFVUak9qZEtuQ2E2YVlzYXBsazB3MG5FS1IwQmVxazJ1Sm1XMEJwOVA3NURidWRaZFlFV05F?oc=5",
-      "published_at": "2026-11-04T11:05:15Z",
-      "title_original": "Taiwan plans to develop its own CBAM",
-      "first_seen": "2026-11-04T14:53:36Z",
-      "last_seen": "2026-11-07T17:52:31Z",
-      "source": {
-        "id": "rss",
-        "name": "GMK Center",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-04",
-      "source_excerpt": "Taiwan plans to develop its own CBAM GMK Center"
-    },
-    {
       "id": "f97346207e0a1bb3adc2",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOC1Bb01mMlJyT0tPZjVHM1p1aXpNSTR2eVZNTWtYeEV6eFJmVTdRZG14NWJ1amgwb1BmWkpTU0l3ZGlTSjRRSFBmUVozbGpyblBFdUVkeGxac0NkWkJzcnZGaVdUamlIeFplR2ZpNEIxLWZyaHJQcFltUkc1QTZ0eno3eUh2Y3JieTROczhMOWl3YUJkMG9XcDJFUmNIcTVrVmtKM29PTHQ1bzVQTTRkY3Z2c2lPVGNNelJUOHM5THJCdlk?oc=5",
       "published_at": "2026-11-04T11:01:18Z",
       "title_original": "China Property Starts at 2002 Levels: Iron Ore and Coking Coal Demand Outlook",
       "first_seen": "2026-11-04T14:53:36Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -599,7 +542,7 @@
       "published_at": "2026-11-04T10:33:16Z",
       "title_original": "2026年中国钢铁行业：产量下降2.9%，行业转向高性能钢材 - 新闻和统计",
       "first_seen": "2026-11-04T14:53:36Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -611,63 +554,6 @@
       "translation_state": "pending",
       "published_date": "2026-11-04",
       "source_excerpt": "2026年中国钢铁行业：产量下降2.9%，行业转向高性能钢材 - 新闻和统计 IndexBox"
-    },
-    {
-      "id": "fc4c1de356f1fb29e017",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3BLZ0Voam9ESlY5Q2hwU21vcFJMYk1Sb0RTMVozNDVDLUIxRDFrMVJKR2pQZFFBc0VtVU9FV3FxZDluNGtxbzN6bzJxUFJqS01sQU5yZEVGVmM1RzN1Q1BxS2VkcWVZX0psS05leFF5SGpDd25sdGVOa0VoSkZVVERPMWVpV0x0cEQ3RzJ6Ynk?oc=5",
-      "published_at": "2026-11-03T17:33:16Z",
-      "title_original": "Isometric Launches New CBAM Data Preparation and Reporting Service for Exporters",
-      "first_seen": "2026-11-04T14:53:36Z",
-      "last_seen": "2026-11-04T20:05:11Z",
-      "source": {
-        "id": "rss",
-        "name": "ESG Today",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-03",
-      "source_excerpt": "Isometric Launches New CBAM Data Preparation and Reporting Service for Exporters ESG Today"
-    },
-    {
-      "id": "4e1879d330adea9c2f7d",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHJ1S1I3RmFKNHowTW50VFlsZkdRdi1uNzZuNjVPWW5DYTVmUVBiVUNXbmttS3ZueDlFRWpxVzRvdERWRy02VWdoWmVLbHdWUm5ZeGlNSVFtWnQ0ZkI5LU1CT0pPRFRGTFNvMlFOZG1qcXZXWGtqb19VSGpkcFE0by1pNXN3ZXFzVU1VLXRvenBueGctRlNvdmFiZ3BNX1pLeFlGZ1hFV0hEZHM?oc=5",
-      "published_at": "2026-11-03T16:58:51Z",
-      "title_original": "Isometric launches new CBAM support service for companies",
-      "first_seen": "2026-11-03T19:51:08Z",
-      "last_seen": "2026-11-05T14:58:24Z",
-      "source": {
-        "id": "rss",
-        "name": "Quantum Commodity Intelligence",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-03",
-      "source_excerpt": "Isometric launches new CBAM support service for companies Quantum Commodity Intelligence"
-    },
-    {
-      "id": "7a8f2b50edc7bed696a3",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RNWNIelllWUlheVp6MEVNU1IxVlhxdzlXSUZrU2Z6T1djNE41dTNtZkJ6SFhMOWVadDMzWkNXX0hyU3hDdmkzdUktbnQyZ2dKNVlMUUNBZlVuYWxTTE1aMkhNc0d6eGhPV2Q2dnNxSFhmTGN3OFpUQkZ1RQ?oc=5",
-      "published_at": "2026-11-03T14:46:32Z",
-      "title_original": "Isometric launch CBAM verification service",
-      "first_seen": "2026-11-03T16:04:49Z",
-      "last_seen": "2026-11-03T19:51:08Z",
-      "source": {
-        "id": "rss",
-        "name": "Agg-Net",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-03",
-      "source_excerpt": "Isometric launch CBAM verification service Agg-Net"
     },
     {
       "id": "f20fbb3208958801a992",
@@ -713,7 +599,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -736,7 +622,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -759,7 +645,7 @@
       "published_at": "2026-11-02T17:02:28Z",
       "title_original": "Tube costs rise, but the CBAM outlook eases",
       "first_seen": "2026-11-02T21:57:19Z",
-      "last_seen": "2026-11-06T19:43:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "Scaffmag",
@@ -847,7 +733,7 @@
       "published_at": "2026-11-01T07:00:00Z",
       "title_original": "中国钢材出口遇难，20多国接连设限，钢铁行业进入寒冬",
       "first_seen": "2026-10-28T18:31:59Z",
-      "last_seen": "2026-11-07T17:52:31Z",
+      "last_seen": "2026-11-07T21:20:17Z",
       "source": {
         "id": "rss",
         "name": "搜狐网",
