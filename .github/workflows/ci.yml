@@ -21,6 +21,29 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: python -m pip install -e ".[dev]"
+      - name: 校验编辑及分类记录的来源版本唯一性
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          for name in ("editorial", "triage"):
+              filename = Path("config") / (name + ".json")
+              entries = json.loads(filename.read_text(encoding="utf-8"))
+              if not isinstance(entries, list):
+                  raise SystemExit(f"{filename}: root must be a list")
+              seen = set()
+              for idx, entry in enumerate(entries, 1):
+                  if not isinstance(entry, dict):
+                      raise SystemExit(f"{filename}:{idx}: expected an object")
+                  key = (entry.get("url"), entry.get("published_date"))
+                  if not all(isinstance(v, str) and v.strip() for v in key):
+                      raise SystemExit(f"{filename}:{idx}: source URL/date missing")
+                  if key in seen:
+                      raise SystemExit(f"{filename}:{idx}: duplicated URL + published_date: {key}")
+                  seen.add(key)
+              print(f"{filename}: {len(entries)} unique source versions")
+          PY
       - run: ruff check steelwatch tests scripts
       - run: pytest
       - run: python -m steelwatch render
