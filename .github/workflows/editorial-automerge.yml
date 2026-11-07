@@ -6,6 +6,7 @@ on:
     types: [completed]
 
 permissions:
+  actions: write
   contents: write
   pull-requests: write
 
@@ -96,3 +97,9 @@ jobs:
               return;
             }
             core.info("MERGED editorial PR #" + number + ": " + data.sha);
+            // A merge made with GITHUB_TOKEN does not trigger a push workflow.
+            // Explicitly dispatch the existing update+Pages pipeline after success.
+            await github.rest.actions.createWorkflowDispatch({
+              owner, repo, workflow_id: "update-and-deploy.yml", ref: "main",
+            });
+            core.info("DISPATCHED update-and-deploy.yml after editorial PR #" + number);
