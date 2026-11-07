@@ -1228,11 +1228,12 @@
     "published_date": "2026-11-05",
     "decision": "duplicate",
     "title_zh": "SteelOrbis台湾地区CBAM拟议报道与11月4日已核验政策规划重复",
-    "reason_zh": "台湾地区拟研议CBAM和ETS的内容与此前GMK报道及环境主管部门政策材料属于同一规划事件，没有新税率、正式生效时间或独立可核实更新。",
+    "reason_zh": "台湾地区拟研议CBAM和ETS的内容与此前GMK报道及环境主管部门政策材料属于同一规划事件，没有新税率、正式生效时间或独立可核实更新。 已指定11月4日原始核验主条为重复归并目标。",
     "reason_en": "Duplicate coverage of the same previously reviewed event; no independent new evidence.",
     "attempted_at": "2026-11-07",
     "evidence_url": "https://service.moenv.gov.tw/File/Get/moenv-en/en/O0vVnHvz47cIhJu",
-    "coverage": "2026-11-07对照SteelOrbis 11月5日标题与已核验台湾环境部门政策材料，未找到正式钢铁CBAM新规。"
+    "coverage": "2026-11-07对照SteelOrbis 11月5日标题与已核验台湾环境部门政策材料，未找到正式钢铁CBAM新规。",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZRjhUMkpUM0NqSWdXQUxuM0ZENFU4YkVnRkkyZllfLUItOVVQZUZQaVl5OHZTaEg1UXFsMTBvNDJHMmtNdk45UGJOSERtTW90NmNQaEFjMVNEekZtejBITzNpWU0tTnpTa1kxTko4VFlYQdIBd0FVX3lxTE16eGV5MWd4clJDbEtxOGZzd1VuMWNMZjdVM0wzWjBKTlRRZS1FQm8wdHRweWdHanVNeUtHNklJekdrVFVUak9qZEtuQ2E2YVlzYXBsazB3MG5FS1IwQmVxazJ1Sm1XMEJwOVA3NURidWRaZFlFV05F?oc=5"
   },
   {
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnJXRUdNbnp3c2MxVzRwS0ZhMHZtdU9oVWFWWTZVeWMyMEFoLU4zWnBxbjlfbTBtMGlvdUtyQndiTFN6aDdSTzlYeDI3Q3ZGOHlaN1FZVTMwbEIxZm5aYjdvNkRod3FoWkJZQjZ5QjB5LV80OUM3VGFEUmY3bHpndkRfV2RZUHVWcXVCTU5fa3ZnSEtCUlQxWXVTb19tX00?oc=5",
@@ -1326,5 +1327,17 @@
     "attempted_at": "2026-11-07",
     "evidence_url": "https://www.defensoriadian.gov.co/al-dia-con-la-normativa/",
     "coverage": "有限覆盖（2026-11-02下午复核）：官方法规汇总确认第00695号决议立案；公开法规转载补充申请方主张的155%／28%倾销幅度，10月23日公告补充30个工作日参与窗口。仍未取得稳定可读的MinCIT原始决议、问卷和期限计算规则，继续计入待全文核验。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMVJkX29MSnQ0b1J1eEpzM1Z1dkJGbXAtSEV0Z1ZmNk1EQUNqZDZ3YmxaQkV3WGRkUXo4ZHRxeUxMdktEVjhNU0RTZHZjbDRhTGYxQjNIY1AxSWg2RUxHVkY5bDZNcmsyRTdselBLNi1PM1Z5c1oteVZHUmU4WXdua3lR?oc=5",
+    "published_date": "2026-11-06",
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUUowZldTdkhVWGJPUGp1cDBJd1huZTd2b3Q5cG1ZRjFJbmxTX0Z0T05NeDFsYXBxbjNOdmNqRHp3a01ISG5GVXV2d1B5Z0RGcDhVdmRxaTJKcjNoRFNEZ3FGdVk0cTFBNUVaUE1HOHotS2dWRU8tMU9XcHdwU3RlQTJvbnNxUzNEMDNHOVdMMnMwRUF0WGQtaUlxc9IBoAFBVV95cUxPU1NhUUxuN2JpNEo5UjB6bGxkazJfcHc4SF9vdmVTTFRJcGZpSzlGUFJaT3JQajF0c1VhWVdCR1VOOVhNa1pRSmk2VTdabWZ5SXV1cG5wQWs5SnAtZDFocWQtMzJZTjBVSy16N0hfaGpCdWVGYURvNmVaVEFTRklsVkJDQllSbWxJd2o3N3dmVzNrUkotNEVBSmpycWxKeUtm?oc=5",
+    "title_zh": "中国日报钢铁高质量发展报道与已核验行业研判同源",
+    "reason_zh": "该待办原题与中国日报11月4日《Steel sector shifts to high-quality development amid market headwinds》一致，引用2026年前三季度粗钢7.25亿吨（-2.9%）、表观消费6.25亿吨（-3.8%）及重点钢企利润718亿元（-27.4%）。这些已在11月4日GMK Center引用中国日报及中钢协数据的已核验主条中覆盖。采集队列标为11月6日，但公开原始转载显示11月4日；保留来源版本日期差异说明，无新增独立政策。",
+    "reason_en": "The China Daily story appears dated 4 Nov in original indexes, while this feed record is dated 6 Nov; its CISA statistics and quality-driven development coverage are already verified by the GMK Center main editorial item, with no independent new regulatory fact.",
+    "attempted_at": "2026-11-07",
+    "evidence_url": "https://nsteel.com/news_detail.php?id=2069",
+    "coverage": "2026-11-07核对同标题的中国日报媒体索引及11月4日NSTEEL转载，并与已核验GMK主条的CISA数据逐项一致；原始RSS发布日期与索引日期不一致，仅同事件去重。"
   }
 ]
