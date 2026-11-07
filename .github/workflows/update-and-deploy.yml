@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - ".github/workflows/update-and-deploy.yml"
+      - ".github/workflows/editorial-automerge.yml"
       - "config/**"
       - "docs/index.html"
       - "docs/app.js"
