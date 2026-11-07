@@ -6573,5 +6573,34 @@
     "follow_up": "待HMRC公布最终税率后按对应管材代码、排放数据与报关日期重算英国到岸价。",
     "evidence_url": "https://scaffmag.com/features/opinion/tube-costs-cbam-outlook-trevor-inns-november-2026/",
     "coverage": "2026-11-07核对Scaffmag 11月2日作者原文、其指数定义和HMRC的CBAM起始日期；作者估算仅作商业情景参考。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13dUdBektzT2Vnbl93UFNodXFaZE5xUlRBSEFjWE5vVkRqbmlhQm5rZkxwd1padEVkTk5DWmNhYXpLcnNoaTdFOXBlYVFoS29BcFNsc2sxSks2MVI4ZC1CbWRIODRpN2FzdWhhTUpXUUlBc0NNWGc?oc=5",
+    "published_date": "2026-11-07",
+    "reviewed_at": "2026-11-07",
+    "title_zh": "台湾中钢前三季度每股盈余0.05新台币，连两季获利并上调12月内销价",
+    "title_en": "Taiwan CSC reports nine-month EPS of NT$0.05 and two profitable quarters",
+    "summary_zh": "【事实】台湾中国钢铁公司（CSC）披露2026年第三季净利润约11.21亿新台币、基本每股盈余0.07；前三季净利润约7.44亿新台币、基本每股盈余0.05，较上年同期净亏损转正。Yieh Corp报道称中钢连续两个季度实现盈利，并将2026年12月月盘价每吨上调300新台币。财务业绩为已报告结果，12月价格调整属于内销报价，不能据此推断出口报价全线涨价。",
+    "summary_en": "CSC reported Q3 net income near NT$1.121bn and nine-month net income near NT$743.7m, with nine-month EPS NT$0.05, turning from a prior-year loss. Reports also cite a NT$300/t rise in December domestic monthly steel prices.",
+    "impact_zh": "【研判】台湾主要钢厂盈利转正及连续调价可能提高东亚板卷报价韧性，但仍需分品种核对中国大陆钢厂对出口市场的竞争影响。",
+    "impact_en": "Stronger regional mill financials may support Asian steel quotes, but export pricing must be verified by product.",
+    "category": "市场与企业",
+    "status": "财务披露／市场报价",
+    "importance": "中",
+    "tags": [
+      "台湾中钢",
+      "业绩",
+      "每股盈余",
+      "钢价"
+    ],
+    "tags_en": [
+      "Taiwan CSC",
+      "earnings",
+      "EPS",
+      "steel prices"
+    ],
+    "follow_up": "跟踪台湾中钢原始公告、月度价格及中国出口市场实际成交价。",
+    "evidence_url": "https://www.marketscreener.com/news/china-steel-corporation-reports-earnings-results-for-the-third-quarter-and-nine-months-ended-septemb-ce785fd2dd8afe25",
+    "coverage": "2026-11-07核对MarketScreener对CSC三季度及前三季度披露数字、Yieh Corp 11月6日连续盈利及12月调价报道；不直接把二次报道视为正式法定价格或出口公告。"
   }
 ]
