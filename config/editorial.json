@@ -6158,5 +6158,211 @@
     "follow_up": "【待确认】逐一核对公告企业清单、具体产品范围和美国进口商申报记录；受影响企业应立即核对2026-11-19左右的14日申请期限，法定计算、周末及电子提交要求以美国商务部程序为准。",
     "evidence_url": "https://www.federalregister.gov/documents/2026/11/05/2026-22629/initiation-of-antidumping-and-countervailing-duty-administrative-reviews",
     "coverage": "2026-11-06读取美国联邦公报公告全文的启动说明、程序期限、复审产品及中国钢制货架A-570-088/镁碳砖A-570-954列表；未逐一验证所有被列名企业或各产品HS/HTS细分税号，不宣称最终税率变化。"
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/11/06/2026-22658/steel-wire-garment-hangers-from-the-peoples-republic-of-china-and-the-socialist-republic-of-vietnam",
+    "published_date": "2026-11-06",
+    "reviewed_at": "2026-11-07",
+    "title_zh": "美国对柬埔寨加工的中越钢丝衣架作出反规避肯定终裁",
+    "title_en": "US final circumvention finding on wire hangers finished in Cambodia with Chinese/Vietnamese inputs",
+    "summary_zh": "【事实】美国商务部2026年11月6日联邦公报文号2026-22658（91 FR 70055）认定：使用中国或越南生产的钢丝，或钢丝及纸质附件，在柬埔寨完成制造并出口美国的钢丝衣架，构成规避原有中国反倾销令或越南反倾销/反补贴令。美国海关继续对2025年8月12日及以后尚未最终清算的相关进口暂停清算并收取保证金。涉案命令A-570-918、A-552-812、C-552-813；并非对全部钢丝或钢卷出口新征税。",
+    "summary_en": "Commerce's final 6 Nov 2026 decision (FR 2026-22658) finds Cambodia-finished wire garment hangers using Chinese or Vietnamese wire inputs circumvent existing AD/CVD orders; CBP continues suspension and cash deposits for relevant unliquidated entries from 12 Aug 2025. It is not a blanket duty on wire or flat steel.",
+    "impact_zh": "【研判】涉及中国钢丝—柬埔寨衣架加工—美国进口链条的客户应立即梳理投入原产地、最终用途和进口批次；普通钢卷/钢丝并不因本案自动纳入衣架税令。需以文字产品范围为准，而非仅凭HTS归类。",
+    "impact_en": "Review Cambodia assembly and US entry records if supplying hanger wire; distinguish covered hangers from standalone steel inputs.",
+    "category": "贸易救济",
+    "status": "反规避终裁／继续保证金",
+    "importance": "高",
+    "tags": [
+      "美国",
+      "反规避",
+      "柬埔寨",
+      "钢丝衣架"
+    ],
+    "tags_en": [
+      "US",
+      "circumvention",
+      "Cambodia",
+      "steel hangers"
+    ],
+    "follow_up": "核对美国进口商的2025-08-12后尚未结关货物、AD/CVD命令及具体产品文字范围；必要时请美国海关律师确认。",
+    "evidence_url": "https://www.federalregister.gov/documents/2026/11/06/2026-22658/steel-wire-garment-hangers-from-the-peoples-republic-of-china-and-the-socialist-republic-of-vietnam",
+    "coverage": "2026-11-07核对Federal Register文号2026-22658全文的终裁结论、生效日及清算/保证金段落，并用Justia政府公报转载核对；未逐家核查全部生产商和例外清单。"
+  },
+  {
+    "url": "https://taxation-customs.ec.europa.eu/document/download/f88a93fa-a9f7-4c9c-8d9a-4aafb5117153_en?filename=Guidance_+Import+of+electricity+and+natural+gas+under+CCI_final+ver.+12_10_2026.pdf",
+    "published_date": "2026-10-22",
+    "reviewed_at": "2026-11-07",
+    "title_zh": "欧盟发布电力集中进口清关指南，说明CCI与CBAM申报衔接",
+    "title_en": "EU publishes CCI guidance for electricity imports and CBAM interface",
+    "summary_zh": "【事实】欧盟税务与海关总司发布集中进口清关（CCI）框架下电力进口操作指南，涉及集中申报、记入申报人记录（EIDR）、授权及监督，并说明电力进口的CBAM合规衔接。属于进口手续技术指南，不是对钢材新设CBAM税率，也不等于新增钢铁HS商品范围。",
+    "summary_en": "The Commission's customs guidance explains centralised clearance and entry-in-records procedures for electricity imports and interfaces with CBAM. It concerns electricity customs handling, not a new steel CBAM levy or changed steel tariff codes.",
+    "impact_zh": "【研判】直接影响电力进口商；钢铁出口商可借鉴报关数据与CBAM授权衔接，但不应将电力指引直接套用板坯、热卷或镀锌卷。",
+    "impact_en": "Relevant directly to electricity importers; steel traders should not transfer electricity-specific rules to steel customs codes.",
+    "category": "CBAM及海关",
+    "status": "技术指引／非钢材新措施",
+    "importance": "低",
+    "tags": [
+      "欧盟",
+      "CCI",
+      "CBAM",
+      "电力进口"
+    ],
+    "tags_en": [
+      "EU",
+      "CCI",
+      "CBAM",
+      "electricity"
+    ],
+    "follow_up": "电力进口项目可查阅CCI/EIDR操作流程；钢材进出口继续按适用的钢材报关及CBAM规则执行。",
+    "evidence_url": "https://taxation-customs.ec.europa.eu/customs/customs-procedures-import-and-export/centralised-clearance-import_en",
+    "coverage": "2026-11-07核对DG TAXUD官方CCI指南说明页及2026-10-22条目；未逐页核对下载PDF的所有程序细节，限于目录和适用范围核验。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOMnpRUUdaMjlXMWNpYzI2U09VY1M5eE95cFNQd2ZJV0tCcjVSYXhUblhSeHlwZzVQOEFlQ3dXUmI0ZXdSME1DRjRFdlA2SjNod3ZjcWRpSm9QbjM4anZxN2tTelNWTTlPd3JLNG03Ty1qWk1jQUllbFo4cGh6YVhLTTlaa1c4YlI5aUxtbU1udUpQa3JZN3htSXI3ZzhIV0hBZEdFd2pLM3A4eWZSMVJHbFpJSVBZQm9vX3VzbUsybFFsQm5weWs3UEdRVmxHMlRMU0RyMDcxVzNZc3RCRE01azVQQzlLXzloYUcySk10dXotVEx5ZEVWYkFYRnhQRVQ2enVIbFhmSjk4T0JLajBmRGtYRXFPS21TOWIxUWlKY2Y0UEpBM2trSll5M0FRd0tyYnpRTnZlaw?oc=5",
+    "published_date": "2026-11-07",
+    "reviewed_at": "2026-11-07",
+    "title_zh": "马来西亚11月7日起对中国等地镀铝锌板实施4.41%—35.06%临时反倾销措施",
+    "title_en": "Malaysia applies 4.41–35.06% provisional AD duties on Al-Zn coated flat steel",
+    "summary_zh": "【事实】马来西亚投资、贸易及工业部（MITI）据11月7日官方声明，经初步肯定裁定，对原产或出口自中国大陆、中国台湾和越南的镀铝锌其他合金及非合金钢扁轧制品实施临时反倾销措施，整体幅度4.41%—35.06%，期限最长120日，预计最迟2027年3月6日作终裁。该幅度是涉案来源/企业区间，不能统一套用到每家中国钢厂。MITI贸易救济门户登记案号AD01/26，列示7210.61、7212.50及部分7225/7226等具体税号。",
+    "summary_en": "MITI imposed provisional AD measures on certain Al-Zn coated alloy/non-alloy flat steel from mainland China, Taiwan and Vietnam from 7 Nov 2026, with reported rates of 4.41–35.06% for up to 120 days; the final decision is expected by 6 Mar 2027. Case AD01/26 lists specific national tariff subheadings. Producer-specific rates need the formal notice.",
+    "impact_zh": "【研判】直接关系中国镀铝锌卷出口马来西亚报价与在途订单。立即核对具体钢种、涂层、HS细分码、出口商税率及担保方式；不得把4.41%或35.06%当作所有供应商统一税率。",
+    "impact_en": "Immediate quotation and in-transit exposure for Al-Zn coated steel; confirm exporter-specific margins, tariff lines and entry dates.",
+    "category": "贸易救济",
+    "status": "临时反倾销措施生效",
+    "importance": "高",
+    "tags": [
+      "马来西亚",
+      "镀铝锌",
+      "反倾销",
+      "临时税",
+      "2027年3月"
+    ],
+    "tags_en": [
+      "Malaysia",
+      "Al-Zn steel",
+      "antidumping",
+      "provisional duty"
+    ],
+    "follow_up": "索取MITI正式初裁税率附件，逐厂确认税率、最终产品范围和在途清关安排；跟踪2027-03-06前终裁。",
+    "evidence_url": "https://traderemedies.miti.gov.my/public/publication",
+    "coverage": "2026-11-07核对马来西亚MITI贸易救济门户AD01/26产品税号和马来西亚国家通讯社Bernama同日所引MITI公告；4.41%—35.06%为总体区间，尚未取得企业逐项税率附件。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPazNKbHByQVg3YmtlQldyblhkZ20zYXZUQXVMUGFuOWVOdVFMOWw5VFVaMHlLbFh6c245eUlzQUp5RzFLSG1zMGV1bldKZmFvSHJQZXczRFJoTlF4Wm14Y3JBSE1WTjlGUWJNRzRzNEt5TGdlemdqZXJTNUxwY01SUlFJTnRrY052amNuM3JEYjZPUVHSAZgBQVVfeXFMTkFQU2s3d3FjMjZaTm1ac1FSbEJoaDdoYVFuZGwzUjd0TnIzdWZLdW53d0NxbEpQRVNqQkIzTjNmY1V2NVdTY0NSZE5EV3YtaWFsRS1PNWYxd1J5RzFyY1ZLUHFONjdncmRjZ0gxMnFDNnRyUXFiTEVpQjl3TGlwMmNNQTRYMHJkQnhEQ1cyUnh3c3ZTbVBFenA?oc=5",
+    "published_date": "2026-11-06",
+    "reviewed_at": "2026-11-07",
+    "title_zh": "塞尔维亚财政战略预计2026年EU CBAM影响约1.402亿欧元，其中钢铁约8910万",
+    "title_en": "Serbian fiscal strategy projects €140.2m CBAM exposure in 2026, €89.1m for steel",
+    "summary_zh": "【事实】塞尔维亚政府《2027年财政战略及2028—2029预测》附录估计，假定未获认可的本地碳定价机制、维持2025年出口水平、默认排放值及每吨75.36欧元碳价时，2026年出口EU的CBAM影响约1.402亿欧元，其中钢铁约8910万、铝约1950万、电力约2180万；预计钢铁部分2029年约1.085亿欧元。这是情景预测，不是实缴税款，也不是对中国钢材征税公告。",
+    "summary_en": "Serbia's official fiscal strategy estimates €140.2m of 2026 EU CBAM exposure under baseline assumptions, with €89.1m attributed to iron and steel, €19.5m to aluminium and €21.8m to electricity. These are scenario estimates, not assessed taxes.",
+    "impact_zh": "【研判】对在塞尔维亚加工并向欧盟出售钢材的合作伙伴有成本参考价值，实际责任须使用工厂核实排放、配额及碳价。禁止简单按8910万欧元除吨数作为统一钢材CBAM税率。",
+    "impact_en": "Benchmark for Serbian steel value chains, not a universal per-ton levy; verify plant emissions and importer allocation.",
+    "category": "CBAM与区域市场",
+    "status": "官方预测／非实际税额",
+    "importance": "高",
+    "tags": [
+      "塞尔维亚",
+      "CBAM",
+      "钢铁",
+      "财政战略"
+    ],
+    "tags_en": [
+      "Serbia",
+      "CBAM",
+      "steel",
+      "fiscal strategy"
+    ],
+    "follow_up": "对塞尔维亚钢铁客户询问实际排放、进口CBAM申报主体及本地碳价抵扣条件；与具体合同成本模型比较。",
+    "evidence_url": "https://www.mfin.gov.rs/upload/media/hflMs1_6a2fdfb5335d3.pdf",
+    "coverage": "2026-11-07交叉核对GMK Center 11月6日报道及塞尔维亚财政战略附录5网页可检索文字/情景图；PDF页图加载超时，数字按已可检索的政府文本范围核对。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRjVaTDlHclNvaXo3ZTNTTktHTF9fMk9sT3dYRE9xc3NSWmN6cWVLTXNodUpubm9uQVg3X1l2YmJRNW1hWWFxR20ySUJpUWNyYm5JamZHOWFQNzZLSXRkM2RraFRUa3FnYlZFVzB4aF9Calh3V3RVY2FiRUpmRExYeVlidVhIVHByYTlraHlhX0VHaFhqa01nb242Q0NSU19WSVlKc19pN25hOG4yYzhUeTh3Uld1ajhNMENlTTNaUmtsTUxUVm04bm10c2RxdjZ1ZEN6NzJEM1hKZkRyM0IyUVFoYWExWXphMEJZ?oc=5",
+    "published_date": "2026-11-06",
+    "reviewed_at": "2026-11-07",
+    "title_zh": "意大利Ecomondo讨论欧盟CBAM与50%配额外税对钢材产业链的双向影响",
+    "title_en": "Ecomondo speakers weigh EU CBAM and 50% out-of-quota steel duty",
+    "summary_zh": "【事实】11月5日意大利Ecomondo活动上，siderweb及RICREA组织行业讨论，指出EU ETS免费配额逐步退出、CBAM和新钢铁进口限制将改变生产商、贸易商及下游加工商成本。与会者认为进口压力减弱可能改善欧盟钢厂盈利，但能源、碳成本和下游竞争力仍受挤压。欧盟委员会官方文件确认2026年7月1日起年度免税钢材配额1830万吨，配额外税率50%。会议观点不等于新增法规。",
+    "summary_en": "At the 5 Nov Ecomondo industry conference, speakers said EU CBAM, phased ETS free-allocation changes and tighter steel trade measures may support mills but increase downstream costs. Official EU guidance confirms the 18.3 Mt annual quota and 50% above-quota duty effective 1 July 2026; the conference itself created no new law.",
+    "impact_zh": "【研判】欧洲钢贸与加工中心可能面临库存成本、碳成本及替代进口制品压力，首钢钢卷订单应同时评估配额、CBAM和终端客户定价权。",
+    "impact_en": "Assess combined quota, CBAM and distributor margin effects instead of treating conference views as legal amendments.",
+    "category": "欧盟贸易与CBAM",
+    "status": "行业研判／既有法规",
+    "importance": "中",
+    "tags": [
+      "欧盟",
+      "Ecomondo",
+      "CBAM",
+      "ETS",
+      "配额"
+    ],
+    "tags_en": [
+      "EU",
+      "Ecomondo",
+      "CBAM",
+      "ETS",
+      "quota"
+    ],
+    "follow_up": "与德国、意大利钢贸客户确认2027年报价能否转嫁配额外关税和CBAM；以欧盟最新法条核对实际产品范围。",
+    "evidence_url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/protecting-eu-steelmaking_en",
+    "coverage": "2026-11-07阅读全文核对SteelOrbis 11月6日Ecomondo报道，并交叉查验欧委会官方钢铁新措施页面；演讲意见明确标为行业观点。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY1JwWmV0UGwzdzR5SkdlZ0hfVkFHdFo4YkhEVDQ0VmlvQVZiVmRMdkZYWlAtYlNvTVMyb1F4LXZCRDM5bzBHamFZYVR4WmVfbXNVa3p0VWVlUmlwSXlYZ0ZHc1RDS2RWeWNmb3dydDZ4alhLbjZvdm9PNHIwYWpUWDlqb05wclhMdDlfaWJ2OGtrTTdvLUxYMk5lWjVqQ1I4el9sMmN2MVNwWUVUNnI1OVYwYWFWQ1lveWZrX000OUxweS1RaXc?oc=5",
+    "published_date": "2026-11-06",
+    "reviewed_at": "2026-11-07",
+    "title_zh": "印尼青山11月6日上调不锈钢出口报价每吨40美元",
+    "title_en": "Indonesia Tsingshan raises stainless export offers by US$40/t",
+    "summary_zh": "【事实】Yieh Corp 11月6日报道，印尼青山将不锈钢出口报价提高40美元/吨，报道认为主要因镍及镍铁成本上升；伦敦金属交易所三个月期镍期价一度超过16200美元/吨。属于企业报价和市场报道，不是印尼出口关税调整。",
+    "summary_en": "Yieh reported on 6 Nov that Indonesia Tsingshan raised its stainless export offer by US$40/t amid higher nickel-related feedstock costs. This is a market quotation move, not an export-tax change.",
+    "impact_zh": "【研判】短期对亚洲不锈钢采购价提供成本支撑参考，但下游接单能力和实际成交价仍待验证；不可推导普碳板卷同步涨价。",
+    "impact_en": "Track stainless transaction prices and nickel feedstock; avoid extrapolating to carbon-steel coils.",
+    "category": "市场与企业",
+    "status": "报价变动／市场报道",
+    "importance": "低",
+    "tags": [
+      "印尼",
+      "青山",
+      "不锈钢",
+      "镍价"
+    ],
+    "tags_en": [
+      "Indonesia",
+      "Tsingshan",
+      "stainless",
+      "nickel"
+    ],
+    "follow_up": "关注镍价走势与印尼不锈钢订单确认价，区分报价和实际成交。",
+    "evidence_url": "https://yieh.com/en/News/indonesia-tsingshan-adjusts-stainless-steel-export-rates-upward-amid-raw-material-cost-pressure/163297",
+    "coverage": "2026-11-07阅读全文核对Yieh Corp 11月6日原始报道；未获得青山直接报价单或成交合同，按市场消息有限覆盖。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSZU5xdjFIako5UWVReHVTT0xVWjlZQ0ljaWFDSW9IZ0prOU9ZV2I4YU5sNW81M1lqX3RGaU1ZQmZlRDJ6VHl1R2dtVmkzazd1OUdhMlh2bkZYV19JY0szdXhHQUIzS1VxOVVSVWRkcUVUc2NkVWc?oc=5",
+    "published_date": "2026-11-05",
+    "reviewed_at": "2026-11-07",
+    "title_zh": "台湾中钢12月内销热冷轧、镀锌产品月价每吨上调300新台币",
+    "title_en": "Taiwan CSC raises Dec domestic HRC, CRC and coated steel by NT$300/t",
+    "summary_zh": "【事实】Yieh Corp 11月5日报道，台湾中国钢铁公司（CSC）宣布2026年12月月度计价产品统一上调300新台币/吨，涉及一般热轧板卷、轧制用热卷、一般冷轧卷、电镀锌及建筑/预涂用途热镀锌产品。报道归因于国际价格、出口订单及新台币变化。该信息是台湾内销定价，不是台湾进口税率变更。",
+    "summary_en": "Yieh reported CSC's NT$300/t Dec 2026 monthly domestic price increase for selected HRC, CRC, electrogalvanized and hot-dip galvanized products. The announcement concerns domestic prices, not Taiwan import duties.",
+    "impact_zh": "【研判】对东亚镀锌、冷轧卷价格谈判具有区域市场参考意义，但需单独核实出口报价和中国大陆客户竞争状态。",
+    "impact_en": "Use as regional pricing context, not as a direct export-price or tariff adjustment.",
+    "category": "市场与企业",
+    "status": "月度价格公告",
+    "importance": "中",
+    "tags": [
+      "台湾中钢",
+      "热卷",
+      "冷轧",
+      "镀锌"
+    ],
+    "tags_en": [
+      "CSC",
+      "HRC",
+      "CRC",
+      "coated steel"
+    ],
+    "follow_up": "跟踪台湾中钢后续出口盘价及东南亚终端接单情况。",
+    "evidence_url": "https://www.yieh.com/en/News/taiwans-csc-raises-december-domestic-steel-prices-by-nt300-per-ton/163269",
+    "coverage": "2026-11-07读取Yieh Corp 11月5日原始逐产品报价报道，另核对11月7日二次报道；尚未见CSC原始月度盘价新闻稿。"
   }
 ]
