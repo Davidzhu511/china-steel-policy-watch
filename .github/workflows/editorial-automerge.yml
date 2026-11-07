@@ -1,0 +1,98 @@
+name: 自动合并已通过CI的编辑PR
+
+on:
+  workflow_run:
+    workflows: ["程序检查"]
+    types: [completed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+# Avoid racing with the data-generation and Pages deployment workflow.
+concurrency:
+  group: steelwatch-pages
+  cancel-in-progress: false
+
+jobs:
+  merge-editorial:
+    if: >-
+      github.event.workflow_run.conclusion == 'success' &&
+      github.event.workflow_run.event == 'pull_request' &&
+      github.event.workflow_run.head_repository.full_name == github.repository &&
+      startsWith(github.event.workflow_run.head_branch, 'editorial/')
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - name: 仅合并本仓库经过验证的纯编辑PR
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const run = context.payload.workflow_run;
+            const currentRepo = owner + "/" + repo;
+            if (run.conclusion !== "success" || run.event !== "pull_request" ||
+                run.head_repository?.full_name !== currentRepo ||
+                !run.head_branch?.startsWith("editorial/")) {
+              core.info("Not an eligible editorial CI run.");
+              return;
+            }
+
+            // workflow_run.pull_requests can legitimately be empty. Resolve by head.
+            const prs = await github.paginate(github.rest.pulls.list, {
+              owner, repo, state: "open",
+              head: owner + ":" + run.head_branch, per_page: 100,
+            });
+            const matches = prs.filter(pr =>
+              pr.base.ref === "main" &&
+              pr.head.repo?.full_name === currentRepo &&
+              pr.head.sha === run.head_sha
+            );
+            if (matches.length === 0) {
+              core.info("No open PR matching the successful CI head SHA.");
+              return;
+            }
+            if (matches.length !== 1) {
+              core.setFailed("Ambiguous multiple editorial PRs for one head SHA.");
+              return;
+            }
+
+            const number = matches[0].number;
+            const changed = await github.paginate(github.rest.pulls.listFiles, {
+              owner, repo, pull_number: number, per_page: 100,
+            });
+            const allowed = new Set(["config/editorial.json", "config/triage.json"]);
+            if (!changed.length || changed.some(file =>
+                !allowed.has(file.filename) || file.status === "removed")) {
+              core.warning("PR #" + number + " touches non-editorial files; manual review required.");
+              return;
+            }
+
+            let pr;
+            for (let attempt = 0; attempt < 5; attempt++) {
+              ({ data: pr } = await github.rest.pulls.get({ owner, repo, pull_number: number }));
+              if (pr.state !== "open" || pr.head.sha !== run.head_sha ||
+                  pr.base.ref !== "main" || pr.head.repo?.full_name !== currentRepo) {
+                core.warning("PR identity changed; skipping automatic merge.");
+                return;
+              }
+              if (pr.mergeable !== null) break;
+              await new Promise(resolve => setTimeout(resolve, 4000));
+            }
+            if (pr.mergeable !== true) {
+              core.warning("PR #" + number + " is not confirmed mergeable (" +
+                           pr.mergeable_state + "); retaining for review.");
+              return;
+            }
+
+            // GitHub compares SHA atomically and rejects a changed PR head.
+            const { data } = await github.rest.pulls.merge({
+              owner, repo, pull_number: number, sha: run.head_sha,
+              merge_method: "squash",
+              commit_title: "editorial: publish verified reviews (#" + number + ")",
+            });
+            if (!data.merged) {
+              core.setFailed("GitHub did not confirm editorial PR merge.");
+              return;
+            }
+            core.info("MERGED editorial PR #" + number + ": " + data.sha);
