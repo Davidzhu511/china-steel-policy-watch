@@ -1110,5 +1110,37 @@
     "attempted_at": "2026-11-03",
     "evidence_url": "https://cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189638&type=",
     "coverage": "有限覆盖：2026-11-03已读商务部10月30日的逐项编译说明、所列泰国原始PDF及案件登记链接；泰国官方PDF本次无法访问，尚未对泰文全文、法定日期起算和产品范围作独立核验，保持阻塞待办。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHJ1S1I3RmFKNHowTW50VFlsZkdRdi1uNzZuNjVPWW5DYTVmUVBiVUNXbmttS3ZueDlFRWpxVzRvdERWRy02VWdoWmVLbHdWUm5ZeGlNSVFtWnQ0ZkI5LU1CT0pPRFRGTFNvMlFOZG1qcXZXWGtqb19VSGpkcFE0by1pNXN3ZXFzVU1VLXRvenBueGctRlNvdmFiZ3BNX1pLeFlGZ1hFV0hEZHM?oc=5",
+    "published_date": "2026-11-03",
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3BLZ0Voam9ESlY5Q2hwU21vcFJMYk1Sb0RTMVozNDVDLUIxRDFrMVJKR2pQZFFBc0VtVU9FV3FxZDluNGtxbzN6bzJxUFJqS01sQU5yZEVGVmM1RzN1Q1BxS2VkcWVZX0psS05leFF5SGpDd25sdGVOa0VoSkZVVERPMWVpV0x0cEQ3RzJ6Ynk?oc=5",
+    "reason_zh": "Quantum Commodity Intelligence对Isometric于2026-11-03推出Ready for CBAM服务的报道，与同日ESG Today及公司原始公告属于同一服务发布事件。已在ESG Today来源主条目核验公司公告并完成业务研判，未发现本转载独立法规或业务增量，不重复计入待研判。",
+    "reason_en": "Secondary coverage of Isometric's 3 Nov Ready for CBAM launch. The event and primary company announcement are already reviewed under the ESG Today lead; no independent regulatory change is identified.",
+    "attempted_at": "2026-11-04",
+    "evidence_url": "https://webflow.isometric.com/writing-articles/isometric-launches-ready-for-cbam-to-prepare-exporters-for-verification",
+    "coverage": "2026-11-04交叉比对同日新闻标题、公司发布日及核心服务描述，作为同一商业事件关联报道；未将该报道当作独立政策。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RNWNIelllWUlheVp6MEVNU1IxVlhxdzlXSUZrU2Z6T1djNE41dTNtZkJ6SFhMOWVadDMzWkNXX0hyU3hDdmkzdUktbnQyZ2dKNVlMUUNBZlVuYWxTTE1aMkhNc0d6eGhPV2Q2dnNxSFhmTGN3OFpUQkZ1RQ?oc=5",
+    "published_date": "2026-11-03",
+    "decision": "duplicate",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3BLZ0Voam9ESlY5Q2hwU21vcFJMYk1Sb0RTMVozNDVDLUIxRDFrMVJKR2pQZFFBc0VtVU9FV3FxZDluNGtxbzN6bzJxUFJqS01sQU5yZEVGVmM1RzN1Q1BxS2VkcWVZX0psS05leFF5SGpDd25sdGVOa0VoSkZVVERPMWVpV0x0cEQ3RzJ6Ynk?oc=5",
+    "reason_zh": "Agg-Net 11月3日报道Isometric Ready for CBAM服务，强调水泥行业，但与Isometric公司同日宣布的六行业服务属于同一事件。已对照Agg-Net全文和公司原始公告，未发现需独立建档的法规变更或新业务时限，合并到主条目。",
+    "reason_en": "Agg-Net's 3 Nov cement-focused article describes the same Ready for CBAM launch confirmed by Isometric's own announcement. No separate legal or deadline event; consolidated with the reviewed main entry.",
+    "attempted_at": "2026-11-04",
+    "evidence_url": "https://www.agg-net.com/news/isometric-launch-cbam-verification-service",
+    "coverage": "2026-11-04阅读全文Agg-Net并对照Isometric官方新闻稿，确认同一服务发布，非另一次核验资质授予。"
+  },
+  {
+    "url": "https://gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
+    "published_date": "2026-11-03",
+    "decision": "blocked",
+    "reason_zh": "数据采集记录将此UK ETS MRR指南标记为2026-11-03更新，但2026-11-04读取的GOV.UK该文官方页面更新日志仍显示最近一次实质更新为2026-05-05（废弃物自愿MRV排放因子附件修订）；英国UK ETS技术指南集合页则将MRR链接标为11月3日。两个官方页面的更新时间元数据不一致，未发现11月3日新增钢铁行业MRR规则或可核实文本差异。为避免把链接目录更新时间误报为政策修订，暂按证据不一致保留待核验。",
+    "reason_en": "The collection lists 3 Nov 2026, but the MRR document's own GOV.UK change log still shows 5 May 2026 as its last substantive update. No 3 Nov steel-specific rule or verified text diff was found. Retain as a date-metadata discrepancy rather than asserting a regulatory change.",
+    "attempted_at": "2026-11-04",
+    "evidence_url": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
+    "coverage": "2026-11-04核对MRR官方正文更新日志与UK ETS技术指南集合页，两处11月3日标记不一致；尚未取得文档版本差异，暂不认定新法规。"
   }
 ]
