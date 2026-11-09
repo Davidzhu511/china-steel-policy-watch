@@ -1,137 +1,62 @@
 # 中国钢铁全球政策情报看板
 
-## 当前采集与研判分工（2026-11-07）
+公开看板：https://davidzhu511.github.io/china-steel-policy-watch/
 
-GitHub Actions 每天柏林时间07:50、13:50独立采集原文、保留历史并发布；ChatGPT定时任务负责阅读原文、中文翻译和行业研判，再按版本写回editorial，经PR与CI后发布。采集阶段关闭离线机器翻译及可选模型候选处理，并移除模型下载、安装和运行步骤。已有机器草稿保留在历史数据中，但网页和RSS不再用其作为中文标题与摘要；尚未解读的新闻显示原文及待解读状态。
+## 分工
 
-ChatGPT每轮先发布已完成的重要解读，再继续清理积压；不把整库清零、修复全部采集源作为首批发布前提。任务触发不等于完成或已送达，需分别核对运行结果、PR、部署和线上数据。下文关于离线翻译和单次07:50采集的说明属于旧机制，以上述当前分工为准。
+**GitHub 自动收集与发布；ChatGPT 翻译、核验与解读。**
 
-每天自动采集与中国钢铁有关的法规、贸易救济、配额/关税、原产地、碳政策、市场和企业新闻，提供来源核对后的中英文重点解读，并可选接入自动摘要，并通过 GitHub Pages 发布静态看板。每条情报都保留官方或原始网页链接。
+GitHub Actions 独立采集官方来源和新闻索引、去重、保存原始链接与有限摘录、生成待分析队列、测试和发布。日常采集不调用付费模型，也不下载离线翻译模型。
 
-## 看板包含什么
+ChatGPT 读取队列，优先处理重要新增与临期政策，每轮最多5条。读取原文后提供中文标题、核心事实、对中国钢材出口的影响与下一步动作。仅有标题或不足的证据不能支持税率、期限、产品范围或法规状态结论。
 
-- **正式法规优先**：EUR-Lex 的 L 系列法规和 C 系列公告分别采集，不把新闻和法律文件混为一类。
-- **政策前置预警**：接入欧委会 Have Your Say 官方接口，追踪钢铁与 CBAM 倡议，并显示征求意见状态和截止日期。
-- **重点市场官方来源**：欧盟公众咨询与官方公报、美国 Federal Register、GOV.UK。
-- **多源新闻发现**：DG CLIMA / DG TRADE 官方 RSS、DG TAXUD / CLIMA / TRADE 页面直采、Google News 中英文索引。GDELT 已默认停用，保留为可选备用。
-- **双视图与归档**：默认按发布时间显示最新动态；重点关注含重大、高优先级及待跟进节点。支持 CBAM、EU ETS / UK ETS、关税与贸易救济、钢企与市场主题，以及时间范围、首次收录排序。
-- **中英文研判**：经原文核对的重点解读保存在 `config/editorial.json`，仅适用指定日期的来源版本。每日离线英译中模型为未解读条目翻译标题及原文摘录，明确标注“机器译文 · 待研判”；不据此声称业务影响或法规状态已经核实。
-- **个性化外观**：内置黑金、深海蓝、翡翠绿、赤铜棕、紫晶夜和象牙浅色六套配色，语言与主题偏好保存在浏览器本地。
-- **历史与去重**：近似标题和规范化 URL 去重；历史情报默认保留 730 天。
-- **健康隔离**：单个来源失败不会中断其他来源，也不会删除已有历史数据。
-- **静态发布**：采集与 GitHub Pages 发布不依赖付费模型服务。GitHub Models 已于 2026-07-30 退役（[官方说明](https://docs.github.com/en/github-models)），不再调用旧接口或传递 `GITHUB_TOKEN` 给模型端点。英文原文机器译文由 GitHub Actions 在本机运行的 [OPUS 英译中模型](https://huggingface.co/Helsinki-NLP/opus-mt-en-zh) 生成；自动业务影响研判仍需另行配置模型服务。
+有新成果时，ChatGPT 按原始 URL + 来源日期增量修改 `config/editorial.json` 或 `config/triage.json`，提交一个 `editorial/` 前缀的纯内容 PR。GitHub 自动执行测试、检查文件范围与提交版本、合并和发布；ChatGPT 不负责轮询 CI、等待部署、重复采集或修理流水线。提交成功不等于上线成功，简报可写“解读已提交，网页自动发布处理中”。
 
-## 自动更新时间
+## 自动采集与内容发布
 
-工作流每天按德国杜塞尔多夫时间 **07:50 和 13:50** 运行。GitHub cron 只接受 UTC，因此分别配置冬夏令时的 UTC 候选时点，再依据 `Europe/Berlin` 的当地时间判断是否执行。编辑PR合并到main后也会自动触发一次数据生成和发布。
+采集目标为每天 **07:50、13:50（Europe/Berlin）**。冬夏令时 UTC 候选时段中不适用的时段会正常跳过；这不是采集失败或部署失败。GitHub 调度可能延迟，目标时间不是到点完成承诺。ChatGPT 按最新可用资料分析，注明资料日期，不把当天未刷新一律报错。
 
-GitHub 的定时任务在平台繁忙时可能延迟数分钟；这不改变应运行的当地日期和时段。
+- 定时运行及默认手动运行：采集、应用已核验解读、生成并发布。
+- 纯编辑提交，以及自动合并后的 `mode=editorial`：只应用解读并发布已有数据，不再次访问采集来源。
+- 内容发布保留 `generated_at` 采集时间，单列 `editorial_updated_at`，不会用编辑时间冒充新采集。
+- GitHub 继续执行部署与公网数据一致性验证。正常跳过、等待运行或未完成的验证不能称为部署失败。
 
-## 首次部署
+## ChatGPT 的输入与输出
 
-1. 把项目推送到公开仓库 `Davidzhu511/china-steel-policy-watch`，默认分支使用 `main`。
-2. 打开仓库 **Settings → Actions → General → Workflow permissions**，选择 **Read and write permissions**。
-3. 打开 **Settings → Pages → Build and deployment**，将 Source 设为 **GitHub Actions**。
-4. 进入 **Actions → 每日更新并部署看板 → Run workflow**，手动执行首轮更新。
-5. 成功后访问 `https://davidzhu511.github.io/china-steel-policy-watch/`。
+优先读取 `data/review_queue.json`，避免反复读取完整历史：
 
-## 本地运行
+- `schema_version=2`：`items` 只包含可分析条目；`blocked_items` 保存证据受阻条目。
+- `actionable_count` 是本轮可处理数，`blocked_count` 是暂缓数；`pending_count` 为两者之和。因此可处理列表为空但待处理总数大于0并非错误。
+- 受阻条目保持未核验，只有新来源版本、新证据或用户要求时重查，不每天反复访问同一受阻页面。
+- 完整历史仍在 `data/items.json`；网页和 RSS 不会把暂缓内容冒充已核验结论。
+
+简报只提供值得关注的新事实、业务影响、下一步动作及来源链接；必要时附内容 PR。没有实质新内容时静默，不输出每日运行状态表或重复故障报告。基础设施故障由 GitHub 记录；只有持续影响业务或需要用户处理时才提醒。
+
+## 来源与范围
+
+来源配置在 `config/sources.json`。当前包括欧盟公众咨询、EUR-Lex、欧委会重点页面、美国 Federal Register、GOV.UK、官方及 Google News RSS。GDELT 保留为停用的备用来源。
+
+追踪与中国钢铁相关的法规、贸易救济、配额关税、原产地、碳政策、市场和企业信息。单一来源失败不应删除历史或阻断其他来源。成功但零命中不代表完整覆盖，也不自动表示失败；来源状态保留错误、最后成功与最后收录时间。
+
+## 内容版本与准确性
+
+`config/editorial.json` 保存经核验的双语解读。`published_date` 精确匹配被核验版本；来源误用观察日期时才使用 `match_published_date`，并保留真实文件日期。证据链接与核验范围分别写入 `evidence_url`、`coverage`。
+
+`config/triage.json` 中 `duplicate` 合并到已核验主条目，`excluded` 排除无关内容，`blocked` 保存证据不足原因。新来源日期不沿用旧版本的处理结论。不得把暂缓条目算作完成。
+
+这是信息发现和辅助研判工具，正式政策结论必须有主管机关原文支持。媒体内容仅保存有限摘录、摘要和链接，不存储新闻全文。
+
+## 开发与维护
 
 ```bash
 python -m pip install -e ".[dev]"
+ruff check steelwatch tests scripts
 pytest
 python -m steelwatch render
-python -m http.server 8000 --directory docs
 ```
 
-浏览器打开 `http://localhost:8000`。无模型凭据时 `python -m steelwatch update` 仍完整收录新信息。若要在本地生成机器译文，先安装 CPU 版 PyTorch 与 `pip install -e '.[translation]'`，再运行 `python scripts/prepare_translation.py` 下载并核验固定版本的公开模型（约 312 MB 权重）；译文保留原文供核对。GitHub Actions 自动准备并缓存模型；失败时只显示原文，不中断新闻更新。
+`render` 只生成静态展示；`publish-editorial` 应用当前内容配置，不采集；`update` 执行采集。需要现有采集快照才能单独发布解读。
 
-可选自动解读：在仓库 Actions Variables 中配置 `STEELWATCH_MODEL_ENDPOINT`（受信任服务的完整 HTTPS chat/completions URL）和 `STEELWATCH_MODEL`（模型名）；在 Actions Secrets 中配置 `STEELWATCH_MODEL_API_KEY`。端点需兼容 Chat Completions 的 JSON 输出。不要把 API key 写进代码或来源配置。未配置时默认禁用，不承诺自动翻译完成。
+代码和工作流修改使用独立 PR；只有同仓库、确切 CI 通过、最新提交未变化且仅修改两份内容配置的 `editorial/` PR 可以自动合并。不得绕过检查、伪造采集时间或用空提交触发发布。测试、合并、部署及公网验证均由 GitHub 完成。
 
-每轮默认最多收录 120 条候选记录，最多 12 条参与可选模型解读。模型失败不会阻止其余记录入库；历史记录不会因为离开 RSS 窗口或单次来源故障被删除。
-每轮最多补充 100 条机器译文，设有 180 秒上限。术语与数字保护失败时保留原文并在下轮重试。官方贸易救济与 CBAM 执行标题会按可解释的关键词进入“重点关注”，属于待核对线索，不代表正式认定。
-
-## ChatGPT 定时研判与发布核验
-
-采集运行另外生成 `data/review_queue.json`：只包含当前未完成原文核验、尚未排除或合并的条目，附 URL、原始发布日期、英文原题、有限摘录、优先级及期限字段。ChatGPT 优先读取这个较小文件，避免连接器读取体积较大的 `data/items.json` 返回空内容；全文仍需从官方来源或可靠原始报道核验。该文件不是机器翻译或人工核验结论，也不会自动清空积压。
-
-采集工作流继续负责发现和保留原文；ChatGPT 任务读取仓库与官方来源后，把版本限定的双语研判写入 `config/editorial.json`。这是外部任务，不能用 `analysis_status=available` 冒充仓库内模型 API 已配置。未核验条目仍保留待处理状态。
-
-### 增量编辑与发布闭环（2026-11-07）
-
-- ChatGPT只修改 `config/editorial.json` 和必要的 `config/triage.json`，使用 `editorial/` 前缀分支提交PR。按原始URL + `published_date` 核对来源版本，不重复提交已经核验的同版本记录。
-- `程序检查` 工作流先执行测试、静态渲染，以及两份编辑JSON的URL/日期唯一键校验。只有同仓库 `editorial/` PR、确切CI成功、PR最新head SHA未变化、GitHub确认可合并、修改文件严格属于上述两份配置文件时，`自动合并已通过CI的编辑PR` 才能自动squash合并。其他代码、工作流或混合修改的PR必须人工审核；CI未观察到成功不得合并。
-- 自动采集/部署与编辑合并使用同一个GitHub Actions并发队列，避免新的采集直接取消正在执行的部署。只有真正的配置文件冲突才需要人工协调；main仅更新生成数据时不要无故重建编辑PR。
-- 合并main后自动触发 `每日更新并部署看板`：应用经核验的研判、生成数据、提交生成文件、上传GitHub Pages并部署。最后由独立 `verify` 作业检查公网 `data/status.json`、`data/items.json`、`data/latest.json` 和 `feed.xml` 的SHA-256是否与本轮构建完全一致，允许短暂CDN传播重试。只有该验收作业成功，才标记 `PUBLISHED`。
-- CI失败、合并不可行、生成/部署异常或线上校验不一致均保留为阻塞并查看具体作业日志，不把PR已创建、main有新提交或打包成功误认为上线。不得自动重跑全部新闻采集以弥补一次编辑错误。
-- 若main上的配置合并未触发部署，应先检查Push触发器、运行历史和失败作业；只在定位问题后按需重跑仓库已有作业，不创建无意义提交。ChatGPT保持普通Chat负责原文核验及研判；Actions负责数据采集、测试、发布和线上验收，不依赖Work、云浏览器或多代理。
-
-## 配置来源和关键词
-
-所有配置在 [`config/sources.json`](config/sources.json)：
-
-- `sources.*.enabled`：启停某个来源；
-- `lookback_days`：每次回看天数；
-- `queries`：官方搜索或 GDELT 查询；
-- `sources.ec_have_your_say.match_terms`：欧委会倡议的钢铁领域匹配词；
-- `keywords.china`：中国钢企和中国主体词；
-- `keywords.materials`：钢铁产品、原料和加工品；
-- `keywords.global_steel_policy`：即使标题未直接写 China，仍会影响中国出口的普遍性钢铁政策；
-- `keywords.universal_policy`：无需同时出现 China 或 steel 也应纳入的跨品类制度（包括 CBAM、EU ETS、UK ETS）；
-- `official_domains`：把新闻索引中的政府/国际组织域名升级为官方来源。
-
-建议先扩充配置再改程序。新增查询应保持“主体词 + 钢铁词 + 措施词”的组合，避免抓入体育、影视或泛金属噪声。
-
-## 数据流
-
-1. 并行抓取官方来源及中英文 RSS；每个页面/订阅源独立报告异常。
-2. 根据标题、来源和关键词筛选，规范 URL 并去重。
-3. 收录原始记录；自动解读为可选独立步骤，失败时保留待解读记录。
-4. 应用经原文核对的版本限定解读，再生成看板 JSON 与 RSS。
-
-来源状态列出抓取命中数量；`analysis_status` 单独报告自动解读是否可用。来源请求成功但无命中显示为零，部分渠道失败显示部分异常。转载的相同标题保留同题来源链接。
-
-## 目录
-
-```text
-config/sources.json       来源、查询与关键词
-steelwatch/               采集、去重、翻译和生成逻辑
-data/                     可追溯历史数据与运行状态
-docs/                     GitHub Pages 静态看板
-tests/                    离线单元测试
-.github/workflows/        每日更新、部署和 CI
-```
-
-## 准确性边界
-
-程序是“发现和初筛工具”，不是法律数据库替代品。模型不得补造税率、期限或产品范围，摘录不足时应明确提示；但业务决策前仍必须打开原文，核对税号、产品描述、原产地、生产商税率、适用期和后续修订。
-
-媒体内容只保存短摘要或短摘录和原始链接，不保存新闻全文。正式法规以发布机关文本为准。
-
-## 常见问题
-
-**Actions 显示 `Resource not accessible by integration`**
-
-检查仓库 Actions 的 Workflow permissions 是否允许读写，并确认工作流含有 `contents: write` 和 `pages: write`。
-
-**Pages 部署失败**
-
-先在 Settings → Pages 把 Source 设为 GitHub Actions，然后重新运行工作流。
-
-**某一来源显示异常**
-
-历史情报仍会保留。可打开 `data/status.json` 查看来源错误；网站改版时只需修复对应 collector。
-
-## 许可与声明
-
-代码采用 MIT License。机器翻译与摘要仅供业务筛查，不构成法律意见；正式要求以原文及主管机关解释为准。
-
-## 积压处理与核验范围
-
-`config/triage.json` 保存按原文URL和发布日期限定的处理结论：`duplicate` 合并到已核验主条目，`excluded` 排除无关内容，`blocked` 保留原文访问或证据不足的原因。重复与排除记录保留在完整数据归档，退出最新列表与RSS；重复主条目缺失或未核验时仍作为待核验处理。来源出现新日期版本时旧处理结论失效，不把旧研判或旧排除结论应用到新版本。
-
-`config/editorial.json` 默认用 `published_date` 精确匹配来源版本。仅当采集源把观察日期误作发布日期时，可另填 `match_published_date` 匹配该原始版本，再以 `published_date` 展示官方文件上的真实日期；不得用该字段跨版本套用旧研判。
-
-`pending_analysis` 统计未有 `source_checked` 的有效条目；`pending_translation` 单列译文未完成数量，机器译文和模型摘要均不代表原文已核验。`verified_items`、`blocked_items`、`active_items` 与 `archived_items` 分列记录，网页展示核验范围、证据链接、核验日期及访问阻塞原因。限定摘要核验、企业公告、行业观点与完整法规核验应在 `coverage` 和正文中明确区分。
-
-受阻记录可提供人工校对的 `title_zh`、`evidence_url` 和 `coverage`；页面优先显示准确标题及可点击的核验入口，仍计入待研判，来源日期改变后这些信息失效。EUR-Lex 的202空响应、访问检查页和非公报页面作为来源异常报告，不能当作正常零命中；来源面板显示最后有效收录日期，零命中不代表完整覆盖。
+历史保留默认730天。核心目录：`config/` 配置，`steelwatch/` 程序，`data/` 历史和队列，`docs/` 看板，`tests/` 测试，`.github/workflows/` 自动运行。
