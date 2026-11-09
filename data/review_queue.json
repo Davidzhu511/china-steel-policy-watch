@@ -1,15 +1,137 @@
 {
-  "schema_version": 1,
-  "generated_at": "2026-11-09T16:53:53Z",
-  "pending_count": 21,
+  "schema_version": 2,
+  "generated_at": "2026-11-09T21:11:03Z",
+  "pending_count": 22,
+  "actionable_count": 6,
+  "blocked_count": 16,
   "items": [
+    {
+      "id": "e35ed0d5a73d3dbbcac1",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
+      "published_at": "2026-11-09T00:00:00Z",
+      "title_original": "State-of-play CBAM accreditation",
+      "first_seen": "2026-09-28T11:50:11Z",
+      "last_seen": "2026-11-09T21:11:03Z",
+      "source": {
+        "id": "ec_watch_pages",
+        "name": "DG TAXUD · CBAM Verification",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "priority_signal": {
+        "zh": "CBAM 执行信息 · 待核对",
+        "en": "CBAM implementation · review needed"
+      },
+      "translation_state": "pending",
+      "published_date": "2026-11-09",
+      "source_excerpt": "State-of-play CBAM accreditation 9 November 2026 English Download (293.71 KB - PDF)"
+    },
+    {
+      "id": "58352a20f184f12423de",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRHh5WHZYa01KbmxmWllNemZwNi1oODNYTDdrMjlBdGV2eGlyMTVJcUtsdVdWVzhORU1xNm53dkM0TDFrajZ4QllYWHY0RHBEa1FKdWRpeUIxY3RROFFaVmZVWGhtdWZtRVVYSWdnbUJYOUc0ZzI2dVlmcUFBZHJRc1NsWnNFTVY1UU5yNkIwYnhLZW1rYU9GNy1FVGZ2YmtqcGFNd3NJQzhSVHI5VUoyUXJHOTJHRHVYQXJ0QWttdE5TOGNtejVtLTBYZ1FmUU9oSTZNQk9rVkZoYWJENm5yNlB2QjRKb0hBQzBDRUx2TE1VZw?oc=5",
+      "published_at": "2026-11-09T11:39:44Z",
+      "title_original": "European energy-intensive industries call for EU ETS reform and stronger carbon leakage protection",
+      "first_seen": "2026-11-09T21:11:03Z",
+      "last_seen": "2026-11-09T21:11:03Z",
+      "source": {
+        "id": "rss",
+        "name": "SteelOrbis",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-09",
+      "source_excerpt": "European energy-intensive industries call for EU ETS reform and stronger carbon leakage protection SteelOrbis"
+    },
+    {
+      "id": "b1e56875bbe7e92de0c1",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM3hUbURGMGpIMGhDdFhCOGVRdjFTVkg1N0JycjFHYURkZ05yX0NOSmsyOWc0WVpwTnp0MnNjSEJqSDlLOXdsOVUyVTU1MWRtT09YcWd2V0RBN1lNaDd6N29ZbnJKNUd0OUhkQ09SY05XWWpTQ05QUUxxbU1iamo5Y1QwMGpjU0l5NHJjXzVXcE5DY2pMOHpfZDlfNmMyM2VuY29PeUhuQzNCRFBITmZkOGNR?oc=5",
+      "published_at": "2026-11-09T11:12:19Z",
+      "title_original": "Weak demand and high inventories continue to pressure steel prices in China",
+      "first_seen": "2026-11-09T16:53:53Z",
+      "last_seen": "2026-11-09T21:11:03Z",
+      "source": {
+        "id": "rss",
+        "name": "SteelRadar",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-09",
+      "source_excerpt": "Weak demand and high inventories continue to pressure steel prices in China SteelRadar"
+    },
+    {
+      "id": "c94f05098efe52cc2ef8",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmxKUURLdjF0bmplNzMzMDRGSGJtckg5Skh2aFpRalMtN2hpdUdtQm5namJrWjRMb3UyNEUyLWpGMG1OTmRYQmFKdFdobDFjMksxc2lSa3hTYUJ0TGRyb1g4V09zaVhodzc3Z2tuSWFDNGlXZDhpTGZUNlc1Nk9mdDhYWW5nTEJuQ2tvcGZ2d19obnhIVHY4X2FWNXJPLVhFMEhKNUZ1cmkyS19NaW5nUVR6ZmRncVo1cmc?oc=5",
+      "published_at": "2026-11-08T10:20:34Z",
+      "title_original": "October Billet Market Review: China, Turkey Prices Drop; Gulf States Gain $34/t",
+      "first_seen": "2026-11-09T16:53:53Z",
+      "last_seen": "2026-11-09T21:11:03Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-08",
+      "source_excerpt": "October Billet Market Review: China, Turkey Prices Drop; Gulf States Gain $34/t - News and Statistics IndexBox"
+    },
+    {
+      "id": "612060ffec7bd4be164e",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFVrc0FWV2hKRTRLUFZRZG9kTnd2QVBDU1Y1NUZvSVk0M2RSV2JmVEs5SXRKVDhwYmp5dkxqR0U2allER3JaRlBRUjRaOEJSMFBxbFlfYzFIcGNOa1p1NkV0bklBX3FCRGh2NWtRVkY4elBKVFk0YVpZY3cwX0c2TV9RSlUxM3lEazFGVVZJcTJTamFXUEkwS2xMMng5ZUNoNkc1VTF2dEVSWWs?oc=5",
+      "published_at": "2026-11-05T08:00:00Z",
+      "title_original": "Anticipated EU CBAM Expansion to Downstream Products: Philippines exporter workshop",
+      "first_seen": "2026-11-08T13:53:36Z",
+      "last_seen": "2026-11-09T21:11:03Z",
+      "source": {
+        "id": "rss",
+        "name": "International Institute for Sustainable Development",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-05",
+      "source_excerpt": "Anticipated EU CBAM Expansion to Downstream Products: Philippines exporter workshop International Institute for Sustainable Development"
+    },
+    {
+      "id": "d2ad9789ee8b0af8fed8",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMVJkX29MSnQ0b1J1eEpzM1Z1dkJGbXAtSEV0Z1ZmNk1EQUNqZDZ3YmxaQkV3WGRkUXo4ZHRxeUxMdktEVjhNU0RTZHZjbDRhTGYxQjNIY1AxSWg2RUxHVkY5bDZNcmsyRTdselBLNi1PM1Z5c1oteVZHUmU4WXdua3lR?oc=5",
+      "published_at": "2026-11-04T01:36:41Z",
+      "title_original": "Steel sector shifts to high-quality development amid market headwinds",
+      "first_seen": "2026-11-07T21:58:32Z",
+      "last_seen": "2026-11-09T21:11:03Z",
+      "source": {
+        "id": "rss",
+        "name": "China Daily Global Edition",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-04",
+      "source_excerpt": "Steel sector shifts to high-quality development amid market headwinds China Daily Global Edition"
+    }
+  ],
+  "blocked_items": [
     {
       "id": "5b038f2baea57e2c9994",
       "url": "https://defensoriadian.gov.co/al-dia-con-la-normativa",
       "published_at": "2026-10-19T00:00:00Z",
       "title_original": "Resolución No. 00695 de 16 de octubre de 2026 - investigación antidumping sobre perfiles de hierro o acero en L y U",
       "first_seen": "2026-11-01T14:00:44Z",
-      "last_seen": "2026-11-09T16:53:53Z",
+      "last_seen": "2026-11-09T21:11:03Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销",
@@ -29,29 +151,6 @@
       "review_coverage": "有限覆盖（2026-11-02下午复核）：官方法规汇总确认第00695号决议立案；公开法规转载补充申请方主张的155%／28%倾销幅度，10月23日公告补充30个工作日参与窗口。仍未取得稳定可读的MinCIT原始决议、问卷和期限计算规则，继续计入待全文核验。",
       "published_date": "2026-10-19",
       "source_excerpt": "Al día con la normativa | Defensoría del Contribuyente y del Usuario Aduanero Ir al contenido Buscar: Inicio Nosotros Solicita la intervención Derechos y deberes Educación fiscal Al día con la normativa Inicio Nosotros Solicita la intervención Derechos y deberes Educación fiscal Al día con la normativa Al día con la normativa  Inicio 9 Al día con la normativa Al día con la normativa Consulta la agenda regulatoria de las entidades que, en razón a sus competencias, expiden normas que tienen incidencia directa o indirecta en el cumplimiento de tus obligaciones tributarias, aduaneras o cambiaria…"
-    },
-    {
-      "id": "e35ed0d5a73d3dbbcac1",
-      "url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
-      "published_at": "2026-11-09T00:00:00Z",
-      "title_original": "State-of-play CBAM accreditation",
-      "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-11-09T16:53:53Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "DG TAXUD · CBAM Verification",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "CBAM 执行信息 · 待核对",
-        "en": "CBAM implementation · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-09",
-      "source_excerpt": "State-of-play CBAM accreditation 9 November 2026 English Download (293.71 KB - PDF)"
     },
     {
       "id": "a20a3191cbc2ac06e6c9",
@@ -75,82 +174,6 @@
       "review_coverage": "2026-11-04核对MRR官方正文更新日志与UK ETS技术指南集合页，两处11月3日标记不一致；尚未取得文档版本差异，暂不认定新法规。",
       "published_date": "2026-11-03",
       "source_excerpt": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Monitoring and Reporting Regulation (MRR) 2018."
-    },
-    {
-      "id": "b1e56875bbe7e92de0c1",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM3hUbURGMGpIMGhDdFhCOGVRdjFTVkg1N0JycjFHYURkZ05yX0NOSmsyOWc0WVpwTnp0MnNjSEJqSDlLOXdsOVUyVTU1MWRtT09YcWd2V0RBN1lNaDd6N29ZbnJKNUd0OUhkQ09SY05XWWpTQ05QUUxxbU1iamo5Y1QwMGpjU0l5NHJjXzVXcE5DY2pMOHpfZDlfNmMyM2VuY29PeUhuQzNCRFBITmZkOGNR?oc=5",
-      "published_at": "2026-11-09T11:12:19Z",
-      "title_original": "Weak demand and high inventories continue to pressure steel prices in China",
-      "first_seen": "2026-11-09T16:53:53Z",
-      "last_seen": "2026-11-09T16:53:53Z",
-      "source": {
-        "id": "rss",
-        "name": "SteelRadar",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-09",
-      "source_excerpt": "Weak demand and high inventories continue to pressure steel prices in China SteelRadar"
-    },
-    {
-      "id": "c94f05098efe52cc2ef8",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmxKUURLdjF0bmplNzMzMDRGSGJtckg5Skh2aFpRalMtN2hpdUdtQm5namJrWjRMb3UyNEUyLWpGMG1OTmRYQmFKdFdobDFjMksxc2lSa3hTYUJ0TGRyb1g4V09zaVhodzc3Z2tuSWFDNGlXZDhpTGZUNlc1Nk9mdDhYWW5nTEJuQ2tvcGZ2d19obnhIVHY4X2FWNXJPLVhFMEhKNUZ1cmkyS19NaW5nUVR6ZmRncVo1cmc?oc=5",
-      "published_at": "2026-11-08T10:20:34Z",
-      "title_original": "October Billet Market Review: China, Turkey Prices Drop; Gulf States Gain $34/t",
-      "first_seen": "2026-11-09T16:53:53Z",
-      "last_seen": "2026-11-09T16:53:53Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-08",
-      "source_excerpt": "October Billet Market Review: China, Turkey Prices Drop; Gulf States Gain $34/t - News and Statistics IndexBox"
-    },
-    {
-      "id": "612060ffec7bd4be164e",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFVrc0FWV2hKRTRLUFZRZG9kTnd2QVBDU1Y1NUZvSVk0M2RSV2JmVEs5SXRKVDhwYmp5dkxqR0U2allER3JaRlBRUjRaOEJSMFBxbFlfYzFIcGNOa1p1NkV0bklBX3FCRGh2NWtRVkY4elBKVFk0YVpZY3cwX0c2TV9RSlUxM3lEazFGVVZJcTJTamFXUEkwS2xMMng5ZUNoNkc1VTF2dEVSWWs?oc=5",
-      "published_at": "2026-11-05T08:00:00Z",
-      "title_original": "Anticipated EU CBAM Expansion to Downstream Products: Philippines exporter workshop",
-      "first_seen": "2026-11-08T13:53:36Z",
-      "last_seen": "2026-11-09T16:53:53Z",
-      "source": {
-        "id": "rss",
-        "name": "International Institute for Sustainable Development",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-05",
-      "source_excerpt": "Anticipated EU CBAM Expansion to Downstream Products: Philippines exporter workshop International Institute for Sustainable Development"
-    },
-    {
-      "id": "d2ad9789ee8b0af8fed8",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMVJkX29MSnQ0b1J1eEpzM1Z1dkJGbXAtSEV0Z1ZmNk1EQUNqZDZ3YmxaQkV3WGRkUXo4ZHRxeUxMdktEVjhNU0RTZHZjbDRhTGYxQjNIY1AxSWg2RUxHVkY5bDZNcmsyRTdselBLNi1PM1Z5c1oteVZHUmU4WXdua3lR?oc=5",
-      "published_at": "2026-11-04T01:36:41Z",
-      "title_original": "Steel sector shifts to high-quality development amid market headwinds",
-      "first_seen": "2026-11-07T21:58:32Z",
-      "last_seen": "2026-11-09T16:53:53Z",
-      "source": {
-        "id": "rss",
-        "name": "China Daily Global Edition",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-04",
-      "source_excerpt": "Steel sector shifts to high-quality development amid market headwinds China Daily Global Edition"
     },
     {
       "id": "a0b9dcdcc0aa3c3995e9",
@@ -204,7 +227,7 @@
       "published_at": "2026-11-05T17:49:17Z",
       "title_original": "CBAM boosting European steelmaker's earnings: CEO",
       "first_seen": "2026-11-05T20:18:56Z",
-      "last_seen": "2026-11-09T16:53:53Z",
+      "last_seen": "2026-11-09T21:11:03Z",
       "source": {
         "id": "rss",
         "name": "Quantum Commodity Intelligence",
@@ -227,7 +250,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-09T16:53:53Z",
+      "last_seen": "2026-11-09T21:11:03Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -250,7 +273,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-09T16:53:53Z",
+      "last_seen": "2026-11-09T21:11:03Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
