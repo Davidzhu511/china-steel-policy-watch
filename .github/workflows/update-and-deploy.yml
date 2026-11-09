@@ -22,6 +22,12 @@ on:
     - cron: "50 11 * * *"
     - cron: "50 12 * * *"
   workflow_dispatch:
+    inputs:
+      mode:
+        description: Collect sources or publish existing editorial content
+        type: choice
+        options: [collect, editorial]
+        default: collect
 
 permissions:
   contents: write
@@ -74,10 +80,23 @@ jobs:
       - name: 采集原文并应用已核验的ChatGPT解读
         if: steps.gate.outputs.run == 'true'
         env:
-          STEELWATCH_MODEL_ENDPOINT: ${{ vars.STEELWATCH_MODEL_ENDPOINT }}
-          STEELWATCH_MODEL: ${{ vars.STEELWATCH_MODEL }}
-          STEELWATCH_MODEL_API_KEY: ${{ secrets.STEELWATCH_MODEL_API_KEY }}
-        run: python -m steelwatch update
+          REQUESTED_MODE: ${{ inputs.mode }}
+          EVENT_NAME: ${{ github.event_name }}
+          BEFORE_SHA: ${{ github.event.before }}
+        run: |
+          mode="$REQUESTED_MODE"
+          # Pure editorial pushes publish the saved collection without re-fetching.
+          if [[ "$EVENT_NAME" == "push" ]] && git cat-file -e "$BEFORE_SHA" 2>/dev/null; then
+            changed="$(git diff --name-only "$BEFORE_SHA" HEAD)"
+            if [[ -n "$changed" ]] && ! echo "$changed" | grep -qvE '^config/(editorial|triage)\.json$'; then
+              mode=editorial
+            fi
+          fi
+          if [[ "$mode" == "editorial" ]]; then
+            python -m steelwatch publish-editorial
+          else
+            python -m steelwatch update
+          fi
 
       - name: 保存本次数据
         if: steps.gate.outputs.run == 'true'

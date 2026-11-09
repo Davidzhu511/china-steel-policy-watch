@@ -101,5 +101,6 @@ jobs:
             // Explicitly dispatch the existing update+Pages pipeline after success.
             await github.rest.actions.createWorkflowDispatch({
               owner, repo, workflow_id: "update-and-deploy.yml", ref: "main",
+              inputs: { mode: "editorial" },
             });
             core.info("DISPATCHED update-and-deploy.yml after editorial PR #" + number);

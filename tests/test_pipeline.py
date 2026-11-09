@@ -443,7 +443,36 @@ def test_compact_review_queue_keeps_unverified_versions_and_blocked_items():
     )
     assert queue["generated_at"] == "2026-11-03T14:41:15Z"
     assert queue["pending_count"] == 2
-    assert {item["id"] for item in queue["items"]} == {"new-1", "blocked"}
+    assert {item["id"] for item in queue["items"]} == {"new-1"}
+    assert queue["actionable_count"] == 1
+    assert queue["blocked_count"] == 1
+    assert queue["blocked_items"][0]["id"] == "blocked"
     assert all(item["published_date"] == "2026-11-03" for item in queue["items"])
     assert all(len(item["source_excerpt"]) <= 600 for item in queue["items"])
     assert queue["items"][0]["consultation"]["closes_at"] == "2026-11-09T23:59:59Z"
+
+
+def test_editorial_publication_preserves_collection_and_does_not_fetch(tmp_path, monkeypatch):
+    data = tmp_path / "data"
+    data.mkdir()
+    stamp = "2026-11-08T12:00:00Z"
+    item = {"id": "a", "url": "https://example.com/policy", "published_at": stamp,
+            "importance": "高", "review_disposition": "blocked"}
+    (data / "items.json").write_text(json.dumps({"generated_at": stamp, "items": [item]}))
+    (data / "status.json").write_text(json.dumps({"generated_at": stamp, "source_success": 6}))
+    def no_collection(*args, **kwargs):
+        raise AssertionError("Editorial publication must not collect sources")
+    monkeypatch.setattr(pipeline, "_collect", no_collection)
+    monkeypatch.setattr(pipeline, "render_outputs", lambda *args: None)
+    config = {"editorial": [{"url": item["url"], "published_date": "2026-11-08",
+                            "reviewed_at": "2026-11-09", "title_zh": "已核验标题"}]}
+    pipeline.publish_editorial(config, data, tmp_path / "docs")
+    saved = json.loads((data / "items.json").read_text())
+    status = json.loads((data / "status.json").read_text())
+    queue = json.loads((data / "review_queue.json").read_text())
+    assert saved["generated_at"] == status["generated_at"] == queue["generated_at"] == stamp
+    assert saved["items"][0]["title_zh"] == "已核验标题"
+    assert "review_disposition" not in saved["items"][0]
+    assert status["source_success"] == 6
+    assert status["verified_items"] == 1
+    assert queue["pending_count"] == 0

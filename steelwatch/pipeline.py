@@ -264,10 +264,13 @@ def _build_review_queue(items: list[dict[str, Any]], timestamp: str) -> dict[str
         row["source_excerpt"] = trim_text(item.get("source_excerpt", ""), 600)
         rows.append(row)
     return {
-        "schema_version": 1,
+        "schema_version": 2,
         "generated_at": timestamp,
         "pending_count": len(rows),
-        "items": rows,
+        "actionable_count": sum(row.get("review_disposition") != "blocked" for row in rows),
+        "blocked_count": sum(row.get("review_disposition") == "blocked" for row in rows),
+        "items": [row for row in rows if row.get("review_disposition") != "blocked"],
+        "blocked_items": [row for row in rows if row.get("review_disposition") == "blocked"],
     }
 
 
@@ -531,6 +534,25 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
     atomic_json_write(data_dir / "status.json", status)
     render_outputs(data_dir, docs_dir)
     return status
+
+
+def publish_editorial(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> None:
+    """Apply reviewed content without network collection or changing collection timestamps."""
+    payload = load_json(data_dir / "items.json", {})
+    status = load_json(data_dir / "status.json", {})
+    if not payload.get("generated_at") or not status.get("generated_at"):
+        raise ValueError("Editorial publication requires an existing collected snapshot")
+    items = payload["items"]
+    _apply_editorial(items, config)
+    _apply_triage(items, config)
+    items.sort(key=_sort_key, reverse=True)
+    status.update(_review_counts(items))
+    status["editorial_updated_at"] = now_iso()
+    atomic_json_write(data_dir / "items.json", payload)
+    atomic_json_write(data_dir / "status.json", status)
+    atomic_json_write(data_dir / "review_queue.json",
+                      _build_review_queue(items, status["generated_at"]))
+    render_outputs(data_dir, docs_dir)
 
 
 def render_existing(data_dir: Path, docs_dir: Path) -> None:
