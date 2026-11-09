@@ -6,9 +6,9 @@
   "analysis_status": "unconfigured",
   "active_items": 272,
   "archived_items": 103,
-  "verified_items": 250,
-  "pending_analysis": 22,
-  "pending_translation": 22,
+  "verified_items": 251,
+  "pending_analysis": 21,
+  "pending_translation": 21,
   "blocked_items": 16,
   "offline_translation": {
     "status": "disabled",
@@ -99,5 +99,6 @@
   ],
   "warnings": [
     "正文摘录 DG TAXUD · CBAM Verification: HTTPError: 429 Client Error: Too Many Requests for url: https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-"
-  ]
+  ],
+  "editorial_updated_at": "2026-11-09T21:16:39Z"
 }

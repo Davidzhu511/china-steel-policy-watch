@@ -1,33 +1,10 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-09T21:11:03Z",
-  "pending_count": 22,
-  "actionable_count": 6,
+  "pending_count": 21,
+  "actionable_count": 5,
   "blocked_count": 16,
   "items": [
-    {
-      "id": "e35ed0d5a73d3dbbcac1",
-      "url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
-      "published_at": "2026-11-09T00:00:00Z",
-      "title_original": "State-of-play CBAM accreditation",
-      "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-11-09T21:11:03Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "DG TAXUD · CBAM Verification",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "CBAM 执行信息 · 待核对",
-        "en": "CBAM implementation · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-09",
-      "source_excerpt": "State-of-play CBAM accreditation 9 November 2026 English Download (293.71 KB - PDF)"
-    },
     {
       "id": "58352a20f184f12423de",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRHh5WHZYa01KbmxmWllNemZwNi1oODNYTDdrMjlBdGV2eGlyMTVJcUtsdVdWVzhORU1xNm53dkM0TDFrajZ4QllYWHY0RHBEa1FKdWRpeUIxY3RROFFaVmZVWGhtdWZtRVVYSWdnbUJYOUc0ZzI2dVlmcUFBZHJRc1NsWnNFTVY1UU5yNkIwYnhLZW1rYU9GNy1FVGZ2YmtqcGFNd3NJQzhSVHI5VUoyUXJHOTJHRHVYQXJ0QWttdE5TOGNtejVtLTBYZ1FmUU9oSTZNQk9rVkZoYWJENm5yNlB2QjRKb0hBQzBDRUx2TE1VZw?oc=5",

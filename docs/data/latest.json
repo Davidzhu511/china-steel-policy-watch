@@ -71,13 +71,13 @@
     },
     {
       "id": "e35ed0d5a73d3dbbcac1",
-      "title_zh": "State-of-play CBAM accreditation",
-      "title_en": "State-of-play CBAM accreditation",
+      "title_zh": "欧盟CBAM核查机构认可进展：7家国家认可机构已接收第三国申请",
+      "title_en": "CBAM accreditation update: seven national bodies accepting third-country applications",
       "title_original": "State-of-play CBAM accreditation",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "【事实】欧委会DG TAXUD于11月9日更新CBAM认可进度表：24家国家认可机构同意开展CBAM认可，20家已准备接受申请；7家同意并已开始接受第三国申请人，分别为法国、希腊、意大利、荷兰、波兰、斯洛伐克及瑞典。德国DAkkS已准备接受申请，但表中对第三国申请仍为No。该表反映认可机构的申请受理状态，并非已获认可的具体核查机构名录。",
+      "summary_en": "DG TAXUD's 9 November status table lists 24 NABs agreeing to CBAM accreditation, 20 ready for applications, and seven accepting third-country applicants (France, Greece, Italy, Netherlands, Poland, Slovakia and Sweden). Germany's DAkkS is ready for applications but not third-country applicants. The table is not a roster of accredited verifiers.",
+      "impact_zh": "【研判】中国钢厂准备CBAM实际排放核查时，可优先向接受第三国申请的国家认可机构及其服务商询证，但不能将申请渠道开放等同于核查机构已获资质；应核对认可证书、适用范围和跨境核查能力。",
+      "impact_en": "Chinese mills should verify actual verifier accreditation, scope and cross-border service capability; acceptance of applications does not imply approval.",
       "url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
       "published_at": "2026-11-09T00:00:00Z",
       "source": {
@@ -89,23 +89,38 @@
       "country": "欧盟",
       "region": "欧洲",
       "category": "碳与环保",
-      "status": "待核对",
-      "importance": "中",
+      "status": "官方执行进展／非新增税率法规",
+      "importance": "高",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "CBAM",
+        "核查机构",
+        "认可",
+        "第三国"
+      ],
+      "tags_en": [
+        "CBAM",
+        "verifiers",
+        "accreditation",
+        "third-country"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-09-28T11:50:11Z",
       "last_seen": "2026-11-09T21:11:03Z",
       "source_excerpt": "State-of-play CBAM accreditation 9 November 2026 English Download (293.71 KB - PDF)",
       "priority_signal": {
         "zh": "CBAM 执行信息 · 待核对",
         "en": "CBAM implementation · review needed"
-      }
+      },
+      "coverage": "2026-11-09逐页读取DG TAXUD两页官方PDF，核对各国家认可机构四列状态及合计24/20/7/7；未据此认定具体机构已获认可。",
+      "follow_up": "【待确认】逐家核对拟合作核查机构的有效认可证书、CBAM适用范围及中国工厂核查安排；跟踪欧委会更新的获认可机构名单。",
+      "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-09"
     },
     {
       "id": "c94f05098efe52cc2ef8",
