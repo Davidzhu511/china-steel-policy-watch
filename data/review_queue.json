@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-10T15:15:10Z",
-  "pending_count": 25,
-  "actionable_count": 9,
+  "generated_at": "2026-11-10T20:02:24Z",
+  "pending_count": 29,
+  "actionable_count": 13,
   "blocked_count": 16,
   "items": [
     {
@@ -11,7 +11,7 @@
       "published_at": "2026-11-10T00:00:00Z",
       "title_original": "Prestressed Concrete Steel Wire Strand From China; Determinations",
       "first_seen": "2026-11-10T15:15:10Z",
-      "last_seen": "2026-11-10T15:15:10Z",
+      "last_seen": "2026-11-10T20:02:24Z",
       "source": {
         "id": "federal_register",
         "name": "U.S. Federal Register / 美国联邦公报",
@@ -25,12 +25,88 @@
       "source_excerpt": ""
     },
     {
+      "id": "53fed2510c2d19d615a9",
+      "url": "https://gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "published_at": "2026-11-10T00:00:00Z",
+      "title_original": "Taking part in the UK Emissions Trading Scheme markets",
+      "first_seen": "2026-10-13T08:02:09Z",
+      "last_seen": "2026-11-10T20:02:24Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-10",
+      "source_excerpt": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market. This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market. For background information on the UK ETS markets, see the UK Emissions Trading Scheme markets policy page. For general guidance on participating in the scheme as an installation operator or aircraft operator, see Participating in the UK Emissions Trading Scheme . We use some essential cookies to make this website work. We’d like to s…"
+    },
+    {
+      "id": "725c50f2178b940efe6a",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDBNQjhzcWoyUF9XN0Q2b2RUWUFXbFVzak5xTzFRYVplb0Y4LV9TMnQzaU9lZU9RQXllZERtbkx5bDRHYjF2WVR2UFFtR1gxLVpINHl3N3g1LVBuMnUydVduSGpRR01aMjlHWGs5eGR0eTJJNEZzODItS2M1VWFyeHU3UTMzVmdCbHRjM0N6VFI4YlpubEtMVTFna1pjc09GbzA4YUtXUTZyVmpodWJz?oc=5",
+      "published_at": "2026-11-10T13:51:05Z",
+      "title_original": "Saudi Arabia Anti-Dumping Investigation: Hot-Rolled Steel Sections from China and Turkiye",
+      "first_seen": "2026-11-10T20:02:24Z",
+      "last_seen": "2026-11-10T20:02:24Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-10",
+      "source_excerpt": "Saudi Arabia Anti-Dumping Investigation: Hot-Rolled Steel Sections from China and Turkiye - News and Statistics IndexBox"
+    },
+    {
+      "id": "e43f41b69203d7e2ef51",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSGxRcGRBbG5ISWNlakpVbUR0aEYxcUlGbGNMbHlIRHNINkhYR1lKVkpwVHlVM3p2VEVMMUpWSGdHR0lFRHp3SlJMRTJaTGFCSUpjcmJNTFFJN0ZwNVpvNkdrMXNSSUV0c1JRMV9kWDEzRG1RZzcxZ0xBVFd5c0VYb9IBhgFBVV95cUxONmNUNkxOZHJ2WGtseTQ4WU1TV2JLcFNlTk1RSjlUbHg3ZE5lZi03S21wYjBqOGFHcHdSb095YzYtall1YTdWTUMwVm1COUxrMmVKWUlfMWVBX2wyZXNYaE1sNEZoR1NfdzZoTWdhQXNaMmpMSXItTW1XVUoyLVl0OWU4Q3ptQQ?oc=5",
+      "published_at": "2026-11-10T13:12:21Z",
+      "title_original": "China cut steel exports by 2.3% y/y in 10 months",
+      "first_seen": "2026-11-10T20:02:24Z",
+      "last_seen": "2026-11-10T20:02:24Z",
+      "source": {
+        "id": "rss",
+        "name": "GMK Center",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-10",
+      "source_excerpt": "China cut steel exports by 2.3% y/y in 10 months GMK Center"
+    },
+    {
+      "id": "bc970fda5d64dee05fb1",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWWm5XLXpCUWgtclktM0NuUFRSVnR5RHljeU9QSWFucmlHLTE4Wk9IUU5jMXRBR1ZFSHl5Q1JUYUU1U0hZNjdXYUlpVWxPTkZKeEZHZXl3YXBCbDd1VHZjNGVyZTE?oc=5",
+      "published_at": "2026-11-09T00:30:01Z",
+      "title_original": "China Steel Corporation (CNSD.L) Seasonal returns chart - Yahoo Finance",
+      "first_seen": "2026-11-10T20:02:24Z",
+      "last_seen": "2026-11-10T20:02:24Z",
+      "source": {
+        "id": "rss",
+        "name": "Yahoo Finance Singapore",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-09",
+      "source_excerpt": "China Steel Corporation (CNSD.L) Seasonal returns chart - Yahoo Finance Yahoo Finance Singapore"
+    },
+    {
       "id": "760501e838bd9ed57861",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWo2aWlsSU5LOG5DbDJjOUFnODRFM05Ndnk3NWRoNWxmZG02eWRINktpYUpPU1luLWlpQWNXdTBVV29YX2ZoY19NTWl1Skp5X3EwSFIyQ1V5bUxqMUJVSldMYkZaS3ZBc3UzYnNkYlZkX2ZMSThPMURkRjBZRVFIM3lZOGZGZW9rNWdMYnl5SlZMc1IyUUlkaURFd3hsa3NsU2VQMWlzYXp3ZEdf?oc=5",
       "published_at": "2026-11-10T14:01:06Z",
       "title_original": "2026年1—10月中国钢材出口下降2.3%，进口下降11.6% - 新闻和统计",
       "first_seen": "2026-11-10T15:15:10Z",
-      "last_seen": "2026-11-10T15:15:10Z",
+      "last_seen": "2026-11-10T20:02:24Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -68,7 +144,7 @@
       "published_at": "2026-11-04T11:20:49Z",
       "title_original": "Taiwan Plans Domestic CBAM, ETS to Boost Net-Zero Competitiveness",
       "first_seen": "2026-11-09T22:44:26Z",
-      "last_seen": "2026-11-10T15:15:10Z",
+      "last_seen": "2026-11-10T20:02:24Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -87,7 +163,7 @@
       "published_at": "2026-11-09T11:39:44Z",
       "title_original": "European energy-intensive industries call for EU ETS reform and stronger carbon leakage protection",
       "first_seen": "2026-11-09T21:11:03Z",
-      "last_seen": "2026-11-10T15:15:10Z",
+      "last_seen": "2026-11-10T20:02:24Z",
       "source": {
         "id": "rss",
         "name": "SteelOrbis",
@@ -163,7 +239,7 @@
       "published_at": "2026-11-04T01:36:41Z",
       "title_original": "Steel sector shifts to high-quality development amid market headwinds",
       "first_seen": "2026-11-07T21:58:32Z",
-      "last_seen": "2026-11-10T15:15:10Z",
+      "last_seen": "2026-11-10T20:02:24Z",
       "source": {
         "id": "rss",
         "name": "China Daily Global Edition",
@@ -184,7 +260,7 @@
       "published_at": "2026-10-19T00:00:00Z",
       "title_original": "Resolución No. 00695 de 16 de octubre de 2026 - investigación antidumping sobre perfiles de hierro o acero en L y U",
       "first_seen": "2026-11-01T14:00:44Z",
-      "last_seen": "2026-11-10T15:15:10Z",
+      "last_seen": "2026-11-10T20:02:24Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销",
@@ -257,7 +333,7 @@
       "published_at": "2026-11-06T09:21:00Z",
       "title_original": "CBAM Rules for Crediting 3rd Country Carbon Prices",
       "first_seen": "2026-11-06T14:38:14Z",
-      "last_seen": "2026-11-10T15:15:10Z",
+      "last_seen": "2026-11-10T20:02:24Z",
       "source": {
         "id": "rss",
         "name": "Steel and Stainless Steel News",
@@ -280,7 +356,7 @@
       "published_at": "2026-11-05T17:49:17Z",
       "title_original": "CBAM boosting European steelmaker's earnings: CEO",
       "first_seen": "2026-11-05T20:18:56Z",
-      "last_seen": "2026-11-10T15:15:10Z",
+      "last_seen": "2026-11-10T20:02:24Z",
       "source": {
         "id": "rss",
         "name": "Quantum Commodity Intelligence",
@@ -303,7 +379,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-10T15:15:10Z",
+      "last_seen": "2026-11-10T20:02:24Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -326,7 +402,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-10T15:15:10Z",
+      "last_seen": "2026-11-10T20:02:24Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
