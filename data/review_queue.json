@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-10T15:15:10Z",
-  "pending_count": 27,
-  "actionable_count": 11,
+  "pending_count": 25,
+  "actionable_count": 9,
   "blocked_count": 16,
   "items": [
     {
@@ -23,44 +23,6 @@
       "translation_state": "pending",
       "published_date": "2026-11-10",
       "source_excerpt": ""
-    },
-    {
-      "id": "c86ac4237b31906d2d87",
-      "url": "https://gov.uk/government/collections/carbon-border-adjustment-mechanism",
-      "published_at": "2026-11-10T00:00:00Z",
-      "title_original": "Prepare for the Carbon Border Adjustment Mechanism (CBAM)",
-      "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-10T15:15:10Z",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-10",
-      "source_excerpt": "Find out what to do if you import specific goods from the aluminium, cement, fertiliser, hydrogen, and iron and steel sectors into the UK from 1 January 2027. The Carbon Border Adjustment Mechanism ( CBAM ) comes into effect on 1 January 2027. It will tax embodied emissions in specific carbon intensive goods imported into the UK. If you import CBAM goods into the UK from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors: you’ll have to keep records — from 1 January 2027 you may need to register — registration opens on 1 January 2028 If you import CBAM goods into the UK from…"
-    },
-    {
-      "id": "44116c2e9f27e21099d6",
-      "url": "https://gov.uk/government/collections/check-if-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
-      "published_at": "2026-11-10T00:00:00Z",
-      "title_original": "Check if you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
-      "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-10T15:15:10Z",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-10",
-      "source_excerpt": "Find out if you need to register for CBAM when you import selected CBAM goods from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors from 1 January 2027."
     },
     {
       "id": "760501e838bd9ed57861",

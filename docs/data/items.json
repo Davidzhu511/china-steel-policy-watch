@@ -847,6 +847,104 @@
       "reviewed_at": "2026-10-10"
     },
     {
+      "id": "c86ac4237b31906d2d87",
+      "title_zh": "英国CBAM：2027年起保存进口记录，2028年开放注册",
+      "title_en": "UK CBAM: record-keeping starts in 2027, registration opens in 2028",
+      "title_original": "Prepare for the Carbon Border Adjustment Mechanism (CBAM)",
+      "summary_zh": "【事实】HMRC于2026年11月10日更新官方CBAM总指南，明确CBAM于2027年1月1日对特定铝、水泥、化肥、氢、钢铁进口货物生效；自该日起进口商必须保存记录，即使不需注册也应保存可证明不承担税务责任的记录。CBAM注册于2028年1月1日开放。此为官方指南的澄清更新，不代表税制生效推迟至2028年。",
+      "summary_en": "HMRC updated its CBAM collection on 10 November 2026: CBAM applies from 1 January 2027 to specified imports, with record-keeping from that date including evidence of non-liability. Registration opens 1 January 2028. The latter is not a deferral of the tax.",
+      "impact_zh": "【研判】中国钢厂对英国出口应从2027年货物开始准备商品编码、进口商、交易及实际嵌入排放数据；报价与合同不得将2028年注册误当作2027年无CBAM成本。",
+      "impact_en": "UK-bound steel exporters should prepare commodity codes, importer and emissions records for 2027 and avoid treating 2028 registration as tax deferral.",
+      "url": "https://gov.uk/government/collections/carbon-border-adjustment-mechanism",
+      "published_at": "2026-11-10T00:00:00Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "碳与环保",
+      "status": "英国官方执行指南更新",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "英国",
+        "CBAM",
+        "2027",
+        "记录保存"
+      ],
+      "tags_en": [
+        "UK",
+        "CBAM",
+        "2027",
+        "record keeping"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-11-10T15:15:10Z",
+      "source_excerpt": "Find out what to do if you import specific goods from the aluminium, cement, fertiliser, hydrogen, and iron and steel sectors into the UK from 1 January 2027. The Carbon Border Adjustment Mechanism ( CBAM ) comes into effect on 1 January 2027. It will tax embodied emissions in specific carbon intensive goods imported into the UK. If you import CBAM goods into the UK from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors: you’ll have to keep records — from 1 January 2027 you may need to register — registration opens on 1 January 2028 If you import CBAM goods into the UK from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors: Find out about CBAM rates and default values for aluminium, cement, fertilisers, hydrogen and iron and steel.",
+      "coverage": "2026-11-10读取HMRC官方集合页正文及更新历史，确认2027-01-01记账、2028-01-01注册；未据集合页推断特定钢种税率。",
+      "follow_up": "【待确认】按实际UK商品编码、进口责任人及HMRC税率/默认值指南逐票核对2027年义务和成本。",
+      "evidence_url": "https://www.gov.uk/government/collections/carbon-border-adjustment-mechanism",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-10"
+    },
+    {
+      "id": "44116c2e9f27e21099d6",
+      "title_zh": "英国CBAM注册判断指南更新：进口货值门槛5万英镑",
+      "title_en": "UK CBAM registration guidance: £50,000 threshold and 2027 records",
+      "title_original": "Check if you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
+      "summary_zh": "【事实】HMRC于2026年11月10日更新注册判断指南，明确2027年1月1日起需保存CBAM相关记录、2028年1月1日起开放注册。注册判断包括：商品编码是否属于CBAM范围、谁是进口责任人、哪些进口不计入门槛，以及符合条件的CBAM进口货物累计或预计货值是否超过50,000英镑。门槛并非所有钢铁进口统一豁免，应按指南计算。",
+      "summary_en": "HMRC's updated registration guide confirms records from 1 January 2027 and registration opening on 1 January 2028. Liability checks include commodity codes, importer identity, excluded transactions and whether relevant imports exceed or are expected to exceed £50,000.",
+      "impact_zh": "【研判】英国客户应按进口主体汇总适用CBAM货值，避免把单票货值、全部钢材货值或中国出口商销售额直接当作注册门槛依据；中国供货方应配合提供可追溯排放及产品信息。",
+      "impact_en": "UK importers should calculate threshold exposure by liable importer and in-scope goods; Chinese suppliers should provide traceable product and emissions information.",
+      "url": "https://gov.uk/government/collections/check-if-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
+      "published_at": "2026-11-10T00:00:00Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "碳与环保",
+      "status": "英国官方执行指南更新",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "英国",
+        "CBAM",
+        "注册门槛",
+        "进口商"
+      ],
+      "tags_en": [
+        "UK",
+        "CBAM",
+        "registration threshold",
+        "importer"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-11-10T15:15:10Z",
+      "source_excerpt": "Find out if you need to register for CBAM when you import selected CBAM goods from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors from 1 January 2027.",
+      "coverage": "2026-11-10读取HMRC官方注册指南步骤1至4及更新历史，确认50,000英镑门槛和2027/2028节点；未逐项核验全部税号或例外清单。",
+      "follow_up": "【待确认】核对具体UK商品编码、进口主体、门槛排除项和适用期间，结合客户2027年进口计划判断是否需要2028年注册。",
+      "evidence_url": "https://www.gov.uk/government/collections/check-if-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-10"
+    },
+    {
       "id": "e35ed0d5a73d3dbbcac1",
       "title_zh": "欧盟CBAM核查机构认可进展：7家国家认可机构已接收第三国申请",
       "title_en": "CBAM accreditation update: seven national bodies accepting third-country applications",
@@ -5817,74 +5915,6 @@
       "reviewed_at": "2026-10-11"
     },
     {
-      "id": "c86ac4237b31906d2d87",
-      "title_zh": "Prepare for the Carbon Border Adjustment Mechanism (CBAM)",
-      "title_en": "Prepare for the Carbon Border Adjustment Mechanism (CBAM)",
-      "title_original": "Prepare for the Carbon Border Adjustment Mechanism (CBAM)",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://gov.uk/government/collections/carbon-border-adjustment-mechanism",
-      "published_at": "2026-11-10T00:00:00Z",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "英国",
-      "region": "欧洲",
-      "category": "碳与环保",
-      "status": "待核对",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-10T15:15:10Z",
-      "source_excerpt": "Find out what to do if you import specific goods from the aluminium, cement, fertiliser, hydrogen, and iron and steel sectors into the UK from 1 January 2027. The Carbon Border Adjustment Mechanism ( CBAM ) comes into effect on 1 January 2027. It will tax embodied emissions in specific carbon intensive goods imported into the UK. If you import CBAM goods into the UK from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors: you’ll have to keep records — from 1 January 2027 you may need to register — registration opens on 1 January 2028 If you import CBAM goods into the UK from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors: Find out about CBAM rates and default values for aluminium, cement, fertilisers, hydrogen and iron and steel."
-    },
-    {
-      "id": "44116c2e9f27e21099d6",
-      "title_zh": "Check if you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
-      "title_en": "Check if you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
-      "title_original": "Check if you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://gov.uk/government/collections/check-if-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
-      "published_at": "2026-11-10T00:00:00Z",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "英国",
-      "region": "欧洲",
-      "category": "碳与环保",
-      "status": "待核对",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-10T15:15:10Z",
-      "source_excerpt": "Find out if you need to register for CBAM when you import selected CBAM goods from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors from 1 January 2027."
-    },
-    {
       "id": "51cd69870c02d2eeeb5e",
       "title_zh": "Prestressed Concrete Steel Wire Strand From China; Determinations",
       "title_en": "Prestressed Concrete Steel Wire Strand From China; Determinations",
@@ -5951,14 +5981,14 @@
       "first_seen": "2026-11-06T14:38:14Z",
       "last_seen": "2026-11-10T15:15:10Z",
       "source_excerpt": "News article 6 November 2026 Commission initiates safeguard investigation into imports of PET resin chemicals Today, the Commission initiated a safeguard investigation to assess whether safeguard measures are needed to protect EU industry from a significant increase in imports of polyethylene terephthalate (PET) resin chemicals. 1 min read",
-      "review_disposition": "excluded",
-      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
-      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
-      "review_attempted_at": "2026-11-07",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
+      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
+      "review_attempted_at": "2026-11-07"
     },
     {
       "id": "ddd77b02ae7fca8ba53c",
@@ -6422,17 +6452,17 @@
       "first_seen": "2026-11-01T14:00:44Z",
       "last_seen": "2026-11-10T15:15:10Z",
       "source_excerpt": "Al día con la normativa | Defensoría del Contribuyente y del Usuario Aduanero Ir al contenido Buscar: Inicio Nosotros Solicita la intervención Derechos y deberes Educación fiscal Al día con la normativa Inicio Nosotros Solicita la intervención Derechos y deberes Educación fiscal Al día con la normativa Al día con la normativa  Inicio 9 Al día con la normativa Al día con la normativa Consulta la agenda regulatoria de las entidades que, en razón a sus competencias, expiden normas que tienen incidencia directa o indirecta en el cumplimiento de tus obligaciones tributarias, aduaneras o cambiarias. 2026 Ministerio de Hacienda y Crédito Público – MINHACIENDA Ministerio de Comercio, Industria y Turismo – MINCIT Dirección de Impuestos y Aduanas Nacionales – DIAN Otras entidades 2025 Ministerio de Hacienda y Crédito Público – MINHACIENDA Ministerio de Comercio, Industria y Turismo – MINCIT Dirección de Impuestos y Aduanas Nacionales – DIAN Otras entidades 2024 Ministerio de Hacienda y Crédito…",
+      "priority_signal": {
+        "zh": "贸易救济程序 · 待核对",
+        "en": "Trade-remedy procedure · review needed"
+      },
       "review_disposition": "blocked",
       "review_note_zh": "2026年11月2日下午复核哥伦比亚官方法规汇总、中国商务部官方编译、10月23日参与公告及第00695号决议的公开法规转载。可确认正式立案、产品范围、5个税号、申请企业DIACO与Ternium Colombia、调查期，以及申请方主张中国155%、土耳其28%的倾销幅度；该幅度只是申请方主张，并非临时或最终税率。10月23日公告称相关方有30个工作日提交意见和证据，但MinCIT原始决议、问卷及期限计算规则仍未稳定取得，因此不得擅自换算最终日历截止日。",
       "review_note_en": "Colombia opened an AD inquiry on L/U steel profiles under Resolution 00695; partial official listings and secondary translations establish initiation, but the full ministry decision, questionnaire and exact statutory deadline are not reliably accessible. Petitioner-estimated margins are not imposed duties.",
       "review_attempted_at": "2026-11-07",
       "review_title_zh": "哥伦比亚对中国和土耳其L/U型钢发起反倾销调查：原始决议及问卷待确认",
       "review_evidence_url": "https://www.defensoriadian.gov.co/al-dia-con-la-normativa/",
-      "review_coverage": "有限覆盖（2026-11-02下午复核）：官方法规汇总确认第00695号决议立案；公开法规转载补充申请方主张的155%／28%倾销幅度，10月23日公告补充30个工作日参与窗口。仍未取得稳定可读的MinCIT原始决议、问卷和期限计算规则，继续计入待全文核验。",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      }
+      "review_coverage": "有限覆盖（2026-11-02下午复核）：官方法规汇总确认第00695号决议立案；公开法规转载补充申请方主张的155%／28%倾销幅度，10月23日公告补充30个工作日参与窗口。仍未取得稳定可读的MinCIT原始决议、问卷和期限计算规则，继续计入待全文核验。"
     },
     {
       "id": "f187592898280e7a0335",

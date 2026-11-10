@@ -6,9 +6,9 @@
   "analysis_status": "unconfigured",
   "active_items": 276,
   "archived_items": 103,
-  "verified_items": 249,
-  "pending_analysis": 27,
-  "pending_translation": 27,
+  "verified_items": 251,
+  "pending_analysis": 25,
+  "pending_translation": 25,
   "blocked_items": 16,
   "offline_translation": {
     "status": "disabled",
@@ -97,5 +97,6 @@
       "consecutive_failures": 0
     }
   ],
-  "warnings": []
+  "warnings": [],
+  "editorial_updated_at": "2026-11-10T16:27:33Z"
 }
