@@ -6631,5 +6631,63 @@
     "follow_up": "【待确认】逐家核对拟合作核查机构的有效认可证书、CBAM适用范围及中国工厂核查安排；跟踪欧委会更新的获认可机构名单。",
     "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
     "coverage": "2026-11-09逐页读取DG TAXUD两页官方PDF，核对各国家认可机构四列状态及合计24/20/7/7；未据此认定具体机构已获认可。"
+  },
+  {
+    "url": "https://gov.uk/government/collections/carbon-border-adjustment-mechanism",
+    "published_date": "2026-11-10",
+    "reviewed_at": "2026-11-10",
+    "title_zh": "英国CBAM：2027年起保存进口记录，2028年开放注册",
+    "title_en": "UK CBAM: record-keeping starts in 2027, registration opens in 2028",
+    "summary_zh": "【事实】HMRC于2026年11月10日更新官方CBAM总指南，明确CBAM于2027年1月1日对特定铝、水泥、化肥、氢、钢铁进口货物生效；自该日起进口商必须保存记录，即使不需注册也应保存可证明不承担税务责任的记录。CBAM注册于2028年1月1日开放。此为官方指南的澄清更新，不代表税制生效推迟至2028年。",
+    "summary_en": "HMRC updated its CBAM collection on 10 November 2026: CBAM applies from 1 January 2027 to specified imports, with record-keeping from that date including evidence of non-liability. Registration opens 1 January 2028. The latter is not a deferral of the tax.",
+    "impact_zh": "【研判】中国钢厂对英国出口应从2027年货物开始准备商品编码、进口商、交易及实际嵌入排放数据；报价与合同不得将2028年注册误当作2027年无CBAM成本。",
+    "impact_en": "UK-bound steel exporters should prepare commodity codes, importer and emissions records for 2027 and avoid treating 2028 registration as tax deferral.",
+    "category": "碳与环保",
+    "status": "英国官方执行指南更新",
+    "importance": "高",
+    "tags": [
+      "英国",
+      "CBAM",
+      "2027",
+      "记录保存"
+    ],
+    "tags_en": [
+      "UK",
+      "CBAM",
+      "2027",
+      "record keeping"
+    ],
+    "follow_up": "【待确认】按实际UK商品编码、进口责任人及HMRC税率/默认值指南逐票核对2027年义务和成本。",
+    "evidence_url": "https://www.gov.uk/government/collections/carbon-border-adjustment-mechanism",
+    "coverage": "2026-11-10读取HMRC官方集合页正文及更新历史，确认2027-01-01记账、2028-01-01注册；未据集合页推断特定钢种税率。"
+  },
+  {
+    "url": "https://gov.uk/government/collections/check-if-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
+    "published_date": "2026-11-10",
+    "reviewed_at": "2026-11-10",
+    "title_zh": "英国CBAM注册判断指南更新：进口货值门槛5万英镑",
+    "title_en": "UK CBAM registration guidance: £50,000 threshold and 2027 records",
+    "summary_zh": "【事实】HMRC于2026年11月10日更新注册判断指南，明确2027年1月1日起需保存CBAM相关记录、2028年1月1日起开放注册。注册判断包括：商品编码是否属于CBAM范围、谁是进口责任人、哪些进口不计入门槛，以及符合条件的CBAM进口货物累计或预计货值是否超过50,000英镑。门槛并非所有钢铁进口统一豁免，应按指南计算。",
+    "summary_en": "HMRC's updated registration guide confirms records from 1 January 2027 and registration opening on 1 January 2028. Liability checks include commodity codes, importer identity, excluded transactions and whether relevant imports exceed or are expected to exceed £50,000.",
+    "impact_zh": "【研判】英国客户应按进口主体汇总适用CBAM货值，避免把单票货值、全部钢材货值或中国出口商销售额直接当作注册门槛依据；中国供货方应配合提供可追溯排放及产品信息。",
+    "impact_en": "UK importers should calculate threshold exposure by liable importer and in-scope goods; Chinese suppliers should provide traceable product and emissions information.",
+    "category": "碳与环保",
+    "status": "英国官方执行指南更新",
+    "importance": "高",
+    "tags": [
+      "英国",
+      "CBAM",
+      "注册门槛",
+      "进口商"
+    ],
+    "tags_en": [
+      "UK",
+      "CBAM",
+      "registration threshold",
+      "importer"
+    ],
+    "follow_up": "【待确认】核对具体UK商品编码、进口主体、门槛排除项和适用期间，结合客户2027年进口计划判断是否需要2028年注册。",
+    "evidence_url": "https://www.gov.uk/government/collections/check-if-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
+    "coverage": "2026-11-10读取HMRC官方注册指南步骤1至4及更新历史，确认50,000英镑门槛和2027/2028节点；未逐项核验全部税号或例外清单。"
   }
 ]
