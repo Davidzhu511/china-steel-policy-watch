@@ -1,10 +1,86 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-09T22:44:26Z",
-  "pending_count": 23,
-  "actionable_count": 7,
+  "generated_at": "2026-11-10T15:15:10Z",
+  "pending_count": 27,
+  "actionable_count": 11,
   "blocked_count": 16,
   "items": [
+    {
+      "id": "51cd69870c02d2eeeb5e",
+      "url": "https://federalregister.gov/documents/2026/11/10/2026-22923/prestressed-concrete-steel-wire-strand-from-china-determinations",
+      "published_at": "2026-11-10T00:00:00Z",
+      "title_original": "Prestressed Concrete Steel Wire Strand From China; Determinations",
+      "first_seen": "2026-11-10T15:15:10Z",
+      "last_seen": "2026-11-10T15:15:10Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "法规与正式文件",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-10",
+      "source_excerpt": ""
+    },
+    {
+      "id": "c86ac4237b31906d2d87",
+      "url": "https://gov.uk/government/collections/carbon-border-adjustment-mechanism",
+      "published_at": "2026-11-10T00:00:00Z",
+      "title_original": "Prepare for the Carbon Border Adjustment Mechanism (CBAM)",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-11-10T15:15:10Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-10",
+      "source_excerpt": "Find out what to do if you import specific goods from the aluminium, cement, fertiliser, hydrogen, and iron and steel sectors into the UK from 1 January 2027. The Carbon Border Adjustment Mechanism ( CBAM ) comes into effect on 1 January 2027. It will tax embodied emissions in specific carbon intensive goods imported into the UK. If you import CBAM goods into the UK from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors: you’ll have to keep records — from 1 January 2027 you may need to register — registration opens on 1 January 2028 If you import CBAM goods into the UK from…"
+    },
+    {
+      "id": "44116c2e9f27e21099d6",
+      "url": "https://gov.uk/government/collections/check-if-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
+      "published_at": "2026-11-10T00:00:00Z",
+      "title_original": "Check if you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-11-10T15:15:10Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-10",
+      "source_excerpt": "Find out if you need to register for CBAM when you import selected CBAM goods from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors from 1 January 2027."
+    },
+    {
+      "id": "760501e838bd9ed57861",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWo2aWlsSU5LOG5DbDJjOUFnODRFM05Ndnk3NWRoNWxmZG02eWRINktpYUpPU1luLWlpQWNXdTBVV29YX2ZoY19NTWl1Skp5X3EwSFIyQ1V5bUxqMUJVSldMYkZaS3ZBc3UzYnNkYlZkX2ZMSThPMURkRjBZRVFIM3lZOGZGZW9rNWdMYnl5SlZMc1IyUUlkaURFd3hsa3NsU2VQMWlzYXp3ZEdf?oc=5",
+      "published_at": "2026-11-10T14:01:06Z",
+      "title_original": "2026年1—10月中国钢材出口下降2.3%，进口下降11.6% - 新闻和统计",
+      "first_seen": "2026-11-10T15:15:10Z",
+      "last_seen": "2026-11-10T15:15:10Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-10",
+      "source_excerpt": "2026年1—10月中国钢材出口下降2.3%，进口下降11.6% - 新闻和统计 IndexBox"
+    },
     {
       "id": "965a973cd5855a8bbab1",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUhzTHVOZzMxbllkOTZaVjVmeTFnTC1WS2c4QXN6WFNqb05PbHhYQXRsekN1aXdSQWVBbmRqVVR4elpnenJNWHp4NmtrcUh1OFUxcm0xQ2RGeWZkTFowdGl6bGhHQjFBNGljTGhQTVR6RGRXVzdxUkxZaHpBc0NBZEptTWs?oc=5",
@@ -30,7 +106,7 @@
       "published_at": "2026-11-04T11:20:49Z",
       "title_original": "Taiwan Plans Domestic CBAM, ETS to Boost Net-Zero Competitiveness",
       "first_seen": "2026-11-09T22:44:26Z",
-      "last_seen": "2026-11-09T22:44:26Z",
+      "last_seen": "2026-11-10T15:15:10Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -49,7 +125,7 @@
       "published_at": "2026-11-09T11:39:44Z",
       "title_original": "European energy-intensive industries call for EU ETS reform and stronger carbon leakage protection",
       "first_seen": "2026-11-09T21:11:03Z",
-      "last_seen": "2026-11-09T22:44:26Z",
+      "last_seen": "2026-11-10T15:15:10Z",
       "source": {
         "id": "rss",
         "name": "SteelOrbis",
@@ -68,7 +144,7 @@
       "published_at": "2026-11-09T11:12:19Z",
       "title_original": "Weak demand and high inventories continue to pressure steel prices in China",
       "first_seen": "2026-11-09T16:53:53Z",
-      "last_seen": "2026-11-09T22:44:26Z",
+      "last_seen": "2026-11-10T15:15:10Z",
       "source": {
         "id": "rss",
         "name": "SteelRadar",
@@ -87,7 +163,7 @@
       "published_at": "2026-11-08T10:20:34Z",
       "title_original": "October Billet Market Review: China, Turkey Prices Drop; Gulf States Gain $34/t",
       "first_seen": "2026-11-09T16:53:53Z",
-      "last_seen": "2026-11-09T22:44:26Z",
+      "last_seen": "2026-11-10T15:15:10Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -125,7 +201,7 @@
       "published_at": "2026-11-04T01:36:41Z",
       "title_original": "Steel sector shifts to high-quality development amid market headwinds",
       "first_seen": "2026-11-07T21:58:32Z",
-      "last_seen": "2026-11-09T22:44:26Z",
+      "last_seen": "2026-11-10T15:15:10Z",
       "source": {
         "id": "rss",
         "name": "China Daily Global Edition",
@@ -146,7 +222,7 @@
       "published_at": "2026-10-19T00:00:00Z",
       "title_original": "Resolución No. 00695 de 16 de octubre de 2026 - investigación antidumping sobre perfiles de hierro o acero en L y U",
       "first_seen": "2026-11-01T14:00:44Z",
-      "last_seen": "2026-11-09T22:44:26Z",
+      "last_seen": "2026-11-10T15:15:10Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销",
@@ -219,7 +295,7 @@
       "published_at": "2026-11-06T09:21:00Z",
       "title_original": "CBAM Rules for Crediting 3rd Country Carbon Prices",
       "first_seen": "2026-11-06T14:38:14Z",
-      "last_seen": "2026-11-08T13:53:36Z",
+      "last_seen": "2026-11-10T15:15:10Z",
       "source": {
         "id": "rss",
         "name": "Steel and Stainless Steel News",
@@ -242,7 +318,7 @@
       "published_at": "2026-11-05T17:49:17Z",
       "title_original": "CBAM boosting European steelmaker's earnings: CEO",
       "first_seen": "2026-11-05T20:18:56Z",
-      "last_seen": "2026-11-09T22:44:26Z",
+      "last_seen": "2026-11-10T15:15:10Z",
       "source": {
         "id": "rss",
         "name": "Quantum Commodity Intelligence",
@@ -265,7 +341,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-09T22:44:26Z",
+      "last_seen": "2026-11-10T15:15:10Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -288,7 +364,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-09T22:44:26Z",
+      "last_seen": "2026-11-10T15:15:10Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
