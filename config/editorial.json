@@ -6689,5 +6689,80 @@
     "follow_up": "【待确认】核对具体UK商品编码、进口主体、门槛排除项和适用期间，结合客户2027年进口计划判断是否需要2028年注册。",
     "evidence_url": "https://www.gov.uk/government/collections/check-if-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
     "coverage": "2026-11-10读取HMRC官方注册指南步骤1至4及更新历史，确认50,000英镑门槛和2027/2028节点；未逐项核验全部税号或例外清单。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDBNQjhzcWoyUF9XN0Q2b2RUWUFXbFVzak5xTzFRYVplb0Y4LV9TMnQzaU9lZU9RQXllZERtbkx5bDRHYjF2WVR2UFFtR1gxLVpINHl3N3g1LVBuMnUydVduSGpRR01aMjlHWGs5eGR0eTJJNEZzODItS2M1VWFyeHU3UTMzVmdCbHRjM0N6VFI4YlpubEtMVTFna1pjc09GbzA4YUtXUTZyVmpodWJz?oc=5",
+    "published_date": "2026-11-10",
+    "reviewed_at": "2026-11-11",
+    "title_zh": "沙特对中国及土耳其热轧中轻型结构型钢启动反倾销调查",
+    "title_en": "Saudi Arabia opens AD investigation into Chinese and Turkish hot-rolled sections",
+    "summary_zh": "【事实】沙特外贸总局GAFT官方案件AD-26-3显示，2026年11月9日正式对原产于中国和土耳其的热轧中轻型结构型钢、角钢及型材启动反倾销调查，状态为调查进行中。官方跟踪页列有10个沙特12位税号，分别为721621000002、721621000001、721632100002、721632100001、721631100002、721631100001、721640100002、721640100001、721633100002、721633100001。该立案不等于已征收反倾销税。",
+    "summary_en": "Saudi Arabia opens AD investigation into Chinese and Turkish hot-rolled sections",
+    "impact_zh": "【研判】中国出口沙特的建筑型钢存在新增贸易救济风险；应逐一核对具体产品规格、沙特税号和原产地，并向当地进口商核实是否参与应诉。",
+    "impact_en": "【研判】中国出口沙特的建筑型钢存在新增贸易救济风险；应逐一核对具体产品规格、沙特税号和原产地，并向当地进口商核实是否参与应诉。",
+    "category": "贸易救济",
+    "status": "官方核验／限定覆盖",
+    "importance": "高",
+    "tags": [
+      "贸易救济",
+      "中国钢材出口"
+    ],
+    "tags_en": [
+      "steel exports",
+      "贸易救济"
+    ],
+    "follow_up": "【待确认】查阅GAFT第15号立案通知及问卷，确认利害关系方登记、答卷的准确截止日；不要直接依据转载报道推算期限。",
+    "evidence_url": "https://gaft.gov.sa/en/trade-remedies/follow-up-trade-remedies-investigations",
+    "coverage": "2026-11-11核对GAFT官方案件列表、跟踪页10项税号及第15号通知发布日期；未完整核实通知PDF中的登记与答卷期限。"
+  },
+  {
+    "url": "https://federalregister.gov/documents/2026/11/10/2026-22923/prestressed-concrete-steel-wire-strand-from-china-determinations",
+    "published_date": "2026-11-10",
+    "reviewed_at": "2026-11-11",
+    "title_zh": "美国对中国预应力混凝土钢绞线作出第三次日落复审肯定性损害裁定",
+    "title_en": "USITC affirms injury determination in third sunset review of Chinese PC strand",
+    "summary_zh": "【事实】美国国际贸易委员会2026年10月28日公告，在中国预应力混凝土钢绞线反倾销和反补贴第三次五年日落复审（701-TA-464、731-TA-1160）中作出肯定性裁定；2026年11月10日美国联邦公报刊登Determinations公告。属于既有措施的日落复审，不是新启动调查或公布新税率。",
+    "summary_en": "USITC affirms injury determination in third sunset review of Chinese PC strand",
+    "impact_zh": "【研判】对美预应力钢绞线业务应继续将现有反倾销及反补贴措施纳入报价与市场准入评估；不应误报为新增税率。",
+    "impact_en": "【研判】对美预应力钢绞线业务应继续将现有反倾销及反补贴措施纳入报价与市场准入评估；不应误报为新增税率。",
+    "category": "贸易救济",
+    "status": "官方核验／限定覆盖",
+    "importance": "高",
+    "tags": [
+      "贸易救济",
+      "中国钢材出口"
+    ],
+    "tags_en": [
+      "steel exports",
+      "贸易救济"
+    ],
+    "follow_up": "【待确认】继续查美国商务部后续维持税令公告及企业适用税率，按准确产品范围核对。",
+    "evidence_url": "https://www.usitc.gov/press_room/news_release/2026/er1028_69416.htm",
+    "coverage": "2026-11-11核对USITC 10月28日官方肯定性裁定、调查编号及联邦公报11月10日公告入口；联邦公报正文未能完整读取，未核定具体税率。"
+  },
+  {
+    "url": "https://gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+    "published_date": "2026-11-10",
+    "reviewed_at": "2026-11-11",
+    "title_zh": "英国更新ETS成本控制机制月度数据，未调整CBAM税率",
+    "title_en": "UK ETS guidance updates monthly CCM figures, not CBAM rates",
+    "summary_zh": "【事实】英国能源安全与净零部GOV.UK指南原发布于2020年12月17日，2026年11月10日更新说明明确本次仅更新Cost Containment Mechanism（CCM）最新月份数据。页面同时记载10月21日已公布2027年拍卖底价由28英镑上调至29.01英镑；该项不是11月10日新变化。英国ETS拍卖底价不等于英国CBAM税率。",
+    "summary_en": "UK ETS guidance updates monthly CCM figures, not CBAM rates",
+    "impact_zh": "【研判】英国碳市场拍卖价格机制可作为中长期成本背景，但不应直接用29.01英镑作为钢材进口CBAM费率或欧盟EUA价格。",
+    "impact_en": "【研判】英国碳市场拍卖价格机制可作为中长期成本背景，但不应直接用29.01英镑作为钢材进口CBAM费率或欧盟EUA价格。",
+    "category": "碳与环保",
+    "status": "官方核验／限定覆盖",
+    "importance": "低",
+    "tags": [
+      "碳与环保",
+      "中国钢材出口"
+    ],
+    "tags_en": [
+      "steel exports",
+      "碳与环保"
+    ],
+    "follow_up": "后续仅在英国ETS/CBAM价格或法定机制发生实质变化时重估英国出口报价。",
+    "evidence_url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+    "coverage": "2026-11-11核对GOV.UK页面发布日期、11月10日更新日志及10月21日历史调整；未将例行CCM数据刷新解释为CBAM新税率。"
   }
 ]
