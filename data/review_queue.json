@@ -1,48 +1,10 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-11T14:43:49Z",
-  "pending_count": 34,
-  "actionable_count": 18,
+  "pending_count": 31,
+  "actionable_count": 15,
   "blocked_count": 16,
   "items": [
-    {
-      "id": "51cd69870c02d2eeeb5e",
-      "url": "https://federalregister.gov/documents/2026/11/10/2026-22923/prestressed-concrete-steel-wire-strand-from-china-determinations",
-      "published_at": "2026-11-10T00:00:00Z",
-      "title_original": "Prestressed Concrete Steel Wire Strand From China; Determinations",
-      "first_seen": "2026-11-10T15:15:10Z",
-      "last_seen": "2026-11-11T14:43:49Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "法规与正式文件",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-10",
-      "source_excerpt": ""
-    },
-    {
-      "id": "53fed2510c2d19d615a9",
-      "url": "https://gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "published_at": "2026-11-10T00:00:00Z",
-      "title_original": "Taking part in the UK Emissions Trading Scheme markets",
-      "first_seen": "2026-10-13T08:02:09Z",
-      "last_seen": "2026-11-11T14:43:49Z",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-10",
-      "source_excerpt": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market. This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market. For background information on the UK ETS markets, see the UK Emissions Trading Scheme markets policy page. For general guidance on participating in the scheme as an installation operator or aircraft operator, see Participating in the UK Emissions Trading Scheme . We use some essential cookies to make this website work. We’d like to s…"
-    },
     {
       "id": "f8566a018e3288220a41",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZEk2SGV1RF9pSHV2QmlYN3h2TGNuM2xSdkJSc0l4Z3NSMUlSN2l4bW9Rb0VMRlRvQnNnQ1Y0M19EUVhIa3RGWGlxb3pyLWwtMkE2eUpFLTl0WjNHOEdoOU1VdElnc3BYbTBfR0hTOG5yaUFnZ3FWR1NyWTNzVi1nbFJCbjNYdnE2T3Y2N0FWelhaV2xHRzFySlhrQjBzdThpa3E2eTNrbFhJeDJ3eTV1YTNpbHZpb1FhLXRkWHVPeUE?oc=5",
@@ -137,25 +99,6 @@
       "translation_state": "pending",
       "published_date": "2026-11-05",
       "source_excerpt": "[SMM Analysis] EU quotas bind by country; CBAM decides who gets in Shanghai Metals Market"
-    },
-    {
-      "id": "725c50f2178b940efe6a",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDBNQjhzcWoyUF9XN0Q2b2RUWUFXbFVzak5xTzFRYVplb0Y4LV9TMnQzaU9lZU9RQXllZERtbkx5bDRHYjF2WVR2UFFtR1gxLVpINHl3N3g1LVBuMnUydVduSGpRR01aMjlHWGs5eGR0eTJJNEZzODItS2M1VWFyeHU3UTMzVmdCbHRjM0N6VFI4YlpubEtMVTFna1pjc09GbzA4YUtXUTZyVmpodWJz?oc=5",
-      "published_at": "2026-11-10T13:51:05Z",
-      "title_original": "Saudi Arabia Anti-Dumping Investigation: Hot-Rolled Steel Sections from China and Turkiye",
-      "first_seen": "2026-11-10T20:02:24Z",
-      "last_seen": "2026-11-11T14:43:49Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-10",
-      "source_excerpt": "Saudi Arabia Anti-Dumping Investigation: Hot-Rolled Steel Sections from China and Turkiye - News and Statistics IndexBox"
     },
     {
       "id": "e43f41b69203d7e2ef51",

@@ -945,6 +945,51 @@
       "reviewed_at": "2026-11-10"
     },
     {
+      "id": "51cd69870c02d2eeeb5e",
+      "title_zh": "美国对中国预应力混凝土钢绞线作出第三次日落复审肯定性损害裁定",
+      "title_en": "USITC affirms injury determination in third sunset review of Chinese PC strand",
+      "title_original": "Prestressed Concrete Steel Wire Strand From China; Determinations",
+      "summary_zh": "【事实】美国国际贸易委员会2026年10月28日公告，在中国预应力混凝土钢绞线反倾销和反补贴第三次五年日落复审（701-TA-464、731-TA-1160）中作出肯定性裁定；2026年11月10日美国联邦公报刊登Determinations公告。属于既有措施的日落复审，不是新启动调查或公布新税率。",
+      "summary_en": "USITC affirms injury determination in third sunset review of Chinese PC strand",
+      "impact_zh": "【研判】对美预应力钢绞线业务应继续将现有反倾销及反补贴措施纳入报价与市场准入评估；不应误报为新增税率。",
+      "impact_en": "【研判】对美预应力钢绞线业务应继续将现有反倾销及反补贴措施纳入报价与市场准入评估；不应误报为新增税率。",
+      "url": "https://federalregister.gov/documents/2026/11/10/2026-22923/prestressed-concrete-steel-wire-strand-from-china-determinations",
+      "published_at": "2026-11-10T00:00:00Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "贸易救济",
+      "status": "官方核验／限定覆盖",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "贸易救济",
+        "中国钢材出口"
+      ],
+      "tags_en": [
+        "steel exports",
+        "贸易救济"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-10T15:15:10Z",
+      "last_seen": "2026-11-11T14:43:49Z",
+      "source_excerpt": "",
+      "follow_up": "【待确认】继续查美国商务部后续维持税令公告及企业适用税率，按准确产品范围核对。",
+      "evidence_url": "https://www.usitc.gov/press_room/news_release/2026/er1028_69416.htm",
+      "coverage": "2026-11-11核对USITC 10月28日官方肯定性裁定、调查编号及联邦公报11月10日公告入口；联邦公报正文未能完整读取，未核定具体税率。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-11"
+    },
+    {
       "id": "e35ed0d5a73d3dbbcac1",
       "title_zh": "欧盟CBAM核查机构认可进展：7家国家认可机构已接收第三国申请",
       "title_en": "CBAM accreditation update: seven national bodies accepting third-country applications",
@@ -4594,6 +4639,51 @@
       "reviewed_at": "2026-10-09"
     },
     {
+      "id": "725c50f2178b940efe6a",
+      "title_zh": "沙特对中国及土耳其热轧中轻型结构型钢启动反倾销调查",
+      "title_en": "Saudi Arabia opens AD investigation into Chinese and Turkish hot-rolled sections",
+      "title_original": "Saudi Arabia Anti-Dumping Investigation: Hot-Rolled Steel Sections from China and Turkiye",
+      "summary_zh": "【事实】沙特外贸总局GAFT官方案件AD-26-3显示，2026年11月9日正式对原产于中国和土耳其的热轧中轻型结构型钢、角钢及型材启动反倾销调查，状态为调查进行中。官方跟踪页列有10个沙特12位税号，分别为721621000002、721621000001、721632100002、721632100001、721631100002、721631100001、721640100002、721640100001、721633100002、721633100001。该立案不等于已征收反倾销税。",
+      "summary_en": "Saudi Arabia opens AD investigation into Chinese and Turkish hot-rolled sections",
+      "impact_zh": "【研判】中国出口沙特的建筑型钢存在新增贸易救济风险；应逐一核对具体产品规格、沙特税号和原产地，并向当地进口商核实是否参与应诉。",
+      "impact_en": "【研判】中国出口沙特的建筑型钢存在新增贸易救济风险；应逐一核对具体产品规格、沙特税号和原产地，并向当地进口商核实是否参与应诉。",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDBNQjhzcWoyUF9XN0Q2b2RUWUFXbFVzak5xTzFRYVplb0Y4LV9TMnQzaU9lZU9RQXllZERtbkx5bDRHYjF2WVR2UFFtR1gxLVpINHl3N3g1LVBuMnUydVduSGpRR01aMjlHWGs5eGR0eTJJNEZzODItS2M1VWFyeHU3UTMzVmdCbHRjM0N6VFI4YlpubEtMVTFna1pjc09GbzA4YUtXUTZyVmpodWJz?oc=5",
+      "published_at": "2026-11-10T13:51:05Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "贸易救济",
+      "status": "官方核验／限定覆盖",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "贸易救济",
+        "中国钢材出口"
+      ],
+      "tags_en": [
+        "steel exports",
+        "贸易救济"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-10T20:02:24Z",
+      "last_seen": "2026-11-11T14:43:49Z",
+      "source_excerpt": "Saudi Arabia Anti-Dumping Investigation: Hot-Rolled Steel Sections from China and Turkiye - News and Statistics IndexBox",
+      "follow_up": "【待确认】查阅GAFT第15号立案通知及问卷，确认利害关系方登记、答卷的准确截止日；不要直接依据转载报道推算期限。",
+      "evidence_url": "https://gaft.gov.sa/en/trade-remedies/follow-up-trade-remedies-investigations",
+      "coverage": "2026-11-11核对GAFT官方案件列表、跟踪页10项税号及第15号通知发布日期；未完整核实通知PDF中的登记与答卷期限。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-11"
+    },
+    {
       "id": "1944a334a94d67b0c5eb",
       "title_zh": "马来西亚11月7日起对中国等地镀铝锌板实施4.41%—35.06%临时反倾销措施",
       "title_en": "Malaysia applies 4.41–35.06% provisional AD duties on Al-Zn coated flat steel",
@@ -5915,74 +6005,6 @@
       "reviewed_at": "2026-10-11"
     },
     {
-      "id": "51cd69870c02d2eeeb5e",
-      "title_zh": "Prestressed Concrete Steel Wire Strand From China; Determinations",
-      "title_en": "Prestressed Concrete Steel Wire Strand From China; Determinations",
-      "title_original": "Prestressed Concrete Steel Wire Strand From China; Determinations",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://federalregister.gov/documents/2026/11/10/2026-22923/prestressed-concrete-steel-wire-strand-from-china-determinations",
-      "published_at": "2026-11-10T00:00:00Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "美国",
-      "region": "北美",
-      "category": "法规与正式文件",
-      "status": "待核对",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-10T15:15:10Z",
-      "last_seen": "2026-11-11T14:43:49Z",
-      "source_excerpt": ""
-    },
-    {
-      "id": "53fed2510c2d19d615a9",
-      "title_zh": "Taking part in the UK Emissions Trading Scheme markets",
-      "title_en": "Taking part in the UK Emissions Trading Scheme markets",
-      "title_original": "Taking part in the UK Emissions Trading Scheme markets",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
-      "published_at": "2026-11-10T00:00:00Z",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "英国",
-      "region": "欧洲",
-      "category": "碳与环保",
-      "status": "待核对",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-10-13T08:02:09Z",
-      "last_seen": "2026-11-11T14:43:49Z",
-      "source_excerpt": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market. This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market. For background information on the UK ETS markets, see the UK Emissions Trading Scheme markets policy page. For general guidance on participating in the scheme as an installation operator or aircraft operator, see Participating in the UK Emissions Trading Scheme . We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Data, Freedom of Informatio…"
-    },
-    {
       "id": "1029e21c10ec29d8d9ef",
       "title_zh": "Commission initiates safeguard investigation into imports of PET resin chemicals",
       "title_en": "Commission initiates safeguard investigation into imports of PET resin chemicals",
@@ -6015,14 +6037,14 @@
       "first_seen": "2026-11-06T14:38:14Z",
       "last_seen": "2026-11-11T14:43:49Z",
       "source_excerpt": "News article 6 November 2026 Commission initiates safeguard investigation into imports of PET resin chemicals Today, the Commission initiated a safeguard investigation to assess whether safeguard measures are needed to protect EU industry from a significant increase in imports of polyethylene terephthalate (PET) resin chemicals. 1 min read",
-      "review_disposition": "excluded",
-      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
-      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
-      "review_attempted_at": "2026-11-07",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
+      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
+      "review_attempted_at": "2026-11-07"
     },
     {
       "id": "ddd77b02ae7fca8ba53c",
@@ -6435,17 +6457,17 @@
       "first_seen": "2026-11-01T14:00:44Z",
       "last_seen": "2026-11-11T14:43:49Z",
       "source_excerpt": "Al día con la normativa | Defensoría del Contribuyente y del Usuario Aduanero Ir al contenido Buscar: Inicio Nosotros Solicita la intervención Derechos y deberes Educación fiscal Al día con la normativa Inicio Nosotros Solicita la intervención Derechos y deberes Educación fiscal Al día con la normativa Al día con la normativa  Inicio 9 Al día con la normativa Al día con la normativa Consulta la agenda regulatoria de las entidades que, en razón a sus competencias, expiden normas que tienen incidencia directa o indirecta en el cumplimiento de tus obligaciones tributarias, aduaneras o cambiarias. 2026 Ministerio de Hacienda y Crédito Público – MINHACIENDA Ministerio de Comercio, Industria y Turismo – MINCIT Dirección de Impuestos y Aduanas Nacionales – DIAN Otras entidades 2025 Ministerio de Hacienda y Crédito Público – MINHACIENDA Ministerio de Comercio, Industria y Turismo – MINCIT Dirección de Impuestos y Aduanas Nacionales – DIAN Otras entidades 2024 Ministerio de Hacienda y Crédito…",
+      "priority_signal": {
+        "zh": "贸易救济程序 · 待核对",
+        "en": "Trade-remedy procedure · review needed"
+      },
       "review_disposition": "blocked",
       "review_note_zh": "2026年11月2日下午复核哥伦比亚官方法规汇总、中国商务部官方编译、10月23日参与公告及第00695号决议的公开法规转载。可确认正式立案、产品范围、5个税号、申请企业DIACO与Ternium Colombia、调查期，以及申请方主张中国155%、土耳其28%的倾销幅度；该幅度只是申请方主张，并非临时或最终税率。10月23日公告称相关方有30个工作日提交意见和证据，但MinCIT原始决议、问卷及期限计算规则仍未稳定取得，因此不得擅自换算最终日历截止日。",
       "review_note_en": "Colombia opened an AD inquiry on L/U steel profiles under Resolution 00695; partial official listings and secondary translations establish initiation, but the full ministry decision, questionnaire and exact statutory deadline are not reliably accessible. Petitioner-estimated margins are not imposed duties.",
       "review_attempted_at": "2026-11-07",
       "review_title_zh": "哥伦比亚对中国和土耳其L/U型钢发起反倾销调查：原始决议及问卷待确认",
       "review_evidence_url": "https://www.defensoriadian.gov.co/al-dia-con-la-normativa/",
-      "review_coverage": "有限覆盖（2026-11-02下午复核）：官方法规汇总确认第00695号决议立案；公开法规转载补充申请方主张的155%／28%倾销幅度，10月23日公告补充30个工作日参与窗口。仍未取得稳定可读的MinCIT原始决议、问卷和期限计算规则，继续计入待全文核验。",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      }
+      "review_coverage": "有限覆盖（2026-11-02下午复核）：官方法规汇总确认第00695号决议立案；公开法规转载补充申请方主张的155%／28%倾销幅度，10月23日公告补充30个工作日参与窗口。仍未取得稳定可读的MinCIT原始决议、问卷和期限计算规则，继续计入待全文核验。"
     },
     {
       "id": "f187592898280e7a0335",
@@ -7473,40 +7495,6 @@
       "first_seen": "2026-11-11T14:43:49Z",
       "last_seen": "2026-11-11T14:43:49Z",
       "source_excerpt": "China Steel Exports Down 2.3% in Jan-Oct 2026, Imports Fall 11.6% - News and Statistics IndexBox"
-    },
-    {
-      "id": "725c50f2178b940efe6a",
-      "title_zh": "Saudi Arabia Anti-Dumping Investigation: Hot-Rolled Steel Sections from China and Turkiye",
-      "title_en": "Saudi Arabia Anti-Dumping Investigation: Hot-Rolled Steel Sections from China and Turkiye",
-      "title_original": "Saudi Arabia Anti-Dumping Investigation: Hot-Rolled Steel Sections from China and Turkiye",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDBNQjhzcWoyUF9XN0Q2b2RUWUFXbFVzak5xTzFRYVplb0Y4LV9TMnQzaU9lZU9RQXllZERtbkx5bDRHYjF2WVR2UFFtR1gxLVpINHl3N3g1LVBuMnUydVduSGpRR01aMjlHWGs5eGR0eTJJNEZzODItS2M1VWFyeHU3UTMzVmdCbHRjM0N6VFI4YlpubEtMVTFna1pjc09GbzA4YUtXUTZyVmpodWJz?oc=5",
-      "published_at": "2026-11-10T13:51:05Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "贸易救济",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-10T20:02:24Z",
-      "last_seen": "2026-11-11T14:43:49Z",
-      "source_excerpt": "Saudi Arabia Anti-Dumping Investigation: Hot-Rolled Steel Sections from China and Turkiye - News and Statistics IndexBox"
     },
     {
       "id": "e43f41b69203d7e2ef51",
@@ -17227,6 +17215,51 @@
       "evidence_url": "https://apnews.com/article/4403c8df143be871825b7d20302385e0",
       "review_method": "source_checked",
       "reviewed_at": "2026-10-09"
+    },
+    {
+      "id": "53fed2510c2d19d615a9",
+      "title_zh": "英国更新ETS成本控制机制月度数据，未调整CBAM税率",
+      "title_en": "UK ETS guidance updates monthly CCM figures, not CBAM rates",
+      "title_original": "Taking part in the UK Emissions Trading Scheme markets",
+      "summary_zh": "【事实】英国能源安全与净零部GOV.UK指南原发布于2020年12月17日，2026年11月10日更新说明明确本次仅更新Cost Containment Mechanism（CCM）最新月份数据。页面同时记载10月21日已公布2027年拍卖底价由28英镑上调至29.01英镑；该项不是11月10日新变化。英国ETS拍卖底价不等于英国CBAM税率。",
+      "summary_en": "UK ETS guidance updates monthly CCM figures, not CBAM rates",
+      "impact_zh": "【研判】英国碳市场拍卖价格机制可作为中长期成本背景，但不应直接用29.01英镑作为钢材进口CBAM费率或欧盟EUA价格。",
+      "impact_en": "【研判】英国碳市场拍卖价格机制可作为中长期成本背景，但不应直接用29.01英镑作为钢材进口CBAM费率或欧盟EUA价格。",
+      "url": "https://gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "published_at": "2026-11-10T00:00:00Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "碳与环保",
+      "status": "官方核验／限定覆盖",
+      "importance": "低",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "碳与环保",
+        "中国钢材出口"
+      ],
+      "tags_en": [
+        "steel exports",
+        "碳与环保"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-10-13T08:02:09Z",
+      "last_seen": "2026-11-11T14:43:49Z",
+      "source_excerpt": "This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market. This guidance explains the operation of the UK ETS markets and how to take part in auctions and in trading on the secondary market. For background information on the UK ETS markets, see the UK Emissions Trading Scheme markets policy page. For general guidance on participating in the scheme as an installation operator or aircraft operator, see Participating in the UK Emissions Trading Scheme . We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Data, Freedom of Informatio…",
+      "follow_up": "后续仅在英国ETS/CBAM价格或法定机制发生实质变化时重估英国出口报价。",
+      "evidence_url": "https://www.gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "coverage": "2026-11-11核对GOV.UK页面发布日期、11月10日更新日志及10月21日历史调整；未将例行CCM数据刷新解释为CBAM新税率。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-11"
     },
     {
       "id": "5db162a3dc0df1e1d770",
