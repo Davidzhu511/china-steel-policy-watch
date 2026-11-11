@@ -51,7 +51,7 @@ jobs:
       feed_digest: ${{ steps.digest.outputs.feed_digest }}
     steps:
       - name: 检出仓库
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: main
           fetch-depth: 0
