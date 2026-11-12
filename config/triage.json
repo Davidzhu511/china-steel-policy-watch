@@ -1339,5 +1339,162 @@
     "attempted_at": "2026-11-07",
     "evidence_url": "https://nsteel.com/news_detail.php?id=2069",
     "coverage": "2026-11-07核对同标题的中国日报媒体索引及11月4日NSTEEL转载，并与已核验GMK主条的CISA数据逐项一致；原始RSS发布日期与索引日期不一致，仅同事件去重。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFJNdFJIcW9Fdjl6WUpWTmxqZzdjVGJsQmYteDVWUGFZejVqQzlzWHNxLVJSYjRlWEJtN2tBNVJDYTUxQkgtMGIxZWVSZURqalg3U2xha2FsX3dCY2FWSDBfTTRiSUQ3ZXFZWEo5bFV4TThmRW9fWUpFZ3NHMzNUX1ZObVU1eFdoZ2J5a2VHbUFuNmpkbC1NMWJ4bUJVWlJrUFVZ?oc=5",
+    "published_date": "2026-11-12",
+    "decision": "excluded",
+    "title_zh": "Türkiye is well placed for CBAM despite a potential €1.7bn bill",
+    "reason_zh": "Fastmarkets约17亿欧元土耳其CBAM账单是模型估算型报道，不能作为已公布税单或新法规；当前公开内容受订阅限制，不据标题推断税率。",
+    "reason_en": "Outside policy-focused incremental editorial scope, or no independently verified new regulatory change.",
+    "attempted_at": "2026-11-12",
+    "evidence_url": "https://www.fastmarkets.com/",
+    "coverage": "仅核对来源标题及其估算性质；未取得订阅全文，不形成独立政策断言。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3pXcDNzVnRmUUJOZDg0N2lKcmpVR1BlN29KVHJoOXp6eGZ4Q2hfNUNmRWUxRl9JNUlGeURNbFIzRHkwSFJwdFpwSTdmNjBmcldHck1VOFNCUWxpWTJ4RVFFV0owRThpa1MyaGVONnlDV0Mtc3BERm51dTZMZEdhdmFmUnJJdmhCMXNpV2tMOHBTcHRSaVZTVUxDRUdJcThfeUYtUlFOVlY5V1hGWThHQUdJdDhPZDBUWHNwRg?oc=5",
+    "published_date": "2026-11-12",
+    "decision": "excluded",
+    "title_zh": "HBIS supplies 5,700 tons of high-end pipeline steel for Heihe-Daqing gas pipeline project",
+    "reason_zh": "河钢向国内黑河—大庆管线项目供货5700吨属企业交付信息，并非涉外钢材贸易政策更新。",
+    "reason_en": "Outside policy-focused incremental editorial scope, or no independently verified new regulatory change.",
+    "attempted_at": "2026-11-12",
+    "evidence_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3pXcDNzVnRmUUJOZDg0N2lKcmpVR1BlN29KVHJoOXp6eGZ4Q2hfNUNmRWUxRl9JNUlGeURNbFIzRHkwSFJwdFpwSTdmNjBmcldHck1VOFNCUWxpWTJ4RVFFV0owRThpa1MyaGVONnlDV0Mtc3BERm51dTZMZEdhdmFmUnJJdmhCMXNpV2tMOHBTcHRSaVZTVUxDRUdJcThfeUYtUlFOVlY5V1hGWThHQUdJdDhPZDBUWHNwRg?oc=5",
+    "coverage": "按题目与来源类别排除普通订单动态，未把订单细节当作完整原文核验。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJSVlUblN3NjNORnFLZ2NCTDBZR05JMDZBVTJTNHRMcFhsbVE5Tll3cG16VzVOVlcxclB5RDRKT2JwWjIxVGxQaHVGQkNBZkQzNTB1NHVtVXl6TDBjRWZyTVhEMzdQVzZlRjc1N3dXVU8zUQ?oc=5",
+    "published_date": "2026-11-12",
+    "decision": "excluded",
+    "title_zh": "全球钢铁产量TOP10榜单：现代基建的骨架，中国一家独大",
+    "reason_zh": "全球钢铁产量前十榜单是常识性排名/评论，不涉及新的可执行法规、贸易壁垒或重要时限。",
+    "reason_en": "Outside policy-focused incremental editorial scope, or no independently verified new regulatory change.",
+    "attempted_at": "2026-11-12",
+    "evidence_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJSVlUblN3NjNORnFLZ2NCTDBZR05JMDZBVTJTNHRMcFhsbVE5Tll3cG16VzVOVlcxclB5RDRKT2JwWjIxVGxQaHVGQkNBZkQzNTB1NHVtVXl6TDBjRWZyTVhEMzdQVzZlRjc1N3dXVU8zUQ?oc=5",
+    "coverage": "标题级选题筛查，仅排除低政策价值条目，不宣称已阅读全文。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzd6cWlfLUZYRXRkUEM3bHlieVZPeWIwS2l1U2VuMEQ2M2lmcWlyQTcyU0FWQ19DWTFnSWxmeFZzbGpOc3FEWE11UHNEMUZHeWZuRVRyeWpjZERLWEtyclpWeWh2Wmd4NDJ5d0cyaTBmMnhPNkFFNkw1NHkxbG5GZktQTEFoajFaeEQ0NWVUUXFWS3JKZlR0SXlkYU9SWU00MWl0b0VvLS1rd1NRbll6d1hTQjd0dw?oc=5",
+    "published_date": "2026-11-05",
+    "decision": "excluded",
+    "title_zh": "Tech Providers Race to Automate Compliance as EU CBAM Takes Effect",
+    "reason_zh": "CBAM合规软件自动化供应商资讯不包含可独立确认的新增法定义务，平台政策已由独立官方来源跟踪。",
+    "reason_en": "Outside policy-focused incremental editorial scope, or no independently verified new regulatory change.",
+    "attempted_at": "2026-11-12",
+    "evidence_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzd6cWlfLUZYRXRkUEM3bHlieVZPeWIwS2l1U2VuMEQ2M2lmcWlyQTcyU0FWQ19DWTFnSWxmeFZzbGpOc3FEWE11UHNEMUZHeWZuRVRyeWpjZERLWEtyclpWeWh2Wmd4NDJ5d0cyaTBmMnhPNkFFNkw1NHkxbG5GZktQTEFoajFaeEQ0NWVUUXFWS3JKZlR0SXlkYU9SWU00MWl0b0VvLS1rd1NRbll6d1hTQjd0dw?oc=5",
+    "coverage": "标题级选题筛查；未据此提出法规结论。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZEk2SGV1RF9pSHV2QmlYN3h2TGNuM2xSdkJSc0l4Z3NSMUlSN2l4bW9Rb0VMRlRvQnNnQ1Y0M19EUVhIa3RGWGlxb3pyLWwtMkE2eUpFLTl0WjNHOEdoOU1VdElnc3BYbTBfR0hTOG5yaUFnZ3FWR1NyWTNzVi1nbFJCbjNYdnE2T3Y2N0FWelhaV2xHRzFySlhrQjBzdThpa3E2eTNrbFhJeDJ3eTV1YTNpbHZpb1FhLXRkWHVPeUE?oc=5",
+    "published_date": "2026-11-11",
+    "decision": "excluded",
+    "title_zh": "Chongqing Iron & Steel Announces Continuing Transactions With China Baowu",
+    "reason_zh": "重庆钢铁与宝武关联持续交易及财务服务协议属上市公司关联交易，不是出口钢材贸易壁垒或成本规则。",
+    "reason_en": "Outside policy-focused incremental editorial scope, or no independently verified new regulatory change.",
+    "attempted_at": "2026-11-12",
+    "evidence_url": "https://www.tipranks.com/news/company-announcements/chongqing-iron-steel-announces-continuing-transactions-with-china-baowu",
+    "coverage": "核对TipRanks 11月11日完整公司公告摘要及交易性质。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnhSenFtbUhPSkN5Y2xzTVFOMkJWSl9zZXZaOGNjTGdCS1liNm9veE9RZ0VzejI4ZW5yQVg0VWRwaHo4dmJJMHR0VHdnWWc5dFNnSjJjMFpOQXY0akZVWlpkcngteE1fbWJ4dzlPYXpEdHNZQ0ZOSGdXTXlHdHREaVBmZXRjaGlhS2tIVWNrWm1Ral8zbVR5dHNxSEMwYlhVeFJIaWpTaUtON011NFRBUW40MVNUck9qdHBJNVNzbVFmM2daQVFYV0t2SQ?oc=5",
+    "published_date": "2026-11-11",
+    "decision": "excluded",
+    "title_zh": "BHP (ASX:BHP) Share Price: Steel Decarbonisation Trials With 13 Steelmakers and China's Carbon Market",
+    "reason_zh": "BHP与13家钢企脱碳试验源于11月2日企业研究/投资者资讯，本条为11月11日股价评论，不构成新CBAM/ETS法律变化。",
+    "reason_en": "Outside policy-focused incremental editorial scope, or no independently verified new regulatory change.",
+    "attempted_at": "2026-11-12",
+    "evidence_url": "https://www.bhp.com/news/bhp-insights/2026/10/steelmaking-decarbonisation-progress-to-near-zero",
+    "coverage": "核对BHP 11月2日官方技术进展文；对2026年11月11日二次投资评论不另作政策解读。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa25oeVFRWGdhU0w5MFBJQVM4RlpqQ0ExZnpBYWtTREFYZVdUTjViNkhXeWlXSThvcVNVTlVFNUNqS1hXZFcteFpYa1Q4Q0FLQXROZ0hXa296TlBSeDJXQk5PTUJKOHo0OG03Z3VfUWpyUWhjNXR0c2Q2RmdnYVdRVmd4cThvb3lENGNoaW50SzltNmdaQ2lrazJsbk1fY3o1YkE?oc=5",
+    "published_date": "2026-11-10",
+    "decision": "duplicate",
+    "title_zh": "China Steel Exports Down 2.3% in Jan-Oct 2026, Imports Fall 11.6%",
+    "reason_zh": "IndexBox对海关1—10月钢材出口同比下降2.3%、进口同比下降11.6%的同批数据再叙述；已由同轮GMK主条汇总，不增加独立事实。",
+    "reason_en": "Same event/data covered in a verified editorial item; no independent incremental update.",
+    "attempted_at": "2026-11-12",
+    "evidence_url": "https://www.steelorbis.com/steel-news/latest-news/chinas-steel-exports-down-23-in-jan-oct-down-61-in-oct-from-sept-2026-1489467.htm",
+    "coverage": "与GACC经SteelOrbis和SMM核对的主条数字同源。",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSGxRcGRBbG5ISWNlakpVbUR0aEYxcUlGbGNMbHlIRHNINkhYR1lKVkpwVHlVM3p2VEVMMUpWSGdHR0lFRHp3SlJMRTJaTGFCSUpjcmJNTFFJN0ZwNVpvNkdrMXNSSUV0c1JRMV9kWDEzRG1RZzcxZ0xBVFd5c0VYb9IBhgFBVV95cUxONmNUNkxOZHJ2WGtseTQ4WU1TV2JLcFNlTk1RSjlUbHg3ZE5lZi03S21wYjBqOGFHcHdSb095YzYtall1YTdWTUMwVm1COUxrMmVKWUlfMWVBX2wyZXNYaE1sNEZoR1NfdzZoTWdhQXNaMmpMSXItTW1XVUoyLVl0OWU4Q3ptQQ?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OQzVYbzNDNFUtVjVpMUx6bklSYTBrWk9FWDgzMGVSZVhzcmtxb2dYRnZGd0lEdjVrTHdFMlMtcnM2YW0xWHV1Yw?oc=5",
+    "published_date": "2026-11-09",
+    "decision": "excluded",
+    "title_zh": "中国钢铁改写全球产业格局，专家：日本加反倾销税是饮鸩止渴",
+    "reason_zh": "原题是评论性文章；涉及日本不锈钢反倾销的实际终裁已由旧条核验，不能把泛化评论当作新的日本关税公告。",
+    "reason_en": "Outside policy-focused incremental editorial scope, or no independently verified new regulatory change.",
+    "attempted_at": "2026-11-12",
+    "evidence_url": "https://bxg.mysteel.com/a/26110514/FFDEDDECA4DBDA1D.html",
+    "coverage": "核对11月5日Mysteel援引中国贸易救济网对10月31日日本正式终裁的转载；未全文核验该评论，不据评论增加法律主张。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWWm5XLXpCUWgtclktM0NuUFRSVnR5RHljeU9QSWFucmlHLTE4Wk9IUU5jMXRBR1ZFSHl5Q1JUYUU1U0hZNjdXYUlpVWxPTkZKeEZHZXl3YXBCbDd1VHZjNGVyZTE?oc=5",
+    "published_date": "2026-11-09",
+    "decision": "excluded",
+    "title_zh": "China Steel Corporation (CNSD.L) Seasonal returns chart - Yahoo Finance",
+    "reason_zh": "Yahoo Finance季节性股票回报图表不是钢铁政策新闻或贸易救济更新。",
+    "reason_en": "Outside policy-focused incremental editorial scope, or no independently verified new regulatory change.",
+    "attempted_at": "2026-11-12",
+    "evidence_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWWm5XLXpCUWgtclktM0NuUFRSVnR5RHljeU9QSWFucmlHLTE4Wk9IUU5jMXRBR1ZFSHl5Q1JUYUU1U0hZNjdXYUlpVWxPTkZKeEZHZXl3YXBCbDd1VHZjNGVyZTE?oc=5",
+    "coverage": "基于准确题目和页面性质的选题筛查，不将财务季节图当作政策原文。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWo2aWlsSU5LOG5DbDJjOUFnODRFM05Ndnk3NWRoNWxmZG02eWRINktpYUpPU1luLWlpQWNXdTBVV29YX2ZoY19NTWl1Skp5X3EwSFIyQ1V5bUxqMUJVSldMYkZaS3ZBc3UzYnNkYlZkX2ZMSThPMURkRjBZRVFIM3lZOGZGZW9rNWdMYnl5SlZMc1IyUUlkaURFd3hsa3NsU2VQMWlzYXp3ZEdf?oc=5",
+    "published_date": "2026-11-10",
+    "decision": "duplicate",
+    "title_zh": "2026年1—10月中国钢材出口下降2.3%，进口下降11.6% - 新闻和统计",
+    "reason_zh": "与英文IndexBox及GMK报道同为2026年1—10月海关钢材进出口统计，不重复计数。",
+    "reason_en": "Same event/data covered in a verified editorial item; no independent incremental update.",
+    "attempted_at": "2026-11-12",
+    "evidence_url": "https://www.steelorbis.com/steel-news/latest-news/chinas-steel-exports-down-23-in-jan-oct-down-61-in-oct-from-sept-2026-1489467.htm",
+    "coverage": "核对与主条相同的-2.3%/-11.6%数据。",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSGxRcGRBbG5ISWNlakpVbUR0aEYxcUlGbGNMbHlIRHNINkhYR1lKVkpwVHlVM3p2VEVMMUpWSGdHR0lFRHp3SlJMRTJaTGFCSUpjcmJNTFFJN0ZwNVpvNkdrMXNSSUV0c1JRMV9kWDEzRG1RZzcxZ0xBVFd5c0VYb9IBhgFBVV95cUxONmNUNkxOZHJ2WGtseTQ4WU1TV2JLcFNlTk1RSjlUbHg3ZE5lZi03S21wYjBqOGFHcHdSb095YzYtall1YTdWTUMwVm1COUxrMmVKWUlfMWVBX2wyZXNYaE1sNEZoR1NfdzZoTWdhQXNaMmpMSXItTW1XVUoyLVl0OWU4Q3ptQQ?oc=5"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM3hUbURGMGpIMGhDdFhCOGVRdjFTVkg1N0JycjFHYURkZ05yX0NOSmsyOWc0WVpwTnp0MnNjSEJqSDlLOXdsOVUyVTU1MWRtT09YcWd2V0RBN1lNaDd6N29ZbnJKNUd0OUhkQ09SY05XWWpTQ05QUUxxbU1iamo5Y1QwMGpjU0l5NHJjXzVXcE5DY2pMOHpfZDlfNmMyM2VuY29PeUhuQzNCRFBITmZkOGNR?oc=5",
+    "published_date": "2026-11-09",
+    "decision": "excluded",
+    "title_zh": "Weak demand and high inventories continue to pressure steel prices in China",
+    "reason_zh": "SteelRadar正文为11月首周中国供需疲弱、高库存、报价承压的市场综述，不是独立政策决议。",
+    "reason_en": "Outside policy-focused incremental editorial scope, or no independently verified new regulatory change.",
+    "attempted_at": "2026-11-12",
+    "evidence_url": "https://www.steelradar.com/en/haber/weak-demand-and-high-inventories-continue-to-pressure-steel-prices-in-china/",
+    "coverage": "核对SteelRadar 11月9日全文，不含新贸易法规或确切政策时限。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmxKUURLdjF0bmplNzMzMDRGSGJtckg5Skh2aFpRalMtN2hpdUdtQm5namJrWjRMb3UyNEUyLWpGMG1OTmRYQmFKdFdobDFjMksxc2lSa3hTYUJ0TGRyb1g4V09zaVhodzc3Z2tuSWFDNGlXZDhpTGZUNlc1Nk9mdDhYWW5nTEJuQ2tvcGZ2d19obnhIVHY4X2FWNXJPLVhFMEhKNUZ1cmkyS19NaW5nUVR6ZmRncVo1cmc?oc=5",
+    "published_date": "2026-11-08",
+    "decision": "excluded",
+    "title_zh": "October Billet Market Review: China, Turkey Prices Drop; Gulf States Gain $34/t",
+    "reason_zh": "10月钢坯市场回顾属于跨国行情汇总；本轮不将未获得可核实独立报价明细的标题数字编成业务政策结论。",
+    "reason_en": "Outside policy-focused incremental editorial scope, or no independently verified new regulatory change.",
+    "attempted_at": "2026-11-12",
+    "evidence_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMmxKUURLdjF0bmplNzMzMDRGSGJtckg5Skh2aFpRalMtN2hpdUdtQm5namJrWjRMb3UyNEUyLWpGMG1OTmRYQmFKdFdobDFjMksxc2lSa3hTYUJ0TGRyb1g4V09zaVhodzc3Z2tuSWFDNGlXZDhpTGZUNlc1Nk9mdDhYWW5nTEJuQ2tvcGZ2d19obnhIVHY4X2FWNXJPLVhFMEhKNUZ1cmkyS19NaW5nUVR6ZmRncVo1cmc?oc=5",
+    "coverage": "标题及来源性质筛查，未独立核查34美元/吨的报价样本，故不写入已核验行情。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaFVrc0FWV2hKRTRLUFZRZG9kTnd2QVBDU1Y1NUZvSVk0M2RSV2JmVEs5SXRKVDhwYmp5dkxqR0U2allER3JaRlBRUjRaOEJSMFBxbFlfYzFIcGNOa1p1NkV0bklBX3FCRGh2NWtRVkY4elBKVFk0YVpZY3cwX0c2TV9RSlUxM3lEazFGVVZJcTJTamFXUEkwS2xMMng5ZUNoNkc1VTF2dEVSWWs?oc=5",
+    "published_date": "2026-11-05",
+    "decision": "excluded",
+    "title_zh": "Anticipated EU CBAM Expansion to Downstream Products: Philippines exporter workshop",
+    "reason_zh": "IISD 11月5日菲律宾CBAM下游扩围培训是研讨会，不是欧盟新立法；主办方明确最终扩围范围仍在立法程序中。",
+    "reason_en": "Outside policy-focused incremental editorial scope, or no independently verified new regulatory change.",
+    "attempted_at": "2026-11-12",
+    "evidence_url": "https://www.iisd.org/events/anticipated-eu-cbam-expansion-downstream-products-philippines-exporter-workshop",
+    "coverage": "核对IISD官方活动页：2025年12月扩围提案、拟2028年实施均属尚未定稿的立法信息。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMVJkX29MSnQ0b1J1eEpzM1Z1dkJGbXAtSEV0Z1ZmNk1EQUNqZDZ3YmxaQkV3WGRkUXo4ZHRxeUxMdktEVjhNU0RTZHZjbDRhTGYxQjNIY1AxSWg2RUxHVkY5bDZNcmsyRTdselBLNi1PM1Z5c1oteVZHUmU4WXdua3lR?oc=5",
+    "published_date": "2026-11-04",
+    "decision": "duplicate",
+    "title_zh": "Steel sector shifts to high-quality development amid market headwinds",
+    "reason_zh": "11月4日中国日报钢铁高质量发展报道的中钢协产量/消费/利润数据已有已核验主条覆盖，与11月6日的同来源重复记录亦此前标记。",
+    "reason_en": "Same event/data covered in a verified editorial item; no independent incremental update.",
+    "attempted_at": "2026-11-12",
+    "evidence_url": "https://nsteel.com/news_detail.php?id=2069",
+    "coverage": "核对11月4日NSTEEL同标题转载及已有中钢协数据解读；此记录的RSS日期为11月4日。",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkYXpwMV9PNzVuZjRZYWpQWkhpMHVsYmlndmJONWQwMVZLZzNhc0FGN1dTOHhTYmJCUEQwdWJtenlxbDJCMEFJR3F1M2VpelZVZllubmY4U1NEQTR4QmVsYm1sYnQyNjVjUGc?oc=5"
   }
 ]

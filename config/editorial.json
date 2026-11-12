@@ -6793,5 +6793,248 @@
     "follow_up": "跟踪欧盟理事会与议会就CBAM下游扩围的最终法案及豁免门槛；核对最终CN编码、产品重量计算与防规避规定。",
     "evidence_url": "https://www.bricomagazine.com/cbam-assofermet-chiede-alla-ue-di-rivedere-la-soglia/",
     "coverage": "2026-11-12核对BricoMagazine 11月11日意大利语原始报道、SteelOrbis及GMK Center报道，并对照欧盟理事会2025年50吨简化协议和2026年下游扩围谈判说明；未取得协会致函全文，具体协会估算和扩围清单仅有限覆盖。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wZ2F0TTdRQTZTbzZWUzl2YnVDdElPT0VPRTg5ZlVLN21ZWGhpOE4yQXBqdkE4Qk1IVlZyRl9IUnJveWpMemh5bW1WQ3RxdFFSZHhqWXlfMEVsUW1IM1NSQ1hn?oc=5",
+    "published_date": "2026-11-12",
+    "reviewed_at": "2026-11-12",
+    "title_zh": "宝武西芒杜北部矿区第二系列投产，年产6000万吨为设计能力而非当前产量",
+    "title_en": "Baowu's second Simandou North series commissioned; 60 Mtpa is nameplate capacity",
+    "summary_zh": "【事实】11月6日几内亚西芒杜北部矿区第二系列完成重载试车并投产，矿山、铁路、港口链条贯通。宝武控股的北部区块资源量约15.4亿吨、品位约65.28%，两系列设计能力各3000万吨/年，合计6000万吨/年；第一系列累计成品矿产运超1000万吨。设计能力不代表已达产，也非全项目即时供货量。",
+    "summary_en": "Source checked; the Chinese summary distinguishes reported facts, policy status, and analyst scenarios. Refer to the evidence link and scope note.",
+    "impact_zh": "【研判】高品矿扩产或逐步改善中国钢厂原料采购议价及低碳炼铁原料结构，但短期价格影响取决于爬坡、运力与实际到港量。",
+    "impact_en": "Business implications are analytical rather than enacted legal obligations; verify the applicable official measures before quoting.",
+    "category": "市场与产能",
+    "status": "已核验／有限范围",
+    "importance": "中",
+    "tags": [
+      "钢铁",
+      "贸易政策",
+      "事实核验"
+    ],
+    "tags_en": [
+      "steel",
+      "trade policy",
+      "source checked"
+    ],
+    "follow_up": "跟踪第二系列月度产销、铁路港口吞吐及实际到中国到货量，不将设计年产能计入2026实产。",
+    "evidence_url": "https://news.metal.com/newscontent/ZBHOCKSKYZYXXPN3LJU4OZZBIWDPS4XGJQOXE7Y-milestone-simandou-north-mine-project-fully-completed-and-put-into-production",
+    "coverage": "2026-11-12核对中国宝武相关投产消息的SMM 11月11日长报道及Asian Metal复核；RSS Global Times来源日期为11月12日，事件发生11月6日。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUFpNalp2V3ZlZmlzdTVsb0gwcWFCN1drZ3JBdDEwaHJpN3hFUXNPSlZJT0tlOXdlVm1vTkZncEpnQjI0Qm5YRlphZWE5TzlwUC1HNnhDRUh1OGw3OEkzNlFtLWZlbllBbzd5dkxMclNpZWtLMVdrbmxGUVJDWldtVHB5NXJDNldWVmNiNVh0cENvLW9rTUpyLVdFZUVRS1FoVnRfbUtibG00T3ZYVWFzVnlNczVld19fQVhOakJLcWtDdV8zLVNIQkV0QUx6WnJ6QTB1UjR2cjRoc1c3Y0JLYUNDaUVuT3pGd1VHYlpyalF5YkYtZE00R2lfam5nU01f?oc=5",
+    "published_date": "2026-11-12",
+    "reviewed_at": "2026-11-12",
+    "title_zh": "欧盟CBAM绿电凭证不等于逐小时核验：现行钢铁CBAM重点仍为直接排放",
+    "title_en": "CBAM green power evidence: hourly matching does not change current steel direct-emissions scope",
+    "summary_zh": "【事实】SMM 11月12日专题引用欧盟执行条例(EU)2025/2547第8条、附件II D.4.3：适用实际间接排放电力因子时，需证明直连或合格购电协议及匹配的智能电表计量，计量时段不超过一小时。现行钢铁、铝CBAM主要涵盖直接排放；水泥、化肥涉及间接排放。单独购入中国绿证不足以证明某厂某时段电力流向。",
+    "summary_en": "Source checked; the Chinese summary distinguishes reported facts, policy status, and analyst scenarios. Refer to the evidence link and scope note.",
+    "impact_zh": "【研判】钢厂建设按小时关联电源、产线、PPA和绿证核销的证据链，有利于欧盟客户碳足迹和潜在未来扩围，但不可直接宣称当前钢材CBAM证书成本因购绿电下降。",
+    "impact_en": "Business implications are analytical rather than enacted legal obligations; verify the applicable official measures before quoting.",
+    "category": "碳与环保",
+    "status": "已核验／区分正式法规与研判",
+    "importance": "高",
+    "tags": [
+      "钢铁",
+      "贸易政策",
+      "事实核验"
+    ],
+    "tags_en": [
+      "steel",
+      "trade policy",
+      "source checked"
+    ],
+    "follow_up": "向核查机构确认钢铁适用排放边界，收集单线图、小时计量、购电协议及绿证核销；监测今后钢铁间接排放是否正式纳入。",
+    "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2547",
+    "coverage": "2026-11-12读取SMM 11月12日全文并对照EUR-Lex 2025/2547 Article 8及Annex II D.4.3。其省级绿电试点及价格模型未逐项独立核验，不作为强制合规结论。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWGxyd2Vnd0duS0xOOEJQU1JTSlZfZWdBMFRoVUpBbThNaHBMTWc4ZTRlZE9DMkRCSVFQT3BuTFJuTjJNLVlNM3VhXzEzME0zOHM0ZlFXWmFMbVMxNzBXTDVVYlA3SnVEMGNlNGdNc3FSVmtzLXo1RWtNSGpuRVo4THBXUFdYR29UTkNHNkFLSUIxTVBPcnNFWEhJREZkNUs1bGtTaDFJMGNnTjRxQmh1LWR5cEhkM3Y5UEdpU2ZOcjFQNF9p?oc=5",
+    "published_date": "2026-11-12",
+    "reviewed_at": "2026-11-12",
+    "title_zh": "首钢京唐与奇瑞联合量产1850毫米、500兆帕级镀锌汽车外板",
+    "title_en": "Shougang Jingtang and Chery produce 1,850-mm 500-MPa galvanized exposed automotive sheet",
+    "summary_zh": "【事实】首钢集团11月6日官方消息：首钢京唐与奇瑞合作的高强镀锌汽车外板成功下线，宽1850毫米、厚0.6毫米、抗拉强度超过500兆帕，表面质量O5级。集团称客户实验室测试中厚度减薄7.7%而零件抗凹陷能力提升50%。报道中的“全球首发”为企业自身表述，非本轮独立全球专利或行业检索结论。",
+    "summary_en": "Source checked; the Chinese summary distinguishes reported facts, policy status, and analyst scenarios. Refer to the evidence link and scope note.",
+    "impact_zh": "【研判】体现高强薄规格汽车外板技术能力，可作为欧洲汽车板客户技术交流的参考；并不自动意味着该规格已取得BMW等海外主机厂认证。",
+    "impact_en": "Business implications are analytical rather than enacted legal obligations; verify the applicable official measures before quoting.",
+    "category": "市场与企业",
+    "status": "已核验／有限范围",
+    "importance": "中",
+    "tags": [
+      "钢铁",
+      "贸易政策",
+      "事实核验"
+    ],
+    "tags_en": [
+      "steel",
+      "trade policy",
+      "source checked"
+    ],
+    "follow_up": "对有需求的OEM及冲压件客户提供可公开的产品参数，同时另外确认可供规格、标准、成形数据和海外认证状态。",
+    "evidence_url": "https://www.shougang.com.cn/m1/sgyw/20261106/15306.html",
+    "coverage": "2026-11-12核对Yieh当天报道及首钢集团11月6日官方原文；原始公告日期与RSS转载日期分开记录。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHlVMkZfY3d0QkxHT0ZLTklCcl9oU0xDQTEwRnk0c2U1ejVIbTRDczE4R1dpc0pSR0lkT0hOdWtmNGt0UEUwMTJ6QVVwVm1WdEk4cVozZTJMcFEtbHdDaTNKcUlmUHFSUERiUTA1TUNNaWhTQWw0TVFjY2hqV3Q3Y0Y2dDFMVU1pUG1ySU5FWkQtdTZUOWY2WDVhTHZCVVBPNnBraE12VVU?oc=5",
+    "published_date": "2026-11-11",
+    "reviewed_at": "2026-11-12",
+    "title_zh": "土耳其发布2026—2030绿色转型行动计划，2027年拟制定本国CBAM规则",
+    "title_en": "Türkiye adopts 2026-2030 Green Deal plan; domestic CBAM legislation is planned for 2027",
+    "summary_zh": "【事实】土耳其贸易部11月10日公告：总统2026/12号通函发布《2026—2030绿色协议行动计划》，含11个领域、41项目标、142项行动。SteelRadar及Anadolu的行动计划解读称，2027年拟开展本国CBAM立法框架工作，2027—2028年完善相关排放数据支持。属于政策规划，不代表2027年已正式开征边境碳税，也未确定税率及涉案税号。",
+    "summary_en": "Source checked; the Chinese summary distinguishes reported facts, policy status, and analyst scenarios. Refer to the evidence link and scope note.",
+    "impact_zh": "【研判】若本国CBAM未来实施，将影响中国钢材出口土耳其的碳数据与成本核算；目前不应在报价中假设固定税额。",
+    "impact_en": "Business implications are analytical rather than enacted legal obligations; verify the applicable official measures before quoting.",
+    "category": "碳与环保",
+    "status": "已核验／区分正式法规与研判",
+    "importance": "高",
+    "tags": [
+      "钢铁",
+      "贸易政策",
+      "事实核验"
+    ],
+    "tags_en": [
+      "steel",
+      "trade policy",
+      "source checked"
+    ],
+    "follow_up": "关注土耳其贸易部后续立法草案、征求意见、钢铁税号、豁免和ETS衔接，不提前作为已生效政策。",
+    "evidence_url": "https://ticaret.gov.tr/dis-iliskiler/yesil-mutabakat/duyurular/yesil-mutabakat-eylem-plani-2026-2030-yayimlandi",
+    "coverage": "2026-11-12核对土耳其贸易部11月10日官方计划发布公告、11月11日Anadolu和11月12日SteelRadar报道；具体2027制度设计尚无生效条例。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOREZPczlTaU94SjVTZC16QXh3UEF2cWRQVDI5ZlNwMzVna0kyQzJYN2FIUUp5Z2tjMVppZHNheVZydkhOQVc4bGxROVdIcG5fRElmTG85Wm1OVWU1SGpWMVJONzVCTWgtLUZIeTEybmQzNUFUZVZqd2lWejFJM3B0Y2kzSjNaTEQtY2dGN2FTUFg3a2Q1TkdUbXBrMk5jU3hXRTNMdU5XUFZkb0dL?oc=5",
+    "published_date": "2026-11-05",
+    "reviewed_at": "2026-11-12",
+    "title_zh": "SMM分析欧盟新钢铁配额使用差异：50%超额关税属现行法规，2027 CBAM成本为情景",
+    "title_en": "SMM analyses EU steel quota divergence; 50% out-of-quota duty is law, CBAM models are scenarios",
+    "summary_zh": "【事实】SMM 11月5日文章统计截至11月3日欧盟Q4钢铁配额使用率约47.4%，提示土耳其、印度、印尼部分热卷配额紧张，仍有其他配额余额。欧盟条例(EU)2026/1384确立2026年7月1日起钢铁配额制度，部分适用产品超额从价税率50%；实施条例(EU)2026/1457规定各产品国别分配。SMM的316欧元/吨印度热卷CBAM等数值是使用默认值及价格假设的模型，不是官方核定税额。",
+    "summary_en": "Source checked; the Chinese summary distinguishes reported facts, policy status, and analyst scenarios. Refer to the evidence link and scope note.",
+    "impact_zh": "【研判】中国产品报价需按CN/TARIC编码、原产地、具体配额号、清关日与实际嵌入排放评估，不能从欧盟总剩余额度推断某钢种可零关税清关。",
+    "impact_en": "Business implications are analytical rather than enacted legal obligations; verify the applicable official measures before quoting.",
+    "category": "贸易救济与配额",
+    "status": "已核验／区分正式法规与研判",
+    "importance": "高",
+    "tags": [
+      "钢铁",
+      "贸易政策",
+      "事实核验"
+    ],
+    "tags_en": [
+      "steel",
+      "trade policy",
+      "source checked"
+    ],
+    "follow_up": "采用EU TARIC实时报关配额及既有EU/UK看板核对1A/2/4A/4B，2027年进口合同另做按实际数据计算的CBAM情景。",
+    "evidence_url": "https://eur-lex.europa.eu/eli/reg/2026/1384/oj",
+    "coverage": "2026-11-12读取SMM 11月5日长分析并核对EUR-Lex条例2026/1384、2026/1457及欧委会钢铁制度说明；SMM 11月3日余额及价格估计不视为最新官方配额快照。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSGxRcGRBbG5ISWNlakpVbUR0aEYxcUlGbGNMbHlIRHNINkhYR1lKVkpwVHlVM3p2VEVMMUpWSGdHR0lFRHp3SlJMRTJaTGFCSUpjcmJNTFFJN0ZwNVpvNkdrMXNSSUV0c1JRMV9kWDEzRG1RZzcxZ0xBVFd5c0VYb9IBhgFBVV95cUxONmNUNkxOZHJ2WGtseTQ4WU1TV2JLcFNlTk1RSjlUbHg3ZE5lZi03S21wYjBqOGFHcHdSb095YzYtall1YTdWTUMwVm1COUxrMmVKWUlfMWVBX2wyZXNYaE1sNEZoR1NfdzZoTWdhQXNaMmpMSXItTW1XVUoyLVl0OWU4Q3ptQQ?oc=5",
+    "published_date": "2026-11-10",
+    "reviewed_at": "2026-11-12",
+    "title_zh": "中国2026年前10个月钢材出口9549.5万吨，同比下降2.3%",
+    "title_en": "China's Jan-Oct 2026 steel exports reach 95.495 Mt, down 2.3% year on year",
+    "summary_zh": "【事实】11月10日多家媒体依据中国海关数据报道，1—10月钢材出口9549.5万吨，同比下降2.3%；10月单月985.4万吨，环比下降6.1%；前10个月进口446.1万吨，同比下降11.6%。这些是海关总量数据，不能单凭总量判断各目的国热卷或镀锌板实际订单。",
+    "summary_en": "Source checked; the Chinese summary distinguishes reported facts, policy status, and analyst scenarios. Refer to the evidence link and scope note.",
+    "impact_zh": "【研判】总出口转弱可能增加区域竞争与钢厂出口报价弹性，须结合具体钢种、地区关税与交期判断，不把数量回落直接归因于某单一政策。",
+    "impact_en": "Business implications are analytical rather than enacted legal obligations; verify the applicable official measures before quoting.",
+    "category": "市场与产能",
+    "status": "已核验／有限范围",
+    "importance": "中",
+    "tags": [
+      "钢铁",
+      "贸易政策",
+      "事实核验"
+    ],
+    "tags_en": [
+      "steel",
+      "trade policy",
+      "source checked"
+    ],
+    "follow_up": "按月跟踪海关分品种、目的国数据和主力工厂订单、CFR/FOB报价；另查出口许可证影响是否有可量化证据。",
+    "evidence_url": "https://www.steelorbis.com/steel-news/latest-news/chinas-steel-exports-down-23-in-jan-oct-down-61-in-oct-from-sept-2026-1489467.htm",
+    "coverage": "2026-11-12对照11月10日SteelOrbis、11月11日SMM公布的GACC钢材进出口数据，核对95.495/9.854/4.461百万吨及同比；未独立下载海关原始分税号明细。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUhzTHVOZzMxbllkOTZaVjVmeTFnTC1WS2c4QXN6WFNqb05PbHhYQXRsekN1aXdSQWVBbmRqVVR4elpnenJNWHp4NmtrcUh1OFUxcm0xQ2RGeWZkTFowdGl6bGhHQjFBNGljTGhQTVR6RGRXVzdxUkxZaHpBc0NBZEptTWs?oc=5",
+    "published_date": "2026-11-09",
+    "reviewed_at": "2026-11-12",
+    "title_zh": "欧英CBAM相互豁免尚未落地，ETS挂钩谈判不意味着2026年追溯豁免",
+    "title_en": "EU-UK mutual CBAM exemption is not yet law despite ETS linkage talks",
+    "summary_zh": "【事实】EUROMETAL 11月9日转载Dow Jones Energy对英国金属展会及拟议英欧联合声明的报道：双方讨论ETS挂钩与潜在CBAM互免，但泄露的声明草稿不是已生效法律，报告也未确认可追溯至2026年1月免除CBAM义务。英欧CBAM的默认值和免费分配扣减方法不同，互免仍需后续法律程序。",
+    "summary_en": "Source checked; the Chinese summary distinguishes reported facts, policy status, and analyst scenarios. Refer to the evidence link and scope note.",
+    "impact_zh": "【研判】中国钢材通过英国转运至欧盟或英欧市场交易，不能把政策意向当作已享有免税待遇；现阶段仍分别测算两制度的碳成本及产地条件。",
+    "impact_en": "Business implications are analytical rather than enacted legal obligations; verify the applicable official measures before quoting.",
+    "category": "碳与环保",
+    "status": "已核验／区分正式法规与研判",
+    "importance": "高",
+    "tags": [
+      "钢铁",
+      "贸易政策",
+      "事实核验"
+    ],
+    "tags_en": [
+      "steel",
+      "trade policy",
+      "source checked"
+    ],
+    "follow_up": "关注11月20日英欧峰会正式联合声明、ETS链接立法与两侧CBAM正式豁免法规；不按泄露草稿报盘。",
+    "evidence_url": "https://eurometal.net/uk-eu-cbam-exemption-chatter-outpacing-market-realities/",
+    "coverage": "2026-11-12逐段核对EUROMETAL所载11月9日完整Dow Jones Energy报道；泄露联合声明真实性及法律生效不作为官方确认，尚未查得正式生效豁免令。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT2ZuUVRkeUlLY3NfX3RaUkZlbVEydlpQSlllUFBuUVo1TkM5cUxiUFpGUC1oWUNuelFyV0doYWlod3RMc1dGWlN3R0pyNkF3ZWp1RnRZZUc4NXhvd1JibElVNnRleUQ4a2RFbUp2MlFVbmNXbnJOb1JVbTB1b01oREEtd1V6X2k4azhTMjRIdjNJckpi?oc=5",
+    "published_date": "2026-11-04",
+    "reviewed_at": "2026-11-12",
+    "title_zh": "台湾地区拟制定本地CBAM与ETS，尚未发布实施税率和日期",
+    "title_en": "Taiwan plans domestic CBAM and ETS, with no enacted border tax timetable",
+    "summary_zh": "【事实】IndexBox 11月4日报道援引当地媒体：台湾地区负责人赖清德11月2日表示准备建设当地CBAM和排放交易体系，现有碳费制度已实施。11月5日SteelOrbis及11月9日Yieh有相同方向报道。当前属于政策筹备表述，未见本轮能够核实的正式实施税号、税率或日期。",
+    "summary_en": "Source checked; the Chinese summary distinguishes reported facts, policy status, and analyst scenarios. Refer to the evidence link and scope note.",
+    "impact_zh": "【研判】未来可能影响中国大陆钢材出口台湾市场的合规成本及竞争格局，但短期不应当作已征收的边境碳税。",
+    "impact_en": "Business implications are analytical rather than enacted legal obligations; verify the applicable official measures before quoting.",
+    "category": "碳与环保",
+    "status": "已核验／有限范围",
+    "importance": "中",
+    "tags": [
+      "钢铁",
+      "贸易政策",
+      "事实核验"
+    ],
+    "tags_en": [
+      "steel",
+      "trade policy",
+      "source checked"
+    ],
+    "follow_up": "后续核实台湾环境主管部门正式法规草案、适用钢材编码、排放数据要求及实施时间。",
+    "evidence_url": "https://www.steelorbis.com/steel-news/latest-news/taiwan-plans-to-introduce-cbam-and-ets-to-support-industrial-decarbonization-1488469.htm",
+    "coverage": "2026-11-12对照IndexBox 11月4日、SteelOrbis 11月5日及Yieh 11月9日原始报道；未取得正式CBAM法案或税率，保留政策意向范围。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRHh5WHZYa01KbmxmWllNemZwNi1oODNYTDdrMjlBdGV2eGlyMTVJcUtsdVdWVzhORU1xNm53dkM0TDFrajZ4QllYWHY0RHBEa1FKdWRpeUIxY3RROFFaVmZVWGhtdWZtRVVYSWdnbUJYOUc0ZzI2dVlmcUFBZHJRc1NsWnNFTVY1UU5yNkIwYnhLZW1rYU9GNy1FVGZ2YmtqcGFNd3NJQzhSVHI5VUoyUXJHOTJHRHVYQXJ0QWttdE5TOGNtejVtLTBYZ1FmUU9oSTZNQk9rVkZoYWJENm5yNlB2QjRKb0hBQzBDRUx2TE1VZw?oc=5",
+    "published_date": "2026-11-09",
+    "reviewed_at": "2026-11-12",
+    "title_zh": "欧洲13家能源密集行业协会要求改革ETS免费配额和碳泄漏保护",
+    "title_en": "Thirteen European industrial associations urge ETS free-allocation and carbon leakage reforms",
+    "summary_zh": "【事实】SteelOrbis 11月9日报道，EUROFER等13家欧洲能源密集行业协会共同提出ETS改革主张，包括维护免费配额、避免跨行业修正系数过度削减、改进基准、提高ETS收入回投脱碳比例并加强CBAM下游及出口保护。这些是行业立场文件主张，不是欧盟已通过的新立法。",
+    "summary_en": "Source checked; the Chinese summary distinguishes reported facts, policy status, and analyst scenarios. Refer to the evidence link and scope note.",
+    "impact_zh": "【研判】若未来免费配额退出或下游保护安排修改，欧盟钢铁企业与中国进口钢材的相对碳成本将变化；不能凭协会倡议调整当前2027年CBAM合同上限。",
+    "impact_en": "Business implications are analytical rather than enacted legal obligations; verify the applicable official measures before quoting.",
+    "category": "碳与环保",
+    "status": "已核验／有限范围",
+    "importance": "中",
+    "tags": [
+      "钢铁",
+      "贸易政策",
+      "事实核验"
+    ],
+    "tags_en": [
+      "steel",
+      "trade policy",
+      "source checked"
+    ],
+    "follow_up": "关注欧委会ETS法案正式提案、理事会和议会修订及CBAM下游扩围；保留现行法规情景。",
+    "evidence_url": "https://www.steelorbis.com/steel-news/latest-news/european-energy-intensive-industries-call-for-eu-ets-reform-and-stronger-carbon-leakage-protection-1489313.htm",
+    "coverage": "2026-11-12核对SteelOrbis 11月9日完整报道及SMM 11月10日转载，未取得签署协会原始联合文本；仅覆盖协会公开主张，未认定修法已通过。"
   }
 ]
