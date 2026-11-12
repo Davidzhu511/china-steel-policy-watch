@@ -1,10 +1,162 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-11T19:53:14Z",
-  "pending_count": 32,
-  "actionable_count": 16,
+  "generated_at": "2026-11-12T15:37:23Z",
+  "pending_count": 40,
+  "actionable_count": 24,
   "blocked_count": 16,
   "items": [
+    {
+      "id": "296ace75b7b9d2daca69",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcFJNdFJIcW9Fdjl6WUpWTmxqZzdjVGJsQmYteDVWUGFZejVqQzlzWHNxLVJSYjRlWEJtN2tBNVJDYTUxQkgtMGIxZWVSZURqalg3U2xha2FsX3dCY2FWSDBfTTRiSUQ3ZXFZWEo5bFV4TThmRW9fWUpFZ3NHMzNUX1ZObVU1eFdoZ2J5a2VHbUFuNmpkbC1NMWJ4bUJVWlJrUFVZ?oc=5",
+      "published_at": "2026-11-12T14:21:17Z",
+      "title_original": "Türkiye is well placed for CBAM despite a potential €1.7bn bill",
+      "first_seen": "2026-11-12T15:37:23Z",
+      "last_seen": "2026-11-12T15:37:23Z",
+      "source": {
+        "id": "rss",
+        "name": "Fastmarkets",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-12",
+      "source_excerpt": "Türkiye is well placed for CBAM despite a potential €1.7bn bill Fastmarkets"
+    },
+    {
+      "id": "a93f966e731d31187831",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVVvakktenJOVGNuSGRSbzBIMUh4WWlLNkxtVkVtb3lfQkNXS1UydFVQRFlGR0I2S1pXSTBQMXVGc0ViNUJtVnRRNUdQSTB2czBuQjRPM0h5b2tjWUlkSl8yN3QyRW5ZTENvMkJtMUh1OGZlWHlDbWhYbXk2RHFPb0FLajZxSnhGbi1EVDF1NFNtZ0ZXUXU4YVJnRzlvSmNhLUJfTdIBpAFBVV95cUxNVVVvakktenJOVGNuSGRSbzBIMUh4WWlLNkxtVkVtb3lfQkNXS1UydFVQRFlGR0I2S1pXSTBQMXVGc0ViNUJtVnRRNUdQSTB2czBuQjRPM0h5b2tjWUlkSl8yN3QyRW5ZTENvMkJtMUh1OGZlWHlDbWhYbXk2RHFPb0FLajZxSnhGbi1EVDF1NFNtZ0ZXUXU4YVJnRzlvSmNhLUJfTQ?oc=5",
+      "published_at": "2026-11-12T10:21:30Z",
+      "title_original": "Assofermet calls on EU to raise CBAM exemption threshold to 500 tonnes",
+      "first_seen": "2026-11-12T15:37:23Z",
+      "last_seen": "2026-11-12T15:37:23Z",
+      "source": {
+        "id": "rss",
+        "name": "GMK Center",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-12",
+      "source_excerpt": "Assofermet calls on EU to raise CBAM exemption threshold to 500 tonnes GMK Center"
+    },
+    {
+      "id": "fa295bdd07f6d7bb61e1",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wZ2F0TTdRQTZTbzZWUzl2YnVDdElPT0VPRTg5ZlVLN21ZWGhpOE4yQXBqdkE4Qk1IVlZyRl9IUnJveWpMemh5bW1WQ3RxdFFSZHhqWXlfMEVsUW1IM1NSQ1hn?oc=5",
+      "published_at": "2026-11-12T08:48:00Z",
+      "title_original": "Chinese-backed Simandou iron ore project in Guinea makes major progress",
+      "first_seen": "2026-11-12T15:37:23Z",
+      "last_seen": "2026-11-12T15:37:23Z",
+      "source": {
+        "id": "rss",
+        "name": "Global Times",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-12",
+      "source_excerpt": "Chinese-backed Simandou iron ore project in Guinea makes major progress Global Times"
+    },
+    {
+      "id": "be7767451570b81d19c9",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUFpNalp2V3ZlZmlzdTVsb0gwcWFCN1drZ3JBdDEwaHJpN3hFUXNPSlZJT0tlOXdlVm1vTkZncEpnQjI0Qm5YRlphZWE5TzlwUC1HNnhDRUh1OGw3OEkzNlFtLWZlbllBbzd5dkxMclNpZWtLMVdrbmxGUVJDWldtVHB5NXJDNldWVmNiNVh0cENvLW9rTUpyLVdFZUVRS1FoVnRfbUtibG00T3ZYVWFzVnlNczVld19fQVhOakJLcWtDdV8zLVNIQkV0QUx6WnJ6QTB1UjR2cjRoc1c3Y0JLYUNDaUVuT3pGd1VHYlpyalF5YkYtZE00R2lfam5nU01f?oc=5",
+      "published_at": "2026-11-12T08:34:00Z",
+      "title_original": "【SMM Analysis】 CBAM Green Power Proof Goes Beyond Certificates as Hourly Traceability Gains Weight",
+      "first_seen": "2026-11-12T15:37:23Z",
+      "last_seen": "2026-11-12T15:37:23Z",
+      "source": {
+        "id": "rss",
+        "name": "Shanghai Metals Market",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-12",
+      "source_excerpt": "【SMM Analysis】 CBAM Green Power Proof Goes Beyond Certificates as Hourly Traceability Gains Weight Shanghai Metals Market"
+    },
+    {
+      "id": "3d215a2a4c001e61880d",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3pXcDNzVnRmUUJOZDg0N2lKcmpVR1BlN29KVHJoOXp6eGZ4Q2hfNUNmRWUxRl9JNUlGeURNbFIzRHkwSFJwdFpwSTdmNjBmcldHck1VOFNCUWxpWTJ4RVFFV0owRThpa1MyaGVONnlDV0Mtc3BERm51dTZMZEdhdmFmUnJJdmhCMXNpV2tMOHBTcHRSaVZTVUxDRUdJcThfeUYtUlFOVlY5V1hGWThHQUdJdDhPZDBUWHNwRg?oc=5",
+      "published_at": "2026-11-12T06:18:44Z",
+      "title_original": "HBIS supplies 5,700 tons of high-end pipeline steel for Heihe-Daqing gas pipeline project",
+      "first_seen": "2026-11-12T15:37:23Z",
+      "last_seen": "2026-11-12T15:37:23Z",
+      "source": {
+        "id": "rss",
+        "name": "Yieh Corp.",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-12",
+      "source_excerpt": "HBIS supplies 5,700 tons of high-end pipeline steel for Heihe-Daqing gas pipeline project Yieh Corp."
+    },
+    {
+      "id": "1edcfeb4c360f108a43f",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWGxyd2Vnd0duS0xOOEJQU1JTSlZfZWdBMFRoVUpBbThNaHBMTWc4ZTRlZE9DMkRCSVFQT3BuTFJuTjJNLVlNM3VhXzEzME0zOHM0ZlFXWmFMbVMxNzBXTDVVYlA3SnVEMGNlNGdNc3FSVmtzLXo1RWtNSGpuRVo4THBXUFdYR29UTkNHNkFLSUIxTVBPcnNFWEhJREZkNUs1bGtTaDFJMGNnTjRxQmh1LWR5cEhkM3Y5UEdpU2ZOcjFQNF9p?oc=5",
+      "published_at": "2026-11-12T06:13:40Z",
+      "title_original": "Shougang & Chery launch world-first 1,850 mm ultra-wide 500 MPa galvanized automotive outer panel",
+      "first_seen": "2026-11-12T15:37:23Z",
+      "last_seen": "2026-11-12T15:37:23Z",
+      "source": {
+        "id": "rss",
+        "name": "Yieh Corp.",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-12",
+      "source_excerpt": "Shougang & Chery launch world-first 1,850 mm ultra-wide 500 MPa galvanized automotive outer panel Yieh Corp."
+    },
+    {
+      "id": "e68edfff51fded9b3e95",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJSVlUblN3NjNORnFLZ2NCTDBZR05JMDZBVTJTNHRMcFhsbVE5Tll3cG16VzVOVlcxclB5RDRKT2JwWjIxVGxQaHVGQkNBZkQzNTB1NHVtVXl6TDBjRWZyTVhEMzdQVzZlRjc1N3dXVU8zUQ?oc=5",
+      "published_at": "2026-11-12T02:36:00Z",
+      "title_original": "全球钢铁产量TOP10榜单：现代基建的骨架，中国一家独大",
+      "first_seen": "2026-11-12T15:37:23Z",
+      "last_seen": "2026-11-12T15:37:23Z",
+      "source": {
+        "id": "rss",
+        "name": "手机新浪网",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-12",
+      "source_excerpt": "全球钢铁产量TOP10榜单：现代基建的骨架，中国一家独大 手机新浪网"
+    },
+    {
+      "id": "2e8ab0ffb928064daa77",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHlVMkZfY3d0QkxHT0ZLTklCcl9oU0xDQTEwRnk0c2U1ejVIbTRDczE4R1dpc0pSR0lkT0hOdWtmNGt0UEUwMTJ6QVVwVm1WdEk4cVozZTJMcFEtbHdDaTNKcUlmUHFSUERiUTA1TUNNaWhTQWw0TVFjY2hqV3Q3Y0Y2dDFMVU1pUG1ySU5FWkQtdTZUOWY2WDVhTHZCVVBPNnBraE12VVU?oc=5",
+      "published_at": "2026-11-11T17:44:03Z",
+      "title_original": "COP31: Turkey to start developing its own CBAM from 2027",
+      "first_seen": "2026-11-12T15:37:23Z",
+      "last_seen": "2026-11-12T15:37:23Z",
+      "source": {
+        "id": "rss",
+        "name": "Quantum Commodity Intelligence",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-11",
+      "source_excerpt": "COP31: Turkey to start developing its own CBAM from 2027 Quantum Commodity Intelligence"
+    },
     {
       "id": "a8fdde4171d13fb18ea0",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRzd6cWlfLUZYRXRkUEM3bHlieVZPeWIwS2l1U2VuMEQ2M2lmcWlyQTcyU0FWQ19DWTFnSWxmeFZzbGpOc3FEWE11UHNEMUZHeWZuRVRyeWpjZERLWEtyclpWeWh2Wmd4NDJ5d0cyaTBmMnhPNkFFNkw1NHkxbG5GZktQTEFoajFaeEQ0NWVUUXFWS3JKZlR0SXlkYU9SWU00MWl0b0VvLS1rd1NRbll6d1hTQjd0dw?oc=5",
@@ -30,7 +182,7 @@
       "published_at": "2026-11-11T13:07:45Z",
       "title_original": "Chongqing Iron & Steel Announces Continuing Transactions With China Baowu",
       "first_seen": "2026-11-11T14:43:49Z",
-      "last_seen": "2026-11-11T19:53:14Z",
+      "last_seen": "2026-11-12T15:37:23Z",
       "source": {
         "id": "rss",
         "name": "TipRanks",
@@ -87,7 +239,7 @@
       "published_at": "2026-11-09T09:28:44Z",
       "title_original": "中国钢铁改写全球产业格局，专家：日本加反倾销税是饮鸩止渴",
       "first_seen": "2026-11-11T14:43:49Z",
-      "last_seen": "2026-11-11T19:53:14Z",
+      "last_seen": "2026-11-12T15:37:23Z",
       "source": {
         "id": "rss",
         "name": "凤凰网",
@@ -182,7 +334,7 @@
       "published_at": "2026-11-09T15:08:07Z",
       "title_original": "UK-EU CBAM exemption chatter outpacing market realities",
       "first_seen": "2026-11-09T22:44:26Z",
-      "last_seen": "2026-11-11T19:53:14Z",
+      "last_seen": "2026-11-12T15:37:23Z",
       "source": {
         "id": "rss",
         "name": "EUROMETAL",
@@ -220,7 +372,7 @@
       "published_at": "2026-11-09T11:39:44Z",
       "title_original": "European energy-intensive industries call for EU ETS reform and stronger carbon leakage protection",
       "first_seen": "2026-11-09T21:11:03Z",
-      "last_seen": "2026-11-11T19:53:14Z",
+      "last_seen": "2026-11-12T15:37:23Z",
       "source": {
         "id": "rss",
         "name": "SteelOrbis",
@@ -317,7 +469,7 @@
       "published_at": "2026-10-19T00:00:00Z",
       "title_original": "Resolución No. 00695 de 16 de octubre de 2026 - investigación antidumping sobre perfiles de hierro o acero en L y U",
       "first_seen": "2026-11-01T14:00:44Z",
-      "last_seen": "2026-11-11T19:53:14Z",
+      "last_seen": "2026-11-12T15:37:23Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销",
@@ -390,7 +542,7 @@
       "published_at": "2026-11-06T09:21:00Z",
       "title_original": "CBAM Rules for Crediting 3rd Country Carbon Prices",
       "first_seen": "2026-11-06T14:38:14Z",
-      "last_seen": "2026-11-11T19:53:14Z",
+      "last_seen": "2026-11-12T15:37:23Z",
       "source": {
         "id": "rss",
         "name": "Steel and Stainless Steel News",
@@ -436,7 +588,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-11T19:53:14Z",
+      "last_seen": "2026-11-12T15:37:23Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -459,7 +611,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-11T19:53:14Z",
+      "last_seen": "2026-11-12T15:37:23Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
