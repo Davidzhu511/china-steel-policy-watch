@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-12T15:37:23Z",
-  "pending_count": 40,
-  "actionable_count": 24,
+  "pending_count": 39,
+  "actionable_count": 23,
   "blocked_count": 16,
   "items": [
     {
@@ -23,25 +23,6 @@
       "translation_state": "pending",
       "published_date": "2026-11-12",
       "source_excerpt": "Türkiye is well placed for CBAM despite a potential €1.7bn bill Fastmarkets"
-    },
-    {
-      "id": "a93f966e731d31187831",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVVvakktenJOVGNuSGRSbzBIMUh4WWlLNkxtVkVtb3lfQkNXS1UydFVQRFlGR0I2S1pXSTBQMXVGc0ViNUJtVnRRNUdQSTB2czBuQjRPM0h5b2tjWUlkSl8yN3QyRW5ZTENvMkJtMUh1OGZlWHlDbWhYbXk2RHFPb0FLajZxSnhGbi1EVDF1NFNtZ0ZXUXU4YVJnRzlvSmNhLUJfTdIBpAFBVV95cUxNVVVvakktenJOVGNuSGRSbzBIMUh4WWlLNkxtVkVtb3lfQkNXS1UydFVQRFlGR0I2S1pXSTBQMXVGc0ViNUJtVnRRNUdQSTB2czBuQjRPM0h5b2tjWUlkSl8yN3QyRW5ZTENvMkJtMUh1OGZlWHlDbWhYbXk2RHFPb0FLajZxSnhGbi1EVDF1NFNtZ0ZXUXU4YVJnRzlvSmNhLUJfTQ?oc=5",
-      "published_at": "2026-11-12T10:21:30Z",
-      "title_original": "Assofermet calls on EU to raise CBAM exemption threshold to 500 tonnes",
-      "first_seen": "2026-11-12T15:37:23Z",
-      "last_seen": "2026-11-12T15:37:23Z",
-      "source": {
-        "id": "rss",
-        "name": "GMK Center",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-12",
-      "source_excerpt": "Assofermet calls on EU to raise CBAM exemption threshold to 500 tonnes GMK Center"
     },
     {
       "id": "fa295bdd07f6d7bb61e1",
