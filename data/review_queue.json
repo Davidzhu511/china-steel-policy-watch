@@ -1,10 +1,30 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-12T15:37:23Z",
-  "pending_count": 16,
-  "actionable_count": 0,
+  "generated_at": "2026-11-12T20:29:38Z",
+  "pending_count": 17,
+  "actionable_count": 1,
   "blocked_count": 16,
-  "items": [],
+  "items": [
+    {
+      "id": "b8042295993af364a2ef",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXhnaUpUUGFBZzVPbGxGMmNBdm1hRXNldF9LVXlsMGota3dWNnFYYUd5QmZlT1QyUkw0RUFLNnd0cV9MdXN6dHRqbERDbDJiRjFCbFhZWE9ha2dhQ3VCRnpQZ08tdEM1Uld1NFVoNVZmV1JsTFNHYlgwVnktQ1BQa2UzN2NFQlRyVldxMmNyNUhCa1NoTFFFYzdYOHBpT1NQeGgtN09mZw?oc=5",
+      "published_at": "2026-11-12T13:01:00Z",
+      "title_original": "Assofermet Urges EU to Raise CBAM Threshold from 50 to 500 Tonnes",
+      "first_seen": "2026-11-12T20:29:38Z",
+      "last_seen": "2026-11-12T20:29:38Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-12",
+      "source_excerpt": "Assofermet Urges EU to Raise CBAM Threshold from 50 to 500 Tonnes - News and Statistics IndexBox"
+    }
+  ],
   "blocked_items": [
     {
       "id": "5b038f2baea57e2c9994",
@@ -12,7 +32,7 @@
       "published_at": "2026-10-19T00:00:00Z",
       "title_original": "Resolución No. 00695 de 16 de octubre de 2026 - investigación antidumping sobre perfiles de hierro o acero en L y U",
       "first_seen": "2026-11-01T14:00:44Z",
-      "last_seen": "2026-11-12T15:37:23Z",
+      "last_seen": "2026-11-12T20:29:38Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销",
@@ -85,7 +105,7 @@
       "published_at": "2026-11-06T09:21:00Z",
       "title_original": "CBAM Rules for Crediting 3rd Country Carbon Prices",
       "first_seen": "2026-11-06T14:38:14Z",
-      "last_seen": "2026-11-12T15:37:23Z",
+      "last_seen": "2026-11-12T20:29:38Z",
       "source": {
         "id": "rss",
         "name": "Steel and Stainless Steel News",
@@ -131,7 +151,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-12T15:37:23Z",
+      "last_seen": "2026-11-12T20:29:38Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -154,7 +174,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-12T15:37:23Z",
+      "last_seen": "2026-11-12T20:29:38Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
