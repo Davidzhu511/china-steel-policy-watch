@@ -9,7 +9,7 @@
   "verified_items": 262,
   "pending_analysis": 21,
   "pending_translation": 21,
-  "blocked_items": 16,
+  "blocked_items": 21,
   "offline_translation": {
     "status": "disabled",
     "translated": 0,
@@ -97,5 +97,6 @@
       "consecutive_failures": 0
     }
   ],
-  "warnings": []
+  "warnings": [],
+  "editorial_updated_at": "2026-11-13T16:29:15Z"
 }

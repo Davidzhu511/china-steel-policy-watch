@@ -33,7 +33,14 @@
       "translation_state": "pending",
       "first_seen": "2026-11-13T14:56:04Z",
       "last_seen": "2026-11-13T14:56:04Z",
-      "source_excerpt": "Turkey plans to establish its own CBAM from 2027 Yieh Corp."
+      "source_excerpt": "Turkey plans to establish its own CBAM from 2027 Yieh Corp.",
+      "review_disposition": "blocked",
+      "review_note_zh": "土耳其2026—2030绿色协议行动计划及2027年拟开展本国CBAM立法工作，已在11月11日来源版本的现有研判覆盖；本条未见可证实的新法令、税率或生效日。",
+      "review_note_en": "Previously verified event; no independent regulatory update.",
+      "review_attempted_at": "2026-11-13",
+      "review_title_zh": "Turkey plans to establish its own CBAM from 2027",
+      "review_evidence_url": "https://ticaret.gov.tr/dis-iliskiler/yesil-mutabakat/duyurular/yesil-mutabakat-eylem-plani-2026-2030-yayimlandi",
+      "review_coverage": "按标题及此前核验的土耳其贸易部官方计划去重，未据11月13日转载另行认定正式开征。"
     },
     {
       "id": "e35ed0d5a73d3dbbcac1",
@@ -71,7 +78,14 @@
       "priority_signal": {
         "zh": "CBAM 执行信息 · 待核对",
         "en": "CBAM implementation · review needed"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "同一欧委会CBAM核查机构认可PDF曾按11月9日版本核验，但本轮队列标记11月13日。官方PDF访问返回HTTP 429，无法判断是否有实质更新，不能沿用旧版本状态作为今日核验结果。",
+      "review_note_en": "Original primary-source content unavailable; retain as blocked without inferring facts.",
+      "review_attempted_at": "2026-11-13",
+      "review_title_zh": "State-of-play CBAM accreditation",
+      "review_evidence_url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
+      "review_coverage": "仅核对队列URL与11月9日已核验记录；11月13日官方文件内容未能读取，等待可访问或内容指纹更新。"
     },
     {
       "id": "707bf3a1636a45887b23",
@@ -105,7 +119,14 @@
       "translation_state": "pending",
       "first_seen": "2026-11-13T14:56:04Z",
       "last_seen": "2026-11-13T14:56:04Z",
-      "source_excerpt": "Steel sector sees green milestone China Daily Global Edition"
+      "source_excerpt": "Steel sector sees green milestone China Daily Global Edition",
+      "review_disposition": "blocked",
+      "review_note_zh": "标题Steel sector sees green milestone无法确定独立事件、监管机关或实质事实；Google News转发源未取得可靠原始全文，保留线索而不据标题推断。",
+      "review_note_en": "Original primary-source content unavailable; retain as blocked without inferring facts.",
+      "review_attempted_at": "2026-11-13",
+      "review_title_zh": "Steel sector sees green milestone",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
+      "review_coverage": "仅标题筛查；原始正文未核验，待来源可访问后判断是否有新事实。"
     },
     {
       "id": "b8042295993af364a2ef",
@@ -139,7 +160,14 @@
       "translation_state": "pending",
       "first_seen": "2026-11-12T20:29:38Z",
       "last_seen": "2026-11-13T14:56:04Z",
-      "source_excerpt": "Assofermet Urges EU to Raise CBAM Threshold from 50 to 500 Tonnes - News and Statistics IndexBox"
+      "source_excerpt": "Assofermet Urges EU to Raise CBAM Threshold from 50 to 500 Tonnes - News and Statistics IndexBox",
+      "review_disposition": "blocked",
+      "review_note_zh": "意大利Assofermet要求将CBAM小额豁免门槛由50吨提升至500吨的行业倡议，已由11月12日同事件研判覆盖；不是欧盟通过的新门槛。",
+      "review_note_en": "Previously verified event; no independent regulatory update.",
+      "review_attempted_at": "2026-11-13",
+      "review_title_zh": "Assofermet Urges EU to Raise CBAM Threshold from 50 to 500 Tonnes",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXhnaUpUUGFBZzVPbGxGMmNBdm1hRXNldF9LVXlsMGota3dWNnFYYUd5QmZlT1QyUkw0RUFLNnd0cV9MdXN6dHRqbERDbDJiRjFCbFhZWE9ha2dhQ3VCRnpQZ08tdEM1Uld1NFVoNVZmV1JsTFNHYlgwVnktQ1BQa2UzN2NFQlRyVldxMmNyNUhCa1NoTFFFYzdYOHBpT1NQeGgtN09mZw?oc=5",
+      "review_coverage": "对照11月12日已核验编辑项与本条同事件标题，未发现新的欧盟正式立法证据。"
     },
     {
       "id": "a93f966e731d31187831",
@@ -700,7 +728,14 @@
       "translation_state": "pending",
       "first_seen": "2026-11-13T14:56:04Z",
       "last_seen": "2026-11-13T14:56:04Z",
-      "source_excerpt": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations Yeşil Ekonomi"
+      "source_excerpt": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations Yeşil Ekonomi",
+      "review_disposition": "blocked",
+      "review_note_zh": "土耳其钢铁出口商协会签署CBAM合作协议的具体签约主体、签署日期、条款和实际效力，尚无本轮可核实的原始公告；不能凭标题声称法规或义务变化。",
+      "review_note_en": "Original primary-source content unavailable; retain as blocked without inferring facts.",
+      "review_attempted_at": "2026-11-13",
+      "review_title_zh": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
+      "review_coverage": "仅标题及现有公开报道检索，未取得该合作协议原始公告；留待新证据。"
     },
     {
       "id": "965a973cd5855a8bbab1",
