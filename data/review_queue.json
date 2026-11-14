@@ -1,30 +1,10 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-14T13:48:43Z",
-  "pending_count": 22,
-  "actionable_count": 1,
+  "pending_count": 21,
+  "actionable_count": 0,
   "blocked_count": 21,
-  "items": [
-    {
-      "id": "81914c09ac74ce06210f",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1pZM3ZLZFVBaGR6cnV4cldid2tadndWUVlIdkFzc0s2cGUxYTl4YVprUnhOcHRtZ1hLaEpraHhVWmhnclRCb2lHa05jbjhQbmhoUHdZT1RVUjhBM0lSSFI4QTBSOF9vZVBVNklnSGlzS3JhUUxGQ1pzTWhLdGdlU3ZtYUw4dXBSdjBEVy1vX2laTHM3YWlnSUxzQ19nLVRZSHgyNGZzeklxaE93T01YNjNmWF9abXFNUGtNMWFKam8?oc=5",
-      "published_at": "2026-11-11T19:00:26Z",
-      "title_original": "沙特阿拉伯反倾销调查针对中国和土耳其钢铁进口 - 新闻和统计",
-      "first_seen": "2026-11-14T13:48:43Z",
-      "last_seen": "2026-11-14T13:48:43Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-11",
-      "source_excerpt": "沙特阿拉伯反倾销调查针对中国和土耳其钢铁进口 - 新闻和统计 IndexBox"
-    }
-  ],
+  "items": [],
   "blocked_items": [
     {
       "id": "5b038f2baea57e2c9994",

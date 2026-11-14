@@ -75,17 +75,17 @@
       "first_seen": "2026-09-28T11:50:11Z",
       "last_seen": "2026-11-14T13:48:43Z",
       "source_excerpt": "State-of-play CBAM accreditation 13 November 2026 English Download (294.47 KB - PDF)",
+      "priority_signal": {
+        "zh": "CBAM 执行信息 · 待核对",
+        "en": "CBAM implementation · review needed"
+      },
       "review_disposition": "blocked",
       "review_note_zh": "同一欧委会CBAM核查机构认可PDF曾按11月9日版本核验，但本轮队列标记11月13日。官方PDF访问返回HTTP 429，无法判断是否有实质更新，不能沿用旧版本状态作为今日核验结果。",
       "review_note_en": "Original primary-source content unavailable; retain as blocked without inferring facts.",
       "review_attempted_at": "2026-11-13",
       "review_title_zh": "State-of-play CBAM accreditation",
       "review_evidence_url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
-      "review_coverage": "仅核对队列URL与11月9日已核验记录；11月13日官方文件内容未能读取，等待可访问或内容指纹更新。",
-      "priority_signal": {
-        "zh": "CBAM 执行信息 · 待核对",
-        "en": "CBAM implementation · review needed"
-      }
+      "review_coverage": "仅核对队列URL与11月9日已核验记录；11月13日官方文件内容未能读取，等待可访问或内容指纹更新。"
     },
     {
       "id": "707bf3a1636a45887b23",
@@ -360,40 +360,6 @@
       "reviewed_at": "2026-11-12"
     },
     {
-      "id": "81914c09ac74ce06210f",
-      "title_zh": "沙特阿拉伯反倾销调查针对中国和土耳其钢铁进口 - 新闻和统计",
-      "title_en": "沙特阿拉伯反倾销调查针对中国和土耳其钢铁进口 - 新闻和统计",
-      "title_original": "沙特阿拉伯反倾销调查针对中国和土耳其钢铁进口 - 新闻和统计",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1pZM3ZLZFVBaGR6cnV4cldid2tadndWUVlIdkFzc0s2cGUxYTl4YVprUnhOcHRtZ1hLaEpraHhVWmhnclRCb2lHa05jbjhQbmhoUHdZT1RVUjhBM0lSSFI4QTBSOF9vZVBVNklnSGlzS3JhUUxGQ1pzTWhLdGdlU3ZtYUw4dXBSdjBEVy1vX2laTHM3YWlnSUxzQ19nLVRZSHgyNGZzeklxaE93T01YNjNmWF9abXFNUGtNMWFKam8?oc=5",
-      "published_at": "2026-11-11T19:00:26Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "市场与产能",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "zh",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-14T13:48:43Z",
-      "last_seen": "2026-11-14T13:48:43Z",
-      "source_excerpt": "沙特阿拉伯反倾销调查针对中国和土耳其钢铁进口 - 新闻和统计 IndexBox"
-    },
-    {
       "id": "2e8ab0ffb928064daa77",
       "title_zh": "土耳其发布2026—2030绿色转型行动计划，2027年拟制定本国CBAM规则",
       "title_en": "Türkiye adopts 2026-2030 Green Deal plan; domestic CBAM legislation is planned for 2027",
@@ -483,7 +449,13 @@
       "evidence_url": "https://gaft.gov.sa/en/trade-remedies/follow-up-trade-remedies-investigations",
       "coverage": "2026-11-11核对GAFT官方案件列表、跟踪页10项税号及第15号通知发布日期；未完整核实通知PDF中的登记与答卷期限。",
       "review_method": "source_checked",
-      "reviewed_at": "2026-11-11"
+      "reviewed_at": "2026-11-11",
+      "related_sources": [
+        {
+          "name": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1pZM3ZLZFVBaGR6cnV4cldid2tadndWUVlIdkFzc0s2cGUxYTl4YVprUnhOcHRtZ1hLaEpraHhVWmhnclRCb2lHa05jbjhQbmhoUHdZT1RVUjhBM0lSSFI4QTBSOF9vZVBVNklnSGlzS3JhUUxGQ1pzTWhLdGdlU3ZtYUw4dXBSdjBEVy1vX2laTHM3YWlnSUxzQ19nLVRZSHgyNGZzeklxaE93T01YNjNmWF9abXFNUGtNMWFKam8?oc=5"
+        }
+      ]
     },
     {
       "id": "e43f41b69203d7e2ef51",
@@ -2450,6 +2422,57 @@
       "evidence_url": "https://www.chinaisa.org.cn/",
       "review_method": "source_checked",
       "reviewed_at": "2026-11-02"
+    },
+    {
+      "id": "057abc6c3ef21a6e9d09",
+      "title_zh": "英国CBAM：HMRC明确实际值或默认排放值均可用于计算已付碳价抵扣",
+      "title_en": "UK CBAM: HMRC clarifies actual or default emissions values for Carbon Price Relief",
+      "title_original": "Work out your Carbon Price Relief",
+      "summary_zh": "【事实】英国税务海关总署（HMRC）11月2日更新《Work out your Carbon Price Relief》。申请英国CBAM已付碳价抵扣，须证明进口货物的相关排放已受符合资格的碳定价制度约束，并持有涵盖进口前两个日历年度之一、经独立核验的碳价核验表。有效碳价按装置受不同碳价要素约束的排放量与相应价格加权计算，免费配额等无价格部分不计价，并扣除适用补偿。抵扣金额按有效碳价乘以符合条件的产品嵌入排放量计算；11月2日新增说明：该排放量应与CBAM申报一致，可按该批货物采用实际排放值或默认值。外币抵扣须使用HMRC公布的、进口前一季度适用汇率换算为英镑；总抵扣不得超过该批货物应缴英国CBAM税额。此为实施指南的解释性更新，并非宣布新增税率。",
+      "summary_en": "HMRC updated its Carbon Price Relief (CPR) guidance on 2 November 2026. A claimant needs a qualifying carbon-pricing scheme and an independently verified carbon-pricing form covering one of the two calendar years preceding importation. The effective price accounts for differently priced emissions, excluding unpriced free allocations and deducting relevant compensation. The update clarifies that eligible embedded emissions used for relief must match the CBAM return and may use actual or default values as reported. HMRC's prior-quarter FX rate converts foreign-currency relief to GBP; relief cannot exceed the CBAM liability. This is guidance, not a new UK CBAM rate.",
+      "impact_zh": "【研判】对拟于2027年起向英国出口钢铁的中国生产商，应提前整理装置碳价缴纳、免费分配、补偿及排放核验材料，并确认采购方/英国进口商能否取得合格证明；不能因中国有碳市场或采用默认排放值，就推定必然可抵扣。报价和合同CBAM条款应分别列示毛CBAM成本与可能抵扣额。下一步核对HMRC认可的碳定价机制清单、钢材商品编码及最终适用核验文件。",
+      "impact_en": "Chinese steel exporters should compile verified installation emissions, actual carbon-price payment, free allocation and compensation evidence, and confirm the importer can substantiate a qualifying scheme. Default emissions values do not automatically establish an entitlement to relief. Price UK business on gross CBAM exposure and separately evidenced relief, subject to the applicable commodity scope and HMRC documentation.",
+      "url": "https://gov.uk/guidance/work-out-your-carbon-price-relief",
+      "published_at": "2026-11-02T00:00:00Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "英国",
+      "region": "欧洲",
+      "category": "碳与环保",
+      "status": "官方实施指南更新",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "UK CBAM",
+        "已付碳价抵扣",
+        "默认值",
+        "实际值",
+        "2027年"
+      ],
+      "tags_en": [
+        "UK CBAM",
+        "carbon price relief",
+        "default values",
+        "actual emissions",
+        "2027"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-02T15:10:56Z",
+      "last_seen": "2026-11-14T13:48:43Z",
+      "source_excerpt": "Find out how to work out your Carbon Price Relief for the Carbon Border Adjustment Mechanism (CBAM). We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cookie settings at any time. You have rejected additional cookies. You can change your cookie settings at any time. Data, Freedom of Information releases and corporate reports We have set out use of actual and default values for emissions in calculating Carbon Price Relief in the section 'Work out the Carbon Price Relief'. To work out your Carbon Price Relief, you’ll need to: Before you calculate your relief, you’ll need to check: if your CBAM goods have been subject to a qualifying carbon pricing scheme you have a completed carbon pricing verification form that’s…",
+      "coverage": "2026-11-03阅读全文并核对HMRC 2026-11-02更新记录、有效碳价步骤、实际/默认排放值、补偿、汇率及抵扣上限；未核验中国碳市场是否符合具体抵扣资格，也未计算特定企业的抵扣额。",
+      "follow_up": "核对HMRC合格碳价机制名单与2027年汇率公告，向钢厂索取独立核验碳价表；不得将未经证明的抵扣直接扣减报价。",
+      "evidence_url": "https://www.gov.uk/guidance/work-out-your-carbon-price-relief",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-03"
     }
   ]
 }

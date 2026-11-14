@@ -4,11 +4,11 @@
   "model": "gpt-4.1-mini",
   "translation_available": false,
   "analysis_status": "unconfigured",
-  "active_items": 284,
-  "archived_items": 117,
+  "active_items": 283,
+  "archived_items": 118,
   "verified_items": 262,
-  "pending_analysis": 22,
-  "pending_translation": 22,
+  "pending_analysis": 21,
+  "pending_translation": 21,
   "blocked_items": 21,
   "offline_translation": {
     "status": "disabled",
@@ -106,5 +106,6 @@
     "https://policy.trade.ec.europa.eu/consultations_en: HTTPError: 429 Client Error: Too Many Requests for url: https://policy.trade.ec.europa.eu/consul",
     "EUR-Lex RSS unavailable: ValueError: EUR-Lex L RSS is unavailable or access-checked",
     "EUR-Lex daily view unavailable; used official Publications Office CELLAR/SPARQL metadata fallback."
-  ]
+  ],
+  "editorial_updated_at": "2026-11-14T16:29:23Z"
 }
