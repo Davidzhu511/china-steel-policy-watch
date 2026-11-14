@@ -1551,5 +1551,17 @@
     "attempted_at": "2026-11-13",
     "evidence_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXhnaUpUUGFBZzVPbGxGMmNBdm1hRXNldF9LVXlsMGota3dWNnFYYUd5QmZlT1QyUkw0RUFLNnd0cV9MdXN6dHRqbERDbDJiRjFCbFhZWE9ha2dhQ3VCRnpQZ08tdEM1Uld1NFVoNVZmV1JsTFNHYlgwVnktQ1BQa2UzN2NFQlRyVldxMmNyNUhCa1NoTFFFYzdYOHBpT1NQeGgtN09mZw?oc=5",
     "coverage": "对照11月12日已核验编辑项与本条同事件标题，未发现新的欧盟正式立法证据。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT1pZM3ZLZFVBaGR6cnV4cldid2tadndWUVlIdkFzc0s2cGUxYTl4YVprUnhOcHRtZ1hLaEpraHhVWmhnclRCb2lHa05jbjhQbmhoUHdZT1RVUjhBM0lSSFI4QTBSOF9vZVBVNklnSGlzS3JhUUxGQ1pzTWhLdGdlU3ZtYUw4dXBSdjBEVy1vX2laTHM3YWlnSUxzQ19nLVRZSHgyNGZzeklxaE93T01YNjNmWF9abXFNUGtNMWFKam8?oc=5",
+    "published_date": "2026-11-11",
+    "decision": "duplicate",
+    "title_zh": "沙特对中国及土耳其热轧中小型结构型钢反倾销立案：重复来源",
+    "reason_zh": "该11月11日转载为沙特GAFT 2026年11月9日AD-26-3正式立案的同一事件。既有11月10日研判已核验案件号、产品范围及调查性质；本条没有新的法规状态、税率或应诉期限，不重复全文核验。",
+    "reason_en": "Duplicate report of GAFT case AD-26-3 initiated on 9 November 2026. Prior verified editorial entry already covers the measure; no independently new legal action.",
+    "attempted_at": "2026-11-14",
+    "evidence_url": "https://gaft.gov.sa/en/trade-remedies/follow-up-trade-remedies-investigations",
+    "coverage": "比对队列标题、11月11日SMM报道及既有11月10日正式立案研判；仅核对同一案件与相同产品范围，未将转载日期作为新立案日。",
+    "duplicate_of": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDBNQjhzcWoyUF9XN0Q2b2RUWUFXbFVzak5xTzFRYVplb0Y4LV9TMnQzaU9lZU9RQXllZERtbkx5bDRHYjF2WVR2UFFtR1gxLVpINHl3N3g1LVBuMnUydVduSGpRR01aMjlHWGs5eGR0eTJJNEZzODItS2M1VWFyeHU3UTMzVmdCbHRjM0N6VFI4YlpubEtMVTFna1pjc09GbzA4YUtXUTZyVmpodWJz?oc=5"
   }
 ]
