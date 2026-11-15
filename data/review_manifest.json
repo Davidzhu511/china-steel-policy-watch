@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-15T21:40:35Z",
+  "updated_at": "2026-11-15T21:40:47Z",
+  "work_fingerprint": "e936167ee3ba18588eb2",
+  "actionable_count": 0,
+  "blocked_count": 17,
+  "retry_due_count": 15,
+  "pending_translation": 0,
+  "pending_machine_translation": 0,
+  "chinese_title_coverage": 100.0,
+  "oldest_actionable_hours": 0,
+  "queue_path": "data/review_queue.json",
+  "batch_path": "config/reviews/"
+}
