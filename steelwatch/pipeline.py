@@ -17,6 +17,7 @@ from .collectors import (
     RssCollector,
 )
 from .enrich import GitHubModelsEnricher, _fallback
+from .editorial import apply_translations, has_chinese_title, write_review_outputs
 from .fetch import fetch_page_excerpt, is_access_block_text
 from .models import RawItem, SourceResult
 from .render import render_outputs
@@ -130,6 +131,7 @@ def _build_item(raw: RawItem, analysis: dict[str, Any], timestamp: str) -> dict[
         "impact_en": analysis.get("impact_en", ""),
         "url": canonical_url(raw.url),
         "published_at": raw.published_at,
+        "source_published_date": raw.published_at[:10],
         "source": {
             "id": raw.source_id,
             "name": raw.source_name,
@@ -165,14 +167,43 @@ def _build_item(raw: RawItem, analysis: dict[str, Any], timestamp: str) -> dict[
 
 def _apply_editorial(items: list[dict[str, Any]], config: dict[str, Any]) -> None:
     """Apply source-checked briefs only to the exact dated source revision reviewed."""
-    reviews = {canonical_url(row["url"]): row for row in config.get("editorial", [])}
+    # Older collectors overwrote a URL's reviewed edition when its feed date changed.
+    # Restore only explicitly referenced, saved reviews; never review the newer edition.
+    versions = {(canonical_url(item["url"]), item["published_at"][:10]) for item in items}
+    targets = {canonical_url(row["duplicate_of"]) for row in config.get("triage", [])
+               if row.get("decision") == "duplicate" and row.get("duplicate_of")
+               and (canonical_url(row["url"]), row["published_date"]) in versions}
+    for review in config.get("editorial", []):
+        url = canonical_url(review["url"])
+        day = review.get("match_published_date", review["published_date"])
+        if (url not in targets or (url, day) in versions
+                or (url, review["published_date"]) in versions
+                or not review.get("evidence_url") or not review.get("coverage")):
+            continue
+        template = next((item for item in items if canonical_url(item["url"]) == url), None)
+        if template is None:
+            continue
+        restored = {**template, "id": template["id"] + "-review-" + day,
+                    "published_at": day + "T00:00:00Z", "source_excerpt": "",
+                    "title_original": review.get("title_en") or review["title_zh"],
+                    "restored_from_editorial": True}
+        restored.pop("machine_translation", None)
+        items.append(restored)
+        versions.add((url, day))
+    reviews = {(canonical_url(row["url"]), row.get("match_published_date", row["published_date"])): row
+               for row in config.get("editorial", [])}
     fields = {
         "title_zh", "title_en", "summary_zh", "summary_en", "impact_zh", "impact_en",
         "category", "status", "importance", "tags", "tags_en", "follow_up",
         "evidence_url", "coverage",
     }
     for item in items:
-        review = reviews.get(canonical_url(item["url"]))
+        review = reviews.get((canonical_url(item["url"]), item["published_at"][:10]))
+        if not review and item.get("review_method") == "source_checked":
+            review = next((row for row in config.get("editorial", [])
+                           if canonical_url(row["url"]) == canonical_url(item["url"])
+                           and row.get("published_date") == item["published_at"][:10]
+                           and row.get("reviewed_at") == item.get("reviewed_at")), None)
         if not review:
             continue
         source_date = item["published_at"][:10]
@@ -190,6 +221,7 @@ def _apply_editorial(items: list[dict[str, Any]], config: dict[str, Any]) -> Non
         # the official document. Keep exact-version matching on the observed
         # revision, then show the source-backed publication date on the board.
         if review.get("match_published_date") and review.get("published_date"):
+            item["source_published_date"] = source_date
             # The correction establishes a calendar date, not the old feed's
             # time of day, which could otherwise display as the following day.
             item["published_at"] = review["published_date"] + "T00:00:00Z"
@@ -202,11 +234,15 @@ def _apply_triage(items: list[dict[str, Any]], config: dict[str, Any]) -> None:
     """Persist exact-version dispositions without treating blocked sources as reviews."""
     rows = {(canonical_url(row["url"]), row["published_date"]): row
             for row in config.get("triage", [])}
-    by_url = {canonical_url(item["url"]): item for item in items}
+    by_url = {canonical_url(item["url"]): item for item in sorted(
+        items, key=lambda row: row.get("review_method") == "source_checked")}
+    for item in items:
+        for alias in item.get("related_sources", []):
+            by_url.setdefault(canonical_url(alias["url"]), item)
     for item in items:
         for key in ("review_disposition", "review_note_zh", "review_note_en",
                     "review_attempted_at", "duplicate_of", "review_title_zh",
-                    "review_evidence_url", "review_coverage"):
+                    "review_evidence_url", "review_coverage", "retry_after", "retry_policy"):
             item.pop(key, None)
         row = rows.get((canonical_url(item["url"]), item["published_at"][:10]))
         if not row or item.get("review_method") == "source_checked":
@@ -224,6 +260,9 @@ def _apply_triage(items: list[dict[str, Any]], config: dict[str, Any]) -> None:
         if decision == "blocked" and row.get("title_zh"):
             item["review_title_zh"] = row["title_zh"]
         if decision == "blocked":
+            for key in ("retry_after", "retry_policy"):
+                if row.get(key):
+                    item[key] = row[key]
             for key in ("evidence_url", "coverage"):
                 if row.get(key):
                     item[f"review_{key}"] = row[key]
@@ -280,7 +319,7 @@ def _review_counts(items: list[dict[str, Any]]) -> dict[str, int]:
         "active_items": len(active), "archived_items": len(items) - len(active),
         "verified_items": sum(item.get("review_method") == "source_checked" for item in active),
         "pending_analysis": sum(item.get("review_method") != "source_checked" for item in active),
-        "pending_translation": sum(item.get("translation_state") != "complete" for item in active),
+        "pending_translation": sum(not has_chinese_title(item) for item in active),
         "blocked_items": sum(item.get("review_disposition") == "blocked" for item in active),
     }
 
@@ -288,6 +327,7 @@ def _review_counts(items: list[dict[str, Any]]) -> dict[str, int]:
 def _deduplicate_history(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     """Collapse identical syndicated headlines while retaining all original links."""
     ordered = sorted(items, key=lambda row: (
+        row.get("review_method") == "source_checked",
         row.get("translation_state") == "complete",
         row.get("source", {}).get("name", "").lower() == "reuters",
     ), reverse=True)
@@ -303,6 +343,8 @@ def _deduplicate_history(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
         duplicate = next((row for row in kept if (
             row.get("source", {}).get("kind") == "news"
             and row.get("title_original", "").casefold() == title.casefold()
+            and (canonical_url(row["url"]) != canonical_url(item["url"])
+                 or row["published_at"][:10] == item["published_at"][:10])
             and abs((parse_datetime(row["published_at"]) - parse_datetime(item["published_at"])).days) <= 2
         )), None)
         if duplicate:
@@ -352,9 +394,9 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
         previous = previous_by_id.get(raw.id)
         if previous:
             if (
-                previous.get("translation_state") != "complete"
-                or parse_datetime(raw.published_at).date()
-                != parse_datetime(previous.get("published_at")).date()
+                parse_datetime(raw.published_at).date()
+                != parse_datetime(previous.get("source_published_date")
+                                  or previous.get("published_at")).date()
             ):
                 candidates.append(raw)
             continue
@@ -443,6 +485,10 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
             continue
         built = _build_item(raw, analysis, timestamp)
         if raw.id in previous_by_id:
+            old = previous_by_id[raw.id]
+            if old["published_at"][:10] != raw.published_at[:10]:
+                version_id = raw.id + "-" + old["published_at"][:10]
+                combined[version_id] = {**old, "id": version_id}
             built["first_seen"] = previous_by_id[raw.id].get("first_seen", timestamp)
         combined[raw.id] = built
 
@@ -473,9 +519,12 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
             item.pop("machine_translation", None)
     _apply_editorial(retained, config)
     _apply_triage(retained, config)
+    apply_translations(retained, config)
     retained = _deduplicate_history(retained)
     active = [item for item in retained if item.get("review_disposition") not in {"excluded", "duplicate"}]
-    translation = translate_pending(active, settings, previous_by_id)
+    # Collection publishes immediately; the separate translation workflow does CPU work.
+    translation = {"status": "queued" if settings.get("offline_translation") else "disabled",
+                   "translated": 0, "warnings": []}
     warnings.extend(translation["warnings"])
     for item in retained:
         item.pop("priority_signal", None)
@@ -490,7 +539,8 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
         "items": retained,
     }
     atomic_json_write(history_path, payload)
-    atomic_json_write(data_dir / "review_queue.json", _build_review_queue(retained, timestamp))
+    review_metrics = write_review_outputs(
+        data_dir, _build_review_queue(retained, timestamp), retained)
 
     successful_sources = sum(1 for result in source_results if result.ok)
     previous_sources = {row["id"]: row for row in previous_status.get("sources", [])}
@@ -516,6 +566,7 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
             "degraded" if model_warnings else "available"
         ),
         **_review_counts(retained),
+        **review_metrics,
         "offline_translation": translation,
         "machine_translated_items": sum(
             bool(item.get("machine_translation")) and item.get("review_method") != "source_checked"
@@ -545,14 +596,48 @@ def publish_editorial(config: dict[str, Any], data_dir: Path, docs_dir: Path) ->
     items = payload["items"]
     _apply_editorial(items, config)
     _apply_triage(items, config)
+    apply_translations(items, config)
     items.sort(key=_sort_key, reverse=True)
     status.update(_review_counts(items))
     status["editorial_updated_at"] = now_iso()
     atomic_json_write(data_dir / "items.json", payload)
+    status.update(write_review_outputs(
+        data_dir, _build_review_queue(items, status["generated_at"]), items))
+    status["machine_translated_items"] = sum(
+        bool(item.get("machine_translation")) and item.get("review_method") != "source_checked"
+        for item in items if item.get("review_disposition") not in {"excluded", "duplicate"})
     atomic_json_write(data_dir / "status.json", status)
-    atomic_json_write(data_dir / "review_queue.json",
-                      _build_review_queue(items, status["generated_at"]))
     render_outputs(data_dir, docs_dir)
+
+
+def translate_existing(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[str, Any]:
+    """Translate the latest saved snapshot without fetching or promoting source evidence."""
+    payload = load_json(data_dir / "items.json", {})
+    if not payload.get("generated_at"):
+        raise ValueError("Translation requires a collected snapshot")
+    items = payload["items"]
+    apply_translations(items, config)
+    active = [item for item in items if item.get("review_disposition") not in {"excluded", "duplicate"}]
+    result = translate_pending(active, config.get("settings", {}), {})
+    result["attempted_at"] = now_iso()
+    if result["status"] in {"partial", "unavailable"}:
+        result["retry_after"] = (datetime.now(UTC) + timedelta(hours=6)).isoformat()
+    atomic_json_write(data_dir / "items.json", payload)
+    status = load_json(data_dir / "status.json", {})
+    status["offline_translation"] = result
+    status["translation_updated_at"] = now_iso()
+    atomic_json_write(data_dir / "status.json", status)
+    editorial_timestamp = status.get("editorial_updated_at")
+    publish_editorial(config, data_dir, docs_dir)
+    # Translation is not a new source review.
+    status = load_json(data_dir / "status.json", {})
+    if editorial_timestamp:
+        status["editorial_updated_at"] = editorial_timestamp
+    else:
+        status.pop("editorial_updated_at", None)
+    atomic_json_write(data_dir / "status.json", status)
+    render_outputs(data_dir, docs_dir)
+    return result
 
 
 def render_existing(data_dir: Path, docs_dir: Path) -> None:

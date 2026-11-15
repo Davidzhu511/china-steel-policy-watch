@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-15",
+  "note": "分离标题翻译与事实核验；补齐已有标题，修复重复项关联并核验两条可取得原文的新闻。",
+  "translations": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR1NrNkxmRmMxR3hGVkJHeEdNN1FBMFA1UzBaUEFnNXBYVHYxemJuel9DWEVJYkJRRUxWUUo3cnpGVDI3SDluSDZuR2RRYWZRTUgxWjREeHlUbFlwamlPdTVrX3BYdy10ejVBX3RXQVotb1g3cEo3bnI4dGtsNUU4ZmtDVHdZMUhkX19LVXB6ZS01bExXTHFwUnBMVF9QQjdJc0FGSEI5d2dvY0VJN2k1RlhBZk1wMWl4dWhFbTdORjhsWktvQ2VpZA?oc=5",
+      "published_date": "2026-11-10",
+      "title_original": "Price of Carbon: How the steel sector can turn CBAM into a green hydrogen advantage",
+      "title_zh": "碳的价格：钢铁业如何将CBAM转化为绿氢竞争优势",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://defensoriadian.gov.co/al-dia-con-la-normativa",
+      "published_date": "2026-10-19",
+      "title_original": "Resolución No. 00695 de 16 de octubre de 2026 - investigación antidumping sobre perfiles de hierro o acero en L y U",
+      "title_zh": "2026年10月16日第00695号决议：L形及U形钢铁型材反倾销调查",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
+      "published_date": "2026-11-13",
+      "title_original": "State-of-play CBAM accreditation",
+      "title_zh": "CBAM核查机构认可进展",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
+      "published_date": "2026-11-03",
+      "title_original": "UK ETS technical guidance: Monitoring and Reporting Regulation (MRR) 2018",
+      "title_zh": "英国ETS技术指南：《监测与报告条例（MRR）2018》",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSk5uTFkyTmdrMWFwdlFneDZRVkFGcDJfRUZFZVFrd3BybG9MV3BRd01wbHQtajZrOWFrNUU0REFDVnlkTktQX2FCV1NXMDlZMk80LTdMQjVBOUZ0T3ZoTTFGSXphU0pPa0IzZ095M19zUXNoVHZEVzl5Y0FXOEJVdUVleHdXaUU?oc=5",
+      "published_date": "2026-11-13",
+      "title_original": "Turkey plans to establish its own CBAM from 2027",
+      "title_zh": "土耳其计划自2027年设立本国CBAM",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
+      "published_date": "2026-11-12",
+      "title_original": "Steel sector sees green milestone",
+      "title_zh": "钢铁行业绿色发展取得新进展",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
+      "published_date": "2026-11-09",
+      "title_original": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations",
+      "title_zh": "土耳其钢铁出口商协会签署CBAM合规合作协议",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXhnaUpUUGFBZzVPbGxGMmNBdm1hRXNldF9LVXlsMGota3dWNnFYYUd5QmZlT1QyUkw0RUFLNnd0cV9MdXN6dHRqbERDbDJiRjFCbFhZWE9ha2dhQ3VCRnpQZ08tdEM1Uld1NFVoNVZmV1JsTFNHYlgwVnktQ1BQa2UzN2NFQlRyVldxMmNyNUhCa1NoTFFFYzdYOHBpT1NQeGgtN09mZw?oc=5",
+      "published_date": "2026-11-12",
+      "title_original": "Assofermet Urges EU to Raise CBAM Threshold from 50 to 500 Tonnes",
+      "title_zh": "意大利Assofermet协会呼吁将CBAM门槛由50吨提高至500吨",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWTXZCWUxFLWgwUmF6TU5OVXVwcFIxX29jU2NHU1hOSGZBVFZRVklJNjZYcXRHdlpOZGFIdXpGamxCcVdXNDJjVWRoYUJUcTZGOFhSYVRJRkJsMDlKM3duMi1KaFZRRFZtakxKOUJZOG5fWkg1VGlydW42d21JZw?oc=5",
+      "published_date": "2026-11-06",
+      "title_original": "CBAM Rules for Crediting 3rd Country Carbon Prices",
+      "title_zh": "CBAM第三国已缴碳价抵扣规则",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnJXRUdNbnp3c2MxVzRwS0ZhMHZtdU9oVWFWWTZVeWMyMEFoLU4zWnBxbjlfbTBtMGlvdUtyQndiTFN6aDdSTzlYeDI3Q3ZGOHlaN1FZVTMwbEIxZm5aYjdvNkRod3FoWkJZQjZ5QjB5LV80OUM3VGFEUmY3bHpndkRfV2RZUHVWcXVCTU5fa3ZnSEtCUlQxWXVTb19tX00?oc=5",
+      "published_date": "2026-11-05",
+      "title_original": "CBAM boosting European steelmaker's earnings: CEO",
+      "title_zh": "钢企CEO称CBAM提振欧洲钢厂盈利",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUNrOTNjSDNPdXVJTVRrNEtXY25ET0NISEVURDduU3QtUklGZU16R1JwNTNsaUNtWnNkTy14cHlRZ2g4TzFYV3ZDQnlldkhkMHF0TGpneXBfeEtiRmVhWmd1bnhFSXhreGRkNGJPZFdCbzdwdUJDVUtmUW9zbTRoVVFaemE1VFJMNFFMeXV0RmNBaTREU1ppbmtXRFotUzRGYVR4Y1J2SDEyclk?oc=5",
+      "published_date": "2026-10-27",
+      "title_original": "Iron Ore Prices Face a Reality Check as China’s Steel Demand Slows",
+      "title_zh": "中国钢材需求放缓，铁矿石价格面临现实考验",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUkJSUWJKVkFrNDY1dVNQOWZmXzBBSUhfR2gwR2JVSTYtSVFPazl6dWV4YU5LaS1oUUhsQXhIWHVlRlFSbmpESmF0UmxUWFhlRUd4WkxGbTVfd1hrOWdYSUlPUElwVENrQWZkU2JsSzJ1Q2pKbzBJOTQ4V05hWHhXdXZGTzJVTTdj?oc=5",
+      "published_date": "2026-11-01",
+      "title_original": "How to Manage the Impacts of EU CBAM Regulations?",
+      "title_zh": "如何应对欧盟CBAM法规的影响？",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83RFpwRlhrajRQbnVXOEdzbFhOaFNqU0NXcl9Yb2R6ZE9HclVNR3pfdTdnOEJnekJyNDlKcy1kanItSnI3Qk5oemZZSzNQT2tqbWtGVmtMVlp0QdIBZkFVX3lxTE52aGZpellxd0Noa2pSMFdES1EyZlowb1BVS0xNbEtNQ2dhTEp6VHhza0J0Yi1ta2ZpSEhlVnlDbzA1QndTM3E4NHZMeEl3X1ZId19XRjZmRU16MWJHTDA3ZDFFUnFzUQ?oc=5",
+      "published_date": "2026-10-28",
+      "title_original": "Making the UK CBAM-ready",
+      "title_zh": "为英国CBAM做好准备",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVU0S3JDbk5EVFZ0SVNZOHI3MEx0ajRXcFdVb0FoUVZkZVdieEFVYXpJdFV2aEotcDRpYy1aS01jN3dDcC1qdk5WS29sX21ZOWJJdk01X1dVZmotWThZaHJJUHdHcVk1ektGZWNvdnBlNWFodFhEakVhOWNFdzVTLUE5N2toTG53WU9ELVBBTFpyVGxJbWRUUGhNb3FXQWNjZEJEYTRFWVdVdTUtMFE5TXF1V1d0SWZiZDUwb3NCbWpoUQ?oc=5",
+      "published_date": "2026-10-26",
+      "title_original": "Rosan discusses deeper nickel and stainless steel processing with Tsingshan chairman",
+      "title_zh": "Rosan与青山集团董事长讨论深化镍及不锈钢加工",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDJiWHE4OUlfQXdkQkhDUVQ1RndVSjJBVVNQUVROZUdMS1VWOFpkWEl4MXE5RmFXTzhCbkJSMVhxSWJNTGJBblpjMm81TTk2eFlnZWFhWVhhM3hudFdFQXYtTWl2aktEUUZiMl9WVVlleTlXTmVhZlNmVVlzckVsaTZ5OFlxNGdLZnpTYnRxUE9VTTdnYldFbFBZTGZLQQ?oc=5",
+      "published_date": "2026-10-22",
+      "title_original": "The Impact of CBAM’s Extension to Downstream Products on MSMEs",
+      "title_zh": "CBAM向下游产品扩围对中小微企业的影响",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWZnWlpmdnplMXBjZk13djExUC0tZ1p5TVpWUmFvN01YRjVVNUlUdTRGOU1xUU5xUVNRcDdyTzRYS2gtMHVZU2FmMm4wTjRINlF4YUw4NWtid3FUYkxaaFhsUEhqaC1fUFdyR2txVzQyR1BqM2dYSWdlVjZiVlhvSDhvczcyV1AwQkkyYW1meFpFSGVZUlV2ZHlQSElGMW1MdTh1Z05TODYtanND?oc=5",
+      "published_date": "2026-10-16",
+      "title_original": "In Depth: China’s Green Steel Ambitions Hit a Red Light",
+      "title_zh": "深度：中国绿色钢铁发展雄心遭遇阻力",
+      "translated_at": "2026-11-15",
+      "coverage": "仅翻译原始标题，不构成全文核验或法规确认。"
+    }
+  ],
+  "triage": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSk5uTFkyTmdrMWFwdlFneDZRVkFGcDJfRUZFZVFrd3BybG9MV3BRd01wbHQtajZrOWFrNUU0REFDVnlkTktQX2FCV1NXMDlZMk80LTdMQjVBOUZ0T3ZoTTFGSXphU0pPa0IzZ095M19zUXNoVHZEVzl5Y0FXOEJVdUVleHdXaUU?oc=5",
+      "published_date": "2026-11-13",
+      "decision": "duplicate",
+      "title_zh": "Turkey plans to establish its own CBAM from 2027",
+      "reason_zh": "土耳其2026—2030绿色协议行动计划及2027年拟开展本国CBAM立法工作，已在11月11日来源版本的现有研判覆盖；本条未见可证实的新法令、税率或生效日。",
+      "reason_en": "Previously verified event; no independent regulatory update.",
+      "attempted_at": "2026-11-15",
+      "evidence_url": "https://ticaret.gov.tr/dis-iliskiler/yesil-mutabakat/duyurular/yesil-mutabakat-eylem-plani-2026-2030-yayimlandi",
+      "coverage": "按标题及此前核验的土耳其贸易部官方计划去重，未据11月13日转载另行认定正式开征。 本轮修复缺失的已核验主条关联；未添加新的法规结论。",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHlVMkZfY3d0QkxHT0ZLTklCcl9oU0xDQTEwRnk0c2U1ejVIbTRDczE4R1dpc0pSR0lkT0hOdWtmNGt0UEUwMTJ6QVVwVm1WdEk4cVozZTJMcFEtbHdDaTNKcUlmUHFSUERiUTA1TUNNaWhTQWw0TVFjY2hqV3Q3Y0Y2dDFMVU1pUG1ySU5FWkQtdTZUOWY2WDVhTHZCVVBPNnBraE12VVU?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXhnaUpUUGFBZzVPbGxGMmNBdm1hRXNldF9LVXlsMGota3dWNnFYYUd5QmZlT1QyUkw0RUFLNnd0cV9MdXN6dHRqbERDbDJiRjFCbFhZWE9ha2dhQ3VCRnpQZ08tdEM1Uld1NFVoNVZmV1JsTFNHYlgwVnktQ1BQa2UzN2NFQlRyVldxMmNyNUhCa1NoTFFFYzdYOHBpT1NQeGgtN09mZw?oc=5",
+      "published_date": "2026-11-12",
+      "decision": "duplicate",
+      "title_zh": "Assofermet Urges EU to Raise CBAM Threshold from 50 to 500 Tonnes",
+      "reason_zh": "意大利Assofermet要求将CBAM小额豁免门槛由50吨提升至500吨的行业倡议，已由11月12日同事件研判覆盖；不是欧盟通过的新门槛。",
+      "reason_en": "Previously verified event; no independent regulatory update.",
+      "attempted_at": "2026-11-15",
+      "evidence_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXhnaUpUUGFBZzVPbGxGMmNBdm1hRXNldF9LVXlsMGota3dWNnFYYUd5QmZlT1QyUkw0RUFLNnd0cV9MdXN6dHRqbERDbDJiRjFCbFhZWE9ha2dhQ3VCRnpQZ08tdEM1Uld1NFVoNVZmV1JsTFNHYlgwVnktQ1BQa2UzN2NFQlRyVldxMmNyNUhCa1NoTFFFYzdYOHBpT1NQeGgtN09mZw?oc=5",
+      "coverage": "对照11月12日已核验编辑项与本条同事件标题，未发现新的欧盟正式立法证据。 本轮修复缺失的已核验主条关联；未添加新的法规结论。",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVVvakktenJOVGNuSGRSbzBIMUh4WWlLNkxtVkVtb3lfQkNXS1UydFVQRFlGR0I2S1pXSTBQMXVGc0ViNUJtVnRRNUdQSTB2czBuQjRPM0h5b2tjWUlkSl8yN3QyRW5ZTENvMkJtMUh1OGZlWHlDbWhYbXk2RHFPb0FLajZxSnhGbi1EVDF1NFNtZ0ZXUXU4YVJnRzlvSmNhLUJfTdIBpAFBVV95cUxNVVVvakktenJOVGNuSGRSbzBIMUh4WWlLNkxtVkVtb3lfQkNXS1UydFVQRFlGR0I2S1pXSTBQMXVGc0ViNUJtVnRRNUdQSTB2czBuQjRPM0h5b2tjWUlkSl8yN3QyRW5ZTENvMkJtMUh1OGZlWHlDbWhYbXk2RHFPb0FLajZxSnhGbi1EVDF1NFNtZ0ZXUXU4YVJnRzlvSmNhLUJfTQ?oc=5"
+    }
+  ],
+  "editorial": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR1NrNkxmRmMxR3hGVkJHeEdNN1FBMFA1UzBaUEFnNXBYVHYxemJuel9DWEVJYkJRRUxWUUo3cnpGVDI3SDluSDZuR2RRYWZRTUgxWjREeHlUbFlwamlPdTVrX3BYdy10ejVBX3RXQVotb1g3cEo3bnI4dGtsNUU4ZmtDVHdZMUhkX19LVXB6ZS01bExXTHFwUnBMVF9QQjdJc0FGSEI5d2dvY0VJN2k1RlhBZk1wMWl4dWhFbTdORjhsWktvQ2VpZA?oc=5",
+      "published_date": "2026-11-10",
+      "reviewed_at": "2026-11-15",
+      "status": "新闻",
+      "importance": "中",
+      "category": "碳与环保",
+      "title_zh": "印度不锈钢企业人士：应对CBAM先完善排放数据，再推进减碳投资",
+      "title_en": "Indian stainless executive argues for better emissions data before larger decarbonisation investment",
+      "summary_zh": "Renewable Watch刊发Jindal Stainless管理人员署名观点，建议先完善排放核算，再结合清洁电力、废钢及绿氢推进减碳。这是企业人士的路径建议，不是新的欧盟法规。",
+      "summary_en": "A signed Renewable Watch opinion by a Jindal Stainless executive prioritises emissions accounting alongside clean power, scrap and hydrogen. It is a corporate viewpoint, not a new EU rule.",
+      "impact_zh": "业务判断：可用于观察印度同行的竞争策略。文中成本、默认值及减排比例未作独立法规核验，不直接用于首钢报价或CBAM费用计算。",
+      "impact_en": "Business assessment: useful for monitoring Indian competitors. Article cost, default-value and reduction estimates are not independently validated for Shougang pricing or CBAM calculations.",
+      "tags": [
+        "企业观点",
+        "印度",
+        "低碳钢"
+      ],
+      "tags_en": [
+        "Corporate opinion",
+        "India",
+        "Low-carbon steel"
+      ],
+      "follow_up": "跟进同行实际排放核验能力与产品结构；涉及报价的参数另查官方文件。",
+      "evidence_url": "https://renewablewatch.in/expert-take/price-of-carbon-how-the-steel-sector-can-turn-cbam-into-a-green-hydrogen-advantage-12797462",
+      "coverage": "已阅读11月10日署名原文；仅提炼作者建议，不确认其法规参数、成本数字或技术减排预测。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
+      "published_date": "2026-11-13",
+      "reviewed_at": "2026-11-15",
+      "status": "新闻",
+      "importance": "中",
+      "category": "碳与环保",
+      "match_published_date": "2026-11-12",
+      "title_zh": "中国日报报道钢铁节能进展：行业数据不能替代产品碳排放证据",
+      "title_en": "China Daily reports steel-sector energy savings; aggregate progress is not product emissions evidence",
+      "summary_zh": "中国日报11月13日报道，中钢协人士在10月28日论坛介绍行业能效提升与低碳技术进展。报道反映行业与企业转型，不是新的贸易措施。",
+      "summary_en": "China Daily reports on 13 November remarks at an industry forum on 28 October about energy efficiency and low-carbon steel technology. This is industry progress, not a new trade measure.",
+      "impact_zh": "业务判断：可作为客户沟通的行业背景；具体钢厂、工艺和产品的排放证据仍需单独提供，不能用行业整体减排成绩替代订单数据。",
+      "impact_en": "Business assessment: useful context for customers. Mill, process and product emissions evidence remains separate from aggregate industry progress.",
+      "tags": [
+        "中国钢铁",
+        "能效",
+        "低碳转型"
+      ],
+      "tags_en": [
+        "Chinese steel",
+        "Energy efficiency",
+        "Decarbonisation"
+      ],
+      "follow_up": "销售材料区分行业统计、钢厂实测和产品核验结果。",
+      "evidence_url": "https://www.chinadaily.com.cn/a/202611/13/WS6af679cce4b03ebf8519c384.html",
+      "coverage": "已读取中国日报原始报道；按原站发布日期纠正RSS的11月12日观察日期。未独立审计报道引用的行业减排统计。"
+    }
+  ]
+}

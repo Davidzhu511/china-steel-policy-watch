@@ -5,12 +5,12 @@ import json
 from pathlib import Path
 
 from .config import load_config, project_root
-from .pipeline import publish_editorial, render_existing, run_update
+from .pipeline import publish_editorial, render_existing, run_update, translate_existing
 
 
 def parser() -> argparse.ArgumentParser:
     value = argparse.ArgumentParser(description="China steel policy watch")
-    value.add_argument("command", nargs="?", choices=("update", "render", "publish-editorial"), default="update")
+    value.add_argument("command", nargs="?", choices=("update", "render", "publish-editorial", "translate"), default="update")
     value.add_argument("--config", type=Path, default=None)
     value.add_argument("--data-dir", type=Path, default=project_root() / "data")
     value.add_argument("--docs-dir", type=Path, default=project_root() / "docs")
@@ -23,6 +23,8 @@ def main() -> None:
     if args.command == "update":
         status = run_update(config, args.data_dir, args.docs_dir)
         print(json.dumps(status, ensure_ascii=False, indent=2))
+    elif args.command == "translate":
+        print(json.dumps(translate_existing(config, args.data_dir, args.docs_dir), ensure_ascii=False))
     elif args.command == "publish-editorial":
         publish_editorial(config, args.data_dir, args.docs_dir)
         print("Published reviewed content from existing collection")

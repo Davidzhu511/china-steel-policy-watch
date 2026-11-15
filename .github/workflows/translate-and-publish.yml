@@ -1,0 +1,88 @@
+name: 增量翻译并发布
+
+on:
+  workflow_run:
+    workflows: ["每日更新并部署看板"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: steelwatch-pages
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.head_branch == 'main')
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: 跳过已翻译和冷却中的失败任务
+        id: gate
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          from datetime import datetime, timezone
+          from pathlib import Path
+          status = json.loads(Path('data/status.json').read_text())
+          settings = json.loads(Path('config/sources.json').read_text())['settings']
+          retry = status.get('offline_translation', {}).get('retry_after')
+          cooled = not retry or datetime.fromisoformat(retry) <= datetime.now(timezone.utc)
+          run = settings.get('offline_translation') and status.get('pending_machine_translation', 0) > 0 and cooled
+          print('run=' + str(bool(run)).lower())
+          PY
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.run == 'true'
+        with:
+          python-version: "3.12"
+          cache: pip
+      - uses: actions/cache@v4
+        if: steps.gate.outputs.run == 'true'
+        with:
+          path: .cache/opus-en-zh
+          key: opus-en-zh-408d9bc-checksums-v1
+      - name: 安装轻量CPU翻译依赖
+        if: steps.gate.outputs.run == 'true'
+        continue-on-error: true
+        timeout-minutes: 6
+        run: |
+          python -m pip install 'torch>=2.6,<3' --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install -e '.[translation]'
+      - name: 下载并校验固定版本模型
+        if: steps.gate.outputs.run == 'true'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: PYTHONPATH=. python scripts/prepare_translation.py
+      - name: 翻译现有快照并记录真实结果
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          python -m pip install -e .
+          python -m steelwatch translate
+      - name: 保存译文
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          git config user.name "steelwatch-bot"
+          git config user.email "steelwatch-bot@users.noreply.github.com"
+          git add data docs/data docs/feed.xml docs/index.html
+          if ! git diff --cached --quiet; then
+            git commit -m "data: publish incremental Chinese translations"
+            git push
+          fi
+      - name: 发布已有数据，不重复采集
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              ...context.repo, workflow_id: 'update-and-deploy.yml', ref: 'main',
+              inputs: {mode: 'editorial'},
+            });

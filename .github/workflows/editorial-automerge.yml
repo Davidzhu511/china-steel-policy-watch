@@ -64,7 +64,9 @@ jobs:
             });
             const allowed = new Set(["config/editorial.json", "config/triage.json"]);
             if (!changed.length || changed.some(file =>
-                !allowed.has(file.filename) || file.status === "removed")) {
+                (!allowed.has(file.filename) &&
+                 !(file.status === "added" && /^config\/reviews\/[a-zA-Z0-9_-]+\.json$/.test(file.filename)))
+                || file.status === "removed")) {
               core.warning("PR #" + number + " touches non-editorial files; manual review required.");
               return;
             }
