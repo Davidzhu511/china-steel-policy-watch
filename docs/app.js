@@ -97,7 +97,7 @@
     notePublished: "按原始发布时间倒序；新发现的旧资料保留在归档中。",
     noteSeen: "按首次收录时间倒序；收录时间不代表新闻发布时间。",
     notePriority: "关注重大、高优先级信息及待跟进节点；重要性为初筛判断。",
-    pending: "待补充中文解读", machineTranslated: "机器译文 · 待研判", checked: "已核对原文", excerpt: "查看原文摘录", published: "发布 / 更新",
+    pending: "待核验", translated: "标题已译 · 待核验", blocked: "等待补充证据", machineTranslated: "机器译文 · 待研判", checked: "已核对原文", excerpt: "查看原文摘录", published: "发布 / 更新",
     followUp: "待跟进", due: "节点", overdue: "已到节点 · 待核对", related: "同题来源",
     analysisOff: "自动摘要未启用；原文采集正常，已核对条目提供中文解读。",
     analysisError: "自动摘要暂不可用；原文照常收录。", analysisOk: "自动摘要已启用。",
@@ -117,7 +117,7 @@
     notePublished: "Newest publication first. Newly discovered older records remain in the archive.",
     noteSeen: "Newest discovery first. First-seen dates are not publication dates.",
     notePriority: "Critical and high-priority items plus follow-up dates. Priority is an initial assessment.",
-    pending: "Brief pending", machineTranslated: "Machine translation · review pending", checked: "Source checked", excerpt: "Source excerpt", published: "Published / updated",
+    pending: "Review pending", translated: "Title translated · unverified", blocked: "Evidence awaited", machineTranslated: "Machine translation · review pending", checked: "Source checked", excerpt: "Source excerpt", published: "Published / updated",
     followUp: "Follow-up", due: "Due", overdue: "Date reached · check outcome", related: "Related source",
     analysisOff: "Automatic briefs are not configured. Source collection continues; checked items have bilingual briefs.",
     analysisError: "Automatic briefs are unavailable. Source collection continues.", analysisOk: "Automatic briefs enabled.",
@@ -207,8 +207,9 @@
   function itemTitle(item) {
     return state.lang === "en"
       ? item.title_en || item.title_original || item.title_zh
-      : item.review_title_zh || (item.translation_state === "complete" ? item.title_zh || item.title_original
-        : item.title_original);
+      : (item.translation_state === "complete" ? item.title_zh || item.title_original
+        : item.source_translation?.title_zh || item.machine_translation?.title_zh
+          || item.review_title_zh || item.title_original);
   }
 
   function itemSummary(item) {
@@ -218,7 +219,7 @@
     }
     if (item.translation_state !== "complete") {
       if (state.lang === "en") return item.source_excerpt || t("pendingCopy");
-      return t("pendingCopy");
+      return item.source_translation?.excerpt_zh || item.machine_translation?.excerpt_zh || t("pendingCopy");
     }
     if (state.lang === "zh") return item.summary_zh || "";
     return item.summary_en || `${sourceName(item)} — ${item.title_original || item.title_zh}`;
@@ -330,9 +331,12 @@
     elements.live.classList.toggle("ok", !partial && !pending);
     elements.live.classList.toggle("error", partial);
     elements.live.innerHTML = `<i></i><span>${escapeHtml(t(partial ? "monitorPartial" : pending ? "monitorPending" : "monitorOk"))}</span>`;
-    const analysisKey = state.status.analysis_status === "available" ? "analysisOk" : state.status.analysis_status === "degraded" ? "analysisError" : "analysisOff";
-    const machineCount = state.status.machine_translated_items || 0;
-    elements.analysis.textContent = `${t(analysisKey)} ${machineCount ? t("machineCount", {count: machineCount}) : ""} ${t("pendingCount", {count: state.status.pending_analysis || 0})}`;
+    const review = state.status.actionable_count ?? (state.status.pending_analysis || 0);
+    const blocked = state.status.blocked_count ?? state.status.blocked_items ?? 0;
+    const untranslated = state.status.pending_translation || 0;
+    elements.analysis.textContent = state.lang === "zh"
+      ? `待译标题 ${untranslated} 条 · 可研判 ${review} 条 · 证据受阻 ${blocked} 条 · 中文标题覆盖 ${state.status.chinese_title_coverage ?? "—"}%`
+      : `${untranslated} titles awaiting translation · ${review} ready for review · ${blocked} awaiting evidence · ${state.status.chinese_title_coverage ?? "—"}% Chinese titles`;
 
   }
 
@@ -392,7 +396,7 @@
   }
 
   function topicMatch(item) {
-    const text = [item.title_zh, item.title_original, item.machine_translation?.title_zh,
+    const text = [item.title_zh, item.title_original, item.source_translation?.title_zh, item.machine_translation?.title_zh,
       ...(item.tags || [])].join(" ").toLowerCase();
     if (state.topic === "cbam") return /cbam|碳边境/.test(text);
     if (state.topic === "ets") return /eu ets|uk ets|emissions trading|排放交易/.test(text);
@@ -428,7 +432,7 @@
   function filteredItems() {
     const query = elements.search.value.trim().toLowerCase();
     const filtered = state.items.filter((item) => {
-      const text = [item.review_title_zh, item.title_zh, item.title_en, item.title_original, item.summary_zh, item.summary_en, item.impact_zh, item.impact_en,
+      const text = [item.source_translation?.title_zh, item.review_title_zh, item.title_zh, item.title_en, item.title_original, item.summary_zh, item.summary_en, item.impact_zh, item.impact_en,
         item.machine_translation?.title_zh, item.machine_translation?.excerpt_zh,
         item.country, item.region, item.category, ...(item.products || []), ...(item.products_en || []), ...(item.tags || []), ...(item.tags_en || [])]
         .join(" ").toLowerCase();
@@ -447,7 +451,8 @@
     return `<article class="intel-card" data-importance="${escapeHtml(item.importance)}">
       <div class="card-head">
         <div class="badge-row">
-          ${item.translation_state === "complete" ? `<span class="badge importance-${escapeHtml(item.importance)}">${escapeHtml(importance)}</span>` : `<span class="badge pending">${escapeHtml(t("pending"))}</span>`}
+          ${item.translation_state === "complete" ? `<span class="badge importance-${escapeHtml(item.importance)}">${escapeHtml(importance)}</span>` : `<span class="badge pending">${escapeHtml(t(item.review_disposition === "blocked" ? "blocked" : item.source_translation ? "translated" : item.machine_translation ? "machineTranslated" : "pending"))}</span>`}
+          ${item.machine_translation && item.review_disposition === "blocked" ? `<span class="badge pending">${escapeHtml(t("machineTranslated"))}</span>` : ""}
           ${item.priority_signal ? `<span class="badge official">${escapeHtml(item.priority_signal[state.lang] || item.priority_signal.zh)}</span>` : ""}
           <span class="badge ${item.source?.official ? "official" : ""}">${escapeHtml(item.source?.official ? t("official") : label("status", item.status))}</span>
           <span class="badge">${escapeHtml(label("category", item.category))}</span>

@@ -7,6 +7,7 @@ on:
     paths:
       - ".github/workflows/update-and-deploy.yml"
       - ".github/workflows/editorial-automerge.yml"
+      - ".github/workflows/translate-and-publish.yml"
       - "config/**"
       - "docs/index.html"
       - "docs/app.js"
@@ -16,11 +17,13 @@ on:
       - "tests/**"
       - "pyproject.toml"
   schedule:
-    # Collect at 07:50 and 13:50 Berlin time, independently of ChatGPT reviews.
+    # Collect at 07:50, 13:50 and 19:50 Berlin time.
     - cron: "50 5 * * *"
     - cron: "50 6 * * *"
     - cron: "50 11 * * *"
     - cron: "50 12 * * *"
+    - cron: "50 17 * * *"
+    - cron: "50 18 * * *"
   workflow_dispatch:
     inputs:
       mode:
@@ -88,7 +91,7 @@ jobs:
           # Pure editorial pushes publish the saved collection without re-fetching.
           if [[ "$EVENT_NAME" == "push" ]] && git cat-file -e "$BEFORE_SHA" 2>/dev/null; then
             changed="$(git diff --name-only "$BEFORE_SHA" HEAD)"
-            if [[ -n "$changed" ]] && ! echo "$changed" | grep -qvE '^config/(editorial|triage)\.json$'; then
+            if [[ -n "$changed" ]] && ! echo "$changed" | grep -qvE '^config/((editorial|triage)\.json|reviews/[^/]+\.json)$'; then
               mode=editorial
             fi
           fi

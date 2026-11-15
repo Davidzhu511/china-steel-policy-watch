@@ -9,6 +9,7 @@ from pathlib import Path
 from typing import Any
 
 from .util import now_iso, trim_text
+from .editorial import has_chinese_title
 
 MODEL = "Helsinki-NLP/opus-mt-en-zh"
 REVISION = "408d9bc410a388e1d9aef112a2daba955b945255"
@@ -115,7 +116,7 @@ def translate_pending(
         return result
     pending = []
     for item in items:
-        if item.get("translation_state") == "complete":
+        if has_chinese_title({**item, "machine_translation": {}}):
             continue
         if item.get("language", "").startswith("zh"):
             item.pop("machine_translation", None)
@@ -129,6 +130,9 @@ def translate_pending(
         item.pop("machine_translation", None)
         pending.append(item)
     pending.sort(key=lambda item: item.get("published_at", ""), reverse=True)
+    if not pending:
+        result.update(status="available", remaining=0)
+        return result
     model_dir = Path(os.environ.get("STEELWATCH_MT_DIR", ".cache/opus-en-zh"))
     if not (model_dir / "ready.json").is_file():
         result["status"] = "unavailable"
@@ -172,7 +176,7 @@ def translate_pending(
     if failures:
         result["warnings"].append(f"{failures} 条译文未通过完整性检查，保留原文待重试。")
     result["remaining"] = sum(
-        item.get("translation_state") != "complete" and not item.get("machine_translation")
+        not has_chinese_title(item)
         and not item.get("language", "").startswith("zh")
         for item in items
     )

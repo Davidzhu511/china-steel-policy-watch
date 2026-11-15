@@ -4,6 +4,8 @@ import json
 from pathlib import Path
 from typing import Any
 
+from .editorial import load_batches
+
 
 def project_root() -> Path:
     return Path(__file__).resolve().parents[1]
@@ -19,4 +21,5 @@ def load_config(path: str | Path | None = None) -> dict[str, Any]:
     triage = config_path.with_name("triage.json")
     if triage.exists():
         config["triage"] = json.loads(triage.read_text(encoding="utf-8"))
+    load_batches(config_path.parent, config)
     return config

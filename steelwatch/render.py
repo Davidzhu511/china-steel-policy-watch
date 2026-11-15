@@ -18,7 +18,9 @@ def _rss(items: list[dict], generated_at: str) -> str:
         )
         title = html.escape(
             (item.get("title_zh") if checked else None)
-            or item.get("title_original") or ""
+            or item.get("source_translation", {}).get("title_zh")
+            or item.get("machine_translation", {}).get("title_zh")
+            or item.get("review_title_zh") or item.get("title_original") or ""
         )
         link = html.escape(item.get("url") or "", quote=True)
         guid = html.escape(item.get("id") or link)
