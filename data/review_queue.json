@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-15T21:40:35Z",
-  "pending_count": 17,
+  "pending_count": 15,
   "actionable_count": 0,
-  "blocked_count": 17,
+  "blocked_count": 15,
   "items": [],
   "blocked_items": [
     {
@@ -38,70 +38,6 @@
       "evidence_fingerprint": "f4aeff54c2e238c4",
       "related_reviews": [],
       "retry_after": "2026-11-10T00:00:00+00:00",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "e35ed0d5a73d3dbbcac1",
-      "url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
-      "published_at": "2026-11-13T00:00:00Z",
-      "title_original": "State-of-play CBAM accreditation",
-      "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-11-15T21:40:35Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "DG TAXUD · CBAM Verification",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "CBAM 执行信息 · 待核对",
-        "en": "CBAM implementation · review needed"
-      },
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "同一欧委会CBAM核查机构认可PDF曾按11月9日版本核验，但本轮队列标记11月13日。官方PDF访问返回HTTP 429，无法判断是否有实质更新，不能沿用旧版本状态作为今日核验结果。",
-      "review_evidence_url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
-      "review_coverage": "仅核对队列URL与11月9日已核验记录；11月13日官方文件内容未能读取，等待可访问或内容指纹更新。",
-      "published_date": "2026-11-13",
-      "source_excerpt": "State-of-play CBAM accreditation 13 November 2026 English Download (294.47 KB - PDF)",
-      "needs_translation": false,
-      "title_zh": "CBAM核查机构认可进展",
-      "review_attempted_at": "2026-11-13",
-      "evidence_fingerprint": "21f60f42094e5533",
-      "related_reviews": [],
-      "retry_after": "2026-11-16T00:00:00+00:00",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "a20a3191cbc2ac06e6c9",
-      "url": "https://gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
-      "published_at": "2026-11-03T00:00:00Z",
-      "title_original": "UK ETS technical guidance: Monitoring and Reporting Regulation (MRR) 2018",
-      "first_seen": "2026-11-03T15:55:42Z",
-      "last_seen": "2026-11-03T19:51:08Z",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "法规与正式文件",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "数据采集记录将此UK ETS MRR指南标记为2026-11-03更新，但2026-11-04读取的GOV.UK该文官方页面更新日志仍显示最近一次实质更新为2026-05-05（废弃物自愿MRV排放因子附件修订）；英国UK ETS技术指南集合页则将MRR链接标为11月3日。两个官方页面的更新时间元数据不一致，未发现11月3日新增钢铁行业MRR规则或可核实文本差异。为避免把链接目录更新时间误报为政策修订，暂按证据不一致保留待核验。",
-      "review_evidence_url": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
-      "review_coverage": "2026-11-04核对MRR官方正文更新日志与UK ETS技术指南集合页，两处11月3日标记不一致；尚未取得文档版本差异，暂不认定新法规。",
-      "published_date": "2026-11-03",
-      "source_excerpt": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Monitoring and Reporting Regulation (MRR) 2018.",
-      "needs_translation": false,
-      "title_zh": "英国ETS技术指南：《监测与报告条例（MRR）2018》",
-      "review_attempted_at": "2026-11-04",
-      "evidence_fingerprint": "b2d9cbec2c11c8d0",
-      "related_reviews": [],
-      "retry_after": "2026-11-07T00:00:00+00:00",
       "retry_policy": "scheduled"
     },
     {
@@ -541,36 +477,6 @@
   ],
   "retry_items": [
     {
-      "id": "a20a3191cbc2ac06e6c9",
-      "url": "https://gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
-      "published_at": "2026-11-03T00:00:00Z",
-      "title_original": "UK ETS technical guidance: Monitoring and Reporting Regulation (MRR) 2018",
-      "first_seen": "2026-11-03T15:55:42Z",
-      "last_seen": "2026-11-03T19:51:08Z",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "法规与正式文件",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "数据采集记录将此UK ETS MRR指南标记为2026-11-03更新，但2026-11-04读取的GOV.UK该文官方页面更新日志仍显示最近一次实质更新为2026-05-05（废弃物自愿MRV排放因子附件修订）；英国UK ETS技术指南集合页则将MRR链接标为11月3日。两个官方页面的更新时间元数据不一致，未发现11月3日新增钢铁行业MRR规则或可核实文本差异。为避免把链接目录更新时间误报为政策修订，暂按证据不一致保留待核验。",
-      "review_evidence_url": "https://www.gov.uk/government/publications/uk-ets-technical-guidance-monitoring-and-reporting-regulation-mrr-2018",
-      "review_coverage": "2026-11-04核对MRR官方正文更新日志与UK ETS技术指南集合页，两处11月3日标记不一致；尚未取得文档版本差异，暂不认定新法规。",
-      "published_date": "2026-11-03",
-      "source_excerpt": "Technical guidance to assist UK ETS installation operators in complying with the requirements that relate to the Monitoring and Reporting Regulation (MRR) 2018.",
-      "needs_translation": false,
-      "title_zh": "英国ETS技术指南：《监测与报告条例（MRR）2018》",
-      "review_attempted_at": "2026-11-04",
-      "evidence_fingerprint": "b2d9cbec2c11c8d0",
-      "related_reviews": [],
-      "retry_after": "2026-11-07T00:00:00+00:00",
-      "retry_policy": "scheduled"
-    },
-    {
       "id": "5b038f2baea57e2c9994",
       "url": "https://defensoriadian.gov.co/al-dia-con-la-normativa",
       "published_at": "2026-10-19T00:00:00Z",
@@ -670,8 +576,38 @@
       "related_reviews": [],
       "retry_after": "2026-11-09T00:00:00+00:00",
       "retry_policy": "scheduled"
+    },
+    {
+      "id": "011e85d9b1a809bfa934",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83RFpwRlhrajRQbnVXOEdzbFhOaFNqU0NXcl9Yb2R6ZE9HclVNR3pfdTdnOEJnekJyNDlKcy1kanItSnI3Qk5oemZZSzNQT2tqbWtGVmtMVlp0QdIBZkFVX3lxTE52aGZpellxd0Noa2pSMFdES1EyZlowb1BVS0xNbEtNQ2dhTEp6VHhza0J0Yi1ta2ZpSEhlVnlDbzA1QndTM3E4NHZMeEl3X1ZId19XRjZmRU16MWJHTDA3ZDFFUnFzUQ?oc=5",
+      "published_at": "2026-10-28T14:12:23Z",
+      "title_original": "Making the UK CBAM-ready",
+      "first_seen": "2026-10-30T13:37:58Z",
+      "last_seen": "2026-11-02T08:14:46Z",
+      "source": {
+        "id": "rss",
+        "name": "edie",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "2026年11月2日复查edie和公开索引：仍只公开标题、导语及网络研讨会即时投票结果——约70%受访者已开始或完成英国CBAM适用性评估，66%把供应商碳数据列为最大挑战；样本量、对象、方法、合同建议和全文限定条件仍不可见，不能外推至全部进口商。",
+      "review_evidence_url": "https://www.edie.net/making-the-uk-cbam-ready/",
+      "review_coverage": "2026-11-02复查edie公开页面；仅确认导语及70%/66%两项投票数字，未获得样本量、问卷设计或完整正文。",
+      "published_date": "2026-10-28",
+      "source_excerpt": "Making the UK CBAM-ready edie",
+      "needs_translation": false,
+      "title_zh": "为英国CBAM做好准备",
+      "review_attempted_at": "2026-11-02",
+      "evidence_fingerprint": "2ec3b972d2b73bed",
+      "related_reviews": [],
+      "retry_after": "2026-11-09T00:00:00+00:00",
+      "retry_policy": "scheduled"
     }
   ],
-  "retry_due_count": 15,
-  "work_fingerprint": "e936167ee3ba18588eb2"
+  "retry_due_count": 14,
+  "work_fingerprint": "c3e834a9d422fa7056bf"
 }

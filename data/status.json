@@ -6,13 +6,13 @@
   "analysis_status": "unconfigured",
   "active_items": 285,
   "archived_items": 122,
-  "verified_items": 268,
-  "pending_analysis": 17,
+  "verified_items": 270,
+  "pending_analysis": 15,
   "pending_translation": 0,
-  "blocked_items": 17,
+  "blocked_items": 15,
   "actionable_count": 0,
-  "blocked_count": 17,
-  "retry_due_count": 15,
+  "blocked_count": 15,
+  "retry_due_count": 14,
   "pending_machine_translation": 0,
   "chinese_title_coverage": 100.0,
   "oldest_actionable_hours": 0,
@@ -103,5 +103,6 @@
       "consecutive_failures": 0
     }
   ],
-  "warnings": []
+  "warnings": [],
+  "editorial_updated_at": "2026-11-15T21:43:56Z"
 }
