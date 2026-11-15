@@ -7036,5 +7036,34 @@
     "follow_up": "关注欧委会ETS法案正式提案、理事会和议会修订及CBAM下游扩围；保留现行法规情景。",
     "evidence_url": "https://www.steelorbis.com/steel-news/latest-news/european-energy-intensive-industries-call-for-eu-ets-reform-and-stronger-carbon-leakage-protection-1489313.htm",
     "coverage": "2026-11-12核对SteelOrbis 11月9日完整报道及SMM 11月10日转载，未取得签署协会原始联合文本；仅覆盖协会公开主张，未认定修法已通过。"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeEZ0TkRJTElfUWFRN0xrR0tEc2dPWFg4WDNVMVQtTkl6aGxZUDRHTDdIZUxVS1I2dVFxSkJVVVBib29xWjJWbENxMU9CZnh2Nnh0QzFLbVp0c0I4M2dpdmUwMzEtOHdhZVpwOVNDeVN1SDFQZ0VzTTZCWHMtV0hLTmVHTThudHYweG10blhlNnNFWHFWVUV3UzRjUEt0dGFaMXFCZkFpNzQ5TWdhRGoxZEY1cWpMenc1RFlYV01KTW9ONV90OVYxSjZleVpIUQ?oc=5",
+    "published_date": "2026-11-14",
+    "reviewed_at": "2026-11-15",
+    "title_zh": "标普：贸易壁垒推动中国钢材出口转向半成品、新市场及间接出口",
+    "title_en": "China’s steel exports find new routes amid rising trade barriers",
+    "summary_zh": "【事实】标普全球能源11月13日发布金属市场视频专题，指出面对不断增加的贸易壁垒，中国钢厂正更多关注钢坯等半成品、新出口目的地以及通过制成品实现的间接出口，以吸收国内需求疲弱下的钢材供给。官方公开页面列出上述三个趋势，但没有提供可独立核实的目的国吨数、增长率或具体税号；本条属于市场观察，不是新的关税或贸易法规。",
+    "summary_en": "S&P Global's 13 November metals video highlights shifts to semis, new destination markets and indirect exports via manufactured goods as trade barriers rise. Its public description supplies no verified destination-level tonnage, tariff codes or new legal measure.",
+    "impact_zh": "【研判】钢材出口目的地和产品形态可能持续调整。中国钢厂可比较板坯/钢坯与成品卷板在不同市场的贸易救济、配额及CBAM成本，但不得将简单改报品名、第三国转运或轻加工视为合法规避原产地及反规避规则的手段。",
+    "impact_en": "Mills should compare lawful export routes and products under destination-specific safeguards, anti-circumvention and carbon rules; transshipment alone does not change origin.",
+    "category": "市场与产能",
+    "status": "已核验／公开摘要有限覆盖",
+    "importance": "中",
+    "tags": [
+      "中国钢材出口",
+      "贸易壁垒",
+      "半成品",
+      "市场转移"
+    ],
+    "tags_en": [
+      "China steel exports",
+      "trade barriers",
+      "semis",
+      "market shifts"
+    ],
+    "follow_up": "按实际HS/CN编码、原产地规则、贸易救济及进口商CBAM责任核查目标市场；待标普提供具体分国数据后再评估是否形成新的业务机会。",
+    "evidence_url": "https://www.spglobal.com/energy/en/news-research/videos/metals/111326-chinas-steel-exports-find-new-routes-amid-rising-trade-barriers",
+    "coverage": "2026-11-15核对S&P Global Energy官方11月13日视频专题公开标题、日期、Highlights和简介；未取得完整视频逐字稿，不据此补充未公开数据。RSS队列发布日期为11月14日，保留原始URL+日期键。"
   }
 ]
