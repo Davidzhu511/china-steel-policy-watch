@@ -1,17 +1,36 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-14T18:31:55Z",
-  "pending_count": 22,
-  "actionable_count": 1,
+  "generated_at": "2026-11-15T14:20:05Z",
+  "pending_count": 23,
+  "actionable_count": 2,
   "blocked_count": 21,
   "items": [
+    {
+      "id": "3a97191e69c3e49ca949",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05UWZ1ZVE2NDlZVGUtWjlxZ09HUGZDbDRnUVlQOHFlVWtZdEl1N0hoa0FDTUtwRWRwc2FldkRtNWFOeHllYzBPWXdmMGk5NmtueEhV?oc=5",
+      "published_at": "2026-11-10T11:35:00Z",
+      "title_original": "印度钢铁产量超美日总和 中国曾帮建全球最大高炉反被加关税 如今成最大竞争对手",
+      "first_seen": "2026-11-15T14:20:05Z",
+      "last_seen": "2026-11-15T14:20:05Z",
+      "source": {
+        "id": "rss",
+        "name": "eu.36kr.com",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-10",
+      "source_excerpt": "印度钢铁产量超美日总和 中国曾帮建全球最大高炉反被加关税 如今成最大竞争对手 eu.36kr.com"
+    },
     {
       "id": "1810e1d276f684a8e9c4",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeEZ0TkRJTElfUWFRN0xrR0tEc2dPWFg4WDNVMVQtTkl6aGxZUDRHTDdIZUxVS1I2dVFxSkJVVVBib29xWjJWbENxMU9CZnh2Nnh0QzFLbVp0c0I4M2dpdmUwMzEtOHdhZVpwOVNDeVN1SDFQZ0VzTTZCWHMtV0hLTmVHTThudHYweG10blhlNnNFWHFWVUV3UzRjUEt0dGFaMXFCZkFpNzQ5TWdhRGoxZEY1cWpMenc1RFlYV01KTW9ONV90OVYxSjZleVpIUQ?oc=5",
       "published_at": "2026-11-14T11:19:21Z",
       "title_original": "China’s steel exports find new routes amid rising trade barriers",
       "first_seen": "2026-11-14T18:31:55Z",
-      "last_seen": "2026-11-14T18:31:55Z",
+      "last_seen": "2026-11-15T14:20:05Z",
       "source": {
         "id": "rss",
         "name": "S&P Global",
@@ -32,7 +51,7 @@
       "published_at": "2026-10-19T00:00:00Z",
       "title_original": "Resolución No. 00695 de 16 de octubre de 2026 - investigación antidumping sobre perfiles de hierro o acero en L y U",
       "first_seen": "2026-11-01T14:00:44Z",
-      "last_seen": "2026-11-14T18:31:55Z",
+      "last_seen": "2026-11-15T14:20:05Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销",
@@ -59,7 +78,7 @@
       "published_at": "2026-11-13T00:00:00Z",
       "title_original": "State-of-play CBAM accreditation",
       "first_seen": "2026-09-28T11:50:11Z",
-      "last_seen": "2026-11-14T18:31:55Z",
+      "last_seen": "2026-11-15T14:20:05Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG TAXUD · CBAM Verification",
@@ -109,7 +128,7 @@
       "published_at": "2026-11-13T03:00:25Z",
       "title_original": "Turkey plans to establish its own CBAM from 2027",
       "first_seen": "2026-11-13T14:56:04Z",
-      "last_seen": "2026-11-14T18:31:55Z",
+      "last_seen": "2026-11-15T14:20:05Z",
       "source": {
         "id": "rss",
         "name": "Yieh Corp.",
@@ -132,7 +151,7 @@
       "published_at": "2026-11-12T23:53:07Z",
       "title_original": "Steel sector sees green milestone",
       "first_seen": "2026-11-13T14:56:04Z",
-      "last_seen": "2026-11-14T18:31:55Z",
+      "last_seen": "2026-11-15T14:20:05Z",
       "source": {
         "id": "rss",
         "name": "China Daily Global Edition",
@@ -155,7 +174,7 @@
       "published_at": "2026-11-09T21:32:59Z",
       "title_original": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations",
       "first_seen": "2026-11-13T14:56:04Z",
-      "last_seen": "2026-11-13T14:56:04Z",
+      "last_seen": "2026-11-15T14:20:05Z",
       "source": {
         "id": "rss",
         "name": "Yeşil Ekonomi",
@@ -178,7 +197,7 @@
       "published_at": "2026-11-12T13:01:00Z",
       "title_original": "Assofermet Urges EU to Raise CBAM Threshold from 50 to 500 Tonnes",
       "first_seen": "2026-11-12T20:29:38Z",
-      "last_seen": "2026-11-14T18:31:55Z",
+      "last_seen": "2026-11-15T14:20:05Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -270,7 +289,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-14T18:31:55Z",
+      "last_seen": "2026-11-15T14:20:05Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -293,7 +312,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-14T18:31:55Z",
+      "last_seen": "2026-11-15T14:20:05Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
