@@ -3,13 +3,13 @@
   "items": [
     {
       "id": "1810e1d276f684a8e9c4",
-      "title_zh": "China’s steel exports find new routes amid rising trade barriers",
+      "title_zh": "标普：贸易壁垒推动中国钢材出口转向半成品、新市场及间接出口",
       "title_en": "China’s steel exports find new routes amid rising trade barriers",
       "title_original": "China’s steel exports find new routes amid rising trade barriers",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "【事实】标普全球能源11月13日发布金属市场视频专题，指出面对不断增加的贸易壁垒，中国钢厂正更多关注钢坯等半成品、新出口目的地以及通过制成品实现的间接出口，以吸收国内需求疲弱下的钢材供给。官方公开页面列出上述三个趋势，但没有提供可独立核实的目的国吨数、增长率或具体税号；本条属于市场观察，不是新的关税或贸易法规。",
+      "summary_en": "S&P Global's 13 November metals video highlights shifts to semis, new destination markets and indirect exports via manufactured goods as trade barriers rise. Its public description supplies no verified destination-level tonnage, tariff codes or new legal measure.",
+      "impact_zh": "【研判】钢材出口目的地和产品形态可能持续调整。中国钢厂可比较板坯/钢坯与成品卷板在不同市场的贸易救济、配额及CBAM成本，但不得将简单改报品名、第三国转运或轻加工视为合法规避原产地及反规避规则的手段。",
+      "impact_en": "Mills should compare lawful export routes and products under destination-specific safeguards, anti-circumvention and carbon rules; transshipment alone does not change origin.",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeEZ0TkRJTElfUWFRN0xrR0tEc2dPWFg4WDNVMVQtTkl6aGxZUDRHTDdIZUxVS1I2dVFxSkJVVVBib29xWjJWbENxMU9CZnh2Nnh0QzFLbVp0c0I4M2dpdmUwMzEtOHdhZVpwOVNDeVN1SDFQZ0VzTTZCWHMtV0hLTmVHTThudHYweG10blhlNnNFWHFWVUV3UzRjUEt0dGFaMXFCZkFpNzQ5TWdhRGoxZEY1cWpMenc1RFlYV01KTW9ONV90OVYxSjZleVpIUQ?oc=5",
       "published_at": "2026-11-14T11:19:21Z",
       "source": {
@@ -21,19 +21,34 @@
       "country": "全球",
       "region": "全球",
       "category": "市场与产能",
-      "status": "新闻",
+      "status": "已核验／公开摘要有限覆盖",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "中国钢材出口",
+        "贸易壁垒",
+        "半成品",
+        "市场转移"
+      ],
+      "tags_en": [
+        "China steel exports",
+        "trade barriers",
+        "semis",
+        "market shifts"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-14T18:31:55Z",
       "last_seen": "2026-11-15T14:20:05Z",
-      "source_excerpt": "China’s steel exports find new routes amid rising trade barriers S&P Global"
+      "source_excerpt": "China’s steel exports find new routes amid rising trade barriers S&P Global",
+      "evidence_url": "https://www.spglobal.com/energy/en/news-research/videos/metals/111326-chinas-steel-exports-find-new-routes-amid-rising-trade-barriers",
+      "coverage": "2026-11-15核对S&P Global Energy官方11月13日视频专题公开标题、日期、Highlights和简介；未取得完整视频逐字稿，不据此补充未公开数据。RSS队列发布日期为11月14日，保留原始URL+日期键。",
+      "follow_up": "按实际HS/CN编码、原产地规则、贸易救济及进口商CBAM责任核查目标市场；待标普提供具体分国数据后再评估是否形成新的业务机会。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-15"
     },
     {
       "id": "6e6940de6bb0102ab0e7",
@@ -109,17 +124,17 @@
       "first_seen": "2026-09-28T11:50:11Z",
       "last_seen": "2026-11-15T14:20:05Z",
       "source_excerpt": "State-of-play CBAM accreditation 13 November 2026 English Download (294.47 KB - PDF)",
+      "priority_signal": {
+        "zh": "CBAM 执行信息 · 待核对",
+        "en": "CBAM implementation · review needed"
+      },
       "review_disposition": "blocked",
       "review_note_zh": "同一欧委会CBAM核查机构认可PDF曾按11月9日版本核验，但本轮队列标记11月13日。官方PDF访问返回HTTP 429，无法判断是否有实质更新，不能沿用旧版本状态作为今日核验结果。",
       "review_note_en": "Original primary-source content unavailable; retain as blocked without inferring facts.",
       "review_attempted_at": "2026-11-13",
       "review_title_zh": "State-of-play CBAM accreditation",
       "review_evidence_url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
-      "review_coverage": "仅核对队列URL与11月9日已核验记录；11月13日官方文件内容未能读取，等待可访问或内容指纹更新。",
-      "priority_signal": {
-        "zh": "CBAM 执行信息 · 待核对",
-        "en": "CBAM implementation · review needed"
-      }
+      "review_coverage": "仅核对队列URL与11月9日已核验记录；11月13日官方文件内容未能读取，等待可访问或内容指纹更新。"
     },
     {
       "id": "707bf3a1636a45887b23",
@@ -547,40 +562,6 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa25oeVFRWGdhU0w5MFBJQVM4RlpqQ0ExZnpBYWtTREFYZVdUTjViNkhXeWlXSThvcVNVTlVFNUNqS1hXZFcteFpYa1Q4Q0FLQXROZ0hXa296TlBSeDJXQk5PTUJKOHo0OG03Z3VfUWpyUWhjNXR0c2Q2RmdnYVdRVmd4cThvb3lENGNoaW50SzltNmdaQ2lrazJsbk1fY3o1YkE?oc=5"
         }
       ]
-    },
-    {
-      "id": "3a97191e69c3e49ca949",
-      "title_zh": "印度钢铁产量超美日总和 中国曾帮建全球最大高炉反被加关税 如今成最大竞争对手",
-      "title_en": "印度钢铁产量超美日总和 中国曾帮建全球最大高炉反被加关税 如今成最大竞争对手",
-      "title_original": "印度钢铁产量超美日总和 中国曾帮建全球最大高炉反被加关税 如今成最大竞争对手",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05UWZ1ZVE2NDlZVGUtWjlxZ09HUGZDbDRnUVlQOHFlVWtZdEl1N0hoa0FDTUtwRWRwc2FldkRtNWFOeHllYzBPWXdmMGk5NmtueEhV?oc=5",
-      "published_at": "2026-11-10T11:35:00Z",
-      "source": {
-        "id": "rss",
-        "name": "eu.36kr.com",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "市场与产能",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "zh",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-15T14:20:05Z",
-      "last_seen": "2026-11-15T14:20:05Z",
-      "source_excerpt": "印度钢铁产量超美日总和 中国曾帮建全球最大高炉反被加关税 如今成最大竞争对手 eu.36kr.com"
     },
     {
       "id": "c86ac4237b31906d2d87",
@@ -2435,6 +2416,61 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNnRiMVAyQXpDUWtiWWNOMlgxVGFrcGU4aXlueXY5LTFGNERSamV3TkY4ZjhGM3pwNkZZd3ZWdWZUdzJ5aExRVG0tT1hmVU9SUVdROTFjWnM1QW15TTNpaG5Hdjd5ZU1FUzBqbFAzM1VMZTVITXExVjJ4R3EtY3NTd3poUFVrb0gxVFNBdkhDZWZyWENUTmJQTzg3UDczX2RXLVgtUGtTMWxBYnlJeGl4Tk9n?oc=5"
         }
       ]
+    },
+    {
+      "id": "4baaff6b49d2958beb84",
+      "title_zh": "中钢协称自律控产降库存效果不及预期，将提醒约10家执行不力钢企",
+      "title_en": "CISA says output discipline and destocking fell short and will remind about ten mills",
+      "title_original": "Chinese Steel Group Chides Mills for Ignoring Output Curb Calls",
+      "summary_zh": "中钢协10月30日三季度发布会及《中国冶金报》评论显示，前三季度全国粗钢产量7.25亿吨、同比下降2.9%，折合粗钢表观消费量6.25亿吨、下降3.8%，需求降幅大于产量降幅；重点会员企业平均钢材库存1,685万吨，为近四年同期最高，9月会员企业利润总额22.4亿元、环比下降55.8%，钢铁主业亏损46.1亿元。中钢协评估约10家企业执行“以销定产、以效定产、以现定销”等原则不够坚决，将进行行业自律提醒，并要求控制生产节奏、降低库存。该安排是行业协会自律与经营倡议，不是政府下达的全国强制减产指标。",
+      "summary_en": "At its 30 October briefing, CISA said Jan–Sep crude steel output was 725Mt, down 2.9%, while apparent consumption fell 3.8% to 625Mt. Key member mills' average finished-steel inventory was 16.85Mt, the highest in four years. September member profits fell 55.8% month on month to CNY2.24bn and core steel operations lost CNY4.61bn. CISA said about ten mills had not followed its sales-, efficiency- and cash-based production principles firmly enough and would receive self-discipline reminders. This is an industry-association initiative, not a mandatory nationwide government cut.",
+      "impact_zh": "若会员钢厂后续真正减产并去库存，短期可能缓解国内钢价和出口低价竞争压力，同时压低铁矿石、焦煤和焦炭需求；但目前没有统一减产量、企业名单或强制执行期限，不能据此推断供应必然收缩。中国钢厂应按订单、边际利润和现金回款安排产量；出口商需关注约11月7日海关数据、11月中旬10月粗钢产量及库存是否实际下降，再调整远期报价和原料采购。",
+      "impact_en": "If mills actually cut output and destock, domestic and export price pressure may ease while raw-material demand weakens. No uniform tonnage target, named mill list or mandatory deadline exists, so supply contraction is not assured. Base production on orders, margins and cash collection, and verify customs, October output and inventory data before changing forward offers.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmtKdzJJWUtPNXVaUlVsczZjNDRoUEhTYlkxa2VkVmxRLTdueWRkS2NrV1hpSVUwZE9PRXdUOHZONFlSbDRhV0lwLWdjVS1aSzRTajNuY05XaTRLSndqUkR0VlczUUtJTjhWeVZWbVY5Y3JQOE5fQVl2VUluajR3cmV5dWRQdmJBZVN1dERYTlJHWXRSN3NfNVhHYkFMVGFRd3kwTkhSbTdSeUxGbkdjVXVVYk8?oc=5",
+      "published_at": "2026-11-02T04:03:00Z",
+      "source": {
+        "id": "rss",
+        "name": "Bloomberg",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "产业政策与供需",
+      "status": "行业协会自律倡议／非强制限产令",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "中钢协",
+        "自律控产",
+        "钢材库存",
+        "钢企利润",
+        "粗钢产量"
+      ],
+      "tags_en": [
+        "CISA",
+        "output discipline",
+        "steel inventories",
+        "mill profits",
+        "crude steel output"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-02T08:12:23Z",
+      "last_seen": "2026-11-08T18:06:53Z",
+      "source_excerpt": "Chinese Steel Group Chides Mills for Ignoring Output Curb Calls Bloomberg",
+      "coverage": "2026-11-02已读取中钢协官网对10月30日三季度发布会的官方入口，并通读钢之家转载的发布会新闻稿及《中国冶金报》评论全文，核对产量、表观消费、库存、利润、亏损面和约10家自律提醒。Bloomberg仅作线索发现；未取得被提醒企业名单，未把协会倡议写成政府强制减产令。",
+      "follow_up": {
+        "action_zh": "跟踪11月上旬海关出口、11月中旬国家统计局10月粗钢产量及中钢协库存旬报，验证自律控产是否落地。",
+        "action_en": "Track early-November customs exports, mid-November October crude steel output and CISA inventory reports to test implementation.",
+        "due_at": "2026-11-17"
+      },
+      "evidence_url": "https://www.chinaisa.org.cn/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-02"
     }
   ]
 }

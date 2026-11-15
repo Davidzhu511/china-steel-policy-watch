@@ -1,49 +1,10 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-15T14:20:05Z",
-  "pending_count": 23,
-  "actionable_count": 2,
+  "pending_count": 21,
+  "actionable_count": 0,
   "blocked_count": 21,
-  "items": [
-    {
-      "id": "3a97191e69c3e49ca949",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05UWZ1ZVE2NDlZVGUtWjlxZ09HUGZDbDRnUVlQOHFlVWtZdEl1N0hoa0FDTUtwRWRwc2FldkRtNWFOeHllYzBPWXdmMGk5NmtueEhV?oc=5",
-      "published_at": "2026-11-10T11:35:00Z",
-      "title_original": "印度钢铁产量超美日总和 中国曾帮建全球最大高炉反被加关税 如今成最大竞争对手",
-      "first_seen": "2026-11-15T14:20:05Z",
-      "last_seen": "2026-11-15T14:20:05Z",
-      "source": {
-        "id": "rss",
-        "name": "eu.36kr.com",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-10",
-      "source_excerpt": "印度钢铁产量超美日总和 中国曾帮建全球最大高炉反被加关税 如今成最大竞争对手 eu.36kr.com"
-    },
-    {
-      "id": "1810e1d276f684a8e9c4",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeEZ0TkRJTElfUWFRN0xrR0tEc2dPWFg4WDNVMVQtTkl6aGxZUDRHTDdIZUxVS1I2dVFxSkJVVVBib29xWjJWbENxMU9CZnh2Nnh0QzFLbVp0c0I4M2dpdmUwMzEtOHdhZVpwOVNDeVN1SDFQZ0VzTTZCWHMtV0hLTmVHTThudHYweG10blhlNnNFWHFWVUV3UzRjUEt0dGFaMXFCZkFpNzQ5TWdhRGoxZEY1cWpMenc1RFlYV01KTW9ONV90OVYxSjZleVpIUQ?oc=5",
-      "published_at": "2026-11-14T11:19:21Z",
-      "title_original": "China’s steel exports find new routes amid rising trade barriers",
-      "first_seen": "2026-11-14T18:31:55Z",
-      "last_seen": "2026-11-15T14:20:05Z",
-      "source": {
-        "id": "rss",
-        "name": "S&P Global",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-14",
-      "source_excerpt": "China’s steel exports find new routes amid rising trade barriers S&P Global"
-    }
-  ],
+  "items": [],
   "blocked_items": [
     {
       "id": "5b038f2baea57e2c9994",

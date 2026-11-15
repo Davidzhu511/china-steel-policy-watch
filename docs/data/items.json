@@ -6186,17 +6186,17 @@
       "first_seen": "2026-09-28T11:50:11Z",
       "last_seen": "2026-11-15T14:20:05Z",
       "source_excerpt": "State-of-play CBAM accreditation 13 November 2026 English Download (294.47 KB - PDF)",
+      "priority_signal": {
+        "zh": "CBAM 执行信息 · 待核对",
+        "en": "CBAM implementation · review needed"
+      },
       "review_disposition": "blocked",
       "review_note_zh": "同一欧委会CBAM核查机构认可PDF曾按11月9日版本核验，但本轮队列标记11月13日。官方PDF访问返回HTTP 429，无法判断是否有实质更新，不能沿用旧版本状态作为今日核验结果。",
       "review_note_en": "Original primary-source content unavailable; retain as blocked without inferring facts.",
       "review_attempted_at": "2026-11-13",
       "review_title_zh": "State-of-play CBAM accreditation",
       "review_evidence_url": "https://taxation-customs.ec.europa.eu/document/download/a782dacf-ab68-44cc-986c-28fd1b4daa94_en?filename=State-of-play+CBAM+accreditation.pdf",
-      "review_coverage": "仅核对队列URL与11月9日已核验记录；11月13日官方文件内容未能读取，等待可访问或内容指纹更新。",
-      "priority_signal": {
-        "zh": "CBAM 执行信息 · 待核对",
-        "en": "CBAM implementation · review needed"
-      }
+      "review_coverage": "仅核对队列URL与11月9日已核验记录；11月13日官方文件内容未能读取，等待可访问或内容指纹更新。"
     },
     {
       "id": "1029e21c10ec29d8d9ef",
@@ -6231,14 +6231,14 @@
       "first_seen": "2026-11-06T14:38:14Z",
       "last_seen": "2026-11-15T14:20:05Z",
       "source_excerpt": "News article 6 November 2026 Commission initiates safeguard investigation into imports of PET resin chemicals Today, the Commission initiated a safeguard investigation to assess whether safeguard measures are needed to protect EU industry from a significant increase in imports of polyethylene terephthalate (PET) resin chemicals. 1 min read",
-      "review_disposition": "excluded",
-      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
-      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
-      "review_attempted_at": "2026-11-07",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
+      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
+      "review_attempted_at": "2026-11-07"
     },
     {
       "id": "ddd77b02ae7fca8ba53c",
@@ -6651,17 +6651,17 @@
       "first_seen": "2026-11-01T14:00:44Z",
       "last_seen": "2026-11-15T14:20:05Z",
       "source_excerpt": "Al día con la normativa | Defensoría del Contribuyente y del Usuario Aduanero Ir al contenido Buscar: Inicio Nosotros Solicita la intervención Derechos y deberes Educación fiscal Al día con la normativa Inicio Nosotros Solicita la intervención Derechos y deberes Educación fiscal Al día con la normativa Al día con la normativa  Inicio 9 Al día con la normativa Al día con la normativa Consulta la agenda regulatoria de las entidades que, en razón a sus competencias, expiden normas que tienen incidencia directa o indirecta en el cumplimiento de tus obligaciones tributarias, aduaneras o cambiarias. 2026 Ministerio de Hacienda y Crédito Público – MINHACIENDA Ministerio de Comercio, Industria y Turismo – MINCIT Dirección de Impuestos y Aduanas Nacionales – DIAN Otras entidades 2025 Ministerio de Hacienda y Crédito Público – MINHACIENDA Ministerio de Comercio, Industria y Turismo – MINCIT Dirección de Impuestos y Aduanas Nacionales – DIAN Otras entidades 2024 Ministerio de Hacienda y Crédito…",
+      "priority_signal": {
+        "zh": "贸易救济程序 · 待核对",
+        "en": "Trade-remedy procedure · review needed"
+      },
       "review_disposition": "blocked",
       "review_note_zh": "2026年11月2日下午复核哥伦比亚官方法规汇总、中国商务部官方编译、10月23日参与公告及第00695号决议的公开法规转载。可确认正式立案、产品范围、5个税号、申请企业DIACO与Ternium Colombia、调查期，以及申请方主张中国155%、土耳其28%的倾销幅度；该幅度只是申请方主张，并非临时或最终税率。10月23日公告称相关方有30个工作日提交意见和证据，但MinCIT原始决议、问卷及期限计算规则仍未稳定取得，因此不得擅自换算最终日历截止日。",
       "review_note_en": "Colombia opened an AD inquiry on L/U steel profiles under Resolution 00695; partial official listings and secondary translations establish initiation, but the full ministry decision, questionnaire and exact statutory deadline are not reliably accessible. Petitioner-estimated margins are not imposed duties.",
       "review_attempted_at": "2026-11-07",
       "review_title_zh": "哥伦比亚对中国和土耳其L/U型钢发起反倾销调查：原始决议及问卷待确认",
       "review_evidence_url": "https://www.defensoriadian.gov.co/al-dia-con-la-normativa/",
-      "review_coverage": "有限覆盖（2026-11-02下午复核）：官方法规汇总确认第00695号决议立案；公开法规转载补充申请方主张的155%／28%倾销幅度，10月23日公告补充30个工作日参与窗口。仍未取得稳定可读的MinCIT原始决议、问卷和期限计算规则，继续计入待全文核验。",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      }
+      "review_coverage": "有限覆盖（2026-11-02下午复核）：官方法规汇总确认第00695号决议立案；公开法规转载补充申请方主张的155%／28%倾销幅度，10月23日公告补充30个工作日参与窗口。仍未取得稳定可读的MinCIT原始决议、问卷和期限计算规则，继续计入待全文核验。"
     },
     {
       "id": "f187592898280e7a0335",
@@ -7556,13 +7556,13 @@
     },
     {
       "id": "1810e1d276f684a8e9c4",
-      "title_zh": "China’s steel exports find new routes amid rising trade barriers",
+      "title_zh": "标普：贸易壁垒推动中国钢材出口转向半成品、新市场及间接出口",
       "title_en": "China’s steel exports find new routes amid rising trade barriers",
       "title_original": "China’s steel exports find new routes amid rising trade barriers",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "【事实】标普全球能源11月13日发布金属市场视频专题，指出面对不断增加的贸易壁垒，中国钢厂正更多关注钢坯等半成品、新出口目的地以及通过制成品实现的间接出口，以吸收国内需求疲弱下的钢材供给。官方公开页面列出上述三个趋势，但没有提供可独立核实的目的国吨数、增长率或具体税号；本条属于市场观察，不是新的关税或贸易法规。",
+      "summary_en": "S&P Global's 13 November metals video highlights shifts to semis, new destination markets and indirect exports via manufactured goods as trade barriers rise. Its public description supplies no verified destination-level tonnage, tariff codes or new legal measure.",
+      "impact_zh": "【研判】钢材出口目的地和产品形态可能持续调整。中国钢厂可比较板坯/钢坯与成品卷板在不同市场的贸易救济、配额及CBAM成本，但不得将简单改报品名、第三国转运或轻加工视为合法规避原产地及反规避规则的手段。",
+      "impact_en": "Mills should compare lawful export routes and products under destination-specific safeguards, anti-circumvention and carbon rules; transshipment alone does not change origin.",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeEZ0TkRJTElfUWFRN0xrR0tEc2dPWFg4WDNVMVQtTkl6aGxZUDRHTDdIZUxVS1I2dVFxSkJVVVBib29xWjJWbENxMU9CZnh2Nnh0QzFLbVp0c0I4M2dpdmUwMzEtOHdhZVpwOVNDeVN1SDFQZ0VzTTZCWHMtV0hLTmVHTThudHYweG10blhlNnNFWHFWVUV3UzRjUEt0dGFaMXFCZkFpNzQ5TWdhRGoxZEY1cWpMenc1RFlYV01KTW9ONV90OVYxSjZleVpIUQ?oc=5",
       "published_at": "2026-11-14T11:19:21Z",
       "source": {
@@ -7574,19 +7574,34 @@
       "country": "全球",
       "region": "全球",
       "category": "市场与产能",
-      "status": "新闻",
+      "status": "已核验／公开摘要有限覆盖",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "中国钢材出口",
+        "贸易壁垒",
+        "半成品",
+        "市场转移"
+      ],
+      "tags_en": [
+        "China steel exports",
+        "trade barriers",
+        "semis",
+        "market shifts"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-14T18:31:55Z",
       "last_seen": "2026-11-15T14:20:05Z",
-      "source_excerpt": "China’s steel exports find new routes amid rising trade barriers S&P Global"
+      "source_excerpt": "China’s steel exports find new routes amid rising trade barriers S&P Global",
+      "evidence_url": "https://www.spglobal.com/energy/en/news-research/videos/metals/111326-chinas-steel-exports-find-new-routes-amid-rising-trade-barriers",
+      "coverage": "2026-11-15核对S&P Global Energy官方11月13日视频专题公开标题、日期、Highlights和简介；未取得完整视频逐字稿，不据此补充未公开数据。RSS队列发布日期为11月14日，保留原始URL+日期键。",
+      "follow_up": "按实际HS/CN编码、原产地规则、贸易救济及进口商CBAM责任核查目标市场；待标普提供具体分国数据后再评估是否形成新的业务机会。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-15"
     },
     {
       "id": "6e6940de6bb0102ab0e7",
@@ -8250,7 +8265,11 @@
       "translation_state": "pending",
       "first_seen": "2026-11-15T14:20:05Z",
       "last_seen": "2026-11-15T14:20:05Z",
-      "source_excerpt": "印度钢铁产量超美日总和 中国曾帮建全球最大高炉反被加关税 如今成最大竞争对手 eu.36kr.com"
+      "source_excerpt": "印度钢铁产量超美日总和 中国曾帮建全球最大高炉反被加关税 如今成最大竞争对手 eu.36kr.com",
+      "review_disposition": "excluded",
+      "review_note_zh": "该条以印度产量、中印历史钢铁合作及关税竞争为叙事主题，没有给出可直接用于出口合规的最新正式法规、具体税率或期限。仅按标题和选题性质排除本轮政策研判，不将标题中的产量比较或关税说法视为已核实事实。",
+      "review_note_en": "Headline-level screening: historical/competitive commentary, not a newly verified trade measure or compliance deadline.",
+      "review_attempted_at": "2026-11-15"
     },
     {
       "id": "629a3b77a0ee41a7a2ea",
