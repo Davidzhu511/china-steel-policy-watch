@@ -177,3 +177,12 @@ def test_missing_referenced_old_review_is_restored_without_reviewing_new_edition
     assert restored["published_at"].startswith("2026-11-01")
     _apply_editorial(rows, config)
     assert len(rows) == 3
+
+
+def test_corrected_date_remembers_original_source_revision():
+    row = item(date="2026-11-12")
+    config = {"editorial": [{"url": row["url"], "match_published_date": "2026-11-12",
+                            "published_date": "2026-11-13", "reviewed_at": "2026-11-15"}]}
+    _apply_editorial([row], config)
+    assert row["source_published_date"] == "2026-11-12"
+    assert row["published_at"].startswith("2026-11-13")

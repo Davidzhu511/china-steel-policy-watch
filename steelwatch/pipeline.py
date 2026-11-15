@@ -131,6 +131,7 @@ def _build_item(raw: RawItem, analysis: dict[str, Any], timestamp: str) -> dict[
         "impact_en": analysis.get("impact_en", ""),
         "url": canonical_url(raw.url),
         "published_at": raw.published_at,
+        "source_published_date": raw.published_at[:10],
         "source": {
             "id": raw.source_id,
             "name": raw.source_name,
@@ -220,6 +221,7 @@ def _apply_editorial(items: list[dict[str, Any]], config: dict[str, Any]) -> Non
         # the official document. Keep exact-version matching on the observed
         # revision, then show the source-backed publication date on the board.
         if review.get("match_published_date") and review.get("published_date"):
+            item["source_published_date"] = source_date
             # The correction establishes a calendar date, not the old feed's
             # time of day, which could otherwise display as the following day.
             item["published_at"] = review["published_date"] + "T00:00:00Z"
@@ -393,7 +395,8 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
         if previous:
             if (
                 parse_datetime(raw.published_at).date()
-                != parse_datetime(previous.get("published_at")).date()
+                != parse_datetime(previous.get("source_published_date")
+                                  or previous.get("published_at")).date()
             ):
                 candidates.append(raw)
             continue
