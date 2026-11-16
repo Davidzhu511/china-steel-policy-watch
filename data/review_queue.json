@@ -1,733 +1,11 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-16T18:09:20Z",
-  "pending_count": 49,
-  "actionable_count": 35,
-  "blocked_count": 14,
-  "items": [
-    {
-      "id": "9e67ab0eca6841d762ec",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2547",
-      "published_at": "2026-11-15T23:00:00Z",
-      "title_original": "Commission Implementing Regulation (EU) 2026/2547 of 13 November 2026 imposing a definitive anti-dumping duty on imports of certain cold-rolled flat steel products originating in India, Japan, Taiwan, Türkiye and Vietnam",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "eurlex",
-        "name": "EUR-Lex / 欧盟官方公报",
-        "kind": "official-law",
-        "official": true
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-15",
-      "source_excerpt": "",
-      "needs_translation": true,
-      "title_zh": "Commission Implementing Regulation (EU) 2026/2547 of 13 November 2026 imposing a definitive anti-dumping duty on imports of certain cold-rolled flat steel products originating in India, Japan, Taiwan, Türkiye and Vietnam",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "faae86cfa1f2531b",
-      "related_reviews": [
-        {
-          "url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_202601929",
-          "published_at": "2026-08-10T00:00:00Z",
-          "title_zh": "欧盟对华硅锰焊丝临时反倾销：税率 75.3%—102.4%",
-          "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32026R1929"
-        }
-      ]
-    },
-    {
-      "id": "5f2734aac2b2a0e28ba7",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2498",
-      "published_at": "2026-11-15T23:00:00Z",
-      "title_original": "Commission Implementing Regulation (EU) 2026/2498 of 5 November 2026 laying down rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards the conversion of the carbon price paid in a third country into a corresponding reduction in the number of CBAM certificates to be surrendered, the evidence of payment of that carbon price, the qualifications of the independent person and conditions to ascertain its independence and qualifications",
-      "first_seen": "2026-11-16T16:28:58Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "eurlex",
-        "name": "EUR-Lex / 欧盟官方公报",
-        "kind": "official-law",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "CBAM 执行信息 · 待核对",
-        "en": "CBAM implementation · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-15",
-      "source_excerpt": "",
-      "needs_translation": true,
-      "title_zh": "Commission Implementing Regulation (EU) 2026/2498 of 5 November 2026 laying down rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards the conversion of the carbon price paid in a third country into a corresponding reduction in the number of CBAM certificates to be surrendered, the evidence of payment of that carbon price, the qualifications of the independent person and conditions to ascertain its independence and qualifications",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "624f25d21e849373",
-      "related_reviews": []
-    },
-    {
-      "id": "f637a508a153ece1317b",
-      "url": "https://federalregister.gov/documents/2026/11/16/2026-23270/finished-carbon-steel-flanges-from-india-preliminary-results-and-rescission-in-part-of",
-      "published_at": "2026-11-16T00:00:00Z",
-      "title_original": "Finished Carbon Steel Flanges From India: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies were provided to producers and exporters of finished carbon steel flanges (steel flanges) from India. The period of review (POR) is January 1, 2024, through December 31, 2024. In addition, Commerce is rescinding this review, in part, with respect to 28 companies. Interested parties are invited to comment on these preliminary results.",
-      "needs_translation": false,
-      "title_zh": "来自印度的碳钢板:初步结果和撤销,载于反补贴税行政审查的一部分;2024",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "6e7c8994e371cb07",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/11/04/2026-22526/certain-steel-nails-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in-part-of",
-          "published_at": "2026-11-04T00:00:00Z",
-          "title_zh": "美国对华钢钉2024—2025年度反倾销复审初裁：悦达9.27%，9家企业终止复审",
-          "evidence_url": "https://public-inspection.federalregister.gov/2026-22526.pdf"
-        },
-        {
-          "url": "https://federalregister.gov/documents/2026/09/15/2026-18791/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-final-results-and",
-          "published_at": "2026-09-15T00:00:00Z",
-          "title_zh": "美国钢制货架复审终裁：Nova及JISE为10.34%，Urgo适用全国实体税率",
-          "evidence_url": "https://federalregister.gov/documents/2026/09/15/2026-18791/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-final-results-and"
-        }
-      ]
-    },
-    {
-      "id": "fd56ee0a5925e80c9bad",
-      "url": "https://federalregister.gov/documents/2026/11/16/2026-23266/steel-propane-cylinders-from-thailand-preliminary-results-of-antidumping-duty-administrative-review",
-      "published_at": "2026-11-16T00:00:00Z",
-      "title_original": "Steel Propane Cylinders From Thailand: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines that Sahamitr Pressure Container Public Company Limited (also known as Sahamitr Pressure Container Plc.) (SMPC) made sales of subject merchandise at less than normal value (NV) during the period of review (POR), August 1, 2024, through July 31, 2025. Interested parties are invited to comment on these preliminary results of review.",
-      "needs_translation": false,
-      "title_zh": "来自泰国的钢气瓶:反倾销税行政审查的初步结果;2024-2025",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "65aaff14e252786a",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/08/06/2026-16008/non-refillable-steel-cylinders-from-the-peoples-republic-of-china-preliminary-results-and-partial",
-          "published_at": "2026-08-06T00:00:00Z",
-          "title_zh": "美国不可重复充装钢瓶复审初裁：武义西林德218.88%，尚非终裁保证金",
-          "evidence_url": "https://federalregister.gov/documents/2026/08/06/2026-16008/non-refillable-steel-cylinders-from-the-peoples-republic-of-china-preliminary-results-and-partial"
-        },
-        {
-          "url": "https://federalregister.gov/documents/2026/11/04/2026-22526/certain-steel-nails-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in-part-of",
-          "published_at": "2026-11-04T00:00:00Z",
-          "title_zh": "美国对华钢钉2024—2025年度反倾销复审初裁：悦达9.27%，9家企业终止复审",
-          "evidence_url": "https://public-inspection.federalregister.gov/2026-22526.pdf"
-        }
-      ]
-    },
-    {
-      "id": "ba6bd5d2b88a285bce35",
-      "url": "https://federalregister.gov/documents/2026/11/16/2026-23278/finished-carbon-steel-flanges-from-india-preliminary-results-and-rescission-in-part-of-antidumping",
-      "published_at": "2026-11-16T00:00:00Z",
-      "title_original": "Finished Carbon Steel Flanges From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines that producers and/or exporters subject to this administrative review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), August 1, 2024, through July 31, 2025. In addition, we are rescinding the review with respect to 27 companies. Interested parties are invited to comment on these preliminary results.",
-      "needs_translation": false,
-      "title_zh": "来自印度的碳钢板:初步结果和撤销,载于反倾销税行政审查的一部分;2024-2025",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "b2cbca2ecd74abdf",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/11/04/2026-22526/certain-steel-nails-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in-part-of",
-          "published_at": "2026-11-04T00:00:00Z",
-          "title_zh": "美国对华钢钉2024—2025年度反倾销复审初裁：悦达9.27%，9家企业终止复审",
-          "evidence_url": "https://public-inspection.federalregister.gov/2026-22526.pdf"
-        },
-        {
-          "url": "https://federalregister.gov/documents/2026/08/06/2026-16008/non-refillable-steel-cylinders-from-the-peoples-republic-of-china-preliminary-results-and-partial",
-          "published_at": "2026-08-06T00:00:00Z",
-          "title_zh": "美国不可重复充装钢瓶复审初裁：武义西林德218.88%，尚非终裁保证金",
-          "evidence_url": "https://federalregister.gov/documents/2026/08/06/2026-16008/non-refillable-steel-cylinders-from-the-peoples-republic-of-china-preliminary-results-and-partial"
-        }
-      ]
-    },
-    {
-      "id": "e00aa4e4f7fb4fbc861a",
-      "url": "https://federalregister.gov/documents/2026/11/16/2026-23277/steel-concrete-reinforcing-bar-from-mexico-final-results-of-antidumping-duty-administrative-review",
-      "published_at": "2026-11-16T00:00:00Z",
-      "title_original": "Steel Concrete Reinforcing Bar From Mexico: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that Deacero S.A.P.I. de C.V., I.N.G.E.T.E.K.N.O.S. Estructurales, S.A. de C.V., and Aceros Turia S.A. de C.V. (collectively, Deacero Group) sold steel concrete reinforcing bar (rebar) from Mexico in the United States at less than normal value during the period of review (POR), November 1, 2023, through October 31, 2024.",
-      "needs_translation": true,
-      "title_zh": "Steel Concrete Reinforcing Bar From Mexico: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "0a80e1a3f39aa49f",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/09/15/2026-18791/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-final-results-and",
-          "published_at": "2026-09-15T00:00:00Z",
-          "title_zh": "美国钢制货架复审终裁：Nova及JISE为10.34%，Urgo适用全国实体税率",
-          "evidence_url": "https://federalregister.gov/documents/2026/09/15/2026-18791/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-final-results-and"
-        }
-      ]
-    },
-    {
-      "id": "16c125c846ca0165c2d8",
-      "url": "https://federalregister.gov/documents/2026/11/16/2026-23272/carbon-and-alloy-steel-threaded-rod-from-india-final-results-of-antidumping-duty-administrative",
-      "published_at": "2026-11-16T00:00:00Z",
-      "title_original": "Carbon and Alloy Steel Threaded Rod From India: Final Results of Antidumping Duty Administrative Review; 2024-2025",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that carbon and alloy steel threaded rod (steel threaded rod) from India was sold in the United States at prices below normal value during the period of review (POR) April 1, 2024, through March 31, 2025.",
-      "needs_translation": true,
-      "title_zh": "Carbon and Alloy Steel Threaded Rod From India: Final Results of Antidumping Duty Administrative Review; 2024-2025",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "f01091e95d6efefe",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/07/17/2026-14417/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-final-results-of",
-          "published_at": "2026-07-17T00:00:00Z",
-          "title_zh": "美国螺纹杆复审终裁：三组中国出口商适用0.74%倾销幅度",
-          "evidence_url": "https://federalregister.gov/documents/2026/07/17/2026-14417/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-final-results-of"
-        },
-        {
-          "url": "https://federalregister.gov/documents/2026/11/04/2026-22526/certain-steel-nails-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in-part-of",
-          "published_at": "2026-11-04T00:00:00Z",
-          "title_zh": "美国对华钢钉2024—2025年度反倾销复审初裁：悦达9.27%，9家企业终止复审",
-          "evidence_url": "https://public-inspection.federalregister.gov/2026-22526.pdf"
-        }
-      ]
-    },
-    {
-      "id": "c80659d0d21b622c6df6",
-      "url": "https://federalregister.gov/documents/2026/11/13/2026-23083/stainless-steel-bar-from-india-final-results-of-antidumping-duty-administrative-review-2024-2025",
-      "published_at": "2026-11-13T00:00:00Z",
-      "title_original": "Stainless Steel Bar From India: Final Results of Antidumping Duty Administrative Review; 2024-2025",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-13",
-      "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that producers and/or exporters subject to this administrative review made sales of stainless steel bar from India at prices below normal value during the period of review (POR) February 1, 2024, through January 31, 2025.",
-      "needs_translation": true,
-      "title_zh": "Stainless Steel Bar From India: Final Results of Antidumping Duty Administrative Review; 2024-2025",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "4b411294af1cd924",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/07/17/2026-14417/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-final-results-of",
-          "published_at": "2026-07-17T00:00:00Z",
-          "title_zh": "美国螺纹杆复审终裁：三组中国出口商适用0.74%倾销幅度",
-          "evidence_url": "https://federalregister.gov/documents/2026/07/17/2026-14417/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-final-results-of"
-        },
-        {
-          "url": "https://federalregister.gov/documents/2026/11/04/2026-22526/certain-steel-nails-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in-part-of",
-          "published_at": "2026-11-04T00:00:00Z",
-          "title_zh": "美国对华钢钉2024—2025年度反倾销复审初裁：悦达9.27%，9家企业终止复审",
-          "evidence_url": "https://public-inspection.federalregister.gov/2026-22526.pdf"
-        }
-      ]
-    },
-    {
-      "id": "5fbd48a691e402e03f8f",
-      "url": "https://federalregister.gov/documents/2026/11/09/2026-22836/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-india-initiation-of",
-      "published_at": "2026-11-09T00:00:00Z",
-      "title_original": "Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From India: Initiation of Countervailing Duty Investigation",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-09",
-      "source_excerpt": "",
-      "needs_translation": false,
-      "title_zh": "来自印度的无缝碳和合金钢标准、线和压力管:启动反补贴税调查",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "eb9b2be9f24c7717",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/08/03/2026-15646/certain-seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-china-institution-of",
-          "published_at": "2026-08-03T00:00:00Z",
-          "title_zh": "美国中国无缝钢管第三次日落复审：10月16日可提交答复充分性评论",
-          "evidence_url": "https://www.federalregister.gov/documents/2026/08/03/2026-15646/certain-seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-china-institution-of"
-        }
-      ]
-    },
-    {
-      "id": "62b21826651e6cdc87d7",
-      "url": "https://federalregister.gov/documents/2026/11/06/2026-22706/certain-carbon-and-alloy-steel-cut-to-length-plate-from-the-republic-of-korea-notice-of-court",
-      "published_at": "2026-11-06T00:00:00Z",
-      "title_original": "Certain Carbon and Alloy Steel Cut-to-Length Plate From the Republic of Korea: Notice of Court Decision Not in Harmony With the Results of Countervailing Duty Administrative Review; Notice of Amended Final Results",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-06",
-      "source_excerpt": "On October 27, 2026, the U.S. Court of International Trade (CIT) issued its final judgment in POSCO v. United States Consol. Court No. 24-00006, Slip Op. 26-131, sustaining the U.S. Department of Commerce (Commerce)'s second remand results pertaining to the administrative review of the countervailing duty (CVD) order on of certain carbon and alloy steel cut-to-length plate (CTL Plate) from the Republic of Korea (Korea) covering the period January 1, 2021, through December 31, 2021. Commerce is notifying the public that the CIT's final judgment is not in harmony with Commerce's final results o…",
-      "needs_translation": true,
-      "title_zh": "Certain Carbon and Alloy Steel Cut-to-Length Plate From the Republic of Korea: Notice of Court Decision Not in Harmony With the Results of Countervailing Duty Administrative Review; Notice of Amended Final Results",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "e141bccc782d64cd",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/07/10/2026-13975/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-notice-of-court-decision",
-          "published_at": "2026-07-10T00:00:00Z",
-          "title_zh": "美国钢制货架法院重审：南京东升旧复审幅度改为25%，现行保证金不变",
-          "evidence_url": "https://federalregister.gov/documents/2026/07/10/2026-13975/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-notice-of-court-decision"
-        },
-        {
-          "url": "https://federalregister.gov/documents/2026/08/28/2026-17621/certain-carbon-steel-butt-weld-pipe-fittings-from-the-peoples-republic-of-china-notice-of-court",
-          "published_at": "2026-08-28T00:00:00Z",
-          "title_zh": "美国扩大对华对焊管件反倾销令覆盖：越南后加工仍属中国原产范围",
-          "evidence_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17621/certain-carbon-steel-butt-weld-pipe-fittings-from-the-peoples-republic-of-china-notice-of-court"
-        }
-      ]
-    },
-    {
-      "id": "102690e3f2b920c6fae2",
-      "url": "https://federalregister.gov/documents/2026/11/05/2026-22630/circular-welded-non-alloy-steel-pipe-from-the-republic-of-korea-final-results-of-antidumping-duty",
-      "published_at": "2026-11-05T00:00:00Z",
-      "title_original": "Circular Welded Non-Alloy Steel Pipe From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-05",
-      "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that Hyundai Steel Company (Hyundai Steel) and Hyundai Steel Pipe Co., Ltd. (HSP) made sales of subject merchandise at less than normal value (NV) during the period of review (POR), November 1, 2023, through October 31, 2024. Commerce determines that Husteel Co., Ltd. (Husteel) did not make sales of subject merchandise at less than NV during the POR.",
-      "needs_translation": false,
-      "title_zh": "大韩民国圆形焊接非合金钢管:反倾销税行政审查的最后结果;2023-2024",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "2185dc9eefa1510a",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/07/17/2026-14417/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-final-results-of",
-          "published_at": "2026-07-17T00:00:00Z",
-          "title_zh": "美国螺纹杆复审终裁：三组中国出口商适用0.74%倾销幅度",
-          "evidence_url": "https://federalregister.gov/documents/2026/07/17/2026-14417/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-final-results-of"
-        },
-        {
-          "url": "https://federalregister.gov/documents/2026/09/15/2026-18791/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-final-results-and",
-          "published_at": "2026-09-15T00:00:00Z",
-          "title_zh": "美国钢制货架复审终裁：Nova及JISE为10.34%，Urgo适用全国实体税率",
-          "evidence_url": "https://federalregister.gov/documents/2026/09/15/2026-18791/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-final-results-and"
-        }
-      ]
-    },
-    {
-      "id": "7ad0fd55cc9fc43f7cbb",
-      "url": "https://federalregister.gov/documents/2026/11/05/2026-22626/certain-cut-to-length-carbon-quality-steel-plate-from-the-republic-of-korea-final-results-of",
-      "published_at": "2026-11-05T00:00:00Z",
-      "title_original": "Certain Cut-To-Length Carbon-Quality Steel Plate From the Republic of Korea: Final Results of Countervailing Duty Administrative Review; 2024",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-05",
-      "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that certain producers and exporters of certain cut-to-length carbon-quality steel plate (CTL plate) from the Republic of Korea (Korea) received countervailable subsidies during the period of review (POR) January 1, 2024, through December 31, 2024.",
-      "needs_translation": false,
-      "title_zh": "大韩民国的某些切到链的碳质量钢板:反补贴税行政审查的最后结果;2024",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "f9c90848b060360e",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/07/17/2026-14417/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-final-results-of",
-          "published_at": "2026-07-17T00:00:00Z",
-          "title_zh": "美国螺纹杆复审终裁：三组中国出口商适用0.74%倾销幅度",
-          "evidence_url": "https://federalregister.gov/documents/2026/07/17/2026-14417/alloy-and-certain-carbon-steel-threaded-rod-from-the-peoples-republic-of-china-final-results-of"
-        },
-        {
-          "url": "https://federalregister.gov/documents/2026/10/05/2026-20381/certain-cut-to-length-carbon-steel-plate-from-the-peoples-republic-of-china-and-the-russian",
-          "published_at": "2026-10-05T00:00:00Z",
-          "title_zh": "美国对华定尺碳钢板第五次日落复审终裁：撤令可能导致倾销延续",
-          "evidence_url": "https://www.federalregister.gov/documents/2026/10/05/2026-20381/certain-cut-to-length-carbon-steel-plate-from-the-peoples-republic-of-china-and-the-russian"
-        }
-      ]
-    },
-    {
-      "id": "7c37bf145406085b3fe6",
-      "url": "https://federalregister.gov/documents/2026/11/02/2026-22351/corrosion-resistant-steel-products-from-mexico-notice-of-court-decision-not-in-harmony-with-the",
-      "published_at": "2026-11-02T00:00:00Z",
-      "title_original": "Corrosion-Resistant Steel Products From Mexico: Notice of Court Decision Not in Harmony With the Final Determination of Antidumping Duty Investigation; Notice of Amended Final Determination; Notice of Amended Antidumping Duty Order, in Part",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-02",
-      "source_excerpt": "On October 19, 2026, the U.S. Court of International Trade (CIT) issued its final judgment in Galvasid S.A. De C.V., v. United States, Slip Op. 26-128, Consol. Court no. 25-00235, sustaining the U.S. Department of Commerce's (Commerce) first remand redetermination pertaining to the less-than-fair-value (LTFV) investigation of corrosion-resistant steel products (CORE) from Mexico covering the period of investigation July 1, 2023, through June 30, 2024. Commerce is notifying the public that the CIT's final judgment is not in harmony with Commerce's final determination in that investigation, and…",
-      "needs_translation": true,
-      "title_zh": "Corrosion-Resistant Steel Products From Mexico: Notice of Court Decision Not in Harmony With the Final Determination of Antidumping Duty Investigation; Notice of Amended Final Determination; Notice of Amended Antidumping Duty Order, in Part",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "0b2e78ef1792c461",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/07/10/2026-13975/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-notice-of-court-decision",
-          "published_at": "2026-07-10T00:00:00Z",
-          "title_zh": "美国钢制货架法院重审：南京东升旧复审幅度改为25%，现行保证金不变",
-          "evidence_url": "https://federalregister.gov/documents/2026/07/10/2026-13975/certain-steel-racks-and-parts-thereof-from-the-peoples-republic-of-china-notice-of-court-decision"
-        }
-      ]
-    },
-    {
-      "id": "4e48dd64beb970d7489f",
-      "url": "https://federalregister.gov/documents/2026/10/26/2026-21791/prestressed-concrete-steel-wire-strand-from-spain-final-results-of-antidumping-duty-administrative",
-      "published_at": "2026-10-26T00:00:00Z",
-      "title_original": "Prestressed Concrete Steel Wire Strand From Spain: Final Results of Antidumping Duty Administrative Review; 2024-2025",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-10-26",
-      "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that Global Special Steel Products S.A.U. (d.b.a. Trenzas y Cables de Acero PSC, S.L.) (TYCSA) made sales of subject merchandise at less than normal value (NV) during the period of review (POR) June 1, 2024, through May 31, 2025.",
-      "needs_translation": false,
-      "title_zh": "来自西班牙的预应力混凝土用钢绞线:反倾销税行政审查的最后结果;2024-2025",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "2e7219b5dd32f17c",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/08/06/2026-16057/prestressed-concrete-steel-wire-strand-from-the-peoples-republic-of-china-final-results-of-the",
-          "published_at": "2026-08-06T00:00:00Z",
-          "title_zh": "美国预应力混凝土钢绞线反倾销日落复审：认定撤销措施可能导致再发生",
-          "evidence_url": "https://federalregister.gov/documents/2026/08/06/2026-16057/prestressed-concrete-steel-wire-strand-from-the-peoples-republic-of-china-final-results-of-the"
-        },
-        {
-          "url": "https://federalregister.gov/documents/2026/08/04/2026-15749/prestressed-concrete-steel-wire-strand-from-the-peoples-republic-of-china-final-results-of-the",
-          "published_at": "2026-08-04T00:00:00Z",
-          "title_zh": "美国预应力混凝土钢绞线反补贴日落复审：认定撤销措施可能导致再发生",
-          "evidence_url": "https://federalregister.gov/documents/2026/08/04/2026-15749/prestressed-concrete-steel-wire-strand-from-the-peoples-republic-of-china-final-results-of-the"
-        }
-      ]
-    },
-    {
-      "id": "70e20223ea2e0bb5f011",
-      "url": "https://federalregister.gov/documents/2026/10/26/2026-21780/standard-steel-welded-wire-mesh-from-mexico-continuation-of-antidumping-and-countervailing-duty",
-      "published_at": "2026-10-26T00:00:00Z",
-      "title_original": "Standard Steel Welded Wire Mesh From Mexico: Continuation of Antidumping and Countervailing Duty Orders",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-10-26",
-      "source_excerpt": "As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) and countervailing duty (CVD) orders on standard steel welded wire mesh from Mexico would likely lead to the continuation or recurrence of dumping and countervailable subsidies, and material injury to an industry in the United States, Commerce is publishing a notice of continuation of these AD and CVD orders.",
-      "needs_translation": false,
-      "title_zh": "墨西哥标准钢焊接线网:继续执行反倾销和反补贴税命令",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "48b423aefb53efbc",
-      "related_reviews": []
-    },
-    {
-      "id": "cb115446de1dfa8602f6",
-      "url": "https://gov.uk/government/publications/reporting-the-country-of-melt-and-pour-for-certain-steel-imports",
-      "published_at": "2026-11-16T00:00:00Z",
-      "title_original": "Reporting the country of melt and pour for certain steel imports",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "法规与正式文件",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "This page provides guidance on the melt and pour reporting requirement for certain steel imports, which will be in effect from 1 April 2027. Find out: whether you need to report where imported steel was first melted and poured what information to declare what supporting evidence to keep This will be a voluntary reporting requirement for certain steel imports from 1 April 2027 and mandatory from 1 July 2027. This will be a voluntary reporting requirement for certain steel imports from 1 April 2027 and mandatory from 1 July 2027.",
-      "needs_translation": true,
-      "title_zh": "Reporting the country of melt and pour for certain steel imports",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "f76090f31fdb25c3",
-      "related_reviews": []
-    },
-    {
-      "id": "9af81e1ea1c11a73cb5b",
-      "url": "https://federalregister.gov/documents/2026/10/26/2026-21790/heavy-walled-rectangular-welded-carbon-steel-pipes-and-tubes-from-mexico-initiation-and-expedited",
-      "published_at": "2026-10-26T00:00:00Z",
-      "title_original": "Heavy-Walled Rectangular Welded Carbon Steel Pipes and Tubes From Mexico: Initiation and Expedited Preliminary Results of Changed Circumstances Review",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-10-26",
-      "source_excerpt": "The U.S. Department of Commerce (Commerce) is simultaneously initiating and issuing the preliminary results of a changed circumstances review (CCR) of the antidumping duty (AD) order on heavy- walled rectangular welded carbon steel pipes and tubes (HWR) from Mexico, consistent with section 751(b) of the Tariff Act of 1930, as amended (the Act), and 19 CFR 351.216 and 351.221(c)(3)(ii). Based on the information on the record, we preliminarily determine that Perfiles LM, S.A. de C.V. (PLM) is the successor-in-interest to Perfiles y Herrajes LM, S.A. de C.V. (PyH). Interested parties are invited…",
-      "needs_translation": true,
-      "title_zh": "Heavy-Walled Rectangular Welded Carbon Steel Pipes and Tubes From Mexico: Initiation and Expedited Preliminary Results of Changed Circumstances Review",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "0fa102bf43876aef",
-      "related_reviews": []
-    },
-    {
-      "id": "9383c9ae73c642beeadf",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPanRRUlQzSGlTaE15UmExRGF2dFBkdGhtLWJvUHdVQ0JpRV9Bd3RQT3JmR2NSRnVqUGpwMFhWSHB6RTk4Y0dmd0stZG9HcFVDVXU2NFQtTVZsVEdiZ2xNSXJPWVZId2M3MW9WS2dMSE5MTER2Skp1cTF1YzgtRXRVU21aUU5oUkVUT2hDZk9TR1hSM2M4Ymt1dlo4VjY3UXFS?oc=5",
-      "published_at": "2026-11-16T15:37:10Z",
-      "title_original": "EU to impose tariffs on cold-rolled flat steel from five countries",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "Euronext Markets: Real-time Stock Market Data | live",
-        "kind": "news",
-        "official": false
-      },
-      "category": "配额与关税",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "EU to impose tariffs on cold-rolled flat steel from five countries Euronext Markets: Real-time Stock Market Data | live",
-      "needs_translation": false,
-      "title_zh": "欧盟对五个国家的冷轧平板钢征收关税",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "b430c0de19d43a27",
-      "related_reviews": []
-    },
-    {
-      "id": "f7bf82375b1b2c0f4f8a",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObXdqY1phR0M2VG9DUkhwUVZWaElLMmlscUZaNW1nMHBNXy1yeXVyNUxWblhZZW5COGgxaG5KS2RSMVRoQ1l0N2FOanBHVDBwc0o5UklhaWU2c0Q0Nlh3blVfdWFVSWVpc0c4NjU2Smxxd0RQZU1BVnFEU2RpN1Zfcld3bERBMzlLQlM3el94eG9iVVdTamh3RUNn?oc=5",
-      "published_at": "2026-11-16T15:00:00Z",
-      "title_original": "European Commission imposes anti-dumping duties on steel imports",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "Global Banking & Finance Review",
-        "kind": "news",
-        "official": false
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "European Commission imposes anti-dumping duties on steel imports Global Banking & Finance Review",
-      "needs_translation": false,
-      "title_zh": "欧洲联盟委员会对钢进口征收反倾销税",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "fda9ab8aac6d0d98",
-      "related_reviews": [
-        {
-          "url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
-          "published_at": "2026-11-16T00:00:00Z",
-          "title_zh": "欧盟对印度、日本、台湾、土耳其及越南冷轧钢材征收最终反倾销税，11月17日生效",
-          "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202602547"
-        }
-      ]
-    },
-    {
-      "id": "7725e380304afd269171",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1hYM3Z6anlaZWgyd19GbTFNaGZxQTRacjVsQW40aU9NRDNDTzh2Q1F2SkpXSktDblgzVHZxX1RHcllzNVVrbGJkVDRTRVNSdkdackRYZFZKMkZYMkpWZVlWOWF5ZXVFUDJPLTg3NXY5TG1DTHhTaXkzR3hNQkhGclQ2eGVyU1owVFlWd2tyWWF6MGZiYlBYZ3dUak9SNEdQTUw5TmtyTnYzdWcwYjRIT3hNSFjSAboBQVVfeXFMTzdsV1RoRW9rYmIxT0otakVDekxFTE1McThHbkZ3RDdVdV8xQi1RUWR0UkRlTWQ0YkJ4OU9PNEs2Q2hSV1dJdGk5RVhUUGZTTzZfa3dWZTE1OHljQUc3cVgwZktyNU5rc2szd2hnejV6MndHVGNJcERPWFJKNGF2MG9PM19sUzRiN3NjVDhCakRjOHB0dUMwdkRBRXItekNyY1lWOVZvbVJaN3hkamx5VWF1WmtnakVsUnRB?oc=5",
-      "published_at": "2026-11-16T14:51:00Z",
-      "title_original": "EU imposes anti-dumping duties on steel from Türkiye, 4 other countries | Daily Sabah",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "Daily Sabah",
-        "kind": "news",
-        "official": false
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "EU imposes anti-dumping duties on steel from Türkiye, 4 other countries | Daily Sabah Daily Sabah",
-      "needs_translation": false,
-      "title_zh": "欧盟对来自Türkiye、4其他国家的钢品征收反倾销税",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "46e337960c003905",
-      "related_reviews": []
-    },
-    {
-      "id": "dc417bbc80334f683d53",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmR0elVWUzE4MXVQNkV4NU5XdGVxNEUyZkZqUEhxaGZPR2RwcXN6eUgteGxzTEdyTE0zUjk1bWN6Q1N0TnpZMmRtbTZtUGlCNEF0THpmWG5jdmxHM0s2TlhPcHF4bGFtQ0NiM0t0aUhKX082X0FNcTZxYkNrMVZ0ZVBR0gGHAUFVX3lxTFBrNEhvVUZyNnE1T0p4V0dpOWN4c2Z4ZHMyUW5PN0dCUGh6TlJCZE5tQlFUSTlPM0owaFVYYjB5U0ZUcEcxTFh3cndiU1oyNTlSNWJ6VklkSS1ZTVlOOG95S2RPckNBdkp6bG9YVjNGeVpGWEtlQ2NuenZIdnBnam1VVWZOanJjVQ?oc=5",
-      "published_at": "2026-11-16T13:32:22Z",
-      "title_original": "China cut steel production by 3.8% m/m in October",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "GMK Center",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "China cut steel production by 3.8% m/m in October GMK Center",
-      "needs_translation": false,
-      "title_zh": "中国10月份用3.8% m/m削减钢生产",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "19309d630cc9f0d7",
-      "related_reviews": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSGxRcGRBbG5ISWNlakpVbUR0aEYxcUlGbGNMbHlIRHNINkhYR1lKVkpwVHlVM3p2VEVMMUpWSGdHR0lFRHp3SlJMRTJaTGFCSUpjcmJNTFFJN0ZwNVpvNkdrMXNSSUV0c1JRMV9kWDEzRG1RZzcxZ0xBVFd5c0VYb9IBhgFBVV95cUxONmNUNkxOZHJ2WGtseTQ4WU1TV2JLcFNlTk1RSjlUbHg3ZE5lZi03S21wYjBqOGFHcHdSb095YzYtall1YTdWTUMwVm1COUxrMmVKWUlfMWVBX2wyZXNYaE1sNEZoR1NfdzZoTWdhQXNaMmpMSXItTW1XVUoyLVl0OWU4Q3ptQQ?oc=5",
-          "published_at": "2026-11-10T13:12:21Z",
-          "title_zh": "中国2026年前10个月钢材出口9549.5万吨，同比下降2.3%",
-          "evidence_url": "https://www.steelorbis.com/steel-news/latest-news/chinas-steel-exports-down-23-in-jan-oct-down-61-in-oct-from-sept-2026-1489467.htm"
-        }
-      ]
-    },
+  "pending_count": 17,
+  "actionable_count": 0,
+  "blocked_count": 17,
+  "items": [],
+  "blocked_items": [
     {
       "id": "ebfc5a441977dfdc335f",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjk1Z25yYmluc1YtM2t0cm4taXJnYlJXLXdDblNXMGZoS1dDYnFNRE9SVWdiS3VlQTZ5QTN5emkwZm1wVlVGd1o4eEo0cFN1NWwzY3dsMFBoaE1hVDAyOFpGcFFhVFBYa190UDJVSEJtbGpfeExQZHdzNWlEWUZ6ellFNTRtVFNvbGctYzVENktFaXk1NV9qRTUzcnBWdFpFaFk1alhvNElyQTRidi1Sa2o0a9IBuAFBVV95cUxQOVU4MHZ0SHFoM19wbFJyVzhiQzJOdW16bTcwemVNVWhlU3ZWNWJmeGxhS0sxVWVUUnFxMmJ1MDV0alBJWkliMXAtUXpTZzdLZlQzR3BDSXQ3WERyNzR5Sm4wMkdUWmJ0OFVBOURkWDlheWtIVUUzdkp5Ymc2UERNcFk0TFJIR013SVB6LUhMSFlMRVY3N3VYdEVLRXFHOFV6TVpRdVM4SUxvc0hLQ1FUOTl6Wk1YMlJx?oc=5",
@@ -744,85 +22,18 @@
       "category": "贸易救济",
       "importance": "中",
       "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "涉及第三国贸易救济或重要进口限制，但仅有新闻标题/有限摘录，缺乏可核对的原始公告，暂不认定税率或新政策生效。",
+      "review_coverage": "仅标题级检视，原始法规或官方公告未取得。",
       "published_date": "2026-11-16",
       "source_excerpt": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus GMK Center",
       "needs_translation": false,
       "title_zh": "印度尼西亚审查哈萨克斯坦和白俄罗斯的热滚钢反倾销税",
-      "review_attempted_at": "",
+      "review_attempted_at": "2026-11-16T19:27:43Z",
       "evidence_fingerprint": "b83f41789cf9f066",
-      "related_reviews": []
-    },
-    {
-      "id": "01f28ceb606d203f81d4",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUlVPZWllUVdHVkt3OGczak12UUxYQlZvRFNtSmc3T1F1dFYxRUJRX2l6c0RtM2J2cmdubTM5NXpoQlduSkJZX0VZTU1nUUwxR3M5dl9kLUFhNEY0VU5tblNXdWtISmZMZkFENExCUmNTS2dWaDBEdFNPcGV6cVBzZUprRHJZX1dDbDBVY00zUkw5ZXFUUEF6eGxLR0NpMVQ3d3Bwb3ZSdmJNQQ?oc=5",
-      "published_at": "2026-11-16T12:00:24Z",
-      "title_original": "Kazakhstan Supports Metals Sector in Adapting to EU CBAM Emissions Rules",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "Kazakhstan Supports Metals Sector in Adapting to EU CBAM Emissions Rules - News and Statistics IndexBox",
-      "needs_translation": false,
-      "title_zh": "哈萨克斯坦支持金属部门适应欧盟CBAM排放规则",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "a1b1491a12cd13f9",
-      "related_reviews": []
-    },
-    {
-      "id": "4886b9d594333fdf0666",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnBZSy1GcmtfT3V2UjZPYUw5NjdfdkdtSEI0TEVYNGR0NGg3bDBDQlQ4d2RXZklnRVFkRHM3dWcxQ0RLWmpNR0poSk5VR2ZtZW1Lb2otMU5FelF5Z01WaS0waGJ2Y0lwUlp0cVlncmFJVlJLVUxJWENtTHJGOV9sY2hmbEZ4TGh3TVZvOEU5N2dPZEFmZlBKS2ctNDJBSFFSbnY5S2c5S3BDRzVaSHljY0RPUDc4NmtKRWU1QWlRbXFtcUtqRFlZVVhwaFjSAVpBVV95cUxQbWJxTWRjdHVubVdON3VqZV9oVEZob0tydkxIaG81M0V2UnI3ODdwdmlyZVY1NW1weXZFT0pXSlFLUGlZZzFwcWV3NWotV01oSU9kYkNhbFFxekE?oc=5",
-      "published_at": "2026-11-16T09:25:03Z",
-      "title_original": "Cold-rolled steel imports from five countries face definitive EU antidumping duties",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "MLex",
-        "kind": "news",
-        "official": false
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "Cold-rolled steel imports from five countries face definitive EU antidumping duties MLex",
-      "needs_translation": false,
-      "title_zh": "从五个国家进口的冷轧钢面临明确的欧盟反倾销税",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "0cc38c8f8a85eb57",
-      "related_reviews": []
-    },
-    {
-      "id": "9b0705838e6eec6c2075",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQaWVaZzJxbTYwNVFBR2NaWVl0clV4SWw2QnRSR0UzSUtnb0xVOENLZ3dUM1NQcklmbVk2YXFtQkh2UjFNRW0yc2pXYWFaOER5V3Z6UzF4YXZPcHFVc01sUFg0b0xvNWQ1RnAzb1VOX09WdzZMbkNVbmJKT0hsWEdWYm9KY19ZN2JDenk5dG4tSk50UERJbDd1d3lpWS1LQ2FvODRPTzNMcnZjcjFRT21yUENqV2NEc2hiTGpJakIzSEJwdzRGRkppRkduWlF3SkFKUlNndUZRakdMNTQzZC1fQTU1dXFmVWNaUGlXRFNpTHd3aUVtdG1faXdERkotdjFhZHVrTXFPZTktVnlMdmpidEFQaWU?oc=5",
-      "published_at": "2026-11-16T09:12:00Z",
-      "title_original": "EU imposes definitive anti-dumping duties on cold-rolled steel from India, Japan, Taiwan, Türkiye and Vietnam",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "Shanghai Metals Market",
-        "kind": "news",
-        "official": false
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "EU imposes definitive anti-dumping duties on cold-rolled steel from India, Japan, Taiwan, Türkiye and Vietnam Shanghai Metals Market",
-      "needs_translation": false,
-      "title_zh": "欧盟对来自印度、日本、台湾、蒂尔基耶和越南的冷轧钢征收明确的反倾销税",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "917c45f3860c86d2",
-      "related_reviews": []
+      "related_reviews": [],
+      "retry_after": "2026-11-23T00:00:00Z",
+      "retry_policy": "scheduled"
     },
     {
       "id": "09720ebc41dda0e0fdda",
@@ -840,61 +51,18 @@
       "category": "配额与关税",
       "importance": "中",
       "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "涉及第三国贸易救济或重要进口限制，但仅有新闻标题/有限摘录，缺乏可核对的原始公告，暂不认定税率或新政策生效。",
+      "review_coverage": "仅标题级检视，原始法规或官方公告未取得。",
       "published_date": "2026-11-11",
       "source_excerpt": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance Reuters",
       "needs_translation": false,
       "title_zh": "墨西哥说,对亚洲钢铁运输的镇压,随着美国关税谈判的推进,正在得到回报。",
-      "review_attempted_at": "",
+      "review_attempted_at": "2026-11-16T19:27:43Z",
       "evidence_fingerprint": "588d1eeffd376be9",
-      "related_reviews": []
-    },
-    {
-      "id": "cbad85bbba64ad1724e2",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbzBER1BLeGJ0Q0J4SkFxOHBSbnpuQzdWajN1WmpldVd0ZC1MTUlRbWpKZ1FaS0o2Zkx4b3F2aXVDUEloRTBRNDk4bTAwdGhzSnpWcGVXYy1zVWxZNnJlWVROc0ZNTW9PUTNRMHQ2MzIyUmdBbUJKZE9SeVFCbVdhSnQtek1CeWJZczhJWmszM3FybmcwTzEtVU1GaDNiUUlQcE11dGc4YzJIWTd6Q0RUYXpGUElyUQ?oc=5",
-      "published_at": "2026-11-11T16:46:45Z",
-      "title_original": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "Bloomberg",
-        "kind": "news",
-        "official": false
-      },
-      "category": "配额与关税",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-11",
-      "source_excerpt": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement Bloomberg",
-      "needs_translation": false,
-      "title_zh": "墨西哥钢铁进口需要严格的关税执法",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "980354be24fecdfc",
-      "related_reviews": []
-    },
-    {
-      "id": "b94ef849002842d750a5",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUlQTkstZEtoWWdUMWUzWWhtT3pPNFNMTEZ5cUJTU3RkRXYwNE5TQnJROXdldGhkeHJfVjhteDVIMTl0MmdJQVQyNkk0UVlDbGt6X0VIa3pQY2E1THZSMjlSY0tsU0t1Mnl0NW9jZmV3aG5fMjdOYmxtcGZoUHpwN1JvaGJUX05JcVR6QTREZ25JUDlJMlhJRWRn?oc=5",
-      "published_at": "2026-11-11T11:26:36Z",
-      "title_original": "Ternium weighs more anti-dumping action in Mexico as steel tensions strain U.S. trade talks",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "Traders Union",
-        "kind": "news",
-        "official": false
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-11",
-      "source_excerpt": "Ternium weighs more anti-dumping action in Mexico as steel tensions strain U.S. trade talks Traders Union",
-      "needs_translation": false,
-      "title_zh": "由于钢铁紧张使美国贸易谈判紧张,在墨西哥,四合金对反倾销行动的影响更大",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "b9fd6aedcd4a4f9c",
-      "related_reviews": []
+      "related_reviews": [],
+      "retry_after": "2026-11-23T00:00:00Z",
+      "retry_policy": "scheduled"
     },
     {
       "id": "40db350b6db48ce60ef2",
@@ -912,11 +80,14 @@
       "category": "贸易救济",
       "importance": "中",
       "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "涉及第三国贸易救济或重要进口限制，但仅有新闻标题/有限摘录，缺乏可核对的原始公告，暂不认定税率或新政策生效。",
+      "review_coverage": "仅标题级检视，原始法规或官方公告未取得。",
       "published_date": "2026-11-10",
       "source_excerpt": "Saudi Arabia opens anti-dumping probe into steel imports from China, Turkiye Arab News",
       "needs_translation": false,
       "title_zh": "沙特阿拉伯对从中国进口的钢铁进行反倾销调查,图尔基耶",
-      "review_attempted_at": "",
+      "review_attempted_at": "2026-11-16T19:27:43Z",
       "evidence_fingerprint": "969805bb8f00b943",
       "related_reviews": [
         {
@@ -925,161 +96,10 @@
           "title_zh": "沙特对中国及土耳其热轧中轻型结构型钢启动反倾销调查",
           "evidence_url": "https://gaft.gov.sa/en/trade-remedies/follow-up-trade-remedies-investigations"
         }
-      ]
+      ],
+      "retry_after": "2026-11-23T00:00:00Z",
+      "retry_policy": "scheduled"
     },
-    {
-      "id": "4d9107995e7ee1643e4f",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW5Qckt2aWwxclVud05sTzNRU3dEYlExeWZINlcwY1M0cGlFTkYzUlJ3YzZUNVNqUlJQZ2tJWFRucUlVdXZoYXh2WUxpR0JvUVNfQVBUVUlyMXRodjR6MHVJdTQ0ZzNpNzhLeHZjTUdNeUVtU0xkZFlJaFJUbW9VdU0yLU01V2UzRG0xLTRRMktKYmVVbjJvMldJbVB4NlgzR29aT2VuOHpJT0xiRU9EdEFibThteW5FaHk1Y0xB?oc=5",
-      "published_at": "2026-11-16T12:38:34Z",
-      "title_original": "China’s Steel Mills Brace for a Bitter Winter",
-      "first_seen": "2026-11-16T16:28:58Z",
-      "last_seen": "2026-11-16T16:28:58Z",
-      "source": {
-        "id": "rss",
-        "name": "Bloomberg.com",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "China’s Steel Mills Brace for a Bitter Winter Bloomberg.com",
-      "needs_translation": false,
-      "title_zh": "中国的 钢厂 滋味冬季",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "c8f12ef7fe738c67",
-      "related_reviews": []
-    },
-    {
-      "id": "6c53143aca4dadf94bb1",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HUy1rczgwbDJCREJ6QXdyOHRqaGpqS1B5RXo5djVPRE5ZQldLSHBqalpqNjQ2Vkp1cFVIc3paM3RZTnRTOFFSSTZ3SXNObWpzT25IbG1XcHJYUnJPUmh6M05PTjBLbGZDWUFIenl0aFBCemFCSFlabmdaNkZDZw?oc=5",
-      "published_at": "2026-11-16T09:24:28Z",
-      "title_original": "CBAM: Free CO2 for EU Mills, a Sham Deduction for Importers",
-      "first_seen": "2026-11-16T16:28:58Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "Steel and Stainless Steel News",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "CBAM: Free CO2 for EU Mills, a Sham Deduction for Importers Steel and Stainless Steel News",
-      "needs_translation": false,
-      "title_zh": "CBAM:欧盟钢厂的免费CO2,进口商的模拟减量",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "54f1d6abac05c8e7",
-      "related_reviews": []
-    },
-    {
-      "id": "d40eae05f89c7540cba9",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVhGWlhRRXJXdXNCcEwzZ2VsTFhTTlVDSEZOY0F0VnMzZ2Y5MS0zQmNYUlFZLUFnOFRiakhnemhvX2JYRi1oQk51bDY5VWFjMUx5UE1PZ3VCWFpXMzZYTGJCVzh4VC1wWkZCVmx6NV9YZG1TNnJxbmV2RWlaalVsR3dZTkY5emRwNlZLRlMtYVk5RWctRlY5Q3N1WTBKd0ItSFR6VXpiYnpHb1FSZ3c?oc=5",
-      "published_at": "2026-11-16T09:00:00Z",
-      "title_original": "欧盟加强保护钢铁业免受中国进口冲击——Tagesschau",
-      "first_seen": "2026-11-16T16:28:58Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "UA.NEWS",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "欧盟加强保护钢铁业免受中国进口冲击——Tagesschau UA.NEWS",
-      "needs_translation": false,
-      "title_zh": "欧盟加强保护钢铁业免受中国进口冲击——Tagesschau",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "aee253ae45da2ecd",
-      "related_reviews": []
-    },
-    {
-      "id": "d08e34d05d9a10521e1f",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTWp4Tm50bW5tMTh6cjFWbC1yLVVYRjdQdXFfN0ZXS1FUcjRwcG1lNmg1VEFVVmdCODJDeW5UR0U1MGJKZ3djNnJCMzA2azVRQk1Lb0UxcU9jU1Y0RzIwY29YZ0JyTS1tVlQ3Sm5hR21UUjEyRVNQVTMzbExUMUh0a1NnVnpFRGZtMTdLcG44SQ?oc=5",
-      "published_at": "2026-11-16T00:11:05Z",
-      "title_original": "China's Steel Sector Reports Progress on Green Transition",
-      "first_seen": "2026-11-16T16:28:58Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "China's Steel Sector Reports Progress on Green Transition IndexBox",
-      "needs_translation": false,
-      "title_zh": "中国钢铁部门报告绿色转型的进展",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "eb3a2784199cabd0",
-      "related_reviews": []
-    },
-    {
-      "id": "45833fdbca64c5dfe6f6",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODExNm50Q29pV09pSDRJYW9IRUVOSS1GVzlDVm4zN0pKM0NteUtlVklzSW1wa2gzTnlIaWx1cWJLQlRIdUpaUXJZYm52MmhlU09QakduWU51WUJOa1YxeXItUEJPUmQ0RkxVSExJRGpiVEZJcXpLS2N1X0dZZDY0QkNrUzFxY1pFcUtVenc1eTQyZTJtS0Z4bWZLcUZfMFNIQzNLdTJaTQ?oc=5",
-      "published_at": "2026-11-15T14:22:53Z",
-      "title_original": "Assofermet Calls for Raising CBAM Exemption Threshold to 500 Tonnes",
-      "first_seen": "2026-11-16T16:28:58Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "SteelRadar",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-15",
-      "source_excerpt": "Assofermet Calls for Raising CBAM Exemption Threshold to 500 Tonnes SteelRadar",
-      "needs_translation": false,
-      "title_zh": "将 CBAM 豁免阈值提高到 500 吨位的松动呼叫",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "b216a2ed274dcfc7",
-      "related_reviews": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVVvakktenJOVGNuSGRSbzBIMUh4WWlLNkxtVkVtb3lfQkNXS1UydFVQRFlGR0I2S1pXSTBQMXVGc0ViNUJtVnRRNUdQSTB2czBuQjRPM0h5b2tjWUlkSl8yN3QyRW5ZTENvMkJtMUh1OGZlWHlDbWhYbXk2RHFPb0FLajZxSnhGbi1EVDF1NFNtZ0ZXUXU4YVJnRzlvSmNhLUJfTdIBpAFBVV95cUxNVVVvakktenJOVGNuSGRSbzBIMUh4WWlLNkxtVkVtb3lfQkNXS1UydFVQRFlGR0I2S1pXSTBQMXVGc0ViNUJtVnRRNUdQSTB2czBuQjRPM0h5b2tjWUlkSl8yN3QyRW5ZTENvMkJtMUh1OGZlWHlDbWhYbXk2RHFPb0FLajZxSnhGbi1EVDF1NFNtZ0ZXUXU4YVJnRzlvSmNhLUJfTQ?oc=5",
-          "published_at": "2026-11-12T10:21:30Z",
-          "title_zh": "意大利钢贸协会要求将欧盟CBAM小额豁免门槛从50吨提高至500吨",
-          "evidence_url": "https://www.bricomagazine.com/cbam-assofermet-chiede-alla-ue-di-rivedere-la-soglia/"
-        }
-      ]
-    },
-    {
-      "id": "0726f6d2ecda36ea83da",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0RkbWhEYmZidmVIUHk5Nk1SU0V5dnRLeGJSVnBHNG1yNGkya014dkVoVklJQnExRnJZNDF3SWJtWGI1eEdzVnhlZS1DeWVMeTF5SGFqYzdLMlZPQkk2MkZjUmVEWlllUGpZOXRyaktoc3lNenBBazNpU0Z2MXo0UmZRbWpQYmVQemhIVEhtbWZVVHlsS191bFF5b2F2WjRrdkpiTlpTM1BLVEY3S3RyYk9TclMzb0RETzlLMXRZTC1RT0FxZDBuRHFQbEhmQ0tpR3d2MGgyZjlwVXBpMlNFNktCejBoa1VKM0HSAeoBQVVfeXFMTlNEZG1oRGJmYnZlSFB5OTZNUlNFeXZ0S3hiUlZwRzRtcjRpMmtNeHZFaFZJSUJxMUZyWTQxd0libVhiNXhHc1Z4ZWUtQ3llTHkxeUhhamM3SzJWT0JJNjJGY1JlRFpZZVBqWTl0cmpLaHN5TXpwQWszaVNGdjF6NFJmUW1qUGJlUHpoSFRIbW1mVVR5bEtfdWxReW9hdlo0a3ZKYk5aUzNQS1RGN0t0cmJPU3JTM29ERE85SzF0WUwtUU9BcWQwbkRxUGxIZkNLaUd3djBoMmY5cFVwaTJTRTZLQnowaGtVSjNB?oc=5",
-      "published_at": "2026-11-15T10:35:34Z",
-      "title_original": "Isometric launches Ready for CBAM to prepare iron and steel exporters for verification",
-      "first_seen": "2026-11-16T16:28:58Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "Металлургпром",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-15",
-      "source_excerpt": "Isometric launches Ready for CBAM to prepare iron and steel exporters for verification Металлургпром",
-      "needs_translation": true,
-      "title_zh": "Isometric launches Ready for CBAM to prepare iron and steel exporters for verification",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "9441142b6e752226",
-      "related_reviews": []
-    }
-  ],
-  "blocked_items": [
     {
       "id": "629a3b77a0ee41a7a2ea",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
@@ -1411,17 +431,16 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "2026年11月2日复查印尼公开报道、ANTARA/BKPM材料和Petromindo公开索引：仍只能确认Rosan与青山集团董事长项光达会谈并讨论印尼镍、不锈钢深加工及IWIP后续投资；没有新增项目、金额、产能、地点、期限或约束性决定。不得用其他太阳能投资意向补造本次钢铁项目参数。",
-      "review_evidence_url": "https://www.antaranews.com/berita/5817815/rosan-jajaki-investasi-tekstil-hingga-otomotif-upayakan-terealisasi",
-      "review_coverage": "2026-11-02复查印尼政府转述和Petromindo公开索引；会谈主题可确认，但无项目级投资或产能文件，继续按有限覆盖处理。",
+      "review_note_zh": "2026年11月2日复查印尼公开报道、ANTARA/BKPM材料和Petromindo公开索引：仍只能确认Rosan与青山集团董事长项光达会谈并讨论印尼镍、不锈钢深加工及IWIP后续投资；没有新增项目、金额、产能、地点、期限或约束性决定。不得用其他太阳能投资意向补造本次钢铁项目参数。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
+      "review_coverage": "复核现有队列核验记录与原始来源链接；公开原文仍不可完整核读，未重新验证全文。",
       "published_date": "2026-10-26",
       "source_excerpt": "Rosan discusses deeper nickel and stainless steel processing with Tsingshan chairman Petromindo",
       "needs_translation": false,
       "title_zh": "Rosan与青山集团董事长讨论深化镍及不锈钢加工",
-      "review_attempted_at": "2026-11-02",
+      "review_attempted_at": "2026-11-16T19:27:43Z",
       "evidence_fingerprint": "e1cc3f17bcf40bc6",
       "related_reviews": [],
-      "retry_after": "2026-11-09T00:00:00+00:00",
+      "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "scheduled"
     },
     {
@@ -1441,17 +460,16 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "2026年11月2日再次检索ORF官方研究页、PDF和公开镜像：仍未取得同版全文、图表或模型附件，无法核对产品范围、MSME样本、数据口径、情景假设及建议。欧盟官方材料可确认下游扩围提案仍在立法程序中，但不能替代本条ORF研究全文。",
-      "review_evidence_url": "https://www.orfonline.org/research/the-impact-of-cbam-s-extension-to-downstream-products-on-msmes",
-      "review_coverage": "2026-11-02复查ORF官方页、PDF线索及公开索引；仍无同版全文或附件，欧盟官方立法进展仅作背景，继续待全文核验。",
+      "review_note_zh": "2026年11月2日再次检索ORF官方研究页、PDF和公开镜像：仍未取得同版全文、图表或模型附件，无法核对产品范围、MSME样本、数据口径、情景假设及建议。欧盟官方材料可确认下游扩围提案仍在立法程序中，但不能替代本条ORF研究全文。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
+      "review_coverage": "复核现有队列核验记录与原始来源链接；公开原文仍不可完整核读，未重新验证全文。",
       "published_date": "2026-10-22",
       "source_excerpt": "The Impact of CBAM’s Extension to Downstream Products on MSMEs orfonline.org",
       "needs_translation": false,
       "title_zh": "CBAM向下游产品扩围对中小微企业的影响",
-      "review_attempted_at": "2026-11-02",
+      "review_attempted_at": "2026-11-16T19:27:43Z",
       "evidence_fingerprint": "0297e032f71a3d9e",
       "related_reviews": [],
-      "retry_after": "2026-11-09T00:00:00+00:00",
+      "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "scheduled"
     },
     {
@@ -1471,17 +489,16 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "2026年11月2日复核欧洲议会立法观察站和欧盟理事会CBAM页面：欧洲议会已于9月15日通过修正案并把事项交回委员会开展机构间谈判，立法仍未完成。委员会提案拟自2028年扩围钢铝密集型下游产品，但媒体所称光伏组件最终CN清单或5吨门槛仍无最终法规支持；不得按提案当作已生效范围。",
-      "review_evidence_url": "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1914940",
-      "review_coverage": "2026-11-02复核欧洲议会正式程序摘要、理事会政策页及委员会提案；机构间谈判尚未形成最终法规，光伏具体CN清单和媒体所称门槛仍待最终文本。",
+      "review_note_zh": "2026年11月2日复核欧洲议会立法观察站和欧盟理事会CBAM页面：欧洲议会已于9月15日通过修正案并把事项交回委员会开展机构间谈判，立法仍未完成。委员会提案拟自2028年扩围钢铝密集型下游产品，但媒体所称光伏组件最终CN清单或5吨门槛仍无最终法规支持；不得按提案当作已生效范围。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
+      "review_coverage": "复核现有队列核验记录与原始来源链接；公开原文仍不可完整核读，未重新验证全文。",
       "published_date": "2026-10-21",
       "source_excerpt": "CBAM扩围光伏 碳成本前移至制成品 煤炭资源网",
       "needs_translation": false,
-      "title_zh": "媒体讨论光伏CBAM扩围：最终清单、门槛及测算仍待官方核验",
-      "review_attempted_at": "2026-11-02",
+      "title_zh": "CBAM扩围光伏 碳成本前移至制成品",
+      "review_attempted_at": "2026-11-16T19:27:43Z",
       "evidence_fingerprint": "b013a1041526f743",
       "related_reviews": [],
-      "retry_after": "2026-11-09T00:00:00+00:00",
+      "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "scheduled"
     },
     {
@@ -1501,31 +518,30 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "2026年11月2日复查财新官方页面及公开索引：仍只能核读标题、作者、导语和开篇段落；付费正文不可读，页面的AI生成要点不能作为原文证据。未找到合法可读的同版全文或足以覆盖全文论据的原始资料。",
-      "review_evidence_url": "https://www.caixinglobal.com/2026-10-16/in-depth-chinas-green-steel-ambitions-hit-a-red-light-102494074.html",
-      "review_coverage": "2026-11-02复查财新官方入口和公开索引；付费正文仍不可读，AI生成要点未计入核验，继续待全文核验。",
+      "review_note_zh": "2026年11月2日复查财新官方页面及公开索引：仍只能核读标题、作者、导语和开篇段落；付费正文不可读，页面的AI生成要点不能作为原文证据。未找到合法可读的同版全文或足以覆盖全文论据的原始资料。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
+      "review_coverage": "复核现有队列核验记录与原始来源链接；公开原文仍不可完整核读，未重新验证全文。",
       "published_date": "2026-10-16",
       "source_excerpt": "In Depth: China’s Green Steel Ambitions Hit a Red Light Caixin Global",
       "needs_translation": false,
       "title_zh": "深度：中国绿色钢铁发展雄心遭遇阻力",
-      "review_attempted_at": "2026-11-02",
+      "review_attempted_at": "2026-11-16T19:27:43Z",
       "evidence_fingerprint": "5145876a3641ab43",
       "related_reviews": [],
-      "retry_after": "2026-11-09T00:00:00+00:00",
-      "retry_policy": "scheduled"
+      "retry_after": "2026-11-23T00:00:00Z",
+      "retry_policy": "manual"
     }
   ],
   "retry_items": [
     {
-      "id": "c89e263b75e251fd99ec",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVU0S3JDbk5EVFZ0SVNZOHI3MEx0ajRXcFdVb0FoUVZkZVdieEFVYXpJdFV2aEotcDRpYy1aS01jN3dDcC1qdk5WS29sX21ZOWJJdk01X1dVZmotWThZaHJJUHdHcVk1ektGZWNvdnBlNWFodFhEakVhOWNFdzVTLUE5N2toTG53WU9ELVBBTFpyVGxJbWRUUGhNb3FXQWNjZEJEYTRFWVdVdTUtMFE5TXF1V1d0SWZiZDUwb3NCbWpoUQ?oc=5",
-      "published_at": "2026-10-26T00:18:19Z",
-      "title_original": "Rosan discusses deeper nickel and stainless steel processing with Tsingshan chairman",
-      "first_seen": "2026-10-26T13:36:52Z",
-      "last_seen": "2026-11-01T18:08:44Z",
+      "id": "6ffd17e4c9693d71453f",
+      "url": "https://news.mysteel.com/a/26103009/E921E5CBA72B4D5E.html",
+      "published_at": "2026-10-30T00:00:00Z",
+      "title_original": "泰国对华预应力钢绞线启动反倾销调查",
+      "first_seen": "2026-11-02T22:28:43Z",
+      "last_seen": "2026-11-16T18:09:20Z",
       "source": {
-        "id": "rss",
-        "name": "Petromindo",
+        "id": "ec_watch_pages",
+        "name": "我的钢铁网（商务部公告转载）",
         "kind": "news",
         "official": false
       },
@@ -1533,89 +549,29 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "2026年11月2日复查印尼公开报道、ANTARA/BKPM材料和Petromindo公开索引：仍只能确认Rosan与青山集团董事长项光达会谈并讨论印尼镍、不锈钢深加工及IWIP后续投资；没有新增项目、金额、产能、地点、期限或约束性决定。不得用其他太阳能投资意向补造本次钢铁项目参数。",
-      "review_evidence_url": "https://www.antaranews.com/berita/5817815/rosan-jajaki-investasi-tekstil-hingga-otomotif-upayakan-terealisasi",
-      "review_coverage": "2026-11-02复查印尼政府转述和Petromindo公开索引；会谈主题可确认，但无项目级投资或产能文件，继续按有限覆盖处理。",
-      "published_date": "2026-10-26",
-      "source_excerpt": "Rosan discusses deeper nickel and stainless steel processing with Tsingshan chairman Petromindo",
+      "review_note_zh": "【已核实的有限事实】商务部贸易救济信息网10月30日编译泰国商业部外贸厅公告：2026年10月22日公告对中国原产PC Strand（预应力钢绞线）启动反倾销调查，涉及泰国税号7312.10.91，利益相关方应于公告发布后30日内提交书面评论及证据。潜在涉案出口商应立即向泰国代理人核实泰文公告的正式公布日、期限起算及问卷安排。【未完成】泰国政府公报原始PDF本次无法读取，不能据转载资料单方面锁定确切的最后提交日期、产品完整边界或问卷期限。保留待原文核验。",
+      "review_evidence_url": "https://cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189638&type=",
+      "review_coverage": "有限覆盖：2026-11-03已读商务部10月30日的逐项编译说明、所列泰国原始PDF及案件登记链接；泰国官方PDF本次无法访问，尚未对泰文全文、法定日期起算和产品范围作独立核验，保持阻塞待办。",
+      "published_date": "2026-10-30",
+      "source_excerpt": "泰国对华预应力钢绞线启动反倾销调查-我的钢铁网 综合资讯 钢材 建筑钢材 热轧 冷轧 中厚板 型钢 钢管 带钢 涂镀 硅钢 钢结构 不锈钢 废不锈钢 铬 镍 有色金属 铜 铝 铅 锌 锡 稀土 锑铋铟 锗镓硒 建筑材料 水泥 混凝土 砂石 矿渣粉 特钢 优特钢 工业线 工模具 金属制品 铁矿石 废钢 煤炭 焦炭 兰炭 铁合金 钢坯 生铁 耐材 海运 新能源 锂 镍 钴 锰 钒 锂电正极 锂电负极 锂电回收 工业硅 光伏材料 能源 原油 天然气 成品油 化工 烯烃 芳烃 甲醇 橡胶 天然橡胶 丁二烯 合成橡胶 农产品 主粮 杂粮 果蔬 棉业 油料 植物油 蛋白饲料 饲料添加剂 淀粉 糖 食品添加剂 猪 鸡 鸭 首页 宏观 大宗 前沿 下游 快讯 期货 专题 报告 数据 指数 当前位置： 综合资讯 > 钢材 > 正文 泰国对华预应力钢绞线启动反倾销调查 2026-10-30 09:34 来源：商务部贸易救济调查局 更多历史数据，上钢联数据 资讯监督 智能摘要 内容由AI生成 2026年10…",
       "needs_translation": false,
-      "title_zh": "Rosan与青山集团董事长讨论深化镍及不锈钢加工",
-      "review_attempted_at": "2026-11-02",
-      "evidence_fingerprint": "e1cc3f17bcf40bc6",
+      "title_zh": "泰国对中国预应力钢绞线启动反倾销调查：商务部转载提示30日陈述窗口",
+      "review_attempted_at": "2026-11-03",
+      "evidence_fingerprint": "42672b6b6139ebb6",
       "related_reviews": [],
-      "retry_after": "2026-11-09T00:00:00+00:00",
+      "retry_after": "2026-11-10T00:00:00+00:00",
       "retry_policy": "scheduled"
     },
     {
-      "id": "021803b722667781c5ff",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDJiWHE4OUlfQXdkQkhDUVQ1RndVSjJBVVNQUVROZUdMS1VWOFpkWEl4MXE5RmFXTzhCbkJSMVhxSWJNTGJBblpjMm81TTk2eFlnZWFhWVhhM3hudFdFQXYtTWl2aktEUUZiMl9WVVlleTlXTmVhZlNmVVlzckVsaTZ5OFlxNGdLZnpTYnRxUE9VTTdnYldFbFBZTGZLQQ?oc=5",
-      "published_at": "2026-10-22T04:54:26Z",
-      "title_original": "The Impact of CBAM’s Extension to Downstream Products on MSMEs",
-      "first_seen": "2026-10-26T13:36:52Z",
-      "last_seen": "2026-10-28T18:31:59Z",
+      "id": "746291a1a4bf408605a3",
+      "url": "https://news.mysteel.com/a/26110215/722BC206CFA1DEAD.html",
+      "published_at": "2026-11-02T00:00:00Z",
+      "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
+      "first_seen": "2026-11-02T22:26:52Z",
+      "last_seen": "2026-11-16T18:09:20Z",
       "source": {
-        "id": "rss",
-        "name": "orfonline.org",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "2026年11月2日再次检索ORF官方研究页、PDF和公开镜像：仍未取得同版全文、图表或模型附件，无法核对产品范围、MSME样本、数据口径、情景假设及建议。欧盟官方材料可确认下游扩围提案仍在立法程序中，但不能替代本条ORF研究全文。",
-      "review_evidence_url": "https://www.orfonline.org/research/the-impact-of-cbam-s-extension-to-downstream-products-on-msmes",
-      "review_coverage": "2026-11-02复查ORF官方页、PDF线索及公开索引；仍无同版全文或附件，欧盟官方立法进展仅作背景，继续待全文核验。",
-      "published_date": "2026-10-22",
-      "source_excerpt": "The Impact of CBAM’s Extension to Downstream Products on MSMEs orfonline.org",
-      "needs_translation": false,
-      "title_zh": "CBAM向下游产品扩围对中小微企业的影响",
-      "review_attempted_at": "2026-11-02",
-      "evidence_fingerprint": "0297e032f71a3d9e",
-      "related_reviews": [],
-      "retry_after": "2026-11-09T00:00:00+00:00",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "087b4e5e227a2838c02a",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12Q05ZYVJaVFU3SU9uWXI4TzdiaWNHejlkVTBreXg2cnNRZVBDdEZUTG02R1U2QUZ4WklTSEYxN1hTWEtkS3RsSXlCNmhJMlcxWjdwVWp5aWFkNXhrVi00R2lIWlI?oc=5",
-      "published_at": "2026-10-21T08:55:29Z",
-      "title_original": "CBAM扩围光伏 碳成本前移至制成品",
-      "first_seen": "2026-10-21T10:37:57Z",
-      "last_seen": "2026-10-28T08:08:25Z",
-      "source": {
-        "id": "rss",
-        "name": "煤炭资源网",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "2026年11月2日复核欧洲议会立法观察站和欧盟理事会CBAM页面：欧洲议会已于9月15日通过修正案并把事项交回委员会开展机构间谈判，立法仍未完成。委员会提案拟自2028年扩围钢铝密集型下游产品，但媒体所称光伏组件最终CN清单或5吨门槛仍无最终法规支持；不得按提案当作已生效范围。",
-      "review_evidence_url": "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1914940",
-      "review_coverage": "2026-11-02复核欧洲议会正式程序摘要、理事会政策页及委员会提案；机构间谈判尚未形成最终法规，光伏具体CN清单和媒体所称门槛仍待最终文本。",
-      "published_date": "2026-10-21",
-      "source_excerpt": "CBAM扩围光伏 碳成本前移至制成品 煤炭资源网",
-      "needs_translation": false,
-      "title_zh": "媒体讨论光伏CBAM扩围：最终清单、门槛及测算仍待官方核验",
-      "review_attempted_at": "2026-11-02",
-      "evidence_fingerprint": "b013a1041526f743",
-      "related_reviews": [],
-      "retry_after": "2026-11-09T00:00:00+00:00",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "a1e86a07574401666599",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWZnWlpmdnplMXBjZk13djExUC0tZ1p5TVpWUmFvN01YRjVVNUlUdTRGOU1xUU5xUVNRcDdyTzRYS2gtMHVZU2FmMm4wTjRINlF4YUw4NWtid3FUYkxaaFhsUEhqaC1fUFdyR2txVzQyR1BqM2dYSWdlVjZiVlhvSDhvczcyV1AwQkkyYW1meFpFSGVZUlV2ZHlQSElGMW1MdTh1Z05TODYtanND?oc=5",
-      "published_at": "2026-10-16T10:03:00Z",
-      "title_original": "In Depth: China’s Green Steel Ambitions Hit a Red Light",
-      "first_seen": "2026-10-19T11:18:32Z",
-      "last_seen": "2026-10-19T11:18:32Z",
-      "source": {
-        "id": "rss",
-        "name": "Caixin Global",
+        "id": "ec_watch_pages",
+        "name": "我的钢铁网（商务部公告转载）",
         "kind": "news",
         "official": false
       },
@@ -1623,20 +579,80 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "2026年11月2日复查财新官方页面及公开索引：仍只能核读标题、作者、导语和开篇段落；付费正文不可读，页面的AI生成要点不能作为原文证据。未找到合法可读的同版全文或足以覆盖全文论据的原始资料。",
-      "review_evidence_url": "https://www.caixinglobal.com/2026-10-16/in-depth-chinas-green-steel-ambitions-hit-a-red-light-102494074.html",
-      "review_coverage": "2026-11-02复查财新官方入口和公开索引；付费正文仍不可读，AI生成要点未计入核验，继续待全文核验。",
-      "published_date": "2026-10-16",
-      "source_excerpt": "In Depth: China’s Green Steel Ambitions Hit a Red Light Caixin Global",
+      "review_note_zh": "【已核实的有限事实】商务部贸易救济信息网11月2日报道：埃及投资和对外贸易部2026年4月1日决定终止对中国和土耳其冷轧、镀锌及彩涂钢材的反倾销调查，不另征该案反倾销税。美国商务部trade.gov另确认埃及自2026年4月2日起对相关产品实施全球保障措施，期限公告至2029年9月13日。因此不能将“终止反倾销”误读为“进口无保障措施税”。【未完成】仍未取得埃及4月1日终止反倾销决定的原始全文及全部税号与个别产品的正式适用说明，继续列为待原文核验。",
+      "review_evidence_url": "https://cacs.mofcom.gov.cn/cacscms/article/ckys?articleId=189657&type=11",
+      "review_coverage": "限定覆盖：2026-11-03阅读全文核对商务部11月2日编译公告，并与美国商务部trade.gov关于埃及保障措施的说明交叉印证；未读埃及2026-04-01反倾销终止决定的原始全文，具体到HS税号及税负仍需埃及主管机关文本确认。",
+      "published_date": "2026-11-02",
+      "source_excerpt": "埃及对涉华冷轧卷、镀锌卷和彩涂卷钢材产品作出反倾销终裁-我的钢铁网 综合资讯 钢材 建筑钢材 热轧 冷轧 中厚板 型钢 钢管 带钢 涂镀 硅钢 钢结构 不锈钢 废不锈钢 铬 镍 有色金属 铜 铝 铅 锌 锡 稀土 锑铋铟 锗镓硒 建筑材料 水泥 混凝土 砂石 矿渣粉 特钢 优特钢 工业线 工模具 金属制品 铁矿石 废钢 煤炭 焦炭 兰炭 铁合金 钢坯 生铁 耐材 海运 新能源 锂 镍 钴 锰 钒 锂电正极 锂电负极 锂电回收 工业硅 光伏材料 能源 原油 天然气 成品油 化工 烯烃 芳烃 甲醇 橡胶 天然橡胶 丁二烯 合成橡胶 农产品 主粮 杂粮 果蔬 棉业 油料 植物油 蛋白饲料 饲料添加剂 淀粉 糖 食品添加剂 猪 鸡 鸭 首页 宏观 大宗 前沿 下游 快讯 期货 专题 报告 数据 指数 当前位置： 综合资讯 > 钢材 > 正文 埃及对涉华冷轧卷、镀锌卷和彩涂卷钢材产品作出反倾销终裁 2026-11-02 15:25 来源：商务部贸易救济调查局 更多历史数据，上钢联数据 资讯监督…",
       "needs_translation": false,
-      "title_zh": "深度：中国绿色钢铁发展雄心遭遇阻力",
-      "review_attempted_at": "2026-11-02",
-      "evidence_fingerprint": "5145876a3641ab43",
+      "title_zh": "埃及对中国冷轧、镀锌和彩涂钢材：4月1日终止反倾销调查，但保障措施仍在实施",
+      "review_attempted_at": "2026-11-03",
+      "evidence_fingerprint": "8a7e6373bd5ed68e",
       "related_reviews": [],
-      "retry_after": "2026-11-09T00:00:00+00:00",
+      "retry_after": "2026-11-10T00:00:00+00:00",
+      "retry_policy": "scheduled"
+    },
+    {
+      "id": "a0b9dcdcc0aa3c3995e9",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CYVN2TGI0Qk9RekpqVlZUd1g4OWtaWURZRmtwMk9ZVGN2TVhtTkV4Q0MtTnBaMGNXZUdGZGNiVVhsRzhnSWVLNGlibFQxYnM1WlBFTFpR?oc=5",
+      "published_at": "2026-11-04T07:55:00Z",
+      "title_original": "1.19亿吨之后：中国钢铁从规模出口转向高端与产能出海",
+      "first_seen": "2026-11-07T13:35:33Z",
+      "last_seen": "2026-11-08T18:06:53Z",
+      "source": {
+        "id": "rss",
+        "name": "QQ News",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "原题涉及2025年中国钢材出口约1.19亿吨、2026年高端化与产能出海，但无法稳定核实本条QQ新闻的原始正文与独立新增数据。相关观点在已核验的中国钢铁高端化文章和另篇搜狐观点中重复，尚不能将本来源直接判作准确重复或原文核验。",
+      "review_evidence_url": "https://gmk.center/en/news/china-s-steel-industry-is-shifting-to-a-quality-driven-growth-model/",
+      "review_coverage": "有限覆盖：2026-11-07搜索标题与行业统计，未取得对应QQ正文；不认定新增法规或独立数值，保留待核验。",
+      "published_date": "2026-11-04",
+      "source_excerpt": "1.19亿吨之后：中国钢铁从规模出口转向高端与产能出海 QQ News",
+      "needs_translation": false,
+      "title_zh": "中国钢铁1.19亿吨出口及产能出海解读：原始转载未取得",
+      "review_attempted_at": "2026-11-07",
+      "evidence_fingerprint": "1e219968939b9dd1",
+      "related_reviews": [],
+      "retry_after": "2026-11-14T00:00:00+00:00",
+      "retry_policy": "scheduled"
+    },
+    {
+      "id": "a522f8e1b8c2564a27c8",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWTXZCWUxFLWgwUmF6TU5OVXVwcFIxX29jU2NHU1hOSGZBVFZRVklJNjZYcXRHdlpOZGFIdXpGamxCcVdXNDJjVWRoYUJUcTZGOFhSYVRJRkJsMDlKM3duMi1KaFZRRFZtakxKOUJZOG5fWkg1VGlydW42d21JZw?oc=5",
+      "published_at": "2026-11-06T09:21:00Z",
+      "title_original": "CBAM Rules for Crediting 3rd Country Carbon Prices",
+      "first_seen": "2026-11-06T14:38:14Z",
+      "last_seen": "2026-11-12T20:29:38Z",
+      "source": {
+        "id": "rss",
+        "name": "Steel and Stainless Steel News",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "部分商业转载称欧盟于2026-11-05正式通过第三国已缴碳价抵扣细则；但本次在EUR-Lex只稳定找到2026-05-13公开征询的执行法规草案，未核实11月5日最终法规编号、OJ发布日期或正式文本。基础制度允许抵扣已实际支付的符合条件碳价，但不能据未核实的转载断言已采纳具体计算及独立认证规则。此事项对钢厂和进口商重要，保留高优先级阻塞。",
+      "review_evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=PI_COM%3AAres%282026%294841230",
+      "review_coverage": "2026-11-07对照欧盟CBAM官方指引、EUR-Lex 2026年5月草案及11月6日商业转载；未核实正式发布的执行法规，不能标为source_checked。",
+      "published_date": "2026-11-06",
+      "source_excerpt": "CBAM Rules for Crediting 3rd Country Carbon Prices Steel and Stainless Steel News",
+      "needs_translation": false,
+      "title_zh": "CBAM第三国已缴碳价抵扣规则",
+      "review_attempted_at": "2026-11-07",
+      "evidence_fingerprint": "d5ed3e07d189a69e",
+      "related_reviews": [],
+      "retry_after": "2026-11-14T00:00:00+00:00",
       "retry_policy": "scheduled"
     }
   ],
-  "retry_due_count": 10,
-  "work_fingerprint": "f75852a9efc92d8fa30d"
+  "retry_due_count": 6,
+  "work_fingerprint": "43bf0330c897bcc75613"
 }
