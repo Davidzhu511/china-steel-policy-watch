@@ -111,5 +111,6 @@
   "warnings": [
     "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/AUTO?uri=CELEX%3A32026R2547"
   ],
-  "translation_updated_at": "2026-11-16T18:12:37Z"
+  "translation_updated_at": "2026-11-16T18:12:37Z",
+  "editorial_updated_at": "2026-11-16T18:13:00Z"
 }
