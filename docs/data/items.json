@@ -6445,6 +6445,14 @@
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
+      },
+      "machine_translation": {
+        "title_zh": "来自印度的碳钢板:初步结果和撤销,载于反补贴税行政审查的一部分;2024",
+        "excerpt_zh": "美国商务部(商务部)初步确定,向印度制成的碳钢法兰(钢条)的生产商和出口商提供了反补贴,审查期为1月1、2024至12月31、2024。此外,商务部正在部分撤销对28公司的这一审查,请有关各方就这些初步结果发表意见。",
+        "fingerprint": "2cc91041302ccb766263ff897b6ffe0d4b687d64b0db64b236b887d5d1acbaa5",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:11:30Z"
       }
     },
     {
@@ -6484,6 +6492,14 @@
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
+      },
+      "machine_translation": {
+        "title_zh": "来自泰国的钢气瓶:反倾销税行政审查的初步结果;2024-2025",
+        "excerpt_zh": "美国商务部(商务部)初步确定,萨哈米特压力容器公共有限公司(又称萨哈米特压力容器Plc.)在审查期间以低于正常价值(NV)出售标的商品,August 1,2024,至7月31,2025。 请感兴趣的各方就这些初步审查结果发表意见。",
+        "fingerprint": "4a74244717f84fc70486eca79a6b70dc1ea114ac57c02c4a9b1d08c524a46d2d",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:11:34Z"
       }
     },
     {
@@ -6523,6 +6539,14 @@
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
+      },
+      "machine_translation": {
+        "title_zh": "来自印度的碳钢板:初步结果和撤销,载于反倾销税行政审查的一部分;2024-2025",
+        "excerpt_zh": "美国商务部(商务部)初步确定,受这一行政审查的生产商和/或出口商在审查期间,在August 1, 2024, 至7月31, 2025之间,销售标的商品的价值低于正常价值(NV)。 此外,我们撤销对27公司的审查。请有关各方就这些初步结果发表意见。",
+        "fingerprint": "dd35a14d5891a3a1b1a672a13241e416965a0b6f02e6eba8be98b214539d4066",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:11:38Z"
       }
     },
     {
@@ -6767,6 +6791,14 @@
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
+      },
+      "machine_translation": {
+        "title_zh": "来自印度的无缝碳和合金钢标准、线和压力管:启动反补贴税调查",
+        "excerpt_zh": "",
+        "fingerprint": "669b688dc5034889b9ab6e2e060d163ef5b8b06d4f1e66bdc98a25b1ef39b518",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:12:07Z"
       }
     },
     {
@@ -6802,14 +6834,14 @@
       "first_seen": "2026-11-06T14:38:14Z",
       "last_seen": "2026-11-16T16:28:58Z",
       "source_excerpt": "News article 6 November 2026 Commission initiates safeguard investigation into imports of PET resin chemicals Today, the Commission initiated a safeguard investigation to assess whether safeguard measures are needed to protect EU industry from a significant increase in imports of polyethylene terephthalate (PET) resin chemicals. 1 min read",
-      "review_disposition": "excluded",
-      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
-      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
-      "review_attempted_at": "2026-11-07",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
+      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
+      "review_attempted_at": "2026-11-07"
     },
     {
       "id": "62b21826651e6cdc87d7",
@@ -6887,6 +6919,14 @@
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
+      },
+      "machine_translation": {
+        "title_zh": "大韩民国圆形焊接非合金钢管:反倾销税行政审查的最后结果;2023-2024",
+        "excerpt_zh": "美国商务部(商业部)确定,现代钢铁公司(现代钢铁)和现代钢管有限公司(HSP)在审查期间以低于正常价值(NV)销售标的商品,11月1、2023,至10月31,2024.商业公司确定Husteel公司(Husteel)在POR期间不以低于NV的价格销售标的商品。",
+        "fingerprint": "cfc2fbf90f0231bc896e772c28bfa7ea99005018c804c03d2ccb4d2920cece37",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:12:16Z"
       }
     },
     {
@@ -6926,6 +6966,14 @@
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
+      },
+      "machine_translation": {
+        "title_zh": "大韩民国的某些切到链的碳质量钢板:反补贴税行政审查的最后结果;2024",
+        "excerpt_zh": "美国商务部(商务部)确定,大韩民国(韩国)某些减量到长碳质量钢板(CTL板)的某些生产商和出口商在审查期间(POR)1月1,2024,至12月31,2024,得到可抵消的补贴。",
+        "fingerprint": "11c31ee02ce9f9e603db3798df7e7d68f77e825dfca2b51340d3871980c91305",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:12:19Z"
       }
     },
     {
@@ -7333,6 +7381,14 @@
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
+      },
+      "machine_translation": {
+        "title_zh": "来自西班牙的预应力混凝土用钢绞线:反倾销税行政审查的最后结果;2024-2025",
+        "excerpt_zh": "美国商务部(商务部)确定,全球特殊钢产品S.A.U. (d.b.a. Trenzas y Cables de Acero PSC, S.L.) (TYCSA) 在审查(POR) 6月 1, 2024, 至5月 31, 2025)期间以低于正常价值(NV) 销售标的商品。",
+        "fingerprint": "f3f4c6e38127edd88e757bb76b9e2c078379f349733cfc0d4154b559bc2dbe12",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:12:33Z"
       }
     },
     {
@@ -7372,6 +7428,14 @@
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
+      },
+      "machine_translation": {
+        "title_zh": "墨西哥标准钢焊接线网:继续执行反倾销和反补贴税命令",
+        "excerpt_zh": "由于美国商务部(商业部)和美国国际贸易委员会(贸易中心)认定,取消关于墨西哥标准焊接钢丝网的反倾销税(AD)和反补贴税(CVD)命令,可能会导致继续或重复倾销和反补贴,并给美国一个行业造成物质损害,因此,商业正在公布一份通知,说明.",
+        "fingerprint": "401562a5ef03fddf46b2639722e9699bb4041a9920fabc164cd736e87941c191",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:12:37Z"
       }
     },
     {
@@ -8386,7 +8450,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T18:09:20Z",
       "last_seen": "2026-11-16T18:09:20Z",
-      "source_excerpt": "EU to impose tariffs on cold-rolled flat steel from five countries Euronext Markets: Real-time Stock Market Data | live"
+      "source_excerpt": "EU to impose tariffs on cold-rolled flat steel from five countries Euronext Markets: Real-time Stock Market Data | live",
+      "machine_translation": {
+        "title_zh": "欧盟对五个国家的冷轧平板钢征收关税",
+        "excerpt_zh": "欧盟对五个国家的冷轧平板钢征收关税",
+        "fingerprint": "106a669f0147533a1fa1fd759a997fce69eba8170ac2f0ccb53d477a23a20c9a",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:11:20Z"
+      }
     },
     {
       "id": "f7bf82375b1b2c0f4f8a",
@@ -8421,7 +8493,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T18:09:20Z",
       "last_seen": "2026-11-16T18:09:20Z",
-      "source_excerpt": "European Commission imposes anti-dumping duties on steel imports Global Banking & Finance Review"
+      "source_excerpt": "European Commission imposes anti-dumping duties on steel imports Global Banking & Finance Review",
+      "machine_translation": {
+        "title_zh": "欧洲联盟委员会对钢进口征收反倾销税",
+        "excerpt_zh": "欧洲联盟委员会对钢铁进口征收反倾销税",
+        "fingerprint": "2a48341a778cb55d244cc5f499df921ac043156b1387324efc426cc085eca66b",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:11:20Z"
+      }
     },
     {
       "id": "7725e380304afd269171",
@@ -8456,7 +8536,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T18:09:20Z",
       "last_seen": "2026-11-16T18:09:20Z",
-      "source_excerpt": "EU imposes anti-dumping duties on steel from Türkiye, 4 other countries | Daily Sabah Daily Sabah"
+      "source_excerpt": "EU imposes anti-dumping duties on steel from Türkiye, 4 other countries | Daily Sabah Daily Sabah",
+      "machine_translation": {
+        "title_zh": "欧盟对来自Türkiye、4其他国家的钢品征收反倾销税",
+        "excerpt_zh": "欧盟对来自Türkiye、4其他国家的钢品征收反倾销税",
+        "fingerprint": "30c99ed122efd098e00b0532bfd922a1e34038983a57ca1078d191d544006468",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:11:21Z"
+      }
     },
     {
       "id": "dc417bbc80334f683d53",
@@ -8491,7 +8579,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T18:09:20Z",
       "last_seen": "2026-11-16T18:09:20Z",
-      "source_excerpt": "China cut steel production by 3.8% m/m in October GMK Center"
+      "source_excerpt": "China cut steel production by 3.8% m/m in October GMK Center",
+      "machine_translation": {
+        "title_zh": "中国10月份用3.8% m/m削减钢生产",
+        "excerpt_zh": "中国于10月用3.8% m/m切割钢材生产",
+        "fingerprint": "7afa60834553cf2e9fafd12da4029537330cb05b49acb59f8a424e8a8d52748e",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:11:22Z"
+      }
     },
     {
       "id": "4d9107995e7ee1643e4f",
@@ -8569,7 +8665,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T18:09:20Z",
       "last_seen": "2026-11-16T18:09:20Z",
-      "source_excerpt": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus GMK Center"
+      "source_excerpt": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus GMK Center",
+      "machine_translation": {
+        "title_zh": "印度尼西亚审查哈萨克斯坦和白俄罗斯的热滚钢反倾销税",
+        "excerpt_zh": "印度尼西亚审查哈萨克斯坦和白俄罗斯GMK中心的热滚钢反倾销税",
+        "fingerprint": "eefdd3e8eeb4e0fffbd2ec0589f45cc4a0ab91b6469dd41dae403c8ad67ea41e",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:11:23Z"
+      }
     },
     {
       "id": "01f28ceb606d203f81d4",
@@ -8604,7 +8708,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T18:09:20Z",
       "last_seen": "2026-11-16T18:09:20Z",
-      "source_excerpt": "Kazakhstan Supports Metals Sector in Adapting to EU CBAM Emissions Rules - News and Statistics IndexBox"
+      "source_excerpt": "Kazakhstan Supports Metals Sector in Adapting to EU CBAM Emissions Rules - News and Statistics IndexBox",
+      "machine_translation": {
+        "title_zh": "哈萨克斯坦支持金属部门适应欧盟CBAM排放规则",
+        "excerpt_zh": "哈萨克斯坦支持金属部门适应欧盟CBAM排放规则----新闻和统计索引框",
+        "fingerprint": "34a4b12d1da0fbaa31a4d76658dc2650c79ba930deb7b1eab1edb06e5c3f6b7a",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:11:24Z"
+      }
     },
     {
       "id": "4886b9d594333fdf0666",
@@ -8639,7 +8751,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T18:09:20Z",
       "last_seen": "2026-11-16T18:09:20Z",
-      "source_excerpt": "Cold-rolled steel imports from five countries face definitive EU antidumping duties MLex"
+      "source_excerpt": "Cold-rolled steel imports from five countries face definitive EU antidumping duties MLex",
+      "machine_translation": {
+        "title_zh": "从五个国家进口的冷轧钢面临明确的欧盟反倾销税",
+        "excerpt_zh": "从五个国家进口的冷轧钢面临欧盟最终反倾销税MLex",
+        "fingerprint": "46fc076e952ce546aec830ea915b333613eed75e2f730b4ced18f412700158e4",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:11:25Z"
+      }
     },
     {
       "id": "6c53143aca4dadf94bb1",
@@ -8717,7 +8837,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T18:09:20Z",
       "last_seen": "2026-11-16T18:09:20Z",
-      "source_excerpt": "EU imposes definitive anti-dumping duties on cold-rolled steel from India, Japan, Taiwan, Türkiye and Vietnam Shanghai Metals Market"
+      "source_excerpt": "EU imposes definitive anti-dumping duties on cold-rolled steel from India, Japan, Taiwan, Türkiye and Vietnam Shanghai Metals Market",
+      "machine_translation": {
+        "title_zh": "欧盟对来自印度、日本、台湾、蒂尔基耶和越南的冷轧钢征收明确的反倾销税",
+        "excerpt_zh": "欧盟对来自印度、日本、台湾、蒂尔基耶和越南的冷轧钢上市实行明确的反倾销税",
+        "fingerprint": "51a5e58442fa03fd7092c090345aee86d09334350e570136e6ed7e85a84e0a04",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:11:26Z"
+      }
     },
     {
       "id": "d40eae05f89c7540cba9",
@@ -9358,7 +9486,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T18:09:20Z",
       "last_seen": "2026-11-16T18:09:20Z",
-      "source_excerpt": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance Reuters"
+      "source_excerpt": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance Reuters",
+      "machine_translation": {
+        "title_zh": "墨西哥说,对亚洲钢铁运输的镇压,随着美国关税谈判的推进,正在得到回报。",
+        "excerpt_zh": "墨西哥说,对亚洲钢铁运输的镇压 正在得到回报,因为美国 关税会谈提前路透社",
+        "fingerprint": "aaa937170ef0ecb1a26e01103bde06c035eaef12cbe32d34f301e339d1e74b33",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:12:03Z"
+      }
     },
     {
       "id": "81914c09ac74ce06210f",
@@ -9432,7 +9568,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T18:09:20Z",
       "last_seen": "2026-11-16T18:09:20Z",
-      "source_excerpt": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement Bloomberg"
+      "source_excerpt": "Ternium Says Mexico Steel Imports Need Strict Tariff Enforcement Bloomberg",
+      "machine_translation": {
+        "title_zh": "墨西哥钢铁进口需要严格的关税执法",
+        "excerpt_zh": "墨西哥钢铁进口需要严格的关税执法,布隆伯格",
+        "fingerprint": "a2f106d14221724a988ec9e509dfc220cc7450c590e58bd27904857e87559e31",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:12:03Z"
+      }
     },
     {
       "id": "f8566a018e3288220a41",
@@ -9505,7 +9649,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T18:09:20Z",
       "last_seen": "2026-11-16T18:09:20Z",
-      "source_excerpt": "Ternium weighs more anti-dumping action in Mexico as steel tensions strain U.S. trade talks Traders Union"
+      "source_excerpt": "Ternium weighs more anti-dumping action in Mexico as steel tensions strain U.S. trade talks Traders Union",
+      "machine_translation": {
+        "title_zh": "由于钢铁紧张使美国贸易谈判紧张,在墨西哥,四合金对反倾销行动的影响更大",
+        "excerpt_zh": "由于钢铁紧张使美国贸易谈判工会紧张,四环公司在墨西哥采取更多的反倾销行动。",
+        "fingerprint": "d7a6fe9c1012868888d58dc2f1d12b82f2bbdeac57c43e4ad96261fdf057fd23",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:12:04Z"
+      }
     },
     {
       "id": "69c4298c5ae3ae4194ae",
@@ -9751,7 +9903,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T18:09:20Z",
       "last_seen": "2026-11-16T18:09:20Z",
-      "source_excerpt": "Saudi Arabia opens anti-dumping probe into steel imports from China, Turkiye Arab News"
+      "source_excerpt": "Saudi Arabia opens anti-dumping probe into steel imports from China, Turkiye Arab News",
+      "machine_translation": {
+        "title_zh": "沙特阿拉伯对从中国进口的钢铁进行反倾销调查,图尔基耶",
+        "excerpt_zh": "沙特阿拉伯对从中国进口的钢铁进行反倾销调查,Turkiye Arab News",
+        "fingerprint": "6f245d2e3a29b23dd665777172b31c95e51615dfbbb7b49d04fe86e5f054a7ae",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T18:12:05Z"
+      }
     },
     {
       "id": "99a9c84f6c36e41f8d4e",

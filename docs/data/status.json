@@ -8,20 +8,25 @@
   "archived_items": 122,
   "verified_items": 272,
   "pending_analysis": 49,
-  "pending_translation": 30,
+  "pending_translation": 10,
   "blocked_items": 14,
   "actionable_count": 35,
   "blocked_count": 14,
   "retry_due_count": 10,
-  "pending_machine_translation": 30,
-  "chinese_title_coverage": 90.7,
+  "pending_machine_translation": 10,
+  "chinese_title_coverage": 96.9,
   "oldest_actionable_hours": 1.7,
   "offline_translation": {
-    "status": "queued",
-    "translated": 0,
-    "warnings": []
+    "status": "partial",
+    "translated": 20,
+    "warnings": [
+      "10 条译文未通过完整性检查，保留原文待重试。"
+    ],
+    "remaining": 10,
+    "attempted_at": "2026-11-16T18:12:37Z",
+    "retry_after": "2026-11-17T00:12:37.022064+00:00"
   },
-  "machine_translated_items": 5,
+  "machine_translated_items": 25,
   "collected_items": 91,
   "processed_items": 28,
   "deferred_items": 0,
@@ -105,5 +110,6 @@
   ],
   "warnings": [
     "正文摘录 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/AUTO?uri=CELEX%3A32026R2547"
-  ]
+  ],
+  "translation_updated_at": "2026-11-16T18:12:37Z"
 }
