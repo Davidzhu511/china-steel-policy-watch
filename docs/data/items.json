@@ -6987,14 +6987,14 @@
       "first_seen": "2026-11-06T14:38:14Z",
       "last_seen": "2026-11-16T16:28:58Z",
       "source_excerpt": "News article 6 November 2026 Commission initiates safeguard investigation into imports of PET resin chemicals Today, the Commission initiated a safeguard investigation to assess whether safeguard measures are needed to protect EU industry from a significant increase in imports of polyethylene terephthalate (PET) resin chemicals. 1 min read",
-      "review_disposition": "excluded",
-      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
-      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
-      "review_attempted_at": "2026-11-07",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
+      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
+      "review_attempted_at": "2026-11-07"
     },
     {
       "id": "102690e3f2b920c6fae2",
@@ -8621,7 +8621,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T22:34:04Z",
       "last_seen": "2026-11-16T22:34:04Z",
-      "source_excerpt": "EU anti-dumping duties on Indian steel: JSW Steel, Tata Steel face 9.5% tariff BusinessLine"
+      "source_excerpt": "EU anti-dumping duties on Indian steel: JSW Steel, Tata Steel face 9.5% tariff BusinessLine",
+      "machine_translation": {
+        "title_zh": "欧盟对印度钢的反倾销税:JSW钢,Tata钢面9.5%关税",
+        "excerpt_zh": "欧盟对印度钢的反倾销税:JSW钢、Tata钢脸9.5%关税",
+        "fingerprint": "50374aa1ae3726a5e23f6ec4814bbafa0f8ce7e0725b4d4ca40441e59d2b3143",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T22:36:02Z"
+      }
     },
     {
       "id": "a70239449bc6308223a0",
@@ -8656,7 +8664,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T22:34:04Z",
       "last_seen": "2026-11-16T22:34:04Z",
-      "source_excerpt": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam Reuters"
+      "source_excerpt": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam Reuters",
+      "machine_translation": {
+        "title_zh": "欧盟对来自印度、日本、台湾、土耳其、越南的钢铁实行关税。",
+        "excerpt_zh": "欧盟对来自印度、日本、台湾、土耳其、越南的钢铁征收关税",
+        "fingerprint": "0f67709b3994db79d176298e8c068a5626fa00e9ea0be460528cb07ec51a2ac2",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T22:36:03Z"
+      }
     },
     {
       "id": "9383c9ae73c642beeadf",
@@ -8835,7 +8851,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T22:34:04Z",
       "last_seen": "2026-11-16T22:34:04Z",
-      "source_excerpt": "EU imposes anti-dumping duties on cold-rolled steel imports from five countries, including Türkiye SteelRadar"
+      "source_excerpt": "EU imposes anti-dumping duties on cold-rolled steel imports from five countries, including Türkiye SteelRadar",
+      "machine_translation": {
+        "title_zh": "欧盟对来自包括蒂尔基耶在内的五个国家的冷轧钢进口品征收反倾销税",
+        "excerpt_zh": "欧盟对来自5个国家的冷轧钢进口征收反倾销税,包括Türkiye SteelRadar",
+        "fingerprint": "bb140b00399c2b6d43e8bda252f63f3d904a14a95ef698493fd2372ce33c8bb5",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T22:36:03Z"
+      }
     },
     {
       "id": "dc417bbc80334f683d53",
@@ -9095,7 +9119,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T22:34:04Z",
       "last_seen": "2026-11-16T22:34:04Z",
-      "source_excerpt": "Kazakhstan’s exporters are being prepared to operate under CBAM GMK Center"
+      "source_excerpt": "Kazakhstan’s exporters are being prepared to operate under CBAM GMK Center",
+      "machine_translation": {
+        "title_zh": "哈萨克斯坦的出口商正准备在CBAM下经营",
+        "excerpt_zh": "哈萨克斯坦的出口商正在准备在CBAM GMK中心下运营",
+        "fingerprint": "08dea7cec2d58729e2af05196926cec2b525518160286feb02731c6d5f1a0683",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T22:36:04Z"
+      }
     },
     {
       "id": "4886b9d594333fdf0666",
