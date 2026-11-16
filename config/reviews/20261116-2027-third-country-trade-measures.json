@@ -1,0 +1,541 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-16T19:27:43Z",
+  "translations": [
+    {
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2547",
+      "published_date": "2026-11-15",
+      "title_original": "Commission Implementing Regulation (EU) 2026/2547 of 13 November 2026 imposing a definitive anti-dumping duty on imports of certain cold-rolled flat steel products originating in India, Japan, Taiwan, Türkiye and Vietnam",
+      "title_zh": "欧盟2026/2547号实施条例：对印度、日本、台湾地区、土耳其和越南部分冷轧板材征收最终反倾销税",
+      "translated_at": "2026-11-16T19:27:43Z"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2498",
+      "published_date": "2026-11-15",
+      "title_original": "Commission Implementing Regulation (EU) 2026/2498 of 5 November 2026 laying down rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards the conversion of the carbon price paid in a third country into a corresponding reduction in the number of CBAM certificates to be surrendered, the evidence of payment of that carbon price, the qualifications of the independent person and conditions to ascertain its independence and qualifications",
+      "title_zh": "欧盟2026/2498号实施条例：规定第三国已付碳价折抵CBAM证书的换算、支付证据及独立核证人员要求",
+      "translated_at": "2026-11-16T19:27:43Z"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/16/2026-23277/steel-concrete-reinforcing-bar-from-mexico-final-results-of-antidumping-duty-administrative-review",
+      "published_date": "2026-11-16",
+      "title_original": "Steel Concrete Reinforcing Bar From Mexico: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "title_zh": "美国对墨西哥混凝土钢筋反倾销行政复审终裁（2023—2024年度）",
+      "translated_at": "2026-11-16T19:27:43Z"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/16/2026-23272/carbon-and-alloy-steel-threaded-rod-from-india-final-results-of-antidumping-duty-administrative",
+      "published_date": "2026-11-16",
+      "title_original": "Carbon and Alloy Steel Threaded Rod From India: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+      "title_zh": "美国对印度碳钢及合金钢螺纹杆反倾销行政复审终裁（2024—2025年度）",
+      "translated_at": "2026-11-16T19:27:43Z"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/13/2026-23083/stainless-steel-bar-from-india-final-results-of-antidumping-duty-administrative-review-2024-2025",
+      "published_date": "2026-11-13",
+      "title_original": "Stainless Steel Bar From India: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+      "title_zh": "美国对印度不锈钢棒材反倾销行政复审终裁（2024—2025年度）",
+      "translated_at": "2026-11-16T19:27:43Z"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/06/2026-22706/certain-carbon-and-alloy-steel-cut-to-length-plate-from-the-republic-of-korea-notice-of-court",
+      "published_date": "2026-11-06",
+      "title_original": "Certain Carbon and Alloy Steel Cut-to-Length Plate From the Republic of Korea: Notice of Court Decision Not in Harmony With the Results of Countervailing Duty Administrative Review; Notice of Amended Final Results",
+      "title_zh": "美国对韩国定尺碳钢及合金钢板反补贴复审：法院判决与原结果不一致，商务部修订终裁",
+      "translated_at": "2026-11-16T19:27:43Z"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/02/2026-22351/corrosion-resistant-steel-products-from-mexico-notice-of-court-decision-not-in-harmony-with-the",
+      "published_date": "2026-11-02",
+      "title_original": "Corrosion-Resistant Steel Products From Mexico: Notice of Court Decision Not in Harmony With the Final Determination of Antidumping Duty Investigation; Notice of Amended Final Determination; Notice of Amended Antidumping Duty Order, in Part",
+      "title_zh": "美国对墨西哥耐腐蚀钢产品反倾销调查：法院判决后部分修订终裁及反倾销令",
+      "translated_at": "2026-11-16T19:27:43Z"
+    },
+    {
+      "url": "https://gov.uk/government/publications/reporting-the-country-of-melt-and-pour-for-certain-steel-imports",
+      "published_date": "2026-11-16",
+      "title_original": "Reporting the country of melt and pour for certain steel imports",
+      "title_zh": "英国：部分钢铁进口货物的熔炼和浇铸国家申报要求",
+      "translated_at": "2026-11-16T19:27:43Z"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/10/26/2026-21790/heavy-walled-rectangular-welded-carbon-steel-pipes-and-tubes-from-mexico-initiation-and-expedited",
+      "published_date": "2026-10-26",
+      "title_original": "Heavy-Walled Rectangular Welded Carbon Steel Pipes and Tubes From Mexico: Initiation and Expedited Preliminary Results of Changed Circumstances Review",
+      "title_zh": "美国对墨西哥厚壁矩形焊接碳钢管启动情势变更复审并发布快速初裁",
+      "translated_at": "2026-11-16T19:27:43Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0RkbWhEYmZidmVIUHk5Nk1SU0V5dnRLeGJSVnBHNG1yNGkya014dkVoVklJQnExRnJZNDF3SWJtWGI1eEdzVnhlZS1DeWVMeTF5SGFqYzdLMlZPQkk2MkZjUmVEWlllUGpZOXRyaktoc3lNenBBazNpU0Z2MXo0UmZRbWpQYmVQemhIVEhtbWZVVHlsS191bFF5b2F2WjRrdkpiTlpTM1BLVEY3S3RyYk9TclMzb0RETzlLMXRZTC1RT0FxZDBuRHFQbEhmQ0tpR3d2MGgyZjlwVXBpMlNFNktCejBoa1VKM0HSAeoBQVVfeXFMTlNEZG1oRGJmYnZlSFB5OTZNUlNFeXZ0S3hiUlZwRzRtcjRpMmtNeHZFaFZJSUJxMUZyWTQxd0libVhiNXhHc1Z4ZWUtQ3llTHkxeUhhamM3SzJWT0JJNjJGY1JlRFpZZVBqWTl0cmpLaHN5TXpwQWszaVNGdjF6NFJmUW1qUGJlUHpoSFRIbW1mVVR5bEtfdWxReW9hdlo0a3ZKYk5aUzNQS1RGN0t0cmJPU3JTM29ERE85SzF0WUwtUU9BcWQwbkRxUGxIZkNLaUd3djBoMmY5cFVwaTJTRTZLQnowaGtVSjNB?oc=5",
+      "published_date": "2026-11-15",
+      "title_original": "Isometric launches Ready for CBAM to prepare iron and steel exporters for verification",
+      "title_zh": "Isometric推出Ready for CBAM服务，协助钢铁出口商准备排放核查",
+      "translated_at": "2026-11-16T19:27:43Z"
+    }
+  ],
+  "editorial": [
+    {
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2547",
+      "published_date": "2026-11-15",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "欧盟2026/2547号实施条例：对印度、日本、台湾地区、土耳其和越南部分冷轧板材征收最终反倾销税",
+      "title_en": "Commission Implementing Regulation (EU) 2026/2547 of 13 November 2026 imposing a definitive anti-dumping duty on imports of certain cold-rolled flat steel products originating in India, Japan, Taiwan, Türkiye and Vietnam",
+      "summary_zh": "欧盟官方公报题名显示2026/2547号实施条例于11月13日签署，针对原产印度、日本、台湾地区、土耳其和越南的部分冷轧扁平钢材作出最终反倾销措施。当前仅能核实法规标题，具体企业税率、排除项、CN编码及生效日未从正文核实。",
+      "summary_en": "EU official title records definitive anti-dumping duties on certain cold-rolled flats from five non-China origins; rates and exclusions require full-text verification.",
+      "impact_zh": "竞争来源可能面临额外进口成本，给中国同类钢材创造潜在报价空间，但中国自身贸易救济、配额和CBAM义务不因此豁免。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2547",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "",
+      "review_status": "limited",
+      "follow_up": "优先取得欧盟2026/2547号条例正文，核对五地企业税率、产品CN编码、排除项和生效日。"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2498",
+      "published_date": "2026-11-15",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "欧盟2026/2498号实施条例：规定第三国已付碳价折抵CBAM证书的换算、支付证据及独立核证人员要求",
+      "title_en": "Commission Implementing Regulation (EU) 2026/2498 of 5 November 2026 laying down rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards the conversion of the carbon price paid in a third country into a corresponding reduction in the number of CBAM certificates to be surrendered, the evidence of payment of that carbon price, the qualifications of the independent person and conditions to ascertain its independence and qualifications",
+      "summary_zh": "欧盟官方公报题名显示2026/2498号实施条例规定第三国已付碳价转换为CBAM证书减交数量的计算、付款证明以及独立人员资质和独立性条件。未取得全文，不能确认计算公式和具体材料期限。",
+      "summary_en": "EU official title establishes a CBAM third-country carbon-price deduction evidence and verifier framework; detailed calculation is not yet verified.",
+      "impact_zh": "中国钢厂如主张境内实际已付碳价抵扣，应与进口商准备可审计付款凭证，不能把碳市场名义价格等同于实际可抵扣额。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2498",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "",
+      "review_status": "limited",
+      "follow_up": "取得欧盟2026/2498号条例正文核对抵扣算法和核证资格。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/16/2026-23270/finished-carbon-steel-flanges-from-india-preliminary-results-and-rescission-in-part-of",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "来自印度的碳钢板:初步结果和撤销,载于反补贴税行政审查的一部分;2024",
+      "title_en": "Finished Carbon Steel Flanges From India: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024",
+      "summary_zh": "美国联邦公报于2026-11-16公布《Finished Carbon Steel Flanges From India: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024》。可读官方摘录：The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies were provided to producers and exporters of finished carbon steel flanges (steel flanges) from India. The period of review (POR) is January 1, 2024, through December 31, 2024. In addition, Commerce is rescinding this review, in part, with respect to 28 companies. Interested parties are invited to comment on these preliminary results.",
+      "summary_en": "US Federal Register title/excerpt identifies a trade-remedy proceeding involving Finished Carbon Steel Flanges From India: Preliminary Results and Rescission, in Part, of Countervailing Duty Administrative Review; 2024; rates and detailed scope are not verified.",
+      "impact_zh": "涉及第三国来源钢材在美国市场的贸易救济成本和竞争格局；对中国钢材的替代效应取决于中国自身税令、产品可替代性及进口商采购资格，不能推定自动获益。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://federalregister.gov/documents/2026/11/16/2026-23270/finished-carbon-steel-flanges-from-india-preliminary-results-and-rescission-in-part-of",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies were provided to producers and exporters of finished carbon steel flanges (steel flanges) from India. The period of review (POR) is January 1, 2024, through December 31, 2024. In addition, Commerce is rescinding this review, in part, with respect to 28 companies. Interested parties are invited to comment on these preliminary results.",
+      "review_status": "limited",
+      "follow_up": "核对联邦公报正文中的公司税率、适用期间、申诉期限与产品范围。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/16/2026-23266/steel-propane-cylinders-from-thailand-preliminary-results-of-antidumping-duty-administrative-review",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "来自泰国的钢气瓶:反倾销税行政审查的初步结果;2024-2025",
+      "title_en": "Steel Propane Cylinders From Thailand: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025",
+      "summary_zh": "美国联邦公报于2026-11-16公布《Steel Propane Cylinders From Thailand: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025》。可读官方摘录：The U.S. Department of Commerce (Commerce) preliminarily determines that Sahamitr Pressure Container Public Company Limited (also known as Sahamitr Pressure Container Plc.) (SMPC) made sales of subject merchandise at less than normal value (NV) during the period of review (POR), August 1, 2024, through July 31, 2025. Interested parties are invited to comment on these preliminary results of review.",
+      "summary_en": "US Federal Register title/excerpt identifies a trade-remedy proceeding involving Steel Propane Cylinders From Thailand: Preliminary Results of Antidumping Duty Administrative Review; 2024-2025; rates and detailed scope are not verified.",
+      "impact_zh": "涉及第三国来源钢材在美国市场的贸易救济成本和竞争格局；对中国钢材的替代效应取决于中国自身税令、产品可替代性及进口商采购资格，不能推定自动获益。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://federalregister.gov/documents/2026/11/16/2026-23266/steel-propane-cylinders-from-thailand-preliminary-results-of-antidumping-duty-administrative-review",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines that Sahamitr Pressure Container Public Company Limited (also known as Sahamitr Pressure Container Plc.) (SMPC) made sales of subject merchandise at less than normal value (NV) during the period of review (POR), August 1, 2024, through July 31, 2025. Interested parties are invited to comment on these preliminary results of review.",
+      "review_status": "limited",
+      "follow_up": "核对联邦公报正文中的公司税率、适用期间、申诉期限与产品范围。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/16/2026-23278/finished-carbon-steel-flanges-from-india-preliminary-results-and-rescission-in-part-of-antidumping",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "来自印度的碳钢板:初步结果和撤销,载于反倾销税行政审查的一部分;2024-2025",
+      "title_en": "Finished Carbon Steel Flanges From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
+      "summary_zh": "美国联邦公报于2026-11-16公布《Finished Carbon Steel Flanges From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025》。可读官方摘录：The U.S. Department of Commerce (Commerce) preliminarily determines that producers and/or exporters subject to this administrative review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), August 1, 2024, through July 31, 2025. In addition, we are rescinding the review with respect to 27 companies. Interested parties are invited to comment on these preliminary results.",
+      "summary_en": "US Federal Register title/excerpt identifies a trade-remedy proceeding involving Finished Carbon Steel Flanges From India: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025; rates and detailed scope are not verified.",
+      "impact_zh": "涉及第三国来源钢材在美国市场的贸易救济成本和竞争格局；对中国钢材的替代效应取决于中国自身税令、产品可替代性及进口商采购资格，不能推定自动获益。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://federalregister.gov/documents/2026/11/16/2026-23278/finished-carbon-steel-flanges-from-india-preliminary-results-and-rescission-in-part-of-antidumping",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines that producers and/or exporters subject to this administrative review made sales of subject merchandise at less than normal value (NV) during the period of review (POR), August 1, 2024, through July 31, 2025. In addition, we are rescinding the review with respect to 27 companies. Interested parties are invited to comment on these preliminary results.",
+      "review_status": "limited",
+      "follow_up": "核对联邦公报正文中的公司税率、适用期间、申诉期限与产品范围。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/16/2026-23277/steel-concrete-reinforcing-bar-from-mexico-final-results-of-antidumping-duty-administrative-review",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "美国对墨西哥混凝土钢筋反倾销行政复审终裁（2023—2024年度）",
+      "title_en": "Steel Concrete Reinforcing Bar From Mexico: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "summary_zh": "美国联邦公报于2026-11-16公布《Steel Concrete Reinforcing Bar From Mexico: Final Results of Antidumping Duty Administrative Review; 2023-2024》。可读官方摘录：The U.S. Department of Commerce (Commerce) determines that Deacero S.A.P.I. de C.V., I.N.G.E.T.E.K.N.O.S. Estructurales, S.A. de C.V., and Aceros Turia S.A. de C.V. (collectively, Deacero Group) sold steel concrete reinforcing bar (rebar) from Mexico in the United States at less than normal value during the period of review (POR), November 1, 2023, through October 31, 2024.",
+      "summary_en": "US Federal Register title/excerpt identifies a trade-remedy proceeding involving Steel Concrete Reinforcing Bar From Mexico: Final Results of Antidumping Duty Administrative Review; 2023-2024; rates and detailed scope are not verified.",
+      "impact_zh": "涉及第三国来源钢材在美国市场的贸易救济成本和竞争格局；对中国钢材的替代效应取决于中国自身税令、产品可替代性及进口商采购资格，不能推定自动获益。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://federalregister.gov/documents/2026/11/16/2026-23277/steel-concrete-reinforcing-bar-from-mexico-final-results-of-antidumping-duty-administrative-review",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that Deacero S.A.P.I. de C.V., I.N.G.E.T.E.K.N.O.S. Estructurales, S.A. de C.V., and Aceros Turia S.A. de C.V. (collectively, Deacero Group) sold steel concrete reinforcing bar (rebar) from Mexico in the United States at less than normal value during the period of review (POR), November 1, 2023, through October 31, 2024.",
+      "review_status": "limited",
+      "follow_up": "核对联邦公报正文中的公司税率、适用期间、申诉期限与产品范围。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/16/2026-23272/carbon-and-alloy-steel-threaded-rod-from-india-final-results-of-antidumping-duty-administrative",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "美国对印度碳钢及合金钢螺纹杆反倾销行政复审终裁（2024—2025年度）",
+      "title_en": "Carbon and Alloy Steel Threaded Rod From India: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+      "summary_zh": "美国联邦公报于2026-11-16公布《Carbon and Alloy Steel Threaded Rod From India: Final Results of Antidumping Duty Administrative Review; 2024-2025》。可读官方摘录：The U.S. Department of Commerce (Commerce) determines that carbon and alloy steel threaded rod (steel threaded rod) from India was sold in the United States at prices below normal value during the period of review (POR) April 1, 2024, through March 31, 2025.",
+      "summary_en": "US Federal Register title/excerpt identifies a trade-remedy proceeding involving Carbon and Alloy Steel Threaded Rod From India: Final Results of Antidumping Duty Administrative Review; 2024-2025; rates and detailed scope are not verified.",
+      "impact_zh": "涉及第三国来源钢材在美国市场的贸易救济成本和竞争格局；对中国钢材的替代效应取决于中国自身税令、产品可替代性及进口商采购资格，不能推定自动获益。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://federalregister.gov/documents/2026/11/16/2026-23272/carbon-and-alloy-steel-threaded-rod-from-india-final-results-of-antidumping-duty-administrative",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that carbon and alloy steel threaded rod (steel threaded rod) from India was sold in the United States at prices below normal value during the period of review (POR) April 1, 2024, through March 31, 2025.",
+      "review_status": "limited",
+      "follow_up": "核对联邦公报正文中的公司税率、适用期间、申诉期限与产品范围。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/13/2026-23083/stainless-steel-bar-from-india-final-results-of-antidumping-duty-administrative-review-2024-2025",
+      "published_date": "2026-11-13",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "美国对印度不锈钢棒材反倾销行政复审终裁（2024—2025年度）",
+      "title_en": "Stainless Steel Bar From India: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+      "summary_zh": "美国联邦公报于2026-11-13公布《Stainless Steel Bar From India: Final Results of Antidumping Duty Administrative Review; 2024-2025》。可读官方摘录：The U.S. Department of Commerce (Commerce) determines that producers and/or exporters subject to this administrative review made sales of stainless steel bar from India at prices below normal value during the period of review (POR) February 1, 2024, through January 31, 2025.",
+      "summary_en": "US Federal Register title/excerpt identifies a trade-remedy proceeding involving Stainless Steel Bar From India: Final Results of Antidumping Duty Administrative Review; 2024-2025; rates and detailed scope are not verified.",
+      "impact_zh": "涉及第三国来源钢材在美国市场的贸易救济成本和竞争格局；对中国钢材的替代效应取决于中国自身税令、产品可替代性及进口商采购资格，不能推定自动获益。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://federalregister.gov/documents/2026/11/13/2026-23083/stainless-steel-bar-from-india-final-results-of-antidumping-duty-administrative-review-2024-2025",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that producers and/or exporters subject to this administrative review made sales of stainless steel bar from India at prices below normal value during the period of review (POR) February 1, 2024, through January 31, 2025.",
+      "review_status": "limited",
+      "follow_up": "核对联邦公报正文中的公司税率、适用期间、申诉期限与产品范围。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/09/2026-22836/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-india-initiation-of",
+      "published_date": "2026-11-09",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "来自印度的无缝碳和合金钢标准、线和压力管:启动反补贴税调查",
+      "title_en": "Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From India: Initiation of Countervailing Duty Investigation",
+      "summary_zh": "美国联邦公报于2026-11-09刊载《Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From India: Initiation of Countervailing Duty Investigation》。本轮只核对官方标题，未取得可核对税率和企业差异的完整正文。",
+      "summary_en": "US Federal Register title/excerpt identifies a trade-remedy proceeding involving Seamless Carbon and Alloy Steel Standard, Line, and Pressure Pipe From India: Initiation of Countervailing Duty Investigation; rates and detailed scope are not verified.",
+      "impact_zh": "涉及第三国来源钢材在美国市场的贸易救济成本和竞争格局；对中国钢材的替代效应取决于中国自身税令、产品可替代性及进口商采购资格，不能推定自动获益。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://federalregister.gov/documents/2026/11/09/2026-22836/seamless-carbon-and-alloy-steel-standard-line-and-pressure-pipe-from-india-initiation-of",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "",
+      "review_status": "limited",
+      "follow_up": "核对联邦公报正文中的公司税率、适用期间、申诉期限与产品范围。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/06/2026-22706/certain-carbon-and-alloy-steel-cut-to-length-plate-from-the-republic-of-korea-notice-of-court",
+      "published_date": "2026-11-06",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "美国对韩国定尺碳钢及合金钢板反补贴复审：法院判决与原结果不一致，商务部修订终裁",
+      "title_en": "Certain Carbon and Alloy Steel Cut-to-Length Plate From the Republic of Korea: Notice of Court Decision Not in Harmony With the Results of Countervailing Duty Administrative Review; Notice of Amended Final Results",
+      "summary_zh": "美国联邦公报于2026-11-06公布《Certain Carbon and Alloy Steel Cut-to-Length Plate From the Republic of Korea: Notice of Court Decision Not in Harmony With the Results of Countervailing Duty Administrative Review; Notice of Amended Final Results》。可读官方摘录：On October 27, 2026, the U.S. Court of International Trade (CIT) issued its final judgment in POSCO v. United States Consol. Court No. 24-00006, Slip Op. 26-131, sustaining the U.S. Department of Commerce (Commerce)'s second remand results pertaining to the administrative review of the countervailing duty (CVD) order on of certain carbon and alloy steel cut-to-length plate (CTL Plate) from the Republic of Korea (Korea) covering the period January 1, 2021, through December 31, 2021. Commerce is notifying the public that the CIT's final judgment is not in harmony with Commerce's final results o…",
+      "summary_en": "US Federal Register title/excerpt identifies a trade-remedy proceeding involving Certain Carbon and Alloy Steel Cut-to-Length Plate From the Republic of Korea: Notice of Court Decision Not in Harmony With the Results of Countervailing Duty Administrative Review; Notice of Amended Final Results; rates and detailed scope are not verified.",
+      "impact_zh": "涉及第三国来源钢材在美国市场的贸易救济成本和竞争格局；对中国钢材的替代效应取决于中国自身税令、产品可替代性及进口商采购资格，不能推定自动获益。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://federalregister.gov/documents/2026/11/06/2026-22706/certain-carbon-and-alloy-steel-cut-to-length-plate-from-the-republic-of-korea-notice-of-court",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "On October 27, 2026, the U.S. Court of International Trade (CIT) issued its final judgment in POSCO v. United States Consol. Court No. 24-00006, Slip Op. 26-131, sustaining the U.S. Department of Commerce (Commerce)'s second remand results pertaining to the administrative review of the countervailing duty (CVD) order on of certain carbon and alloy steel cut-to-length plate (CTL Plate) from the Republic of Korea (Korea) covering the period January 1, 2021, through December 31, 2021. Commerce is notifying the public that the CIT's final judgment is not in harmony with Commerce's final results o…",
+      "review_status": "limited",
+      "follow_up": "核对联邦公报正文中的公司税率、适用期间、申诉期限与产品范围。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/05/2026-22630/circular-welded-non-alloy-steel-pipe-from-the-republic-of-korea-final-results-of-antidumping-duty",
+      "published_date": "2026-11-05",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "大韩民国圆形焊接非合金钢管:反倾销税行政审查的最后结果;2023-2024",
+      "title_en": "Circular Welded Non-Alloy Steel Pipe From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "summary_zh": "美国联邦公报于2026-11-05公布《Circular Welded Non-Alloy Steel Pipe From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024》。可读官方摘录：The U.S. Department of Commerce (Commerce) determines that Hyundai Steel Company (Hyundai Steel) and Hyundai Steel Pipe Co., Ltd. (HSP) made sales of subject merchandise at less than normal value (NV) during the period of review (POR), November 1, 2023, through October 31, 2024. Commerce determines that Husteel Co., Ltd. (Husteel) did not make sales of subject merchandise at less than NV during the POR.",
+      "summary_en": "US Federal Register title/excerpt identifies a trade-remedy proceeding involving Circular Welded Non-Alloy Steel Pipe From the Republic of Korea: Final Results of Antidumping Duty Administrative Review; 2023-2024; rates and detailed scope are not verified.",
+      "impact_zh": "涉及第三国来源钢材在美国市场的贸易救济成本和竞争格局；对中国钢材的替代效应取决于中国自身税令、产品可替代性及进口商采购资格，不能推定自动获益。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://federalregister.gov/documents/2026/11/05/2026-22630/circular-welded-non-alloy-steel-pipe-from-the-republic-of-korea-final-results-of-antidumping-duty",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that Hyundai Steel Company (Hyundai Steel) and Hyundai Steel Pipe Co., Ltd. (HSP) made sales of subject merchandise at less than normal value (NV) during the period of review (POR), November 1, 2023, through October 31, 2024. Commerce determines that Husteel Co., Ltd. (Husteel) did not make sales of subject merchandise at less than NV during the POR.",
+      "review_status": "limited",
+      "follow_up": "核对联邦公报正文中的公司税率、适用期间、申诉期限与产品范围。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/05/2026-22626/certain-cut-to-length-carbon-quality-steel-plate-from-the-republic-of-korea-final-results-of",
+      "published_date": "2026-11-05",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "大韩民国的某些切到链的碳质量钢板:反补贴税行政审查的最后结果;2024",
+      "title_en": "Certain Cut-To-Length Carbon-Quality Steel Plate From the Republic of Korea: Final Results of Countervailing Duty Administrative Review; 2024",
+      "summary_zh": "美国联邦公报于2026-11-05公布《Certain Cut-To-Length Carbon-Quality Steel Plate From the Republic of Korea: Final Results of Countervailing Duty Administrative Review; 2024》。可读官方摘录：The U.S. Department of Commerce (Commerce) determines that certain producers and exporters of certain cut-to-length carbon-quality steel plate (CTL plate) from the Republic of Korea (Korea) received countervailable subsidies during the period of review (POR) January 1, 2024, through December 31, 2024.",
+      "summary_en": "US Federal Register title/excerpt identifies a trade-remedy proceeding involving Certain Cut-To-Length Carbon-Quality Steel Plate From the Republic of Korea: Final Results of Countervailing Duty Administrative Review; 2024; rates and detailed scope are not verified.",
+      "impact_zh": "涉及第三国来源钢材在美国市场的贸易救济成本和竞争格局；对中国钢材的替代效应取决于中国自身税令、产品可替代性及进口商采购资格，不能推定自动获益。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://federalregister.gov/documents/2026/11/05/2026-22626/certain-cut-to-length-carbon-quality-steel-plate-from-the-republic-of-korea-final-results-of",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that certain producers and exporters of certain cut-to-length carbon-quality steel plate (CTL plate) from the Republic of Korea (Korea) received countervailable subsidies during the period of review (POR) January 1, 2024, through December 31, 2024.",
+      "review_status": "limited",
+      "follow_up": "核对联邦公报正文中的公司税率、适用期间、申诉期限与产品范围。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/02/2026-22351/corrosion-resistant-steel-products-from-mexico-notice-of-court-decision-not-in-harmony-with-the",
+      "published_date": "2026-11-02",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "美国对墨西哥耐腐蚀钢产品反倾销调查：法院判决后部分修订终裁及反倾销令",
+      "title_en": "Corrosion-Resistant Steel Products From Mexico: Notice of Court Decision Not in Harmony With the Final Determination of Antidumping Duty Investigation; Notice of Amended Final Determination; Notice of Amended Antidumping Duty Order, in Part",
+      "summary_zh": "美国联邦公报于2026-11-02公布《Corrosion-Resistant Steel Products From Mexico: Notice of Court Decision Not in Harmony With the Final Determination of Antidumping Duty Investigation; Notice of Amended Final Determination; Notice of Amended Antidumping Duty Order, in Part》。可读官方摘录：On October 19, 2026, the U.S. Court of International Trade (CIT) issued its final judgment in Galvasid S.A. De C.V., v. United States, Slip Op. 26-128, Consol. Court no. 25-00235, sustaining the U.S. Department of Commerce's (Commerce) first remand redetermination pertaining to the less-than-fair-value (LTFV) investigation of corrosion-resistant steel products (CORE) from Mexico covering the period of investigation July 1, 2023, through June 30, 2024. Commerce is notifying the public that the CIT's final judgment is not in harmony with Commerce's final determination in that investigation, and…",
+      "summary_en": "US Federal Register title/excerpt identifies a trade-remedy proceeding involving Corrosion-Resistant Steel Products From Mexico: Notice of Court Decision Not in Harmony With the Final Determination of Antidumping Duty Investigation; Notice of Amended Final Determination; Notice of Amended Antidumping Duty Order, in Part; rates and detailed scope are not verified.",
+      "impact_zh": "涉及第三国来源钢材在美国市场的贸易救济成本和竞争格局；对中国钢材的替代效应取决于中国自身税令、产品可替代性及进口商采购资格，不能推定自动获益。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://federalregister.gov/documents/2026/11/02/2026-22351/corrosion-resistant-steel-products-from-mexico-notice-of-court-decision-not-in-harmony-with-the",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "On October 19, 2026, the U.S. Court of International Trade (CIT) issued its final judgment in Galvasid S.A. De C.V., v. United States, Slip Op. 26-128, Consol. Court no. 25-00235, sustaining the U.S. Department of Commerce's (Commerce) first remand redetermination pertaining to the less-than-fair-value (LTFV) investigation of corrosion-resistant steel products (CORE) from Mexico covering the period of investigation July 1, 2023, through June 30, 2024. Commerce is notifying the public that the CIT's final judgment is not in harmony with Commerce's final determination in that investigation, and…",
+      "review_status": "limited",
+      "follow_up": "核对联邦公报正文中的公司税率、适用期间、申诉期限与产品范围。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/10/26/2026-21791/prestressed-concrete-steel-wire-strand-from-spain-final-results-of-antidumping-duty-administrative",
+      "published_date": "2026-10-26",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "来自西班牙的预应力混凝土用钢绞线:反倾销税行政审查的最后结果;2024-2025",
+      "title_en": "Prestressed Concrete Steel Wire Strand From Spain: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+      "summary_zh": "美国联邦公报于2026-10-26公布《Prestressed Concrete Steel Wire Strand From Spain: Final Results of Antidumping Duty Administrative Review; 2024-2025》。可读官方摘录：The U.S. Department of Commerce (Commerce) determines that Global Special Steel Products S.A.U. (d.b.a. Trenzas y Cables de Acero PSC, S.L.) (TYCSA) made sales of subject merchandise at less than normal value (NV) during the period of review (POR) June 1, 2024, through May 31, 2025.",
+      "summary_en": "US Federal Register title/excerpt identifies a trade-remedy proceeding involving Prestressed Concrete Steel Wire Strand From Spain: Final Results of Antidumping Duty Administrative Review; 2024-2025; rates and detailed scope are not verified.",
+      "impact_zh": "涉及第三国来源钢材在美国市场的贸易救济成本和竞争格局；对中国钢材的替代效应取决于中国自身税令、产品可替代性及进口商采购资格，不能推定自动获益。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://federalregister.gov/documents/2026/10/26/2026-21791/prestressed-concrete-steel-wire-strand-from-spain-final-results-of-antidumping-duty-administrative",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that Global Special Steel Products S.A.U. (d.b.a. Trenzas y Cables de Acero PSC, S.L.) (TYCSA) made sales of subject merchandise at less than normal value (NV) during the period of review (POR) June 1, 2024, through May 31, 2025.",
+      "review_status": "limited",
+      "follow_up": "核对联邦公报正文中的公司税率、适用期间、申诉期限与产品范围。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/10/26/2026-21780/standard-steel-welded-wire-mesh-from-mexico-continuation-of-antidumping-and-countervailing-duty",
+      "published_date": "2026-10-26",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "墨西哥标准钢焊接线网:继续执行反倾销和反补贴税命令",
+      "title_en": "Standard Steel Welded Wire Mesh From Mexico: Continuation of Antidumping and Countervailing Duty Orders",
+      "summary_zh": "美国联邦公报于2026-10-26公布《Standard Steel Welded Wire Mesh From Mexico: Continuation of Antidumping and Countervailing Duty Orders》。可读官方摘录：As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) and countervailing duty (CVD) orders on standard steel welded wire mesh from Mexico would likely lead to the continuation or recurrence of dumping and countervailable subsidies, and material injury to an industry in the United States, Commerce is publishing a notice of continuation of these AD and CVD orders.",
+      "summary_en": "US Federal Register title/excerpt identifies a trade-remedy proceeding involving Standard Steel Welded Wire Mesh From Mexico: Continuation of Antidumping and Countervailing Duty Orders; rates and detailed scope are not verified.",
+      "impact_zh": "涉及第三国来源钢材在美国市场的贸易救济成本和竞争格局；对中国钢材的替代效应取决于中国自身税令、产品可替代性及进口商采购资格，不能推定自动获益。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://federalregister.gov/documents/2026/10/26/2026-21780/standard-steel-welded-wire-mesh-from-mexico-continuation-of-antidumping-and-countervailing-duty",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) and countervailing duty (CVD) orders on standard steel welded wire mesh from Mexico would likely lead to the continuation or recurrence of dumping and countervailable subsidies, and material injury to an industry in the United States, Commerce is publishing a notice of continuation of these AD and CVD orders.",
+      "review_status": "limited",
+      "follow_up": "核对联邦公报正文中的公司税率、适用期间、申诉期限与产品范围。"
+    },
+    {
+      "url": "https://gov.uk/government/publications/reporting-the-country-of-melt-and-pour-for-certain-steel-imports",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "英国：部分钢铁进口货物的熔炼和浇铸国家申报要求",
+      "title_en": "Reporting the country of melt and pour for certain steel imports",
+      "summary_zh": "英国政府11月16日公布熔炼和浇铸国家申报指引，队列摘录明确相关钢铁进口报告要求自2027年4月1日起实施；具体涵盖税号及例外需以完整指引为准。",
+      "summary_en": "UK guidance excerpt indicates melt-and-pour country reporting from 1 April 2027; scope needs full-text confirmation.",
+      "impact_zh": "对英国出口需提前追溯钢厂熔炼、浇铸地点，不能仅凭贸易商发票上的出口国替代。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://gov.uk/government/publications/reporting-the-country-of-melt-and-pour-for-certain-steel-imports",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "This page provides guidance on the melt and pour reporting requirement for certain steel imports, which will be in effect from 1 April 2027. Find out: whether you need to report where imported steel was first melted and poured what information to declare what supporting evidence to keep This will be a voluntary reporting requirement for certain steel imports from 1 April 2027 and mandatory from 1 July 2027. This will be a voluntary reporting requirement for certain steel imports from 1 April 2027 and mandatory from 1 July 2027.",
+      "review_status": "limited",
+      "follow_up": "核对英国申报税号、进口商义务及例外。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/10/26/2026-21790/heavy-walled-rectangular-welded-carbon-steel-pipes-and-tubes-from-mexico-initiation-and-expedited",
+      "published_date": "2026-10-26",
+      "reviewed_at": "2026-11-16T19:27:43Z",
+      "title_zh": "美国对墨西哥厚壁矩形焊接碳钢管启动情势变更复审并发布快速初裁",
+      "title_en": "Heavy-Walled Rectangular Welded Carbon Steel Pipes and Tubes From Mexico: Initiation and Expedited Preliminary Results of Changed Circumstances Review",
+      "summary_zh": "美国联邦公报于2026-10-26公布《Heavy-Walled Rectangular Welded Carbon Steel Pipes and Tubes From Mexico: Initiation and Expedited Preliminary Results of Changed Circumstances Review》。可读官方摘录：The U.S. Department of Commerce (Commerce) is simultaneously initiating and issuing the preliminary results of a changed circumstances review (CCR) of the antidumping duty (AD) order on heavy- walled rectangular welded carbon steel pipes and tubes (HWR) from Mexico, consistent with section 751(b) of the Tariff Act of 1930, as amended (the Act), and 19 CFR 351.216 and 351.221(c)(3)(ii). Based on the information on the record, we preliminarily determine that Perfiles LM, S.A. de C.V. (PLM) is the successor-in-interest to Perfiles y Herrajes LM, S.A. de C.V. (PyH). Interested parties are invited…",
+      "summary_en": "US Federal Register title/excerpt identifies a trade-remedy proceeding involving Heavy-Walled Rectangular Welded Carbon Steel Pipes and Tubes From Mexico: Initiation and Expedited Preliminary Results of Changed Circumstances Review; rates and detailed scope are not verified.",
+      "impact_zh": "涉及第三国来源钢材在美国市场的贸易救济成本和竞争格局；对中国钢材的替代效应取决于中国自身税令、产品可替代性及进口商采购资格，不能推定自动获益。",
+      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
+      "evidence_url": "https://federalregister.gov/documents/2026/10/26/2026-21790/heavy-walled-rectangular-welded-carbon-steel-pipes-and-tubes-from-mexico-initiation-and-expedited",
+      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
+      "source_excerpt": "The U.S. Department of Commerce (Commerce) is simultaneously initiating and issuing the preliminary results of a changed circumstances review (CCR) of the antidumping duty (AD) order on heavy- walled rectangular welded carbon steel pipes and tubes (HWR) from Mexico, consistent with section 751(b) of the Tariff Act of 1930, as amended (the Act), and 19 CFR 351.216 and 351.221(c)(3)(ii). Based on the information on the record, we preliminarily determine that Perfiles LM, S.A. de C.V. (PLM) is the successor-in-interest to Perfiles y Herrajes LM, S.A. de C.V. (PyH). Interested parties are invited…",
+      "review_status": "limited",
+      "follow_up": "核对联邦公报正文中的公司税率、适用期间、申诉期限与产品范围。"
+    }
+  ],
+  "triage": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPanRRUlQzSGlTaE15UmExRGF2dFBkdGhtLWJvUHdVQ0JpRV9Bd3RQT3JmR2NSRnVqUGpwMFhWSHB6RTk4Y0dmd0stZG9HcFVDVXU2NFQtTVZsVEdiZ2xNSXJPWVZId2M3MW9WS2dMSE5MTER2Skp1cTF1YzgtRXRVU21aUU5oUkVUT2hDZk9TR1hSM2M4Ymt1dlo4VjY3UXFS?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "duplicate",
+      "reason_zh": "同一欧盟2026/2547号冷轧钢最终反倾销措施的二次报道；以本批欧盟官方公报原始来源为主条，未从媒体标题另推税率。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅核对队列标题与来源摘录，事件同一性按产品、实施方和五个来源地判定；主条仍为有限核验。",
+      "duplicate_of": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2547"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObXdqY1phR0M2VG9DUkhwUVZWaElLMmlscUZaNW1nMHBNXy1yeXVyNUxWblhZZW5COGgxaG5KS2RSMVRoQ1l0N2FOanBHVDBwc0o5UklhaWU2c0Q0Nlh3blVfdWFVSWVpc0c4NjU2Smxxd0RQZU1BVnFEU2RpN1Zfcld3bERBMzlLQlM3el94eG9iVVdTamh3RUNn?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "duplicate",
+      "reason_zh": "同一欧盟2026/2547号冷轧钢最终反倾销措施的二次报道；以本批欧盟官方公报原始来源为主条，未从媒体标题另推税率。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅核对队列标题与来源摘录，事件同一性按产品、实施方和五个来源地判定；主条仍为有限核验。",
+      "duplicate_of": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2547"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1hYM3Z6anlaZWgyd19GbTFNaGZxQTRacjVsQW40aU9NRDNDTzh2Q1F2SkpXSktDblgzVHZxX1RHcllzNVVrbGJkVDRTRVNSdkdackRYZFZKMkZYMkpWZVlWOWF5ZXVFUDJPLTg3NXY5TG1DTHhTaXkzR3hNQkhGclQ2eGVyU1owVFlWd2tyWWF6MGZiYlBYZ3dUak9SNEdQTUw5TmtyTnYzdWcwYjRIT3hNSFjSAboBQVVfeXFMTzdsV1RoRW9rYmIxT0otakVDekxFTE1McThHbkZ3RDdVdV8xQi1RUWR0UkRlTWQ0YkJ4OU9PNEs2Q2hSV1dJdGk5RVhUUGZTTzZfa3dWZTE1OHljQUc3cVgwZktyNU5rc2szd2hnejV6MndHVGNJcERPWFJKNGF2MG9PM19sUzRiN3NjVDhCakRjOHB0dUMwdkRBRXItekNyY1lWOVZvbVJaN3hkamx5VWF1WmtnakVsUnRB?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "duplicate",
+      "reason_zh": "同一欧盟2026/2547号冷轧钢最终反倾销措施的二次报道；以本批欧盟官方公报原始来源为主条，未从媒体标题另推税率。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅核对队列标题与来源摘录，事件同一性按产品、实施方和五个来源地判定；主条仍为有限核验。",
+      "duplicate_of": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2547"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnBZSy1GcmtfT3V2UjZPYUw5NjdfdkdtSEI0TEVYNGR0NGg3bDBDQlQ4d2RXZklnRVFkRHM3dWcxQ0RLWmpNR0poSk5VR2ZtZW1Lb2otMU5FelF5Z01WaS0waGJ2Y0lwUlp0cVlncmFJVlJLVUxJWENtTHJGOV9sY2hmbEZ4TGh3TVZvOEU5N2dPZEFmZlBKS2ctNDJBSFFSbnY5S2c5S3BDRzVaSHljY0RPUDc4NmtKRWU1QWlRbXFtcUtqRFlZVVhwaFjSAVpBVV95cUxQbWJxTWRjdHVubVdON3VqZV9oVEZob0tydkxIaG81M0V2UnI3ODdwdmlyZVY1NW1weXZFT0pXSlFLUGlZZzFwcWV3NWotV01oSU9kYkNhbFFxekE?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "duplicate",
+      "reason_zh": "同一欧盟2026/2547号冷轧钢最终反倾销措施的二次报道；以本批欧盟官方公报原始来源为主条，未从媒体标题另推税率。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅核对队列标题与来源摘录，事件同一性按产品、实施方和五个来源地判定；主条仍为有限核验。",
+      "duplicate_of": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2547"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQaWVaZzJxbTYwNVFBR2NaWVl0clV4SWw2QnRSR0UzSUtnb0xVOENLZ3dUM1NQcklmbVk2YXFtQkh2UjFNRW0yc2pXYWFaOER5V3Z6UzF4YXZPcHFVc01sUFg0b0xvNWQ1RnAzb1VOX09WdzZMbkNVbmJKT0hsWEdWYm9KY19ZN2JDenk5dG4tSk50UERJbDd1d3lpWS1LQ2FvODRPTzNMcnZjcjFRT21yUENqV2NEc2hiTGpJakIzSEJwdzRGRkppRkduWlF3SkFKUlNndUZRakdMNTQzZC1fQTU1dXFmVWNaUGlXRFNpTHd3aUVtdG1faXdERkotdjFhZHVrTXFPZTktVnlMdmpidEFQaWU?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "duplicate",
+      "reason_zh": "同一欧盟2026/2547号冷轧钢最终反倾销措施的二次报道；以本批欧盟官方公报原始来源为主条，未从媒体标题另推税率。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅核对队列标题与来源摘录，事件同一性按产品、实施方和五个来源地判定；主条仍为有限核验。",
+      "duplicate_of": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2547"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYmR0elVWUzE4MXVQNkV4NU5XdGVxNEUyZkZqUEhxaGZPR2RwcXN6eUgteGxzTEdyTE0zUjk1bWN6Q1N0TnpZMmRtbTZtUGlCNEF0THpmWG5jdmxHM0s2TlhPcHF4bGFtQ0NiM0t0aUhKX082X0FNcTZxYkNrMVZ0ZVBR0gGHAUFVX3lxTFBrNEhvVUZyNnE1T0p4V0dpOWN4c2Z4ZHMyUW5PN0dCUGh6TlJCZE5tQlFUSTlPM0owaFVYYjB5U0ZUcEcxTFh3cndiU1oyNTlSNWJ6VklkSS1ZTVlOOG95S2RPckNBdkp6bG9YVjNGeVpGWEtlQ2NuenZIdnBnam1VVWZOanJjVQ?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "excluded",
+      "reason_zh": "本轮仅标题级分流：属于宏观市场评论、企业倡议或对既有CBAM政策的二次评论，未发现可独立确认的新增法规决定；不否定其市场信息价值。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅检查队列标题与有限摘录，未宣称全文核验。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUlVPZWllUVdHVkt3OGczak12UUxYQlZvRFNtSmc3T1F1dFYxRUJRX2l6c0RtM2J2cmdubTM5NXpoQlduSkJZX0VZTU1nUUwxR3M5dl9kLUFhNEY0VU5tblNXdWtISmZMZkFENExCUmNTS2dWaDBEdFNPcGV6cVBzZUprRHJZX1dDbDBVY00zUkw5ZXFUUEF6eGxLR0NpMVQ3d3Bwb3ZSdmJNQQ?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "excluded",
+      "reason_zh": "本轮仅标题级分流：属于宏观市场评论、企业倡议或对既有CBAM政策的二次评论，未发现可独立确认的新增法规决定；不否定其市场信息价值。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅检查队列标题与有限摘录，未宣称全文核验。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbzBER1BLeGJ0Q0J4SkFxOHBSbnpuQzdWajN1WmpldVd0ZC1MTUlRbWpKZ1FaS0o2Zkx4b3F2aXVDUEloRTBRNDk4bTAwdGhzSnpWcGVXYy1zVWxZNnJlWVROc0ZNTW9PUTNRMHQ2MzIyUmdBbUJKZE9SeVFCbVdhSnQtek1CeWJZczhJWmszM3FybmcwTzEtVU1GaDNiUUlQcE11dGc4YzJIWTd6Q0RUYXpGUElyUQ?oc=5",
+      "published_date": "2026-11-11",
+      "decision": "excluded",
+      "reason_zh": "本轮仅标题级分流：属于宏观市场评论、企业倡议或对既有CBAM政策的二次评论，未发现可独立确认的新增法规决定；不否定其市场信息价值。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅检查队列标题与有限摘录，未宣称全文核验。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVUlQTkstZEtoWWdUMWUzWWhtT3pPNFNMTEZ5cUJTU3RkRXYwNE5TQnJROXdldGhkeHJfVjhteDVIMTl0MmdJQVQyNkk0UVlDbGt6X0VIa3pQY2E1THZSMjlSY0tsU0t1Mnl0NW9jZmV3aG5fMjdOYmxtcGZoUHpwN1JvaGJUX05JcVR6QTREZ25JUDlJMlhJRWRn?oc=5",
+      "published_date": "2026-11-11",
+      "decision": "excluded",
+      "reason_zh": "本轮仅标题级分流：属于宏观市场评论、企业倡议或对既有CBAM政策的二次评论，未发现可独立确认的新增法规决定；不否定其市场信息价值。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅检查队列标题与有限摘录，未宣称全文核验。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW5Qckt2aWwxclVud05sTzNRU3dEYlExeWZINlcwY1M0cGlFTkYzUlJ3YzZUNVNqUlJQZ2tJWFRucUlVdXZoYXh2WUxpR0JvUVNfQVBUVUlyMXRodjR6MHVJdTQ0ZzNpNzhLeHZjTUdNeUVtU0xkZFlJaFJUbW9VdU0yLU01V2UzRG0xLTRRMktKYmVVbjJvMldJbVB4NlgzR29aT2VuOHpJT0xiRU9EdEFibThteW5FaHk1Y0xB?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "excluded",
+      "reason_zh": "本轮仅标题级分流：属于宏观市场评论、企业倡议或对既有CBAM政策的二次评论，未发现可独立确认的新增法规决定；不否定其市场信息价值。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅检查队列标题与有限摘录，未宣称全文核验。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HUy1rczgwbDJCREJ6QXdyOHRqaGpqS1B5RXo5djVPRE5ZQldLSHBqalpqNjQ2Vkp1cFVIc3paM3RZTnRTOFFSSTZ3SXNObWpzT25IbG1XcHJYUnJPUmh6M05PTjBLbGZDWUFIenl0aFBCemFCSFlabmdaNkZDZw?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "excluded",
+      "reason_zh": "本轮仅标题级分流：属于宏观市场评论、企业倡议或对既有CBAM政策的二次评论，未发现可独立确认的新增法规决定；不否定其市场信息价值。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅检查队列标题与有限摘录，未宣称全文核验。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVhGWlhRRXJXdXNCcEwzZ2VsTFhTTlVDSEZOY0F0VnMzZ2Y5MS0zQmNYUlFZLUFnOFRiakhnemhvX2JYRi1oQk51bDY5VWFjMUx5UE1PZ3VCWFpXMzZYTGJCVzh4VC1wWkZCVmx6NV9YZG1TNnJxbmV2RWlaalVsR3dZTkY5emRwNlZLRlMtYVk5RWctRlY5Q3N1WTBKd0ItSFR6VXpiYnpHb1FSZ3c?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "excluded",
+      "reason_zh": "本轮仅标题级分流：属于宏观市场评论、企业倡议或对既有CBAM政策的二次评论，未发现可独立确认的新增法规决定；不否定其市场信息价值。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅检查队列标题与有限摘录，未宣称全文核验。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTWp4Tm50bW5tMTh6cjFWbC1yLVVYRjdQdXFfN0ZXS1FUcjRwcG1lNmg1VEFVVmdCODJDeW5UR0U1MGJKZ3djNnJCMzA2azVRQk1Lb0UxcU9jU1Y0RzIwY29YZ0JyTS1tVlQ3Sm5hR21UUjEyRVNQVTMzbExUMUh0a1NnVnpFRGZtMTdLcG44SQ?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "excluded",
+      "reason_zh": "本轮仅标题级分流：属于宏观市场评论、企业倡议或对既有CBAM政策的二次评论，未发现可独立确认的新增法规决定；不否定其市场信息价值。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅检查队列标题与有限摘录，未宣称全文核验。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODExNm50Q29pV09pSDRJYW9IRUVOSS1GVzlDVm4zN0pKM0NteUtlVklzSW1wa2gzTnlIaWx1cWJLQlRIdUpaUXJZYm52MmhlU09QakduWU51WUJOa1YxeXItUEJPUmQ0RkxVSExJRGpiVEZJcXpLS2N1X0dZZDY0QkNrUzFxY1pFcUtVenc1eTQyZTJtS0Z4bWZLcUZfMFNIQzNLdTJaTQ?oc=5",
+      "published_date": "2026-11-15",
+      "decision": "excluded",
+      "reason_zh": "本轮仅标题级分流：属于宏观市场评论、企业倡议或对既有CBAM政策的二次评论，未发现可独立确认的新增法规决定；不否定其市场信息价值。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅检查队列标题与有限摘录，未宣称全文核验。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0RkbWhEYmZidmVIUHk5Nk1SU0V5dnRLeGJSVnBHNG1yNGkya014dkVoVklJQnExRnJZNDF3SWJtWGI1eEdzVnhlZS1DeWVMeTF5SGFqYzdLMlZPQkk2MkZjUmVEWlllUGpZOXRyaktoc3lNenBBazNpU0Z2MXo0UmZRbWpQYmVQemhIVEhtbWZVVHlsS191bFF5b2F2WjRrdkpiTlpTM1BLVEY3S3RyYk9TclMzb0RETzlLMXRZTC1RT0FxZDBuRHFQbEhmQ0tpR3d2MGgyZjlwVXBpMlNFNktCejBoa1VKM0HSAeoBQVVfeXFMTlNEZG1oRGJmYnZlSFB5OTZNUlNFeXZ0S3hiUlZwRzRtcjRpMmtNeHZFaFZJSUJxMUZyWTQxd0libVhiNXhHc1Z4ZWUtQ3llTHkxeUhhamM3SzJWT0JJNjJGY1JlRFpZZVBqWTl0cmpLaHN5TXpwQWszaVNGdjF6NFJmUW1qUGJlUHpoSFRIbW1mVVR5bEtfdWxReW9hdlo0a3ZKYk5aUzNQS1RGN0t0cmJPU3JTM29ERE85SzF0WUwtUU9BcWQwbkRxUGxIZkNLaUd3djBoMmY5cFVwaTJTRTZLQnowaGtVSjNB?oc=5",
+      "published_date": "2026-11-15",
+      "decision": "excluded",
+      "reason_zh": "本轮仅标题级分流：属于宏观市场评论、企业倡议或对既有CBAM政策的二次评论，未发现可独立确认的新增法规决定；不否定其市场信息价值。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅检查队列标题与有限摘录，未宣称全文核验。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjk1Z25yYmluc1YtM2t0cm4taXJnYlJXLXdDblNXMGZoS1dDYnFNRE9SVWdiS3VlQTZ5QTN5emkwZm1wVlVGd1o4eEo0cFN1NWwzY3dsMFBoaE1hVDAyOFpGcFFhVFBYa190UDJVSEJtbGpfeExQZHdzNWlEWUZ6ellFNTRtVFNvbGctYzVENktFaXk1NV9qRTUzcnBWdFpFaFk1alhvNElyQTRidi1Sa2o0a9IBuAFBVV95cUxQOVU4MHZ0SHFoM19wbFJyVzhiQzJOdW16bTcwemVNVWhlU3ZWNWJmeGxhS0sxVWVUUnFxMmJ1MDV0alBJWkliMXAtUXpTZzdLZlQzR3BDSXQ3WERyNzR5Sm4wMkdUWmJ0OFVBOURkWDlheWtIVUUzdkp5Ymc2UERNcFk0TFJIR013SVB6LUhMSFlMRVY3N3VYdEVLRXFHOFV6TVpRdVM4SUxvc0hLQ1FUOTl6Wk1YMlJx?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "blocked",
+      "reason_zh": "涉及第三国贸易救济或重要进口限制，但仅有新闻标题/有限摘录，缺乏可核对的原始公告，暂不认定税率或新政策生效。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅标题级检视，原始法规或官方公告未取得。",
+      "retry_after": "2026-11-23T00:00:00Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnhxM01CN0U2eGllSHh2eHY1RUs2NFY0b25xczg3T1VMSEtobE40amxmZS1XVHN4YkcybG91dk5ZeEVoRzN3Y1kyb09GTnd4aGlQbmJvTWF0VjZ6N3VGTFRLb190U1AtVkVmMFg1bmlqc1JqODF5YlhSWUNVbEhtRmpPd240ZXJ5WVZ5UkpHUmJyNERwbDRRYTYyY21BX0hxbkJIWVY4dDVTa252R2pjdVBUVVhIT1RDMTFwbmdR?oc=5",
+      "published_date": "2026-11-11",
+      "decision": "blocked",
+      "reason_zh": "涉及第三国贸易救济或重要进口限制，但仅有新闻标题/有限摘录，缺乏可核对的原始公告，暂不认定税率或新政策生效。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅标题级检视，原始法规或官方公告未取得。",
+      "retry_after": "2026-11-23T00:00:00Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeTJmSEdkYk5Pd01IXy1tcWlVaklIWWhLbWwyNTRCdEZYWjk1aVAzMnlHVk9CODNyX25jSFRETFZwOUd3dEhscWdhaUVtTWFLZy1JbzZPQWZSU3VnaFAyUkR5UGNLSnBYcnZpVHc4SkN6Uk9pQ2RZSjdRVFhxNHpiQWE5dkNLdU81ajBiMFBuYmxIdEh6QVJHVFFwcWRLak5abWFRejUyenJ3UFpYTEREMUpVUFBrU0x5?oc=5",
+      "published_date": "2026-11-10",
+      "decision": "blocked",
+      "reason_zh": "涉及第三国贸易救济或重要进口限制，但仅有新闻标题/有限摘录，缺乏可核对的原始公告，暂不认定税率或新政策生效。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "仅标题级检视，原始法规或官方公告未取得。",
+      "retry_after": "2026-11-23T00:00:00Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVU0S3JDbk5EVFZ0SVNZOHI3MEx0ajRXcFdVb0FoUVZkZVdieEFVYXpJdFV2aEotcDRpYy1aS01jN3dDcC1qdk5WS29sX21ZOWJJdk01X1dVZmotWThZaHJJUHdHcVk1ektGZWNvdnBlNWFodFhEakVhOWNFdzVTLUE5N2toTG53WU9ELVBBTFpyVGxJbWRUUGhNb3FXQWNjZEJEYTRFWVdVdTUtMFE5TXF1V1d0SWZiZDUwb3NCbWpoUQ?oc=5",
+      "published_date": "2026-10-26",
+      "decision": "blocked",
+      "reason_zh": "2026年11月2日复查印尼公开报道、ANTARA/BKPM材料和Petromindo公开索引：仍只能确认Rosan与青山集团董事长项光达会谈并讨论印尼镍、不锈钢深加工及IWIP后续投资；没有新增项目、金额、产能、地点、期限或约束性决定。不得用其他太阳能投资意向补造本次钢铁项目参数。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "复核现有队列核验记录与原始来源链接；公开原文仍不可完整核读，未重新验证全文。",
+      "retry_after": "2026-11-23T00:00:00Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDJiWHE4OUlfQXdkQkhDUVQ1RndVSjJBVVNQUVROZUdMS1VWOFpkWEl4MXE5RmFXTzhCbkJSMVhxSWJNTGJBblpjMm81TTk2eFlnZWFhWVhhM3hudFdFQXYtTWl2aktEUUZiMl9WVVlleTlXTmVhZlNmVVlzckVsaTZ5OFlxNGdLZnpTYnRxUE9VTTdnYldFbFBZTGZLQQ?oc=5",
+      "published_date": "2026-10-22",
+      "decision": "blocked",
+      "reason_zh": "2026年11月2日再次检索ORF官方研究页、PDF和公开镜像：仍未取得同版全文、图表或模型附件，无法核对产品范围、MSME样本、数据口径、情景假设及建议。欧盟官方材料可确认下游扩围提案仍在立法程序中，但不能替代本条ORF研究全文。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "复核现有队列核验记录与原始来源链接；公开原文仍不可完整核读，未重新验证全文。",
+      "retry_after": "2026-11-23T00:00:00Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12Q05ZYVJaVFU3SU9uWXI4TzdiaWNHejlkVTBreXg2cnNRZVBDdEZUTG02R1U2QUZ4WklTSEYxN1hTWEtkS3RsSXlCNmhJMlcxWjdwVWp5aWFkNXhrVi00R2lIWlI?oc=5",
+      "published_date": "2026-10-21",
+      "decision": "blocked",
+      "reason_zh": "2026年11月2日复核欧洲议会立法观察站和欧盟理事会CBAM页面：欧洲议会已于9月15日通过修正案并把事项交回委员会开展机构间谈判，立法仍未完成。委员会提案拟自2028年扩围钢铝密集型下游产品，但媒体所称光伏组件最终CN清单或5吨门槛仍无最终法规支持；不得按提案当作已生效范围。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "复核现有队列核验记录与原始来源链接；公开原文仍不可完整核读，未重新验证全文。",
+      "retry_after": "2026-11-23T00:00:00Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWZnWlpmdnplMXBjZk13djExUC0tZ1p5TVpWUmFvN01YRjVVNUlUdTRGOU1xUU5xUVNRcDdyTzRYS2gtMHVZU2FmMm4wTjRINlF4YUw4NWtid3FUYkxaaFhsUEhqaC1fUFdyR2txVzQyR1BqM2dYSWdlVjZiVlhvSDhvczcyV1AwQkkyYW1meFpFSGVZUlV2ZHlQSElGMW1MdTh1Z05TODYtanND?oc=5",
+      "published_date": "2026-10-16",
+      "decision": "blocked",
+      "reason_zh": "2026年11月2日复查财新官方页面及公开索引：仍只能核读标题、作者、导语和开篇段落；付费正文不可读，页面的AI生成要点不能作为原文证据。未找到合法可读的同版全文或足以覆盖全文论据的原始资料。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
+      "attempted_at": "2026-11-16T19:27:43Z",
+      "coverage": "复核现有队列核验记录与原始来源链接；公开原文仍不可完整核读，未重新验证全文。",
+      "retry_after": "2026-11-23T00:00:00Z",
+      "retry_policy": "manual"
+    }
+  ]
+}
