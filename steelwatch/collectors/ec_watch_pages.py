@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 from dateutil import parser as date_parser
 
 from ..models import RawItem
-from ..util import canonical_url, stable_id, trim_text
+from ..util import canonical_url, is_rule_relevant, stable_id, trim_text
 from .base import Collector
 
 
@@ -274,6 +274,10 @@ class EcWatchPagesCollector(Collector):
                     continue
                 haystack = title.lower() if match_in_title else f"{title} {context}".lower()
                 if terms and not any(term in haystack for term in terms):
+                    continue
+                if page.get("require_relevance") and not is_rule_relevant(
+                    title, context, self.app_config.get("keywords", {})
+                ):
                     continue
                 published = _extract_date(context)
                 if published is None or published < cutoff:

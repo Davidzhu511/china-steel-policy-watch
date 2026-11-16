@@ -129,7 +129,23 @@ def is_rule_relevant(title: str, excerpt: str, keywords: dict[str, list[str]]) -
         return False
     has_china = contains_any(haystack, keywords.get("china", []))
     is_global_steel_rule = contains_any(haystack, keywords.get("global_steel_policy", []))
-    return has_china or is_global_steel_rule
+    if has_china or is_global_steel_rule:
+        return True
+    normalized = normalize_text(haystack)
+    # Match material words, not fragments such as "iron" in "environment".
+    # Chinese product names can occur without spaces around them.
+    has_trade_material = any(
+        (term in normalized if re.search(r"[\u4e00-\u9fff]", term)
+         else re.search(rf"(?<!\w){re.escape(term)}(?!\w)", normalized))
+        for value in keywords.get("materials", [])
+        if (term := normalize_text(value))
+    )
+    # Measures on competing origins change steel procurement and trade flows
+    # even when China is absent from the legal title or feed excerpt.
+    is_steel_trade_measure = contains_any(
+        normalized, (normalize_text(term) for term in keywords.get("trade_measures", []))
+    )
+    return has_trade_material and is_steel_trade_measure
 
 
 def token_set(value: str) -> set[str]:

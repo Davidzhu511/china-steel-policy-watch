@@ -8,6 +8,8 @@ Read `data/review_manifest.json` first. If actionable_count, retry_due_count and
 
 Translate all untranslated headlines first, independently of full-text access. Source translation belongs in the batch's translations array, never mark it source_checked. Use queue excerpts and related_reviews before opening original sources. Triage the complete actionable list; no fixed five-item ceiling. Read original sources for substantive facts and business conclusions. Distinguish official measures, proposals, corporate opinions and market reporting; do not exclude useful market intelligence solely because it is not a regulation.
 
+Include steel trade measures against any competing origin, even without China in the source: anti-dumping, countervailing, anti-circumvention, safeguards, tariffs, quotas and origin/import/export restrictions, from initiation through review, termination or exemption. Verify imposing jurisdiction, origins, product exclusions, company-specific rates, procedural stage and effective/response dates. Explain procurement substitution, pricing competition and trade diversion separately from verified facts; do not assume a measure on competitors removes Chinese steel's own restrictions.
+
 Retry at most the listed four due blocked items per run, prioritising official material, material trade exposure and deadlines. Persist attempted_at and an explicit retry_after for every failed retry. Default intervals: three days for official material, seven days for other sources; stable paywalls/manual document requirements may use retry_policy=manual with a specific explanation. Never bypass access controls or infer tax rates, legal dates or scope from titles.
 
 ## Small, durable output
