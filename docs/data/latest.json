@@ -34,7 +34,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T16:28:58Z",
       "last_seen": "2026-11-16T16:28:58Z",
-      "source_excerpt": "China’s Steel Mills Brace for a Bitter Winter Bloomberg.com"
+      "source_excerpt": "China’s Steel Mills Brace for a Bitter Winter Bloomberg.com",
+      "machine_translation": {
+        "title_zh": "中国的 钢厂 滋味冬季",
+        "excerpt_zh": "中国的钢厂 Brace 用于一个苦的冬季布隆伯格。 com",
+        "fingerprint": "a709bc76b7f8c29fbced42f55b6de808234aa57e66192bd10d74f290eb42588f",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T16:30:36Z"
+      }
     },
     {
       "id": "6c53143aca4dadf94bb1",
@@ -69,7 +77,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T16:28:58Z",
       "last_seen": "2026-11-16T16:28:58Z",
-      "source_excerpt": "CBAM: Free CO2 for EU Mills, a Sham Deduction for Importers Steel and Stainless Steel News"
+      "source_excerpt": "CBAM: Free CO2 for EU Mills, a Sham Deduction for Importers Steel and Stainless Steel News",
+      "machine_translation": {
+        "title_zh": "CBAM:欧盟钢厂的免费CO2,进口商的模拟减量",
+        "excerpt_zh": "CBAM:欧盟钢厂免费CO2,进口钢的模拟减值和不锈钢新闻",
+        "fingerprint": "66d1640bec62ca9eedcb40fc33353524be942b91e729bd824ac4cac407474de2",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T16:30:37Z"
+      }
     },
     {
       "id": "d40eae05f89c7540cba9",
@@ -139,7 +155,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T16:28:58Z",
       "last_seen": "2026-11-16T16:28:58Z",
-      "source_excerpt": "China's Steel Sector Reports Progress on Green Transition IndexBox"
+      "source_excerpt": "China's Steel Sector Reports Progress on Green Transition IndexBox",
+      "machine_translation": {
+        "title_zh": "中国钢铁部门报告绿色转型的进展",
+        "excerpt_zh": "中国钢铁部门报告绿色转型指数的进展",
+        "fingerprint": "7e461c8be6677d021c7466e3af2ab163ba3726b932c8bbe373bf3e318b5f8f33",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T16:30:37Z"
+      }
     },
     {
       "id": "ad5e85945227bd15748b",
@@ -252,7 +276,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T16:28:58Z",
       "last_seen": "2026-11-16T16:28:58Z",
-      "source_excerpt": "Assofermet Calls for Raising CBAM Exemption Threshold to 500 Tonnes SteelRadar"
+      "source_excerpt": "Assofermet Calls for Raising CBAM Exemption Threshold to 500 Tonnes SteelRadar",
+      "machine_translation": {
+        "title_zh": "将 CBAM 豁免阈值提高到 500 吨位的松动呼叫",
+        "excerpt_zh": "将 CBAM 豁免阈值提高到 500 吨数钢拉达尔",
+        "fingerprint": "9be29394351d9dfd540184775cb1aa4e476552938399f8965e2272575c93bb0c",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-16T16:30:42Z"
+      }
     },
     {
       "id": "0726f6d2ecda36ea83da",
