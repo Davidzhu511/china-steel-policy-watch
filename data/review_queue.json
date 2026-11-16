@@ -1,10 +1,218 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-15T21:40:35Z",
-  "pending_count": 14,
-  "actionable_count": 0,
+  "generated_at": "2026-11-16T16:28:58Z",
+  "pending_count": 22,
+  "actionable_count": 8,
   "blocked_count": 14,
-  "items": [],
+  "items": [
+    {
+      "id": "5f2734aac2b2a0e28ba7",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2498",
+      "published_at": "2026-11-15T23:00:00Z",
+      "title_original": "Commission Implementing Regulation (EU) 2026/2498 of 5 November 2026 laying down rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards the conversion of the carbon price paid in a third country into a corresponding reduction in the number of CBAM certificates to be surrendered, the evidence of payment of that carbon price, the qualifications of the independent person and conditions to ascertain its independence and qualifications",
+      "first_seen": "2026-11-16T16:28:58Z",
+      "last_seen": "2026-11-16T16:28:58Z",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "priority_signal": {
+        "zh": "CBAM 执行信息 · 待核对",
+        "en": "CBAM implementation · review needed"
+      },
+      "translation_state": "pending",
+      "published_date": "2026-11-15",
+      "source_excerpt": "",
+      "needs_translation": true,
+      "title_zh": "Commission Implementing Regulation (EU) 2026/2498 of 5 November 2026 laying down rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards the conversion of the carbon price paid in a third country into a corresponding reduction in the number of CBAM certificates to be surrendered, the evidence of payment of that carbon price, the qualifications of the independent person and conditions to ascertain its independence and qualifications",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "624f25d21e849373",
+      "related_reviews": []
+    },
+    {
+      "id": "ad5e85945227bd15748b",
+      "url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "published_at": "2026-11-16T00:00:00Z",
+      "title_original": "Commission imposes anti-dumping duties on certain cold-rolled flat steel products",
+      "first_seen": "2026-11-16T16:28:58Z",
+      "last_seen": "2026-11-16T16:28:58Z",
+      "source": {
+        "id": "ec_watch_pages",
+        "name": "DG TRADE · Steel",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "priority_signal": {
+        "zh": "贸易救济程序 · 待核对",
+        "en": "Trade-remedy procedure · review needed"
+      },
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "News article 16 November 2026 Commission imposes anti-dumping duties on certain cold-rolled flat steel products Today the European Commission imposed anti-dumping duties on imports into the EU of certain cold-rolled flat steel products from India, Japan, Taiwan, Türkiye and Vietnam. 2 min read",
+      "needs_translation": true,
+      "title_zh": "Commission imposes anti-dumping duties on certain cold-rolled flat steel products",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "feca2045205410df",
+      "related_reviews": []
+    },
+    {
+      "id": "4d9107995e7ee1643e4f",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVW5Qckt2aWwxclVud05sTzNRU3dEYlExeWZINlcwY1M0cGlFTkYzUlJ3YzZUNVNqUlJQZ2tJWFRucUlVdXZoYXh2WUxpR0JvUVNfQVBUVUlyMXRodjR6MHVJdTQ0ZzNpNzhLeHZjTUdNeUVtU0xkZFlJaFJUbW9VdU0yLU01V2UzRG0xLTRRMktKYmVVbjJvMldJbVB4NlgzR29aT2VuOHpJT0xiRU9EdEFibThteW5FaHk1Y0xB?oc=5",
+      "published_at": "2026-11-16T12:38:34Z",
+      "title_original": "China’s Steel Mills Brace for a Bitter Winter",
+      "first_seen": "2026-11-16T16:28:58Z",
+      "last_seen": "2026-11-16T16:28:58Z",
+      "source": {
+        "id": "rss",
+        "name": "Bloomberg.com",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "China’s Steel Mills Brace for a Bitter Winter Bloomberg.com",
+      "needs_translation": true,
+      "title_zh": "China’s Steel Mills Brace for a Bitter Winter",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "c8f12ef7fe738c67",
+      "related_reviews": []
+    },
+    {
+      "id": "6c53143aca4dadf94bb1",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HUy1rczgwbDJCREJ6QXdyOHRqaGpqS1B5RXo5djVPRE5ZQldLSHBqalpqNjQ2Vkp1cFVIc3paM3RZTnRTOFFSSTZ3SXNObWpzT25IbG1XcHJYUnJPUmh6M05PTjBLbGZDWUFIenl0aFBCemFCSFlabmdaNkZDZw?oc=5",
+      "published_at": "2026-11-16T09:24:28Z",
+      "title_original": "CBAM: Free CO2 for EU Mills, a Sham Deduction for Importers",
+      "first_seen": "2026-11-16T16:28:58Z",
+      "last_seen": "2026-11-16T16:28:58Z",
+      "source": {
+        "id": "rss",
+        "name": "Steel and Stainless Steel News",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "CBAM: Free CO2 for EU Mills, a Sham Deduction for Importers Steel and Stainless Steel News",
+      "needs_translation": true,
+      "title_zh": "CBAM: Free CO2 for EU Mills, a Sham Deduction for Importers",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "54f1d6abac05c8e7",
+      "related_reviews": []
+    },
+    {
+      "id": "d40eae05f89c7540cba9",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdVhGWlhRRXJXdXNCcEwzZ2VsTFhTTlVDSEZOY0F0VnMzZ2Y5MS0zQmNYUlFZLUFnOFRiakhnemhvX2JYRi1oQk51bDY5VWFjMUx5UE1PZ3VCWFpXMzZYTGJCVzh4VC1wWkZCVmx6NV9YZG1TNnJxbmV2RWlaalVsR3dZTkY5emRwNlZLRlMtYVk5RWctRlY5Q3N1WTBKd0ItSFR6VXpiYnpHb1FSZ3c?oc=5",
+      "published_at": "2026-11-16T09:00:00Z",
+      "title_original": "欧盟加强保护钢铁业免受中国进口冲击——Tagesschau",
+      "first_seen": "2026-11-16T16:28:58Z",
+      "last_seen": "2026-11-16T16:28:58Z",
+      "source": {
+        "id": "rss",
+        "name": "UA.NEWS",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "欧盟加强保护钢铁业免受中国进口冲击——Tagesschau UA.NEWS",
+      "needs_translation": false,
+      "title_zh": "欧盟加强保护钢铁业免受中国进口冲击——Tagesschau",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "aee253ae45da2ecd",
+      "related_reviews": []
+    },
+    {
+      "id": "d08e34d05d9a10521e1f",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTWp4Tm50bW5tMTh6cjFWbC1yLVVYRjdQdXFfN0ZXS1FUcjRwcG1lNmg1VEFVVmdCODJDeW5UR0U1MGJKZ3djNnJCMzA2azVRQk1Lb0UxcU9jU1Y0RzIwY29YZ0JyTS1tVlQ3Sm5hR21UUjEyRVNQVTMzbExUMUh0a1NnVnpFRGZtMTdLcG44SQ?oc=5",
+      "published_at": "2026-11-16T00:11:05Z",
+      "title_original": "China's Steel Sector Reports Progress on Green Transition",
+      "first_seen": "2026-11-16T16:28:58Z",
+      "last_seen": "2026-11-16T16:28:58Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "China's Steel Sector Reports Progress on Green Transition IndexBox",
+      "needs_translation": true,
+      "title_zh": "China's Steel Sector Reports Progress on Green Transition",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "eb3a2784199cabd0",
+      "related_reviews": []
+    },
+    {
+      "id": "45833fdbca64c5dfe6f6",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNODExNm50Q29pV09pSDRJYW9IRUVOSS1GVzlDVm4zN0pKM0NteUtlVklzSW1wa2gzTnlIaWx1cWJLQlRIdUpaUXJZYm52MmhlU09QakduWU51WUJOa1YxeXItUEJPUmQ0RkxVSExJRGpiVEZJcXpLS2N1X0dZZDY0QkNrUzFxY1pFcUtVenc1eTQyZTJtS0Z4bWZLcUZfMFNIQzNLdTJaTQ?oc=5",
+      "published_at": "2026-11-15T14:22:53Z",
+      "title_original": "Assofermet Calls for Raising CBAM Exemption Threshold to 500 Tonnes",
+      "first_seen": "2026-11-16T16:28:58Z",
+      "last_seen": "2026-11-16T16:28:58Z",
+      "source": {
+        "id": "rss",
+        "name": "SteelRadar",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-15",
+      "source_excerpt": "Assofermet Calls for Raising CBAM Exemption Threshold to 500 Tonnes SteelRadar",
+      "needs_translation": true,
+      "title_zh": "Assofermet Calls for Raising CBAM Exemption Threshold to 500 Tonnes",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "b216a2ed274dcfc7",
+      "related_reviews": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVVvakktenJOVGNuSGRSbzBIMUh4WWlLNkxtVkVtb3lfQkNXS1UydFVQRFlGR0I2S1pXSTBQMXVGc0ViNUJtVnRRNUdQSTB2czBuQjRPM0h5b2tjWUlkSl8yN3QyRW5ZTENvMkJtMUh1OGZlWHlDbWhYbXk2RHFPb0FLajZxSnhGbi1EVDF1NFNtZ0ZXUXU4YVJnRzlvSmNhLUJfTdIBpAFBVV95cUxNVVVvakktenJOVGNuSGRSbzBIMUh4WWlLNkxtVkVtb3lfQkNXS1UydFVQRFlGR0I2S1pXSTBQMXVGc0ViNUJtVnRRNUdQSTB2czBuQjRPM0h5b2tjWUlkSl8yN3QyRW5ZTENvMkJtMUh1OGZlWHlDbWhYbXk2RHFPb0FLajZxSnhGbi1EVDF1NFNtZ0ZXUXU4YVJnRzlvSmNhLUJfTQ?oc=5",
+          "published_at": "2026-11-12T10:21:30Z",
+          "title_zh": "意大利钢贸协会要求将欧盟CBAM小额豁免门槛从50吨提高至500吨",
+          "evidence_url": "https://www.bricomagazine.com/cbam-assofermet-chiede-alla-ue-di-rivedere-la-soglia/"
+        }
+      ]
+    },
+    {
+      "id": "0726f6d2ecda36ea83da",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU0RkbWhEYmZidmVIUHk5Nk1SU0V5dnRLeGJSVnBHNG1yNGkya014dkVoVklJQnExRnJZNDF3SWJtWGI1eEdzVnhlZS1DeWVMeTF5SGFqYzdLMlZPQkk2MkZjUmVEWlllUGpZOXRyaktoc3lNenBBazNpU0Z2MXo0UmZRbWpQYmVQemhIVEhtbWZVVHlsS191bFF5b2F2WjRrdkpiTlpTM1BLVEY3S3RyYk9TclMzb0RETzlLMXRZTC1RT0FxZDBuRHFQbEhmQ0tpR3d2MGgyZjlwVXBpMlNFNktCejBoa1VKM0HSAeoBQVVfeXFMTlNEZG1oRGJmYnZlSFB5OTZNUlNFeXZ0S3hiUlZwRzRtcjRpMmtNeHZFaFZJSUJxMUZyWTQxd0libVhiNXhHc1Z4ZWUtQ3llTHkxeUhhamM3SzJWT0JJNjJGY1JlRFpZZVBqWTl0cmpLaHN5TXpwQWszaVNGdjF6NFJmUW1qUGJlUHpoSFRIbW1mVVR5bEtfdWxReW9hdlo0a3ZKYk5aUzNQS1RGN0t0cmJPU3JTM29ERE85SzF0WUwtUU9BcWQwbkRxUGxIZkNLaUd3djBoMmY5cFVwaTJTRTZLQnowaGtVSjNB?oc=5",
+      "published_at": "2026-11-15T10:35:34Z",
+      "title_original": "Isometric launches Ready for CBAM to prepare iron and steel exporters for verification",
+      "first_seen": "2026-11-16T16:28:58Z",
+      "last_seen": "2026-11-16T16:28:58Z",
+      "source": {
+        "id": "rss",
+        "name": "Металлургпром",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-15",
+      "source_excerpt": "Isometric launches Ready for CBAM to prepare iron and steel exporters for verification Металлургпром",
+      "needs_translation": true,
+      "title_zh": "Isometric launches Ready for CBAM to prepare iron and steel exporters for verification",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "9441142b6e752226",
+      "related_reviews": []
+    }
+  ],
   "blocked_items": [
     {
       "id": "629a3b77a0ee41a7a2ea",
@@ -139,7 +347,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-15T21:40:35Z",
+      "last_seen": "2026-11-16T16:28:58Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -169,7 +377,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-15T21:40:35Z",
+      "last_seen": "2026-11-16T16:28:58Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -564,5 +772,5 @@
     }
   ],
   "retry_due_count": 10,
-  "work_fingerprint": "eca81bf382e63f140043"
+  "work_fingerprint": "bccad40a5eb31276f2a2"
 }
