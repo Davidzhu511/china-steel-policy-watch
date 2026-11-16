@@ -1,10 +1,186 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T18:09:20Z",
-  "pending_count": 17,
-  "actionable_count": 0,
+  "generated_at": "2026-11-16T22:34:04Z",
+  "pending_count": 24,
+  "actionable_count": 7,
   "blocked_count": 17,
-  "items": [],
+  "items": [
+    {
+      "id": "9fdf78caf691a3822ac2",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en",
+      "published_at": "2026-11-16T00:00:00Z",
+      "title_original": "Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment",
+      "first_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-16T22:34:04Z",
+      "source": {
+        "id": "ec_watch_pages",
+        "name": "DG CLIMA · EU ETS",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "News article 16 November 2026 Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment High-level representatives of the Open Coalition on Compliance Carbon Markets (OCCCM) today adopted the OCCCM COP31 Declaration at a meeting in Antalya. 2 min read",
+      "needs_translation": true,
+      "title_zh": "Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "ace2748c88ae3dfe",
+      "related_reviews": []
+    },
+    {
+      "id": "55b770c62e800e1e7270",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LbUZJXy14Z3l1b1hqam52bDVqN2xKOUszOUc5SUdNSW55cVlYVl9remV4Q1JhQWtkX3FrQTh2T0dYY1llWUZKUjhkUzlMOEp2LUlzNTN6dHVMbVVkZEpSbVRnRmtNbk5yYUp3MHB5OWdhOEU4d3c?oc=5",
+      "published_at": "2026-11-16T20:55:00Z",
+      "title_original": "EU to Impose 27.9% Anti-Dumping Tariff on Japanese Cold-Rolled Steel from Nov. 17",
+      "first_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-16T22:34:04Z",
+      "source": {
+        "id": "rss",
+        "name": "BigGo Finance",
+        "kind": "news",
+        "official": false
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "EU to Impose 27.9% Anti-Dumping Tariff on Japanese Cold-Rolled Steel from Nov. 17 BigGo Finance",
+      "needs_translation": true,
+      "title_zh": "EU to Impose 27.9% Anti-Dumping Tariff on Japanese Cold-Rolled Steel from Nov. 17",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "9d1ad35c8e519677",
+      "related_reviews": []
+    },
+    {
+      "id": "8d6012404249b15e1485",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQXctcTk2TXV2UG9sSTFXVldxbnNBZjBOZDlRVUdPWTBHSGQ3TDI3bGZfdEpHekI3SHhkY3pEZWJYM2FSc3dpMkdoT0RTR3JSTk5BYWt4SDlia01jTjlTZ3VxcW1Cb1JObkRIeTdHUEhScGRmbVdHSm5Qa1JMb3R4X25UX0tpd09LcmdxQzgxZmZGbnF6LUYyV0g3eEhXNTFqQUJWbTRxcVJnbHd5d1pFMS11ZTBjcG9vZ2lDM3ZCMmp1ejVxUWZGZVF5el9sWEVnVU8yRjhxcC1ZM2fSAdsBQVVfeXFMTUF3LXE5Nk11dlBvbEkxV1ZXcW5zQWYwTmQ5UVVHT1kwR0hkN0wyN2xmX3RKR3pCN0h4ZGN6RGViWDNhUnN3aTJHaE9EU0dyUk5OQWFreEg5YmtNY045U2d1cXFtQm9STm5ESHk3R1BIUnBkZm1XR0puUGtSTG90eF9uVF9LaXdPS3JncUM4MWZmRm5xei1GMldIN3hIVzUxakFCVm00cXFSZ2x3eXdaRTEtdWUwY3Bvb2dpQzN2QjJqdXo1cVFmRmVReXpfbFhFZ1VPMkY4cXAtWTNn?oc=5",
+      "published_at": "2026-11-16T17:08:15Z",
+      "title_original": "EU anti-dumping duties on Indian steel: JSW Steel, Tata Steel face 9.5% tariff",
+      "first_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-16T22:34:04Z",
+      "source": {
+        "id": "rss",
+        "name": "BusinessLine",
+        "kind": "news",
+        "official": false
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "EU anti-dumping duties on Indian steel: JSW Steel, Tata Steel face 9.5% tariff BusinessLine",
+      "needs_translation": true,
+      "title_zh": "EU anti-dumping duties on Indian steel: JSW Steel, Tata Steel face 9.5% tariff",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "dd5dfcef677e443c",
+      "related_reviews": []
+    },
+    {
+      "id": "a70239449bc6308223a0",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3B4YmpOaVdhclpneERib0V3NzMtR3JUSV9wY3RHR3JuM2hibkZYUlg0LXNIMGtuN3B2MEF3eFRxOUdQdlVPWTNkY2lOWW1ieGRIRVl6ZU9fZEtFVDBONFA3bnBRMWdyYXpsZjNkYUhnNWUzQW81cGFtV1o2REEwM1V0Qm1yU05FSk9lRVZNVkw3OGs1dGdJS3JEaXZhUVd3N0tPWUFaX3RqenZpQ1RqMnYyUkFQQmI4TFJ1Q1pCLXNQMDFjWXc?oc=5",
+      "published_at": "2026-11-16T16:13:36Z",
+      "title_original": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam",
+      "first_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-16T22:34:04Z",
+      "source": {
+        "id": "rss",
+        "name": "Reuters",
+        "kind": "news",
+        "official": false
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam Reuters",
+      "needs_translation": true,
+      "title_zh": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "43544ba8974fb5bb",
+      "related_reviews": []
+    },
+    {
+      "id": "113a8f07df9742c124b1",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMmxrVEk3QTd2UlJLc0Y5c0RZbF9pbGRrWXVCSjNVN0pLNTlJZHBRd1A0eXF5LXl6RnpzRTNWRVJRNkMxekloRnhPU0pzV1JOdDhTVUdqZ1YtbDdjTTgxazFCUzg1clBweU9jRFNkbThxRkNhV18wVUJ0VnZXbnZFWFdQR3FmMmFxVnFYYWNDVE5ibGhrSGJTZEZTeEVTRnFicS1kSFQwa29mS1g3Q3NhUmdtSlMwYkNWcW5xNE5NZmxGeWpac3VzQzMtVWpiODQ?oc=5",
+      "published_at": "2026-11-16T14:22:30Z",
+      "title_original": "EU imposes anti-dumping duties on cold-rolled steel imports from five countries, including Türkiye",
+      "first_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-16T22:34:04Z",
+      "source": {
+        "id": "rss",
+        "name": "SteelRadar",
+        "kind": "news",
+        "official": false
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "EU imposes anti-dumping duties on cold-rolled steel imports from five countries, including Türkiye SteelRadar",
+      "needs_translation": true,
+      "title_zh": "EU imposes anti-dumping duties on cold-rolled steel imports from five countries, including Türkiye",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "88b65c196794152c",
+      "related_reviews": [
+        {
+          "url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+          "published_at": "2026-11-16T00:00:00Z",
+          "title_zh": "欧盟对印度、日本、台湾、土耳其及越南冷轧钢材征收最终反倾销税，11月17日生效",
+          "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202602547"
+        }
+      ]
+    },
+    {
+      "id": "e0bc6501770de5b985ed",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSUV3cFJ2b3lpc2FIZ1lSb0FBb291Yjg3dGRId1pwU0g4dkJkR0lwOVY2TWFwYU9ubGliLUx6d3prbW9jMUJ1bHM2aWx4dDBHRHZ6bDVFUnQ3SVJhMklYNGR3MGtJOGVMMnJ1NG1EaGxjRnluXzFNOGYzOHEtSWt6c0YtSjhIeHVuUEUzT0RSYTFjcC1TV1RiMS1LTlEtWHRWVjVlR0ZHQ1NsN0FKaVp3aXM4ZTg?oc=5",
+      "published_at": "2026-11-16T12:00:24Z",
+      "title_original": "哈萨克斯坦协助金属行业适应欧盟CBAM排放规则 - 新闻和统计",
+      "first_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-16T22:34:04Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "哈萨克斯坦协助金属行业适应欧盟CBAM排放规则 - 新闻和统计 IndexBox",
+      "needs_translation": false,
+      "title_zh": "哈萨克斯坦协助金属行业适应欧盟CBAM排放规则 - 新闻和统计",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "b9e6705eb341e711",
+      "related_reviews": []
+    },
+    {
+      "id": "b42da40399cd0b2d2e7f",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNHVJMms2QzdjZFJ4azJyR0J5ZzVfN1ZHeVQyeWZ4QkpQeGFZeUV5dUtWS2hOcC1zZWZKRG1rOE4yZEpfUWwzeGNmYm5MQlRpdlIwWUo0Ui1FeVJtNFNkTHQtdlhnZm85N0ZxVGxmanhsS19mR1A0aEtIVUZNaWl2eC0wNG50SzJDZ285VW9XeldyTjJQVGfSAZsBQVVfeXFMTkgzLWVqbWFHQWkteGtwSUpqZFJHaTNaNFVYZDJjblVQZHJzb1ROYkNORUY2eWJWV1RqbG52cnZXanRkakw5bDdJY1gya0s1MEpseGNvYlgzckIxVkJtdFFRenRxTXlWWVlSdGQ0MmcxMkljemZPSDVNdk1aVm9DTHQ3Y3dUdVBBTkFfaThGM1ItTDJkZWNXWFBULW8?oc=5",
+      "published_at": "2026-11-16T10:57:38Z",
+      "title_original": "Kazakhstan’s exporters are being prepared to operate under CBAM",
+      "first_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-16T22:34:04Z",
+      "source": {
+        "id": "rss",
+        "name": "GMK Center",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "Kazakhstan’s exporters are being prepared to operate under CBAM GMK Center",
+      "needs_translation": true,
+      "title_zh": "Kazakhstan’s exporters are being prepared to operate under CBAM",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "43a62e30c40d74b2",
+      "related_reviews": []
+    }
+  ],
   "blocked_items": [
     {
       "id": "ebfc5a441977dfdc335f",
@@ -12,7 +188,7 @@
       "published_at": "2026-11-16T12:12:51Z",
       "title_original": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus",
       "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
+      "last_seen": "2026-11-16T22:34:04Z",
       "source": {
         "id": "rss",
         "name": "GMK Center",
@@ -41,7 +217,7 @@
       "published_at": "2026-11-11T22:05:42Z",
       "title_original": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance",
       "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
+      "last_seen": "2026-11-16T22:34:04Z",
       "source": {
         "id": "rss",
         "name": "Reuters",
@@ -70,7 +246,7 @@
       "published_at": "2026-11-10T10:32:06Z",
       "title_original": "Saudi Arabia opens anti-dumping probe into steel imports from China, Turkiye",
       "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T18:09:20Z",
+      "last_seen": "2026-11-16T22:34:04Z",
       "source": {
         "id": "rss",
         "name": "Arab News",
@@ -233,7 +409,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-16T18:09:20Z",
+      "last_seen": "2026-11-16T22:34:04Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -263,7 +439,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-16T18:09:20Z",
+      "last_seen": "2026-11-16T22:34:04Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -538,7 +714,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-16T18:09:20Z",
+      "last_seen": "2026-11-16T22:34:04Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -568,7 +744,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-16T18:09:20Z",
+      "last_seen": "2026-11-16T22:34:04Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -654,5 +830,5 @@
     }
   ],
   "retry_due_count": 6,
-  "work_fingerprint": "43bf0330c897bcc75613"
+  "work_fingerprint": "bff405cfe6b925533eec"
 }
