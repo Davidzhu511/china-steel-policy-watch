@@ -51,9 +51,9 @@
       "lookback_days": 21,
       "queries": [
         "China steel",
-        "Chinese steel",
-        "China iron antidumping",
-        "China steel countervailing"
+        "steel antidumping",
+        "steel countervailing",
+        "steel tariff"
       ]
     },
     "govuk": {
@@ -62,8 +62,8 @@
       "lookback_days": 30,
       "queries": [
         "China steel",
-        "Chinese steel",
-        "steel trade remedy China",
+        "steel anti-dumping",
+        "steel trade remedy",
         "steel tariff quota",
         "CBAM",
         "UK ETS"
@@ -209,7 +209,8 @@
           "max_items": 8,
           "include_paths": [
             "/news/"
-          ]
+          ],
+          "require_relevance": true
         },
         {
           "name": "DG TRADE · Steel consultations",
@@ -443,6 +444,12 @@
           "max_items": 8
         },
         {
+          "name": "Google News · Global steel trade measures",
+          "url": "https://news.google.com/rss/search?q=steel%20%28antidumping%20OR%20%22anti-dumping%22%20OR%20countervailing%20OR%20safeguard%20OR%20tariff%20OR%20quota%20OR%20circumvention%29%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen",
+          "language": "en",
+          "max_items": 12
+        },
+        {
           "name": "Google News · Chinese steelmakers",
           "url": "https://news.google.com/rss/search?q=%28Shougang%20OR%20Baowu%20OR%20Baosteel%20OR%20Ansteel%20OR%20HBIS%20OR%20Tsingshan%29%20steel%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen",
           "language": "en",
@@ -597,6 +604,49 @@
       "man of steel",
       "steel guitar",
       "steel magnolias"
+    ],
+    "trade_measures": [
+      "anti-dumping",
+      "antidumping",
+      "anti-subsidy",
+      "countervailing",
+      "anti-circumvention",
+      "anticircumvention",
+      "circumvention",
+      "safeguard",
+      "tariff",
+      "quota",
+      "import duty",
+      "import duties",
+      "export duty",
+      "export duties",
+      "export tax",
+      "trade remedy",
+      "trade remedies",
+      "trade defence",
+      "trade defense",
+      "expiry review",
+      "sunset review",
+      "rules of origin",
+      "melt and pour",
+      "melted and poured",
+      "import restriction",
+      "export restriction",
+      "import ban",
+      "export ban",
+      "sanction",
+      "反倾销",
+      "反补贴",
+      "反规避",
+      "保障措施",
+      "关税",
+      "配额",
+      "原产地",
+      "进口限制",
+      "出口限制",
+      "进口禁令",
+      "出口禁令",
+      "贸易救济"
     ]
   },
   "official_domains": {

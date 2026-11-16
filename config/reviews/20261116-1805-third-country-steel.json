@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-16T18:05:32.652815+00:00",
+  "note": "用户要求纳入影响中国钢材竞争环境的第三国贸易措施；以正式条例核验本次冷轧终裁。",
+  "editorial": [
+    {
+      "url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-16T18:05:32.652815+00:00",
+      "title_zh": "欧盟对印度、日本、台湾、土耳其及越南冷轧钢材征收最终反倾销税，11月17日生效",
+      "title_en": "EU definitive anti-dumping duties on cold-rolled steel from India, Japan, Taiwan, Türkiye and Vietnam take effect on 17 November",
+      "summary_zh": "【正式法规】欧盟执行条例(EU)2026/2547于11月13日通过、11月16日刊登，按第3条于11月17日生效。第1条规定：印度9.5%；日本27.9%；台湾合作企业20.7%、其他27%；土耳其Tatmetal 3%、Borçelik及其他企业7.8%、附件列明的其他合作企业4.9%；越南16%。税基为未完税欧盟边境净价。范围为特定未镀覆冷轧铁、非合金钢及其他合金钢扁平材，涉及部分7209、7211、7225、7226税号；不含不锈钢，另排除规定的电工钢、硅电钢、高速钢，以及厚度小于0.35毫米的退火卷状黑铁皮。企业单独税率须凭符合第1(3)条的商业发票声明，具体产品及TARIC附加码以条文和附件为准。",
+      "summary_en": "Regulation (EU) 2026/2547 was adopted on 13 November, published on 16 November and enters into force on 17 November 2026 under Article 3. Article 1 sets duties of 9.5% for India, 27.9% for Japan, 20.7% for cooperating Taiwanese producers and 27% otherwise; Türkiye: Tatmetal 3%, Borçelik and residual imports 7.8%, other listed cooperators 4.9%; Vietnam 16%. Duties apply to the net Union-frontier price before duty. Specified uncoated cold-rolled iron/non-alloy/other-alloy flat products are covered under parts of CN 7209, 7211, 7225 and 7226. Stainless steel, specified electrical/silicon-electrical and high-speed steels, and annealed black-plate coils below 0.35 mm are excluded. Individual rates require the prescribed invoice declaration; consult Article 1 and the Annex for exact scope and additional TARIC codes.",
+      "impact_zh": "【业务研判】即使本案没有把中国大陆列为涉案原产地，也会改变欧盟进口冷轧的到岸成本比较。可向欧洲汽车、家电、服务中心客户核对上述来源在途与新采购，按具体钢厂税率、产品范围和交货时间重算报价；土耳其不同企业不能统一按最高税率估算。部分受影响供货可能转向中东、北非等市场，形成新的报价压力，这属于需跟踪的贸易转移情景。中国钢材是否具备替代机会仍需另核对其自身适用措施、配额、CBAM和客户认证，不能由本案推定自动受益。",
+      "impact_en": "Business assessment: the measure changes EU landed-cost comparisons even though mainland China is not a named origin. Check customers’ shipments and sourcing plans against producer-specific duties, scope and delivery timing, particularly the differing Turkish rates. Diversion into the Middle East or North Africa could intensify price competition; this is a scenario to monitor, not an established outcome. Any substitution opportunity for Chinese steel still depends on its own applicable measures, quotas, CBAM and customer qualification.",
+      "category": "贸易救济",
+      "status": "最终反倾销税／2026-11-17生效",
+      "importance": "高",
+      "tags": [
+        "第三国贸易措施",
+        "欧盟",
+        "冷轧",
+        "反倾销",
+        "竞争格局",
+        "贸易转移"
+      ],
+      "tags_en": [
+        "third-country trade measures",
+        "EU",
+        "cold-rolled steel",
+        "anti-dumping",
+        "competition",
+        "trade diversion"
+      ],
+      "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202602547",
+      "coverage": "2026-11-16读取DG TRADE官方通告和EUR-Lex正式条例163页PDF；核对第160至162页Article 1–3及第163页附件，并目视核对税率表。已核对产品排除项、企业税率、发票条件和生效日；未逐项复核调查计算及各具体报关产品归类。",
+      "follow_up": {
+        "due_at": "2026-11-17",
+        "action_zh": "核对欧盟客户上述五个来源的在途与拟采购冷轧，按制造商、CN/TARIC及商业发票重算成本；跟踪中东和北非转向报价。",
+        "action_en": "Check EU customers’ incoming and planned cold-rolled purchases from the five origins by producer, CN/TARIC and invoice; track diverted offers into the Middle East and North Africa."
+      }
+    }
+  ]
+}
