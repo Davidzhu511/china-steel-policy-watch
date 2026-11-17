@@ -304,6 +304,148 @@
       "reviewed_at": "2026-10-08"
     },
     {
+      "id": "5f2734aac2b2a0e28ba7",
+      "title_zh": "欧盟2026/2498明确第三国已付碳价抵扣CBAM：中国全国ETS列入附件II，须扣除免费配额并证明真实支付",
+      "title_en": "EU Regulation 2026/2498: CBAM credit for carbon prices effectively paid; China national ETS listed in Annex II",
+      "title_original": "Commission Implementing Regulation (EU) 2026/2498 of 5 November 2026 laying down rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards the conversion of the carbon price paid in a third country into a corresponding reduction in the number of CBAM certificates to be surrendered, the evidence of payment of that carbon price, the qualifications of the independent person and conditions to ascertain its independence and qualifications",
+      "summary_zh": "【正式法规】实施条例(EU)2026/2498于11月5日签署、11月16日公布，按第36条11月19日生效并自2026年1月1日起适用。第4条及附件II明确将China National Emissions Trading System列为符合相关机制定义的ETS，附件同步标注免费配额和履约责任上限；这不是认定每家中国钢厂均已实际付费或保证自动抵扣。第3、9条要求按具体产品对应的嵌入排放核算净已付碳价，扣除免费分配、返还与补偿；按第6条以报告年度官方年均汇率折欧元。第7条：采用独立核证的实际支付路径，减交CBAM证书量=单吨商品合格净已付碳价(欧元/吨商品)×申报吨数÷进口年度CBAM证书参考价格(欧元/吨CO₂)；采用欧委会默认碳价路径，按适用默认碳价(欧元/吨CO₂)×对应嵌入排放强度×申报吨数÷同一年度参考价换算。实际排放值可在合格实际碳价与默认碳价路径间选择；若嵌入排放用默认排放值，则仅能用官方默认碳价。第7(3)条的年度参考价为进口年度公布CBAM证书价格的平均值，不等于某次EUA成交价或单一季度价格。符合强制碳定价制度的履约碳信用可按限制计入；国际信用须符合《巴黎协定》第6条授权发行条件且最多为相关报告排放的10%。第11条允许符合条件的现有CBAM核查机构在2026—2027报告期暂承担已付碳价核证角色，2028年后须取得专项认可；过渡角色原则上最迟2028年9月30日终止。欧委会尚待发布各国默认碳价及方法，用于2027年9月30日前首轮CBAM申报。",
+      "summary_en": "Regulation 2026/2498 was published 16 Nov, enters into force 19 Nov and applies from 1 Jan 2026. Annex II explicitly lists China's national ETS, with free allowances/liability cap—not an automatic credit. Deduct only verifiable net carbon prices attributed to CBAM-relevant embedded emissions, after rebates/free allocation. Actual-price route: certified EUR/tonne of goods × declared quantity ÷ annual CBAM reference price; default-price route: default EUR/tCO2 × embedded emissions intensity × quantity ÷ annual reference price. With default emission values, only default carbon prices may be claimed. Transitional verifier qualification covers 2026–27; special accreditation is needed from 2028. Default country carbon-price values are still forthcoming.",
+      "impact_zh": "【出口研判】对中国板坯、冷轧板等CBAM覆盖产品，国内ETS纳入并不等于全额按全国碳市场挂牌价减免。钢厂须证明有偿履约数量、实际支付与清缴凭证，按CBAM直接排放和前驱体等适用边界将碳价归属具体产品；国内ETS核算边界与CBAM边界可能不一致。可先比较欧委会未来默认碳价路径与独立核证的实际支付路径，避免为争取很小抵扣额付出过高审计成本。一般性示意：若1000吨进口钢材经核证净已付碳价为5欧元/吨商品，年度CBAM参考价为90欧元/吨CO₂，理论减交约55.56张证书；这不是中国实际碳价或2027年证书价格。2027年欧盟进口合同应区分CBAM法律缴证主体与商业成本分担，核对净成本是否扣除合格第三国碳价抵扣及相关资料责任；公开看板不披露任何客户私有合同条款。",
+      "impact_en": "China ETS coverage does not automatically generate full EU credit. Mills need evidence of net paid allowances, surrender/payment and product-level attribution under CBAM boundaries, including relevant precursors. Compare default carbon-price and audited actual-price routes once Commission values are available. For 2027 EU imports, contract CBAM-sharing provisions should define net liability and data responsibilities without disclosing confidential customer terms.",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2498",
+      "published_at": "2026-11-16T00:00:00Z",
+      "source_published_date": "2026-11-15",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "碳与环保",
+      "status": "正式实施条例／已核验",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "CBAM",
+        "第三国碳价抵扣",
+        "中国全国碳市场",
+        "免费配额",
+        "证书减交",
+        "独立核证",
+        "板坯",
+        "2027年申报"
+      ],
+      "tags_en": [
+        "CBAM",
+        "third-country carbon price",
+        "China ETS",
+        "free allocation",
+        "certificate reduction",
+        "independent certification",
+        "slab",
+        "2027 filing"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-16T16:28:58Z",
+      "last_seen": "2026-11-17T02:07:46Z",
+      "source_excerpt": "",
+      "follow_up": "钢厂财务/碳管理部门核对2026年度覆盖工序与CBAM产品边界、免费配额、履约缺口、购入配额成本/清缴凭证、退款补偿、前驱体及分品种碳价归属；确认核证机构能否承担2026—27年已付碳价核证；跟踪欧委会默认碳价与申报模板，比较默认和实际路径；欧盟进口商与合同方核对净CBAM成本分担。",
+      "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602498",
+      "coverage": "2026-11-17核对欧盟官方公报实施条例(EU)2026/2498第3—11、36条及附件I、II中中国ETS条目，并与DG TAXUD 2026-11-16正式通告交叉确认。公式为第7条变量关系的文字化表达；未使用未公布的中国默认碳价或具体钢厂实缴数据，也未据此判断具体合同已可减免。原采集published_date=2026-11-15为观察日期，官方公报日为2026-11-16。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-17T06:43:27.363Z"
+    },
+    {
+      "id": "9e67ab0eca6841d762ec",
+      "title_zh": "欧盟2026/2547冷轧钢反倾销终裁：五地分企业征税3%—27.9%，11月17日生效",
+      "title_en": "EU Regulation 2026/2547: definitive cold-rolled steel AD duties of 3–27.9% on five origins effective 17 November",
+      "title_original": "Commission Implementing Regulation (EU) 2026/2547 of 13 November 2026 imposing a definitive anti-dumping duty on imports of certain cold-rolled flat steel products originating in India, Japan, Taiwan, Türkiye and Vietnam",
+      "summary_zh": "【正式法规】欧委会2026年11月13日签署实施条例(EU)2026/2547，11月16日刊登官方公报，依第3条11月17日生效。针对原产印度、日本、台湾地区、土耳其和越南的部分未镀覆冷轧铁/非合金钢/其他合金钢扁平材（不锈钢除外）征最终反倾销税，税基为欧盟边境未完税净价。第1条分企业税率：印度JSW及其他均9.5%；日本日本制铁/大同特殊钢及其他均27.9%；台湾地区中钢、中鸿与附件所列合作企业20.7%、其他27.0%；土耳其Tatmetal 3.0%、附件合作企业4.9%、Borçelik及其他7.8%；越南POSCO Vietnam及其他16.0%。范围为部分CN 72091500、72091690、72091790、72091891、72091899、72092500、72092690、72092790、72092890、72112330、72112380、72112900、72255080、72269200，带ex的子目须核对TARIC细码。排除规定的电工钢、特定小于0.35毫米退火黑板卷、硅电钢、高速钢；已镀锌/涂层卷不因冷轧基板而自动涉案。适用个别企业税率须出示第1(3)条规定的签字商业发票及附加TARIC代码，否则按原产地其他企业税率。序言(1067)—(1070)认定本案未实施临时税，因此不追溯向此前登记进口征收本案最终反倾销税。欧委会还首次就印度铁矿石政府措施、台湾地区受中国冷轧供给影响的市场价格认定特殊市场状况(PMS)，属于调查方法重要先例。",
+      "summary_en": "Regulation 2026/2547 was signed 13 Nov, published 16 Nov and takes effect 17 Nov. Definitive AD rates: India 9.5%; Japan 27.9%; Taiwan 20.7% for CSC/Chung Hung/listed cooperators and 27% otherwise; Türkiye 3% Tatmetal, 4.9% listed cooperators, 7.8% Borçelik/others; Vietnam 16%. Scope is specified uncoated cold-rolled flats (exclusions and CN/TARIC subcodes apply). Individual rates require a signed invoice declaration. No retroactive collection in this investigation (recitals 1067–1070). The Commission established particular market situations in India and Taiwan.",
+      "impact_zh": "【出口研判】欧盟采购日本及台湾地区普通CRC的税负增加可能改变服务中心、家电和部分汽车冷轧材采购比较；土耳其企业税率仅3%—7.8%，仍需按厂别评估竞争力。中国出口商不因第三国被征税而自动免除自身反倾销、保障措施配额、CBAM和认证门槛。对潜在订单应分别核对CN/TARIC、工厂、发票、放行日期及客户技术认证，再测算DDP/CFR到岸成本。受限竞争品种可能转向中东/北非等市场，属于需要实证跟踪的贸易转移风险，不是已发生的事实。PMS调查逻辑值得关注以后对第三国本地原料成本与中国供应链关系的审查。",
+      "impact_en": "This decision changes EU landed-cost comparisons for Japanese and Taiwanese CRC while some Turkish producers remain competitive at lower rates. Chinese origin is not exempt from its own AD, safeguards, CBAM or customer qualification. Compare supplier-specific landed costs and watch for possible (not confirmed) trade diversion to MENA. The PMS method is relevant to future origin/cost investigations.",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2547",
+      "published_at": "2026-11-16T00:00:00Z",
+      "source_published_date": "2026-11-15",
+      "source": {
+        "id": "eurlex",
+        "name": "EUR-Lex / 欧盟官方公报",
+        "kind": "official-law",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "贸易救济",
+      "status": "正式终裁／已核验",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "欧盟",
+        "冷轧钢",
+        "反倾销",
+        "印度",
+        "日本",
+        "台湾地区",
+        "土耳其",
+        "越南",
+        "PMS",
+        "贸易转移"
+      ],
+      "tags_en": [
+        "EU",
+        "cold-rolled flats",
+        "anti-dumping",
+        "India",
+        "Japan",
+        "Taiwan",
+        "Türkiye",
+        "Vietnam",
+        "PMS",
+        "trade diversion"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-16T18:09:20Z",
+      "last_seen": "2026-11-17T02:07:46Z",
+      "source_excerpt": "",
+      "follow_up": "按五地实际生产企业、CN/TARIC附加码与发票核对欧盟客户的既有及新采购；列中国替代供应商对照表并分别计算自身税负、配额、CBAM和认证条件；关注中东及北非竞争报价，不把可能的贸易转移当成既成事实。",
+      "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202602547",
+      "coverage": "2026-11-17对照欧盟DG TRADE 11月16日正式通告及(EU)2026/2547官方公报163页PDF，目视核对第160—162页第1—3条、企业税率、排除品种、CN/TARIC、发票条件与生效日；核对序言(1067)—(1070)追溯征税问题及欧委会PMS解释。未逐票验证商品归类，也未计算中国具体钢厂适用税率。来源记录原采集published_date=2026-11-15系观察日期，正式官方公报日为2026-11-16。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-17T06:43:27.363Z",
+      "related_sources": [
+        {
+          "name": "Euronext Markets: Real-time Stock Market Data | live",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPanRRUlQzSGlTaE15UmExRGF2dFBkdGhtLWJvUHdVQ0JpRV9Bd3RQT3JmR2NSRnVqUGpwMFhWSHB6RTk4Y0dmd0stZG9HcFVDVXU2NFQtTVZsVEdiZ2xNSXJPWVZId2M3MW9WS2dMSE5MTER2Skp1cTF1YzgtRXRVU21aUU5oUkVUT2hDZk9TR1hSM2M4Ymt1dlo4VjY3UXFS?oc=5"
+        },
+        {
+          "name": "Global Banking & Finance Review",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObXdqY1phR0M2VG9DUkhwUVZWaElLMmlscUZaNW1nMHBNXy1yeXVyNUxWblhZZW5COGgxaG5KS2RSMVRoQ1l0N2FOanBHVDBwc0o5UklhaWU2c0Q0Nlh3blVfdWFVSWVpc0c4NjU2Smxxd0RQZU1BVnFEU2RpN1Zfcld3bERBMzlLQlM3el94eG9iVVdTamh3RUNn?oc=5"
+        },
+        {
+          "name": "Daily Sabah",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1hYM3Z6anlaZWgyd19GbTFNaGZxQTRacjVsQW40aU9NRDNDTzh2Q1F2SkpXSktDblgzVHZxX1RHcllzNVVrbGJkVDRTRVNSdkdackRYZFZKMkZYMkpWZVlWOWF5ZXVFUDJPLTg3NXY5TG1DTHhTaXkzR3hNQkhGclQ2eGVyU1owVFlWd2tyWWF6MGZiYlBYZ3dUak9SNEdQTUw5TmtyTnYzdWcwYjRIT3hNSFjSAboBQVVfeXFMTzdsV1RoRW9rYmIxT0otakVDekxFTE1McThHbkZ3RDdVdV8xQi1RUWR0UkRlTWQ0YkJ4OU9PNEs2Q2hSV1dJdGk5RVhUUGZTTzZfa3dWZTE1OHljQUc3cVgwZktyNU5rc2szd2hnejV6MndHVGNJcERPWFJKNGF2MG9PM19sUzRiN3NjVDhCakRjOHB0dUMwdkRBRXItekNyY1lWOVZvbVJaN3hkamx5VWF1WmtnakVsUnRB?oc=5"
+        },
+        {
+          "name": "MLex",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnBZSy1GcmtfT3V2UjZPYUw5NjdfdkdtSEI0TEVYNGR0NGg3bDBDQlQ4d2RXZklnRVFkRHM3dWcxQ0RLWmpNR0poSk5VR2ZtZW1Lb2otMU5FelF5Z01WaS0waGJ2Y0lwUlp0cVlncmFJVlJLVUxJWENtTHJGOV9sY2hmbEZ4TGh3TVZvOEU5N2dPZEFmZlBKS2ctNDJBSFFSbnY5S2c5S3BDRzVaSHljY0RPUDc4NmtKRWU1QWlRbXFtcUtqRFlZVVhwaFjSAVpBVV95cUxQbWJxTWRjdHVubVdON3VqZV9oVEZob0tydkxIaG81M0V2UnI3ODdwdmlyZVY1NW1weXZFT0pXSlFLUGlZZzFwcWV3NWotV01oSU9kYkNhbFFxekE?oc=5"
+        },
+        {
+          "name": "Shanghai Metals Market",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQaWVaZzJxbTYwNVFBR2NaWVl0clV4SWw2QnRSR0UzSUtnb0xVOENLZ3dUM1NQcklmbVk2YXFtQkh2UjFNRW0yc2pXYWFaOER5V3Z6UzF4YXZPcHFVc01sUFg0b0xvNWQ1RnAzb1VOX09WdzZMbkNVbmJKT0hsWEdWYm9KY19ZN2JDenk5dG4tSk50UERJbDd1d3lpWS1LQ2FvODRPTzNMcnZjcjFRT21yUENqV2NEc2hiTGpJakIzSEJwdzRGRkppRkduWlF3SkFKUlNndUZRakdMNTQzZC1fQTU1dXFmVWNaUGlXRFNpTHd3aUVtdG1faXdERkotdjFhZHVrTXFPZTktVnlMdmpidEFQaWU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c816c2edd2486ade4830",
       "title_zh": "欧盟普通法院驳回Özkan球扁钢反倾销诉讼，未撤销2024/209号条例",
       "title_en": "General Court dismisses Özkan bulb-flat anti-dumping challenge; Regulation 2024/209 is not annulled",
@@ -902,7 +1044,29 @@
       "coverage": "2026-11-16读取DG TRADE官方通告和EUR-Lex正式条例163页PDF；核对第160至162页Article 1–3及第163页附件，并目视核对税率表。已核对产品排除项、企业税率、发票条件和生效日；未逐项复核调查计算及各具体报关产品归类。",
       "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202602547",
       "review_method": "source_checked",
-      "reviewed_at": "2026-11-16T18:05:32.652815+00:00"
+      "reviewed_at": "2026-11-16T18:05:32.652815+00:00",
+      "related_sources": [
+        {
+          "name": "MLQ.ai",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3A2ckluX25CZUJPNHRWTGw3OFN5bTl6ak43cUdVMTJqbC1hd3pvNkQwRHNYZTloS285MFl6U0o0bktKa1J6TDhkbUVlME5KTW81cFNqeFRRSUpLa1pLQ1ZDQnRlc0JBcnQwMjlfYTdQZnNmQmxqaGoxUkpaSU54TFFnTS1jSkR1NElja19UZE8xT1RKU2VTYlRoLXMwY1NwWEtucjl3TERUcU1wZGFjTlN3bGJmMlVmUk02c1J1c1pqQQ?oc=5"
+        },
+        {
+          "name": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LbUZJXy14Z3l1b1hqam52bDVqN2xKOUszOUc5SUdNSW55cVlYVl9remV4Q1JhQWtkX3FrQTh2T0dYY1llWUZKUjhkUzlMOEp2LUlzNTN6dHVMbVVkZEpSbVRnRmtNbk5yYUp3MHB5OWdhOEU4d3c?oc=5"
+        },
+        {
+          "name": "BusinessLine",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQXctcTk2TXV2UG9sSTFXVldxbnNBZjBOZDlRVUdPWTBHSGQ3TDI3bGZfdEpHekI3SHhkY3pEZWJYM2FSc3dpMkdoT0RTR3JSTk5BYWt4SDlia01jTjlTZ3VxcW1Cb1JObkRIeTdHUEhScGRmbVdHSm5Qa1JMb3R4X25UX0tpd09LcmdxQzgxZmZGbnF6LUYyV0g3eEhXNTFqQUJWbTRxcVJnbHd5d1pFMS11ZTBjcG9vZ2lDM3ZCMmp1ejVxUWZGZVF5el9sWEVnVU8yRjhxcC1ZM2fSAdsBQVVfeXFMTUF3LXE5Nk11dlBvbEkxV1ZXcW5zQWYwTmQ5UVVHT1kwR0hkN0wyN2xmX3RKR3pCN0h4ZGN6RGViWDNhUnN3aTJHaE9EU0dyUk5OQWFreEg5YmtNY045U2d1cXFtQm9STm5ESHk3R1BIUnBkZm1XR0puUGtSTG90eF9uVF9LaXdPS3JncUM4MWZmRm5xei1GMldIN3hIVzUxakFCVm00cXFSZ2x3eXdaRTEtdWUwY3Bvb2dpQzN2QjJqdXo1cVFmRmVReXpfbFhFZ1VPMkY4cXAtWTNn?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3B4YmpOaVdhclpneERib0V3NzMtR3JUSV9wY3RHR3JuM2hibkZYUlg0LXNIMGtuN3B2MEF3eFRxOUdQdlVPWTNkY2lOWW1ieGRIRVl6ZU9fZEtFVDBONFA3bnBRMWdyYXpsZjNkYUhnNWUzQW81cGFtV1o2REEwM1V0Qm1yU05FSk9lRVZNVkw3OGs1dGdJS3JEaXZhUVd3N0tPWUFaX3RqenZpQ1RqMnYyUkFQQmI4TFJ1Q1pCLXNQMDFjWXc?oc=5"
+        },
+        {
+          "name": "SteelRadar",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMmxrVEk3QTd2UlJLc0Y5c0RZbF9pbGRrWXVCSjNVN0pLNTlJZHBRd1A0eXF5LXl6RnpzRTNWRVJRNkMxekloRnhPU0pzV1JOdDhTVUdqZ1YtbDdjTTgxazFCUzg1clBweU9jRFNkbThxRkNhV18wVUJ0VnZXbnZFWFdQR3FmMmFxVnFYYWNDVE5ibGhrSGJTZEZTeEVTRnFicS1kSFQwa29mS1g3Q3NhUmdtSlMwYkNWcW5xNE5NZmxGeWpac3VzQzMtVWpiODQ?oc=5"
+        }
+      ]
     },
     {
       "id": "c86ac4237b31906d2d87",
@@ -6190,120 +6354,6 @@
       "reviewed_at": "2026-10-09"
     },
     {
-      "id": "5f2734aac2b2a0e28ba7",
-      "title_zh": "欧盟2026/2498号实施条例：规定第三国已付碳价折抵CBAM证书的换算、支付证据及独立核证人员要求",
-      "title_en": "Commission Implementing Regulation (EU) 2026/2498 of 5 November 2026 laying down rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards the conversion of the carbon price paid in a third country into a corresponding reduction in the number of CBAM certificates to be surrendered, the evidence of payment of that carbon price, the qualifications of the independent person and conditions to ascertain its independence and qualifications",
-      "title_original": "Commission Implementing Regulation (EU) 2026/2498 of 5 November 2026 laying down rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards the conversion of the carbon price paid in a third country into a corresponding reduction in the number of CBAM certificates to be surrendered, the evidence of payment of that carbon price, the qualifications of the independent person and conditions to ascertain its independence and qualifications",
-      "summary_zh": "欧盟官方公报题名显示2026/2498号实施条例规定第三国已付碳价转换为CBAM证书减交数量的计算、付款证明以及独立人员资质和独立性条件。未取得全文，不能确认计算公式和具体材料期限。",
-      "summary_en": "EU official title establishes a CBAM third-country carbon-price deduction evidence and verifier framework; detailed calculation is not yet verified.",
-      "impact_zh": "中国钢厂如主张境内实际已付碳价抵扣，应与进口商准备可审计付款凭证，不能把碳市场名义价格等同于实际可抵扣额。",
-      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2498",
-      "published_at": "2026-11-15T23:00:00Z",
-      "source_published_date": "2026-11-15",
-      "source": {
-        "id": "eurlex",
-        "name": "EUR-Lex / 欧盟官方公报",
-        "kind": "official-law",
-        "official": true
-      },
-      "country": "欧盟",
-      "region": "欧洲",
-      "category": "碳与环保",
-      "status": "待核对",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "complete",
-      "first_seen": "2026-11-16T16:28:58Z",
-      "last_seen": "2026-11-17T02:07:46Z",
-      "source_excerpt": "",
-      "follow_up": "取得欧盟2026/2498号条例正文核对抵扣算法和核证资格。",
-      "evidence_url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2498",
-      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
-      "review_method": "source_checked",
-      "reviewed_at": "2026-11-16T19:27:43Z",
-      "source_translation": {
-        "title_zh": "欧盟2026/2498号实施条例：规定第三国已付碳价折抵CBAM证书的换算、支付证据及独立核证人员要求",
-        "translated_at": "2026-11-16T19:27:43Z",
-        "method": "editor_translation",
-        "coverage": "标题翻译，不代表全文核验"
-      }
-    },
-    {
-      "id": "9e67ab0eca6841d762ec",
-      "title_zh": "欧盟2026/2547号实施条例：对印度、日本、台湾地区、土耳其和越南部分冷轧板材征收最终反倾销税",
-      "title_en": "Commission Implementing Regulation (EU) 2026/2547 of 13 November 2026 imposing a definitive anti-dumping duty on imports of certain cold-rolled flat steel products originating in India, Japan, Taiwan, Türkiye and Vietnam",
-      "title_original": "Commission Implementing Regulation (EU) 2026/2547 of 13 November 2026 imposing a definitive anti-dumping duty on imports of certain cold-rolled flat steel products originating in India, Japan, Taiwan, Türkiye and Vietnam",
-      "summary_zh": "欧盟官方公报题名显示2026/2547号实施条例于11月13日签署，针对原产印度、日本、台湾地区、土耳其和越南的部分冷轧扁平钢材作出最终反倾销措施。当前仅能核实法规标题，具体企业税率、排除项、CN编码及生效日未从正文核实。",
-      "summary_en": "EU official title records definitive anti-dumping duties on certain cold-rolled flats from five non-China origins; rates and exclusions require full-text verification.",
-      "impact_zh": "竞争来源可能面临额外进口成本，给中国同类钢材创造潜在报价空间，但中国自身贸易救济、配额和CBAM义务不因此豁免。",
-      "impact_en": "Potential sourcing and competition effects require product-specific tariff and origin verification; no automatic benefit for Chinese exports.",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2547",
-      "published_at": "2026-11-15T23:00:00Z",
-      "source_published_date": "2026-11-15",
-      "source": {
-        "id": "eurlex",
-        "name": "EUR-Lex / 欧盟官方公报",
-        "kind": "official-law",
-        "official": true
-      },
-      "country": "欧盟",
-      "region": "欧洲",
-      "category": "贸易救济",
-      "status": "待核对",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "complete",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-17T02:07:46Z",
-      "source_excerpt": "",
-      "follow_up": "优先取得欧盟2026/2547号条例正文，核对五地企业税率、产品CN编码、排除项和生效日。",
-      "evidence_url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2547",
-      "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
-      "review_method": "source_checked",
-      "reviewed_at": "2026-11-16T19:27:43Z",
-      "related_sources": [
-        {
-          "name": "Euronext Markets: Real-time Stock Market Data | live",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPanRRUlQzSGlTaE15UmExRGF2dFBkdGhtLWJvUHdVQ0JpRV9Bd3RQT3JmR2NSRnVqUGpwMFhWSHB6RTk4Y0dmd0stZG9HcFVDVXU2NFQtTVZsVEdiZ2xNSXJPWVZId2M3MW9WS2dMSE5MTER2Skp1cTF1YzgtRXRVU21aUU5oUkVUT2hDZk9TR1hSM2M4Ymt1dlo4VjY3UXFS?oc=5"
-        },
-        {
-          "name": "Global Banking & Finance Review",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObXdqY1phR0M2VG9DUkhwUVZWaElLMmlscUZaNW1nMHBNXy1yeXVyNUxWblhZZW5COGgxaG5KS2RSMVRoQ1l0N2FOanBHVDBwc0o5UklhaWU2c0Q0Nlh3blVfdWFVSWVpc0c4NjU2Smxxd0RQZU1BVnFEU2RpN1Zfcld3bERBMzlLQlM3el94eG9iVVdTamh3RUNn?oc=5"
-        },
-        {
-          "name": "Daily Sabah",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1hYM3Z6anlaZWgyd19GbTFNaGZxQTRacjVsQW40aU9NRDNDTzh2Q1F2SkpXSktDblgzVHZxX1RHcllzNVVrbGJkVDRTRVNSdkdackRYZFZKMkZYMkpWZVlWOWF5ZXVFUDJPLTg3NXY5TG1DTHhTaXkzR3hNQkhGclQ2eGVyU1owVFlWd2tyWWF6MGZiYlBYZ3dUak9SNEdQTUw5TmtyTnYzdWcwYjRIT3hNSFjSAboBQVVfeXFMTzdsV1RoRW9rYmIxT0otakVDekxFTE1McThHbkZ3RDdVdV8xQi1RUWR0UkRlTWQ0YkJ4OU9PNEs2Q2hSV1dJdGk5RVhUUGZTTzZfa3dWZTE1OHljQUc3cVgwZktyNU5rc2szd2hnejV6MndHVGNJcERPWFJKNGF2MG9PM19sUzRiN3NjVDhCakRjOHB0dUMwdkRBRXItekNyY1lWOVZvbVJaN3hkamx5VWF1WmtnakVsUnRB?oc=5"
-        },
-        {
-          "name": "MLex",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZnBZSy1GcmtfT3V2UjZPYUw5NjdfdkdtSEI0TEVYNGR0NGg3bDBDQlQ4d2RXZklnRVFkRHM3dWcxQ0RLWmpNR0poSk5VR2ZtZW1Lb2otMU5FelF5Z01WaS0waGJ2Y0lwUlp0cVlncmFJVlJLVUxJWENtTHJGOV9sY2hmbEZ4TGh3TVZvOEU5N2dPZEFmZlBKS2ctNDJBSFFSbnY5S2c5S3BDRzVaSHljY0RPUDc4NmtKRWU1QWlRbXFtcUtqRFlZVVhwaFjSAVpBVV95cUxQbWJxTWRjdHVubVdON3VqZV9oVEZob0tydkxIaG81M0V2UnI3ODdwdmlyZVY1NW1weXZFT0pXSlFLUGlZZzFwcWV3NWotV01oSU9kYkNhbFFxekE?oc=5"
-        },
-        {
-          "name": "Shanghai Metals Market",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQaWVaZzJxbTYwNVFBR2NaWVl0clV4SWw2QnRSR0UzSUtnb0xVOENLZ3dUM1NQcklmbVk2YXFtQkh2UjFNRW0yc2pXYWFaOER5V3Z6UzF4YXZPcHFVc01sUFg0b0xvNWQ1RnAzb1VOX09WdzZMbkNVbmJKT0hsWEdWYm9KY19ZN2JDenk5dG4tSk50UERJbDd1d3lpWS1LQ2FvODRPTzNMcnZjcjFRT21yUENqV2NEc2hiTGpJakIzSEJwdzRGRkppRkduWlF3SkFKUlNndUZRakdMNTQzZC1fQTU1dXFmVWNaUGlXRFNpTHd3aUVtdG1faXdERkotdjFhZHVrTXFPZTktVnlMdmpidEFQaWU?oc=5"
-        }
-      ],
-      "source_translation": {
-        "title_zh": "欧盟2026/2547号实施条例：对印度、日本、台湾地区、土耳其和越南部分冷轧板材征收最终反倾销税",
-        "translated_at": "2026-11-16T19:27:43Z",
-        "method": "editor_translation",
-        "coverage": "标题翻译，不代表全文核验"
-      }
-    },
-    {
       "id": "1ea4d36b5128294f5ac1",
       "title_zh": "欧盟理事会确定EEA的CBAM系统分摊谈判立场：附件仍为草案",
       "title_en": "Council establishes EEA CBAM financing position; attached joint decision remains draft",
@@ -6759,7 +6809,13 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T22:34:04Z",
       "last_seen": "2026-11-17T02:07:46Z",
-      "source_excerpt": "News article 16 November 2026 Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment High-level representatives of the Open Coalition on Compliance Carbon Markets (OCCCM) today adopted the OCCCM COP31 Declaration at a meeting in Antalya. 2 min read"
+      "source_excerpt": "News article 16 November 2026 Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment High-level representatives of the Open Coalition on Compliance Carbon Markets (OCCCM) today adopted the OCCCM COP31 Declaration at a meeting in Antalya. 2 min read",
+      "source_translation": {
+        "title_zh": "合规碳市场开放联盟通过COP31宣言并启动工作组，推动碳定价支持减排和投资",
+        "translated_at": "2026-11-17T06:43:27.363Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
+      }
     },
     {
       "id": "e35ed0d5a73d3dbbcac1",
@@ -8594,7 +8650,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-17T02:09:28Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "与欧盟DG TRADE已核验的2026-11-16冷轧钢反倾销最终措施属于同一事件。已由2026/2547正式法规主条详细核对税率、产品范围、企业差异与生效日；本转载无经独立验证的新法律变化，不另计一条政策。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-17T06:43:27.363Z",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
     },
     {
       "id": "55b770c62e800e1e7270",
@@ -8629,7 +8690,18 @@
       "translation_state": "pending",
       "first_seen": "2026-11-16T22:34:04Z",
       "last_seen": "2026-11-17T02:07:46Z",
-      "source_excerpt": "EU to Impose 27.9% Anti-Dumping Tariff on Japanese Cold-Rolled Steel from Nov. 17 BigGo Finance"
+      "source_excerpt": "EU to Impose 27.9% Anti-Dumping Tariff on Japanese Cold-Rolled Steel from Nov. 17 BigGo Finance",
+      "review_disposition": "duplicate",
+      "review_note_zh": "与欧盟DG TRADE已核验的2026-11-16冷轧钢反倾销最终措施属于同一事件。已由2026/2547正式法规主条详细核对税率、产品范围、企业差异与生效日；本转载无经独立验证的新法律变化，不另计一条政策。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-17T06:43:27.363Z",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "source_translation": {
+        "title_zh": "欧盟自11月17日起对日本冷轧钢征收27.9%反倾销税",
+        "translated_at": "2026-11-17T06:43:27.363Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
+      }
     },
     {
       "id": "8d6012404249b15e1485",
@@ -8672,7 +8744,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-16T22:36:02Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "与欧盟DG TRADE已核验的2026-11-16冷轧钢反倾销最终措施属于同一事件。已由2026/2547正式法规主条详细核对税率、产品范围、企业差异与生效日；本转载无经独立验证的新法律变化，不另计一条政策。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-17T06:43:27.363Z",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
     },
     {
       "id": "a70239449bc6308223a0",
@@ -8715,7 +8792,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-16T22:36:03Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "与欧盟DG TRADE已核验的2026-11-16冷轧钢反倾销最终措施属于同一事件。已由2026/2547正式法规主条详细核对税率、产品范围、企业差异与生效日；本转载无经独立验证的新法律变化，不另计一条政策。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-17T06:43:27.363Z",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
     },
     {
       "id": "9383c9ae73c642beeadf",
@@ -8902,7 +8984,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-16T22:36:03Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "与欧盟DG TRADE已核验的2026-11-16冷轧钢反倾销最终措施属于同一事件。已由2026/2547正式法规主条详细核对税率、产品范围、企业差异与生效日；本转载无经独立验证的新法律变化，不另计一条政策。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-17T06:43:27.363Z",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
     },
     {
       "id": "dc417bbc80334f683d53",
