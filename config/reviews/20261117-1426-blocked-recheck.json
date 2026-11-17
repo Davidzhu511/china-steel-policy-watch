@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-17T13:27:08.738Z",
+  "translations": [],
+  "editorial": [],
+  "triage": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnJXRUdNbnp3c2MxVzRwS0ZhMHZtdU9oVWFWWTZVeWMyMEFoLU4zWnBxbjlfbTBtMGlvdUtyQndiTFN6aDdSTzlYeDI3Q3ZGOHlaN1FZVTMwbEIxZm5aYjdvNkRod3FoWkJZQjZ5QjB5LV80OUM3VGFEUmY3bHpndkRfV2RZUHVWcXVCTU5fa3ZnSEtCUlQxWXVTb19tX00?oc=5",
+      "published_date": "2026-11-05",
+      "decision": "blocked",
+      "reason_zh": "Quantum Commodity Intelligence 2026-11-05报道的CEO观点仍无法由公开目录/搜索获取可归属的CEO姓名、企业、原话和财务指标；不把标题中的盈利观点当成已证实的CBAM普遍效果。原始内容存在稳定的专业订阅限制，需人工提供合法可阅读原文后再核验。",
+      "attempted_at": "2026-11-17T13:27:08.738Z",
+      "coverage": "2026-11-17针对原始标题和qcintel.com公开入口进行有限复查，未取得足以核验发言主体和盈利数据的正文；仅核对标题及公开索引，未全文核验。",
+      "evidence_url": "https://www.qcintel.com/carbon/company-news/",
+      "retry_policy": "manual",
+      "retry_after": "2026-11-24T00:00:00Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZmVmcWlGZGtJa25Uc1A5emFBMTNLa2RVY1lsVEVoLThBUk5oSVZETnZ1bFJfWEVUNlZrbkRmeFhraFlVZ3R3Wl84N0xMWEY4RGEw?oc=5",
+      "published_date": "2026-11-01",
+      "decision": "blocked",
+      "reason_zh": "搜狐原作者网页显示2026-10-27 18:35，与队列采集日期2026-11-01不一致；正文自称2026上半年20多个国家和地区98起贸易救济案件，但未提供逐案可追溯的官方案件清单，不能把统计直接认定为官方事实或已实施税率。该评论包含钢材出口形势分析，但不构成新的可确认贸易措施。保留受阻以便有原始统计证据时更正。",
+      "attempted_at": "2026-11-17T13:27:08.738Z",
+      "coverage": "2026-11-17重新读取搜狐原文，核对页面署名时间、98起/20多国主张和调查不等于征税的区分；未对98起案件逐案官方验证，属于有限原文覆盖，不标source_checked。",
+      "evidence_url": "https://timeline.sohu.com/news/FXLopmNDK3",
+      "retry_policy": "manual",
+      "retry_after": "2026-11-24T00:00:00Z"
+    }
+  ]
+}
