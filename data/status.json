@@ -8,20 +8,25 @@
   "archived_items": 137,
   "verified_items": 289,
   "pending_analysis": 25,
-  "pending_translation": 3,
+  "pending_translation": 2,
   "blocked_items": 17,
   "actionable_count": 8,
   "blocked_count": 17,
   "retry_due_count": 6,
-  "pending_machine_translation": 3,
-  "chinese_title_coverage": 99.0,
+  "pending_machine_translation": 2,
+  "chinese_title_coverage": 99.4,
   "oldest_actionable_hours": 3.6,
   "offline_translation": {
-    "status": "queued",
-    "translated": 0,
-    "warnings": []
+    "status": "partial",
+    "translated": 1,
+    "warnings": [
+      "2 条译文未通过完整性检查，保留原文待重试。"
+    ],
+    "remaining": 2,
+    "attempted_at": "2026-11-17T02:09:31Z",
+    "retry_after": "2026-11-17T08:09:31.909758+00:00"
   },
-  "machine_translated_items": 8,
+  "machine_translated_items": 9,
   "collected_items": 89,
   "processed_items": 1,
   "deferred_items": 0,
@@ -103,5 +108,6 @@
       "consecutive_failures": 0
     }
   ],
-  "warnings": []
+  "warnings": [],
+  "translation_updated_at": "2026-11-17T02:09:31Z"
 }

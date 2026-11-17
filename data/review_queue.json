@@ -47,8 +47,8 @@
       "translation_state": "pending",
       "published_date": "2026-11-17",
       "source_excerpt": "EU puts anti-dumping duties of up to 28% on cold-rolled steel from India, Japan, Taiwan, Turkey and Vietnam MLQ.ai",
-      "needs_translation": true,
-      "title_zh": "EU puts anti-dumping duties of up to 28% on cold-rolled steel from India, Japan, Taiwan, Turkey and Vietnam",
+      "needs_translation": false,
+      "title_zh": "欧盟向印度、日本、台湾、土耳其和越南的冷轧钢征收最高达28%的反倾销税",
       "review_attempted_at": "",
       "evidence_fingerprint": "26ff4d4427ee72bc",
       "related_reviews": []
