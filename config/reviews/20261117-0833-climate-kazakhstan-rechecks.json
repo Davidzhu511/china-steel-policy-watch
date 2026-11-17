@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-17T07:34:25.181Z",
+  "translations": [],
+  "editorial": [
+    {
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-17T07:34:25.181Z",
+      "title_zh": "中欧共同担任副主席的合规碳市场联盟在COP31通过宣言并启动工作组",
+      "title_en": "China and EU co-chair coalition on compliance carbon markets as COP31 declaration and working groups launch",
+      "summary_zh": "【官方事实】欧委会气候行动总司2026年11月16日公告：合规碳市场开放联盟(OCCCM)在土耳其安塔利亚COP31会议通过宣言、启动工作组并确定2027年工作重点。巴西担任主席，中国与欧盟共同担任副主席；截至11月16日有13个成员和34个观察员。联盟致力于碳定价制度合作、相互理解及长期互操作性；其宣言不是欧盟CBAM抵扣、ETS互认或国际碳信用资格的直接实施条例。",
+      "summary_en": "DG CLIMA confirms the OCCCM adopted its COP31 Declaration on 16 Nov 2026 and launched working groups. Brazil chairs, China and the EU co-chair; 13 members and 34 observers. This is a cooperation initiative, not a binding CBAM credit or ETS mutual-recognition rule.",
+      "impact_zh": "【研判】中欧在碳市场合作机制共同担任领导角色，可能改善未来排放数据、碳定价和信用标准的政策对话环境，但不能据此宣布中国碳配额价格可直接抵扣欧盟CBAM。钢铁出口企业仍须按照2026/2498等现行法规核算净已付碳价和提供证据。建议关注工作组2027年议题，特别是碳信用质量与跨境市场衔接。",
+      "impact_en": "Potential longer-term policy dialogue on carbon-market interoperability; no automatic CBAM credit or ETS recognition. Steel exporters should follow binding CBAM rules and monitor 2027 workstreams.",
+      "evidence_url": "https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en",
+      "coverage": "2026-11-17阅读全文核对欧委会DG CLIMA 2026-11-16新闻稿，确认主席/副主席、成员数量、宣言及工作组；未将联盟政策愿景解释为法律义务。",
+      "category": "碳与环保",
+      "importance": "中",
+      "review_status": "source_checked",
+      "follow_up": "跟踪OCCCM 2027年工作组和碳信用标准动向，涉及CBAM具体抵扣时仍以欧盟法规为准。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNHVJMms2QzdjZFJ4azJyR0J5ZzVfN1ZHeVQyeWZ4QkpQeGFZeUV5dUtWS2hOcC1zZWZKRG1rOE4yZEpfUWwzeGNmYm5MQlRpdlIwWUo0Ui1FeVJtNFNkTHQtdlhnZm85N0ZxVGxmanhsS19mR1A0aEtIVUZNaWl2eC0wNG50SzJDZ285VW9XeldyTjJQVGfSAZsBQVVfeXFMTkgzLWVqbWFHQWkteGtwSUpqZFJHaTNaNFVYZDJjblVQZHJzb1ROYkNORUY2eWJWV1RqbG52cnZXanRkakw5bDdJY1gya0s1MEpseGNvYlgzckIxVkJtdFFRenRxTXlWWVlSdGQ0MmcxMkljemZPSDVNdk1aVm9DTHQ3Y3dUdVBBTkFfaThGM1ItTDJkZWNXWFBULW8?oc=5",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-17T07:34:25.181Z",
+      "title_zh": "哈萨克斯坦推动钢铝出口商适应欧盟CBAM：实测排放或显著降低成本",
+      "title_en": "Kazakhstan prepares steel and aluminium exporters for CBAM; verified emissions may reduce modeled costs",
+      "summary_zh": "【报道事实与模型预测分开】GMK Center 2026年11月16日报道，哈萨克斯坦贸易和一体化部及QazTrade在COP31讨论钢铁和铝出口商的排放监测、报告与独立核证。援引政府及国际贸易中心(ITC)/QazTrade研究：2025年哈萨克斯坦对欧盟钢铁出口约39.6万吨、3.37亿欧元，铝约11万吨、2.74亿欧元。研究在特定假设下估计四类产品若使用默认排放值，CBAM年度成本约1.14亿美元；采用经核实的实际排放数据，模拟值可能约减半至5700万美元。以上均为研究情景，不是已缴税额或已确定2027年账单。欧盟驻哈萨克斯坦代表团2026年6月9日公告证实ITC/QazTrade研究及实际排放数据的重要性。",
+      "summary_en": "GMK Center reported on 16 Nov 2026 that Kazakhstan is preparing steel/aluminium exporters for EU CBAM monitoring and verification. A cited ITC/QazTrade scenario estimates roughly USD 114m under defaults versus USD 57m with verified actual emissions across four categories; these are model outputs, not assessed tax liabilities. EU Delegation confirmed the study in June.",
+      "impact_zh": "【出口研判】哈萨克斯坦等竞争来源加速实际排放核证，可能缩小其默认值下的CBAM成本劣势，影响欧洲客户对板坯、长材和其他钢材的采购比较。中国钢厂应尽早取得产品及前驱体的可核证实际排放值，与欧盟默认值逐项比较，并把不同来源的认证进度纳入客户报价评估。不能将研究估计金额当作中国或哈萨克斯坦法定税率。",
+      "impact_en": "Competitor verification could reduce default-value cost disadvantages and change EU landed-cost comparisons. Chinese mills should secure verified product and precursor emissions and compare actual against default values; modeled costs are not legal rates.",
+      "evidence_url": "https://gmk.center/en/news/kazakhstan-s-exporters-are-being-prepared-to-operate-under-cbam/",
+      "coverage": "2026-11-17阅读全文GMK Center 2026-11-16报道，交叉核对欧盟驻哈萨克斯坦代表团2026-06-09研究公告和Astana Times 2026-11-16报道。模型金额/货值均按媒体和研究归因，未核验ITC完整模型输入；同一事件另一IndexBox标题仅做标题级去重。",
+      "category": "碳与环保",
+      "importance": "中",
+      "review_status": "source_checked",
+      "follow_up": "监测哈萨克斯坦钢厂实际核证进度及欧盟客户采购变化；不以媒体模型替代钢厂实测数据。"
+    }
+  ],
+  "triage": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSUV3cFJ2b3lpc2FIZ1lSb0FBb291Yjg3dGRId1pwU0g4dkJkR0lwOVY2TWFwYU9ubGliLUx6d3prbW9jMUJ1bHM2aWx4dDBHRHZ6bDVFUnQ3SVJhMklYNGR3MGtJOGVMMnJ1NG1EaGxjRnluXzFNOGYzOHEtSWt6c0YtSjhIeHVuUEUzT0RSYTFjcC1TV1RiMS1LTlEtWHRWVjVlR0ZHQ1NsN0FKaVp3aXM4ZTg?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "duplicate",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNHVJMms2QzdjZFJ4azJyR0J5ZzVfN1ZHeVQyeWZ4QkpQeGFZeUV5dUtWS2hOcC1zZWZKRG1rOE4yZEpfUWwzeGNmYm5MQlRpdlIwWUo0Ui1FeVJtNFNkTHQtdlhnZm85N0ZxVGxmanhsS19mR1A0aEtIVUZNaWl2eC0wNG50SzJDZ285VW9XeldyTjJQVGfSAZsBQVVfeXFMTkgzLWVqbWFHQWkteGtwSUpqZFJHaTNaNFVYZDJjblVQZHJzb1ROYkNORUY2eWJWV1RqbG52cnZXanRkakw5bDdJY1gya0s1MEpseGNvYlgzckIxVkJtdFFRenRxTXlWWVlSdGQ0MmcxMkljemZPSDVNdk1aVm9DTHQ3Y3dUdVBBTkFfaThGM1ItTDJkZWNXWFBULW8?oc=5",
+      "reason_zh": "与同日GMK Center报道的哈萨克斯坦COP31 CBAM准备活动为同一事件；已核验GMK原始报道并用欧盟代表团资料交叉核对，IndexBox仅标题级覆盖。",
+      "attempted_at": "2026-11-17T07:34:25.181Z",
+      "coverage": "IndexBox队列标题及摘要级去重；未逐篇取得IndexBox原文，不把它当作独立全文核验。"
+    },
+    {
+      "url": "https://news.mysteel.com/a/26103009/E921E5CBA72B4D5E.html",
+      "published_date": "2026-10-30",
+      "decision": "blocked",
+      "reason_zh": "商务部贸易救济信息网和商务部国别贸易环境网站确认泰国2026-10-22公告对中国预应力钢绞线(7312.10.91)反倾销立案、书面意见30日窗口。仍未取得泰国政府公报135120.pdf全文，不能独立确认法定起算日、产品排除及最终应诉截止日；此案存在临期风险，应由涉案企业立即联系泰国主管机关/律师核定期限。",
+      "attempted_at": "2026-11-17T07:34:25.181Z",
+      "coverage": "2026-11-17复核中国商务部2026-11-04官方编译及Yieh 2026-11-02报道，确认有限事实；未成功逐页核对泰国政府公报原件，非source_checked。",
+      "evidence_url": "https://itpp.mofcom.gov.cn/article/hydt/wkhgong/jcl/jzcl/202611/26178.html",
+      "retry_after": "2026-11-20T00:00:00Z"
+    },
+    {
+      "url": "https://news.mysteel.com/a/26110215/722BC206CFA1DEAD.html",
+      "published_date": "2026-11-02",
+      "decision": "blocked",
+      "reason_zh": "已找到埃及2026年第7号公告的行业报道，称3月31日批准终止对中国和土耳其CRC/GI/PPGI反倾销调查、不加征本案反倾销税；现行保障措施仍应单独核对。埃及主管机关正式决定全文仍未取得，不将行业报道的完整税号和保护期当作官方核验。",
+      "attempted_at": "2026-11-17T07:34:25.181Z",
+      "coverage": "2026-11-17核对SteelOrbis 2026-04-03及MESteel 2026-04-03报道、FMM 2026-03保障措施通报；仍缺埃及第7号公告官方正文，保留blocked。",
+      "evidence_url": "https://mesteel.com/news/ministry-closes-ad-probe-on-flat-steel-imports-without-duties",
+      "retry_after": "2026-11-20T00:00:00Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CYVN2TGI0Qk9RekpqVlZUd1g4OWtaWURZRmtwMk9ZVGN2TVhtTkV4Q0MtTnBaMGNXZUdGZGNiVVhsRzhnSWVLNGlibFQxYnM1WlBFTFpR?oc=5",
+      "published_date": "2026-11-04",
+      "decision": "blocked",
+      "reason_zh": "2026-11-04 QQ新闻转载原始正文仍未取得，标题涉及1.19亿吨和产能出海的论述不具独立新增政策证据；稳定无法访问的转载转人工资料模式，不再按周期重复抓取。",
+      "attempted_at": "2026-11-17T07:34:25.181Z",
+      "coverage": "2026-11-17仅核对队列原始标题、已存核验记录和相关已核验行业观点；未取得该篇正文，不对标题数字作全文核验。",
+      "retry_policy": "manual",
+      "evidence_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CYVN2TGI0Qk9RekpqVlZUd1g4OWtaWURZRmtwMk9ZVGN2TVhtTkV4Q0MtTnBaMGNXZUdGZGNiVVhsRzhnSWVLNGlibFQxYnM1WlBFTFpR?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWTXZCWUxFLWgwUmF6TU5OVXVwcFIxX29jU2NHU1hOSGZBVFZRVklJNjZYcXRHdlpOZGFIdXpGamxCcVdXNDJjVWRoYUJUcTZGOFhSYVRJRkJsMDlKM3duMi1KaFZRRFZtakxKOUJZOG5fWkg1VGlydW42d21JZw?oc=5",
+      "published_date": "2026-11-06",
+      "decision": "duplicate",
+      "duplicate_of": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2498",
+      "reason_zh": "原受阻商业报道的核心事项已由2026-11-16欧盟实施条例(EU)2026/2498官方文本和看板既有完整核验主条覆盖；不再重复检索商业转载，按同一法规事件去重。",
+      "attempted_at": "2026-11-17T07:34:25.181Z",
+      "coverage": "以此前已核验欧盟正式条例及看板主条对应，原商业转载仅标题级去重，未声称商业报道全文已核验。",
+      "evidence_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2498/oj"
+    }
+  ]
+}
