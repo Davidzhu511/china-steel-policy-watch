@@ -184,18 +184,18 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "Quantum Commodity Intelligence的11月5日文章摘要称欧洲一家大型钢厂CEO认为CBAM有利于业绩，但公开页面没有足以核验的企业名称、业绩指标和原话。不能从摘要擅自指认钢厂，也不能把CEO市场评价当成已经证明的普遍CBAM增益。",
+      "review_note_zh": "Quantum Commodity Intelligence 2026-11-05报道的CEO观点仍无法由公开目录/搜索获取可归属的CEO姓名、企业、原话和财务指标；不把标题中的盈利观点当成已证实的CBAM普遍效果。原始内容存在稳定的专业订阅限制，需人工提供合法可阅读原文后再核验。",
       "review_evidence_url": "https://www.qcintel.com/carbon/company-news/",
-      "review_coverage": "2026-11-07核对Quantum公开目录、搜索摘要和相关行业新闻，未获取完整可归属的CEO原文及财务指标。",
+      "review_coverage": "2026-11-17针对原始标题和qcintel.com公开入口进行有限复查，未取得足以核验发言主体和盈利数据的正文；仅核对标题及公开索引，未全文核验。",
       "published_date": "2026-11-05",
       "source_excerpt": "CBAM boosting European steelmaker's earnings: CEO Quantum Commodity Intelligence",
       "needs_translation": false,
       "title_zh": "钢企CEO称CBAM提振欧洲钢厂盈利",
-      "review_attempted_at": "2026-11-07",
+      "review_attempted_at": "2026-11-17T13:27:08.738Z",
       "evidence_fingerprint": "92cccece325ef872",
       "related_reviews": [],
-      "retry_after": "2026-11-14T00:00:00+00:00",
-      "retry_policy": "scheduled"
+      "retry_after": "2026-11-24T00:00:00Z",
+      "retry_policy": "manual"
     },
     {
       "id": "6ffd17e4c9693d71453f",
@@ -371,18 +371,18 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "搜狐自媒体文章公开页面标示2026-10-27，但待办记录采集发布日期为2026-11-01，原文引用的“上半年20多个国家/地区、98起贸易救济案件”没有可逐案追溯的官方案件清单。文章可以作为观点和风险提醒，但不能据其直接宣称已征收的关税或覆盖所有钢材。需回溯原始来源版本并逐案核实。",
+      "review_note_zh": "搜狐原作者网页显示2026-10-27 18:35，与队列采集日期2026-11-01不一致；正文自称2026上半年20多个国家和地区98起贸易救济案件，但未提供逐案可追溯的官方案件清单，不能把统计直接认定为官方事实或已实施税率。该评论包含钢材出口形势分析，但不构成新的可确认贸易措施。保留受阻以便有原始统计证据时更正。",
       "review_evidence_url": "https://timeline.sohu.com/news/FXLopmNDK3",
-      "review_coverage": "2026-11-07阅读全文搜狐原作者文章；其网页日期与采集日期不一致，且98起和20多国统计未能追溯至正式来源，保留blocked而非伪造核验。",
+      "review_coverage": "2026-11-17重新读取搜狐原文，核对页面署名时间、98起/20多国主张和调查不等于征税的区分；未对98起案件逐案官方验证，属于有限原文覆盖，不标source_checked。",
       "published_date": "2026-11-01",
       "source_excerpt": "中国钢材出口遇难，20多国接连设限，钢铁行业进入寒冬 搜狐网",
       "needs_translation": false,
-      "title_zh": "“20多国设限中国钢材”评论含未逐案核对统计、采集日期有错配",
-      "review_attempted_at": "2026-11-07",
+      "title_zh": "中国钢材出口遇难，20多国接连设限，钢铁行业进入寒冬",
+      "review_attempted_at": "2026-11-17T13:27:08.738Z",
       "evidence_fingerprint": "c0987677e9abbd9a",
       "related_reviews": [],
-      "retry_after": "2026-11-14T00:00:00+00:00",
-      "retry_policy": "scheduled"
+      "retry_after": "2026-11-24T00:00:00Z",
+      "retry_policy": "manual"
     },
     {
       "id": "c89e263b75e251fd99ec",
@@ -501,68 +501,7 @@
       "retry_policy": "manual"
     }
   ],
-  "retry_items": [
-    {
-      "id": "75abf1237798aefe076a",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdnJXRUdNbnp3c2MxVzRwS0ZhMHZtdU9oVWFWWTZVeWMyMEFoLU4zWnBxbjlfbTBtMGlvdUtyQndiTFN6aDdSTzlYeDI3Q3ZGOHlaN1FZVTMwbEIxZm5aYjdvNkRod3FoWkJZQjZ5QjB5LV80OUM3VGFEUmY3bHpndkRfV2RZUHVWcXVCTU5fa3ZnSEtCUlQxWXVTb19tX00?oc=5",
-      "published_at": "2026-11-05T17:49:17Z",
-      "title_original": "CBAM boosting European steelmaker's earnings: CEO",
-      "first_seen": "2026-11-05T20:18:56Z",
-      "last_seen": "2026-11-10T20:02:24Z",
-      "source": {
-        "id": "rss",
-        "name": "Quantum Commodity Intelligence",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "Quantum Commodity Intelligence的11月5日文章摘要称欧洲一家大型钢厂CEO认为CBAM有利于业绩，但公开页面没有足以核验的企业名称、业绩指标和原话。不能从摘要擅自指认钢厂，也不能把CEO市场评价当成已经证明的普遍CBAM增益。",
-      "review_evidence_url": "https://www.qcintel.com/carbon/company-news/",
-      "review_coverage": "2026-11-07核对Quantum公开目录、搜索摘要和相关行业新闻，未获取完整可归属的CEO原文及财务指标。",
-      "published_date": "2026-11-05",
-      "source_excerpt": "CBAM boosting European steelmaker's earnings: CEO Quantum Commodity Intelligence",
-      "needs_translation": false,
-      "title_zh": "钢企CEO称CBAM提振欧洲钢厂盈利",
-      "review_attempted_at": "2026-11-07",
-      "evidence_fingerprint": "92cccece325ef872",
-      "related_reviews": [],
-      "retry_after": "2026-11-14T00:00:00+00:00",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "f011aae910575facee75",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tZmVmcWlGZGtJa25Uc1A5emFBMTNLa2RVY1lsVEVoLThBUk5oSVZETnZ1bFJfWEVUNlZrbkRmeFhraFlVZ3R3Wl84N0xMWEY4RGEw?oc=5",
-      "published_at": "2026-11-01T07:00:00Z",
-      "title_original": "中国钢材出口遇难，20多国接连设限，钢铁行业进入寒冬",
-      "first_seen": "2026-10-28T18:31:59Z",
-      "last_seen": "2026-11-07T22:01:23Z",
-      "source": {
-        "id": "rss",
-        "name": "搜狐网",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "搜狐自媒体文章公开页面标示2026-10-27，但待办记录采集发布日期为2026-11-01，原文引用的“上半年20多个国家/地区、98起贸易救济案件”没有可逐案追溯的官方案件清单。文章可以作为观点和风险提醒，但不能据其直接宣称已征收的关税或覆盖所有钢材。需回溯原始来源版本并逐案核实。",
-      "review_evidence_url": "https://timeline.sohu.com/news/FXLopmNDK3",
-      "review_coverage": "2026-11-07阅读全文搜狐原作者文章；其网页日期与采集日期不一致，且98起和20多国统计未能追溯至正式来源，保留blocked而非伪造核验。",
-      "published_date": "2026-11-01",
-      "source_excerpt": "中国钢材出口遇难，20多国接连设限，钢铁行业进入寒冬 搜狐网",
-      "needs_translation": false,
-      "title_zh": "“20多国设限中国钢材”评论含未逐案核对统计、采集日期有错配",
-      "review_attempted_at": "2026-11-07",
-      "evidence_fingerprint": "c0987677e9abbd9a",
-      "related_reviews": [],
-      "retry_after": "2026-11-14T00:00:00+00:00",
-      "retry_policy": "scheduled"
-    }
-  ],
-  "retry_due_count": 2,
-  "work_fingerprint": "de6ea1b0e54bb91acd34"
+  "retry_items": [],
+  "retry_due_count": 0,
+  "work_fingerprint": "4f53cda18c2baa0c0354"
 }

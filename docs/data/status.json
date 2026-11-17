@@ -12,7 +12,7 @@
   "blocked_items": 16,
   "actionable_count": 0,
   "blocked_count": 16,
-  "retry_due_count": 2,
+  "retry_due_count": 0,
   "pending_machine_translation": 0,
   "chinese_title_coverage": 100.0,
   "oldest_actionable_hours": 0,
@@ -110,5 +110,5 @@
   ],
   "warnings": [],
   "translation_updated_at": "2026-11-17T02:09:31Z",
-  "editorial_updated_at": "2026-11-17T07:35:15Z"
+  "editorial_updated_at": "2026-11-17T13:28:14Z"
 }
