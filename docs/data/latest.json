@@ -51,49 +51,14 @@
       "review_coverage": "仅标题级检视，原始法规或官方公告未取得。"
     },
     {
-      "id": "e0bc6501770de5b985ed",
-      "title_zh": "哈萨克斯坦协助金属行业适应欧盟CBAM排放规则 - 新闻和统计",
-      "title_en": "哈萨克斯坦协助金属行业适应欧盟CBAM排放规则 - 新闻和统计",
-      "title_original": "哈萨克斯坦协助金属行业适应欧盟CBAM排放规则 - 新闻和统计",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSUV3cFJ2b3lpc2FIZ1lSb0FBb291Yjg3dGRId1pwU0g4dkJkR0lwOVY2TWFwYU9ubGliLUx6d3prbW9jMUJ1bHM2aWx4dDBHRHZ6bDVFUnQ3SVJhMklYNGR3MGtJOGVMMnJ1NG1EaGxjRnluXzFNOGYzOHEtSWt6c0YtSjhIeHVuUEUzT0RSYTFjcC1TV1RiMS1LTlEtWHRWVjVlR0ZHQ1NsN0FKaVp3aXM4ZTg?oc=5",
-      "published_at": "2026-11-16T12:00:24Z",
-      "source_published_date": "2026-11-16",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "碳与环保",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "zh",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-16T22:34:04Z",
-      "last_seen": "2026-11-17T02:07:46Z",
-      "source_excerpt": "哈萨克斯坦协助金属行业适应欧盟CBAM排放规则 - 新闻和统计 IndexBox"
-    },
-    {
       "id": "b42da40399cd0b2d2e7f",
-      "title_zh": "Kazakhstan’s exporters are being prepared to operate under CBAM",
-      "title_en": "Kazakhstan’s exporters are being prepared to operate under CBAM",
+      "title_zh": "哈萨克斯坦推动钢铝出口商适应欧盟CBAM：实测排放或显著降低成本",
+      "title_en": "Kazakhstan prepares steel and aluminium exporters for CBAM; verified emissions may reduce modeled costs",
       "title_original": "Kazakhstan’s exporters are being prepared to operate under CBAM",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "【报道事实与模型预测分开】GMK Center 2026年11月16日报道，哈萨克斯坦贸易和一体化部及QazTrade在COP31讨论钢铁和铝出口商的排放监测、报告与独立核证。援引政府及国际贸易中心(ITC)/QazTrade研究：2025年哈萨克斯坦对欧盟钢铁出口约39.6万吨、3.37亿欧元，铝约11万吨、2.74亿欧元。研究在特定假设下估计四类产品若使用默认排放值，CBAM年度成本约1.14亿美元；采用经核实的实际排放数据，模拟值可能约减半至5700万美元。以上均为研究情景，不是已缴税额或已确定2027年账单。欧盟驻哈萨克斯坦代表团2026年6月9日公告证实ITC/QazTrade研究及实际排放数据的重要性。",
+      "summary_en": "GMK Center reported on 16 Nov 2026 that Kazakhstan is preparing steel/aluminium exporters for EU CBAM monitoring and verification. A cited ITC/QazTrade scenario estimates roughly USD 114m under defaults versus USD 57m with verified actual emissions across four categories; these are model outputs, not assessed tax liabilities. EU Delegation confirmed the study in June.",
+      "impact_zh": "【出口研判】哈萨克斯坦等竞争来源加速实际排放核证，可能缩小其默认值下的CBAM成本劣势，影响欧洲客户对板坯、长材和其他钢材的采购比较。中国钢厂应尽早取得产品及前驱体的可核证实际排放值，与欧盟默认值逐项比较，并把不同来源的认证进度纳入客户报价评估。不能将研究估计金额当作中国或哈萨克斯坦法定税率。",
+      "impact_en": "Competitor verification could reduce default-value cost disadvantages and change EU landed-cost comparisons. Chinese mills should secure verified product and precursor emissions and compare actual against default values; modeled costs are not legal rates.",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNHVJMms2QzdjZFJ4azJyR0J5ZzVfN1ZHeVQyeWZ4QkpQeGFZeUV5dUtWS2hOcC1zZWZKRG1rOE4yZEpfUWwzeGNmYm5MQlRpdlIwWUo0Ui1FeVJtNFNkTHQtdlhnZm85N0ZxVGxmanhsS19mR1A0aEtIVUZNaWl2eC0wNG50SzJDZ285VW9XeldyTjJQVGfSAZsBQVVfeXFMTkgzLWVqbWFHQWkteGtwSUpqZFJHaTNaNFVYZDJjblVQZHJzb1ROYkNORUY2eWJWV1RqbG52cnZXanRkakw5bDdJY1gya0s1MEpseGNvYlgzckIxVkJtdFFRenRxTXlWWVlSdGQ0MmcxMkljemZPSDVNdk1aVm9DTHQ3Y3dUdVBBTkFfaThGM1ItTDJkZWNXWFBULW8?oc=5",
       "published_at": "2026-11-16T10:57:38Z",
       "source_published_date": "2026-11-16",
@@ -115,7 +80,7 @@
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-16T22:34:04Z",
       "last_seen": "2026-11-17T02:07:46Z",
       "source_excerpt": "Kazakhstan’s exporters are being prepared to operate under CBAM GMK Center",
@@ -126,7 +91,18 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-16T22:36:04Z"
-      }
+      },
+      "evidence_url": "https://gmk.center/en/news/kazakhstan-s-exporters-are-being-prepared-to-operate-under-cbam/",
+      "coverage": "2026-11-17阅读全文GMK Center 2026-11-16报道，交叉核对欧盟驻哈萨克斯坦代表团2026-06-09研究公告和Astana Times 2026-11-16报道。模型金额/货值均按媒体和研究归因，未核验ITC完整模型输入；同一事件另一IndexBox标题仅做标题级去重。",
+      "follow_up": "监测哈萨克斯坦钢厂实际核证进度及欧盟客户采购变化；不以媒体模型替代钢厂实测数据。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-17T07:34:25.181Z",
+      "related_sources": [
+        {
+          "name": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSUV3cFJ2b3lpc2FIZ1lSb0FBb291Yjg3dGRId1pwU0g4dkJkR0lwOVY2TWFwYU9ubGliLUx6d3prbW9jMUJ1bHM2aWx4dDBHRHZ6bDVFUnQ3SVJhMklYNGR3MGtJOGVMMnJ1NG1EaGxjRnluXzFNOGYzOHEtSWt6c0YtSjhIeHVuUEUzT0RSYTFjcC1TV1RiMS1LTlEtWHRWVjVlR0ZHQ1NsN0FKaVp3aXM4ZTg?oc=5"
+        }
+      ]
     },
     {
       "id": "5f2734aac2b2a0e28ba7",
@@ -184,7 +160,13 @@
       "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602498",
       "coverage": "2026-11-17核对欧盟官方公报实施条例(EU)2026/2498第3—11、36条及附件I、II中中国ETS条目，并与DG TAXUD 2026-11-16正式通告交叉确认。公式为第7条变量关系的文字化表达；未使用未公布的中国默认碳价或具体钢厂实缴数据，也未据此判断具体合同已可减免。原采集published_date=2026-11-15为观察日期，官方公报日为2026-11-16。",
       "review_method": "source_checked",
-      "reviewed_at": "2026-11-17T06:43:27.363Z"
+      "reviewed_at": "2026-11-17T06:43:27.363Z",
+      "related_sources": [
+        {
+          "name": "Steel and Stainless Steel News",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWTXZCWUxFLWgwUmF6TU5OVXVwcFIxX29jU2NHU1hOSGZBVFZRVklJNjZYcXRHdlpOZGFIdXpGamxCcVdXNDJjVWRoYUJUcTZGOFhSYVRJRkJsMDlKM3duMi1KaFZRRFZtakxKOUJZOG5fWkg1VGlydW42d21JZw?oc=5"
+        }
+      ]
     },
     {
       "id": "9e67ab0eca6841d762ec",
@@ -634,13 +616,13 @@
     },
     {
       "id": "9fdf78caf691a3822ac2",
-      "title_zh": "Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment",
-      "title_en": "Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment",
+      "title_zh": "中欧共同担任副主席的合规碳市场联盟在COP31通过宣言并启动工作组",
+      "title_en": "China and EU co-chair coalition on compliance carbon markets as COP31 declaration and working groups launch",
       "title_original": "Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "【官方事实】欧委会气候行动总司2026年11月16日公告：合规碳市场开放联盟(OCCCM)在土耳其安塔利亚COP31会议通过宣言、启动工作组并确定2027年工作重点。巴西担任主席，中国与欧盟共同担任副主席；截至11月16日有13个成员和34个观察员。联盟致力于碳定价制度合作、相互理解及长期互操作性；其宣言不是欧盟CBAM抵扣、ETS互认或国际碳信用资格的直接实施条例。",
+      "summary_en": "DG CLIMA confirms the OCCCM adopted its COP31 Declaration on 16 Nov 2026 and launched working groups. Brazil chairs, China and the EU co-chair; 13 members and 34 observers. This is a cooperation initiative, not a binding CBAM credit or ETS mutual-recognition rule.",
+      "impact_zh": "【研判】中欧在碳市场合作机制共同担任领导角色，可能改善未来排放数据、碳定价和信用标准的政策对话环境，但不能据此宣布中国碳配额价格可直接抵扣欧盟CBAM。钢铁出口企业仍须按照2026/2498等现行法规核算净已付碳价和提供证据。建议关注工作组2027年议题，特别是碳信用质量与跨境市场衔接。",
+      "impact_en": "Potential longer-term policy dialogue on carbon-market interoperability; no automatic CBAM credit or ETS recognition. Steel exporters should follow binding CBAM rules and monitor 2027 workstreams.",
       "url": "https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en",
       "published_at": "2026-11-16T00:00:00Z",
       "source_published_date": "2026-11-16",
@@ -662,10 +644,15 @@
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-16T22:34:04Z",
       "last_seen": "2026-11-17T02:07:46Z",
       "source_excerpt": "News article 16 November 2026 Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment High-level representatives of the Open Coalition on Compliance Carbon Markets (OCCCM) today adopted the OCCCM COP31 Declaration at a meeting in Antalya. 2 min read",
+      "evidence_url": "https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en",
+      "coverage": "2026-11-17阅读全文核对欧委会DG CLIMA 2026-11-16新闻稿，确认主席/副主席、成员数量、宣言及工作组；未将联盟政策愿景解释为法律义务。",
+      "follow_up": "跟踪OCCCM 2027年工作组和碳信用标准动向，涉及CBAM具体抵扣时仍以欧盟法规为准。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-17T07:34:25.181Z",
       "source_translation": {
         "title_zh": "合规碳市场开放联盟通过COP31宣言并启动工作组，推动碳定价支持减排和投资",
         "translated_at": "2026-11-17T06:43:27.363Z",
@@ -1905,53 +1892,6 @@
       "reviewed_at": "2026-11-07"
     },
     {
-      "id": "a522f8e1b8c2564a27c8",
-      "title_zh": "CBAM Rules for Crediting 3rd Country Carbon Prices",
-      "title_en": "CBAM Rules for Crediting 3rd Country Carbon Prices",
-      "title_original": "CBAM Rules for Crediting 3rd Country Carbon Prices",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWTXZCWUxFLWgwUmF6TU5OVXVwcFIxX29jU2NHU1hOSGZBVFZRVklJNjZYcXRHdlpOZGFIdXpGamxCcVdXNDJjVWRoYUJUcTZGOFhSYVRJRkJsMDlKM3duMi1KaFZRRFZtakxKOUJZOG5fWkg1VGlydW42d21JZw?oc=5",
-      "published_at": "2026-11-06T09:21:00Z",
-      "source": {
-        "id": "rss",
-        "name": "Steel and Stainless Steel News",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "碳与环保",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-06T14:38:14Z",
-      "last_seen": "2026-11-12T20:29:38Z",
-      "source_excerpt": "CBAM Rules for Crediting 3rd Country Carbon Prices Steel and Stainless Steel News",
-      "review_disposition": "blocked",
-      "review_note_zh": "部分商业转载称欧盟于2026-11-05正式通过第三国已缴碳价抵扣细则；但本次在EUR-Lex只稳定找到2026-05-13公开征询的执行法规草案，未核实11月5日最终法规编号、OJ发布日期或正式文本。基础制度允许抵扣已实际支付的符合条件碳价，但不能据未核实的转载断言已采纳具体计算及独立认证规则。此事项对钢厂和进口商重要，保留高优先级阻塞。",
-      "review_note_en": "Source body/legal authority not sufficiently available to claim full verification; pending evidence.",
-      "review_attempted_at": "2026-11-07",
-      "review_title_zh": "欧盟CBAM第三国已付碳价抵扣规则报道疑似把草案误称已正式通过",
-      "review_evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=PI_COM%3AAres%282026%294841230",
-      "review_coverage": "2026-11-07对照欧盟CBAM官方指引、EUR-Lex 2026年5月草案及11月6日商业转载；未核实正式发布的执行法规，不能标为source_checked。",
-      "source_translation": {
-        "title_zh": "CBAM第三国已缴碳价抵扣规则",
-        "translated_at": "2026-11-15",
-        "method": "editor_translation",
-        "coverage": "标题翻译，不代表全文核验"
-      }
-    },
-    {
       "id": "fa3ab93fc77873f7760e",
       "title_zh": "塞尔维亚财政战略预计2026年EU CBAM影响约1.402亿欧元，其中钢铁约8910万",
       "title_en": "Serbian fiscal strategy projects €140.2m CBAM exposure in 2026, €89.1m for steel",
@@ -2492,6 +2432,114 @@
       "coverage": "2026-11-16仅核对官方来源的队列标题及可读摘录；原文网页访问失败，未核对全文、税率、企业差异及排除项。有限事实，不得标记为source_checked。",
       "review_method": "source_checked",
       "reviewed_at": "2026-11-16T19:27:43Z"
+    },
+    {
+      "id": "8b57f2fbc648b2f26221",
+      "title_zh": "英国钢企担忧2027年CBAM实施前进口抢运造成港口拥堵",
+      "title_en": "UK Metals Expo participants warn of possible pre-CBAM congestion and steel inventory buildup",
+      "title_original": "UK Metals Expo warns of port congestion ahead of CBAM as steel imports surge",
+      "summary_zh": "【事实】11月4日英国UK Metals Expo的MEPS座谈中，Gonvarri英国业务负责人警示2027年1月1日英国CBAM生效前的钢材抢运可能使港口拥堵；Tata Steel UK人士称此前进口提前采购造成库存积累，认为热镀锌卷库存可能延续至2027年夏。受访者对拥堵、价格和库存的判断是行业预测，非港口已发生事实；英国CBAM法定起始日需以HMRC政策为准。",
+      "summary_en": "At MEPS' 4 Nov UK Metals Expo panel, participants warned of a possible import rush and port pressure before UK CBAM takes effect on 1 Jan 2027, while Tata Steel UK expected elevated HDG coil inventories into summer 2027. These are industry forecasts, not confirmed congestion.",
+      "impact_zh": "【研判】对英国市场CFR/CIF到港报价，应核对预计入境时点、卸港能力、库容及CBAM成本承担；不能以提单日期自动替代适用的进口税时点。",
+      "impact_en": "For UK-bound steel, model entry date, port capacity, stocks and contractual CBAM allocation, not just bill-of-lading date.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORE0wWk1UNk41RS1CcE5PNEtVQ1NDcXJYTEJ2b0ozT1B1UmdkQUJ2WG1mcnA0bkZmRmx2ZHc5NEdBUi1hNmtneG1WVzZSV0haZktGU2tRT3lqcU52X0VsdDlvMUswaW9VcTNCVTFaVGNJb3RWWHYxTnFOTklDSVZxWW54ZThvc1dKODk4eVVqaVAtRnIxenVvMHN2TnVkNlZqc3ljeUdvUEFUR2lUcG1URmJaWlpscldnRHBoRVBFMFRoSHRCZmhvY1I0ZGdGamNwQnUzeEt5VdIB6AFBVV95cUxOeklkYnRwbk5IOEUyZ1JDRGItNHlZM3ZjUHJaTmpncW9OSHE1am40RHROdVpSa3ZaMnFOdTAwc2dlbm5ESEtZcmxCNzZQMjJFclNsUWtQS09WdUhxaHdIYTRxVk16LUtlQ01Zakg5LU9NeW9LY0h1R3UtQS1fanVfZ19YZjUyaWV6cXYwUlplMjIzcVg2U2RDWWRFSFAtNFMwS1J2OGxfRFdEZ0tpT25uUGRvTVVkWXBTZ3dzTXh4QlAyalcwaEZzS3JjOGlIOExXUlJEaXh0V0pZR3VleUFNLVpzY2FILTBi?oc=5",
+      "published_at": "2026-11-04T16:41:41Z",
+      "source": {
+        "id": "rss",
+        "name": "Металлургпром",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "英国贸易与CBAM",
+      "status": "市场观点／库存及物流预警",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "英国",
+        "CBAM",
+        "港口",
+        "热镀锌",
+        "进口"
+      ],
+      "tags_en": [
+        "UK",
+        "CBAM",
+        "ports",
+        "HDG",
+        "imports"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-05T14:58:24Z",
+      "last_seen": "2026-11-11T14:43:49Z",
+      "source_excerpt": "UK Metals Expo warns of port congestion ahead of CBAM as steel imports surge Металлургпром",
+      "follow_up": "对2026Q4至2027Q1英国装运订单逐单核对清关时点、配额和CBAM合规主体，向物流商确认真实拥堵情况。",
+      "coverage": "2026-11-07核对MEPS 11月4日主办/现场原始报道及英国政府CBAM 2027-01-01起始日；港口拥堵属于与会者预测而非官方统计。",
+      "evidence_url": "https://mepsinternational.com/gb/en/news/uk-metals-expo-debate-warns-of-pre-cbam-port-congestion",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-07",
+      "related_sources": [
+        {
+          "name": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUlJibTJfYmlNb2hsWURELUdXZ0xSREhweUpyUm02MVJQeC12VWxKTTVHOGRGdXh3NWRpazF1RXlBV0RuNHZvcXVmWWUzQ2xVdW8zejh4ZTN6VW5pSm1rZERnMDlnMU9MZ0FnenJVR2Q5NTFWRGRSVjhzZGs3ZVJMTXdjRkgzV0Z5LVhWN2pTVlVHMURYN0E?oc=5"
+        },
+        {
+          "name": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWHBDbDVQRndWZEFiN1FXcUJYRHVGcWlIa0M5MXVVeWg0V3ZnNm9CTG9IYXFFNnlGVFVuXzJXQkx0Zko5WnQyRVlZYWhrZnkyTllmMlhsdUE3S1JsSEpxYmVtcXJTTXJzZlI2al9wbXJTNmtVb0xPdm9yYnY1Q05VRlotMHNpRjlxZFNvdGV6T2lkVktXRVhJcEZ1QkNBd1lj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "03ec4c32ebb55e4174b2",
+      "title_zh": "台湾地区拟制定本地CBAM与ETS，尚未发布实施税率和日期",
+      "title_en": "Taiwan plans domestic CBAM and ETS, with no enacted border tax timetable",
+      "title_original": "Taiwan Plans Domestic CBAM, ETS to Boost Net-Zero Competitiveness",
+      "summary_zh": "【事实】IndexBox 11月4日报道援引当地媒体：台湾地区负责人赖清德11月2日表示准备建设当地CBAM和排放交易体系，现有碳费制度已实施。11月5日SteelOrbis及11月9日Yieh有相同方向报道。当前属于政策筹备表述，未见本轮能够核实的正式实施税号、税率或日期。",
+      "summary_en": "Source checked; the Chinese summary distinguishes reported facts, policy status, and analyst scenarios. Refer to the evidence link and scope note.",
+      "impact_zh": "【研判】未来可能影响中国大陆钢材出口台湾市场的合规成本及竞争格局，但短期不应当作已征收的边境碳税。",
+      "impact_en": "Business implications are analytical rather than enacted legal obligations; verify the applicable official measures before quoting.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT2ZuUVRkeUlLY3NfX3RaUkZlbVEydlpQSlllUFBuUVo1TkM5cUxiUFpGUC1oWUNuelFyV0doYWlod3RMc1dGWlN3R0pyNkF3ZWp1RnRZZUc4NXhvd1JibElVNnRleUQ4a2RFbUp2MlFVbmNXbnJOb1JVbTB1b01oREEtd1V6X2k4azhTMjRIdjNJckpi?oc=5",
+      "published_at": "2026-11-04T11:20:49Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "碳与环保",
+      "status": "已核验／有限范围",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "钢铁",
+        "贸易政策",
+        "事实核验"
+      ],
+      "tags_en": [
+        "steel",
+        "trade policy",
+        "source checked"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-09T22:44:26Z",
+      "last_seen": "2026-11-10T20:02:24Z",
+      "source_excerpt": "Taiwan Plans Domestic CBAM, ETS to Boost Net-Zero Competitiveness - News and Statistics IndexBox",
+      "coverage": "2026-11-12对照IndexBox 11月4日、SteelOrbis 11月5日及Yieh 11月9日原始报道；未取得正式CBAM法案或税率，保留政策意向范围。",
+      "evidence_url": "https://www.steelorbis.com/steel-news/latest-news/taiwan-plans-to-introduce-cbam-and-ets-to-support-industrial-decarbonization-1488469.htm",
+      "follow_up": "后续核实台湾环境主管部门正式法规草案、适用钢材编码、排放数据要求及实施时间。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-12"
     }
   ]
 }
