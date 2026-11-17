@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-17T19:32:47.011Z",
+  "translations": [],
+  "editorial": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ0plSEc4UXZRcjNIUU11WWlKSFNQTWg3cDB5RXlSelhvX1ZFalQzNVY3MGVGLXZuS0lnWWZ1Z2lDREFHUThXVEdkVktKR0tuMndUZjJYQm1IWF9nUkRmOEc2UzRKd2JmSmt1Wk9FbW15OVdsQWpWN0szbnlGN09Mb1dUMXBTLWNrMDdDVnQ4ZnZ1UQ?oc=5",
+      "published_date": "2026-11-17",
+      "reviewed_at": "2026-11-17T19:32:47.011Z",
+      "title_zh": "中加延长并扩大部分中国钢铝产品进口附加税减免至2028年底",
+      "title_en": "Canada and China extend and expand tariff remission for selected Chinese steel and aluminium products through 2028",
+      "summary_zh": "【加拿大总理办公室2026-11-17官方公告】双方将双边初步经贸安排延长至2028年12月；加拿大把原定仅适用于2026年12月31日前进口的部分中国钢铝产品附加税减免延长至2028年12月31日，并扩大至32个税目，其中钢铁23个、铝9个，针对加拿大国内供应不足或无法供应的产品。中国则对约4亿加元加拿大猪肉和海产品出口给予进一步减税便利。官方公告未在本轮材料中列出23个钢铁税目的全部编码及逐项适用条件；不能理解为中国所有钢材普遍免税。",
+      "summary_en": "Canada's Prime Minister announced on 17 Nov that selected Chinese steel and aluminium surtax remissions will run through 31 Dec 2028, expanded to 32 tariff items (23 steel, nine aluminium) for goods in short supply domestically. The announcement does not itself establish blanket duty-free access for all Chinese steel.",
+      "impact_zh": "【业务研判】这是中国钢材进入加拿大的定向机会，应优先让加拿大进口商/报关行核对23个钢铁税号、实际产品描述、减免令和附加税条件，评估首钢热轧、冷轧及特殊品种能否适用；未确认税号前不得以免税价报价。",
+      "impact_en": "Check the 23 steel tariff lines, remission orders and eligibility with Canadian customs brokers before offering duty-relieved quotations; no general exemption is implied.",
+      "evidence_url": "https://www.pm.gc.ca/en/news/backgrounders/2026/11/17/prime-minister-carney-advances-canadas-strategic-partnership-china",
+      "coverage": "2026-11-17读取加拿大总理办公室当日官方背景说明，核实延期至2028-12-31、32项中钢铁23项、适用理由和原措施截止日；未核对具体23个HS编码和海关实施细则。",
+      "follow_up": "取得加拿大海关减免令及23个钢铁税目清单，按品种、钢厂、进口时间和原附加税核算。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcU56cm1SMVhaMks3U0JQTFBCS3d4RExBc0lvSG02M0FodHM2cWppb1MwVXIta0ZkZkNWYjRtckhuQjhBMGNrTzRubm04RUFUOUl6Nm51dVFReHh5NUxlTkxkOFNQMUY5Y1laemJVM2tjZzVpcGlQNjNMalJLT0gydl9DRGl5ZDIxOXJRR3lIblhFamozVlM2YlVtWVoyUlZHbVZ4S0JnZUlxYVloc3VPZmozS1dIb2lqRlJndzBR?oc=5",
+      "published_date": "2026-11-17",
+      "reviewed_at": "2026-11-17T19:32:47.011Z",
+      "title_zh": "乌克兰与欧委会商谈钢铁配额调整及战时CBAM特殊安排，尚未形成豁免",
+      "title_en": "Ukraine seeks EU steel quota adjustment and wartime CBAM terms; no exemption agreed",
+      "summary_zh": "【乌克兰政府2026-11-16公告】乌总理与欧委会执行副主席讨论乌克兰工业进入欧盟市场、钢铁配额及CBAM。乌方称2026年7月1日起的新钢铁配额限制了市场准入，已提出技术方案，争取年底前就配额分配达成安排；同时探讨战争和重建期CBAM特殊条款。乌方还称欧盟理事会对工业产品合格评定互认(ACAA)的技术准备给出积极结论。以上属于磋商与准备，不是欧盟已批准钢铁配额增加或CBAM豁免。",
+      "summary_en": "On 16 Nov Ukraine's government reported talks with the Commission on post-July steel quota access and potential wartime CBAM arrangements. Ukraine seeks a quota solution by year-end; neither a quota increase nor a CBAM exemption is established by this announcement.",
+      "impact_zh": "【业务研判】乌克兰钢铁对欧盟的配额及碳成本条件可能影响欧洲板坯、长材与钢管竞争，但任何特别安排须以欧盟正式法规或配额公告为准；中国原产钢材不会因乌克兰谈判获得相同待遇。关注年末谈判结果及乌克兰出口对欧盟采购价格的影响。",
+      "impact_en": "Monitor formal EU quota/CBAM decisions and possible sourcing impacts for slabs, long products and tubes; talks do not confer exemptions on Ukraine or China.",
+      "evidence_url": "https://www.kmu.gov.ua/en/news/serhii-koretskyi-obhovoryv-z-vykonavchym-vitse-prezydentom-ievropeiskoi-komisii-intehratsiiu-ukrainskoi-promyslovosti-v-ievropeiskyi-rynok",
+      "coverage": "2026-11-17读取乌克兰政府2026-11-16官方新闻，核对会谈主体、7月1日配额和年底前争取安排的表述；未取得欧盟批准任何新豁免或修订的法规。",
+      "follow_up": "跟踪欧委会正式提案、欧盟配额分配调整及CBAM特别条款文本，不以乌方谈判诉求作已生效规则。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMjlPb045TTB5TS1jVHBpOG5xLS1kQTVqWVY1QzIwOVRIdy1UZHB3TlZEWDRTUDhza0xWd3ZpREFjTUZjcjBCZFpLRmp0YWZkZzNQWUFlQTQyWGt1MEphcDJ2dW52LTFzdW9mTmRVNkR1ZXVmTi1nQnFGOE9YdkRJRQ?oc=5",
+      "published_date": "2026-11-17",
+      "reviewed_at": "2026-11-17T19:32:47.011Z",
+      "title_zh": "德国钢铁峰会提出电网补贴、绿色钢需求和贸易防御诉求，尚非新增关税法规",
+      "title_en": "German steel summit calls for grid support, green-steel demand and stronger trade defence, not enacted tariffs",
+      "summary_zh": "【2026-11-16行业报道】德国钢铁联盟、IG Metall及德国钢铁协会在萨尔茨吉特钢铁峰会上提出共同诉求，包括提高电网费用联邦支持至65亿欧元、推动欧洲低排放钢需求市场、氢能应用及加强针对不公平进口的保护。属于行业政策建议和政治倡议，不能把“关税墙”标题理解为德国已单独颁布新进口关税。",
+      "summary_en": "Industry groups at the 16 Nov German steel summit urged €6.5bn grid-charge support, lead markets for low-emission steel, hydrogen and trade defence. These are demands, not enacted German tariffs.",
+      "impact_zh": "【业务研判】欧洲钢厂若获能源补贴及绿色钢采购支持，中长期可能改变中国钢材在汽车、公共采购等领域的价格竞争；近期报价仍以欧盟已生效法规、配额和CBAM为准。",
+      "impact_en": "Potential medium-term competitive impact from energy support and green-steel procurement; do not price in any new German tariff absent enacted EU law.",
+      "evidence_url": "https://www.steelradar.com/en/haber/german-steel-industry-calls-for-65-billion-euros-in-grid-support/",
+      "coverage": "2026-11-17读取SteelRadar 2026-11-16报道及其对下萨克森州经济部门声明的引述；未独立取得联合立场文件原件，金额与诉求归因于报道，未作为已批准预算或生效税率。",
+      "follow_up": "核对德国联邦预算、电网费用政策及欧盟贸易措施正式文本，区分行业诉求与立法结果。"
+    }
+  ],
+  "triage": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmlybXVjZjllVWZsSHB6M1dmTENaZFdpRTcxb1p0OGdMYzZuT2U0ZXgyNnE3cEVhMHZETWR2SlVCcllYUGpzZzhaWkNBMlpyaU1HbXVTN3g2MnV1WEpyTm5QWVdTLTVlbVlTV2tyVGZWb0FZTjFRNkJSeGlrU0tzaGNDblJkMnJ5TGxtRUZpVzY1MHNOTDRWYUVtUFNJaVIxenJZY2N5ZEtYb0NyMkE?oc=5",
+      "published_date": "2026-11-17",
+      "decision": "duplicate",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "reason_zh": "标题指向欧盟2026/2547五地冷轧钢最终反倾销同一事件，正式法规及DG TRADE主条已核验企业税率、产品范围和生效日期；本轮未发现独立法规变更。",
+      "attempted_at": "2026-11-17T19:32:47.011Z",
+      "coverage": "依据RSS标题及已核验官方主条进行事件级去重；未读取媒体全文，不声称逐篇全文核验。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcDlWNzlPdzUyRnVUejlnODg1bV81M2xNenJhemlMT1h1QXdiY0dCcjhGZG4yY0RRNFpqRzhRakxnbWlQaTRVeURGV2ZVWkJnYV9HdFlCSG5tYVppeGZzTFVIVnFZX1J5MjNKYnV5aDB3WVFzWU0yRVBnLW9JVDEwVDdJaHZsNFRsSDJXMElhMzNWMzNjamlFTUh4SXZpZ2NPd0pFUTQ5Ui13T19uWkFmclBQUi1rTnltVWx6VS1ZYWttYmpDUmE5Ym1NYVYyRzlMcGZR?oc=5",
+      "published_date": "2026-11-17",
+      "decision": "duplicate",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "reason_zh": "标题指向欧盟2026/2547五地冷轧钢最终反倾销同一事件，正式法规及DG TRADE主条已核验企业税率、产品范围和生效日期；本轮未发现独立法规变更。",
+      "attempted_at": "2026-11-17T19:32:47.011Z",
+      "coverage": "依据RSS标题及已核验官方主条进行事件级去重；未读取媒体全文，不声称逐篇全文核验。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkRrNVI0d0NFTXMzaVlaZDhLOHZTWFhDRHA5c1pFMGJwN0d3RVlna25Ub3dmMHJNd1JrWWVMMHQyYV82YzVHUTd0MVlYMm9nR0o5TnJnVkFCalk3QV9pc1lwSWFZY3JaQWNLUVZCNVQ2Y2dCYVpxRElybW5xQTk2WDlXdm9USVNOZU9PMUg0cEhZZ2JoUjZTdmdDWTZqN2dMa2ZlZWdZQ0hpT3RMWmFRWDhLb0FVT2ZneU0zd0ZMOUVZbjY0X3ZmVEJR?oc=5",
+      "published_date": "2026-11-17",
+      "decision": "blocked",
+      "reason_zh": "哈萨克斯坦CBAM准备报道与此前研判主题相近，但尚未确定本次报道是否有独立新增事实；不以标题级判断直接排除或标记重复。",
+      "attempted_at": "2026-11-17T19:32:47.011Z",
+      "coverage": "仅核对RSS标题及本轮可用公开来源，未核验该SMM转载全文或独立新增数据。",
+      "retry_after": "2026-11-24T00:00:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkRrNVI0d0NFTXMzaVlaZDhLOHZTWFhDRHA5c1pFMGJwN0d3RVlna25Ub3dmMHJNd1JrWWVMMHQyYV82YzVHUTd0MVlYMm9nR0o5TnJnVkFCalk3QV9pc1lwSWFZY3JaQWNLUVZCNVQ2Y2dCYVpxRElybW5xQTk2WDlXdm9USVNOZU9PMUg0cEhZZ2JoUjZTdmdDWTZqN2dMa2ZlZWdZQ0hpT3RMWmFRWDhLb0FVT2ZneU0zd0ZMOUVZbjY0X3ZmVEJR?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDYzBDTG1IMUNaS2R3MzFVMjcxeGlhSEpEV05vQXpfTTZKOVcxMHU2UFpVVzlENnBjUmVsSEhQVlBUXzZZZ0poX1V6dVpDMjY5QkE3WlhkVFJBaS1qZ0pENXNJTVFJbnFocHpjTDRTVzl4aEwy?oc=5",
+      "published_date": "2026-11-17",
+      "decision": "duplicate",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "reason_zh": "标题指向欧盟2026/2547五地冷轧钢最终反倾销同一事件，正式法规及DG TRADE主条已核验企业税率、产品范围和生效日期；本轮未发现独立法规变更。",
+      "attempted_at": "2026-11-17T19:32:47.011Z",
+      "coverage": "依据RSS标题及已核验官方主条进行事件级去重；未读取媒体全文，不声称逐篇全文核验。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPaVh5OWk0T1FEMHpvME05N2EycGhPQzV6VFFpVHhrMi16R2JGLUNZMEltRXZKRy1Fams2VWgteUN4VFNNQjMzTFFNaVQ2RmVhYzBiX29scTBqSEQtLUtmam9XV3o3c0psUEdOako1azFJS0xZX1NkWDVnWFVINFB2NF9LbkRtT0ROVk5mV2tTTjZ0d2ZmMVlWdEo2TzVSczFjYTVYa0xCZEdUamRPcUFwam9OSzRoUE9xNWRtdGxSQ285cDV0UExMa2g3SDcxYVM2d05iYlFaejBIcDZxWld4dW94VHlJYmxSMXE1cWdaNWVIZ2prRTZEZXFfalNtRjBPRXVhandIQms4WmJyOWlrMmZ3aHotR056M3gtRXdNdGpKc0p4bzNKOFNDSVJSNzFGYmt3aWJiVy1hc3M?oc=5",
+      "published_date": "2026-11-17",
+      "decision": "duplicate",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "reason_zh": "标题指向欧盟2026/2547五地冷轧钢最终反倾销同一事件，正式法规及DG TRADE主条已核验企业税率、产品范围和生效日期；本轮未发现独立法规变更。",
+      "attempted_at": "2026-11-17T19:32:47.011Z",
+      "coverage": "依据RSS标题及已核验官方主条进行事件级去重；未读取媒体全文，不声称逐篇全文核验。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FaGpCQXdMc0daYkpPNDdPUldLYmJQX0ZCbHRsYmhpQ3FRdGZmc3RxV2NxY2JNdlZkUDFJQmtTb3kySHFuWkxwMzdEWFUtNHVyMGx1bUppWkk?oc=5",
+      "published_date": "2026-11-17",
+      "decision": "duplicate",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "reason_zh": "标题指向欧盟2026/2547五地冷轧钢最终反倾销同一事件，正式法规及DG TRADE主条已核验企业税率、产品范围和生效日期；本轮未发现独立法规变更。",
+      "attempted_at": "2026-11-17T19:32:47.011Z",
+      "coverage": "依据RSS标题及已核验官方主条进行事件级去重；未读取媒体全文，不声称逐篇全文核验。"
+    }
+  ]
+}
