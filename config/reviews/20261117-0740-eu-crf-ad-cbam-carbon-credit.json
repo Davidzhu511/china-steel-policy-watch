@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-17T06:43:27.363Z",
+  "translations": [
+    {
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/open-coalition-compliance-carbon-markets-adopts-cop31-declaration-and-launches-its-working-groups-2026-11-16_en",
+      "published_date": "2026-11-16",
+      "title_original": "Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment",
+      "title_zh": "合规碳市场开放联盟通过COP31宣言并启动工作组，推动碳定价支持减排和投资",
+      "translated_at": "2026-11-17T06:43:27.363Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LbUZJXy14Z3l1b1hqam52bDVqN2xKOUszOUc5SUdNSW55cVlYVl9remV4Q1JhQWtkX3FrQTh2T0dYY1llWUZKUjhkUzlMOEp2LUlzNTN6dHVMbVVkZEpSbVRnRmtNbk5yYUp3MHB5OWdhOEU4d3c?oc=5",
+      "published_date": "2026-11-16",
+      "title_original": "EU to Impose 27.9% Anti-Dumping Tariff on Japanese Cold-Rolled Steel from Nov. 17",
+      "title_zh": "欧盟自11月17日起对日本冷轧钢征收27.9%反倾销税",
+      "translated_at": "2026-11-17T06:43:27.363Z"
+    }
+  ],
+  "editorial": [
+    {
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2547",
+      "match_published_date": "2026-11-15",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-17T06:43:27.363Z",
+      "title_zh": "欧盟2026/2547冷轧钢反倾销终裁：五地分企业征税3%—27.9%，11月17日生效",
+      "title_en": "EU Regulation 2026/2547: definitive cold-rolled steel AD duties of 3–27.9% on five origins effective 17 November",
+      "summary_zh": "【正式法规】欧委会2026年11月13日签署实施条例(EU)2026/2547，11月16日刊登官方公报，依第3条11月17日生效。针对原产印度、日本、台湾地区、土耳其和越南的部分未镀覆冷轧铁/非合金钢/其他合金钢扁平材（不锈钢除外）征最终反倾销税，税基为欧盟边境未完税净价。第1条分企业税率：印度JSW及其他均9.5%；日本日本制铁/大同特殊钢及其他均27.9%；台湾地区中钢、中鸿与附件所列合作企业20.7%、其他27.0%；土耳其Tatmetal 3.0%、附件合作企业4.9%、Borçelik及其他7.8%；越南POSCO Vietnam及其他16.0%。范围为部分CN 72091500、72091690、72091790、72091891、72091899、72092500、72092690、72092790、72092890、72112330、72112380、72112900、72255080、72269200，带ex的子目须核对TARIC细码。排除规定的电工钢、特定小于0.35毫米退火黑板卷、硅电钢、高速钢；已镀锌/涂层卷不因冷轧基板而自动涉案。适用个别企业税率须出示第1(3)条规定的签字商业发票及附加TARIC代码，否则按原产地其他企业税率。序言(1067)—(1070)认定本案未实施临时税，因此不追溯向此前登记进口征收本案最终反倾销税。欧委会还首次就印度铁矿石政府措施、台湾地区受中国冷轧供给影响的市场价格认定特殊市场状况(PMS)，属于调查方法重要先例。",
+      "summary_en": "Regulation 2026/2547 was signed 13 Nov, published 16 Nov and takes effect 17 Nov. Definitive AD rates: India 9.5%; Japan 27.9%; Taiwan 20.7% for CSC/Chung Hung/listed cooperators and 27% otherwise; Türkiye 3% Tatmetal, 4.9% listed cooperators, 7.8% Borçelik/others; Vietnam 16%. Scope is specified uncoated cold-rolled flats (exclusions and CN/TARIC subcodes apply). Individual rates require a signed invoice declaration. No retroactive collection in this investigation (recitals 1067–1070). The Commission established particular market situations in India and Taiwan.",
+      "impact_zh": "【出口研判】欧盟采购日本及台湾地区普通CRC的税负增加可能改变服务中心、家电和部分汽车冷轧材采购比较；土耳其企业税率仅3%—7.8%，仍需按厂别评估竞争力。中国出口商不因第三国被征税而自动免除自身反倾销、保障措施配额、CBAM和认证门槛。对潜在订单应分别核对CN/TARIC、工厂、发票、放行日期及客户技术认证，再测算DDP/CFR到岸成本。受限竞争品种可能转向中东/北非等市场，属于需要实证跟踪的贸易转移风险，不是已发生的事实。PMS调查逻辑值得关注以后对第三国本地原料成本与中国供应链关系的审查。",
+      "impact_en": "This decision changes EU landed-cost comparisons for Japanese and Taiwanese CRC while some Turkish producers remain competitive at lower rates. Chinese origin is not exempt from its own AD, safeguards, CBAM or customer qualification. Compare supplier-specific landed costs and watch for possible (not confirmed) trade diversion to MENA. The PMS method is relevant to future origin/cost investigations.",
+      "category": "贸易救济",
+      "status": "正式终裁／已核验",
+      "importance": "高",
+      "tags": [
+        "欧盟",
+        "冷轧钢",
+        "反倾销",
+        "印度",
+        "日本",
+        "台湾地区",
+        "土耳其",
+        "越南",
+        "PMS",
+        "贸易转移"
+      ],
+      "tags_en": [
+        "EU",
+        "cold-rolled flats",
+        "anti-dumping",
+        "India",
+        "Japan",
+        "Taiwan",
+        "Türkiye",
+        "Vietnam",
+        "PMS",
+        "trade diversion"
+      ],
+      "follow_up": "按五地实际生产企业、CN/TARIC附加码与发票核对欧盟客户的既有及新采购；列中国替代供应商对照表并分别计算自身税负、配额、CBAM和认证条件；关注中东及北非竞争报价，不把可能的贸易转移当成既成事实。",
+      "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202602547",
+      "coverage": "2026-11-17对照欧盟DG TRADE 11月16日正式通告及(EU)2026/2547官方公报163页PDF，目视核对第160—162页第1—3条、企业税率、排除品种、CN/TARIC、发票条件与生效日；核对序言(1067)—(1070)追溯征税问题及欧委会PMS解释。未逐票验证商品归类，也未计算中国具体钢厂适用税率。来源记录原采集published_date=2026-11-15系观察日期，正式官方公报日为2026-11-16。"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2498",
+      "match_published_date": "2026-11-15",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-17T06:43:27.363Z",
+      "title_zh": "欧盟2026/2498明确第三国已付碳价抵扣CBAM：中国全国ETS列入附件II，须扣除免费配额并证明真实支付",
+      "title_en": "EU Regulation 2026/2498: CBAM credit for carbon prices effectively paid; China national ETS listed in Annex II",
+      "summary_zh": "【正式法规】实施条例(EU)2026/2498于11月5日签署、11月16日公布，按第36条11月19日生效并自2026年1月1日起适用。第4条及附件II明确将China National Emissions Trading System列为符合相关机制定义的ETS，附件同步标注免费配额和履约责任上限；这不是认定每家中国钢厂均已实际付费或保证自动抵扣。第3、9条要求按具体产品对应的嵌入排放核算净已付碳价，扣除免费分配、返还与补偿；按第6条以报告年度官方年均汇率折欧元。第7条：采用独立核证的实际支付路径，减交CBAM证书量=单吨商品合格净已付碳价(欧元/吨商品)×申报吨数÷进口年度CBAM证书参考价格(欧元/吨CO₂)；采用欧委会默认碳价路径，按适用默认碳价(欧元/吨CO₂)×对应嵌入排放强度×申报吨数÷同一年度参考价换算。实际排放值可在合格实际碳价与默认碳价路径间选择；若嵌入排放用默认排放值，则仅能用官方默认碳价。第7(3)条的年度参考价为进口年度公布CBAM证书价格的平均值，不等于某次EUA成交价或单一季度价格。符合强制碳定价制度的履约碳信用可按限制计入；国际信用须符合《巴黎协定》第6条授权发行条件且最多为相关报告排放的10%。第11条允许符合条件的现有CBAM核查机构在2026—2027报告期暂承担已付碳价核证角色，2028年后须取得专项认可；过渡角色原则上最迟2028年9月30日终止。欧委会尚待发布各国默认碳价及方法，用于2027年9月30日前首轮CBAM申报。",
+      "summary_en": "Regulation 2026/2498 was published 16 Nov, enters into force 19 Nov and applies from 1 Jan 2026. Annex II explicitly lists China's national ETS, with free allowances/liability cap—not an automatic credit. Deduct only verifiable net carbon prices attributed to CBAM-relevant embedded emissions, after rebates/free allocation. Actual-price route: certified EUR/tonne of goods × declared quantity ÷ annual CBAM reference price; default-price route: default EUR/tCO2 × embedded emissions intensity × quantity ÷ annual reference price. With default emission values, only default carbon prices may be claimed. Transitional verifier qualification covers 2026–27; special accreditation is needed from 2028. Default country carbon-price values are still forthcoming.",
+      "impact_zh": "【出口研判】对中国板坯、冷轧板等CBAM覆盖产品，国内ETS纳入并不等于全额按全国碳市场挂牌价减免。钢厂须证明有偿履约数量、实际支付与清缴凭证，按CBAM直接排放和前驱体等适用边界将碳价归属具体产品；国内ETS核算边界与CBAM边界可能不一致。可先比较欧委会未来默认碳价路径与独立核证的实际支付路径，避免为争取很小抵扣额付出过高审计成本。一般性示意：若1000吨进口钢材经核证净已付碳价为5欧元/吨商品，年度CBAM参考价为90欧元/吨CO₂，理论减交约55.56张证书；这不是中国实际碳价或2027年证书价格。2027年欧盟进口合同应区分CBAM法律缴证主体与商业成本分担，核对净成本是否扣除合格第三国碳价抵扣及相关资料责任；公开看板不披露任何客户私有合同条款。",
+      "impact_en": "China ETS coverage does not automatically generate full EU credit. Mills need evidence of net paid allowances, surrender/payment and product-level attribution under CBAM boundaries, including relevant precursors. Compare default carbon-price and audited actual-price routes once Commission values are available. For 2027 EU imports, contract CBAM-sharing provisions should define net liability and data responsibilities without disclosing confidential customer terms.",
+      "category": "碳与环保",
+      "status": "正式实施条例／已核验",
+      "importance": "高",
+      "tags": [
+        "CBAM",
+        "第三国碳价抵扣",
+        "中国全国碳市场",
+        "免费配额",
+        "证书减交",
+        "独立核证",
+        "板坯",
+        "2027年申报"
+      ],
+      "tags_en": [
+        "CBAM",
+        "third-country carbon price",
+        "China ETS",
+        "free allocation",
+        "certificate reduction",
+        "independent certification",
+        "slab",
+        "2027 filing"
+      ],
+      "follow_up": "钢厂财务/碳管理部门核对2026年度覆盖工序与CBAM产品边界、免费配额、履约缺口、购入配额成本/清缴凭证、退款补偿、前驱体及分品种碳价归属；确认核证机构能否承担2026—27年已付碳价核证；跟踪欧委会默认碳价与申报模板，比较默认和实际路径；欧盟进口商与合同方核对净CBAM成本分担。",
+      "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202602498",
+      "coverage": "2026-11-17核对欧盟官方公报实施条例(EU)2026/2498第3—11、36条及附件I、II中中国ETS条目，并与DG TAXUD 2026-11-16正式通告交叉确认。公式为第7条变量关系的文字化表达；未使用未公布的中国默认碳价或具体钢厂实缴数据，也未据此判断具体合同已可减免。原采集published_date=2026-11-15为观察日期，官方公报日为2026-11-16。"
+    }
+  ],
+  "triage": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3A2ckluX25CZUJPNHRWTGw3OFN5bTl6ak43cUdVMTJqbC1hd3pvNkQwRHNYZTloS285MFl6U0o0bktKa1J6TDhkbUVlME5KTW81cFNqeFRRSUpLa1pLQ1ZDQnRlc0JBcnQwMjlfYTdQZnNmQmxqaGoxUkpaSU54TFFnTS1jSkR1NElja19UZE8xT1RKU2VTYlRoLXMwY1NwWEtucjl3TERUcU1wZGFjTlN3bGJmMlVmUk02c1J1c1pqQQ?oc=5",
+      "published_date": "2026-11-17",
+      "decision": "duplicate",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "reason_zh": "与欧盟DG TRADE已核验的2026-11-16冷轧钢反倾销最终措施属于同一事件。已由2026/2547正式法规主条详细核对税率、产品范围、企业差异与生效日；本转载无经独立验证的新法律变化，不另计一条政策。",
+      "attempted_at": "2026-11-17T06:43:27.363Z",
+      "coverage": "仅按RSS原题、日期与同一法规事件对应，未逐篇打开所有媒体付费正文；未把转载标题当成独立核验依据。",
+      "evidence_url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LbUZJXy14Z3l1b1hqam52bDVqN2xKOUszOUc5SUdNSW55cVlYVl9remV4Q1JhQWtkX3FrQTh2T0dYY1llWUZKUjhkUzlMOEp2LUlzNTN6dHVMbVVkZEpSbVRnRmtNbk5yYUp3MHB5OWdhOEU4d3c?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "duplicate",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "reason_zh": "与欧盟DG TRADE已核验的2026-11-16冷轧钢反倾销最终措施属于同一事件。已由2026/2547正式法规主条详细核对税率、产品范围、企业差异与生效日；本转载无经独立验证的新法律变化，不另计一条政策。",
+      "attempted_at": "2026-11-17T06:43:27.363Z",
+      "coverage": "仅按RSS原题、日期与同一法规事件对应，未逐篇打开所有媒体付费正文；未把转载标题当成独立核验依据。",
+      "evidence_url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQXctcTk2TXV2UG9sSTFXVldxbnNBZjBOZDlRVUdPWTBHSGQ3TDI3bGZfdEpHekI3SHhkY3pEZWJYM2FSc3dpMkdoT0RTR3JSTk5BYWt4SDlia01jTjlTZ3VxcW1Cb1JObkRIeTdHUEhScGRmbVdHSm5Qa1JMb3R4X25UX0tpd09LcmdxQzgxZmZGbnF6LUYyV0g3eEhXNTFqQUJWbTRxcVJnbHd5d1pFMS11ZTBjcG9vZ2lDM3ZCMmp1ejVxUWZGZVF5el9sWEVnVU8yRjhxcC1ZM2fSAdsBQVVfeXFMTUF3LXE5Nk11dlBvbEkxV1ZXcW5zQWYwTmQ5UVVHT1kwR0hkN0wyN2xmX3RKR3pCN0h4ZGN6RGViWDNhUnN3aTJHaE9EU0dyUk5OQWFreEg5YmtNY045U2d1cXFtQm9STm5ESHk3R1BIUnBkZm1XR0puUGtSTG90eF9uVF9LaXdPS3JncUM4MWZmRm5xei1GMldIN3hIVzUxakFCVm00cXFSZ2x3eXdaRTEtdWUwY3Bvb2dpQzN2QjJqdXo1cVFmRmVReXpfbFhFZ1VPMkY4cXAtWTNn?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "duplicate",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "reason_zh": "与欧盟DG TRADE已核验的2026-11-16冷轧钢反倾销最终措施属于同一事件。已由2026/2547正式法规主条详细核对税率、产品范围、企业差异与生效日；本转载无经独立验证的新法律变化，不另计一条政策。",
+      "attempted_at": "2026-11-17T06:43:27.363Z",
+      "coverage": "仅按RSS原题、日期与同一法规事件对应，未逐篇打开所有媒体付费正文；未把转载标题当成独立核验依据。",
+      "evidence_url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa3B4YmpOaVdhclpneERib0V3NzMtR3JUSV9wY3RHR3JuM2hibkZYUlg0LXNIMGtuN3B2MEF3eFRxOUdQdlVPWTNkY2lOWW1ieGRIRVl6ZU9fZEtFVDBONFA3bnBRMWdyYXpsZjNkYUhnNWUzQW81cGFtV1o2REEwM1V0Qm1yU05FSk9lRVZNVkw3OGs1dGdJS3JEaXZhUVd3N0tPWUFaX3RqenZpQ1RqMnYyUkFQQmI4TFJ1Q1pCLXNQMDFjWXc?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "duplicate",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "reason_zh": "与欧盟DG TRADE已核验的2026-11-16冷轧钢反倾销最终措施属于同一事件。已由2026/2547正式法规主条详细核对税率、产品范围、企业差异与生效日；本转载无经独立验证的新法律变化，不另计一条政策。",
+      "attempted_at": "2026-11-17T06:43:27.363Z",
+      "coverage": "仅按RSS原题、日期与同一法规事件对应，未逐篇打开所有媒体付费正文；未把转载标题当成独立核验依据。",
+      "evidence_url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMmxrVEk3QTd2UlJLc0Y5c0RZbF9pbGRrWXVCSjNVN0pLNTlJZHBRd1A0eXF5LXl6RnpzRTNWRVJRNkMxekloRnhPU0pzV1JOdDhTVUdqZ1YtbDdjTTgxazFCUzg1clBweU9jRFNkbThxRkNhV18wVUJ0VnZXbnZFWFdQR3FmMmFxVnFYYWNDVE5ibGhrSGJTZEZTeEVTRnFicS1kSFQwa29mS1g3Q3NhUmdtSlMwYkNWcW5xNE5NZmxGeWpac3VzQzMtVWpiODQ?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "duplicate",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "reason_zh": "与欧盟DG TRADE已核验的2026-11-16冷轧钢反倾销最终措施属于同一事件。已由2026/2547正式法规主条详细核对税率、产品范围、企业差异与生效日；本转载无经独立验证的新法律变化，不另计一条政策。",
+      "attempted_at": "2026-11-17T06:43:27.363Z",
+      "coverage": "仅按RSS原题、日期与同一法规事件对应，未逐篇打开所有媒体付费正文；未把转载标题当成独立核验依据。",
+      "evidence_url": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
+    }
+  ]
+}
