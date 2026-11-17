@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-16T22:34:04Z",
-  "pending_count": 24,
-  "actionable_count": 7,
+  "generated_at": "2026-11-17T02:07:46Z",
+  "pending_count": 25,
+  "actionable_count": 8,
   "blocked_count": 17,
   "items": [
     {
@@ -11,7 +11,7 @@
       "published_at": "2026-11-16T00:00:00Z",
       "title_original": "Open Coalition on Compliance Carbon Markets adopts COP31 Declaration and launches its Working Groups to advance carbon pricing for emission cuts and investment",
       "first_seen": "2026-11-16T22:34:04Z",
-      "last_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-17T02:07:46Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG CLIMA · EU ETS",
@@ -30,12 +30,36 @@
       "related_reviews": []
     },
     {
+      "id": "690e42f07336337a4697",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3A2ckluX25CZUJPNHRWTGw3OFN5bTl6ak43cUdVMTJqbC1hd3pvNkQwRHNYZTloS285MFl6U0o0bktKa1J6TDhkbUVlME5KTW81cFNqeFRRSUpLa1pLQ1ZDQnRlc0JBcnQwMjlfYTdQZnNmQmxqaGoxUkpaSU54TFFnTS1jSkR1NElja19UZE8xT1RKU2VTYlRoLXMwY1NwWEtucjl3TERUcU1wZGFjTlN3bGJmMlVmUk02c1J1c1pqQQ?oc=5",
+      "published_at": "2026-11-17T00:02:39Z",
+      "title_original": "EU puts anti-dumping duties of up to 28% on cold-rolled steel from India, Japan, Taiwan, Turkey and Vietnam",
+      "first_seen": "2026-11-17T02:07:46Z",
+      "last_seen": "2026-11-17T02:07:46Z",
+      "source": {
+        "id": "rss",
+        "name": "MLQ.ai",
+        "kind": "news",
+        "official": false
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-17",
+      "source_excerpt": "EU puts anti-dumping duties of up to 28% on cold-rolled steel from India, Japan, Taiwan, Turkey and Vietnam MLQ.ai",
+      "needs_translation": true,
+      "title_zh": "EU puts anti-dumping duties of up to 28% on cold-rolled steel from India, Japan, Taiwan, Turkey and Vietnam",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "26ff4d4427ee72bc",
+      "related_reviews": []
+    },
+    {
       "id": "55b770c62e800e1e7270",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LbUZJXy14Z3l1b1hqam52bDVqN2xKOUszOUc5SUdNSW55cVlYVl9remV4Q1JhQWtkX3FrQTh2T0dYY1llWUZKUjhkUzlMOEp2LUlzNTN6dHVMbVVkZEpSbVRnRmtNbk5yYUp3MHB5OWdhOEU4d3c?oc=5",
       "published_at": "2026-11-16T20:55:00Z",
       "title_original": "EU to Impose 27.9% Anti-Dumping Tariff on Japanese Cold-Rolled Steel from Nov. 17",
       "first_seen": "2026-11-16T22:34:04Z",
-      "last_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-17T02:07:46Z",
       "source": {
         "id": "rss",
         "name": "BigGo Finance",
@@ -83,7 +107,7 @@
       "published_at": "2026-11-16T16:13:36Z",
       "title_original": "EU sets tariffs on steel from India, Japan, Taiwan, Turkey, Vietnam",
       "first_seen": "2026-11-16T22:34:04Z",
-      "last_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-17T02:07:46Z",
       "source": {
         "id": "rss",
         "name": "Reuters",
@@ -107,7 +131,7 @@
       "published_at": "2026-11-16T14:22:30Z",
       "title_original": "EU imposes anti-dumping duties on cold-rolled steel imports from five countries, including Türkiye",
       "first_seen": "2026-11-16T22:34:04Z",
-      "last_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-17T02:07:46Z",
       "source": {
         "id": "rss",
         "name": "SteelRadar",
@@ -138,7 +162,7 @@
       "published_at": "2026-11-16T12:00:24Z",
       "title_original": "哈萨克斯坦协助金属行业适应欧盟CBAM排放规则 - 新闻和统计",
       "first_seen": "2026-11-16T22:34:04Z",
-      "last_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-17T02:07:46Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -162,7 +186,7 @@
       "published_at": "2026-11-16T10:57:38Z",
       "title_original": "Kazakhstan’s exporters are being prepared to operate under CBAM",
       "first_seen": "2026-11-16T22:34:04Z",
-      "last_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-17T02:07:46Z",
       "source": {
         "id": "rss",
         "name": "GMK Center",
@@ -188,7 +212,7 @@
       "published_at": "2026-11-16T12:12:51Z",
       "title_original": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus",
       "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-17T02:07:46Z",
       "source": {
         "id": "rss",
         "name": "GMK Center",
@@ -246,7 +270,7 @@
       "published_at": "2026-11-10T10:32:06Z",
       "title_original": "Saudi Arabia opens anti-dumping probe into steel imports from China, Turkiye",
       "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-17T02:07:46Z",
       "source": {
         "id": "rss",
         "name": "Arab News",
@@ -409,7 +433,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-17T02:07:46Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -439,7 +463,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-17T02:07:46Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -714,7 +738,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-17T02:07:46Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -744,7 +768,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-16T22:34:04Z",
+      "last_seen": "2026-11-17T02:07:46Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -830,5 +854,5 @@
     }
   ],
   "retry_due_count": 6,
-  "work_fingerprint": "bff405cfe6b925533eec"
+  "work_fingerprint": "b9ed822c4c954e4f16f1"
 }
