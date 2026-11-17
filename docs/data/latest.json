@@ -69,7 +69,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-17T16:30:01Z",
       "last_seen": "2026-11-17T16:30:01Z",
-      "source_excerpt": "EU Bolsters Trade Toolkit With Anti-Dumping Tariffs on Some Steel Bloomberg.com"
+      "source_excerpt": "EU Bolsters Trade Toolkit With Anti-Dumping Tariffs on Some Steel Bloomberg.com",
+      "machine_translation": {
+        "title_zh": "欧盟优惠贸易工具包,对一些钢铁征收反倾销关税",
+        "excerpt_zh": "欧盟一些钢铁布隆伯格公司加反倾销税的贸易工具箱。",
+        "fingerprint": "6bfba759671d6c76fd5ba1de0c18c821ef8ed9531649c641a47b591eb3a8154e",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-17T16:32:01Z"
+      }
     },
     {
       "id": "31b4b77962623869902c",
@@ -139,7 +147,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-17T16:30:01Z",
       "last_seen": "2026-11-17T16:30:01Z",
-      "source_excerpt": "EU Hits Cold-Rolled Steel Imports with Anti-Dumping Duties Up to 27.9% - News and Statistics IndexBox"
+      "source_excerpt": "EU Hits Cold-Rolled Steel Imports with Anti-Dumping Duties Up to 27.9% - News and Statistics IndexBox",
+      "machine_translation": {
+        "title_zh": "欧盟将冷轧钢的反倾销税进口至27.9%",
+        "excerpt_zh": "EU 点击 冷轧钢 以27.9%为单位的反倾销税进口 - 新闻和统计索引Box",
+        "fingerprint": "b02cad9a902abbfb7074d8c9d41aee9ba000a65594fc65bc4eea6703ed45a8b8",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-17T16:32:02Z"
+      }
     },
     {
       "id": "8747b10d11866821e62b",
@@ -174,7 +190,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-17T16:30:01Z",
       "last_seen": "2026-11-17T16:30:01Z",
-      "source_excerpt": "Kazakhstan prepares exporters for EU CBAM compliance Shanghai Metals Market"
+      "source_excerpt": "Kazakhstan prepares exporters for EU CBAM compliance Shanghai Metals Market",
+      "machine_translation": {
+        "title_zh": "哈萨克斯坦准备出口商遵守欧盟CBAM",
+        "excerpt_zh": "哈萨克斯坦为出口商遵守欧盟CBAM规定做好准备",
+        "fingerprint": "8087146856c98b8a69a32073637c8bcc6484e5d6bdd77e4ee8b5479c3f150e88",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-17T16:32:03Z"
+      }
     },
     {
       "id": "03262196fc3179918bee",
@@ -209,7 +233,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-17T16:30:01Z",
       "last_seen": "2026-11-17T16:30:01Z",
-      "source_excerpt": "EU Imposes 16% Anti-Dumping Duty on Vietnamese Steel Businesskorea"
+      "source_excerpt": "EU Imposes 16% Anti-Dumping Duty on Vietnamese Steel Businesskorea",
+      "machine_translation": {
+        "title_zh": "欧盟将16% 反倾销税投入越南钢铁",
+        "excerpt_zh": "欧盟将16% 反倾销税用于越南钢铁企业",
+        "fingerprint": "fb2c750e73538080a46a7c92d7ed73c92ee4e5b9e54db0806929093363685d86",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-17T16:32:04Z"
+      }
     },
     {
       "id": "9516d1d45f22ff316ce9",
@@ -244,7 +276,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-17T16:30:01Z",
       "last_seen": "2026-11-17T16:30:01Z",
-      "source_excerpt": "German Steel Summit: Subsidies First, Then a Tariff Wall Steel and Stainless Steel News"
+      "source_excerpt": "German Steel Summit: Subsidies First, Then a Tariff Wall Steel and Stainless Steel News",
+      "machine_translation": {
+        "title_zh": "德国钢铁峰会:第一补贴,然后是关税墙",
+        "excerpt_zh": "德国钢铁峰会:第一补贴,然后是关税墙钢和不锈钢新闻",
+        "fingerprint": "1ebdc2b8e5dcb4bc31b5cfccd853a1540a65df0f1ab0c91763cbf2ecd8e1c177",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-17T16:32:04Z"
+      }
     },
     {
       "id": "2f3cd942b2a0e8273856",
