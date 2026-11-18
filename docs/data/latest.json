@@ -132,7 +132,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-18T20:55:43Z",
       "last_seen": "2026-11-18T20:55:43Z",
-      "source_excerpt": "EU adopts rules for deducting carbon prices paid in third countries from CBAM GMK Center"
+      "source_excerpt": "EU adopts rules for deducting carbon prices paid in third countries from CBAM GMK Center",
+      "machine_translation": {
+        "title_zh": "欧盟通过规则,从CBAM中扣除第三国支付的碳价格",
+        "excerpt_zh": "欧盟通过规则,从CBAM GMK中心扣除第三国支付的碳价格",
+        "fingerprint": "dd2c8c190ac4705f12c69a385e63c8b6545546fb23b63eea11616d13785a4847",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-18T20:57:36Z"
+      }
     },
     {
       "id": "639422b18795ed6ef2c1",
@@ -305,6 +313,10 @@
       "first_seen": "2026-11-18T15:59:14Z",
       "last_seen": "2026-11-18T20:55:43Z",
       "source_excerpt": "",
+      "priority_signal": {
+        "zh": "贸易救济程序 · 待核对",
+        "en": "Trade-remedy procedure · review needed"
+      },
       "review_disposition": "blocked",
       "review_note_zh": "2026/2538号条例官方标题可确认是更正2025/1919号对埃及、日本、越南热轧扁平材反倾销条例，但本轮EUR-Lex正文不可读取；未核实更正的企业名称、附加码及其法律效力。仅标题翻译，不推定税率变化。",
       "review_note_en": "",
@@ -317,10 +329,6 @@
         "translated_at": "2026-11-18T19:33:15.044Z",
         "method": "editor_translation",
         "coverage": "标题翻译，不代表全文核验"
-      },
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
       }
     },
     {

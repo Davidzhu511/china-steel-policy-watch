@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "generated_at": "2026-11-18T20:55:43Z",
-  "updated_at": "2026-11-18T20:55:59Z",
+  "updated_at": "2026-11-18T20:57:36Z",
   "work_fingerprint": "2bdb8e0a1fd5b17c122c",
   "actionable_count": 1,
   "blocked_count": 20,
   "retry_due_count": 0,
-  "pending_translation": 1,
-  "pending_machine_translation": 1,
-  "chinese_title_coverage": 99.7,
+  "pending_translation": 0,
+  "pending_machine_translation": 0,
+  "chinese_title_coverage": 100.0,
   "oldest_actionable_hours": 0.0,
   "queue_path": "data/review_queue.json",
   "batch_path": "config/reviews/"
