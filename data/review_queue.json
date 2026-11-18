@@ -1,10 +1,35 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-18T15:59:14Z",
-  "pending_count": 20,
-  "actionable_count": 0,
+  "generated_at": "2026-11-18T20:55:43Z",
+  "pending_count": 21,
+  "actionable_count": 1,
   "blocked_count": 20,
-  "items": [],
+  "items": [
+    {
+      "id": "c6eb4c5f3fe34f16b809",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWRQLS1qaXpXMGItdGozSGhkTHN4MzdCLXp5ck15eEtQVDJ2dVgzTGJ5MXVENXdQR2lLWXNQY0MyVnBBT2ZvTWNBVkhHcGZ3V3NmZElVUFFsTzA1aFMtN3h5WnhMSDV4Wkd2Z0RZeElXNFRwUGZCdEQ3bi1PQVA1Vi1hWFZ5S0ZVYV91Q2w4NnFnb2JTd1NadFc3dkZhV3FkQzJ5RWtHLU7SAa4BQVVfeXFMTlR1bGxmYW1vM08tY1BhcDhrQ2pVSGlMUjRZRlAwRFo4N0MtM3JMTEZlX1Q3MEx5c1l4SzFxNS1mbEptU01nTElOQzNKanZUTUczOEtEMkY0RHVCRUw3LUM5czZHZDV3TGd3cEd2UWFSc3o1N3I1ejU3Y3A2bGE5TXdfb1VzSTA2eUJYTEZFeFU2amo3emg1TjhJcnBkbnpBYnJkQ2NoQl9pX1JYX3hR?oc=5",
+      "published_at": "2026-11-18T09:39:26Z",
+      "title_original": "EU adopts rules for deducting carbon prices paid in third countries from CBAM",
+      "first_seen": "2026-11-18T20:55:43Z",
+      "last_seen": "2026-11-18T20:55:43Z",
+      "source": {
+        "id": "rss",
+        "name": "GMK Center",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-18",
+      "source_excerpt": "EU adopts rules for deducting carbon prices paid in third countries from CBAM GMK Center",
+      "needs_translation": true,
+      "title_zh": "EU adopts rules for deducting carbon prices paid in third countries from CBAM",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "83a8c5658613ea43",
+      "related_reviews": []
+    }
+  ],
   "blocked_items": [
     {
       "id": "931e0609ebb87acd8a73",
@@ -12,7 +37,7 @@
       "published_at": "2026-11-17T23:00:00Z",
       "title_original": "Commission Implementing Regulation (EU) 2026/2538 of 17 November 2026 correcting Implementing Regulation (EU) 2025/1919 imposing a definitive anti-dumping duty and definitively collecting the provisional duty imposed on imports of certain hot-rolled flat products of iron, non-alloy or other alloy steel originating in Egypt, Japan and Vietnam, and terminating the investigation on imports thereof originating in India",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-18T15:59:14Z",
+      "last_seen": "2026-11-18T20:55:43Z",
       "source": {
         "id": "eurlex",
         "name": "EUR-Lex / 欧盟官方公报",
@@ -53,7 +78,7 @@
       "published_at": "2026-11-18T10:00:49Z",
       "title_original": "Official publication: Commission corrects name of Japanese steel producer subject to anti-dumping duties",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-18T15:59:14Z",
+      "last_seen": "2026-11-18T20:55:43Z",
       "source": {
         "id": "rss",
         "name": "EU Law Live",
@@ -83,7 +108,7 @@
       "published_at": "2026-11-18T03:03:00Z",
       "title_original": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9%",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-18T15:59:14Z",
+      "last_seen": "2026-11-18T20:55:43Z",
       "source": {
         "id": "rss",
         "name": "钢铁网",
@@ -112,7 +137,7 @@
       "published_at": "2026-11-17T09:48:00Z",
       "title_original": "Kazakhstan prepares exporters for EU CBAM compliance",
       "first_seen": "2026-11-17T16:30:01Z",
-      "last_seen": "2026-11-18T15:59:14Z",
+      "last_seen": "2026-11-18T20:55:43Z",
       "source": {
         "id": "rss",
         "name": "Shanghai Metals Market",
@@ -142,7 +167,7 @@
       "published_at": "2026-11-16T12:12:51Z",
       "title_original": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus",
       "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-18T15:59:14Z",
+      "last_seen": "2026-11-18T20:55:43Z",
       "source": {
         "id": "rss",
         "name": "GMK Center",
@@ -333,7 +358,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-18T15:59:14Z",
+      "last_seen": "2026-11-18T20:55:43Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -363,7 +388,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-18T15:59:14Z",
+      "last_seen": "2026-11-18T20:55:43Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -633,5 +658,5 @@
   ],
   "retry_items": [],
   "retry_due_count": 0,
-  "work_fingerprint": "4f53cda18c2baa0c0354"
+  "work_fingerprint": "2bdb8e0a1fd5b17c122c"
 }
