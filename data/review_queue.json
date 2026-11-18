@@ -1,10 +1,11 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-18T15:59:14Z",
-  "pending_count": 24,
-  "actionable_count": 7,
-  "blocked_count": 17,
-  "items": [
+  "pending_count": 20,
+  "actionable_count": 0,
+  "blocked_count": 20,
+  "items": [],
+  "blocked_items": [
     {
       "id": "931e0609ebb87acd8a73",
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2538",
@@ -25,11 +26,15 @@
         "en": "Trade-remedy procedure · review needed"
       },
       "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "2026/2538号条例官方标题可确认是更正2025/1919号对埃及、日本、越南热轧扁平材反倾销条例，但本轮EUR-Lex正文不可读取；未核实更正的企业名称、附加码及其法律效力。仅标题翻译，不推定税率变化。",
+      "review_evidence_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2538/oj",
+      "review_coverage": "EUR-Lex官方URL正文访问失败，保留标题级核验；未取得条文全文，不标source_checked。",
       "published_date": "2026-11-17",
       "source_excerpt": "",
-      "needs_translation": true,
-      "title_zh": "Commission Implementing Regulation (EU) 2026/2538 of 17 November 2026 correcting Implementing Regulation (EU) 2025/1919 imposing a definitive anti-dumping duty and definitively collecting the provisional duty imposed on imports of certain hot-rolled flat products of iron, non-alloy or other alloy steel originating in Egypt, Japan and Vietnam, and terminating the investigation on imports thereof originating in India",
-      "review_attempted_at": "",
+      "needs_translation": false,
+      "title_zh": "欧盟委员会实施条例(EU)2026/2538：更正对埃及、日本和越南部分热轧扁平钢材征收最终反倾销税、对印度终止调查的2025/1919号条例",
+      "review_attempted_at": "2026-11-18T19:33:15.044Z",
       "evidence_fingerprint": "0fa56a6df91da8e3",
       "related_reviews": [
         {
@@ -38,96 +43,9 @@
           "title_zh": "欧盟2026/2547冷轧钢反倾销终裁：五地分企业征税3%—27.9%，11月17日生效",
           "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202602547"
         }
-      ]
-    },
-    {
-      "id": "8468027f1c0261280c86",
-      "url": "https://gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping",
-      "published_at": "2026-11-18T00:00:00Z",
-      "title_original": "Trade remedies notice: hot-rolled steel plates originating from South Korea (anti-dumping)",
-      "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-18T15:59:14Z",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-18",
-      "source_excerpt": "Trade remedies notices published by the Secretary of State for Business, Innovation, Science and Trade (BIST) relating to the dumping investigation on imports of hot-rolled steel plate originating from South Korea.",
-      "needs_translation": false,
-      "title_zh": "贸易救济通知:原产于南朝鲜的热轧钢牌照(反倾销)",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "1f5152f9707d7645",
-      "related_reviews": []
-    },
-    {
-      "id": "698e0fd3bc5891b71a5c",
-      "url": "https://federalregister.gov/documents/2026/11/18/2026-23407/steel-grating-from-china-determinations",
-      "published_at": "2026-11-18T00:00:00Z",
-      "title_original": "Steel Grating From China; Determinations",
-      "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-18T15:59:14Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "法规与正式文件",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-18",
-      "source_excerpt": "",
-      "needs_translation": false,
-      "title_zh": "中国的钢格板; 确定",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "916105750dc2ac4b",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/10/14/2026-20918/non-refillable-steel-cylinders-from-china-determinations",
-          "published_at": "2026-10-14T00:00:00Z",
-          "title_zh": "美国国际贸易委员会认定撤销对华非重复充装钢瓶措施将导致损害再现",
-          "evidence_url": "https://www.govinfo.gov/content/pkg/FR-2026-10-14/pdf/2026-20918.pdf"
-        },
-        {
-          "url": "https://federalregister.gov/documents/2026/11/10/2026-22923/prestressed-concrete-steel-wire-strand-from-china-determinations",
-          "published_at": "2026-11-10T00:00:00Z",
-          "title_zh": "美国对中国预应力混凝土钢绞线作出第三次日落复审肯定性损害裁定",
-          "evidence_url": "https://www.usitc.gov/press_room/news_release/2026/er1028_69416.htm"
-        }
-      ]
-    },
-    {
-      "id": "8560684245edf51cb8b3",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb0JXYTgxemVfcndRcDYwR1lYRFRzSmxyOXowUUJPY1E3Wmg1bU5SdkQ1QkN2OU1tT0poOTA4Yjk4UElqT0VZNWJzSzJiRWVranZZVS1YZU5SUXdGejFMOWJ3VTc0czFiTDRmSUhPeExycThnN1ZxQ3NKM1dRZ29XWFdwZVBXVjB4c3RhN3RhWUg4OUpQdkNGQU5GRGxPUkRnbktjaGVFMmI2Ri1qU2xnSFNTVmlNMElUQ3o4V0Z0QnlDR2hIMUh4VHBJbVlVY1pCUzBFM0phWHlCVzRZb1E?oc=5",
-      "published_at": "2026-11-18T11:35:08Z",
-      "title_original": "EU industrial emissions fall as Commission outlines proposed CBAM extension to 180 downstream steel and aluminium products",
-      "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-18T15:59:14Z",
-      "source": {
-        "id": "rss",
-        "name": "EUROMETAL",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-18",
-      "source_excerpt": "EU industrial emissions fall as Commission outlines proposed CBAM extension to 180 downstream steel and aluminium products EUROMETAL",
-      "needs_translation": false,
-      "title_zh": "欧盟工业排放量下降,因为委员会拟将CBAM扩展至180下游钢和铝制品",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "393759e5de7b82df",
-      "related_reviews": []
+      ],
+      "retry_after": "2026-11-21T20:30:00Z",
+      "retry_policy": "scheduled"
     },
     {
       "id": "1b0cd93c6734f762a2c6",
@@ -145,13 +63,19 @@
       "category": "贸易救济",
       "importance": "中",
       "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "EU Law Live报道称欧委会更正日本钢厂名称，但原报道及正式更正条例正文未核实；不能仅据标题推断具体企业或税率。与2026/2538可能同事件但尚无已核验主条，故不标duplicate。",
+      "review_evidence_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2538/oj",
+      "review_coverage": "仅核对队列标题与2026/2538官方题名关联，缺少更正正文及可追溯条款，未全文核验。",
       "published_date": "2026-11-18",
       "source_excerpt": "Official publication: Commission corrects name of Japanese steel producer subject to anti-dumping duties EU Law Live",
       "needs_translation": false,
       "title_zh": "正式出版物:委员会更正须缴纳反倾销税的日本钢铁生产商的名称",
-      "review_attempted_at": "",
+      "review_attempted_at": "2026-11-18T19:33:15.044Z",
       "evidence_fingerprint": "d94db2ac60578524",
-      "related_reviews": []
+      "related_reviews": [],
+      "retry_after": "2026-11-25T20:30:00Z",
+      "retry_policy": "scheduled"
     },
     {
       "id": "639422b18795ed6ef2c1",
@@ -169,40 +93,19 @@
       "category": "市场与产能",
       "importance": "中",
       "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "媒体标题称10月钢铁板材出口574万吨、同比-3.9%，本轮未取得海关总署可逐项核实的官方10月板材分项统计。该数字不直接作为已核验出口数据发布。",
+      "review_coverage": "仅核对钢铁网队列标题；国家统计局产量数据不能替代海关出口数据，尚未取得同口径官方来源。",
       "published_date": "2026-11-18",
       "source_excerpt": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9% 钢铁网",
       "needs_translation": false,
       "title_zh": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9%",
-      "review_attempted_at": "",
+      "review_attempted_at": "2026-11-18T19:33:15.044Z",
       "evidence_fingerprint": "5638f882569709fa",
-      "related_reviews": []
+      "related_reviews": [],
+      "retry_after": "2026-11-25T20:30:00Z",
+      "retry_policy": "scheduled"
     },
-    {
-      "id": "3f18bce96751a3898397",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2pETXY1X1pGaW96MVRYdEZDWWdQSUppSG5PTjRsVU9jcU82OHByTk4zTG4xZEVKLWFuN25yNmFpU0RsS0VmMGF6SzBNakt1Qnd2ZGxtN2hvYjlucDhqMUdUd0ZWR29yNEFRbmpXdXhfd0NDRFNUTnA5dmxFTFFGaV9VcHhPbTdyVGRsdkl3bVRRM1NjMVJaUm9lbGxadDZW?oc=5",
-      "published_at": "2026-11-16T14:00:40Z",
-      "title_original": "China Steel Output Hits 10-Month Low in October 2026",
-      "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-18T15:59:14Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "China Steel Output Hits 10-Month Low in October 2026 - News and Statistics IndexBox",
-      "needs_translation": true,
-      "title_zh": "China Steel Output Hits 10-Month Low in October 2026",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "b34cf35106b65c31",
-      "related_reviews": []
-    }
-  ],
-  "blocked_items": [
     {
       "id": "8747b10d11866821e62b",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkRrNVI0d0NFTXMzaVlaZDhLOHZTWFhDRHA5c1pFMGJwN0d3RVlna25Ub3dmMHJNd1JrWWVMMHQyYV82YzVHUTd0MVlYMm9nR0o5TnJnVkFCalk3QV9pc1lwSWFZY3JaQWNLUVZCNVQ2Y2dCYVpxRElybW5xQTk2WDlXdm9USVNOZU9PMUg0cEhZZ2JoUjZTdmdDWTZqN2dMa2ZlZWdZQ0hpT3RMWmFRWDhLb0FVT2ZneU0zd0ZMOUVZbjY0X3ZmVEJR?oc=5",
@@ -730,5 +633,5 @@
   ],
   "retry_items": [],
   "retry_due_count": 0,
-  "work_fingerprint": "6c318d987f078c074d12"
+  "work_fingerprint": "4f53cda18c2baa0c0354"
 }
