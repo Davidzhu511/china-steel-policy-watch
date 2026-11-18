@@ -62,8 +62,8 @@
       "translation_state": "pending",
       "published_date": "2026-11-18",
       "source_excerpt": "Trade remedies notices published by the Secretary of State for Business, Innovation, Science and Trade (BIST) relating to the dumping investigation on imports of hot-rolled steel plate originating from South Korea.",
-      "needs_translation": true,
-      "title_zh": "Trade remedies notice: hot-rolled steel plates originating from South Korea (anti-dumping)",
+      "needs_translation": false,
+      "title_zh": "贸易救济通知:原产于南朝鲜的热轧钢牌照(反倾销)",
       "review_attempted_at": "",
       "evidence_fingerprint": "1f5152f9707d7645",
       "related_reviews": []
@@ -86,8 +86,8 @@
       "translation_state": "pending",
       "published_date": "2026-11-18",
       "source_excerpt": "",
-      "needs_translation": true,
-      "title_zh": "Steel Grating From China; Determinations",
+      "needs_translation": false,
+      "title_zh": "中国的钢格板; 确定",
       "review_attempted_at": "",
       "evidence_fingerprint": "916105750dc2ac4b",
       "related_reviews": [
@@ -123,8 +123,8 @@
       "translation_state": "pending",
       "published_date": "2026-11-18",
       "source_excerpt": "EU industrial emissions fall as Commission outlines proposed CBAM extension to 180 downstream steel and aluminium products EUROMETAL",
-      "needs_translation": true,
-      "title_zh": "EU industrial emissions fall as Commission outlines proposed CBAM extension to 180 downstream steel and aluminium products",
+      "needs_translation": false,
+      "title_zh": "欧盟工业排放量下降,因为委员会拟将CBAM扩展至180下游钢和铝制品",
       "review_attempted_at": "",
       "evidence_fingerprint": "393759e5de7b82df",
       "related_reviews": []
@@ -147,8 +147,8 @@
       "translation_state": "pending",
       "published_date": "2026-11-18",
       "source_excerpt": "Official publication: Commission corrects name of Japanese steel producer subject to anti-dumping duties EU Law Live",
-      "needs_translation": true,
-      "title_zh": "Official publication: Commission corrects name of Japanese steel producer subject to anti-dumping duties",
+      "needs_translation": false,
+      "title_zh": "正式出版物:委员会更正须缴纳反倾销税的日本钢铁生产商的名称",
       "review_attempted_at": "",
       "evidence_fingerprint": "d94db2ac60578524",
       "related_reviews": []

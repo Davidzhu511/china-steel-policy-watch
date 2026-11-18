@@ -34,7 +34,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-18T15:59:14Z",
       "last_seen": "2026-11-18T15:59:14Z",
-      "source_excerpt": "EU industrial emissions fall as Commission outlines proposed CBAM extension to 180 downstream steel and aluminium products EUROMETAL"
+      "source_excerpt": "EU industrial emissions fall as Commission outlines proposed CBAM extension to 180 downstream steel and aluminium products EUROMETAL",
+      "machine_translation": {
+        "title_zh": "欧盟工业排放量下降,因为委员会拟将CBAM扩展至180下游钢和铝制品",
+        "excerpt_zh": "欧盟工业排放量下降,因为欧盟委员会提议将CBAM扩展至180下游钢和铝制品",
+        "fingerprint": "59c2dec35a776eaeb0792bd052c2544b94b20fcd51527eeab2b9de0e106477f8",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-18T16:01:14Z"
+      }
     },
     {
       "id": "1b0cd93c6734f762a2c6",
@@ -69,7 +77,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-18T15:59:14Z",
       "last_seen": "2026-11-18T15:59:14Z",
-      "source_excerpt": "Official publication: Commission corrects name of Japanese steel producer subject to anti-dumping duties EU Law Live"
+      "source_excerpt": "Official publication: Commission corrects name of Japanese steel producer subject to anti-dumping duties EU Law Live",
+      "machine_translation": {
+        "title_zh": "正式出版物:委员会更正须缴纳反倾销税的日本钢铁生产商的名称",
+        "excerpt_zh": "官方出版物:委员会更正受反倾销税约束的日本钢铁生产商的名称",
+        "fingerprint": "41cb14cb4522a0c1a06469c62a005899bfb373b7b9aedb3cb1ba5e86cf291c50",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-18T16:01:15Z"
+      }
     },
     {
       "id": "639422b18795ed6ef2c1",
@@ -139,7 +155,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-18T15:59:14Z",
       "last_seen": "2026-11-18T15:59:14Z",
-      "source_excerpt": ""
+      "source_excerpt": "",
+      "machine_translation": {
+        "title_zh": "中国的钢格板; 确定",
+        "excerpt_zh": "",
+        "fingerprint": "600f23faf203f9d66514f0faa957c4105dd45ebec5bfbb928cea340e38f94562",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-18T16:01:15Z"
+      }
     },
     {
       "id": "8468027f1c0261280c86",
@@ -178,6 +202,14 @@
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
+      },
+      "machine_translation": {
+        "title_zh": "贸易救济通知:原产于南朝鲜的热轧钢牌照(反倾销)",
+        "excerpt_zh": "商业、创新、科学和贸易国务秘书发布的贸易补救通知,涉及对来自南朝鲜的热轧钢牌照进口的倾销调查。",
+        "fingerprint": "bec7acc367852651481027b929eb82ff891a27244094c393255ef87b9d123c25",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-18T16:01:17Z"
       }
     },
     {
