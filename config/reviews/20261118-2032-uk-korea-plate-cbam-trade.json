@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-18T19:33:15.044Z",
+  "translations": [
+    {
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2538",
+      "published_date": "2026-11-17",
+      "title_original": "Commission Implementing Regulation (EU) 2026/2538 of 17 November 2026 correcting Implementing Regulation (EU) 2025/1919 imposing a definitive anti-dumping duty and definitively collecting the provisional duty imposed on imports of certain hot-rolled flat products of iron, non-alloy or other alloy steel originating in Egypt, Japan and Vietnam, and terminating the investigation on imports thereof originating in India",
+      "title_zh": "欧盟委员会实施条例(EU)2026/2538：更正对埃及、日本和越南部分热轧扁平钢材征收最终反倾销税、对印度终止调查的2025/1919号条例",
+      "translated_at": "2026-11-18T19:33:15.044Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2pETXY1X1pGaW96MVRYdEZDWWdQSUppSG5PTjRsVU9jcU82OHByTk4zTG4xZEVKLWFuN25yNmFpU0RsS0VmMGF6SzBNakt1Qnd2ZGxtN2hvYjlucDhqMUdUd0ZWR29yNEFRbmpXdXhfd0NDRFNUTnA5dmxFTFFGaV9VcHhPbTdyVGRsdkl3bVRRM1NjMVJaUm9lbGxadDZW?oc=5",
+      "published_date": "2026-11-16",
+      "title_original": "China Steel Output Hits 10-Month Low in October 2026",
+      "title_zh": "2026年10月中国钢铁产量降至10个月低点",
+      "translated_at": "2026-11-18T19:33:15.044Z"
+    }
+  ],
+  "editorial": [
+    {
+      "url": "https://gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping",
+      "published_date": "2026-11-18",
+      "reviewed_at": "2026-11-18T19:33:15.044Z",
+      "title_zh": "英国对韩国热轧中厚板实施最终反倾销税：现代7.04%、浦项12.19%，宽度超过2100毫米为0%",
+      "title_en": "UK imposes definitive AD duties on South Korean hot-rolled plate: Hyundai 7.04%, POSCO 12.19%, width over 2,100 mm 0%",
+      "summary_zh": "【正式公告】英国政府2026年11月18日发布贸易救济通知2026/32，自11月19日实施、期限五年至2031年11月19日。针对原产韩国的特定非卷状热轧中厚板（涉及7208、7210、7225下11个税号，通常厚度≥4.75毫米并有产品排除项），按宽度区分：≤2100毫米的韩国生产商现代钢铁7.04%（附加码8A78）、POSCO 12.19%（8A79）、其他23.07%（8A80）；>2100毫米适用0%（8A81），均为同一最终反倾销措施的一部分。税基为进口英国边境未完税净价。享受指定生产商税率需有效商业发票附签字声明；否则适用剩余税率。该决定拒绝TRA对全范围征税5.98%—25.71%的建议，并终止此前进口登记。不得把TRA建议税率当成最终税率。",
+      "summary_en": "UK notice 2026/32 published 18 Nov and effective 19 Nov 2026 to 19 Nov 2031. For Korean hot-rolled plate ≤2,100 mm: Hyundai Steel 7.04% (8A78), POSCO 12.19% (8A79), others 23.07% (8A80). Plate >2,100 mm attracts 0% (8A81). Specific invoice declarations are required for producer-specific rates. The Secretary of State rejected the TRA's broader recommended rates.",
+      "impact_zh": "【研判】英国进口商采购韩国中厚板的到岸成本将按实际制造商与2100毫米宽度阈值分化，宽板韩国货仍可保持零反倾销税竞争力。中国板材可能获得局部替代询价，但必须独立核对中国原产货物适用的英国贸易救济、保障措施、UK CBAM及客户认证，不可视为自动获益。跟踪韩国≤2100毫米中厚板是否转向其他市场属于预测，尚无证据确认。建议对英国客户按生产厂、宽度、税号、附加码及商业发票逐项核价。",
+      "impact_en": "Korean plate costs now vary materially by producer and the 2,100 mm threshold. Chinese substitution is only a possibility subject to separate UK measures, quotas, carbon obligations and customer approvals. Monitor potential diversion without treating it as established.",
+      "evidence_url": "https://www.gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping/trade-remedies-notice-202632-definitive-anti-dumping-measure-on-hot-rolled-steel-plate-originating-from-south-korea",
+      "coverage": "2026-11-18逐段核对英国政府贸易救济通知2026/32正文、Annex 1、Annex 2，覆盖税率、制造商、宽度、编码、日期、发票声明及此前登记终止；未逐票进行UKGT归类。",
+      "importance": "高",
+      "category": "贸易救济",
+      "status": "正式终裁",
+      "follow_up": "英国中厚板客户立即按宽度2100毫米边界、厂别与税号重算竞争报价，确认发票声明；比较中国自身税负与英国客户认证。"
+    },
+    {
+      "url": "https://federalregister.gov/documents/2026/11/18/2026-23407/steel-grating-from-china-determinations",
+      "published_date": "2026-11-18",
+      "reviewed_at": "2026-11-18T19:33:15.044Z",
+      "title_zh": "美国对中国钢格板作出第三次日落复审肯定性损害裁定，现有反倾销及反补贴措施继续有效",
+      "title_en": "USITC affirmative sunset review determinations keep AD/CVD orders on certain steel grating from China",
+      "summary_zh": "【官方裁定】美国国际贸易委员会2026年11月4日宣布，对原产中国的Certain Steel Grating开展第三次快速日落复审，认定撤销现行反倾销和反补贴命令很可能在可预见期间造成实质损害继续或再现，因此两项命令继续有效。案件编号701-TA-465及731-TA-1161。11月18日《联邦公报》出现相应裁定公告，为程序性发布，并非11月18日新增税率。USITC公告未提供个别企业税率，不能据此推断税率变化。",
+      "summary_en": "On 4 Nov 2026 the USITC issued affirmative expedited third sunset review determinations (701-TA-465 and 731-TA-1161), keeping the existing AD/CVD orders on certain steel grating from China in place. The 18 Nov Federal Register notice is a procedural publication, not a new rate.",
+      "impact_zh": "【研判】对美国钢格板业务，贸易救济障碍未解除；报价应继续核对美国商务部当前命令、企业适用现金保证金及产品范围。此次日落复审不应扩展解释为普通热轧卷或全部钢材的新增税。",
+      "impact_en": "Existing US AD/CVD barriers on Chinese steel grating remain; verify the current Commerce rates and product scope before quoting. No new rate is established by the ITC notice.",
+      "evidence_url": "https://www.usitc.gov/press_room/news_release/2026/er1104_69469.htm",
+      "coverage": "2026-11-18核对USITC 2026-11-04官方新闻稿及11月18日Federal Register公告标题；损害裁定及继续有效有USITC官方原文支持，未取得企业税率表。",
+      "importance": "中",
+      "category": "贸易救济",
+      "status": "日落复审肯定性损害裁定",
+      "follow_up": "如有钢格板赴美询盘，核对Commerce最新现金保证金与产品范围；不把本次裁定视作新税率。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb0JXYTgxemVfcndRcDYwR1lYRFRzSmxyOXowUUJPY1E3Wmg1bU5SdkQ1QkN2OU1tT0poOTA4Yjk4UElqT0VZNWJzSzJiRWVranZZVS1YZU5SUXdGejFMOWJ3VTc0czFiTDRmSUhPeExycThnN1ZxQ3NKM1dRZ29XWFdwZVBXVjB4c3RhN3RhWUg4OUpQdkNGQU5GRGxPUkRnbktjaGVFMmI2Ri1qU2xnSFNTVmlNMElUQ3o4V0Z0QnlDR2hIMUh4VHBJbVlVY1pCUzBFM0phWHlCVzRZb1E?oc=5",
+      "published_date": "2026-11-18",
+      "reviewed_at": "2026-11-18T19:33:15.044Z",
+      "title_zh": "欧盟ETS工业排放2025年下降3.3%；CBAM扩大至约180种下游钢铝制品仍属立法提案",
+      "title_en": "EU ETS industrial emissions down 3.3% in 2025; extension of CBAM to around 180 downstream steel and aluminium goods remains proposed",
+      "summary_zh": "【媒体报道与官方立法背景】EUROMETAL 2026年11月18日转载SteelOrbis报道：根据欧委会11月9日碳市场年度报告，2025年ETS覆盖工业设施排放同比下降3.3%，钢铁、水泥、化工为主要贡献行业。报道提及欧委会2025年12月提议自2028年将CBAM扩展到约180类钢铝密集型下游产品（例如洗衣机、工业散热器、铸造机械）。欧盟议会研究处2026年7月资料确认这是COM(2025)989、程序2025/0419(COD)的立法提案，而非已经生效的产品清单；截至本次核验未取得三方最终通过文本，不应称180项已经纳入。",
+      "summary_en": "EUROMETAL's 18 Nov report cites a Commission ETS report showing 2025 industrial emissions down 3.3%. The Commission's proposed CBAM extension to roughly 180 downstream steel/aluminium products from 2028 remains a legislative proposal (COM(2025)989, 2025/0419(COD)), not an adopted list.",
+      "impact_zh": "【研判】如最终通过，下游金属制品出口企业将新增碳排放数据、前驱体与证书成本合规需求，改变欧盟客户对钢材及加工制品的采购比较；当前不能直接把拟议180类产品计入现行CBAM征收范围。应关注欧盟三方谈判最终CN编码、废钢前驱体、反规避和2028年拟议起始日期。",
+      "impact_en": "If adopted, expanded downstream CBAM would affect metal-fabricated goods and precursor data; the 180-product list is not currently binding. Monitor the final trilogue text, CN codes and scrap rules.",
+      "evidence_url": "https://eurometal.net/eu-industrial-emissions-fall-as-commission-outlines-proposed-cbam-extension-to-180-downstream-steel-and-aluminium-products/",
+      "coverage": "2026-11-18读取EUROMETAL全文并对照欧洲议会研究处2026-07-06立法进程简报，核实3.3%为媒体转述欧委会11月9日报告，180项为2025年12月委员会提案；未核对2026-11-09 ETS年度报告全部底层数据或2026年11月最新三方谈判定稿。",
+      "importance": "高",
+      "category": "碳与环保",
+      "status": "立法提案／尚未生效",
+      "follow_up": "跟踪2025/0419(COD)最终三方谈判、CN清单和拟议2028年适用日期；提前盘点下游钢制品客户而不预先计税。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2pETXY1X1pGaW96MVRYdEZDWWdQSUppSG5PTjRsVU9jcU82OHByTk4zTG4xZEVKLWFuN25yNmFpU0RsS0VmMGF6SzBNakt1Qnd2ZGxtN2hvYjlucDhqMUdUd0ZWR29yNEFRbmpXdXhfd0NDRFNUTnA5dmxFTFFGaV9VcHhPbTdyVGRsdkl3bVRRM1NjMVJaUm9lbGxadDZW?oc=5",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-18T19:33:15.044Z",
+      "title_zh": "中国10月钢材产量同比下降5.1%，媒体称粗钢产量降至10个月低点仍待进一步核实",
+      "title_en": "China October steel products output fell 5.1% year-on-year; claim of ten-month crude steel low not independently verified",
+      "summary_zh": "【有限核验】国家统计局2026年11月16日公布：2026年10月中国规模以上工业钢材产量11161万吨，同比下降5.1%；黑色金属冶炼和压延加工业增加值同比下降1.7%。IndexBox 11月16日标题称中国钢铁产量降至10个月低点，但本轮未取得其正文，也未核对逐月粗钢数据，因此不将“10个月低点”作为已核验事实。钢材产量不能等同粗钢产量。",
+      "summary_en": "NBS reported October 2026 steel products output of 111.61 Mt, down 5.1% y/y, and ferrous smelting/rolling value added down 1.7%. IndexBox's '10-month low' claim has not been independently verified against monthly crude steel data.",
+      "impact_zh": "【研判】钢材产量回落可作为供给收缩观察指标，但不能仅凭此推断出口价格必涨或出口量必降。建议结合10月海关钢材出口分品种数据、粗钢产量及国内库存评估出口供给。",
+      "impact_en": "Lower steel products output is a supply indicator, not proof of higher export prices or lower export volumes. Cross-check crude steel output and customs exports by product.",
+      "evidence_url": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965842.html",
+      "coverage": "2026-11-18核对国家统计局2026-11-16工业生产官方发布；仅确认钢材产量11161万吨、同比-5.1%和行业增加值-1.7%。IndexBox原文及10个月粗钢比较未核实，属于有限核验，不应标为完整source_checked。",
+      "review_status": "limited",
+      "importance": "中",
+      "category": "市场与产能",
+      "follow_up": "获取逐月粗钢产量和海关分品种出口数据后再判断10个月低点及出口影响。"
+    }
+  ],
+  "triage": [
+    {
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2538",
+      "published_date": "2026-11-17",
+      "decision": "blocked",
+      "reason_zh": "2026/2538号条例官方标题可确认是更正2025/1919号对埃及、日本、越南热轧扁平材反倾销条例，但本轮EUR-Lex正文不可读取；未核实更正的企业名称、附加码及其法律效力。仅标题翻译，不推定税率变化。",
+      "attempted_at": "2026-11-18T19:33:15.044Z",
+      "coverage": "EUR-Lex官方URL正文访问失败，保留标题级核验；未取得条文全文，不标source_checked。",
+      "evidence_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2538/oj",
+      "retry_after": "2026-11-21T20:30:00Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYWNjTWJpX2JGX3VKS2xESlFYRFFReXpPUW9hUDBRQlJEMmVOZ1ByeVJCa29HSnVCQVIyNUZtNUdmSkdYUWF5alZnbEVHT3g0eWNjUDJNaDRWcktuNC0yY2lhV29rdmhhRkFreHJjMlhuVmVHTU5yM1EwUTdBV2R2SllpNUJFTEE1RHlwdFRSbGE1bDc2ZEw3djVNSkQ2em9KTk1rRTQ5RXVmVGZOdnhPMlJFSzhJeE5MWXAtZzNEQm9ZcFJC?oc=5",
+      "published_date": "2026-11-18",
+      "decision": "blocked",
+      "reason_zh": "EU Law Live报道称欧委会更正日本钢厂名称，但原报道及正式更正条例正文未核实；不能仅据标题推断具体企业或税率。与2026/2538可能同事件但尚无已核验主条，故不标duplicate。",
+      "attempted_at": "2026-11-18T19:33:15.044Z",
+      "coverage": "仅核对队列标题与2026/2538官方题名关联，缺少更正正文及可追溯条款，未全文核验。",
+      "evidence_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2538/oj",
+      "retry_after": "2026-11-25T20:30:00Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zRVo5VUxjb3dvVUpJMllIQ1JTR1MxanR5aFA3enBfaTY4NElBZ2laQVAxc3l1THpIZW5QR3diSXRkRDI5SWpfMkE3ekRyRVdjTkRrd3BJYmRqRzd3RThfdkgzbk5fVE55?oc=5",
+      "published_date": "2026-11-18",
+      "decision": "blocked",
+      "reason_zh": "媒体标题称10月钢铁板材出口574万吨、同比-3.9%，本轮未取得海关总署可逐项核实的官方10月板材分项统计。该数字不直接作为已核验出口数据发布。",
+      "attempted_at": "2026-11-18T19:33:15.044Z",
+      "coverage": "仅核对钢铁网队列标题；国家统计局产量数据不能替代海关出口数据，尚未取得同口径官方来源。",
+      "retry_after": "2026-11-25T20:30:00Z"
+    }
+  ]
+}
