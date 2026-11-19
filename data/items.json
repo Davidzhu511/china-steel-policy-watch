@@ -364,6 +364,10 @@
         {
           "name": "Steel and Stainless Steel News",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWTXZCWUxFLWgwUmF6TU5OVXVwcFIxX29jU2NHU1hOSGZBVFZRVklJNjZYcXRHdlpOZGFIdXpGamxCcVdXNDJjVWRoYUJUcTZGOFhSYVRJRkJsMDlKM3duMi1KaFZRRFZtakxKOUJZOG5fWkg1VGlydW42d21JZw?oc=5"
+        },
+        {
+          "name": "GMK Center",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWRQLS1qaXpXMGItdGozSGhkTHN4MzdCLXp5ck15eEtQVDJ2dVgzTGJ5MXVENXdQR2lLWXNQY0MyVnBBT2ZvTWNBVkhHcGZ3V3NmZElVUFFsTzA1aFMtN3h5WnhMSDV4Wkd2Z0RZeElXNFRwUGZCdEQ3bi1PQVA1Vi1hWFZ5S0ZVYV91Q2w4NnFnb2JTd1NadFc3dkZhV3FkQzJ5RWtHLU7SAa4BQVVfeXFMTlR1bGxmYW1vM08tY1BhcDhrQ2pVSGlMUjRZRlAwRFo4N0MtM3JMTEZlX1Q3MEx5c1l4SzFxNS1mbEptU01nTElOQzNKanZUTUczOEtEMkY0RHVCRUw3LUM5czZHZDV3TGd3cEd2UWFSc3o1N3I1ejU3Y3A2bGE5TXdfb1VzSTA2eUJYTEZFeFU2amo3emg1TjhJcnBkbnpBYnJkQ2NoQl9pX1JYX3hR?oc=5"
         }
       ]
     },
@@ -8838,13 +8842,13 @@
     },
     {
       "id": "9b6af1ce4900e9eacec5",
-      "title_zh": "Industrial emissions in the EU fell by 3.3%; CBAM to be extended to 180 products",
-      "title_en": "Industrial emissions in the EU fell by 3.3%; CBAM to be extended to 180 products",
+      "title_zh": "欧委会2025年碳市场报告：欧盟工业ETS排放下降3.3%，CBAM扩至180类下游产品仍为提案",
+      "title_en": "Commission's 2025 carbon market report: industrial ETS emissions down 3.3%; extension of CBAM to 180 downstream goods remains proposed",
       "title_original": "Industrial emissions in the EU fell by 3.3%; CBAM to be extended to 180 products",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "【官方报告事实】欧委会于2026年11月9日发布COM(2026)596 final《2025年欧洲碳市场运行报告》。报告以截至2026年6月30日的核证数据指出，2025年欧盟ETS工业设施排放较2024年下降3.3%，主要由钢铁、水泥和化工部门推动；陶瓷和铝业排放则增加逾2%。整个ETS1（含电力、工业、航空、航运）2025年排放量约11.63亿吨二氧化碳当量，较2024年下降2%。报告第3.4节回顾欧委会2025年12月提出的CBAM下游扩围方案，拟自2028年覆盖约180类钢铝密集型产品（如洗衣机、工业散热器、铸造机械），并拟设临时脱碳基金；此处是既有立法提案回顾，尚非2026年11月新增已生效税目。报告提及CBAM覆盖行业免费配额逐步退出，不能把工业排放下降直接等同于钢铁单吨排放强度下降。",
+      "summary_en": "COM(2026)596 final, published 9 Nov 2026, reports verified 2025 industrial ETS emissions down 3.3% y/y, mainly in steel, cement and chemicals; ceramic and aluminium emissions rose over 2%. Total ETS1 emissions were 1,163 MtCO2e, down 2%. The report reiterates the December 2025 Commission proposal to extend CBAM to around 180 steel/aluminium-intensive downstream goods from 2028; this remains a proposal, not an enacted new product list.",
+      "impact_zh": "【业务研判】欧盟钢铁排放下降可能同时反映减产、结构调整和减排，不能据此推断欧洲钢厂竞争成本必然下降。中国钢材及下游出口企业应监测欧盟ETS免费配额和CBAM扩围立法进度，预先建立钢铝前驱体、产品CN编码及嵌入排放数据映射；扩围尚未生效，不应提前按180项方案向客户计征CBAM。欧盟拟设出口脱碳补助若获通过可能改变欧洲制造商的海外竞争报价，但具体资金和适用条件须待立法落地。",
+      "impact_en": "The 3.3% drop may reflect lower output as well as decarbonisation, not necessarily lower unit emissions or costs. Chinese steel and downstream exporters should track free-allocation reforms and the CBAM expansion proposal, map CN codes and embedded emissions, and avoid treating the 180 proposed goods as currently taxable.",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdE5nT1d0amRiUEpVWkdFMDEyZElzbG1VOVdYcWN0R0VzNm1qRndwRnVqSDR6WDBjbkp2Xy1hYlVTM3hpb1JnOGhTcFB0bFN4a0xKU0Z6OFNmZVR1REZ3SVRMTmVTZ00waExhUVJiaHNCTk5KMzF5NHJMdDVFZ0tnYjZjNHp1aGwtM094R2xGaFRQZXRXU2xwWXZncjQ4WUtnTmdDVTlINEUwU3ZWSEpWRUxERjFSYTZmSGpYTVpjT0wtUmlpSW84a9IB2gFBVV95cUxNX01HMkxEaTBtenVPV3V1dU54clhSYVRWeTJBeFY4a2dOZXVnQTVUb0RCMlhidmRwV3RKTnd1enZUbjFpcHNoRVBrTy1CTzBnV3FzWHB1MGlOZl9ncERLRzcxeV91d0xZTU5XSlN3T28zdG5tNVRSZVRNSWItdC1pME5xSGpjdDJfRUUyRjhQRmtQY1NKN0NvTUxVZUdndmMwQUtIQ0QwNmNsaXBtNTVjbUhjWGlCNUludVNWd0RBQlZoUnNUVFoyYjNsSkUyc2RkRnpPT1JOWWE2UQ?oc=5",
       "published_at": "2026-11-18T18:41:28Z",
       "source_published_date": "2026-11-18",
@@ -8861,12 +8865,22 @@
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "EU ETS",
+        "CBAM",
+        "2025排放报告",
+        "下游扩围提案"
+      ],
+      "tags_en": [
+        "EU ETS",
+        "CBAM",
+        "2025 emissions report",
+        "downstream proposal"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-19T00:45:29Z",
       "last_seen": "2026-11-19T00:45:29Z",
       "source_excerpt": "Industrial emissions in the EU fell by 3.3%; CBAM to be extended to 180 products Металлургпром",
@@ -8877,7 +8891,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-19T00:47:02Z"
-      }
+      },
+      "follow_up": "持续跟踪欧盟CBAM扩围最终立法文本、CN清单及ETS免费配额调整；对欧盟下游钢铝制品客户建立前驱体排放数据映射。",
+      "evidence_url": "https://publications.europa.eu/resource/cellar/3b3728ae-dc24-11f1-8501-01aa75ed71a1.0001.03/DOC_1",
+      "coverage": "2026-11-19核对欧委会COM(2026)596 final官方报告：封面2026-11-09；Main findings及3.1.1排放趋势核实工业3.3%、ETS1总体2%、陶瓷/铝业例外；3.4核对2025年12月CBAM约180类下游品提案及拟议临时脱碳基金。原RSS报道日期2026-11-18保持不变；仅核实报告统计及提案性质，未核对完整未来CN清单或最终立法文本。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-19T07:31:01.856Z"
     },
     {
       "id": "1b0cd93c6734f762a2c6",
@@ -8970,7 +8989,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-18T20:57:36Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "GMK Center 11月18日新闻与已核验的欧盟实施条例(EU)2026/2498为同一第三国已付碳价抵扣规则；2026-11-17已按正式条例完成中国ETS附件II、净已付碳价、证书减交公式和核证条件的深度研判。原标题未提供新的法规修订或生效变化，因此按同一事件归并。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-19T07:31:01.856Z",
+      "duplicate_of": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2498"
     },
     {
       "id": "639422b18795ed6ef2c1",

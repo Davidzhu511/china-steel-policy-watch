@@ -3,13 +3,13 @@
   "items": [
     {
       "id": "9b6af1ce4900e9eacec5",
-      "title_zh": "Industrial emissions in the EU fell by 3.3%; CBAM to be extended to 180 products",
-      "title_en": "Industrial emissions in the EU fell by 3.3%; CBAM to be extended to 180 products",
+      "title_zh": "欧委会2025年碳市场报告：欧盟工业ETS排放下降3.3%，CBAM扩至180类下游产品仍为提案",
+      "title_en": "Commission's 2025 carbon market report: industrial ETS emissions down 3.3%; extension of CBAM to 180 downstream goods remains proposed",
       "title_original": "Industrial emissions in the EU fell by 3.3%; CBAM to be extended to 180 products",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "【官方报告事实】欧委会于2026年11月9日发布COM(2026)596 final《2025年欧洲碳市场运行报告》。报告以截至2026年6月30日的核证数据指出，2025年欧盟ETS工业设施排放较2024年下降3.3%，主要由钢铁、水泥和化工部门推动；陶瓷和铝业排放则增加逾2%。整个ETS1（含电力、工业、航空、航运）2025年排放量约11.63亿吨二氧化碳当量，较2024年下降2%。报告第3.4节回顾欧委会2025年12月提出的CBAM下游扩围方案，拟自2028年覆盖约180类钢铝密集型产品（如洗衣机、工业散热器、铸造机械），并拟设临时脱碳基金；此处是既有立法提案回顾，尚非2026年11月新增已生效税目。报告提及CBAM覆盖行业免费配额逐步退出，不能把工业排放下降直接等同于钢铁单吨排放强度下降。",
+      "summary_en": "COM(2026)596 final, published 9 Nov 2026, reports verified 2025 industrial ETS emissions down 3.3% y/y, mainly in steel, cement and chemicals; ceramic and aluminium emissions rose over 2%. Total ETS1 emissions were 1,163 MtCO2e, down 2%. The report reiterates the December 2025 Commission proposal to extend CBAM to around 180 steel/aluminium-intensive downstream goods from 2028; this remains a proposal, not an enacted new product list.",
+      "impact_zh": "【业务研判】欧盟钢铁排放下降可能同时反映减产、结构调整和减排，不能据此推断欧洲钢厂竞争成本必然下降。中国钢材及下游出口企业应监测欧盟ETS免费配额和CBAM扩围立法进度，预先建立钢铝前驱体、产品CN编码及嵌入排放数据映射；扩围尚未生效，不应提前按180项方案向客户计征CBAM。欧盟拟设出口脱碳补助若获通过可能改变欧洲制造商的海外竞争报价，但具体资金和适用条件须待立法落地。",
+      "impact_en": "The 3.3% drop may reflect lower output as well as decarbonisation, not necessarily lower unit emissions or costs. Chinese steel and downstream exporters should track free-allocation reforms and the CBAM expansion proposal, map CN codes and embedded emissions, and avoid treating the 180 proposed goods as currently taxable.",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdE5nT1d0amRiUEpVWkdFMDEyZElzbG1VOVdYcWN0R0VzNm1qRndwRnVqSDR6WDBjbkp2Xy1hYlVTM3hpb1JnOGhTcFB0bFN4a0xKU0Z6OFNmZVR1REZ3SVRMTmVTZ00waExhUVJiaHNCTk5KMzF5NHJMdDVFZ0tnYjZjNHp1aGwtM094R2xGaFRQZXRXU2xwWXZncjQ4WUtnTmdDVTlINEUwU3ZWSEpWRUxERjFSYTZmSGpYTVpjT0wtUmlpSW84a9IB2gFBVV95cUxNX01HMkxEaTBtenVPV3V1dU54clhSYVRWeTJBeFY4a2dOZXVnQTVUb0RCMlhidmRwV3RKTnd1enZUbjFpcHNoRVBrTy1CTzBnV3FzWHB1MGlOZl9ncERLRzcxeV91d0xZTU5XSlN3T28zdG5tNVRSZVRNSWItdC1pME5xSGpjdDJfRUUyRjhQRmtQY1NKN0NvTUxVZUdndmMwQUtIQ0QwNmNsaXBtNTVjbUhjWGlCNUludVNWd0RBQlZoUnNUVFoyYjNsSkUyc2RkRnpPT1JOWWE2UQ?oc=5",
       "published_at": "2026-11-18T18:41:28Z",
       "source_published_date": "2026-11-18",
@@ -26,12 +26,22 @@
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
-      "tags_en": [],
+      "tags": [
+        "EU ETS",
+        "CBAM",
+        "2025排放报告",
+        "下游扩围提案"
+      ],
+      "tags_en": [
+        "EU ETS",
+        "CBAM",
+        "2025 emissions report",
+        "downstream proposal"
+      ],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-19T00:45:29Z",
       "last_seen": "2026-11-19T00:45:29Z",
       "source_excerpt": "Industrial emissions in the EU fell by 3.3%; CBAM to be extended to 180 products Металлургпром",
@@ -42,7 +52,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-19T00:47:02Z"
-      }
+      },
+      "follow_up": "持续跟踪欧盟CBAM扩围最终立法文本、CN清单及ETS免费配额调整；对欧盟下游钢铝制品客户建立前驱体排放数据映射。",
+      "evidence_url": "https://publications.europa.eu/resource/cellar/3b3728ae-dc24-11f1-8501-01aa75ed71a1.0001.03/DOC_1",
+      "coverage": "2026-11-19核对欧委会COM(2026)596 final官方报告：封面2026-11-09；Main findings及3.1.1排放趋势核实工业3.3%、ETS1总体2%、陶瓷/铝业例外；3.4核对2025年12月CBAM约180类下游品提案及拟议临时脱碳基金。原RSS报道日期2026-11-18保持不变；仅核实报告统计及提案性质，未核对完整未来CN清单或最终立法文本。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-19T07:31:01.856Z"
     },
     {
       "id": "8560684245edf51cb8b3",
@@ -141,49 +156,6 @@
       "retry_after": "2026-11-25T20:30:00Z",
       "review_evidence_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2538/oj",
       "review_coverage": "仅核对队列标题与2026/2538官方题名关联，缺少更正正文及可追溯条款，未全文核验。"
-    },
-    {
-      "id": "c6eb4c5f3fe34f16b809",
-      "title_zh": "EU adopts rules for deducting carbon prices paid in third countries from CBAM",
-      "title_en": "EU adopts rules for deducting carbon prices paid in third countries from CBAM",
-      "title_original": "EU adopts rules for deducting carbon prices paid in third countries from CBAM",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWRQLS1qaXpXMGItdGozSGhkTHN4MzdCLXp5ck15eEtQVDJ2dVgzTGJ5MXVENXdQR2lLWXNQY0MyVnBBT2ZvTWNBVkhHcGZ3V3NmZElVUFFsTzA1aFMtN3h5WnhMSDV4Wkd2Z0RZeElXNFRwUGZCdEQ3bi1PQVA1Vi1hWFZ5S0ZVYV91Q2w4NnFnb2JTd1NadFc3dkZhV3FkQzJ5RWtHLU7SAa4BQVVfeXFMTlR1bGxmYW1vM08tY1BhcDhrQ2pVSGlMUjRZRlAwRFo4N0MtM3JMTEZlX1Q3MEx5c1l4SzFxNS1mbEptU01nTElOQzNKanZUTUczOEtEMkY0RHVCRUw3LUM5czZHZDV3TGd3cEd2UWFSc3o1N3I1ejU3Y3A2bGE5TXdfb1VzSTA2eUJYTEZFeFU2amo3emg1TjhJcnBkbnpBYnJkQ2NoQl9pX1JYX3hR?oc=5",
-      "published_at": "2026-11-18T09:39:26Z",
-      "source_published_date": "2026-11-18",
-      "source": {
-        "id": "rss",
-        "name": "GMK Center",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "碳与环保",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-18T20:55:43Z",
-      "last_seen": "2026-11-19T00:45:29Z",
-      "source_excerpt": "EU adopts rules for deducting carbon prices paid in third countries from CBAM GMK Center",
-      "machine_translation": {
-        "title_zh": "欧盟通过规则,从CBAM中扣除第三国支付的碳价格",
-        "excerpt_zh": "欧盟通过规则,从CBAM GMK中心扣除第三国支付的碳价格",
-        "fingerprint": "dd2c8c190ac4705f12c69a385e63c8b6545546fb23b63eea11616d13785a4847",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-11-18T20:57:36Z"
-      }
     },
     {
       "id": "639422b18795ed6ef2c1",
@@ -762,6 +734,10 @@
         {
           "name": "Steel and Stainless Steel News",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWTXZCWUxFLWgwUmF6TU5OVXVwcFIxX29jU2NHU1hOSGZBVFZRVklJNjZYcXRHdlpOZGFIdXpGamxCcVdXNDJjVWRoYUJUcTZGOFhSYVRJRkJsMDlKM3duMi1KaFZRRFZtakxKOUJZOG5fWkg1VGlydW42d21JZw?oc=5"
+        },
+        {
+          "name": "GMK Center",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWRQLS1qaXpXMGItdGozSGhkTHN4MzdCLXp5ck15eEtQVDJ2dVgzTGJ5MXVENXdQR2lLWXNQY0MyVnBBT2ZvTWNBVkhHcGZ3V3NmZElVUFFsTzA1aFMtN3h5WnhMSDV4Wkd2Z0RZeElXNFRwUGZCdEQ3bi1PQVA1Vi1hWFZ5S0ZVYV91Q2w4NnFnb2JTd1NadFc3dkZhV3FkQzJ5RWtHLU7SAa4BQVVfeXFMTlR1bGxmYW1vM08tY1BhcDhrQ2pVSGlMUjRZRlAwRFo4N0MtM3JMTEZlX1Q3MEx5c1l4SzFxNS1mbEptU01nTElOQzNKanZUTUczOEtEMkY0RHVCRUw3LUM5czZHZDV3TGd3cEd2UWFSc3o1N3I1ejU3Y3A2bGE5TXdfb1VzSTA2eUJYTEZFeFU2amo3emg1TjhJcnBkbnpBYnJkQ2NoQl9pX1JYX3hR?oc=5"
         }
       ]
     },
@@ -2507,6 +2483,65 @@
       "evidence_url": "https://policy.trade.ec.europa.eu/enforcement-and-protection/protecting-eu-steelmaking_en",
       "review_method": "source_checked",
       "reviewed_at": "2026-11-07"
+    },
+    {
+      "id": "fa3ab93fc77873f7760e",
+      "title_zh": "塞尔维亚财政战略预计2026年EU CBAM影响约1.402亿欧元，其中钢铁约8910万",
+      "title_en": "Serbian fiscal strategy projects €140.2m CBAM exposure in 2026, €89.1m for steel",
+      "title_original": "Expected CBAM impact on Serbia in 2026 to exceed €140 million",
+      "summary_zh": "【事实】塞尔维亚政府《2027年财政战略及2028—2029预测》附录估计，假定未获认可的本地碳定价机制、维持2025年出口水平、默认排放值及每吨75.36欧元碳价时，2026年出口EU的CBAM影响约1.402亿欧元，其中钢铁约8910万、铝约1950万、电力约2180万；预计钢铁部分2029年约1.085亿欧元。这是情景预测，不是实缴税款，也不是对中国钢材征税公告。",
+      "summary_en": "Serbia's official fiscal strategy estimates €140.2m of 2026 EU CBAM exposure under baseline assumptions, with €89.1m attributed to iron and steel, €19.5m to aluminium and €21.8m to electricity. These are scenario estimates, not assessed taxes.",
+      "impact_zh": "【研判】对在塞尔维亚加工并向欧盟出售钢材的合作伙伴有成本参考价值，实际责任须使用工厂核实排放、配额及碳价。禁止简单按8910万欧元除吨数作为统一钢材CBAM税率。",
+      "impact_en": "Benchmark for Serbian steel value chains, not a universal per-ton levy; verify plant emissions and importer allocation.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPazNKbHByQVg3YmtlQldyblhkZ20zYXZUQXVMUGFuOWVOdVFMOWw5VFVaMHlLbFh6c245eUlzQUp5RzFLSG1zMGV1bldKZmFvSHJQZXczRFJoTlF4Wm14Y3JBSE1WTjlGUWJNRzRzNEt5TGdlemdqZXJTNUxwY01SUlFJTnRrY052amNuM3JEYjZPUVHSAZgBQVVfeXFMTkFQU2s3d3FjMjZaTm1ac1FSbEJoaDdoYVFuZGwzUjd0TnIzdWZLdW53d0NxbEpQRVNqQkIzTjNmY1V2NVdTY0NSZE5EV3YtaWFsRS1PNWYxd1J5RzFyY1ZLUHFONjdncmRjZ0gxMnFDNnRyUXFiTEVpQjl3TGlwMmNNQTRYMHJkQnhEQ1cyUnh3c3ZTbVBFenA?oc=5",
+      "published_at": "2026-11-06T08:51:36Z",
+      "source": {
+        "id": "rss",
+        "name": "GMK Center",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "CBAM与区域市场",
+      "status": "官方预测／非实际税额",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "塞尔维亚",
+        "CBAM",
+        "钢铁",
+        "财政战略"
+      ],
+      "tags_en": [
+        "Serbia",
+        "CBAM",
+        "steel",
+        "fiscal strategy"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-07T13:35:33Z",
+      "last_seen": "2026-11-10T20:02:24Z",
+      "source_excerpt": "Expected CBAM impact on Serbia in 2026 to exceed €140 million GMK Center",
+      "follow_up": "对塞尔维亚钢铁客户询问实际排放、进口CBAM申报主体及本地碳价抵扣条件；与具体合同成本模型比较。",
+      "coverage": "2026-11-07交叉核对GMK Center 11月6日报道及塞尔维亚财政战略附录5网页可检索文字/情景图；PDF页图加载超时，数字按已可检索的政府文本范围核对。",
+      "evidence_url": "https://www.mfin.gov.rs/upload/media/hflMs1_6a2fdfb5335d3.pdf",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-07",
+      "related_sources": [
+        {
+          "name": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTDZTQU9IZ0lkNVFWMXpqZmxFUXc3ZnVEc05udmZDM3QzcEhKNjhQNkNjZG5QVWVOdTdMS0pKVi1EWXVfOUF6TWRMVnBCOGFoemxnZHhlNWxrWXJDbmlBenZ1ZXJiak51MDc5OEJkbHVndWd3Z1Zhd3Fld1gwaGVISDB6LUlaYXZDS3U3Zm5n?oc=5"
+        },
+        {
+          "name": "SteelRadar",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU1hoT1ZGZ09FTGlfWEc4dUF3QzBvQ3FURXp0ekRZXzBJVXpVT2tqUFcyajBUNFpQMV9RYzFUT0l1QzE0YkJlT0V2V0pMc21US0FlYnhsemNTUHJMa2pEUnNzQXU3VmphUmNDRUJZb1U4S3RKVUxrMVNMUEROY2Z2ai1idjZlU3E1eXd0WXd3WFJSNERQUWNrcmRSWThva1d3bllWY2FyRTNWWTg?oc=5"
+        }
+      ]
     }
   ]
 }
