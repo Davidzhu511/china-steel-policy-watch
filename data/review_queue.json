@@ -1,10 +1,284 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-19T00:45:29Z",
-  "pending_count": 20,
-  "actionable_count": 0,
+  "generated_at": "2026-11-19T16:05:25Z",
+  "pending_count": 30,
+  "actionable_count": 10,
   "blocked_count": 20,
-  "items": [],
+  "items": [
+    {
+      "id": "665aca97b54d0b9bbca9",
+      "url": "https://gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea",
+      "published_at": "2026-11-19T00:00:00Z",
+      "title_original": "New measure imposed on hot-rolled steel plate from South Korea",
+      "first_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T16:05:25Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-19",
+      "source_excerpt": "Following a TRA investigation, the Secretary of State has decided to apply a new anti-dumping measure on imports of hot-rolled steel plate from South Korea. The Secretary of State has applied a new anti-dumping measure on imports of hot-rolled steel plate from South Korea, following an investigation by the TRA. The TRA determined that hot-rolled steel plate from South Korea has been or is being dumped into the UK and that this has caused or is causing injury to the UK production industry. The TRA was therefore required to recommend a measure on the full scope of hot-rolled steel plate from So…",
+      "needs_translation": true,
+      "title_zh": "New measure imposed on hot-rolled steel plate from South Korea",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "437971f5b7a362ae",
+      "related_reviews": []
+    },
+    {
+      "id": "027883d386b8e29298bb",
+      "url": "https://gov.uk/government/collections/uk-emissions-trading-scheme-uk-ets-technical-guidance-and-tools",
+      "published_at": "2026-11-19T00:00:00Z",
+      "title_original": "UK Emissions Trading Scheme (UK ETS): technical guidance and tools",
+      "first_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T16:05:25Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-19",
+      "source_excerpt": "Technical guidance, emission factors, and reporting templates to help installations and aircraft operators understand and comply with their obligations under the scheme.",
+      "needs_translation": true,
+      "title_zh": "UK Emissions Trading Scheme (UK ETS): technical guidance and tools",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "a2fc0c471d8f719b",
+      "related_reviews": [
+        {
+          "url": "https://gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
+          "published_at": "2026-10-21T00:00:00Z",
+          "title_zh": "英国ETS政策总览更新：2027年拍卖保留价调整为£29.01",
+          "evidence_url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview/uk-emissions-trading-scheme-uk-ets-a-policy-overview"
+        }
+      ]
+    },
+    {
+      "id": "d9044ca3f791c8d9c58a",
+      "url": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en",
+      "published_at": "2026-11-18T00:00:00Z",
+      "title_original": "Extension of CBAM to Iceland and Norway",
+      "first_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T16:05:25Z",
+      "source": {
+        "id": "ec_watch_pages",
+        "name": "DG TAXUD · CBAM News",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-18",
+      "source_excerpt": "Extension of CBAM to Iceland and Norway EEA Joint Committee Decision No 283/2026, which extends CBAM to Iceland and Norway, entered into force on 18 November 2026. From 1 January 2027, the same CBAM rules will apply to imports of covered goods into Iceland and Norway as to imports into the EU.",
+      "needs_translation": true,
+      "title_zh": "Extension of CBAM to Iceland and Norway",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "c61f68318ab0f5b1",
+      "related_reviews": []
+    },
+    {
+      "id": "5b7e67c4e692c6273fe0",
+      "url": "https://gov.uk/government/publications/check-the-default-values-for-the-carbon-border-adjustment-mechanism-cbam",
+      "published_at": "2026-11-19T00:00:00Z",
+      "title_original": "Check the default values for the Carbon Border Adjustment Mechanism (CBAM)",
+      "first_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-11-19T16:05:25Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-19",
+      "source_excerpt": "Find out the default values for your goods, when to use them and when to combine them with your actual emissions. Each Carbon Border Adjustment Mechanism ( CBAM ) good has a default value. You can use the default value in your CBAM return, instead of verified actual emissions data. The values are in tonnes of carbon dioxide equivalents (tCO2e) per tonne of product. The 'Description' for 'Iron and steel default values' at '(CN) code 72172030' has been updated.",
+      "needs_translation": true,
+      "title_zh": "Check the default values for the Carbon Border Adjustment Mechanism (CBAM)",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "56331b7375032e15",
+      "related_reviews": [
+        {
+          "url": "https://gov.uk/government/publications/check-the-default-values-for-the-carbon-border-adjustment-mechanism-cbam",
+          "published_at": "2026-10-16T00:00:00Z",
+          "title_zh": "英国钢铁CBAM默认值按8位编码适用，已用默认值申报后不能改填实际值",
+          "evidence_url": "https://www.gov.uk/government/publications/check-the-default-values-for-the-carbon-border-adjustment-mechanism-cbam/iron-and-steel-default-values"
+        },
+        {
+          "url": "https://gov.uk/government/collections/carbon-border-adjustment-mechanism",
+          "published_at": "2026-11-10T00:00:00Z",
+          "title_zh": "英国CBAM：2027年起保存进口记录，2028年开放注册",
+          "evidence_url": "https://www.gov.uk/government/collections/carbon-border-adjustment-mechanism"
+        }
+      ]
+    },
+    {
+      "id": "690b4f507cfe813e72bb",
+      "url": "https://gov.uk/guidance/getting-the-emissions-intensity-when-importing-carbon-border-adjustment-mechanism-cbam-goods",
+      "published_at": "2026-11-19T00:00:00Z",
+      "title_original": "Getting the emissions intensity when importing Carbon Border Adjustment Mechanism (CBAM) goods",
+      "first_seen": "2026-10-17T09:43:35Z",
+      "last_seen": "2026-11-19T16:05:25Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-19",
+      "source_excerpt": "Find out how to get your emissions intensity as an importer (also known as a liable person) when importing Carbon Border Adjustment Mechanism (CBAM) goods into the UK.",
+      "needs_translation": true,
+      "title_zh": "Getting the emissions intensity when importing Carbon Border Adjustment Mechanism (CBAM) goods",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "3ee7aa16800a95bb",
+      "related_reviews": [
+        {
+          "url": "https://gov.uk/guidance/getting-the-emissions-intensity-when-importing-carbon-border-adjustment-mechanism-cbam-goods",
+          "published_at": "2026-10-16T00:00:00Z",
+          "title_zh": "英国CBAM实际值须有核查报告，排放年度可按生产或进口日期关联",
+          "evidence_url": "https://gov.uk/guidance/getting-the-emissions-intensity-when-importing-carbon-border-adjustment-mechanism-cbam-goods"
+        },
+        {
+          "url": "https://gov.uk/guidance/verifyingemissions-data-for-carbon-border-adjustment-mechanismcbamgoods",
+          "published_at": "2026-10-16T00:00:00Z",
+          "title_zh": "英国CBAM核查机构须独立且认可范围覆盖钢厂工艺",
+          "evidence_url": "https://gov.uk/guidance/verifyingemissions-data-for-carbon-border-adjustment-mechanismcbamgoods"
+        }
+      ]
+    },
+    {
+      "id": "7a1cbd238439536602c6",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2RsWDY2bV90UDVyN1FOVTFCajlWZ0ljNVpmMEtZYUVzRWh1U3Zwa3lqMzFsaTc0Tlk5QXJaaGpocGMwLVVQb1EtMnBXeWdIdklhTUxHUDlwSnZxNnBiNzB0bks2VzJWSHRzY2tueTNuRWJERWtFeG1VSnZfaklod2ZybzlIZWxaNDlXaUwyVjlqUmVYWEVBSGpUdERWRkxpSFo2Z19aNk5KNVNqZ2JsR0JvRFhzUi1yYTFNMEROekxKeVk?oc=5",
+      "published_at": "2026-11-19T09:04:00Z",
+      "title_original": "EU extends CBAM to Iceland and Norway from 2027",
+      "first_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T16:05:25Z",
+      "source": {
+        "id": "rss",
+        "name": "Shanghai Metals Market",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-19",
+      "source_excerpt": "EU extends CBAM to Iceland and Norway from 2027 Shanghai Metals Market",
+      "needs_translation": true,
+      "title_zh": "EU extends CBAM to Iceland and Norway from 2027",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "11e451f997deac65",
+      "related_reviews": []
+    },
+    {
+      "id": "cce9ff3d2b26b588d649",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yU3VZTU5NVGVRbmtvQnM2TkNNd0JSSFV6MWZJc29sRWF2UlRwRnUwUUJ3NFE2SlgzM0MxQUtxWUVoTzk0WmlQeHBDcDlmS05SMzhaaXQyc2tvNVY0Yk1IVW1COG9YbnZBWFdMVXlQcG9LZw?oc=5",
+      "published_at": "2026-11-19T08:36:00Z",
+      "title_original": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
+      "first_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T16:05:25Z",
+      "source": {
+        "id": "rss",
+        "name": "中国钢铁新闻网",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-19",
+      "source_excerpt": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策 中国钢铁新闻网",
+      "needs_translation": false,
+      "title_zh": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "9c308b123878e246",
+      "related_reviews": []
+    },
+    {
+      "id": "78e0502763fa103b16ef",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQclpjRFJoUmhkeXpWWGVLRmRPRGlzbU91WXlPSGprYVRpclZDWVk2WDQ5V092S1JOUFdWRVZvamRvYlRzWC10WE1mblR6MGFQclZIYkxTMzFiakJmSWVqb0hPZHdVOFpldkJtazhmWjJZazhRV28tYnRHTE01ZzlnX1BhVXItcjdOcHpfcm94UjNmb3pwcjJiMk9tTy1WbzFIODROb0txTU9WQ01rcFNVYnhUNUhrYWV5YVg4?oc=5",
+      "published_at": "2026-11-19T08:09:29Z",
+      "title_original": "EU to extend CBAM to Norway and Iceland from January 2027",
+      "first_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T16:05:25Z",
+      "source": {
+        "id": "rss",
+        "name": "SteelOrbis",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-19",
+      "source_excerpt": "EU to extend CBAM to Norway and Iceland from January 2027 SteelOrbis",
+      "needs_translation": true,
+      "title_zh": "EU to extend CBAM to Norway and Iceland from January 2027",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "1c81ce1f15dc2216",
+      "related_reviews": []
+    },
+    {
+      "id": "50cf099cd2134d08ca40",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9raGFzR3Z3eFctMTIyVmM1QWkta01uVm9GcEVPcVUyVldjOWNQcUgxSHhHVHNEdHRIVE4tOVJaa1ZWSTZHeEozalM5MUh4YmlwVGVvOG1ySTgxT09CU1RVSEltSG9Fa0lIM2RzSFlobFpQUmtY?oc=5",
+      "published_at": "2026-11-19T06:31:12Z",
+      "title_original": "关税和需求塑造 2026 年钢铁行业前景",
+      "first_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T16:05:25Z",
+      "source": {
+        "id": "rss",
+        "name": "blockchain.news",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-19",
+      "source_excerpt": "关税和需求塑造 2026 年钢铁行业前景 blockchain.news",
+      "needs_translation": false,
+      "title_zh": "关税和需求塑造 2026 年钢铁行业前景",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "a8f2668dea0e1529",
+      "related_reviews": []
+    },
+    {
+      "id": "2398931d938e2d9666c7",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOekwtRDZsRzEzdE02QjZYUHBYQ0p1cDA3Nk1HeGpiZFRLYTd6RmdCdGlZUHhBNmxyZXRJa1pzZG5zMVBEclh4RnBVWXJNR1duejVhLVRVY2hFRy1FdWxTT2lJWTlraTlIUkFoTmdQTlZrQ0F4VFExaHRDSlp2TDlyWkRNM3lmMzdiT2hiSA?oc=5",
+      "published_at": "2026-11-19T05:19:52Z",
+      "title_original": "EU imposes 16% anti-dumping duty on Vietnam steel",
+      "first_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T16:05:25Z",
+      "source": {
+        "id": "rss",
+        "name": "IntelliNews",
+        "kind": "news",
+        "official": false
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-19",
+      "source_excerpt": "EU imposes 16% anti-dumping duty on Vietnam steel IntelliNews",
+      "needs_translation": true,
+      "title_zh": "EU imposes 16% anti-dumping duty on Vietnam steel",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "d286b4d1f6f440b9",
+      "related_reviews": []
+    }
+  ],
   "blocked_items": [
     {
       "id": "931e0609ebb87acd8a73",
@@ -12,7 +286,7 @@
       "published_at": "2026-11-17T23:00:00Z",
       "title_original": "Commission Implementing Regulation (EU) 2026/2538 of 17 November 2026 correcting Implementing Regulation (EU) 2025/1919 imposing a definitive anti-dumping duty and definitively collecting the provisional duty imposed on imports of certain hot-rolled flat products of iron, non-alloy or other alloy steel originating in Egypt, Japan and Vietnam, and terminating the investigation on imports thereof originating in India",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-19T00:45:29Z",
+      "last_seen": "2026-11-19T16:05:25Z",
       "source": {
         "id": "eurlex",
         "name": "EUR-Lex / 欧盟官方公报",
@@ -53,7 +327,7 @@
       "published_at": "2026-11-18T10:00:49Z",
       "title_original": "Official publication: Commission corrects name of Japanese steel producer subject to anti-dumping duties",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-19T00:45:29Z",
+      "last_seen": "2026-11-19T16:05:25Z",
       "source": {
         "id": "rss",
         "name": "EU Law Live",
@@ -83,7 +357,7 @@
       "published_at": "2026-11-18T03:03:00Z",
       "title_original": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9%",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-19T00:45:29Z",
+      "last_seen": "2026-11-19T16:05:25Z",
       "source": {
         "id": "rss",
         "name": "钢铁网",
@@ -142,7 +416,7 @@
       "published_at": "2026-11-16T12:12:51Z",
       "title_original": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus",
       "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-19T00:45:29Z",
+      "last_seen": "2026-11-19T16:05:25Z",
       "source": {
         "id": "rss",
         "name": "GMK Center",
@@ -333,7 +607,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-19T00:45:29Z",
+      "last_seen": "2026-11-19T16:05:25Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -363,7 +637,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-19T00:45:29Z",
+      "last_seen": "2026-11-19T16:05:25Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -633,5 +907,5 @@
   ],
   "retry_items": [],
   "retry_due_count": 0,
-  "work_fingerprint": "4f53cda18c2baa0c0354"
+  "work_fingerprint": "2fcd2a6279e6b769e07b"
 }
