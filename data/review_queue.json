@@ -1,17 +1,58 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-19T16:05:25Z",
-  "pending_count": 30,
-  "actionable_count": 10,
+  "generated_at": "2026-11-19T21:00:18Z",
+  "pending_count": 32,
+  "actionable_count": 12,
   "blocked_count": 20,
   "items": [
+    {
+      "id": "e290e2a48385ffcb5632",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16932-CBAM-declarations_en",
+      "published_at": "2026-11-19T16:34:00Z",
+      "title_original": "CBAM declarations",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-11-19T21:00:18Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "priority_signal": {
+        "zh": "公开征求意见中",
+        "en": "Consultation open"
+      },
+      "translation_state": "pending",
+      "consultation": {
+        "status": "OPEN",
+        "stage": "ISC_WORKFLOW",
+        "opens_at": "2026-11-19T16:34:00Z",
+        "closes_at": "2026-12-17T23:59:59Z"
+      },
+      "published_date": "2026-11-19",
+      "source_excerpt": "Pursuant to Article 6(6) of the CBAM Regulation, the Commission is empowered to adopt implementing acts as regards to the establishment of the CBAM declarations. This implementing act will set out rules on the standard format of the CBAM declaration, including detailed information, the procedure for submitting the CBAM declaration via the CBAM registry and the arrangements for surrendering the CBAM certificates. Feedback status: OPEN. Feedback period: 2026-11-19T16:34:00Z to 2026-12-17T23:59:59Z. Topics: Customs, Taxation. Type of act: REG_IMPL. Reference: Ares(2026)1634728.",
+      "needs_translation": true,
+      "title_zh": "CBAM declarations",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "5cf170f13b28c956",
+      "related_reviews": [
+        {
+          "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16932-CBAM-declarations_en",
+          "published_at": "2026-02-19T11:08:31Z",
+          "title_zh": "CBAM申报格式倡议：标准表格、登记册提交及证书清缴规则待细化",
+          "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/16932"
+        }
+      ]
+    },
     {
       "id": "665aca97b54d0b9bbca9",
       "url": "https://gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea",
       "published_at": "2026-11-19T00:00:00Z",
       "title_original": "New measure imposed on hot-rolled steel plate from South Korea",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "govuk",
         "name": "GOV.UK / 英国政府",
@@ -35,7 +76,7 @@
       "published_at": "2026-11-19T00:00:00Z",
       "title_original": "UK Emissions Trading Scheme (UK ETS): technical guidance and tools",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "govuk",
         "name": "GOV.UK / 英国政府",
@@ -66,7 +107,7 @@
       "published_at": "2026-11-18T00:00:00Z",
       "title_original": "Extension of CBAM to Iceland and Norway",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG TAXUD · CBAM News",
@@ -90,7 +131,7 @@
       "published_at": "2026-11-19T00:00:00Z",
       "title_original": "Check the default values for the Carbon Border Adjustment Mechanism (CBAM)",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "govuk",
         "name": "GOV.UK / 英国政府",
@@ -127,7 +168,7 @@
       "published_at": "2026-11-19T00:00:00Z",
       "title_original": "Getting the emissions intensity when importing Carbon Border Adjustment Mechanism (CBAM) goods",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "govuk",
         "name": "GOV.UK / 英国政府",
@@ -159,12 +200,36 @@
       ]
     },
     {
+      "id": "764a0e5e8808d576158f",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXI0NkI0ckVFQlVYeW9PRmgtWDdHWEJOQ25sTkZvaFdhbkp3X3lVT3JWR0tYa1F5WmFybi1xOEVTVE9OZ1h3VWZpNzVScFRDREx3cVhCNG1rSlBuY09VdWRrdk8zejFIbldEb0dQUFNIbzNCR1pWODFjRHpLbFpuTUNkcFJOQ0J2S1BfT0lEWUtIaV9jUE5wbFBRbFJhQlRBWEF0Ng?oc=5",
+      "published_at": "2026-11-16T00:20:27Z",
+      "title_original": "China Iron Ore Port Inventory Rises to 152.12 Mt by Mid-November 2026",
+      "first_seen": "2026-11-19T21:00:18Z",
+      "last_seen": "2026-11-19T21:00:18Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "China Iron Ore Port Inventory Rises to 152.12 Mt by Mid-November 2026 - News and Statistics IndexBox",
+      "needs_translation": true,
+      "title_zh": "China Iron Ore Port Inventory Rises to 152.12 Mt by Mid-November 2026",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "0eea8db9754afcea",
+      "related_reviews": []
+    },
+    {
       "id": "7a1cbd238439536602c6",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2RsWDY2bV90UDVyN1FOVTFCajlWZ0ljNVpmMEtZYUVzRWh1U3Zwa3lqMzFsaTc0Tlk5QXJaaGpocGMwLVVQb1EtMnBXeWdIdklhTUxHUDlwSnZxNnBiNzB0bks2VzJWSHRzY2tueTNuRWJERWtFeG1VSnZfaklod2ZybzlIZWxaNDlXaUwyVjlqUmVYWEVBSGpUdERWRkxpSFo2Z19aNk5KNVNqZ2JsR0JvRFhzUi1yYTFNMEROekxKeVk?oc=5",
       "published_at": "2026-11-19T09:04:00Z",
       "title_original": "EU extends CBAM to Iceland and Norway from 2027",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "rss",
         "name": "Shanghai Metals Market",
@@ -188,7 +253,7 @@
       "published_at": "2026-11-19T08:36:00Z",
       "title_original": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "rss",
         "name": "中国钢铁新闻网",
@@ -212,7 +277,7 @@
       "published_at": "2026-11-19T08:09:29Z",
       "title_original": "EU to extend CBAM to Norway and Iceland from January 2027",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "rss",
         "name": "SteelOrbis",
@@ -236,7 +301,7 @@
       "published_at": "2026-11-19T06:31:12Z",
       "title_original": "关税和需求塑造 2026 年钢铁行业前景",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "rss",
         "name": "blockchain.news",
@@ -260,7 +325,7 @@
       "published_at": "2026-11-19T05:19:52Z",
       "title_original": "EU imposes 16% anti-dumping duty on Vietnam steel",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "rss",
         "name": "IntelliNews",
@@ -286,7 +351,7 @@
       "published_at": "2026-11-17T23:00:00Z",
       "title_original": "Commission Implementing Regulation (EU) 2026/2538 of 17 November 2026 correcting Implementing Regulation (EU) 2025/1919 imposing a definitive anti-dumping duty and definitively collecting the provisional duty imposed on imports of certain hot-rolled flat products of iron, non-alloy or other alloy steel originating in Egypt, Japan and Vietnam, and terminating the investigation on imports thereof originating in India",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "eurlex",
         "name": "EUR-Lex / 欧盟官方公报",
@@ -327,7 +392,7 @@
       "published_at": "2026-11-18T10:00:49Z",
       "title_original": "Official publication: Commission corrects name of Japanese steel producer subject to anti-dumping duties",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "rss",
         "name": "EU Law Live",
@@ -357,7 +422,7 @@
       "published_at": "2026-11-18T03:03:00Z",
       "title_original": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9%",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "rss",
         "name": "钢铁网",
@@ -416,7 +481,7 @@
       "published_at": "2026-11-16T12:12:51Z",
       "title_original": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus",
       "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "rss",
         "name": "GMK Center",
@@ -607,7 +672,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -637,7 +702,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-19T21:00:18Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -907,5 +972,5 @@
   ],
   "retry_items": [],
   "retry_due_count": 0,
-  "work_fingerprint": "2fcd2a6279e6b769e07b"
+  "work_fingerprint": "4b3d55a574a47d648d90"
 }

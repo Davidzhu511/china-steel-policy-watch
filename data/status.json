@@ -1,37 +1,32 @@
 {
-  "generated_at": "2026-11-19T16:05:25Z",
+  "generated_at": "2026-11-19T21:00:18Z",
   "run_ok": true,
   "model": "gpt-4.1-mini",
   "translation_available": false,
   "analysis_status": "unconfigured",
-  "active_items": 329,
+  "active_items": 331,
   "archived_items": 150,
   "verified_items": 299,
-  "pending_analysis": 30,
-  "pending_translation": 3,
+  "pending_analysis": 32,
+  "pending_translation": 5,
   "blocked_items": 20,
-  "actionable_count": 10,
+  "actionable_count": 12,
   "blocked_count": 20,
   "retry_due_count": 0,
-  "pending_machine_translation": 3,
-  "chinese_title_coverage": 99.1,
-  "oldest_actionable_hours": 798.4,
+  "pending_machine_translation": 5,
+  "chinese_title_coverage": 98.5,
+  "oldest_actionable_hours": 2891.5,
   "offline_translation": {
-    "status": "partial",
-    "translated": 5,
-    "warnings": [
-      "3 条译文未通过完整性检查，保留原文待重试。"
-    ],
-    "remaining": 3,
-    "attempted_at": "2026-11-19T16:07:31Z",
-    "retry_after": "2026-11-19T22:07:31.062359+00:00"
+    "status": "queued",
+    "translated": 0,
+    "warnings": []
   },
   "machine_translated_items": 11,
   "collected_items": 102,
-  "processed_items": 10,
+  "processed_items": 2,
   "deferred_items": 0,
-  "new_items": 8,
-  "total_items": 479,
+  "new_items": 1,
+  "total_items": 481,
   "source_success": 6,
   "source_total": 6,
   "sources": [
@@ -41,10 +36,10 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 9008,
+      "duration_ms": 8631,
       "warnings": [],
-      "last_success_at": "2026-11-19T16:05:25Z",
-      "last_observed_at": "2026-11-19T16:05:25Z",
+      "last_success_at": "2026-11-19T21:00:18Z",
+      "last_observed_at": "2026-11-19T21:00:18Z",
       "consecutive_failures": 0
     },
     {
@@ -53,10 +48,10 @@
       "ok": true,
       "count": 18,
       "error": "",
-      "duration_ms": 16688,
+      "duration_ms": 15654,
       "warnings": [],
-      "last_success_at": "2026-11-19T16:05:25Z",
-      "last_observed_at": "2026-11-19T16:05:25Z",
+      "last_success_at": "2026-11-19T21:00:18Z",
+      "last_observed_at": "2026-11-19T21:00:18Z",
       "consecutive_failures": 0
     },
     {
@@ -65,10 +60,10 @@
       "ok": true,
       "count": 3,
       "error": "",
-      "duration_ms": 621,
+      "duration_ms": 491,
       "warnings": [],
-      "last_success_at": "2026-11-19T16:05:25Z",
-      "last_observed_at": "2026-11-19T16:05:25Z",
+      "last_success_at": "2026-11-19T21:00:18Z",
+      "last_observed_at": "2026-11-19T21:00:18Z",
       "consecutive_failures": 0
     },
     {
@@ -77,10 +72,10 @@
       "ok": true,
       "count": 18,
       "error": "",
-      "duration_ms": 790,
+      "duration_ms": 962,
       "warnings": [],
-      "last_success_at": "2026-11-19T16:05:25Z",
-      "last_observed_at": "2026-11-19T16:05:25Z",
+      "last_success_at": "2026-11-19T21:00:18Z",
+      "last_observed_at": "2026-11-19T21:00:18Z",
       "consecutive_failures": 0
     },
     {
@@ -89,10 +84,10 @@
       "ok": true,
       "count": 15,
       "error": "",
-      "duration_ms": 8459,
+      "duration_ms": 8015,
       "warnings": [],
-      "last_success_at": "2026-11-19T16:05:25Z",
-      "last_observed_at": "2026-11-19T16:05:25Z",
+      "last_success_at": "2026-11-19T21:00:18Z",
+      "last_observed_at": "2026-11-19T21:00:18Z",
       "consecutive_failures": 0
     },
     {
@@ -101,14 +96,12 @@
       "ok": true,
       "count": 37,
       "error": "",
-      "duration_ms": 1659,
+      "duration_ms": 2561,
       "warnings": [],
-      "last_success_at": "2026-11-19T16:05:25Z",
-      "last_observed_at": "2026-11-19T16:05:25Z",
+      "last_success_at": "2026-11-19T21:00:18Z",
+      "last_observed_at": "2026-11-19T21:00:18Z",
       "consecutive_failures": 0
     }
   ],
-  "warnings": [],
-  "translation_updated_at": "2026-11-19T16:07:31Z",
-  "editorial_updated_at": "2026-11-19T16:07:52Z"
+  "warnings": []
 }
