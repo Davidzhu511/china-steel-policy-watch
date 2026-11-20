@@ -15,16 +15,16 @@
   "retry_due_count": 3,
   "pending_machine_translation": 5,
   "chinese_title_coverage": 98.5,
-  "oldest_actionable_hours": 2895.5,
+  "oldest_actionable_hours": 2908.9,
   "offline_translation": {
     "status": "partial",
-    "translated": 2,
+    "translated": 0,
     "warnings": [
       "5 条译文未通过完整性检查，保留原文待重试。"
     ],
     "remaining": 5,
-    "attempted_at": "2026-11-20T00:58:53Z",
-    "retry_after": "2026-11-20T06:58:53.934981+00:00"
+    "attempted_at": "2026-11-20T14:24:32Z",
+    "retry_after": "2026-11-20T20:24:32.795839+00:00"
   },
   "machine_translated_items": 13,
   "collected_items": 98,
@@ -109,6 +109,6 @@
     }
   ],
   "warnings": [],
-  "translation_updated_at": "2026-11-20T00:58:53Z",
+  "translation_updated_at": "2026-11-20T14:24:32Z",
   "editorial_updated_at": "2026-11-20T00:59:14Z"
 }

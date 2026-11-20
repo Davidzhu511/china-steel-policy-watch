@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "generated_at": "2026-11-20T00:56:53Z",
-  "updated_at": "2026-11-20T00:59:14Z",
+  "updated_at": "2026-11-20T14:24:32Z",
   "work_fingerprint": "6806dc743e0c239ece00",
   "actionable_count": 14,
   "blocked_count": 20,
@@ -9,7 +9,7 @@
   "pending_translation": 5,
   "pending_machine_translation": 5,
   "chinese_title_coverage": 98.5,
-  "oldest_actionable_hours": 2895.5,
+  "oldest_actionable_hours": 2908.9,
   "queue_path": "data/review_queue.json",
   "batch_path": "config/reviews/"
 }
