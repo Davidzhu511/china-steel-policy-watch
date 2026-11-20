@@ -1,0 +1,410 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-20T19:30:56Z",
+  "note": "32 actionable items fully triaged, six title translations and three due retries; source limitations explicitly retained.",
+  "translations": [
+    {
+      "url": "https://federalregister.gov/documents/2026/11/20/2026-23623/certain-carbon-and-alloy-steel-cut-to-length-plate-from-france-final-results-of-antidumping-duty",
+      "published_date": "2026-11-20",
+      "title_original": "Certain Carbon and Alloy Steel Cut-to-Length Plate From France: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+      "title_zh": "美国对法国碳钢及合金钢定尺中厚板反倾销行政复审（2024—2025年）终裁结果",
+      "translated_at": "2026-11-20T19:30:56Z"
+    },
+    {
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16932-CBAM-declarations_en",
+      "published_date": "2026-11-19",
+      "title_original": "CBAM declarations",
+      "title_zh": "CBAM申报规则",
+      "translated_at": "2026-11-20T19:30:56Z"
+    },
+    {
+      "url": "https://gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea",
+      "published_date": "2026-11-19",
+      "title_original": "New measure imposed on hot-rolled steel plate from South Korea",
+      "title_zh": "英国对韩国热轧中厚板实施新的反倾销措施",
+      "translated_at": "2026-11-20T19:30:56Z"
+    },
+    {
+      "url": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en",
+      "published_date": "2026-11-18",
+      "title_original": "Extension of CBAM to Iceland and Norway",
+      "title_zh": "CBAM扩展适用于冰岛和挪威",
+      "translated_at": "2026-11-20T19:30:56Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXI0NkI0ckVFQlVYeW9PRmgtWDdHWEJOQ25sTkZvaFdhbkp3X3lVT3JWR0tYa1F5WmFybi1xOEVTVE9OZ1h3VWZpNzVScFRDREx3cVhCNG1rSlBuY09VdWRrdk8zejFIbldEb0dQUFNIbzNCR1pWODFjRHpLbFpuTUNkcFJOQ0J2S1BfT0lEWUtIaV9jUE5wbFBRbFJhQlRBWEF0Ng?oc=5",
+      "published_date": "2026-11-16",
+      "title_original": "China Iron Ore Port Inventory Rises to 152.12 Mt by Mid-November 2026",
+      "title_zh": "截至2026年11月中旬，中国港口铁矿石库存升至1.5212亿吨",
+      "translated_at": "2026-11-20T19:30:56Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQclpjRFJoUmhkeXpWWGVLRmRPRGlzbU91WXlPSGprYVRpclZDWVk2WDQ5V092S1JOUFdWRVZvamRvYlRzWC10WE1mblR6MGFQclZIYkxTMzFiakJmSWVqb0hPZHdVOFpldkJtazhmWjJZazhRV28tYnRHTE01ZzlnX1BhVXItcjdOcHpfcm94UjNmb3pwcjJiMk9tTy1WbzFIODROb0txTU9WQ01rcFNVYnhUNUhrYWV5YVg4?oc=5",
+      "published_date": "2026-11-19",
+      "title_original": "EU to extend CBAM to Norway and Iceland from January 2027",
+      "title_zh": "欧盟将于2027年1月起把CBAM扩展至挪威和冰岛",
+      "translated_at": "2026-11-20T19:30:56Z"
+    }
+  ],
+  "editorial": [
+    {
+      "url": "https://federalregister.gov/documents/2026/11/20/2026-23623/certain-carbon-and-alloy-steel-cut-to-length-plate-from-france-final-results-of-antidumping-duty",
+      "published_date": "2026-11-20",
+      "reviewed_at": "2026-11-20T19:30:56Z",
+      "title_zh": "美国对法国碳钢及合金钢定尺中厚板反倾销行政复审（2024—2025年）终裁结果",
+      "title_en": "Certain Carbon and Alloy Steel Cut-to-Length Plate From France: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+      "summary_zh": "【美国商务部反倾销行政复审终裁，有限事实】美国《联邦公报》2026年11月20日公告2024年5月1日至2025年4月30日复审期间，商务部认定法国原产特定碳钢及合金钢定尺中厚板（CTL plate）未以低于正常价值在美国销售。现有官方公告摘要支持该否定性倾销认定，但本轮未取得完整表格、企业名单、税率与海关指令，不能推断所有法国企业均为零税率或原有措施已撤销。",
+      "summary_en": "The US Commerce Department's 20 Nov 2026 Federal Register notice says covered French carbon/alloy CTL plate was not sold below normal value during the May 2024–April 2025 review. Producer-specific rates and customs instructions were not independently checked.",
+      "impact_zh": "法国中厚板对美出口成本可能因企业复审结果而变化，但需先核对涉案制造商和最终税率；对中国出口美国的竞争影响仅属间接情景，中国自身适用措施不因此改变。",
+      "impact_en": "Possible supplier-specific competitive impact for French plate in the US; check final rates before pricing. No automatic change to Chinese duties.",
+      "evidence_url": "https://federalregister.gov/documents/2026/11/20/2026-23623/certain-carbon-and-alloy-steel-cut-to-length-plate-from-france-final-results-of-antidumping-duty",
+      "coverage": "2026-11-20使用美国联邦公报队列提供的原文摘要及正式公告标题；网页全文未能稳定读取，未核对企业税率和具体海关执行日期。仅作限定范围事实，不标source_checked。",
+      "review_status": "limited",
+      "category": "贸易救济",
+      "importance": "中",
+      "follow_up": "获取2026-23623正式公告全文及最终税率表，核对法国企业和税号；再与中国同类产品适用美国税率比较。"
+    },
+    {
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/negotiations-finalised-link-eu-and-uk-emissions-trading-systems-2026-11-20_en",
+      "published_date": "2026-11-20",
+      "reviewed_at": "2026-11-20T19:30:56Z",
+      "title_zh": "欧盟与英国完成ETS互联协议谈判：拟于2028年实施，CBAM相互豁免仍须立法",
+      "title_en": "EU and UK conclude ETS linking negotiations, targeting 2028 and future mutual CBAM exemptions",
+      "summary_zh": "【欧盟及英国2026年11月20日官方公告】双方在欧英峰会宣布完成排放交易体系互联协议谈判，目标2028年1月1日起实施，但须双方批准、正式生效及登记系统技术衔接。互联后两地配额拟可交叉用于履约。欧盟税务总司明确：英国原产货物未来免征欧盟CBAM，尚须依CBAM基本条例第2(11)条修改附件III，不能把谈判完成视为已经豁免。英国政府解释文件预计欧盟CBAM对英国原产货物的豁免从2028年1月1日起适用，取决于欧盟立法；英国拟自2027年1月1日起豁免欧盟、欧洲经济区和瑞士原产货物的英国CBAM。原产于中国等第三国的货物并不因经英国或欧盟转运、进口而自动取得原产地豁免；英国政府称第三国原产货物跨境仍可按规定享受碳价减免。英国还将从2028年起调整相关免费配额退出路径以与欧盟衔接。",
+      "summary_en": "On 20 Nov 2026 the EU and UK announced completed ETS-linking negotiations, targeting operation from 1 Jan 2028 subject to ratification, entry into force and technical work. Cross-use of allowances and mutual CBAM exemptions are envisaged; EU Annex III still requires a delegated amendment. UK expects an EU-origin CBAM exemption from 2027 and an EU exemption for UK-origin goods from 2028, subject to relevant legislation. Non-UK/EU-origin goods are not automatically exempt by transshipment.",
+      "impact_zh": "【重点出口研判】2027年中国板坯、热轧和冷轧出口英国仍须按英国CBAM实际规则核算，不能提前视作免税；2028年欧英原产钢材跨境竞争成本可能下降，英国或欧盟加工商的原产地与实质性加工路径会更重要。中国钢材经英国港口转运或简单加工不当然取得英国原产地，亦不能自动免除欧盟CBAM。欧洲客户应分别核对进口国、货物真实原产地、2027/2028适用法规、第三国已付碳价减免和进口商承担义务；留意碳配额价格趋同对报价及采购的影响。",
+      "impact_en": "Do not assume Chinese steel entering the UK in 2027 or transshipped via Britain is CBAM-exempt. Assess origin, substantial transformation, UK/EU CBAM rules and potential 2028 competitive effects separately. ETS price convergence may affect costs.",
+      "evidence_url": "https://taxation-customs.ec.europa.eu/news/eu-and-uk-agree-link-emission-trading-systems-ets-2026-11-20_en",
+      "coverage": "2026-11-20核对欧盟DG CLIMA与DG TAXUD官方11月20日公告、英国政府UK-EU ETS linking agreement explainer及欧英峰会联合声明第49段。区分完成谈判与批准/生效，明确欧盟附件III尚待修改；英国2027年拟豁免为政府意向，不作为已生效规则。",
+      "review_status": "source_checked",
+      "category": "碳与环保",
+      "importance": "高",
+      "tags": [
+        "EU ETS",
+        "UK ETS",
+        "CBAM",
+        "原产地",
+        "英国",
+        "2028"
+      ],
+      "tags_en": [
+        "EU ETS",
+        "UK ETS",
+        "CBAM",
+        "origin",
+        "2028"
+      ],
+      "follow_up": "跟踪欧英批准程序、欧盟CBAM附件III修订及英国2027年CBAM原产地豁免细则；对2027—2028英国及欧盟客户分别制作CBAM成本与原产地判断表。"
+    },
+    {
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16932-CBAM-declarations_en",
+      "published_date": "2026-11-19",
+      "reviewed_at": "2026-11-20T19:30:56Z",
+      "title_zh": "欧盟CBAM申报格式和证书清缴实施细则征求意见，12月17日截止",
+      "title_en": "EU consultation on CBAM declaration format and certificate surrender, closing 17 December",
+      "summary_zh": "欧委会公开咨询页显示，根据CBAM条例第6(6)条拟制定实施条例，涉及申报标准格式、通过CBAM登记册提交程序及证书清缴安排。公众反馈期2026年11月19日至12月17日23:59:59 UTC，仍处征求意见阶段；未取得完整附件，不能确认最终申报字段。",
+      "summary_en": "Commission consultation under CBAM Article 6(6) runs from 19 Nov to 17 Dec 2026 and concerns declaration format, registry filing and certificate surrender. Not yet binding.",
+      "impact_zh": "钢厂与欧盟进口商可核对排放及前驱体数据准备，必要时在截止日前反馈申报字段问题；不能按草案假设最终法定义务。",
+      "impact_en": "Prepare auditable product and precursor data and consider consultation feedback; draft rules are not binding.",
+      "evidence_url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16932-CBAM-declarations_en",
+      "coverage": "依据欧委会官方咨询队列可读原文摘要和反馈状态，未核对草案完整附件；此为限定范围事实。",
+      "review_status": "limited",
+      "category": "碳与环保",
+      "importance": "中",
+      "follow_up": "2026-12-17前确认咨询附件、申报格式和提交意见入口。"
+    }
+  ],
+  "triage": [
+    {
+      "url": "https://gov.uk/government/publications/uk-eu-linking-agreement-explainer",
+      "published_date": "2026-11-20",
+      "decision": "irrelevant",
+      "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
+    },
+    {
+      "url": "https://gov.uk/government/publications/participating-in-the-uk-ets",
+      "published_date": "2026-11-20",
+      "decision": "irrelevant",
+      "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
+    },
+    {
+      "url": "https://gov.uk/government/collections/uk-emissions-trading-scheme-uk-ets-technical-guidance-and-tools",
+      "published_date": "2026-11-20",
+      "decision": "irrelevant",
+      "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
+    },
+    {
+      "url": "https://gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea",
+      "published_date": "2026-11-19",
+      "decision": "duplicate",
+      "reason_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20核对RSS标题与既有官方已核验主条的事件一致性；转载全文未逐条复核。",
+      "duplicate_of": "https://www.gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping/trade-remedies-notice-202632-definitive-anti-dumping-measure-on-hot-rolled-steel-plate-originating-from-south-korea"
+    },
+    {
+      "url": "https://gov.uk/government/collections/uk-emissions-trading-scheme-uk-ets-technical-guidance-and-tools",
+      "published_date": "2026-11-19",
+      "decision": "irrelevant",
+      "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
+    },
+    {
+      "url": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en",
+      "published_date": "2026-11-18",
+      "decision": "duplicate",
+      "reason_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20核对RSS标题与既有官方已核验主条的事件一致性；转载全文未逐条复核。",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en"
+    },
+    {
+      "url": "https://gov.uk/government/publications/check-the-default-values-for-the-carbon-border-adjustment-mechanism-cbam",
+      "published_date": "2026-11-19",
+      "decision": "irrelevant",
+      "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
+    },
+    {
+      "url": "https://gov.uk/guidance/getting-the-emissions-intensity-when-importing-carbon-border-adjustment-mechanism-cbam-goods",
+      "published_date": "2026-11-19",
+      "decision": "irrelevant",
+      "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
+    },
+    {
+      "url": "https://gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
+      "published_date": "2026-11-20",
+      "decision": "irrelevant",
+      "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
+    },
+    {
+      "url": "https://gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
+      "published_date": "2026-11-20",
+      "decision": "irrelevant",
+      "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aV3AyVk5ZNFhDODZQVm9OaEdlbVBHSDBXMFBJMFpQVjB4c1l1a1M0UWFLSU5PRXVUcF9FMTdIUWFEN1JMR3ZiUGhEekZMX0wtMXhEckdWVjRERHVRYW5RUWFwZFRGYlMwZWVPWU9QRXo?oc=5",
+      "published_date": "2026-11-20",
+      "decision": "blocked",
+      "reason_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aV3AyVk5ZNFhDODZQVm9OaEdlbVBHSDBXMFBJMFpQVjB4c1l1a1M0UWFLSU5PRXVUcF9FMTdIUWFEN1JMR3ZiUGhEekZMX0wtMXhEckdWVjRERHVRYW5RUWFwZFRGYlMwZWVPWU9QRXo?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZWU3cG84MVBwWVM0S3ZOOFhBbjlSb0c1aC1GXzhiVlV5b3c0Mng3eE9VNnpYOVpPWXRhWGpaYnBuS0ZuWDQ1NW1Bd18zdkFhbi05VTB0MXM2UU52NDc0N0ZpMnpKekJNV0EtSUUyWDFib2ZVNmJULVduanRuRlpoLTJrenJCRGxMWnYxQVZ2Vm9sc1hkTUVHeGZKem4xT3l0WGZRR2JvcDFwbXNILVdfSmJSRk9URnFKWU55LUZoM2FkemZIMmlOZFFGNGx2ZG5oWTdJTU42Qm5pV0hJMUlFM1M0Yzg5RGc0?oc=5",
+      "published_date": "2026-11-20",
+      "decision": "duplicate",
+      "reason_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20核对RSS标题与既有官方已核验主条的事件一致性；转载全文未逐条复核。",
+      "duplicate_of": "https://www.gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping/trade-remedies-notice-202632-definitive-anti-dumping-measure-on-hot-rolled-steel-plate-originating-from-south-korea"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQjZ5Y3lwU2p1LTVwWGNLUzNVZ08xNXhwZm0yYm1fYng0X2hSekJHQ1dmRlEycThwaVNCbXVaT0NXRW16OTRBd3ZXejhFLVg1WjRjTTEzbHVMdEtRQ0ZQNXBTM2pXTzBLb05BcWtMQ2JTUW14di15M2M4R1ozQmJVUkMtUVQwTzhpWHZvekNHX3NpcGhDZEs5bGVFWGtYbVpKcm53cVE2Y0pkcDRRcWZKX29FUlRVbUtDUVZ2YmhuUWtMcU42QjZ0OEhBUHU?oc=5",
+      "published_date": "2026-11-19",
+      "decision": "blocked",
+      "reason_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQjZ5Y3lwU2p1LTVwWGNLUzNVZ08xNXhwZm0yYm1fYng0X2hSekJHQ1dmRlEycThwaVNCbXVaT0NXRW16OTRBd3ZXejhFLVg1WjRjTTEzbHVMdEtRQ0ZQNXBTM2pXTzBLb05BcWtMQ2JTUW14di15M2M4R1ozQmJVUkMtUVQwTzhpWHZvekNHX3NpcGhDZEs5bGVFWGtYbVpKcm53cVE2Y0pkcDRRcWZKX29FUlRVbUtDUVZ2YmhuUWtMcU42QjZ0OEhBUHU?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yVXJDWTVsLW50UmhBaUlNVEFWaTVqdHFrdkdRQzkweW9FbWVDR1RmWTVGTDV3MjJpUWZaQzN1U2JEVkx0MWh2Wm9nYVQ4b2dkbEdQVmQxaXlRUjAyS2NtcWh2amdzMVNQM2c?oc=5",
+      "published_date": "2026-11-19",
+      "decision": "blocked",
+      "reason_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yVXJDWTVsLW50UmhBaUlNVEFWaTVqdHFrdkdRQzkweW9FbWVDR1RmWTVGTDV3MjJpUWZaQzN1U2JEVkx0MWh2Wm9nYVQ4b2dkbEdQVmQxaXlRUjAyS2NtcWh2amdzMVNQM2c?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3TWdXd3FsbVBDVjV0dUZFa3VaYnU1OHRxYU02eVVvTkdlMzEzbHlJWDM5VEVkWEhLM2N6VWsxdjYxN0VjVVlEUzZFMFQ0a1lmcHlTcndIZjFFc0lPT3JjZV9FckVTbmV6?oc=5",
+      "published_date": "2026-11-18",
+      "decision": "irrelevant",
+      "reason_zh": "新闻主题为锂矿/镍铁一般动态、集成电路出口或历史中澳铁矿石合作，不涉及本看板当前钢材贸易政策或可操作出口风险。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jR0xuZWV4VWFPZ2pCeVQtel9rYmlqVVI1S01PQmRZMEZaMi1WSnZ4akJzWmxkUlpuVUI5SnVudDlGRGxSMHM0ZHJfclVFT0NJdmx0c1dFRWF6QTN6VjEwa2duQy0xUXEwWWc?oc=5",
+      "published_date": "2026-11-18",
+      "decision": "blocked",
+      "reason_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jR0xuZWV4VWFPZ2pCeVQtel9rYmlqVVI1S01PQmRZMEZaMi1WSnZ4akJzWmxkUlpuVUI5SnVudDlGRGxSMHM0ZHJfclVFT0NJdmx0c1dFRWF6QTN6VjEwa2duQy0xUXEwWWc?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tSG0tYkhQLXFGS0tLNGxGWGN1eWc2c2FONjdnZWxFQVRVQ1BQX0FrRkZmdWE0YjhUdDcxbk1Rbm0xbmsxLVhLam1mbERHSmV3RERZc241eTNJR2ZWcWVMV0VRTlg3UmVf?oc=5",
+      "published_date": "2026-11-18",
+      "decision": "irrelevant",
+      "reason_zh": "新闻主题为锂矿/镍铁一般动态、集成电路出口或历史中澳铁矿石合作，不涉及本看板当前钢材贸易政策或可操作出口风险。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmxWOW5TNnIxTUxtLVNxbnkyLWNSNkRvQWpMY0ZNdDlHdnZhd0lETWYtb182QUFxVE5KcXBpekJ5VmE3a1RfUFFkVGlWOEV3WFRxS1RpcVZIdldobjRGSzJWNVVEUF9TYThoNVFTMC1PQlBnLWgzYXpnQ3I2cVUxTjljdXZyZw?oc=5",
+      "published_date": "2026-11-17",
+      "decision": "blocked",
+      "reason_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmxWOW5TNnIxTUxtLVNxbnkyLWNSNkRvQWpMY0ZNdDlHdnZhd0lETWYtb182QUFxVE5KcXBpekJ5VmE3a1RfUFFkVGlWOEV3WFRxS1RpcVZIdldobjRGSzJWNVVEUF9TYThoNVFTMC1PQlBnLWgzYXpnQ3I2cVUxTjljdXZyZw?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBncFBFd19YR25fcGFkQmZGY0MyNjVlMWN2TXlLMllvRmpNSS1tUFFCb2JzMS0tMmt0WnhnVVBGZUM1Tl9USm02aHpBUTcxN2V3d3FBNDMzcmtqV2Fha0dYMmQ1Q2xzQmFHVkNCTHU5UQ?oc=5",
+      "published_date": "2026-11-17",
+      "decision": "irrelevant",
+      "reason_zh": "新闻主题为锂矿/镍铁一般动态、集成电路出口或历史中澳铁矿石合作，不涉及本看板当前钢材贸易政策或可操作出口风险。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGpyTkFzREo0TzZMazFTY1NsSW5qTUdiOEgtWWxENXQzTXhweTJFc0ZpZF80OEp1czQtQVA4NUNkTV9Hbi1Ddm83dnhlbXE1SWNUUVlOR3BERXEzSENhd1Z0UmtobmgzTUVoUVIya1RVdWpMZlMtdnBneVgzODBHUWhjN01XZw?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "blocked",
+      "reason_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGpyTkFzREo0TzZMazFTY1NsSW5qTUdiOEgtWWxENXQzTXhweTJFc0ZpZF80OEp1czQtQVA4NUNkTV9Hbi1Ddm83dnhlbXE1SWNUUVlOR3BERXEzSENhd1Z0UmtobmgzTUVoUVIya1RVdWpMZlMtdnBneVgzODBHUWhjN01XZw?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93OVZpUnNjMmZaaURVYXo2am05M0REb244WnpFZDZ3WkRPN0IzZHMtU1ZGd1JFU3h1YjdDc0tmYkpScURFcFNFQzFyQi1sUHNzTlUwTjlibzRXMV9FS0tZ?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "blocked",
+      "reason_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93OVZpUnNjMmZaaURVYXo2am05M0REb244WnpFZDZ3WkRPN0IzZHMtU1ZGd1JFU3h1YjdDc0tmYkpScURFcFNFQzFyQi1sUHNzTlUwTjlibzRXMV9FS0tZ?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnVCNHhpcmowUDRTQldWVDNlQkVkLVpjejZacXJOMDN1Nm1FWklnYU03Y1JfU3BYdTBiQVl2RVdraGdEdjZGQ0pZRlpoMVF0U1lvUU9GYmRTekVObDVJemZ4cTB6S3lCTTZTXzU1Rl9fWFl1UEhUenhRQ2s2ZUxCcWI2UDVMLVdhT0V1S1Jpcjd3bk5qa3lPNDNRWF8?oc=5",
+      "published_date": "2026-11-19",
+      "decision": "duplicate",
+      "reason_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20核对RSS标题与既有官方已核验主条的事件一致性；转载全文未逐条复核。",
+      "duplicate_of": "https://www.gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping/trade-remedies-notice-202632-definitive-anti-dumping-measure-on-hot-rolled-steel-plate-originating-from-south-korea"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXI0NkI0ckVFQlVYeW9PRmgtWDdHWEJOQ25sTkZvaFdhbkp3X3lVT3JWR0tYa1F5WmFybi1xOEVTVE9OZ1h3VWZpNzVScFRDREx3cVhCNG1rSlBuY09VdWRrdk8zejFIbldEb0dQUFNIbzNCR1pWODFjRHpLbFpuTUNkcFJOQ0J2S1BfT0lEWUtIaV9jUE5wbFBRbFJhQlRBWEF0Ng?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "blocked",
+      "reason_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXI0NkI0ckVFQlVYeW9PRmgtWDdHWEJOQ25sTkZvaFdhbkp3X3lVT3JWR0tYa1F5WmFybi1xOEVTVE9OZ1h3VWZpNzVScFRDREx3cVhCNG1rSlBuY09VdWRrdk8zejFIbldEb0dQUFNIbzNCR1pWODFjRHpLbFpuTUNkcFJOQ0J2S1BfT0lEWUtIaV9jUE5wbFBRbFJhQlRBWEF0Ng?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2RsWDY2bV90UDVyN1FOVTFCajlWZ0ljNVpmMEtZYUVzRWh1U3Zwa3lqMzFsaTc0Tlk5QXJaaGpocGMwLVVQb1EtMnBXeWdIdklhTUxHUDlwSnZxNnBiNzB0bks2VzJWSHRzY2tueTNuRWJERWtFeG1VSnZfaklod2ZybzlIZWxaNDlXaUwyVjlqUmVYWEVBSGpUdERWRkxpSFo2Z19aNk5KNVNqZ2JsR0JvRFhzUi1yYTFNMEROekxKeVk?oc=5",
+      "published_date": "2026-11-19",
+      "decision": "duplicate",
+      "reason_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20核对RSS标题与既有官方已核验主条的事件一致性；转载全文未逐条复核。",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yU3VZTU5NVGVRbmtvQnM2TkNNd0JSSFV6MWZJc29sRWF2UlRwRnUwUUJ3NFE2SlgzM0MxQUtxWUVoTzk0WmlQeHBDcDlmS05SMzhaaXQyc2tvNVY0Yk1IVW1COG9YbnZBWFdMVXlQcG9LZw?oc=5",
+      "published_date": "2026-11-19",
+      "decision": "blocked",
+      "reason_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yU3VZTU5NVGVRbmtvQnM2TkNNd0JSSFV6MWZJc29sRWF2UlRwRnUwUUJ3NFE2SlgzM0MxQUtxWUVoTzk0WmlQeHBDcDlmS05SMzhaaXQyc2tvNVY0Yk1IVW1COG9YbnZBWFdMVXlQcG9LZw?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQclpjRFJoUmhkeXpWWGVLRmRPRGlzbU91WXlPSGprYVRpclZDWVk2WDQ5V092S1JOUFdWRVZvamRvYlRzWC10WE1mblR6MGFQclZIYkxTMzFiakJmSWVqb0hPZHdVOFpldkJtazhmWjJZazhRV28tYnRHTE01ZzlnX1BhVXItcjdOcHpfcm94UjNmb3pwcjJiMk9tTy1WbzFIODROb0txTU9WQ01rcFNVYnhUNUhrYWV5YVg4?oc=5",
+      "published_date": "2026-11-19",
+      "decision": "duplicate",
+      "reason_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20核对RSS标题与既有官方已核验主条的事件一致性；转载全文未逐条复核。",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9raGFzR3Z3eFctMTIyVmM1QWkta01uVm9GcEVPcVUyVldjOWNQcUgxSHhHVHNEdHRIVE4tOVJaa1ZWSTZHeEozalM5MUh4YmlwVGVvOG1ySTgxT09CU1RVSEltSG9Fa0lIM2RzSFlobFpQUmtY?oc=5",
+      "published_date": "2026-11-19",
+      "decision": "blocked",
+      "reason_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9raGFzR3Z3eFctMTIyVmM1QWkta01uVm9GcEVPcVUyVldjOWNQcUgxSHhHVHNEdHRIVE4tOVJaa1ZWSTZHeEozalM5MUh4YmlwVGVvOG1ySTgxT09CU1RVSEltSG9Fa0lIM2RzSFlobFpQUmtY?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOekwtRDZsRzEzdE02QjZYUHBYQ0p1cDA3Nk1HeGpiZFRLYTd6RmdCdGlZUHhBNmxyZXRJa1pzZG5zMVBEclh4RnBVWXJNR1duejVhLVRVY2hFRy1FdWxTT2lJWTlraTlIUkFoTmdQTlZrQ0F4VFExaHRDSlp2TDlyWkRNM3lmMzdiT2hiSA?oc=5",
+      "published_date": "2026-11-19",
+      "decision": "duplicate",
+      "reason_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20核对RSS标题与既有官方已核验主条的事件一致性；转载全文未逐条复核。",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
+      "published_date": "2026-11-14",
+      "decision": "blocked",
+      "reason_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
+      "published_date": "2026-11-09",
+      "decision": "blocked",
+      "reason_zh": "土耳其钢铁出口商协会CBAM合作协议的报道仅见聚合标题；本轮检索土耳其商务部等公开来源未找到可独立核验的协议正文、签约主体或义务内容。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20复查原报道及可公开检索的主管机关官方替代入口，仍未取得足以核对具体法令、期限和适用范围的原文；保留有限事实，不标source_checked。",
+      "retry_after": "2026-11-23T00:00:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5"
+    },
+    {
+      "url": "https://news.mysteel.com/a/26103009/E921E5CBA72B4D5E.html",
+      "published_date": "2026-10-30",
+      "decision": "blocked",
+      "reason_zh": "泰国对华预应力钢绞线调查仍缺少泰国主管机关正式立案公告及期限起算依据；不能从转载推定应诉截止日期。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20复查原报道及可公开检索的主管机关官方替代入口，仍未取得足以核对具体法令、期限和适用范围的原文；保留有限事实，不标source_checked。",
+      "retry_after": "2026-11-23T00:00:00Z",
+      "evidence_url": "https://news.mysteel.com/a/26103009/E921E5CBA72B4D5E.html"
+    },
+    {
+      "url": "https://news.mysteel.com/a/26110215/722BC206CFA1DEAD.html",
+      "published_date": "2026-11-02",
+      "decision": "blocked",
+      "reason_zh": "埃及涉华冷轧、镀锌、彩涂反倾销调查终止仍缺少本次所述正式公告全文及涉案税号核对，不能把媒体标题当作新增法令。",
+      "attempted_at": "2026-11-20T19:30:56Z",
+      "coverage": "2026-11-20复查原报道及可公开检索的主管机关官方替代入口，仍未取得足以核对具体法令、期限和适用范围的原文；保留有限事实，不标source_checked。",
+      "retry_after": "2026-11-23T00:00:00Z",
+      "evidence_url": "https://news.mysteel.com/a/26110215/722BC206CFA1DEAD.html"
+    }
+  ]
+}
