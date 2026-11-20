@@ -217,8 +217,8 @@
       "translation_state": "pending",
       "published_date": "2026-11-19",
       "source_excerpt": "UK applies anti-dumping duties to South Korean hot-rolled steel plate imports Traders Union",
-      "needs_translation": true,
-      "title_zh": "UK applies anti-dumping duties to South Korean hot-rolled steel plate imports",
+      "needs_translation": false,
+      "title_zh": "联合王国对韩国的热轧钢板块进口征收反倾销税",
       "review_attempted_at": "",
       "evidence_fingerprint": "58e608bdece8367e",
       "related_reviews": []
@@ -385,8 +385,8 @@
       "translation_state": "pending",
       "published_date": "2026-11-14",
       "source_excerpt": "Steel sector sees green milestone China Daily Global Edition",
-      "needs_translation": true,
-      "title_zh": "Steel sector sees green milestone",
+      "needs_translation": false,
+      "title_zh": "钢铁部门看到绿色的里程碑",
       "review_attempted_at": "",
       "evidence_fingerprint": "4ac92c8bc73a60dc",
       "related_reviews": [

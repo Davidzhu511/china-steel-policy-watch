@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "generated_at": "2026-11-20T00:56:53Z",
-  "updated_at": "2026-11-20T00:57:09Z",
+  "updated_at": "2026-11-20T00:58:54Z",
   "work_fingerprint": "6806dc743e0c239ece00",
   "actionable_count": 14,
   "blocked_count": 20,
   "retry_due_count": 3,
-  "pending_translation": 7,
-  "pending_machine_translation": 7,
-  "chinese_title_coverage": 97.9,
-  "oldest_actionable_hours": 2895.4,
+  "pending_translation": 5,
+  "pending_machine_translation": 5,
+  "chinese_title_coverage": 98.5,
+  "oldest_actionable_hours": 2895.5,
   "queue_path": "data/review_queue.json",
   "batch_path": "config/reviews/"
 }

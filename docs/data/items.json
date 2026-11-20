@@ -6514,6 +6514,10 @@
       "first_seen": "2026-11-18T15:59:14Z",
       "last_seen": "2026-11-20T00:56:53Z",
       "source_excerpt": "",
+      "priority_signal": {
+        "zh": "贸易救济程序 · 待核对",
+        "en": "Trade-remedy procedure · review needed"
+      },
       "review_disposition": "blocked",
       "review_note_zh": "2026/2538号条例官方标题可确认是更正2025/1919号对埃及、日本、越南热轧扁平材反倾销条例，但本轮EUR-Lex正文不可读取；未核实更正的企业名称、附加码及其法律效力。仅标题翻译，不推定税率变化。",
       "review_note_en": "",
@@ -6526,10 +6530,6 @@
         "translated_at": "2026-11-18T19:33:15.044Z",
         "method": "editor_translation",
         "coverage": "标题翻译，不代表全文核验"
-      },
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
       }
     },
     {
@@ -7519,14 +7519,14 @@
       "first_seen": "2026-11-06T14:38:14Z",
       "last_seen": "2026-11-16T16:28:58Z",
       "source_excerpt": "News article 6 November 2026 Commission initiates safeguard investigation into imports of PET resin chemicals Today, the Commission initiated a safeguard investigation to assess whether safeguard measures are needed to protect EU industry from a significant increase in imports of polyethylene terephthalate (PET) resin chemicals. 1 min read",
-      "review_disposition": "excluded",
-      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
-      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
-      "review_attempted_at": "2026-11-07",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
+      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
+      "review_attempted_at": "2026-11-07"
     },
     {
       "id": "102690e3f2b920c6fae2",
@@ -9118,7 +9118,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-20T00:56:53Z",
       "last_seen": "2026-11-20T00:56:53Z",
-      "source_excerpt": "UK applies anti-dumping duties to South Korean hot-rolled steel plate imports Traders Union"
+      "source_excerpt": "UK applies anti-dumping duties to South Korean hot-rolled steel plate imports Traders Union",
+      "machine_translation": {
+        "title_zh": "联合王国对韩国的热轧钢板块进口征收反倾销税",
+        "excerpt_zh": "联合王国对韩国的热轧钢板块进口实行反倾销税",
+        "fingerprint": "4b31d3f5292d6dd6627f0319ba2e0ca4b3c2a4d8551c1f6a66c612ac7e74bd84",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-20T00:58:44Z"
+      }
     },
     {
       "id": "7a1cbd238439536602c6",
@@ -11060,7 +11068,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-13T14:56:04Z",
       "last_seen": "2026-11-20T00:56:53Z",
-      "source_excerpt": "Steel sector sees green milestone China Daily Global Edition"
+      "source_excerpt": "Steel sector sees green milestone China Daily Global Edition",
+      "machine_translation": {
+        "title_zh": "钢铁部门看到绿色的里程碑",
+        "excerpt_zh": "钢铁部门看到绿色的里程碑 中国日报全球版",
+        "fingerprint": "7bff874f21dd9d9c879b400106f017fc32bdf7285934094ec23f123d8fa242f5",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-20T00:58:53Z"
+      }
     },
     {
       "id": "6e6940de6bb0102ab0e7",
