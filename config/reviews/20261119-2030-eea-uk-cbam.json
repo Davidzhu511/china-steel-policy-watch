@@ -87,12 +87,12 @@
       "reason_zh": "英国政府11月19日新闻稿与已核验的第2026/32号反倾销最终措施属于同一事件，11月18日正式通知已作为主条。不得将同一税率再算新增措施。",
       "attempted_at": "2026-11-19T19:32:40.005Z",
       "coverage": "已复核英国官方第2026/32号通知（2026-11-18公布、19日生效）第1、3、附录1条，税率7.04%/12.19%/23.07%，大于2100mm为0%；新闻稿URL本次无法独立访问，但题名及摘录对应相同措施。",
-      "duplicate_of": "https://www.gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping/trade-remedies-notice-202632-definitive-anti-dumping-measure-on-hot-rolled-steel-plate-originating-from-south-korea"
+      "duplicate_of": "https://gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping"
     },
     {
       "url": "https://gov.uk/government/collections/uk-emissions-trading-scheme-uk-ets-technical-guidance-and-tools",
       "published_date": "2026-11-19",
-      "decision": "irrelevant",
+      "decision": "excluded",
       "reason_zh": "英国ETS技术指引汇总页并非2026年11月19日新增政策，官方页面最后更新为2026年6月26日，相关下级文档于11月3日有更新但本条未指向新增钢材进口措施。",
       "attempted_at": "2026-11-19T19:32:40.005Z",
       "coverage": "已读GOV.UK原页发布日期、更新记录及文档列表；不将采集观察日期视为新政策发布日期。"
