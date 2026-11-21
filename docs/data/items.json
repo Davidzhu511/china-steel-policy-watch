@@ -999,6 +999,67 @@
       "reviewed_at": "2026-10-10"
     },
     {
+      "id": "18b5788ec662b75b0442",
+      "title_zh": "欧盟与英国完成ETS互联协议谈判：拟于2028年实施，CBAM相互豁免仍须立法",
+      "title_en": "EU and UK conclude ETS linking negotiations, targeting 2028 and future mutual CBAM exemptions",
+      "title_original": "Negotiations finalised to link EU and UK Emissions Trading Systems",
+      "summary_zh": "【欧盟及英国2026年11月20日官方公告】双方在欧英峰会宣布完成排放交易体系互联协议谈判，目标2028年1月1日起实施，但须双方批准、正式生效及登记系统技术衔接。互联后两地配额拟可交叉用于履约。欧盟税务总司明确：英国原产货物未来免征欧盟CBAM，尚须依CBAM基本条例第2(11)条修改附件III，不能把谈判完成视为已经豁免。英国政府解释文件预计欧盟CBAM对英国原产货物的豁免从2028年1月1日起适用，取决于欧盟立法；英国拟自2027年1月1日起豁免欧盟、欧洲经济区和瑞士原产货物的英国CBAM。原产于中国等第三国的货物并不因经英国或欧盟转运、进口而自动取得原产地豁免；英国政府称第三国原产货物跨境仍可按规定享受碳价减免。英国还将从2028年起调整相关免费配额退出路径以与欧盟衔接。",
+      "summary_en": "On 20 Nov 2026 the EU and UK announced completed ETS-linking negotiations, targeting operation from 1 Jan 2028 subject to ratification, entry into force and technical work. Cross-use of allowances and mutual CBAM exemptions are envisaged; EU Annex III still requires a delegated amendment. UK expects an EU-origin CBAM exemption from 2027 and an EU exemption for UK-origin goods from 2028, subject to relevant legislation. Non-UK/EU-origin goods are not automatically exempt by transshipment.",
+      "impact_zh": "【重点出口研判】2027年中国板坯、热轧和冷轧出口英国仍须按英国CBAM实际规则核算，不能提前视作免税；2028年欧英原产钢材跨境竞争成本可能下降，英国或欧盟加工商的原产地与实质性加工路径会更重要。中国钢材经英国港口转运或简单加工不当然取得英国原产地，亦不能自动免除欧盟CBAM。欧洲客户应分别核对进口国、货物真实原产地、2027/2028适用法规、第三国已付碳价减免和进口商承担义务；留意碳配额价格趋同对报价及采购的影响。",
+      "impact_en": "Do not assume Chinese steel entering the UK in 2027 or transshipped via Britain is CBAM-exempt. Assess origin, substantial transformation, UK/EU CBAM rules and potential 2028 competitive effects separately. ETS price convergence may affect costs.",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/negotiations-finalised-link-eu-and-uk-emissions-trading-systems-2026-11-20_en",
+      "published_at": "2026-11-20T00:00:00Z",
+      "source_published_date": "2026-11-20",
+      "source": {
+        "id": "ec_watch_pages",
+        "name": "DG CLIMA · EU ETS",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "碳与环保",
+      "status": "待核对",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "EU ETS",
+        "UK ETS",
+        "CBAM",
+        "原产地",
+        "英国",
+        "2028"
+      ],
+      "tags_en": [
+        "EU ETS",
+        "UK ETS",
+        "CBAM",
+        "origin",
+        "2028"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-20T15:46:33Z",
+      "last_seen": "2026-11-21T00:19:32Z",
+      "source_excerpt": "News article 20 November 2026 Negotiations finalised to link EU and UK Emissions Trading Systems Negotiations finalised to link EU and UK Emissions Trading Systems 2 min read",
+      "machine_translation": {
+        "title_zh": "将欧盟和联合王国排放交易系统连接起来的谈判已最后完成",
+        "excerpt_zh": "新闻文章 20 11月 2026 谈判最后敲定,将欧盟和联合王国排放交易系统谈判最后敲定,将欧盟和联合王国排放交易系统2 分钟链接为",
+        "fingerprint": "6a59b7c8803d1041641fd10cb9dd933226b2dce22315683612fa6da419f5d22b",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-20T15:48:42Z"
+      },
+      "follow_up": "跟踪欧英批准程序、欧盟CBAM附件III修订及英国2027年CBAM原产地豁免细则；对2027—2028英国及欧盟客户分别制作CBAM成本与原产地判断表。",
+      "coverage": "2026-11-20核对欧盟DG CLIMA与DG TAXUD官方11月20日公告、英国政府UK-EU ETS linking agreement explainer及欧英峰会联合声明第49段。区分完成谈判与批准/生效，明确欧盟附件III尚待修改；英国2027年拟豁免为政府意向，不作为已生效规则。",
+      "evidence_url": "https://taxation-customs.ec.europa.eu/news/eu-and-uk-agree-link-emission-trading-systems-ets-2026-11-20_en",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-20T19:30:56Z"
+    },
+    {
       "id": "690b4f507cfe813e72bb",
       "title_zh": "英国CBAM核查指引补充：欧盟CBAM核查资格及报告不自动适用于英国",
       "title_en": "UK CBAM guidance clarifies that accreditation and verification reports for other CBAM schemes are not automatically valid",
@@ -1097,6 +1158,14 @@
         {
           "name": "GOV.UK / 英国政府",
           "url": "https://gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea"
+        },
+        {
+          "name": "Shanghai Metals Market",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZWU3cG84MVBwWVM0S3ZOOFhBbjlSb0c1aC1GXzhiVlV5b3c0Mng3eE9VNnpYOVpPWXRhWGpaYnBuS0ZuWDQ1NW1Bd18zdkFhbi05VTB0MXM2UU52NDc0N0ZpMnpKekJNV0EtSUUyWDFib2ZVNmJULVduanRuRlpoLTJrenJCRGxMWnYxQVZ2Vm9sc1hkTUVHeGZKem4xT3l0WGZRR2JvcDFwbXNILVdfSmJSRk9URnFKWU55LUZoM2FkemZIMmlOZFFGNGx2ZG5oWTdJTU42Qm5pV0hJMUlFM1M0Yzg5RGc0?oc=5"
+        },
+        {
+          "name": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnVCNHhpcmowUDRTQldWVDNlQkVkLVpjejZacXJOMDN1Nm1FWklnYU03Y1JfU3BYdTBiQVl2RVdraGdEdjZGQ0pZRlpoMVF0U1lvUU9GYmRTekVObDVJemZ4cTB6S3lCTTZTXzU1Rl9fWFl1UEhUenhRQ2s2ZUxCcWI2UDVMLVdhT0V1S1Jpcjd3bk5qa3lPNDNRWF8?oc=5"
         }
       ]
     },
@@ -1150,8 +1219,8 @@
         }
       ],
       "source_translation": {
-        "title_zh": "欧盟CBAM自2027年起扩展至冰岛和挪威",
-        "translated_at": "2026-11-20T07:34:13Z",
+        "title_zh": "CBAM扩展适用于冰岛和挪威",
+        "translated_at": "2026-11-20T19:30:56Z",
         "method": "editor_translation",
         "coverage": "标题翻译，不代表全文核验"
       }
@@ -6828,7 +6897,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T15:48:33Z"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z"
     },
     {
       "id": "87a11037c54971c803ba",
@@ -6871,7 +6944,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T15:48:37Z"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z"
     },
     {
       "id": "53fed2510c2d19d615a9",
@@ -6914,60 +6991,21 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T15:48:40Z"
-      }
-    },
-    {
-      "id": "18b5788ec662b75b0442",
-      "title_zh": "Negotiations finalised to link EU and UK Emissions Trading Systems",
-      "title_en": "Negotiations finalised to link EU and UK Emissions Trading Systems",
-      "title_original": "Negotiations finalised to link EU and UK Emissions Trading Systems",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/negotiations-finalised-link-eu-and-uk-emissions-trading-systems-2026-11-20_en",
-      "published_at": "2026-11-20T00:00:00Z",
-      "source_published_date": "2026-11-20",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "DG CLIMA · EU ETS",
-        "kind": "official-notice",
-        "official": true
       },
-      "country": "欧盟",
-      "region": "欧洲",
-      "category": "碳与环保",
-      "status": "待核对",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-21T00:19:32Z",
-      "source_excerpt": "News article 20 November 2026 Negotiations finalised to link EU and UK Emissions Trading Systems Negotiations finalised to link EU and UK Emissions Trading Systems 2 min read",
-      "machine_translation": {
-        "title_zh": "将欧盟和联合王国排放交易系统连接起来的谈判已最后完成",
-        "excerpt_zh": "新闻文章 20 11月 2026 谈判最后敲定,将欧盟和联合王国排放交易系统谈判最后敲定,将欧盟和联合王国排放交易系统2 分钟链接为",
-        "fingerprint": "6a59b7c8803d1041641fd10cb9dd933226b2dce22315683612fa6da419f5d22b",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-11-20T15:48:42Z"
-      }
+      "review_disposition": "excluded",
+      "review_note_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z"
     },
     {
       "id": "cd1ee1b3887442f061f0",
-      "title_zh": "Certain Carbon and Alloy Steel Cut-to-Length Plate From France: Final Results of Antidumping Duty Administrative Review; 2024-2025",
+      "title_zh": "美国对法国碳钢及合金钢定尺中厚板反倾销行政复审（2024—2025年）终裁结果",
       "title_en": "Certain Carbon and Alloy Steel Cut-to-Length Plate From France: Final Results of Antidumping Duty Administrative Review; 2024-2025",
       "title_original": "Certain Carbon and Alloy Steel Cut-to-Length Plate From France: Final Results of Antidumping Duty Administrative Review; 2024-2025",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "【美国商务部反倾销行政复审终裁，有限事实】美国《联邦公报》2026年11月20日公告2024年5月1日至2025年4月30日复审期间，商务部认定法国原产特定碳钢及合金钢定尺中厚板（CTL plate）未以低于正常价值在美国销售。现有官方公告摘要支持该否定性倾销认定，但本轮未取得完整表格、企业名单、税率与海关指令，不能推断所有法国企业均为零税率或原有措施已撤销。",
+      "summary_en": "The US Commerce Department's 20 Nov 2026 Federal Register notice says covered French carbon/alloy CTL plate was not sold below normal value during the May 2024–April 2025 review. Producer-specific rates and customs instructions were not independently checked.",
+      "impact_zh": "法国中厚板对美出口成本可能因企业复审结果而变化，但需先核对涉案制造商和最终税率；对中国出口美国的竞争影响仅属间接情景，中国自身适用措施不因此改变。",
+      "impact_en": "Possible supplier-specific competitive impact for French plate in the US; check final rates before pricing. No automatic change to Chinese duties.",
       "url": "https://federalregister.gov/documents/2026/11/20/2026-23623/certain-carbon-and-alloy-steel-cut-to-length-plate-from-france-final-results-of-antidumping-duty",
       "published_at": "2026-11-20T00:00:00Z",
       "source_published_date": "2026-11-20",
@@ -6979,7 +7017,7 @@
       },
       "country": "美国",
       "region": "北美",
-      "category": "碳与环保",
+      "category": "贸易救济",
       "status": "待核对",
       "importance": "中",
       "products": [],
@@ -6989,13 +7027,24 @@
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-20T15:46:33Z",
       "last_seen": "2026-11-21T00:19:32Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that certain carbon and alloy steel cut-to-length plate (CTL plate) from France was not sold in the United States at less than normal value during the period of review (POR) May 1, 2024, through April 30, 2025.",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
+      },
+      "follow_up": "获取2026-23623正式公告全文及最终税率表，核对法国企业和税号；再与中国同类产品适用美国税率比较。",
+      "coverage": "2026-11-20使用美国联邦公报队列提供的原文摘要及正式公告标题；网页全文未能稳定读取，未核对企业税率和具体海关执行日期。仅作限定范围事实，不标source_checked。",
+      "evidence_url": "https://federalregister.gov/documents/2026/11/20/2026-23623/certain-carbon-and-alloy-steel-cut-to-length-plate-from-france-final-results-of-antidumping-duty",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-20T19:30:56Z",
+      "source_translation": {
+        "title_zh": "美国对法国碳钢及合金钢定尺中厚板反倾销行政复审（2024—2025年）终裁结果",
+        "translated_at": "2026-11-20T19:30:56Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -7039,7 +7088,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T15:48:48Z"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z"
     },
     {
       "id": "4c2d01624ef258455972",
@@ -7082,17 +7135,21 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T15:48:49Z"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z"
     },
     {
       "id": "e290e2a48385ffcb5632",
-      "title_zh": "欧盟CBAM申报格式和证书清缴实施规则征求意见至12月17日",
-      "title_en": "EU opens feedback on CBAM declaration format and certificate surrender rules",
+      "title_zh": "欧盟CBAM申报格式和证书清缴实施细则征求意见，12月17日截止",
+      "title_en": "EU consultation on CBAM declaration format and certificate surrender, closing 17 December",
       "title_original": "CBAM declarations",
-      "summary_zh": "欧委会公众咨询条目Ares(2026)1634728显示：依据CBAM基本条例第6(6)条，拟制定申报标准格式、通过CBAM Registry提交申报的程序及证书清缴安排。反馈期2026年11月19日至12月17日，当前处于征求意见阶段，并非已生效的申报实施细则。",
-      "summary_en": "Consultation on declaration format, registry submission and surrender arrangements is open 19 Nov–17 Dec 2026; this is not an enacted implementing regulation.",
-      "impact_zh": "钢厂与欧盟进口商可提前核对产品排放字段、申报主体和证书清缴操作流程；如需反馈，应在12月17日前查看草案及官方提交渠道，暂不能把草案当成现行合规义务。",
-      "impact_en": "Importers and mills should prepare declaration data and review the draft before the feedback deadline; do not treat it as binding law.",
+      "summary_zh": "欧委会公开咨询页显示，根据CBAM条例第6(6)条拟制定实施条例，涉及申报标准格式、通过CBAM登记册提交程序及证书清缴安排。公众反馈期2026年11月19日至12月17日23:59:59 UTC，仍处征求意见阶段；未取得完整附件，不能确认最终申报字段。",
+      "summary_en": "Commission consultation under CBAM Article 6(6) runs from 19 Nov to 17 Dec 2026 and concerns declaration format, registry filing and certificate surrender. Not yet binding.",
+      "impact_zh": "钢厂与欧盟进口商可核对排放及前驱体数据准备，必要时在截止日前反馈申报字段问题；不能按草案假设最终法定义务。",
+      "impact_en": "Prepare auditable product and precursor data and consider consultation feedback; draft rules are not binding.",
       "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16932-CBAM-declarations_en",
       "published_at": "2026-11-19T16:34:00Z",
       "source_published_date": "2026-11-19",
@@ -7128,14 +7185,14 @@
         "zh": "公开征求意见中",
         "en": "Consultation open"
       },
-      "coverage": "依据队列保留的欧委会原始倡议标题、Ares编号、官方摘录和OPEN时间；官方页面本轮未能直接打开，未核对草案附件或具体表格，限定事实，不标source_checked。",
+      "coverage": "依据欧委会官方咨询队列可读原文摘要和反馈状态，未核对草案完整附件；此为限定范围事实。",
       "evidence_url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16932-CBAM-declarations_en",
-      "follow_up": "2026-12-17前核对草案全文、申报模板及反馈入口。",
+      "follow_up": "2026-12-17前确认咨询附件、申报格式和提交意见入口。",
       "review_method": "source_checked",
-      "reviewed_at": "2026-11-20T07:34:13Z",
+      "reviewed_at": "2026-11-20T19:30:56Z",
       "source_translation": {
-        "title_zh": "CBAM申报规则实施条例草案开放反馈",
-        "translated_at": "2026-11-20T07:34:13Z",
+        "title_zh": "CBAM申报规则",
+        "translated_at": "2026-11-20T19:30:56Z",
         "method": "editor_translation",
         "coverage": "标题翻译，不代表全文核验"
       }
@@ -7240,7 +7297,7 @@
       ],
       "source_translation": {
         "title_zh": "英国对韩国热轧中厚板实施新的反倾销措施",
-        "translated_at": "2026-11-20T07:34:13Z",
+        "translated_at": "2026-11-20T19:30:56Z",
         "method": "editor_translation",
         "coverage": "标题翻译，不代表全文核验"
       }
@@ -7287,12 +7344,10 @@
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-19T16:07:28Z"
       },
-      "review_disposition": "blocked",
-      "review_note_zh": "英国ETS技术指南集合页，队列摘录未表明本次新增具体制度变化；保留观察，需逐页比较更新日志。",
+      "review_disposition": "excluded",
+      "review_note_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-20T07:34:13Z",
-      "retry_after": "2026-11-27T00:00:00Z",
-      "review_coverage": "本轮仅有队列摘要及已有相关核验信息；未取得可证实新增变化的完整原始资料，未标source_checked。"
+      "review_attempted_at": "2026-11-20T19:30:56Z"
     },
     {
       "id": "698e0fd3bc5891b71a5c",
@@ -9503,7 +9558,14 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T15:48:31Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aV3AyVk5ZNFhDODZQVm9OaEdlbVBHSDBXMFBJMFpQVjB4c1l1a1M0UWFLSU5PRXVUcF9FMTdIUWFEN1JMR3ZiUGhEekZMX0wtMXhEckdWVjRERHVRYW5RUWFwZFRGYlMwZWVPWU9QRXo?oc=5",
+      "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。"
     },
     {
       "id": "d45766ca1ab5de9a6cd1",
@@ -9667,7 +9729,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T15:48:32Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
+      "duplicate_of": "https://gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping"
     },
     {
       "id": "616ec180d6e784bf87b6",
@@ -9712,10 +9779,10 @@
         "translated_at": "2026-11-20T00:58:44Z"
       },
       "review_disposition": "duplicate",
-      "review_note_zh": "同一政策事件的媒体转载，已由对应官方原始来源核验；无可确认的新法规事实。",
+      "review_note_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-20T07:34:13Z",
-      "duplicate_of": "https://gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea"
+      "review_attempted_at": "2026-11-20T19:30:56Z",
+      "duplicate_of": "https://gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping"
     },
     {
       "id": "7b034ae217a58f93920e",
@@ -9758,7 +9825,14 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T15:48:54Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQjZ5Y3lwU2p1LTVwWGNLUzNVZ08xNXhwZm0yYm1fYng0X2hSekJHQ1dmRlEycThwaVNCbXVaT0NXRW16OTRBd3ZXejhFLVg1WjRjTTEzbHVMdEtRQ0ZQNXBTM2pXTzBLb05BcWtMQ2JTUW14di15M2M4R1ozQmJVUkMtUVQwTzhpWHZvekNHX3NpcGhDZEs5bGVFWGtYbVpKcm53cVE2Y0pkcDRRcWZKX29FUlRVbUtDUVZ2YmhuUWtMcU42QjZ0OEhBUHU?oc=5",
+      "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。"
     },
     {
       "id": "7a1cbd238439536602c6",
@@ -9803,9 +9877,9 @@
         "translated_at": "2026-11-19T16:07:22Z"
       },
       "review_disposition": "duplicate",
-      "review_note_zh": "同一政策事件的媒体转载，已由对应官方原始来源核验；无可确认的新法规事实。",
+      "review_note_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-20T07:34:13Z",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
       "duplicate_of": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en"
     },
     {
@@ -9843,11 +9917,12 @@
       "last_seen": "2026-11-21T00:19:32Z",
       "source_excerpt": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策 中国钢铁新闻网",
       "review_disposition": "blocked",
-      "review_note_zh": "行业专家CBAM观点仅有标题，缺原文访谈和具体论据，暂不转述其预测。",
+      "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-20T07:34:13Z",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
       "retry_after": "2026-11-27T00:00:00Z",
-      "review_coverage": "本轮仅有队列摘要及已有相关核验信息；未取得可证实新增变化的完整原始资料，未标source_checked。"
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yU3VZTU5NVGVRbmtvQnM2TkNNd0JSSFV6MWZJc29sRWF2UlRwRnUwUUJ3NFE2SlgzM0MxQUtxWUVoTzk0WmlQeHBDcDlmS05SMzhaaXQyc2tvNVY0Yk1IVW1COG9YbnZBWFdMVXlQcG9LZw?oc=5",
+      "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。"
     },
     {
       "id": "78e0502763fa103b16ef",
@@ -9884,13 +9959,13 @@
       "last_seen": "2026-11-20T00:56:53Z",
       "source_excerpt": "EU to extend CBAM to Norway and Iceland from January 2027 SteelOrbis",
       "review_disposition": "duplicate",
-      "review_note_zh": "同一政策事件的媒体转载，已由对应官方原始来源核验；无可确认的新法规事实。",
+      "review_note_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-20T07:34:13Z",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
       "duplicate_of": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en",
       "source_translation": {
         "title_zh": "欧盟将于2027年1月起把CBAM扩展至挪威和冰岛",
-        "translated_at": "2026-11-20T07:34:13Z",
+        "translated_at": "2026-11-20T19:30:56Z",
         "method": "editor_translation",
         "coverage": "标题翻译，不代表全文核验"
       }
@@ -9930,11 +10005,12 @@
       "last_seen": "2026-11-21T00:19:32Z",
       "source_excerpt": "关税和需求塑造 2026 年钢铁行业前景 blockchain.news",
       "review_disposition": "blocked",
-      "review_note_zh": "来源仅标题且未提供可验证的钢铁供需数据及原始研究，无法形成可靠业务研判。",
+      "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-20T07:34:13Z",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
       "retry_after": "2026-11-27T00:00:00Z",
-      "review_coverage": "本轮仅有队列摘要及已有相关核验信息；未取得可证实新增变化的完整原始资料，未标source_checked。"
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9raGFzR3Z3eFctMTIyVmM1QWkta01uVm9GcEVPcVUyVldjOWNQcUgxSHhHVHNEdHRIVE4tOVJaa1ZWSTZHeEozalM5MUh4YmlwVGVvOG1ySTgxT09CU1RVSEltSG9Fa0lIM2RzSFlobFpQUmtY?oc=5",
+      "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。"
     },
     {
       "id": "2398931d938e2d9666c7",
@@ -9979,9 +10055,9 @@
         "translated_at": "2026-11-19T16:07:23Z"
       },
       "review_disposition": "duplicate",
-      "review_note_zh": "同一政策事件的媒体转载，已由对应官方原始来源核验；无可确认的新法规事实。",
+      "review_note_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-20T07:34:13Z",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
       "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
     },
     {
@@ -10017,7 +10093,14 @@
       "translation_state": "pending",
       "first_seen": "2026-11-20T15:46:33Z",
       "last_seen": "2026-11-20T15:46:33Z",
-      "source_excerpt": "直面CBAM冲击，碳定价是产业必修课 ——美国开展欧盟CBAM产业影响分析带来的启示 钢铁网"
+      "source_excerpt": "直面CBAM冲击，碳定价是产业必修课 ——美国开展欧盟CBAM产业影响分析带来的启示 钢铁网",
+      "review_disposition": "blocked",
+      "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yVXJDWTVsLW50UmhBaUlNVEFWaTVqdHFrdkdRQzkweW9FbWVDR1RmWTVGTDV3MjJpUWZaQzN1U2JEVkx0MWh2Wm9nYVQ4b2dkbEdQVmQxaXlRUjAyS2NtcWh2amdzMVNQM2c?oc=5",
+      "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。"
     },
     {
       "id": "9b6af1ce4900e9eacec5",
@@ -10208,7 +10291,11 @@
       "translation_state": "pending",
       "first_seen": "2026-11-20T15:46:33Z",
       "last_seen": "2026-11-20T15:46:33Z",
-      "source_excerpt": "关键矿产日报：印尼硕石105万吨镍铁投产，矿企希望津巴布韦推迟锂矿出口禁令 钢铁网"
+      "source_excerpt": "关键矿产日报：印尼硕石105万吨镍铁投产，矿企希望津巴布韦推迟锂矿出口禁令 钢铁网",
+      "review_disposition": "excluded",
+      "review_note_zh": "新闻主题为锂矿/镍铁一般动态、集成电路出口或历史中澳铁矿石合作，不涉及本看板当前钢材贸易政策或可操作出口风险。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z"
     },
     {
       "id": "22f061cf816a006d8ed3",
@@ -10243,7 +10330,14 @@
       "translation_state": "pending",
       "first_seen": "2026-11-20T15:46:33Z",
       "last_seen": "2026-11-20T15:46:33Z",
-      "source_excerpt": "海关总署：10月中国主要机电产品进出口数据出炉 钢铁网"
+      "source_excerpt": "海关总署：10月中国主要机电产品进出口数据出炉 钢铁网",
+      "review_disposition": "blocked",
+      "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jR0xuZWV4VWFPZ2pCeVQtel9rYmlqVVI1S01PQmRZMEZaMi1WSnZ4akJzWmxkUlpuVUI5SnVudDlGRGxSMHM0ZHJfclVFT0NJdmx0c1dFRWF6QTN6VjEwa2duQy0xUXEwWWc?oc=5",
+      "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。"
     },
     {
       "id": "68491adb51a6448f4b32",
@@ -10278,7 +10372,11 @@
       "translation_state": "pending",
       "first_seen": "2026-11-20T15:46:33Z",
       "last_seen": "2026-11-20T15:46:33Z",
-      "source_excerpt": "海关总署：10月中国集成电路出口金额同比增126.2% 钢铁网"
+      "source_excerpt": "海关总署：10月中国集成电路出口金额同比增126.2% 钢铁网",
+      "review_disposition": "excluded",
+      "review_note_zh": "新闻主题为锂矿/镍铁一般动态、集成电路出口或历史中澳铁矿石合作，不涉及本看板当前钢材贸易政策或可操作出口风险。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z"
     },
     {
       "id": "639422b18795ed6ef2c1",
@@ -10490,7 +10588,14 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T15:49:02Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmxWOW5TNnIxTUxtLVNxbnkyLWNSNkRvQWpMY0ZNdDlHdnZhd0lETWYtb182QUFxVE5KcXBpekJ5VmE3a1RfUFFkVGlWOEV3WFRxS1RpcVZIdldobjRGSzJWNVVEUF9TYThoNVFTMC1PQlBnLWgzYXpnQ3I2cVUxTjljdXZyZw?oc=5",
+      "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。"
     },
     {
       "id": "2c9288b6f43f9b7b8971",
@@ -10799,7 +10904,11 @@
       "translation_state": "pending",
       "first_seen": "2026-11-20T15:46:33Z",
       "last_seen": "2026-11-20T15:46:33Z",
-      "source_excerpt": "澳大利亚出口的铁矿石助力中国成为世界第一大钢铁生产国，澳中合作旨在共同繁荣 中山网"
+      "source_excerpt": "澳大利亚出口的铁矿石助力中国成为世界第一大钢铁生产国，澳中合作旨在共同繁荣 中山网",
+      "review_disposition": "excluded",
+      "review_note_zh": "新闻主题为锂矿/镍铁一般动态、集成电路出口或历史中澳铁矿石合作，不涉及本看板当前钢材贸易政策或可操作出口风险。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z"
     },
     {
       "id": "9af2849f3f703687330b",
@@ -10979,7 +11088,14 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T15:49:03Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGpyTkFzREo0TzZMazFTY1NsSW5qTUdiOEgtWWxENXQzTXhweTJFc0ZpZF80OEp1czQtQVA4NUNkTV9Hbi1Ddm83dnhlbXE1SWNUUVlOR3BERXEzSENhd1Z0UmtobmgzTUVoUVIya1RVdWpMZlMtdnBneVgzODBHUWhjN01XZw?oc=5",
+      "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。"
     },
     {
       "id": "8d6012404249b15e1485",
@@ -11814,7 +11930,14 @@
       "translation_state": "pending",
       "first_seen": "2026-11-20T15:46:33Z",
       "last_seen": "2026-11-20T15:46:33Z",
-      "source_excerpt": "应对 CBAM 正式期大考，阳光慧碳如何构建出口企业碳合规闭环 碳索储能网"
+      "source_excerpt": "应对 CBAM 正式期大考，阳光慧碳如何构建出口企业碳合规闭环 碳索储能网",
+      "review_disposition": "blocked",
+      "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
+      "retry_after": "2026-11-27T00:00:00Z",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93OVZpUnNjMmZaaURVYXo2am05M0REb244WnpFZDZ3WkRPN0IzZHMtU1ZGd1JFU3h1YjdDc0tmYkpScURFcFNFQzFyQi1sUHNzTlUwTjlibzRXMV9FS0tZ?oc=5",
+      "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。"
     },
     {
       "id": "464cefd55769160a508b",
@@ -11894,14 +12017,15 @@
       "last_seen": "2026-11-19T21:00:18Z",
       "source_excerpt": "China Iron Ore Port Inventory Rises to 152.12 Mt by Mid-November 2026 - News and Statistics IndexBox",
       "review_disposition": "blocked",
-      "review_note_zh": "仅IndexBox RSS标题称铁矿石港存1.5212亿吨，缺原始统计口径、统计日及可核对数据，不把数字作为核实市场事实。",
+      "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-20T07:34:13Z",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
       "retry_after": "2026-11-27T00:00:00Z",
-      "review_coverage": "本轮仅有队列摘要及已有相关核验信息；未取得可证实新增变化的完整原始资料，未标source_checked。",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXI0NkI0ckVFQlVYeW9PRmgtWDdHWEJOQ25sTkZvaFdhbkp3X3lVT3JWR0tYa1F5WmFybi1xOEVTVE9OZ1h3VWZpNzVScFRDREx3cVhCNG1rSlBuY09VdWRrdk8zejFIbldEb0dQUFNIbzNCR1pWODFjRHpLbFpuTUNkcFJOQ0J2S1BfT0lEWUtIaV9jUE5wbFBRbFJhQlRBWEF0Ng?oc=5",
+      "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。",
       "source_translation": {
         "title_zh": "截至2026年11月中旬，中国港口铁矿石库存升至1.5212亿吨",
-        "translated_at": "2026-11-20T07:34:13Z",
+        "translated_at": "2026-11-20T19:30:56Z",
         "method": "editor_translation",
         "coverage": "标题翻译，不代表全文核验"
       }
@@ -12137,11 +12261,12 @@
         "translated_at": "2026-11-20T00:58:53Z"
       },
       "review_disposition": "blocked",
-      "review_note_zh": "相关历史主条已报道中国钢铁绿色进展，当前采集日期变化但缺新内容和原始数据，不以日期变化制造新事实。",
+      "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-20T07:34:13Z",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
       "retry_after": "2026-11-27T00:00:00Z",
-      "review_coverage": "本轮仅有队列摘要及已有相关核验信息；未取得可证实新增变化的完整原始资料，未标source_checked。"
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
+      "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。"
     },
     {
       "id": "6e6940de6bb0102ab0e7",
@@ -13111,12 +13236,12 @@
       "last_seen": "2026-11-16T18:09:20Z",
       "source_excerpt": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations Yeşil Ekonomi",
       "review_disposition": "blocked",
-      "review_note_zh": "土耳其钢铁出口商协会CBAM合作协议仅有媒体报道，原始签约公告、主体和实际效力仍未取得，不能称法规变化。",
+      "review_note_zh": "土耳其钢铁出口商协会CBAM合作协议的报道仅见聚合标题；本轮检索土耳其商务部等公开来源未找到可独立核验的协议正文、签约主体或义务内容。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-20T07:34:13Z",
-      "retry_after": "2026-11-27T00:00:00Z",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
+      "retry_after": "2026-11-23T00:00:00Z",
       "review_evidence_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
-      "review_coverage": "依据队列所附上次核验记录及合法公开来源线索复查，未取得新的官方原文证据；保持受阻，不标source_checked。",
+      "review_coverage": "2026-11-20复查原报道及可公开检索的主管机关官方替代入口，仍未取得足以核对具体法令、期限和适用范围的原文；保留有限事实，不标source_checked。",
       "source_translation": {
         "title_zh": "土耳其钢铁出口商协会签署CBAM合规合作协议",
         "translated_at": "2026-11-15",
@@ -14798,12 +14923,12 @@
       "last_seen": "2026-11-21T00:19:32Z",
       "source_excerpt": "埃及对涉华冷轧卷、镀锌卷和彩涂卷钢材产品作出反倾销终裁-我的钢铁网 综合资讯 钢材 建筑钢材 热轧 冷轧 中厚板 型钢 钢管 带钢 涂镀 硅钢 钢结构 不锈钢 废不锈钢 铬 镍 有色金属 铜 铝 铅 锌 锡 稀土 锑铋铟 锗镓硒 建筑材料 水泥 混凝土 砂石 矿渣粉 特钢 优特钢 工业线 工模具 金属制品 铁矿石 废钢 煤炭 焦炭 兰炭 铁合金 钢坯 生铁 耐材 海运 新能源 锂 镍 钴 锰 钒 锂电正极 锂电负极 锂电回收 工业硅 光伏材料 能源 原油 天然气 成品油 化工 烯烃 芳烃 甲醇 橡胶 天然橡胶 丁二烯 合成橡胶 农产品 主粮 杂粮 果蔬 棉业 油料 植物油 蛋白饲料 饲料添加剂 淀粉 糖 食品添加剂 猪 鸡 鸭 首页 宏观 大宗 前沿 下游 快讯 期货 专题 报告 数据 指数 当前位置： 综合资讯 > 钢材 > 正文 埃及对涉华冷轧卷、镀锌卷和彩涂卷钢材产品作出反倾销终裁 2026-11-02 15:25 来源：商务部贸易救济调查局 更多历史数据，上钢联数据 资讯监督…",
       "review_disposition": "blocked",
-      "review_note_zh": "埃及终止涉华CRC/GI/PPGI反倾销调查已有行业报道，埃及第7号公告原文仍缺，不能把保障措施与本案反倾销终止混为一谈。",
+      "review_note_zh": "埃及涉华冷轧、镀锌、彩涂反倾销调查终止仍缺少本次所述正式公告全文及涉案税号核对，不能把媒体标题当作新增法令。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-20T07:34:13Z",
-      "retry_after": "2026-11-27T00:00:00Z",
-      "review_evidence_url": "https://mesteel.com/news/ministry-closes-ad-probe-on-flat-steel-imports-without-duties",
-      "review_coverage": "依据队列所附上次核验记录及合法公开来源线索复查，未取得新的官方原文证据；保持受阻，不标source_checked。"
+      "review_attempted_at": "2026-11-20T19:30:56Z",
+      "retry_after": "2026-11-23T00:00:00Z",
+      "review_evidence_url": "https://news.mysteel.com/a/26110215/722BC206CFA1DEAD.html",
+      "review_coverage": "2026-11-20复查原报道及可公开检索的主管机关官方替代入口，仍未取得足以核对具体法令、期限和适用范围的原文；保留有限事实，不标source_checked。"
     },
     {
       "id": "be77005155c0816d4bff",
@@ -15201,12 +15326,12 @@
       "last_seen": "2026-11-21T00:19:32Z",
       "source_excerpt": "泰国对华预应力钢绞线启动反倾销调查-我的钢铁网 综合资讯 钢材 建筑钢材 热轧 冷轧 中厚板 型钢 钢管 带钢 涂镀 硅钢 钢结构 不锈钢 废不锈钢 铬 镍 有色金属 铜 铝 铅 锌 锡 稀土 锑铋铟 锗镓硒 建筑材料 水泥 混凝土 砂石 矿渣粉 特钢 优特钢 工业线 工模具 金属制品 铁矿石 废钢 煤炭 焦炭 兰炭 铁合金 钢坯 生铁 耐材 海运 新能源 锂 镍 钴 锰 钒 锂电正极 锂电负极 锂电回收 工业硅 光伏材料 能源 原油 天然气 成品油 化工 烯烃 芳烃 甲醇 橡胶 天然橡胶 丁二烯 合成橡胶 农产品 主粮 杂粮 果蔬 棉业 油料 植物油 蛋白饲料 饲料添加剂 淀粉 糖 食品添加剂 猪 鸡 鸭 首页 宏观 大宗 前沿 下游 快讯 期货 专题 报告 数据 指数 当前位置： 综合资讯 > 钢材 > 正文 泰国对华预应力钢绞线启动反倾销调查 2026-10-30 09:34 来源：商务部贸易救济调查局 更多历史数据，上钢联数据 资讯监督 智能摘要 内容由AI生成 2026年10…",
       "review_disposition": "blocked",
-      "review_note_zh": "泰国对华预应力钢绞线反倾销立案已有中国商务部转述，但泰国政府公报原文和30日意见窗口的准确起算仍未核实；存在临期风险，企业应立即向泰国主管机关或律师核实。",
+      "review_note_zh": "泰国对华预应力钢绞线调查仍缺少泰国主管机关正式立案公告及期限起算依据；不能从转载推定应诉截止日期。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-20T07:34:13Z",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
       "retry_after": "2026-11-23T00:00:00Z",
-      "review_evidence_url": "https://itpp.mofcom.gov.cn/article/hydt/wkhgong/jcl/jzcl/202611/26178.html",
-      "review_coverage": "依据队列所附上次核验记录及合法公开来源线索复查，未取得新的官方原文证据；保持受阻，不标source_checked。"
+      "review_evidence_url": "https://news.mysteel.com/a/26103009/E921E5CBA72B4D5E.html",
+      "review_coverage": "2026-11-20复查原报道及可公开检索的主管机关官方替代入口，仍未取得足以核对具体法令、期限和适用范围的原文；保留有限事实，不标source_checked。"
     },
     {
       "id": "3ee33b6d7eeeb081d71d",
