@@ -9790,6 +9790,19 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-21T14:58:45Z"
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "Petromindo 2026-11-20标题可在其矿业新闻目录核实，但Google News转引仅有标题，未取得报道正文或广新披露文件；无法核对具体投资金额、项目、持股关系与产能。保留市场产能线索，不将标题视为已核验事实。后续需合法获取Petromindo全文或企业公告。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-21T19:33:09Z",
+      "retry_after": "2026-11-28T19:33:09Z",
+      "review_evidence_url": "https://www.petromindo.com/news/category/minerals",
+      "review_coverage": "title_only",
+      "source_translation": {
+        "title_zh": "广新披露在印尼镍、钢铁领域的大规模投资及与青山集团的关联",
+        "translated_at": "2026-11-21T19:33:09Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {

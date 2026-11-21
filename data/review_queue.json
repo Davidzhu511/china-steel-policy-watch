@@ -2,34 +2,9 @@
   "schema_version": 2,
   "generated_at": "2026-11-21T14:57:00Z",
   "pending_count": 33,
-  "actionable_count": 1,
-  "blocked_count": 32,
-  "items": [
-    {
-      "id": "33459cdc9ca148f0653d",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZldMTGJZZU4teExlZDVtbTFYN1JELV9abEdqc3lacmpPUDJIbHd0NDRIa3U3S1E2ZXg3ZFVEcWx5dURWY0RoU1hLZ01XbkhKbzkxVEk4TVd0YlZ2djRhNVZSMlFvc1VSa3hkU1dOQk82ckk0Nmxfdm5vVG1CMEVyUXJ6ZldwZUZsVkRXbElhbnl5ekg1WmdYRXFTXzBZeVk1aW9ueUkyY0ZGT2RJWU5TWk9LY1Y1RE9XdGtZNkVzdTI?oc=5",
-      "published_at": "2026-11-20T00:10:35Z",
-      "title_original": "Guangxin discloses extensive Indonesia nickel, steel investments and Tsingshan links",
-      "first_seen": "2026-11-21T14:57:00Z",
-      "last_seen": "2026-11-21T14:57:00Z",
-      "source": {
-        "id": "rss",
-        "name": "Petromindo",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-20",
-      "source_excerpt": "Guangxin discloses extensive Indonesia nickel, steel investments and Tsingshan links Petromindo",
-      "needs_translation": false,
-      "title_zh": "广信披露了印度尼西亚大量的镍、钢和青山连结",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "10fd9a262f3cab4b",
-      "related_reviews": []
-    }
-  ],
+  "actionable_count": 0,
+  "blocked_count": 33,
+  "items": [],
   "blocked_items": [
     {
       "id": "931e0609ebb87acd8a73",
@@ -70,6 +45,36 @@
         }
       ],
       "retry_after": "2026-11-21T20:30:00Z",
+      "retry_policy": "scheduled"
+    },
+    {
+      "id": "33459cdc9ca148f0653d",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZldMTGJZZU4teExlZDVtbTFYN1JELV9abEdqc3lacmpPUDJIbHd0NDRIa3U3S1E2ZXg3ZFVEcWx5dURWY0RoU1hLZ01XbkhKbzkxVEk4TVd0YlZ2djRhNVZSMlFvc1VSa3hkU1dOQk82ckk0Nmxfdm5vVG1CMEVyUXJ6ZldwZUZsVkRXbElhbnl5ekg1WmdYRXFTXzBZeVk1aW9ueUkyY0ZGT2RJWU5TWk9LY1Y1RE9XdGtZNkVzdTI?oc=5",
+      "published_at": "2026-11-20T00:10:35Z",
+      "title_original": "Guangxin discloses extensive Indonesia nickel, steel investments and Tsingshan links",
+      "first_seen": "2026-11-21T14:57:00Z",
+      "last_seen": "2026-11-21T14:57:00Z",
+      "source": {
+        "id": "rss",
+        "name": "Petromindo",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "Petromindo 2026-11-20标题可在其矿业新闻目录核实，但Google News转引仅有标题，未取得报道正文或广新披露文件；无法核对具体投资金额、项目、持股关系与产能。保留市场产能线索，不将标题视为已核验事实。后续需合法获取Petromindo全文或企业公告。",
+      "review_evidence_url": "https://www.petromindo.com/news/category/minerals",
+      "review_coverage": "title_only",
+      "published_date": "2026-11-20",
+      "source_excerpt": "Guangxin discloses extensive Indonesia nickel, steel investments and Tsingshan links Petromindo",
+      "needs_translation": false,
+      "title_zh": "广新披露在印尼镍、钢铁领域的大规模投资及与青山集团的关联",
+      "review_attempted_at": "2026-11-21T19:33:09Z",
+      "evidence_fingerprint": "10fd9a262f3cab4b",
+      "related_reviews": [],
+      "retry_after": "2026-11-28T19:33:09Z",
       "retry_policy": "scheduled"
     },
     {
@@ -1025,5 +1030,5 @@
   ],
   "retry_items": [],
   "retry_due_count": 0,
-  "work_fingerprint": "e1be04cfcd4be9819f55"
+  "work_fingerprint": "4f53cda18c2baa0c0354"
 }

@@ -9,13 +9,13 @@
   "verified_items": 308,
   "pending_analysis": 33,
   "pending_translation": 0,
-  "blocked_items": 32,
-  "actionable_count": 1,
-  "blocked_count": 32,
+  "blocked_items": 33,
+  "actionable_count": 0,
+  "blocked_count": 33,
   "retry_due_count": 0,
   "pending_machine_translation": 0,
   "chinese_title_coverage": 100.0,
-  "oldest_actionable_hours": 0.0,
+  "oldest_actionable_hours": 0,
   "offline_translation": {
     "status": "available",
     "translated": 1,
@@ -107,5 +107,5 @@
   ],
   "warnings": [],
   "translation_updated_at": "2026-11-21T14:58:45Z",
-  "editorial_updated_at": "2026-11-21T14:59:07Z"
+  "editorial_updated_at": "2026-11-21T19:34:25Z"
 }
