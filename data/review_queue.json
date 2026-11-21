@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-20T20:46:43Z",
-  "pending_count": 56,
-  "actionable_count": 36,
+  "generated_at": "2026-11-21T00:19:32Z",
+  "pending_count": 57,
+  "actionable_count": 37,
   "blocked_count": 20,
   "items": [
     {
@@ -11,7 +11,7 @@
       "published_at": "2026-11-20T00:00:00Z",
       "title_original": "Certain Carbon and Alloy Steel Cut-to-Length Plate From France: Final Results of Antidumping Duty Administrative Review; 2024-2025",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "federal_register",
         "name": "U.S. Federal Register / 美国联邦公报",
@@ -52,7 +52,7 @@
       "published_at": "2026-11-19T16:34:00Z",
       "title_original": "CBAM declarations",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "ec_have_your_say",
         "name": "EC Have Your Say / 欧盟公众咨询",
@@ -93,7 +93,7 @@
       "published_at": "2026-11-20T00:00:00Z",
       "title_original": "Negotiations finalised to link EU and UK Emissions Trading Systems",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG CLIMA · EU ETS",
@@ -117,7 +117,7 @@
       "published_at": "2026-11-20T00:00:00Z",
       "title_original": "UK-EU ETS linking agreement: explainer",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "govuk",
         "name": "GOV.UK / 英国政府",
@@ -141,7 +141,7 @@
       "published_at": "2026-11-20T00:00:00Z",
       "title_original": "Participating in the UK Emissions Trading Scheme (UK ETS)",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "govuk",
         "name": "GOV.UK / 英国政府",
@@ -178,7 +178,7 @@
       "published_at": "2026-11-20T00:00:00Z",
       "title_original": "UK Emissions Trading Scheme (UK ETS): technical guidance and tools",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "govuk",
         "name": "GOV.UK / 英国政府",
@@ -209,7 +209,7 @@
       "published_at": "2026-11-19T00:00:00Z",
       "title_original": "New measure imposed on hot-rolled steel plate from South Korea",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "govuk",
         "name": "GOV.UK / 英国政府",
@@ -264,7 +264,7 @@
       "published_at": "2026-11-18T00:00:00Z",
       "title_original": "Extension of CBAM to Iceland and Norway",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG TAXUD · CBAM News",
@@ -288,7 +288,7 @@
       "published_at": "2026-11-19T00:00:00Z",
       "title_original": "Check the default values for the Carbon Border Adjustment Mechanism (CBAM)",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "govuk",
         "name": "GOV.UK / 英国政府",
@@ -325,7 +325,7 @@
       "published_at": "2026-11-19T00:00:00Z",
       "title_original": "Getting the emissions intensity when importing Carbon Border Adjustment Mechanism (CBAM) goods",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "govuk",
         "name": "GOV.UK / 英国政府",
@@ -362,7 +362,7 @@
       "published_at": "2026-11-20T00:00:00Z",
       "title_original": "Taking part in the UK Emissions Trading Scheme markets",
       "first_seen": "2026-10-13T08:02:09Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "govuk",
         "name": "GOV.UK / 英国政府",
@@ -393,7 +393,7 @@
       "published_at": "2026-11-20T00:00:00Z",
       "title_original": "UK Emissions Trading Scheme (UK ETS): policy overview",
       "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "govuk",
         "name": "GOV.UK / 英国政府",
@@ -419,12 +419,36 @@
       ]
     },
     {
+      "id": "cb2c35f096255a55b199",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmhmRnF0X29Xb3dqS04weU9sS3JIbzA1NUY0VFc4RUNsLV9kbldZSHNYTzhfRkpKOFpLaVA0aFlmWGF0WFF3Sk80UC1LWXFqNW5vWURXeFQxcVExRTF5dmI1ejY5ZlVwWlUyYkZBRjlhQ0VpMGNuaDlSTVJVdmVKMllVQXVoZ2d2ckVDRDVfQk1zdFVQZ1VtVFcyYlY2dw?oc=5",
+      "published_at": "2026-11-20T07:58:28Z",
+      "title_original": "UK imposes anti-dumping duty on steel plate from South Korea",
+      "first_seen": "2026-11-21T00:19:32Z",
+      "last_seen": "2026-11-21T00:19:32Z",
+      "source": {
+        "id": "rss",
+        "name": "SteelRadar",
+        "kind": "news",
+        "official": false
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-20",
+      "source_excerpt": "UK imposes anti-dumping duty on steel plate from South Korea SteelRadar",
+      "needs_translation": true,
+      "title_zh": "UK imposes anti-dumping duty on steel plate from South Korea",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "db08d0d9e28ae0b7",
+      "related_reviews": []
+    },
+    {
       "id": "d45766ca1ab5de9a6cd1",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnAwM3hVZmFmaEluZW1veE5NcHJNQkVQRUJkMGIzbjh0M1QtdjNZY1dVMk1BaGFVcjFYLWxBYmZHRjcwRzZXZ0s0T2dsQ2xkdmYzMVljWE5jUU5WR2o0d3NFRnFkNHh4S2F5T3dUT3hnNktNbTFJTkl6OHdSM2lRVlJvNDBHV0lsY3BMaHQzMGRqeUZLT0JMdF9IbTNjRFpRV1NGR0JXcHdFTGg0LTUydGZEbFAxMjRHcW82bg?oc=5",
       "published_at": "2026-11-20T10:56:03Z",
       "title_original": "Steel on the Border: Trade exposure and the implications of UK and EU CBAM for UK Steel",
       "first_seen": "2026-11-20T20:46:43Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "rss",
         "name": "Energy & Climate Intelligence Unit | ECIU",
@@ -448,7 +472,7 @@
       "published_at": "2026-11-20T10:32:10Z",
       "title_original": "拉美钢铁进口增长46.1%至7200万吨，中国份额升至39% - 新闻和统计",
       "first_seen": "2026-11-20T20:46:43Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -496,7 +520,7 @@
       "published_at": "2026-11-16T02:35:00Z",
       "title_original": "What is CBAM, the EU's carbon border tax, and who pays it from 2026?",
       "first_seen": "2026-11-20T20:46:43Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "rss",
         "name": "CEO경제신문",
@@ -520,7 +544,7 @@
       "published_at": "2026-11-20T13:24:30Z",
       "title_original": "Comment: UK-EU ETS Linkage",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-20T15:46:33Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "rss",
         "name": "Energy & Climate Intelligence Unit | ECIU",
@@ -544,7 +568,7 @@
       "published_at": "2026-11-20T02:16:00Z",
       "title_original": "[UK Imposes New Anti-dumping Measure on Hot-rolled Steel Plate from South Korea]",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "rss",
         "name": "Shanghai Metals Market",
@@ -695,7 +719,7 @@
       "published_at": "2026-11-17T11:06:13Z",
       "title_original": "SKF and Baowu Partner on Lower-Carbon Steel Innovation",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "rss",
         "name": "Wisevoter",
@@ -839,7 +863,7 @@
       "published_at": "2026-11-19T09:04:00Z",
       "title_original": "EU extends CBAM to Iceland and Norway from 2027",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "rss",
         "name": "Shanghai Metals Market",
@@ -863,7 +887,7 @@
       "published_at": "2026-11-19T08:36:00Z",
       "title_original": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "rss",
         "name": "中国钢铁新闻网",
@@ -911,7 +935,7 @@
       "published_at": "2026-11-19T06:31:12Z",
       "title_original": "关税和需求塑造 2026 年钢铁行业前景",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "rss",
         "name": "blockchain.news",
@@ -935,7 +959,7 @@
       "published_at": "2026-11-19T05:19:52Z",
       "title_original": "EU imposes 16% anti-dumping duty on Vietnam steel",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "rss",
         "name": "IntelliNews",
@@ -959,7 +983,7 @@
       "published_at": "2026-11-14T08:00:00Z",
       "title_original": "Steel sector sees green milestone",
       "first_seen": "2026-11-13T14:56:04Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "rss",
         "name": "China Daily Global Edition",
@@ -992,7 +1016,7 @@
       "published_at": "2026-11-17T23:00:00Z",
       "title_original": "Commission Implementing Regulation (EU) 2026/2538 of 17 November 2026 correcting Implementing Regulation (EU) 2025/1919 imposing a definitive anti-dumping duty and definitively collecting the provisional duty imposed on imports of certain hot-rolled flat products of iron, non-alloy or other alloy steel originating in Egypt, Japan and Vietnam, and terminating the investigation on imports thereof originating in India",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "eurlex",
         "name": "EUR-Lex / 欧盟官方公报",
@@ -1033,7 +1057,7 @@
       "published_at": "2026-11-18T10:00:49Z",
       "title_original": "Official publication: Commission corrects name of Japanese steel producer subject to anti-dumping duties",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "rss",
         "name": "EU Law Live",
@@ -1063,7 +1087,7 @@
       "published_at": "2026-11-18T03:03:00Z",
       "title_original": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9%",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "rss",
         "name": "钢铁网",
@@ -1122,7 +1146,7 @@
       "published_at": "2026-11-16T12:12:51Z",
       "title_original": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus",
       "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "rss",
         "name": "GMK Center",
@@ -1313,7 +1337,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -1343,7 +1367,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -1655,7 +1679,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -1685,7 +1709,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -1711,5 +1735,5 @@
     }
   ],
   "retry_due_count": 3,
-  "work_fingerprint": "33c1131c80967fd106cd"
+  "work_fingerprint": "3d8f110eda3f1894dce1"
 }
