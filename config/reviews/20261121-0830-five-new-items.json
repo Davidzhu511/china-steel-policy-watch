@@ -44,7 +44,7 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmhmRnF0X29Xb3dqS04weU9sS3JIbzA1NUY0VFc4RUNsLV9kbldZSHNYTzhfRkpKOFpLaVA0aFlmWGF0WFF3Sk80UC1LWXFqNW5vWURXeFQxcVExRTF5dmI1ejY5ZlVwWlUyYkZBRjlhQ0VpMGNuaDlSTVJVdmVKMllVQXVoZ2d2ckVDRDVfQk1zdFVQZ1VtVFcyYlY2dw?oc=5",
       "published_date": "2026-11-20",
       "decision": "duplicate",
-      "duplicate_of": "https://www.gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea",
+      "duplicate_of": "https://gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea",
       "reason_zh": "SteelRadar转述英国对韩国热轧中厚板终裁，事件与英国TRA已核验的11月19日官方新闻一致，无新的独立税率或范围变化。",
       "attempted_at": "2026-11-21T07:30:07Z",
       "coverage": "核对RSS标题与英国TRA官方公告（2026-11-19），确认同一事件；未取得SteelRadar独立正文，不声称核对其全文。",
@@ -63,7 +63,7 @@
     {
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfLW9lZmZsVjFUdjRsVlhGaWRIS1lUWFdHVzhuT016Nnc3NnNpbHRQRTFuaDYtUWNUZkNuS2oyTWIwVjdOX0ZfQXk0eE9xRk9TM0VNaHlsMUJFdTdISmVSWnktMU9qRXF0bnpCN2M1N0FmdEFyUUxqcGtnZXlVZw?oc=5",
       "published_date": "2026-11-16",
-      "decision": "irrelevant",
+      "decision": "excluded",
       "reason_zh": "一般性CBAM入门解释，无可识别的新法规、截止日期或出口业务增量事实；不因标题涉及CBAM就重复发布。",
       "attempted_at": "2026-11-21T07:30:07Z",
       "coverage": "RSS仅提供标题及媒体名，未取得新官方条文或具体新事实；此处仅判定本轮新闻增量价值，不把文章内容标为已核验。",
