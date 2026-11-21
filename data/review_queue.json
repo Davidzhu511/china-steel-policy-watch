@@ -1,10 +1,35 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-21T14:57:00Z",
-  "pending_count": 33,
-  "actionable_count": 0,
+  "generated_at": "2026-11-21T19:50:44Z",
+  "pending_count": 34,
+  "actionable_count": 1,
   "blocked_count": 33,
-  "items": [],
+  "items": [
+    {
+      "id": "3542915891471a5bb81a",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmd6R2FqOGhGcE9zbE1ZZVB5VlY1eWQ2VnRoRVhzZ1RYM3FyQjgzSTVLakpXc1dYeEpfNVVGOUVDc1lyemhiMVZ6ZXg2WklqV09qUDRjZFVvOWhLc0J4MGpmOVFjTFk3NElTVTRLWGdVQmNHR2xlSTVnbXozS2V3SkRhUktWSTc3dUNON1Y2U1NMYVg3RzhsMQ?oc=5",
+      "published_at": "2026-11-16T11:44:14Z",
+      "title_original": "Where extending the EU’s carbon border adjustment mechanism does – and does not – make sense",
+      "first_seen": "2026-11-21T19:50:44Z",
+      "last_seen": "2026-11-21T19:50:44Z",
+      "source": {
+        "id": "rss",
+        "name": "Centre for European Reform (CER)",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "Where extending the EU’s carbon border adjustment mechanism does – and does not – make sense Centre for European Reform (CER)",
+      "needs_translation": true,
+      "title_zh": "Where extending the EU’s carbon border adjustment mechanism does – and does not – make sense",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "4b936cda3cb5831d",
+      "related_reviews": []
+    }
+  ],
   "blocked_items": [
     {
       "id": "931e0609ebb87acd8a73",
@@ -12,7 +37,7 @@
       "published_at": "2026-11-17T23:00:00Z",
       "title_original": "Commission Implementing Regulation (EU) 2026/2538 of 17 November 2026 correcting Implementing Regulation (EU) 2025/1919 imposing a definitive anti-dumping duty and definitively collecting the provisional duty imposed on imports of certain hot-rolled flat products of iron, non-alloy or other alloy steel originating in Egypt, Japan and Vietnam, and terminating the investigation on imports thereof originating in India",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-21T14:57:00Z",
+      "last_seen": "2026-11-21T19:50:44Z",
       "source": {
         "id": "eurlex",
         "name": "EUR-Lex / 欧盟官方公报",
@@ -53,7 +78,7 @@
       "published_at": "2026-11-20T00:10:35Z",
       "title_original": "Guangxin discloses extensive Indonesia nickel, steel investments and Tsingshan links",
       "first_seen": "2026-11-21T14:57:00Z",
-      "last_seen": "2026-11-21T14:57:00Z",
+      "last_seen": "2026-11-21T19:50:44Z",
       "source": {
         "id": "rss",
         "name": "Petromindo",
@@ -113,7 +138,7 @@
       "published_at": "2026-11-20T13:24:30Z",
       "title_original": "Comment: UK-EU ETS Linkage",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-21T14:57:00Z",
+      "last_seen": "2026-11-21T19:50:44Z",
       "source": {
         "id": "rss",
         "name": "Energy & Climate Intelligence Unit | ECIU",
@@ -143,7 +168,7 @@
       "published_at": "2026-11-19T16:18:46Z",
       "title_original": "UK CBAM to cost far less than EU's for most importers, raising re-routing risk as ETS link nears",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-20T15:46:33Z",
+      "last_seen": "2026-11-21T19:50:44Z",
       "source": {
         "id": "rss",
         "name": "Fastmarkets",
@@ -233,7 +258,7 @@
       "published_at": "2026-11-17T11:06:13Z",
       "title_original": "SKF and Baowu Partner on Lower-Carbon Steel Innovation",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-21T14:57:00Z",
+      "last_seen": "2026-11-21T19:50:44Z",
       "source": {
         "id": "rss",
         "name": "Wisevoter",
@@ -353,7 +378,7 @@
       "published_at": "2026-11-19T08:36:00Z",
       "title_original": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-21T14:57:00Z",
+      "last_seen": "2026-11-21T19:50:44Z",
       "source": {
         "id": "rss",
         "name": "中国钢铁新闻网",
@@ -383,7 +408,7 @@
       "published_at": "2026-11-19T06:31:12Z",
       "title_original": "关税和需求塑造 2026 年钢铁行业前景",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-21T14:57:00Z",
+      "last_seen": "2026-11-21T19:50:44Z",
       "source": {
         "id": "rss",
         "name": "blockchain.news",
@@ -443,7 +468,7 @@
       "published_at": "2026-11-18T03:03:00Z",
       "title_original": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9%",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-21T14:57:00Z",
+      "last_seen": "2026-11-21T19:50:44Z",
       "source": {
         "id": "rss",
         "name": "钢铁网",
@@ -502,7 +527,7 @@
       "published_at": "2026-11-16T12:12:51Z",
       "title_original": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus",
       "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-21T14:57:00Z",
+      "last_seen": "2026-11-21T19:50:44Z",
       "source": {
         "id": "rss",
         "name": "GMK Center",
@@ -730,7 +755,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-21T14:57:00Z",
+      "last_seen": "2026-11-21T19:50:44Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -760,7 +785,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-21T14:57:00Z",
+      "last_seen": "2026-11-21T19:50:44Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -1030,5 +1055,5 @@
   ],
   "retry_items": [],
   "retry_due_count": 0,
-  "work_fingerprint": "4f53cda18c2baa0c0354"
+  "work_fingerprint": "210a760572ae741c0362"
 }
