@@ -1,10 +1,35 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-21T00:19:32Z",
-  "pending_count": 32,
-  "actionable_count": 0,
+  "generated_at": "2026-11-21T14:57:00Z",
+  "pending_count": 33,
+  "actionable_count": 1,
   "blocked_count": 32,
-  "items": [],
+  "items": [
+    {
+      "id": "33459cdc9ca148f0653d",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZldMTGJZZU4teExlZDVtbTFYN1JELV9abEdqc3lacmpPUDJIbHd0NDRIa3U3S1E2ZXg3ZFVEcWx5dURWY0RoU1hLZ01XbkhKbzkxVEk4TVd0YlZ2djRhNVZSMlFvc1VSa3hkU1dOQk82ckk0Nmxfdm5vVG1CMEVyUXJ6ZldwZUZsVkRXbElhbnl5ekg1WmdYRXFTXzBZeVk1aW9ueUkyY0ZGT2RJWU5TWk9LY1Y1RE9XdGtZNkVzdTI?oc=5",
+      "published_at": "2026-11-20T00:10:35Z",
+      "title_original": "Guangxin discloses extensive Indonesia nickel, steel investments and Tsingshan links",
+      "first_seen": "2026-11-21T14:57:00Z",
+      "last_seen": "2026-11-21T14:57:00Z",
+      "source": {
+        "id": "rss",
+        "name": "Petromindo",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-20",
+      "source_excerpt": "Guangxin discloses extensive Indonesia nickel, steel investments and Tsingshan links Petromindo",
+      "needs_translation": true,
+      "title_zh": "Guangxin discloses extensive Indonesia nickel, steel investments and Tsingshan links",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "10fd9a262f3cab4b",
+      "related_reviews": []
+    }
+  ],
   "blocked_items": [
     {
       "id": "931e0609ebb87acd8a73",
@@ -12,7 +37,7 @@
       "published_at": "2026-11-17T23:00:00Z",
       "title_original": "Commission Implementing Regulation (EU) 2026/2538 of 17 November 2026 correcting Implementing Regulation (EU) 2025/1919 imposing a definitive anti-dumping duty and definitively collecting the provisional duty imposed on imports of certain hot-rolled flat products of iron, non-alloy or other alloy steel originating in Egypt, Japan and Vietnam, and terminating the investigation on imports thereof originating in India",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-21T00:19:32Z",
+      "last_seen": "2026-11-21T14:57:00Z",
       "source": {
         "id": "eurlex",
         "name": "EUR-Lex / 欧盟官方公报",
@@ -53,7 +78,7 @@
       "published_at": "2026-11-20T10:56:03Z",
       "title_original": "Steel on the Border: Trade exposure and the implications of UK and EU CBAM for UK Steel",
       "first_seen": "2026-11-20T20:46:43Z",
-      "last_seen": "2026-11-21T00:19:32Z",
+      "last_seen": "2026-11-21T14:57:00Z",
       "source": {
         "id": "rss",
         "name": "Energy & Climate Intelligence Unit | ECIU",
@@ -83,7 +108,7 @@
       "published_at": "2026-11-20T13:24:30Z",
       "title_original": "Comment: UK-EU ETS Linkage",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-21T00:19:32Z",
+      "last_seen": "2026-11-21T14:57:00Z",
       "source": {
         "id": "rss",
         "name": "Energy & Climate Intelligence Unit | ECIU",
@@ -203,7 +228,7 @@
       "published_at": "2026-11-17T11:06:13Z",
       "title_original": "SKF and Baowu Partner on Lower-Carbon Steel Innovation",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-21T00:19:32Z",
+      "last_seen": "2026-11-21T14:57:00Z",
       "source": {
         "id": "rss",
         "name": "Wisevoter",
@@ -323,7 +348,7 @@
       "published_at": "2026-11-19T08:36:00Z",
       "title_original": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-21T00:19:32Z",
+      "last_seen": "2026-11-21T14:57:00Z",
       "source": {
         "id": "rss",
         "name": "中国钢铁新闻网",
@@ -353,7 +378,7 @@
       "published_at": "2026-11-19T06:31:12Z",
       "title_original": "关税和需求塑造 2026 年钢铁行业前景",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-21T00:19:32Z",
+      "last_seen": "2026-11-21T14:57:00Z",
       "source": {
         "id": "rss",
         "name": "blockchain.news",
@@ -383,7 +408,7 @@
       "published_at": "2026-11-18T10:00:49Z",
       "title_original": "Official publication: Commission corrects name of Japanese steel producer subject to anti-dumping duties",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-21T00:19:32Z",
+      "last_seen": "2026-11-21T14:57:00Z",
       "source": {
         "id": "rss",
         "name": "EU Law Live",
@@ -413,7 +438,7 @@
       "published_at": "2026-11-18T03:03:00Z",
       "title_original": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9%",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-21T00:19:32Z",
+      "last_seen": "2026-11-21T14:57:00Z",
       "source": {
         "id": "rss",
         "name": "钢铁网",
@@ -472,7 +497,7 @@
       "published_at": "2026-11-16T12:12:51Z",
       "title_original": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus",
       "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-21T00:19:32Z",
+      "last_seen": "2026-11-21T14:57:00Z",
       "source": {
         "id": "rss",
         "name": "GMK Center",
@@ -700,7 +725,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-21T00:19:32Z",
+      "last_seen": "2026-11-21T14:57:00Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -730,7 +755,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-21T00:19:32Z",
+      "last_seen": "2026-11-21T14:57:00Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -1000,5 +1025,5 @@
   ],
   "retry_items": [],
   "retry_due_count": 0,
-  "work_fingerprint": "4f53cda18c2baa0c0354"
+  "work_fingerprint": "e1be04cfcd4be9819f55"
 }
