@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-21T00:19:32Z",
-  "pending_count": 49,
-  "actionable_count": 27,
-  "blocked_count": 22,
+  "pending_count": 48,
+  "actionable_count": 23,
+  "blocked_count": 25,
   "items": [
     {
       "id": "cd1ee1b3887442f061f0",
@@ -43,47 +43,6 @@
           "published_at": "2026-11-05T00:00:00Z",
           "title_zh": "大韩民国的某些切到链的碳质量钢板:反补贴税行政审查的最后结果;2024",
           "evidence_url": "https://federalregister.gov/documents/2026/11/05/2026-22626/certain-cut-to-length-carbon-quality-steel-plate-from-the-republic-of-korea-final-results-of"
-        }
-      ]
-    },
-    {
-      "id": "e290e2a48385ffcb5632",
-      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16932-CBAM-declarations_en",
-      "published_at": "2026-11-19T16:34:00Z",
-      "title_original": "CBAM declarations",
-      "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-21T00:19:32Z",
-      "source": {
-        "id": "ec_have_your_say",
-        "name": "EC Have Your Say / 欧盟公众咨询",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "公开征求意见中",
-        "en": "Consultation open"
-      },
-      "translation_state": "pending",
-      "consultation": {
-        "status": "OPEN",
-        "stage": "ISC_WORKFLOW",
-        "opens_at": "2026-11-19T16:34:00Z",
-        "closes_at": "2026-12-17T23:59:59Z"
-      },
-      "published_date": "2026-11-19",
-      "source_excerpt": "Pursuant to Article 6(6) of the CBAM Regulation, the Commission is empowered to adopt implementing acts as regards to the establishment of the CBAM declarations. This implementing act will set out rules on the standard format of the CBAM declaration, including detailed information, the procedure for submitting the CBAM declaration via the CBAM registry and the arrangements for surrendering the CBAM certificates. Feedback status: OPEN. Feedback period: 2026-11-19T16:34:00Z to 2026-12-17T23:59:59Z. Topics: Customs, Taxation. Type of act: REG_IMPL. Reference: Ares(2026)1634728.",
-      "needs_translation": true,
-      "title_zh": "CBAM declarations",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "5cf170f13b28c956",
-      "related_reviews": [
-        {
-          "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16932-CBAM-declarations_en",
-          "published_at": "2026-02-19T11:08:31Z",
-          "title_zh": "CBAM申报格式倡议：标准表格、登记册提交及证书清缴规则待细化",
-          "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/16932"
         }
       ]
     },
@@ -433,6 +392,12 @@
       "evidence_fingerprint": "16ed43088f09272f",
       "related_reviews": [
         {
+          "url": "https://gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea",
+          "published_at": "2026-11-19T00:00:00Z",
+          "title_zh": "英国对韩国热轧中厚板实施最终反倾销措施：仅覆盖宽度不超过2100毫米产品",
+          "evidence_url": "https://www.gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea"
+        },
+        {
           "url": "https://gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping",
           "published_at": "2026-11-18T00:00:00Z",
           "title_zh": "英国对韩国热轧中厚板实施最终反倾销税：现代7.04%、浦项12.19%，宽度超过2100毫米为0%",
@@ -655,85 +620,6 @@
       "review_attempted_at": "",
       "evidence_fingerprint": "0e9d4e8fb35d7aab",
       "related_reviews": []
-    },
-    {
-      "id": "616ec180d6e784bf87b6",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnVCNHhpcmowUDRTQldWVDNlQkVkLVpjejZacXJOMDN1Nm1FWklnYU03Y1JfU3BYdTBiQVl2RVdraGdEdjZGQ0pZRlpoMVF0U1lvUU9GYmRTekVObDVJemZ4cTB6S3lCTTZTXzU1Rl9fWFl1UEhUenhRQ2s2ZUxCcWI2UDVMLVdhT0V1S1Jpcjd3bk5qa3lPNDNRWF8?oc=5",
-      "published_at": "2026-11-19T16:24:35Z",
-      "title_original": "UK applies anti-dumping duties to South Korean hot-rolled steel plate imports",
-      "first_seen": "2026-11-20T00:56:53Z",
-      "last_seen": "2026-11-20T00:56:53Z",
-      "source": {
-        "id": "rss",
-        "name": "Traders Union",
-        "kind": "news",
-        "official": false
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-19",
-      "source_excerpt": "UK applies anti-dumping duties to South Korean hot-rolled steel plate imports Traders Union",
-      "needs_translation": false,
-      "title_zh": "联合王国对韩国的热轧钢板块进口征收反倾销税",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "58e608bdece8367e",
-      "related_reviews": []
-    },
-    {
-      "id": "764a0e5e8808d576158f",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXI0NkI0ckVFQlVYeW9PRmgtWDdHWEJOQ25sTkZvaFdhbkp3X3lVT3JWR0tYa1F5WmFybi1xOEVTVE9OZ1h3VWZpNzVScFRDREx3cVhCNG1rSlBuY09VdWRrdk8zejFIbldEb0dQUFNIbzNCR1pWODFjRHpLbFpuTUNkcFJOQ0J2S1BfT0lEWUtIaV9jUE5wbFBRbFJhQlRBWEF0Ng?oc=5",
-      "published_at": "2026-11-16T00:20:27Z",
-      "title_original": "China Iron Ore Port Inventory Rises to 152.12 Mt by Mid-November 2026",
-      "first_seen": "2026-11-19T21:00:18Z",
-      "last_seen": "2026-11-19T21:00:18Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "China Iron Ore Port Inventory Rises to 152.12 Mt by Mid-November 2026 - News and Statistics IndexBox",
-      "needs_translation": true,
-      "title_zh": "China Iron Ore Port Inventory Rises to 152.12 Mt by Mid-November 2026",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "0eea8db9754afcea",
-      "related_reviews": []
-    },
-    {
-      "id": "707bf3a1636a45887b23",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
-      "published_at": "2026-11-14T08:00:00Z",
-      "title_original": "Steel sector sees green milestone",
-      "first_seen": "2026-11-13T14:56:04Z",
-      "last_seen": "2026-11-21T00:19:32Z",
-      "source": {
-        "id": "rss",
-        "name": "China Daily Global Edition",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-14",
-      "source_excerpt": "Steel sector sees green milestone China Daily Global Edition",
-      "needs_translation": false,
-      "title_zh": "钢铁部门看到绿色的里程碑",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "4ac92c8bc73a60dc",
-      "related_reviews": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
-          "published_at": "2026-11-13T00:00:00Z",
-          "title_zh": "中国日报报道钢铁节能进展：行业数据不能替代产品碳排放证据",
-          "evidence_url": "https://www.chinadaily.com.cn/a/202611/13/WS6af679cce4b03ebf8519c384.html"
-        }
-      ]
     }
   ],
   "blocked_items": [
@@ -779,6 +665,71 @@
       "retry_policy": "scheduled"
     },
     {
+      "id": "027883d386b8e29298bb-2026-11-19",
+      "url": "https://gov.uk/government/collections/uk-emissions-trading-scheme-uk-ets-technical-guidance-and-tools",
+      "published_at": "2026-11-19T00:00:00Z",
+      "title_original": "UK Emissions Trading Scheme (UK ETS): technical guidance and tools",
+      "first_seen": "2026-11-19T16:05:25Z",
+      "last_seen": "2026-11-20T00:56:53Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "英国ETS技术指南集合页，队列摘录未表明本次新增具体制度变化；保留观察，需逐页比较更新日志。",
+      "review_coverage": "本轮仅有队列摘要及已有相关核验信息；未取得可证实新增变化的完整原始资料，未标source_checked。",
+      "published_date": "2026-11-19",
+      "source_excerpt": "Technical guidance, emission factors, and reporting templates to help installations and aircraft operators understand and comply with their obligations under the scheme.",
+      "needs_translation": false,
+      "title_zh": "联合王国排放量交易计划(UK ETS):技术指导和工具",
+      "review_attempted_at": "2026-11-20T07:34:13Z",
+      "evidence_fingerprint": "a2fc0c471d8f719b",
+      "related_reviews": [
+        {
+          "url": "https://gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
+          "published_at": "2026-10-21T00:00:00Z",
+          "title_zh": "英国ETS政策总览更新：2027年拍卖保留价调整为£29.01",
+          "evidence_url": "https://www.gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview/uk-emissions-trading-scheme-uk-ets-a-policy-overview"
+        }
+      ],
+      "retry_after": "2026-11-27T00:00:00Z",
+      "retry_policy": "scheduled"
+    },
+    {
+      "id": "764a0e5e8808d576158f",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXI0NkI0ckVFQlVYeW9PRmgtWDdHWEJOQ25sTkZvaFdhbkp3X3lVT3JWR0tYa1F5WmFybi1xOEVTVE9OZ1h3VWZpNzVScFRDREx3cVhCNG1rSlBuY09VdWRrdk8zejFIbldEb0dQUFNIbzNCR1pWODFjRHpLbFpuTUNkcFJOQ0J2S1BfT0lEWUtIaV9jUE5wbFBRbFJhQlRBWEF0Ng?oc=5",
+      "published_at": "2026-11-16T00:20:27Z",
+      "title_original": "China Iron Ore Port Inventory Rises to 152.12 Mt by Mid-November 2026",
+      "first_seen": "2026-11-19T21:00:18Z",
+      "last_seen": "2026-11-19T21:00:18Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "仅IndexBox RSS标题称铁矿石港存1.5212亿吨，缺原始统计口径、统计日及可核对数据，不把数字作为核实市场事实。",
+      "review_coverage": "本轮仅有队列摘要及已有相关核验信息；未取得可证实新增变化的完整原始资料，未标source_checked。",
+      "published_date": "2026-11-16",
+      "source_excerpt": "China Iron Ore Port Inventory Rises to 152.12 Mt by Mid-November 2026 - News and Statistics IndexBox",
+      "needs_translation": false,
+      "title_zh": "截至2026年11月中旬，中国港口铁矿石库存升至1.5212亿吨",
+      "review_attempted_at": "2026-11-20T07:34:13Z",
+      "evidence_fingerprint": "0eea8db9754afcea",
+      "related_reviews": [],
+      "retry_after": "2026-11-27T00:00:00Z",
+      "retry_policy": "scheduled"
+    },
+    {
       "id": "cce9ff3d2b26b588d649",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yU3VZTU5NVGVRbmtvQnM2TkNNd0JSSFV6MWZJc29sRWF2UlRwRnUwUUJ3NFE2SlgzM0MxQUtxWUVoTzk0WmlQeHBDcDlmS05SMzhaaXQyc2tvNVY0Yk1IVW1COG9YbnZBWFdMVXlQcG9LZw?oc=5",
       "published_at": "2026-11-19T08:36:00Z",
@@ -795,17 +746,16 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "RSS仅提供标题，无可核验正文和独立数据/论据；保留可能具有业务价值的专家观点或钢铁需求分析，不将标题扩写成事实。",
-      "review_evidence_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yU3VZTU5NVGVRbmtvQnM2TkNNd0JSSFV6MWZJc29sRWF2UlRwRnUwUUJ3NFE2SlgzM0MxQUtxWUVoTzk0WmlQeHBDcDlmS05SMzhaaXQyc2tvNVY0Yk1IVW1COG9YbnZBWFdMVXlQcG9LZw?oc=5",
-      "review_coverage": "本轮仅有RSS标题摘录，未取得可确认原文观点、数字与适用范围的证据；未标source_checked。",
+      "review_note_zh": "行业专家CBAM观点仅有标题，缺原文访谈和具体论据，暂不转述其预测。",
+      "review_coverage": "本轮仅有队列摘要及已有相关核验信息；未取得可证实新增变化的完整原始资料，未标source_checked。",
       "published_date": "2026-11-19",
       "source_excerpt": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策 中国钢铁新闻网",
       "needs_translation": false,
       "title_zh": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
-      "review_attempted_at": "2026-11-19T19:32:40.005Z",
+      "review_attempted_at": "2026-11-20T07:34:13Z",
       "evidence_fingerprint": "9c308b123878e246",
       "related_reviews": [],
-      "retry_after": "2026-11-26T19:30:00Z",
+      "retry_after": "2026-11-27T00:00:00Z",
       "retry_policy": "scheduled"
     },
     {
@@ -825,17 +775,16 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "RSS仅提供标题，无可核验正文和独立数据/论据；保留可能具有业务价值的专家观点或钢铁需求分析，不将标题扩写成事实。",
-      "review_evidence_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9raGFzR3Z3eFctMTIyVmM1QWkta01uVm9GcEVPcVUyVldjOWNQcUgxSHhHVHNEdHRIVE4tOVJaa1ZWSTZHeEozalM5MUh4YmlwVGVvOG1ySTgxT09CU1RVSEltSG9Fa0lIM2RzSFlobFpQUmtY?oc=5",
-      "review_coverage": "本轮仅有RSS标题摘录，未取得可确认原文观点、数字与适用范围的证据；未标source_checked。",
+      "review_note_zh": "来源仅标题且未提供可验证的钢铁供需数据及原始研究，无法形成可靠业务研判。",
+      "review_coverage": "本轮仅有队列摘要及已有相关核验信息；未取得可证实新增变化的完整原始资料，未标source_checked。",
       "published_date": "2026-11-19",
       "source_excerpt": "关税和需求塑造 2026 年钢铁行业前景 blockchain.news",
       "needs_translation": false,
       "title_zh": "关税和需求塑造 2026 年钢铁行业前景",
-      "review_attempted_at": "2026-11-19T19:32:40.005Z",
+      "review_attempted_at": "2026-11-20T07:34:13Z",
       "evidence_fingerprint": "a8f2668dea0e1529",
       "related_reviews": [],
-      "retry_after": "2026-11-26T19:30:00Z",
+      "retry_after": "2026-11-27T00:00:00Z",
       "retry_policy": "scheduled"
     },
     {
@@ -1022,6 +971,42 @@
       "retry_policy": "scheduled"
     },
     {
+      "id": "707bf3a1636a45887b23",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
+      "published_at": "2026-11-14T08:00:00Z",
+      "title_original": "Steel sector sees green milestone",
+      "first_seen": "2026-11-13T14:56:04Z",
+      "last_seen": "2026-11-21T00:19:32Z",
+      "source": {
+        "id": "rss",
+        "name": "China Daily Global Edition",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "相关历史主条已报道中国钢铁绿色进展，当前采集日期变化但缺新内容和原始数据，不以日期变化制造新事实。",
+      "review_coverage": "本轮仅有队列摘要及已有相关核验信息；未取得可证实新增变化的完整原始资料，未标source_checked。",
+      "published_date": "2026-11-14",
+      "source_excerpt": "Steel sector sees green milestone China Daily Global Edition",
+      "needs_translation": false,
+      "title_zh": "钢铁部门看到绿色的里程碑",
+      "review_attempted_at": "2026-11-20T07:34:13Z",
+      "evidence_fingerprint": "4ac92c8bc73a60dc",
+      "related_reviews": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
+          "published_at": "2026-11-13T00:00:00Z",
+          "title_zh": "中国日报报道钢铁节能进展：行业数据不能替代产品碳排放证据",
+          "evidence_url": "https://www.chinadaily.com.cn/a/202611/13/WS6af679cce4b03ebf8519c384.html"
+        }
+      ],
+      "retry_after": "2026-11-27T00:00:00Z",
+      "retry_policy": "scheduled"
+    },
+    {
       "id": "629a3b77a0ee41a7a2ea",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
       "published_at": "2026-11-09T21:32:59Z",
@@ -1038,14 +1023,14 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "土耳其钢铁出口商协会签署CBAM合作协议的具体签约主体、签署日期、条款和实际效力，尚无本轮可核实的原始公告；不能凭标题声称法规或义务变化。",
+      "review_note_zh": "土耳其钢铁出口商协会CBAM合作协议仅有媒体报道，原始签约公告、主体和实际效力仍未取得，不能称法规变化。",
       "review_evidence_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
-      "review_coverage": "仅标题及现有公开报道检索，未取得该合作协议原始公告；留待新证据。",
+      "review_coverage": "依据队列所附上次核验记录及合法公开来源线索复查，未取得新的官方原文证据；保持受阻，不标source_checked。",
       "published_date": "2026-11-09",
       "source_excerpt": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations Yeşil Ekonomi",
       "needs_translation": false,
       "title_zh": "土耳其钢铁出口商协会签署CBAM合规合作协议",
-      "review_attempted_at": "2026-11-13",
+      "review_attempted_at": "2026-11-20T07:34:13Z",
       "evidence_fingerprint": "46a8eee117bc4830",
       "related_reviews": [
         {
@@ -1055,7 +1040,7 @@
           "evidence_url": "https://www.steelradar.com/en/haber/cib-and-cares-to-support-turkish-steel-exporters-in-complying-with-carbon-regulations/"
         }
       ],
-      "retry_after": "2026-11-20T00:00:00+00:00",
+      "retry_after": "2026-11-27T00:00:00Z",
       "retry_policy": "scheduled"
     },
     {
@@ -1135,17 +1120,17 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "商务部贸易救济信息网和商务部国别贸易环境网站确认泰国2026-10-22公告对中国预应力钢绞线(7312.10.91)反倾销立案、书面意见30日窗口。仍未取得泰国政府公报135120.pdf全文，不能独立确认法定起算日、产品排除及最终应诉截止日；此案存在临期风险，应由涉案企业立即联系泰国主管机关/律师核定期限。",
+      "review_note_zh": "泰国对华预应力钢绞线反倾销立案已有中国商务部转述，但泰国政府公报原文和30日意见窗口的准确起算仍未核实；存在临期风险，企业应立即向泰国主管机关或律师核实。",
       "review_evidence_url": "https://itpp.mofcom.gov.cn/article/hydt/wkhgong/jcl/jzcl/202611/26178.html",
-      "review_coverage": "2026-11-17复核中国商务部2026-11-04官方编译及Yieh 2026-11-02报道，确认有限事实；未成功逐页核对泰国政府公报原件，非source_checked。",
+      "review_coverage": "依据队列所附上次核验记录及合法公开来源线索复查，未取得新的官方原文证据；保持受阻，不标source_checked。",
       "published_date": "2026-10-30",
       "source_excerpt": "泰国对华预应力钢绞线启动反倾销调查-我的钢铁网 综合资讯 钢材 建筑钢材 热轧 冷轧 中厚板 型钢 钢管 带钢 涂镀 硅钢 钢结构 不锈钢 废不锈钢 铬 镍 有色金属 铜 铝 铅 锌 锡 稀土 锑铋铟 锗镓硒 建筑材料 水泥 混凝土 砂石 矿渣粉 特钢 优特钢 工业线 工模具 金属制品 铁矿石 废钢 煤炭 焦炭 兰炭 铁合金 钢坯 生铁 耐材 海运 新能源 锂 镍 钴 锰 钒 锂电正极 锂电负极 锂电回收 工业硅 光伏材料 能源 原油 天然气 成品油 化工 烯烃 芳烃 甲醇 橡胶 天然橡胶 丁二烯 合成橡胶 农产品 主粮 杂粮 果蔬 棉业 油料 植物油 蛋白饲料 饲料添加剂 淀粉 糖 食品添加剂 猪 鸡 鸭 首页 宏观 大宗 前沿 下游 快讯 期货 专题 报告 数据 指数 当前位置： 综合资讯 > 钢材 > 正文 泰国对华预应力钢绞线启动反倾销调查 2026-10-30 09:34 来源：商务部贸易救济调查局 更多历史数据，上钢联数据 资讯监督 智能摘要 内容由AI生成 2026年10…",
       "needs_translation": false,
       "title_zh": "泰国对华预应力钢绞线启动反倾销调查",
-      "review_attempted_at": "2026-11-17T07:34:25.181Z",
+      "review_attempted_at": "2026-11-20T07:34:13Z",
       "evidence_fingerprint": "42672b6b6139ebb6",
       "related_reviews": [],
-      "retry_after": "2026-11-20T00:00:00Z",
+      "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "scheduled"
     },
     {
@@ -1165,17 +1150,17 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "已找到埃及2026年第7号公告的行业报道，称3月31日批准终止对中国和土耳其CRC/GI/PPGI反倾销调查、不加征本案反倾销税；现行保障措施仍应单独核对。埃及主管机关正式决定全文仍未取得，不将行业报道的完整税号和保护期当作官方核验。",
+      "review_note_zh": "埃及终止涉华CRC/GI/PPGI反倾销调查已有行业报道，埃及第7号公告原文仍缺，不能把保障措施与本案反倾销终止混为一谈。",
       "review_evidence_url": "https://mesteel.com/news/ministry-closes-ad-probe-on-flat-steel-imports-without-duties",
-      "review_coverage": "2026-11-17核对SteelOrbis 2026-04-03及MESteel 2026-04-03报道、FMM 2026-03保障措施通报；仍缺埃及第7号公告官方正文，保留blocked。",
+      "review_coverage": "依据队列所附上次核验记录及合法公开来源线索复查，未取得新的官方原文证据；保持受阻，不标source_checked。",
       "published_date": "2026-11-02",
       "source_excerpt": "埃及对涉华冷轧卷、镀锌卷和彩涂卷钢材产品作出反倾销终裁-我的钢铁网 综合资讯 钢材 建筑钢材 热轧 冷轧 中厚板 型钢 钢管 带钢 涂镀 硅钢 钢结构 不锈钢 废不锈钢 铬 镍 有色金属 铜 铝 铅 锌 锡 稀土 锑铋铟 锗镓硒 建筑材料 水泥 混凝土 砂石 矿渣粉 特钢 优特钢 工业线 工模具 金属制品 铁矿石 废钢 煤炭 焦炭 兰炭 铁合金 钢坯 生铁 耐材 海运 新能源 锂 镍 钴 锰 钒 锂电正极 锂电负极 锂电回收 工业硅 光伏材料 能源 原油 天然气 成品油 化工 烯烃 芳烃 甲醇 橡胶 天然橡胶 丁二烯 合成橡胶 农产品 主粮 杂粮 果蔬 棉业 油料 植物油 蛋白饲料 饲料添加剂 淀粉 糖 食品添加剂 猪 鸡 鸭 首页 宏观 大宗 前沿 下游 快讯 期货 专题 报告 数据 指数 当前位置： 综合资讯 > 钢材 > 正文 埃及对涉华冷轧卷、镀锌卷和彩涂卷钢材产品作出反倾销终裁 2026-11-02 15:25 来源：商务部贸易救济调查局 更多历史数据，上钢联数据 资讯监督…",
       "needs_translation": false,
       "title_zh": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
-      "review_attempted_at": "2026-11-17T07:34:25.181Z",
+      "review_attempted_at": "2026-11-20T07:34:13Z",
       "evidence_fingerprint": "8a7e6373bd5ed68e",
       "related_reviews": [],
-      "retry_after": "2026-11-20T00:00:00Z",
+      "retry_after": "2026-11-27T00:00:00Z",
       "retry_policy": "scheduled"
     },
     {
@@ -1422,105 +1407,7 @@
       "retry_policy": "manual"
     }
   ],
-  "retry_items": [
-    {
-      "id": "629a3b77a0ee41a7a2ea",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
-      "published_at": "2026-11-09T21:32:59Z",
-      "title_original": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations",
-      "first_seen": "2026-11-13T14:56:04Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "Yeşil Ekonomi",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "土耳其钢铁出口商协会签署CBAM合作协议的具体签约主体、签署日期、条款和实际效力，尚无本轮可核实的原始公告；不能凭标题声称法规或义务变化。",
-      "review_evidence_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
-      "review_coverage": "仅标题及现有公开报道检索，未取得该合作协议原始公告；留待新证据。",
-      "published_date": "2026-11-09",
-      "source_excerpt": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations Yeşil Ekonomi",
-      "needs_translation": false,
-      "title_zh": "土耳其钢铁出口商协会签署CBAM合规合作协议",
-      "review_attempted_at": "2026-11-13",
-      "evidence_fingerprint": "46a8eee117bc4830",
-      "related_reviews": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLUc1T3owQVg3X1VZOWtzSWpPa0poc0NQUFVUSXlaTGF6UG5yUUNSUFZHbUlyZjhnTHVacmZQQms4d3I4TTYzd21NRVNBWUVnYzd0MkVvdy02Sm5kajRyc1o4QjdLVnhaSDdTZDBhRS13M3E3TkMwdUhKT0JSSTF6WEVyRjZ1NmFlVkNEN050WVFuWmgyQnFVdmhPZVJKa3ppZ1NpNlJUVURNaXJmMUZVZ21SYnc2aHk4emJUY19wUkxLTm4wVE5ZaHV6SVpUZFlKbkhtTlBrT0hXUGtMazN2Um05UWh0Zw?oc=5",
-          "published_at": "2026-11-04T09:08:47Z",
-          "title_zh": "土耳其钢铁出口商协会与CARES合作开展EU/UK CBAM合规培训",
-          "evidence_url": "https://www.steelradar.com/en/haber/cib-and-cares-to-support-turkish-steel-exporters-in-complying-with-carbon-regulations/"
-        }
-      ],
-      "retry_after": "2026-11-20T00:00:00+00:00",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "6ffd17e4c9693d71453f",
-      "url": "https://news.mysteel.com/a/26103009/E921E5CBA72B4D5E.html",
-      "published_at": "2026-10-30T00:00:00Z",
-      "title_original": "泰国对华预应力钢绞线启动反倾销调查",
-      "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-21T00:19:32Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "我的钢铁网（商务部公告转载）",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "商务部贸易救济信息网和商务部国别贸易环境网站确认泰国2026-10-22公告对中国预应力钢绞线(7312.10.91)反倾销立案、书面意见30日窗口。仍未取得泰国政府公报135120.pdf全文，不能独立确认法定起算日、产品排除及最终应诉截止日；此案存在临期风险，应由涉案企业立即联系泰国主管机关/律师核定期限。",
-      "review_evidence_url": "https://itpp.mofcom.gov.cn/article/hydt/wkhgong/jcl/jzcl/202611/26178.html",
-      "review_coverage": "2026-11-17复核中国商务部2026-11-04官方编译及Yieh 2026-11-02报道，确认有限事实；未成功逐页核对泰国政府公报原件，非source_checked。",
-      "published_date": "2026-10-30",
-      "source_excerpt": "泰国对华预应力钢绞线启动反倾销调查-我的钢铁网 综合资讯 钢材 建筑钢材 热轧 冷轧 中厚板 型钢 钢管 带钢 涂镀 硅钢 钢结构 不锈钢 废不锈钢 铬 镍 有色金属 铜 铝 铅 锌 锡 稀土 锑铋铟 锗镓硒 建筑材料 水泥 混凝土 砂石 矿渣粉 特钢 优特钢 工业线 工模具 金属制品 铁矿石 废钢 煤炭 焦炭 兰炭 铁合金 钢坯 生铁 耐材 海运 新能源 锂 镍 钴 锰 钒 锂电正极 锂电负极 锂电回收 工业硅 光伏材料 能源 原油 天然气 成品油 化工 烯烃 芳烃 甲醇 橡胶 天然橡胶 丁二烯 合成橡胶 农产品 主粮 杂粮 果蔬 棉业 油料 植物油 蛋白饲料 饲料添加剂 淀粉 糖 食品添加剂 猪 鸡 鸭 首页 宏观 大宗 前沿 下游 快讯 期货 专题 报告 数据 指数 当前位置： 综合资讯 > 钢材 > 正文 泰国对华预应力钢绞线启动反倾销调查 2026-10-30 09:34 来源：商务部贸易救济调查局 更多历史数据，上钢联数据 资讯监督 智能摘要 内容由AI生成 2026年10…",
-      "needs_translation": false,
-      "title_zh": "泰国对华预应力钢绞线启动反倾销调查",
-      "review_attempted_at": "2026-11-17T07:34:25.181Z",
-      "evidence_fingerprint": "42672b6b6139ebb6",
-      "related_reviews": [],
-      "retry_after": "2026-11-20T00:00:00Z",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "746291a1a4bf408605a3",
-      "url": "https://news.mysteel.com/a/26110215/722BC206CFA1DEAD.html",
-      "published_at": "2026-11-02T00:00:00Z",
-      "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
-      "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-21T00:19:32Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "我的钢铁网（商务部公告转载）",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "已找到埃及2026年第7号公告的行业报道，称3月31日批准终止对中国和土耳其CRC/GI/PPGI反倾销调查、不加征本案反倾销税；现行保障措施仍应单独核对。埃及主管机关正式决定全文仍未取得，不将行业报道的完整税号和保护期当作官方核验。",
-      "review_evidence_url": "https://mesteel.com/news/ministry-closes-ad-probe-on-flat-steel-imports-without-duties",
-      "review_coverage": "2026-11-17核对SteelOrbis 2026-04-03及MESteel 2026-04-03报道、FMM 2026-03保障措施通报；仍缺埃及第7号公告官方正文，保留blocked。",
-      "published_date": "2026-11-02",
-      "source_excerpt": "埃及对涉华冷轧卷、镀锌卷和彩涂卷钢材产品作出反倾销终裁-我的钢铁网 综合资讯 钢材 建筑钢材 热轧 冷轧 中厚板 型钢 钢管 带钢 涂镀 硅钢 钢结构 不锈钢 废不锈钢 铬 镍 有色金属 铜 铝 铅 锌 锡 稀土 锑铋铟 锗镓硒 建筑材料 水泥 混凝土 砂石 矿渣粉 特钢 优特钢 工业线 工模具 金属制品 铁矿石 废钢 煤炭 焦炭 兰炭 铁合金 钢坯 生铁 耐材 海运 新能源 锂 镍 钴 锰 钒 锂电正极 锂电负极 锂电回收 工业硅 光伏材料 能源 原油 天然气 成品油 化工 烯烃 芳烃 甲醇 橡胶 天然橡胶 丁二烯 合成橡胶 农产品 主粮 杂粮 果蔬 棉业 油料 植物油 蛋白饲料 饲料添加剂 淀粉 糖 食品添加剂 猪 鸡 鸭 首页 宏观 大宗 前沿 下游 快讯 期货 专题 报告 数据 指数 当前位置： 综合资讯 > 钢材 > 正文 埃及对涉华冷轧卷、镀锌卷和彩涂卷钢材产品作出反倾销终裁 2026-11-02 15:25 来源：商务部贸易救济调查局 更多历史数据，上钢联数据 资讯监督…",
-      "needs_translation": false,
-      "title_zh": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
-      "review_attempted_at": "2026-11-17T07:34:25.181Z",
-      "evidence_fingerprint": "8a7e6373bd5ed68e",
-      "related_reviews": [],
-      "retry_after": "2026-11-20T00:00:00Z",
-      "retry_policy": "scheduled"
-    }
-  ],
-  "retry_due_count": 3,
-  "work_fingerprint": "2e055bc4d2f2910f6167"
+  "retry_items": [],
+  "retry_due_count": 0,
+  "work_fingerprint": "18f708620585a2c5af58"
 }
