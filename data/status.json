@@ -15,7 +15,7 @@
   "retry_due_count": 3,
   "pending_machine_translation": 6,
   "chinese_title_coverage": 98.3,
-  "oldest_actionable_hours": 2918.8,
+  "oldest_actionable_hours": 2918.9,
   "offline_translation": {
     "status": "partial",
     "translated": 1,
@@ -109,5 +109,6 @@
     }
   ],
   "warnings": [],
-  "translation_updated_at": "2026-11-21T00:21:35Z"
+  "translation_updated_at": "2026-11-21T00:21:35Z",
+  "editorial_updated_at": "2026-11-21T00:21:56Z"
 }
