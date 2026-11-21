@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-19T19:32:40.005Z",
+  "translations": [
+    {
+      "url": "https://gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea",
+      "published_date": "2026-11-19",
+      "title_original": "New measure imposed on hot-rolled steel plate from South Korea",
+      "title_zh": "英国对韩国热轧中厚板实施新的反倾销措施",
+      "translated_at": "2026-11-19T19:32:40.005Z"
+    },
+    {
+      "url": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en",
+      "published_date": "2026-11-18",
+      "title_original": "Extension of CBAM to Iceland and Norway",
+      "title_zh": "CBAM适用范围扩大至冰岛和挪威",
+      "translated_at": "2026-11-19T19:32:40.005Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQclpjRFJoUmhkeXpWWGVLRmRPRGlzbU91WXlPSGprYVRpclZDWVk2WDQ5V092S1JOUFdWRVZvamRvYlRzWC10WE1mblR6MGFQclZIYkxTMzFiakJmSWVqb0hPZHdVOFpldkJtazhmWjJZazhRV28tYnRHTE01ZzlnX1BhVXItcjdOcHpfcm94UjNmb3pwcjJiMk9tTy1WbzFIODROb0txTU9WQ01rcFNVYnhUNUhrYWV5YVg4?oc=5",
+      "published_date": "2026-11-19",
+      "title_original": "EU to extend CBAM to Norway and Iceland from January 2027",
+      "title_zh": "欧盟将于2027年1月起把CBAM扩展至挪威和冰岛",
+      "translated_at": "2026-11-19T19:32:40.005Z"
+    }
+  ],
+  "editorial": [
+    {
+      "url": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en",
+      "published_date": "2026-11-18",
+      "reviewed_at": "2026-11-19T19:32:40.005Z",
+      "title_zh": "欧盟CBAM正式扩展至冰岛、挪威：2027年1月1日起适用，50吨门槛跨三地累计",
+      "title_en": "EU CBAM extends to Norway and Iceland from 1 January 2027; 50-tonne threshold aggregated across the CBAM area",
+      "summary_zh": "欧盟税务与海关总司2026年11月18日公告：欧洲经济区联合委员会第283/2026号决定于11月18日生效，将CBAM纳入挪威、冰岛适用范围；自2027年1月1日起，两国进口覆盖产品与欧盟适用同一CBAM规则。钢铁、铝、化肥、水泥的50吨年度累计门槛在欧盟、挪威、冰岛统一累计，电力及氢不适用该吨数门槛。两国进口商或间接海关代表原则上需进口前申请授权CBAM申报人，2027年3月31日前提交申请者享有特定灵活安排；CBAM授权在三地相互承认，跨区二次进口有已自由流通证明的可避免重复适用。列支敦士登仍不在CBAM区域内。挪威/冰岛核查机构登记自2026年12月1日开始。",
+      "summary_en": "EEA Joint Committee Decision 283/2026 entered into force 18 Nov 2026. CBAM applies to imports into Norway and Iceland from 1 Jan 2027. The annual 50-tonne threshold for steel, aluminium, fertilisers and cement is aggregated across the EU, Norway and Iceland; electricity and hydrogen remain outside this tonnage threshold. Authorisations are mutually recognised, with importer application flexibility through 31 March 2027. Liechtenstein remains outside the CBAM area.",
+      "impact_zh": "【出口影响】中国钢材出口挪威和冰岛从2027年起新增CBAM合规义务，不能再把两国作为绕开欧盟CBAM的目的地。应按客户集团在欧盟及两国累计进口量核对50吨门槛、授权主体、EORI/TIN及排放核证数据；已在区域内自由流通后转运须保留进口凭证。报价应考虑进口商CBAM净成本和数据责任；不将该扩围误读为新增反倾销税。",
+      "impact_en": "Chinese steel exports to Norway and Iceland will face CBAM from 2027. Check aggregated volumes, declarant authorisation, EORI/TIN and verified emissions, and preserve free-circulation proof for cross-border transfers. This is not an anti-dumping duty.",
+      "evidence_url": "https://www.efta.int/sites/default/files/documents/legal-texts/eea/other-legal-documents/adopted-joint-committee-decisions/2026%20-%20English/283-2026.pdf",
+      "coverage": "2026-11-19读取欧委会DG TAXUD 2026-11-18完整公告与EFTA官方第283/2026号决定PDF，核对生效、实施日期、50吨门槛、授权互认、列支敦士登排除、自由流通条款及核查机构登记时间。",
+      "source_excerpt": "Extension of CBAM to Iceland and Norway EEA Joint Committee Decision No 283/2026, which extends CBAM to Iceland and Norway, entered into force on 18 November 2026. From 1 January 2027, the same CBAM rules will apply to imports of covered goods into Iceland and Norway as to imports into the EU.",
+      "review_status": "source_checked",
+      "category": "碳与环保",
+      "importance": "高",
+      "follow_up": "核对挪威/冰岛客户2027年采购及其集团三地累计进口量；向进口商确认授权申请、EORI/TIN及实际排放核证安排。"
+    },
+    {
+      "url": "https://gov.uk/government/publications/check-the-default-values-for-the-carbon-border-adjustment-mechanism-cbam",
+      "published_date": "2026-11-19",
+      "reviewed_at": "2026-11-19T19:32:40.005Z",
+      "title_zh": "英国CBAM钢铁默认值表11月19日更正：72172030镀锌钢丝描述调整",
+      "title_en": "UK CBAM iron and steel default values: description for CN 72172030 corrected on 19 November",
+      "summary_zh": "英国HMRC官方更新记录确认，2026年11月19日仅更正钢铁默认排放值表中CN 72172030的Description。该税号现描述为含碳量低于0.25%、截面最大尺寸不小于0.8毫米的镀锌非合金钢丝（不含棒材），表列默认值为3.401 tCO₂e/吨产品。此次官方更新记录未显示默认值数字变化，不能宣称重新提高碳税。",
+      "summary_en": "HMRC updated the description for CN 72172030 on 19 Nov 2026. It now describes specified zinc-coated low-carbon non-alloy steel wire of maximum cross-sectional dimension at least 0.8 mm, excluding bars and rods. The listed default is 3.401 tCO2e/t; the change log does not report a revised numerical value.",
+      "impact_zh": "【出口影响】出口英国的镀锌钢丝应核对8位税号、线径、含碳量与产品描述，避免套用其他钢丝或棒材默认值。未发现影响全部钢铁税号的新增规则，按具体产品继续选择合格实际排放数据或默认值。",
+      "impact_en": "For UK-bound zinc-coated wire, check the eight-digit code and product specifications. This is a description correction, not evidence of a general default-value increase.",
+      "evidence_url": "https://www.gov.uk/government/publications/check-the-default-values-for-the-carbon-border-adjustment-mechanism-cbam/iron-and-steel-default-values",
+      "coverage": "2026-11-19读取HMRC官方默认值索引的11月19日变更日志与钢铁默认值明细表72172030行，核实文字描述及3.401 tCO2e/t；未取得历史行对照，不能断言具体旧描述为何。",
+      "source_excerpt": "Find out the default values for your goods, when to use them and when to combine them with your actual emissions. Each Carbon Border Adjustment Mechanism ( CBAM ) good has a default value. You can use the default value in your CBAM return, instead of verified actual emissions data. The values are in tonnes of carbon dioxide equivalents (tCO2e) per tonne of product. The 'Description' for 'Iron and steel default values' at '(CN) code 72172030' has been updated.",
+      "review_status": "source_checked",
+      "category": "碳与环保",
+      "importance": "中"
+    },
+    {
+      "url": "https://gov.uk/guidance/getting-the-emissions-intensity-when-importing-carbon-border-adjustment-mechanism-cbam-goods",
+      "published_date": "2026-11-19",
+      "reviewed_at": "2026-11-19T19:32:40.005Z",
+      "title_zh": "英国CBAM核查指引补充：欧盟CBAM核查资格及报告不自动适用于英国",
+      "title_en": "UK CBAM guidance clarifies that accreditation and verification reports for other CBAM schemes are not automatically valid",
+      "summary_zh": "HMRC于2026年11月19日更新进口CBAM货物排放强度指引，新增核查机构说明：英国CBAM要求具备适用认可机构颁发的英国CBAM专项认可，其他CBAM制度的认可及报告不会自动满足英国要求；同一机构若分别符合多项制度要求，可同步开展核查，但英国仍须专门合规报告。认可机构负责公布并维护获认可核查机构名单，HMRC目前不计划自行发布名单。2027年进口可使用2027年核证排放强度，尚不可得时可使用上一年度合格核证数据。",
+      "summary_en": "HMRC's 19 Nov update confirms UK-specific CBAM verifier accreditation and reports are required; EU/other CBAM accreditation or reports are not automatically accepted. Accreditation bodies, rather than HMRC, publish verifier lists. Relevant verified 2026 data may be used when 2027 data are unavailable under the 2027 import rule.",
+      "impact_zh": "【出口影响】中国钢厂不能假定已有欧盟CBAM核查报告可直接用于2027年英国进口；应提前询问核查机构是否取得英国认可及能否按英国规则出具独立报告，比较额外核证费用和默认值方案。",
+      "impact_en": "Chinese mills should confirm UK-specific verifier accreditation and report formats, rather than assuming EU CBAM verification automatically suffices; compare verification costs against UK default-value use.",
+      "evidence_url": "https://www.gov.uk/guidance/getting-the-emissions-intensity-when-importing-carbon-border-adjustment-mechanism-cbam-goods",
+      "coverage": "2026-11-19读取HMRC原文及当日更新日志，核对新增核查机构要求、名单发布责任和2027年排放年度规则；没有推定具体机构已获认可。",
+      "source_excerpt": "Find out how to get your emissions intensity as an importer (also known as a liable person) when importing Carbon Border Adjustment Mechanism (CBAM) goods into the UK.",
+      "review_status": "source_checked",
+      "category": "碳与环保",
+      "importance": "高",
+      "follow_up": "联系英国客户及核查机构确认UK CBAM专项认可、报告格式和2027年适用的核证排放年度。"
+    }
+  ],
+  "triage": [
+    {
+      "url": "https://gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea",
+      "published_date": "2026-11-19",
+      "decision": "duplicate",
+      "reason_zh": "英国政府11月19日新闻稿与已核验的第2026/32号反倾销最终措施属于同一事件，11月18日正式通知已作为主条。不得将同一税率再算新增措施。",
+      "attempted_at": "2026-11-19T19:32:40.005Z",
+      "coverage": "已复核英国官方第2026/32号通知（2026-11-18公布、19日生效）第1、3、附录1条，税率7.04%/12.19%/23.07%，大于2100mm为0%；新闻稿URL本次无法独立访问，但题名及摘录对应相同措施。",
+      "duplicate_of": "https://gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping"
+    },
+    {
+      "url": "https://gov.uk/government/collections/uk-emissions-trading-scheme-uk-ets-technical-guidance-and-tools",
+      "published_date": "2026-11-19",
+      "decision": "excluded",
+      "reason_zh": "英国ETS技术指引汇总页并非2026年11月19日新增政策，官方页面最后更新为2026年6月26日，相关下级文档于11月3日有更新但本条未指向新增钢材进口措施。",
+      "attempted_at": "2026-11-19T19:32:40.005Z",
+      "coverage": "已读GOV.UK原页发布日期、更新记录及文档列表；不将采集观察日期视为新政策发布日期。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2RsWDY2bV90UDVyN1FOVTFCajlWZ0ljNVpmMEtZYUVzRWh1U3Zwa3lqMzFsaTc0Tlk5QXJaaGpocGMwLVVQb1EtMnBXeWdIdklhTUxHUDlwSnZxNnBiNzB0bks2VzJWSHRzY2tueTNuRWJERWtFeG1VSnZfaklod2ZybzlIZWxaNDlXaUwyVjlqUmVYWEVBSGpUdERWRkxpSFo2Z19aNk5KNVNqZ2JsR0JvRFhzUi1yYTFNMEROekxKeVk?oc=5",
+      "published_date": "2026-11-19",
+      "decision": "duplicate",
+      "reason_zh": "同一2026-11-18欧盟DG TAXUD公告所述CBAM扩展至挪威和冰岛事件，官方原始来源已核验，不再重复计数。",
+      "attempted_at": "2026-11-19T19:32:40.005Z",
+      "coverage": "对照媒体标题及DG TAXUD正式公告；未把媒体短标题当成额外法规。",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQclpjRFJoUmhkeXpWWGVLRmRPRGlzbU91WXlPSGprYVRpclZDWVk2WDQ5V092S1JOUFdWRVZvamRvYlRzWC10WE1mblR6MGFQclZIYkxTMzFiakJmSWVqb0hPZHdVOFpldkJtazhmWjJZazhRV28tYnRHTE01ZzlnX1BhVXItcjdOcHpfcm94UjNmb3pwcjJiMk9tTy1WbzFIODROb0txTU9WQ01rcFNVYnhUNUhrYWV5YVg4?oc=5",
+      "published_date": "2026-11-19",
+      "decision": "duplicate",
+      "reason_zh": "同一2026-11-18欧盟DG TAXUD公告所述CBAM扩展至挪威和冰岛事件，官方原始来源已核验，不再重复计数。",
+      "attempted_at": "2026-11-19T19:32:40.005Z",
+      "coverage": "对照媒体标题及DG TAXUD正式公告；未把媒体短标题当成额外法规。",
+      "duplicate_of": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOekwtRDZsRzEzdE02QjZYUHBYQ0p1cDA3Nk1HeGpiZFRLYTd6RmdCdGlZUHhBNmxyZXRJa1pzZG5zMVBEclh4RnBVWXJNR1duejVhLVRVY2hFRy1FdWxTT2lJWTlraTlIUkFoTmdQTlZrQ0F4VFExaHRDSlp2TDlyWkRNM3lmMzdiT2hiSA?oc=5",
+      "published_date": "2026-11-19",
+      "decision": "duplicate",
+      "reason_zh": "标题中越南16%与欧盟(EU)2026/2547冷轧板最终反倾销税率一致，关联已核验的DG TRA原始主条；本条标题过于宽泛，不能误称全部越南钢铁均征16%。",
+      "attempted_at": "2026-11-19T19:32:40.005Z",
+      "coverage": "仅媒体RSS标题可读，税率与欧盟(EU)2026/2547正式条例的越南涉案冷轧钢条目核对。",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yU3VZTU5NVGVRbmtvQnM2TkNNd0JSSFV6MWZJc29sRWF2UlRwRnUwUUJ3NFE2SlgzM0MxQUtxWUVoTzk0WmlQeHBDcDlmS05SMzhaaXQyc2tvNVY0Yk1IVW1COG9YbnZBWFdMVXlQcG9LZw?oc=5",
+      "published_date": "2026-11-19",
+      "decision": "blocked",
+      "reason_zh": "RSS仅提供标题，无可核验正文和独立数据/论据；保留可能具有业务价值的专家观点或钢铁需求分析，不将标题扩写成事实。",
+      "attempted_at": "2026-11-19T19:32:40.005Z",
+      "coverage": "本轮仅有RSS标题摘录，未取得可确认原文观点、数字与适用范围的证据；未标source_checked。",
+      "retry_after": "2026-11-26T19:30:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yU3VZTU5NVGVRbmtvQnM2TkNNd0JSSFV6MWZJc29sRWF2UlRwRnUwUUJ3NFE2SlgzM0MxQUtxWUVoTzk0WmlQeHBDcDlmS05SMzhaaXQyc2tvNVY0Yk1IVW1COG9YbnZBWFdMVXlQcG9LZw?oc=5"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9raGFzR3Z3eFctMTIyVmM1QWkta01uVm9GcEVPcVUyVldjOWNQcUgxSHhHVHNEdHRIVE4tOVJaa1ZWSTZHeEozalM5MUh4YmlwVGVvOG1ySTgxT09CU1RVSEltSG9Fa0lIM2RzSFlobFpQUmtY?oc=5",
+      "published_date": "2026-11-19",
+      "decision": "blocked",
+      "reason_zh": "RSS仅提供标题，无可核验正文和独立数据/论据；保留可能具有业务价值的专家观点或钢铁需求分析，不将标题扩写成事实。",
+      "attempted_at": "2026-11-19T19:32:40.005Z",
+      "coverage": "本轮仅有RSS标题摘录，未取得可确认原文观点、数字与适用范围的证据；未标source_checked。",
+      "retry_after": "2026-11-26T19:30:00Z",
+      "evidence_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9raGFzR3Z3eFctMTIyVmM1QWkta01uVm9GcEVPcVUyVldjOWNQcUgxSHhHVHNEdHRIVE4tOVJaa1ZWSTZHeEozalM5MUh4YmlwVGVvOG1ySTgxT09CU1RVSEltSG9Fa0lIM2RzSFlobFpQUmtY?oc=5"
+    }
+  ]
+}
