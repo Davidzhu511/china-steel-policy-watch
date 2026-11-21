@@ -92,17 +92,24 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T20:48:37Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "ECIU《Steel on the Border》为潜在重要的英国钢铁贸易暴露与CBAM分析，但本轮未取得可核验的报告全文或定量模型；不可将标题扩写成结论。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-21T07:30:07Z",
+      "retry_after": "2026-11-28T00:00:00Z",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnAwM3hVZmFmaEluZW1veE5NcHJNQkVQRUJkMGIzbjh0M1QtdjNZY1dVMk1BaGFVcjFYLWxBYmZHRjcwRzZXZ0s0T2dsQ2xkdmYzMVljWE5jUU5WR2o0d3NFRnFkNHh4S2F5T3dUT3hnNktNbTFJTkl6OHdSM2lRVlJvNDBHV0lsY3BMaHQzMGRqeUZLT0JMdF9IbTNjRFpRV1NGR0JXcHdFTGg0LTUydGZEbFAxMjRHcW82bg?oc=5",
+      "review_coverage": "检查队列RSS摘要并以报告题名、ECIU机构名检索公开来源，未定位可核验完整正文或图表；保留待复查，不标source_checked。"
     },
     {
       "id": "2b50dba76b58228bfaac",
-      "title_zh": "拉美钢铁进口增长46.1%至7200万吨，中国份额升至39% - 新闻和统计",
-      "title_en": "拉美钢铁进口增长46.1%至7200万吨，中国份额升至39% - 新闻和统计",
+      "title_zh": "研究称2019—2025年拉美直接及间接钢材进口增46.1%，中国在六大产钢国进口份额升至39%",
+      "title_en": "Secondary analysis: Latin American direct and indirect steel imports rose 46.1% in 2019–25; China share of LAC6 imports reached 39%",
       "title_original": "拉美钢铁进口增长46.1%至7200万吨，中国份额升至39% - 新闻和统计",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "【研究报道，非海关钢材进口统计】IndexBox 2026年11月20日引述Mesteel和经合组织(OECD)研究称，2019—2025年拉美直接进口钢材及嵌入制成品的间接钢材进口合计增长46.1%，2025年达到约7200万吨；阿根廷、巴西、智利、哥伦比亚、墨西哥和秘鲁六国(LAC6)直接及间接钢材进口从3760万吨升至5540万吨，来自中国的对应供应从910万吨升至2160万吨，占比由24%升至39%。报道还称间接进口约占相关供应40%，LAC6钢厂产能利用率约60%。以上口径含汽车、机械、设备等成品所含钢材，不等于7200万吨钢材海关进口量；本轮核对了IndexBox全文，未取得并逐表复算OECD原始报告。",
+      "summary_en": "IndexBox (20 Nov), citing Mesteel/OECD, reports Latin American direct-plus-indirect steel imports up 46.1% in 2019–25 to 72 Mt. China's share of LAC6 direct-plus-indirect imports reportedly rose from 24% to 39% (9.1 to 21.6 Mt). Figures include steel embedded in manufactured goods, not solely customs-recorded steel imports. Original OECD tables were not independently verified.",
+      "impact_zh": "【业务研判】拉美钢材竞争压力及贸易救济风险值得跟踪，但不能将39%直接用作中国成品钢材在拉美市场的海关进口份额。出口报价应分别分析各国热轧、冷轧、镀锌及板坯的直接进口量、原产地限制和贸易救济，特别关注墨西哥、巴西及哥伦比亚。该报告显示的进口渗透率变化可作为市场背景，不应替代逐国逐税号统计。",
+      "impact_en": "The study signals competitive pressure in Latin America but the 39% figure is not China's customs share of steel imports. Validate direct imports and trade remedies by country and HS code before pricing.",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc1JiYm5BRU9aN3hXV3N1bklsaGg1NWlJMW1teDVzUFFTcDNlenlfM3JEbE5QZmYyRTZ6OWU0enJ5NjNyTWo0bHdnUUEzN2VaMmUwbFZWTXFQdHFuTXRtUzdiTEQ3ay1aRktKUWF5YWp2VWMxdEpGaXd4MExKb3g0N0Y1T2N2WXZWa1BxOEt2ZEVDMnlKVEMxSmd5QlRBeWd4V0tLbXhPd0labWVrRmxLZA?oc=5",
       "published_at": "2026-11-20T10:32:10Z",
       "source_published_date": "2026-11-20",
@@ -114,7 +121,7 @@
       },
       "country": "全球",
       "region": "全球",
-      "category": "市场与产能",
+      "category": "市场与需求",
       "status": "新闻",
       "importance": "中",
       "products": [],
@@ -124,53 +131,15 @@
       "language": "zh",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-20T20:46:43Z",
       "last_seen": "2026-11-21T00:19:32Z",
-      "source_excerpt": "拉美钢铁进口增长46.1%至7200万吨，中国份额升至39% - 新闻和统计 IndexBox"
-    },
-    {
-      "id": "cb2c35f096255a55b199",
-      "title_zh": "UK imposes anti-dumping duty on steel plate from South Korea",
-      "title_en": "UK imposes anti-dumping duty on steel plate from South Korea",
-      "title_original": "UK imposes anti-dumping duty on steel plate from South Korea",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmhmRnF0X29Xb3dqS04weU9sS3JIbzA1NUY0VFc4RUNsLV9kbldZSHNYTzhfRkpKOFpLaVA0aFlmWGF0WFF3Sk80UC1LWXFqNW5vWURXeFQxcVExRTF5dmI1ejY5ZlVwWlUyYkZBRjlhQ0VpMGNuaDlSTVJVdmVKMllVQXVoZ2d2ckVDRDVfQk1zdFVQZ1VtVFcyYlY2dw?oc=5",
-      "published_at": "2026-11-20T07:58:28Z",
-      "source_published_date": "2026-11-20",
-      "source": {
-        "id": "rss",
-        "name": "SteelRadar",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "贸易救济",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-21T00:19:32Z",
-      "last_seen": "2026-11-21T00:19:32Z",
-      "source_excerpt": "UK imposes anti-dumping duty on steel plate from South Korea SteelRadar",
-      "machine_translation": {
-        "title_zh": "联合王国对来自韩国的钢板施以反倾销税",
-        "excerpt_zh": "联合王国对韩国钢铁雷达的钢板施以反倾销税",
-        "fingerprint": "cb5beab6f6219de6804041ef16bb935222c4053fa3a2d1796e91779740059abe",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-11-21T00:21:25Z"
-      }
+      "source_excerpt": "拉美钢铁进口增长46.1%至7200万吨，中国份额升至39% - 新闻和统计 IndexBox",
+      "evidence_url": "https://www.indexbox.io/blog/steel-imports-to-latin-america-rise-461-to-72-million-tonnes-in-2019-2025/",
+      "follow_up": "取得OECD原报告，分拆直接/间接进口并与Alacero、各国海关按HS编码核对；再分析首钢板卷、板坯目标市场。",
+      "coverage": "2026-11-21读取IndexBox 2026-11-20全文，核对72Mt、46.1%、LAC6 55.4Mt、中国21.6Mt与39%及直接/间接进口口径；仅为二手引用，未获得OECD原始表格及海关细项，故limited。原始队列为Google News RSS，不把转述统计标记为独立官方核验。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-21T07:30:07Z"
     },
     {
       "id": "18b5788ec662b75b0442",
@@ -659,6 +628,10 @@
         {
           "name": "Traders Union",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnVCNHhpcmowUDRTQldWVDNlQkVkLVpjejZacXJOMDN1Nm1FWklnYU03Y1JfU3BYdTBiQVl2RVdraGdEdjZGQ0pZRlpoMVF0U1lvUU9GYmRTekVObDVJemZ4cTB6S3lCTTZTXzU1Rl9fWFl1UEhUenhRQ2s2ZUxCcWI2UDVMLVdhT0V1S1Jpcjd3bk5qa3lPNDNRWF8?oc=5"
+        },
+        {
+          "name": "SteelRadar",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmhmRnF0X29Xb3dqS04weU9sS3JIbzA1NUY0VFc4RUNsLV9kbldZSHNYTzhfRkpKOFpLaVA0aFlmWGF0WFF3Sk80UC1LWXFqNW5vWURXeFQxcVExRTF5dmI1ejY5ZlVwWlUyYkZBRjlhQ0VpMGNuaDlSTVJVdmVKMllVQXVoZ2d2ckVDRDVfQk1zdFVQZ1VtVFcyYlY2dw?oc=5"
         }
       ],
       "source_translation": {
@@ -1355,13 +1328,13 @@
     },
     {
       "id": "9af2849f3f703687330b",
-      "title_zh": "Steel Body Calls EU's Anti-Dumping Duties 'Unfair'",
-      "title_en": "Steel Body Calls EU's Anti-Dumping Duties 'Unfair'",
+      "title_zh": "印度钢铁协会质疑欧盟冷轧板反倾销终裁中的特殊市场状况认定",
+      "title_en": "Indian Steel Association criticises EU particular-market-situation assessment in cold-rolled steel AD ruling",
       "title_original": "Steel Body Calls EU's Anti-Dumping Duties 'Unfair'",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "【行业表态，非新法规】11月17日《经济时报》报道，印度钢铁协会(ISA)秘书长Alok Sahay批评欧盟在冷轧板反倾销终裁中采用特殊市场状况(PMS)方法核算印度生产成本，认为未采用企业实际成本可能推高倾销幅度。欧盟2026/2547号条例对印度相关冷轧扁平材最终税率为9.5%，已在此前正式法规主条核验。本报道仅反映行业协会对调查方法的争议，不是撤销、暂缓执行、复审立案或税率调整公告。",
+      "summary_en": "Economic Times reported on 17 Nov that ISA secretary general Alok Sahay criticised the EU's use of particular-market-situation methodology in its cold-rolled AD determination. The existing definitive duty on Indian-origin covered CRC remains 9.5%; the statement is not a legal change.",
+      "impact_zh": "【研判】PMS方法争议可能影响印度企业后续游说、司法挑战和贸易救济策略，但当前没有证据证明税率已改变。中国钢材与印度冷轧板在欧盟的到岸成本比较仍按正式条例、各自贸易救济、配额、CBAM和客户认证分别核算；关注是否出现正式司法或行政复审文件。",
+      "impact_en": "Monitor any formal appeal or review; industry criticism alone does not change duties. Compare Chinese and Indian landed costs using applicable measures and CBAM.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmNYd1Y1X3Z0alpxRkY5QzVRTzFDbmtRdW9qN2V6WVdZZS1jOXVkSEUxaU1NT3JzaDl5S0E3WFk1b2tDeGc1TFY1eFIyTHhrRWxrcVBPZUVoMDJYN3ppLWlrZ0dlZW9rajJkOHl6Y3dFT1Y2XzN3TUFSbUxVM21sOGpXMktEYnB1cUZtd1c3TlcyY09haXZLcDdzb0NBWlc1SDExeFh5R2U?oc=5",
       "published_at": "2026-11-17T04:11:00Z",
       "source_published_date": "2026-11-17",
@@ -1383,7 +1356,7 @@
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-20T20:46:43Z",
       "last_seen": "2026-11-20T20:46:43Z",
       "source_excerpt": "Steel Body Calls EU's Anti-Dumping Duties 'Unfair' TradingView",
@@ -1394,7 +1367,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T20:48:49Z"
-      }
+      },
+      "evidence_url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/indian-steel-association-calls-eus-anti-dumping-duty-assessment-unfair/articleshow/135900514.cms",
+      "follow_up": "跟踪印度钢铁协会、欧盟DG TRADE和欧盟法院有无正式复审、诉讼或临时措施；如无，不重复作为新政策发布。",
+      "coverage": "2026-11-21核对11月17日Economic Times报道与TradingView转载原文，核实ISA发言人、PMS争议和9.5%税率；PMS属于协会观点，未发现任何官方税率调整，本条仅source_checked行业表态，法规仍以2026/2547原文为准。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-21T07:30:07Z"
     },
     {
       "id": "8b2f4bda7383ee6aa3c8",
@@ -1636,49 +1614,6 @@
       "retry_after": "2026-11-27T00:00:00Z",
       "review_evidence_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93OVZpUnNjMmZaaURVYXo2am05M0REb244WnpFZDZ3WkRPN0IzZHMtU1ZGd1JFU3h1YjdDc0tmYkpScURFcFNFQzFyQi1sUHNzTlUwTjlibzRXMV9FS0tZ?oc=5",
       "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。"
-    },
-    {
-      "id": "464cefd55769160a508b",
-      "title_zh": "What is CBAM, the EU's carbon border tax, and who pays it from 2026?",
-      "title_en": "What is CBAM, the EU's carbon border tax, and who pays it from 2026?",
-      "title_original": "What is CBAM, the EU's carbon border tax, and who pays it from 2026?",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfLW9lZmZsVjFUdjRsVlhGaWRIS1lUWFdHVzhuT016Nnc3NnNpbHRQRTFuaDYtUWNUZkNuS2oyTWIwVjdOX0ZfQXk0eE9xRk9TM0VNaHlsMUJFdTdISmVSWnktMU9qRXF0bnpCN2M1N0FmdEFyUUxqcGtnZXlVZw?oc=5",
-      "published_at": "2026-11-16T02:35:00Z",
-      "source_published_date": "2026-11-16",
-      "source": {
-        "id": "rss",
-        "name": "CEO경제신문",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "碳与环保",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-20T20:46:43Z",
-      "last_seen": "2026-11-21T00:19:32Z",
-      "source_excerpt": "What is CBAM, the EU's carbon border tax, and who pays it from 2026? CEO경제신문",
-      "machine_translation": {
-        "title_zh": "欧盟的碳边界税CBAM是什么? 谁从2026支付?",
-        "excerpt_zh": "欧盟碳边界税CBAM是什么? 谁从2026支付?CEO?",
-        "fingerprint": "ead5225e530d9e0bba922d0c9654a8fade73803d19eb1a99918e7cf6344c1c83",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-11-20T20:48:50Z"
-      }
     },
     {
       "id": "764a0e5e8808d576158f",
@@ -2509,6 +2444,109 @@
         "method": "editor_translation",
         "coverage": "标题翻译，不代表全文核验"
       }
+    },
+    {
+      "id": "707bf3a1636a45887b23-2026-11-13",
+      "title_zh": "中国日报报道钢铁节能进展：行业数据不能替代产品碳排放证据",
+      "title_en": "China Daily reports steel-sector energy savings; aggregate progress is not product emissions evidence",
+      "title_original": "Steel sector sees green milestone",
+      "summary_zh": "中国日报11月13日报道，中钢协人士在10月28日论坛介绍行业能效提升与低碳技术进展。报道反映行业与企业转型，不是新的贸易措施。",
+      "summary_en": "China Daily reports on 13 November remarks at an industry forum on 28 October about energy efficiency and low-carbon steel technology. This is industry progress, not a new trade measure.",
+      "impact_zh": "业务判断：可作为客户沟通的行业背景；具体钢厂、工艺和产品的排放证据仍需单独提供，不能用行业整体减排成绩替代订单数据。",
+      "impact_en": "Business assessment: useful context for customers. Mill, process and product emissions evidence remains separate from aggregate industry progress.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
+      "published_at": "2026-11-13T00:00:00Z",
+      "source": {
+        "id": "rss",
+        "name": "China Daily Global Edition",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "碳与环保",
+      "status": "新闻",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "中国钢铁",
+        "能效",
+        "低碳转型"
+      ],
+      "tags_en": [
+        "Chinese steel",
+        "Energy efficiency",
+        "Decarbonisation"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-13T14:56:04Z",
+      "last_seen": "2026-11-19T21:00:18Z",
+      "source_excerpt": "Steel sector sees green milestone China Daily Global Edition",
+      "source_published_date": "2026-11-12",
+      "coverage": "已读取中国日报原始报道；按原站发布日期纠正RSS的11月12日观察日期。未独立审计报道引用的行业减排统计。",
+      "evidence_url": "https://www.chinadaily.com.cn/a/202611/13/WS6af679cce4b03ebf8519c384.html",
+      "follow_up": "销售材料区分行业统计、钢厂实测和产品核验结果。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-15"
+    },
+    {
+      "id": "a93f966e731d31187831",
+      "title_zh": "意大利钢贸协会要求将欧盟CBAM小额豁免门槛从50吨提高至500吨",
+      "title_en": "Assofermet asks EU to raise CBAM de minimis threshold from 50 to 500 tonnes",
+      "title_original": "Assofermet calls on EU to raise CBAM exemption threshold to 500 tonnes",
+      "summary_zh": "【事实】意大利钢铁贸易、分销与加工行业协会Assofermet致函欧委会，建议将CBAM每进口商每年小额豁免门槛从50吨提高至500吨，理由是拟扩围至钢铝下游制成品后，中小进口商面临较高行政成本。协会还要求针对下游产品重新开展影响评估，研究差异化门槛和防规避措施。该要求属于行业倡议，欧盟尚未据此修改现行50吨门槛；欧洲议会有关扩围的修正案亦不等于最终生效法规。报道所称约500个新增类别及97%进口商豁免等均为协会/媒体口径，非本轮独立核实的最终法定范围。",
+      "summary_en": "Italian steel distribution association Assofermet urged the Commission to raise the annual CBAM de minimis threshold from 50 to 500 tonnes per importer in view of proposed downstream steel/aluminium coverage. This is an industry request, not an adopted threshold change; downstream product scope remains subject to the legislative process.",
+      "impact_zh": "【研判】若未来获采纳，小批量钢制品进口商的CBAM合规负担可能下降；目前对中国钢材及制品出口欧盟的报价、客户年度进口量判断仍应沿用现行50吨规则，不得按500吨假设免税。",
+      "impact_en": "No immediate change to CBAM obligations; use the current 50-tonne rule until legislation is formally amended.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVVvakktenJOVGNuSGRSbzBIMUh4WWlLNkxtVkVtb3lfQkNXS1UydFVQRFlGR0I2S1pXSTBQMXVGc0ViNUJtVnRRNUdQSTB2czBuQjRPM0h5b2tjWUlkSl8yN3QyRW5ZTENvMkJtMUh1OGZlWHlDbWhYbXk2RHFPb0FLajZxSnhGbi1EVDF1NFNtZ0ZXUXU4YVJnRzlvSmNhLUJfTdIBpAFBVV95cUxNVVVvakktenJOVGNuSGRSbzBIMUh4WWlLNkxtVkVtb3lfQkNXS1UydFVQRFlGR0I2S1pXSTBQMXVGc0ViNUJtVnRRNUdQSTB2czBuQjRPM0h5b2tjWUlkSl8yN3QyRW5ZTENvMkJtMUh1OGZlWHlDbWhYbXk2RHFPb0FLajZxSnhGbi1EVDF1NFNtZ0ZXUXU4YVJnRzlvSmNhLUJfTQ?oc=5",
+      "published_at": "2026-11-12T10:21:30Z",
+      "source": {
+        "id": "rss",
+        "name": "GMK Center",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "碳与环保",
+      "status": "行业政策倡议／尚未立法",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [
+        "CBAM",
+        "豁免门槛",
+        "下游钢制品",
+        "意大利"
+      ],
+      "tags_en": [
+        "CBAM",
+        "de minimis",
+        "downstream steel",
+        "Italy"
+      ],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-12T15:37:23Z",
+      "last_seen": "2026-11-19T00:45:29Z",
+      "source_excerpt": "Assofermet calls on EU to raise CBAM exemption threshold to 500 tonnes GMK Center",
+      "coverage": "2026-11-12核对BricoMagazine 11月11日意大利语原始报道、SteelOrbis及GMK Center报道，并对照欧盟理事会2025年50吨简化协议和2026年下游扩围谈判说明；未取得协会致函全文，具体协会估算和扩围清单仅有限覆盖。",
+      "follow_up": "跟踪欧盟理事会与议会就CBAM下游扩围的最终法案及豁免门槛；核对最终CN编码、产品重量计算与防规避规定。",
+      "evidence_url": "https://www.bricomagazine.com/cbam-assofermet-chiede-alla-ue-di-rivedere-la-soglia/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-12",
+      "related_sources": [
+        {
+          "name": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXhnaUpUUGFBZzVPbGxGMmNBdm1hRXNldF9LVXlsMGota3dWNnFYYUd5QmZlT1QyUkw0RUFLNnd0cV9MdXN6dHRqbERDbDJiRjFCbFhZWE9ha2dhQ3VCRnpQZ08tdEM1Uld1NFVoNVZmV1JsTFNHYlgwVnktQ1BQa2UzN2NFQlRyVldxMmNyNUhCa1NoTFFFYzdYOHBpT1NQeGgtN09mZw?oc=5"
+        }
+      ]
     }
   ]
 }

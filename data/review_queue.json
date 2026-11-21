@@ -1,131 +1,10 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-21T00:19:32Z",
-  "pending_count": 36,
-  "actionable_count": 5,
-  "blocked_count": 31,
-  "items": [
-    {
-      "id": "cb2c35f096255a55b199",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmhmRnF0X29Xb3dqS04weU9sS3JIbzA1NUY0VFc4RUNsLV9kbldZSHNYTzhfRkpKOFpLaVA0aFlmWGF0WFF3Sk80UC1LWXFqNW5vWURXeFQxcVExRTF5dmI1ejY5ZlVwWlUyYkZBRjlhQ0VpMGNuaDlSTVJVdmVKMllVQXVoZ2d2ckVDRDVfQk1zdFVQZ1VtVFcyYlY2dw?oc=5",
-      "published_at": "2026-11-20T07:58:28Z",
-      "title_original": "UK imposes anti-dumping duty on steel plate from South Korea",
-      "first_seen": "2026-11-21T00:19:32Z",
-      "last_seen": "2026-11-21T00:19:32Z",
-      "source": {
-        "id": "rss",
-        "name": "SteelRadar",
-        "kind": "news",
-        "official": false
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-20",
-      "source_excerpt": "UK imposes anti-dumping duty on steel plate from South Korea SteelRadar",
-      "needs_translation": false,
-      "title_zh": "联合王国对来自韩国的钢板施以反倾销税",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "db08d0d9e28ae0b7",
-      "related_reviews": []
-    },
-    {
-      "id": "d45766ca1ab5de9a6cd1",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnAwM3hVZmFmaEluZW1veE5NcHJNQkVQRUJkMGIzbjh0M1QtdjNZY1dVMk1BaGFVcjFYLWxBYmZHRjcwRzZXZ0s0T2dsQ2xkdmYzMVljWE5jUU5WR2o0d3NFRnFkNHh4S2F5T3dUT3hnNktNbTFJTkl6OHdSM2lRVlJvNDBHV0lsY3BMaHQzMGRqeUZLT0JMdF9IbTNjRFpRV1NGR0JXcHdFTGg0LTUydGZEbFAxMjRHcW82bg?oc=5",
-      "published_at": "2026-11-20T10:56:03Z",
-      "title_original": "Steel on the Border: Trade exposure and the implications of UK and EU CBAM for UK Steel",
-      "first_seen": "2026-11-20T20:46:43Z",
-      "last_seen": "2026-11-21T00:19:32Z",
-      "source": {
-        "id": "rss",
-        "name": "Energy & Climate Intelligence Unit | ECIU",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-20",
-      "source_excerpt": "Steel on the Border: Trade exposure and the implications of UK and EU CBAM for UK Steel Energy & Climate Intelligence Unit | ECIU",
-      "needs_translation": false,
-      "title_zh": "边境钢:贸易暴露情况以及联合王国和欧盟CBAM对联合王国钢的影响",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "f756735e8bdcb42f",
-      "related_reviews": []
-    },
-    {
-      "id": "2b50dba76b58228bfaac",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc1JiYm5BRU9aN3hXV3N1bklsaGg1NWlJMW1teDVzUFFTcDNlenlfM3JEbE5QZmYyRTZ6OWU0enJ5NjNyTWo0bHdnUUEzN2VaMmUwbFZWTXFQdHFuTXRtUzdiTEQ3ay1aRktKUWF5YWp2VWMxdEpGaXd4MExKb3g0N0Y1T2N2WXZWa1BxOEt2ZEVDMnlKVEMxSmd5QlRBeWd4V0tLbXhPd0labWVrRmxLZA?oc=5",
-      "published_at": "2026-11-20T10:32:10Z",
-      "title_original": "拉美钢铁进口增长46.1%至7200万吨，中国份额升至39% - 新闻和统计",
-      "first_seen": "2026-11-20T20:46:43Z",
-      "last_seen": "2026-11-21T00:19:32Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-20",
-      "source_excerpt": "拉美钢铁进口增长46.1%至7200万吨，中国份额升至39% - 新闻和统计 IndexBox",
-      "needs_translation": false,
-      "title_zh": "拉美钢铁进口增长46.1%至7200万吨，中国份额升至39% - 新闻和统计",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "5606ecc4dff93b89",
-      "related_reviews": []
-    },
-    {
-      "id": "9af2849f3f703687330b",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmNYd1Y1X3Z0alpxRkY5QzVRTzFDbmtRdW9qN2V6WVdZZS1jOXVkSEUxaU1NT3JzaDl5S0E3WFk1b2tDeGc1TFY1eFIyTHhrRWxrcVBPZUVoMDJYN3ppLWlrZ0dlZW9rajJkOHl6Y3dFT1Y2XzN3TUFSbUxVM21sOGpXMktEYnB1cUZtd1c3TlcyY09haXZLcDdzb0NBWlc1SDExeFh5R2U?oc=5",
-      "published_at": "2026-11-17T04:11:00Z",
-      "title_original": "Steel Body Calls EU's Anti-Dumping Duties 'Unfair'",
-      "first_seen": "2026-11-20T20:46:43Z",
-      "last_seen": "2026-11-20T20:46:43Z",
-      "source": {
-        "id": "rss",
-        "name": "TradingView",
-        "kind": "news",
-        "official": false
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-17",
-      "source_excerpt": "Steel Body Calls EU's Anti-Dumping Duties 'Unfair' TradingView",
-      "needs_translation": false,
-      "title_zh": "钢体称欧盟的反倾销税为“不公平”",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "6311f3372ee0e283",
-      "related_reviews": []
-    },
-    {
-      "id": "464cefd55769160a508b",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfLW9lZmZsVjFUdjRsVlhGaWRIS1lUWFdHVzhuT016Nnc3NnNpbHRQRTFuaDYtUWNUZkNuS2oyTWIwVjdOX0ZfQXk0eE9xRk9TM0VNaHlsMUJFdTdISmVSWnktMU9qRXF0bnpCN2M1N0FmdEFyUUxqcGtnZXlVZw?oc=5",
-      "published_at": "2026-11-16T02:35:00Z",
-      "title_original": "What is CBAM, the EU's carbon border tax, and who pays it from 2026?",
-      "first_seen": "2026-11-20T20:46:43Z",
-      "last_seen": "2026-11-21T00:19:32Z",
-      "source": {
-        "id": "rss",
-        "name": "CEO경제신문",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-16",
-      "source_excerpt": "What is CBAM, the EU's carbon border tax, and who pays it from 2026? CEO경제신문",
-      "needs_translation": false,
-      "title_zh": "欧盟的碳边界税CBAM是什么? 谁从2026支付?",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "3084715ff923f6e7",
-      "related_reviews": []
-    }
-  ],
+  "pending_count": 32,
+  "actionable_count": 0,
+  "blocked_count": 32,
+  "items": [],
   "blocked_items": [
     {
       "id": "931e0609ebb87acd8a73",
@@ -166,6 +45,36 @@
         }
       ],
       "retry_after": "2026-11-21T20:30:00Z",
+      "retry_policy": "scheduled"
+    },
+    {
+      "id": "d45766ca1ab5de9a6cd1",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnAwM3hVZmFmaEluZW1veE5NcHJNQkVQRUJkMGIzbjh0M1QtdjNZY1dVMk1BaGFVcjFYLWxBYmZHRjcwRzZXZ0s0T2dsQ2xkdmYzMVljWE5jUU5WR2o0d3NFRnFkNHh4S2F5T3dUT3hnNktNbTFJTkl6OHdSM2lRVlJvNDBHV0lsY3BMaHQzMGRqeUZLT0JMdF9IbTNjRFpRV1NGR0JXcHdFTGg0LTUydGZEbFAxMjRHcW82bg?oc=5",
+      "published_at": "2026-11-20T10:56:03Z",
+      "title_original": "Steel on the Border: Trade exposure and the implications of UK and EU CBAM for UK Steel",
+      "first_seen": "2026-11-20T20:46:43Z",
+      "last_seen": "2026-11-21T00:19:32Z",
+      "source": {
+        "id": "rss",
+        "name": "Energy & Climate Intelligence Unit | ECIU",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "ECIU《Steel on the Border》为潜在重要的英国钢铁贸易暴露与CBAM分析，但本轮未取得可核验的报告全文或定量模型；不可将标题扩写成结论。",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnAwM3hVZmFmaEluZW1veE5NcHJNQkVQRUJkMGIzbjh0M1QtdjNZY1dVMk1BaGFVcjFYLWxBYmZHRjcwRzZXZ0s0T2dsQ2xkdmYzMVljWE5jUU5WR2o0d3NFRnFkNHh4S2F5T3dUT3hnNktNbTFJTkl6OHdSM2lRVlJvNDBHV0lsY3BMaHQzMGRqeUZLT0JMdF9IbTNjRFpRV1NGR0JXcHdFTGg0LTUydGZEbFAxMjRHcW82bg?oc=5",
+      "review_coverage": "检查队列RSS摘要并以报告题名、ECIU机构名检索公开来源，未定位可核验完整正文或图表；保留待复查，不标source_checked。",
+      "published_date": "2026-11-20",
+      "source_excerpt": "Steel on the Border: Trade exposure and the implications of UK and EU CBAM for UK Steel Energy & Climate Intelligence Unit | ECIU",
+      "needs_translation": false,
+      "title_zh": "边境钢:贸易暴露情况以及联合王国和欧盟CBAM对联合王国钢的影响",
+      "review_attempted_at": "2026-11-21T07:30:07Z",
+      "evidence_fingerprint": "f756735e8bdcb42f",
+      "related_reviews": [],
+      "retry_after": "2026-11-28T00:00:00Z",
       "retry_policy": "scheduled"
     },
     {
@@ -1091,5 +1000,5 @@
   ],
   "retry_items": [],
   "retry_due_count": 0,
-  "work_fingerprint": "0d105037e6c45775e369"
+  "work_fingerprint": "4f53cda18c2baa0c0354"
 }

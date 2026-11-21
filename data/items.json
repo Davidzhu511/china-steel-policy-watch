@@ -7293,6 +7293,10 @@
         {
           "name": "Traders Union",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnVCNHhpcmowUDRTQldWVDNlQkVkLVpjejZacXJOMDN1Nm1FWklnYU03Y1JfU3BYdTBiQVl2RVdraGdEdjZGQ0pZRlpoMVF0U1lvUU9GYmRTekVObDVJemZ4cTB6S3lCTTZTXzU1Rl9fWFl1UEhUenhRQ2s2ZUxCcWI2UDVMLVdhT0V1S1Jpcjd3bk5qa3lPNDNRWF8?oc=5"
+        },
+        {
+          "name": "SteelRadar",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmhmRnF0X29Xb3dqS04weU9sS3JIbzA1NUY0VFc4RUNsLV9kbldZSHNYTzhfRkpKOFpLaVA0aFlmWGF0WFF3Sk80UC1LWXFqNW5vWURXeFQxcVExRTF5dmI1ejY5ZlVwWlUyYkZBRjlhQ0VpMGNuaDlSTVJVdmVKMllVQXVoZ2d2ckVDRDVfQk1zdFVQZ1VtVFcyYlY2dw?oc=5"
         }
       ],
       "source_translation": {
@@ -9608,17 +9612,24 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T20:48:37Z"
-      }
+      },
+      "review_disposition": "blocked",
+      "review_note_zh": "ECIU《Steel on the Border》为潜在重要的英国钢铁贸易暴露与CBAM分析，但本轮未取得可核验的报告全文或定量模型；不可将标题扩写成结论。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-21T07:30:07Z",
+      "retry_after": "2026-11-28T00:00:00Z",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnAwM3hVZmFmaEluZW1veE5NcHJNQkVQRUJkMGIzbjh0M1QtdjNZY1dVMk1BaGFVcjFYLWxBYmZHRjcwRzZXZ0s0T2dsQ2xkdmYzMVljWE5jUU5WR2o0d3NFRnFkNHh4S2F5T3dUT3hnNktNbTFJTkl6OHdSM2lRVlJvNDBHV0lsY3BMaHQzMGRqeUZLT0JMdF9IbTNjRFpRV1NGR0JXcHdFTGg0LTUydGZEbFAxMjRHcW82bg?oc=5",
+      "review_coverage": "检查队列RSS摘要并以报告题名、ECIU机构名检索公开来源，未定位可核验完整正文或图表；保留待复查，不标source_checked。"
     },
     {
       "id": "2b50dba76b58228bfaac",
-      "title_zh": "拉美钢铁进口增长46.1%至7200万吨，中国份额升至39% - 新闻和统计",
-      "title_en": "拉美钢铁进口增长46.1%至7200万吨，中国份额升至39% - 新闻和统计",
+      "title_zh": "研究称2019—2025年拉美直接及间接钢材进口增46.1%，中国在六大产钢国进口份额升至39%",
+      "title_en": "Secondary analysis: Latin American direct and indirect steel imports rose 46.1% in 2019–25; China share of LAC6 imports reached 39%",
       "title_original": "拉美钢铁进口增长46.1%至7200万吨，中国份额升至39% - 新闻和统计",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "【研究报道，非海关钢材进口统计】IndexBox 2026年11月20日引述Mesteel和经合组织(OECD)研究称，2019—2025年拉美直接进口钢材及嵌入制成品的间接钢材进口合计增长46.1%，2025年达到约7200万吨；阿根廷、巴西、智利、哥伦比亚、墨西哥和秘鲁六国(LAC6)直接及间接钢材进口从3760万吨升至5540万吨，来自中国的对应供应从910万吨升至2160万吨，占比由24%升至39%。报道还称间接进口约占相关供应40%，LAC6钢厂产能利用率约60%。以上口径含汽车、机械、设备等成品所含钢材，不等于7200万吨钢材海关进口量；本轮核对了IndexBox全文，未取得并逐表复算OECD原始报告。",
+      "summary_en": "IndexBox (20 Nov), citing Mesteel/OECD, reports Latin American direct-plus-indirect steel imports up 46.1% in 2019–25 to 72 Mt. China's share of LAC6 direct-plus-indirect imports reportedly rose from 24% to 39% (9.1 to 21.6 Mt). Figures include steel embedded in manufactured goods, not solely customs-recorded steel imports. Original OECD tables were not independently verified.",
+      "impact_zh": "【业务研判】拉美钢材竞争压力及贸易救济风险值得跟踪，但不能将39%直接用作中国成品钢材在拉美市场的海关进口份额。出口报价应分别分析各国热轧、冷轧、镀锌及板坯的直接进口量、原产地限制和贸易救济，特别关注墨西哥、巴西及哥伦比亚。该报告显示的进口渗透率变化可作为市场背景，不应替代逐国逐税号统计。",
+      "impact_en": "The study signals competitive pressure in Latin America but the 39% figure is not China's customs share of steel imports. Validate direct imports and trade remedies by country and HS code before pricing.",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc1JiYm5BRU9aN3hXV3N1bklsaGg1NWlJMW1teDVzUFFTcDNlenlfM3JEbE5QZmYyRTZ6OWU0enJ5NjNyTWo0bHdnUUEzN2VaMmUwbFZWTXFQdHFuTXRtUzdiTEQ3ay1aRktKUWF5YWp2VWMxdEpGaXd4MExKb3g0N0Y1T2N2WXZWa1BxOEt2ZEVDMnlKVEMxSmd5QlRBeWd4V0tLbXhPd0labWVrRmxLZA?oc=5",
       "published_at": "2026-11-20T10:32:10Z",
       "source_published_date": "2026-11-20",
@@ -9630,7 +9641,7 @@
       },
       "country": "全球",
       "region": "全球",
-      "category": "市场与产能",
+      "category": "市场与需求",
       "status": "新闻",
       "importance": "中",
       "products": [],
@@ -9640,10 +9651,15 @@
       "language": "zh",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-20T20:46:43Z",
       "last_seen": "2026-11-21T00:19:32Z",
-      "source_excerpt": "拉美钢铁进口增长46.1%至7200万吨，中国份额升至39% - 新闻和统计 IndexBox"
+      "source_excerpt": "拉美钢铁进口增长46.1%至7200万吨，中国份额升至39% - 新闻和统计 IndexBox",
+      "evidence_url": "https://www.indexbox.io/blog/steel-imports-to-latin-america-rise-461-to-72-million-tonnes-in-2019-2025/",
+      "follow_up": "取得OECD原报告，分拆直接/间接进口并与Alacero、各国海关按HS编码核对；再分析首钢板卷、板坯目标市场。",
+      "coverage": "2026-11-21读取IndexBox 2026-11-20全文，核对72Mt、46.1%、LAC6 55.4Mt、中国21.6Mt与39%及直接/间接进口口径；仅为二手引用，未获得OECD原始表格及海关细项，故limited。原始队列为Google News RSS，不把转述统计标记为独立官方核验。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-21T07:30:07Z"
     },
     {
       "id": "cb2c35f096255a55b199",
@@ -9686,7 +9702,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-21T00:21:25Z"
-      }
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "SteelRadar转述英国对韩国热轧中厚板终裁，事件与英国TRA已核验的11月19日官方新闻一致，无新的独立税率或范围变化。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-21T07:30:07Z",
+      "duplicate_of": "https://gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea"
     },
     {
       "id": "0248839773c48250914f",
@@ -10912,13 +10933,13 @@
     },
     {
       "id": "9af2849f3f703687330b",
-      "title_zh": "Steel Body Calls EU's Anti-Dumping Duties 'Unfair'",
-      "title_en": "Steel Body Calls EU's Anti-Dumping Duties 'Unfair'",
+      "title_zh": "印度钢铁协会质疑欧盟冷轧板反倾销终裁中的特殊市场状况认定",
+      "title_en": "Indian Steel Association criticises EU particular-market-situation assessment in cold-rolled steel AD ruling",
       "title_original": "Steel Body Calls EU's Anti-Dumping Duties 'Unfair'",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "【行业表态，非新法规】11月17日《经济时报》报道，印度钢铁协会(ISA)秘书长Alok Sahay批评欧盟在冷轧板反倾销终裁中采用特殊市场状况(PMS)方法核算印度生产成本，认为未采用企业实际成本可能推高倾销幅度。欧盟2026/2547号条例对印度相关冷轧扁平材最终税率为9.5%，已在此前正式法规主条核验。本报道仅反映行业协会对调查方法的争议，不是撤销、暂缓执行、复审立案或税率调整公告。",
+      "summary_en": "Economic Times reported on 17 Nov that ISA secretary general Alok Sahay criticised the EU's use of particular-market-situation methodology in its cold-rolled AD determination. The existing definitive duty on Indian-origin covered CRC remains 9.5%; the statement is not a legal change.",
+      "impact_zh": "【研判】PMS方法争议可能影响印度企业后续游说、司法挑战和贸易救济策略，但当前没有证据证明税率已改变。中国钢材与印度冷轧板在欧盟的到岸成本比较仍按正式条例、各自贸易救济、配额、CBAM和客户认证分别核算；关注是否出现正式司法或行政复审文件。",
+      "impact_en": "Monitor any formal appeal or review; industry criticism alone does not change duties. Compare Chinese and Indian landed costs using applicable measures and CBAM.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYmNYd1Y1X3Z0alpxRkY5QzVRTzFDbmtRdW9qN2V6WVdZZS1jOXVkSEUxaU1NT3JzaDl5S0E3WFk1b2tDeGc1TFY1eFIyTHhrRWxrcVBPZUVoMDJYN3ppLWlrZ0dlZW9rajJkOHl6Y3dFT1Y2XzN3TUFSbUxVM21sOGpXMktEYnB1cUZtd1c3TlcyY09haXZLcDdzb0NBWlc1SDExeFh5R2U?oc=5",
       "published_at": "2026-11-17T04:11:00Z",
       "source_published_date": "2026-11-17",
@@ -10940,7 +10961,7 @@
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-20T20:46:43Z",
       "last_seen": "2026-11-20T20:46:43Z",
       "source_excerpt": "Steel Body Calls EU's Anti-Dumping Duties 'Unfair' TradingView",
@@ -10951,7 +10972,12 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T20:48:49Z"
-      }
+      },
+      "evidence_url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/indian-steel-association-calls-eus-anti-dumping-duty-assessment-unfair/articleshow/135900514.cms",
+      "follow_up": "跟踪印度钢铁协会、欧盟DG TRADE和欧盟法院有无正式复审、诉讼或临时措施；如无，不重复作为新政策发布。",
+      "coverage": "2026-11-21核对11月17日Economic Times报道与TradingView转载原文，核实ISA发言人、PMS争议和9.5%税率；PMS属于协会观点，未发现任何官方税率调整，本条仅source_checked行业表态，法规仍以2026/2547原文为准。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-21T07:30:07Z"
     },
     {
       "id": "690e42f07336337a4697",
@@ -11980,7 +12006,11 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-20T20:48:50Z"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "一般性CBAM入门解释，无可识别的新法规、截止日期或出口业务增量事实；不因标题涉及CBAM就重复发布。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-21T07:30:07Z"
     },
     {
       "id": "764a0e5e8808d576158f",
