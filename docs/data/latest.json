@@ -1128,6 +1128,10 @@
       "first_seen": "2026-11-18T15:59:14Z",
       "last_seen": "2026-11-21T19:50:44Z",
       "source_excerpt": "",
+      "priority_signal": {
+        "zh": "贸易救济程序 · 待核对",
+        "en": "Trade-remedy procedure · review needed"
+      },
       "review_disposition": "blocked",
       "review_note_zh": "2026/2538号条例官方标题可确认是更正2025/1919号对埃及、日本、越南热轧扁平材反倾销条例，但本轮EUR-Lex正文不可读取；未核实更正的企业名称、附加码及其法律效力。仅标题翻译，不推定税率变化。",
       "review_note_en": "",
@@ -1140,10 +1144,6 @@
         "translated_at": "2026-11-18T19:33:15.044Z",
         "method": "editor_translation",
         "coverage": "标题翻译，不代表全文核验"
-      },
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
       }
     },
     {
@@ -1600,7 +1600,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-21T19:50:44Z",
       "last_seen": "2026-11-21T19:50:44Z",
-      "source_excerpt": "Where extending the EU’s carbon border adjustment mechanism does – and does not – make sense Centre for European Reform (CER)"
+      "source_excerpt": "Where extending the EU’s carbon border adjustment mechanism does – and does not – make sense Centre for European Reform (CER)",
+      "machine_translation": {
+        "title_zh": "扩大欧盟的碳边境调节机制是有道理的,也是没有道理的。",
+        "excerpt_zh": "扩大欧盟的碳边境调节机制确实而且不符合欧洲改革中心(CER)的意义",
+        "fingerprint": "f8565f1b1e0e90f492258dbc8b5225d085fb867991f5a299bce63c1754d886d6",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-21T19:52:23Z"
+      }
     },
     {
       "id": "b42da40399cd0b2d2e7f",
