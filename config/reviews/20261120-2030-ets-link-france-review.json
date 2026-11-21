@@ -118,7 +118,7 @@
     {
       "url": "https://gov.uk/government/publications/uk-eu-linking-agreement-explainer",
       "published_date": "2026-11-20",
-      "decision": "irrelevant",
+      "decision": "excluded",
       "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
       "attempted_at": "2026-11-20T19:30:56Z",
       "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
@@ -126,7 +126,7 @@
     {
       "url": "https://gov.uk/government/publications/participating-in-the-uk-ets",
       "published_date": "2026-11-20",
-      "decision": "irrelevant",
+      "decision": "excluded",
       "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
       "attempted_at": "2026-11-20T19:30:56Z",
       "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
@@ -134,7 +134,7 @@
     {
       "url": "https://gov.uk/government/collections/uk-emissions-trading-scheme-uk-ets-technical-guidance-and-tools",
       "published_date": "2026-11-20",
-      "decision": "irrelevant",
+      "decision": "excluded",
       "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
       "attempted_at": "2026-11-20T19:30:56Z",
       "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
@@ -146,12 +146,12 @@
       "reason_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
       "attempted_at": "2026-11-20T19:30:56Z",
       "coverage": "2026-11-20核对RSS标题与既有官方已核验主条的事件一致性；转载全文未逐条复核。",
-      "duplicate_of": "https://www.gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping/trade-remedies-notice-202632-definitive-anti-dumping-measure-on-hot-rolled-steel-plate-originating-from-south-korea"
+      "duplicate_of": "https://gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping"
     },
     {
       "url": "https://gov.uk/government/collections/uk-emissions-trading-scheme-uk-ets-technical-guidance-and-tools",
       "published_date": "2026-11-19",
-      "decision": "irrelevant",
+      "decision": "excluded",
       "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
       "attempted_at": "2026-11-20T19:30:56Z",
       "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
@@ -168,7 +168,7 @@
     {
       "url": "https://gov.uk/government/publications/check-the-default-values-for-the-carbon-border-adjustment-mechanism-cbam",
       "published_date": "2026-11-19",
-      "decision": "irrelevant",
+      "decision": "excluded",
       "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
       "attempted_at": "2026-11-20T19:30:56Z",
       "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
@@ -176,7 +176,7 @@
     {
       "url": "https://gov.uk/guidance/getting-the-emissions-intensity-when-importing-carbon-border-adjustment-mechanism-cbam-goods",
       "published_date": "2026-11-19",
-      "decision": "irrelevant",
+      "decision": "excluded",
       "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
       "attempted_at": "2026-11-20T19:30:56Z",
       "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
@@ -184,7 +184,7 @@
     {
       "url": "https://gov.uk/government/publications/taking-part-in-the-uk-emissions-trading-scheme-markets",
       "published_date": "2026-11-20",
-      "decision": "irrelevant",
+      "decision": "excluded",
       "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
       "attempted_at": "2026-11-20T19:30:56Z",
       "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
@@ -192,7 +192,7 @@
     {
       "url": "https://gov.uk/government/publications/uk-emissions-trading-scheme-uk-ets-policy-overview",
       "published_date": "2026-11-20",
-      "decision": "irrelevant",
+      "decision": "excluded",
       "reason_zh": "英国ETS常规制度/技术指引或CBAM已核验说明页，本条未提供独立于11月20日互联协议及既有CBAM规则的新钢铁出口政策变更；不删除原始历史。",
       "attempted_at": "2026-11-20T19:30:56Z",
       "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
@@ -214,7 +214,7 @@
       "reason_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
       "attempted_at": "2026-11-20T19:30:56Z",
       "coverage": "2026-11-20核对RSS标题与既有官方已核验主条的事件一致性；转载全文未逐条复核。",
-      "duplicate_of": "https://www.gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping/trade-remedies-notice-202632-definitive-anti-dumping-measure-on-hot-rolled-steel-plate-originating-from-south-korea"
+      "duplicate_of": "https://gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQjZ5Y3lwU2p1LTVwWGNLUzNVZ08xNXhwZm0yYm1fYng0X2hSekJHQ1dmRlEycThwaVNCbXVaT0NXRW16OTRBd3ZXejhFLVg1WjRjTTEzbHVMdEtRQ0ZQNXBTM2pXTzBLb05BcWtMQ2JTUW14di15M2M4R1ozQmJVUkMtUVQwTzhpWHZvekNHX3NpcGhDZEs5bGVFWGtYbVpKcm53cVE2Y0pkcDRRcWZKX29FUlRVbUtDUVZ2YmhuUWtMcU42QjZ0OEhBUHU?oc=5",
@@ -239,7 +239,7 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3TWdXd3FsbVBDVjV0dUZFa3VaYnU1OHRxYU02eVVvTkdlMzEzbHlJWDM5VEVkWEhLM2N6VWsxdjYxN0VjVVlEUzZFMFQ0a1lmcHlTcndIZjFFc0lPT3JjZV9FckVTbmV6?oc=5",
       "published_date": "2026-11-18",
-      "decision": "irrelevant",
+      "decision": "excluded",
       "reason_zh": "新闻主题为锂矿/镍铁一般动态、集成电路出口或历史中澳铁矿石合作，不涉及本看板当前钢材贸易政策或可操作出口风险。",
       "attempted_at": "2026-11-20T19:30:56Z",
       "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
@@ -257,7 +257,7 @@
     {
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tSG0tYkhQLXFGS0tLNGxGWGN1eWc2c2FONjdnZWxFQVRVQ1BQX0FrRkZmdWE0YjhUdDcxbk1Rbm0xbmsxLVhLam1mbERHSmV3RERZc241eTNJR2ZWcWVMV0VRTlg3UmVf?oc=5",
       "published_date": "2026-11-18",
-      "decision": "irrelevant",
+      "decision": "excluded",
       "reason_zh": "新闻主题为锂矿/镍铁一般动态、集成电路出口或历史中澳铁矿石合作，不涉及本看板当前钢材贸易政策或可操作出口风险。",
       "attempted_at": "2026-11-20T19:30:56Z",
       "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
@@ -275,7 +275,7 @@
     {
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBncFBFd19YR25fcGFkQmZGY0MyNjVlMWN2TXlLMllvRmpNSS1tUFFCb2JzMS0tMmt0WnhnVVBGZUM1Tl9USm02aHpBUTcxN2V3d3FBNDMzcmtqV2Fha0dYMmQ1Q2xzQmFHVkNCTHU5UQ?oc=5",
       "published_date": "2026-11-17",
-      "decision": "irrelevant",
+      "decision": "excluded",
       "reason_zh": "新闻主题为锂矿/镍铁一般动态、集成电路出口或历史中澳铁矿石合作，不涉及本看板当前钢材贸易政策或可操作出口风险。",
       "attempted_at": "2026-11-20T19:30:56Z",
       "coverage": "2026-11-20依据可读标题及摘录进行范围分流；未将其作为政策新事实。"
@@ -307,7 +307,7 @@
       "reason_zh": "与此前已核验官方政策主条属于同一事件，无可证实的新法规变化；以正式来源为准，不重复计数。",
       "attempted_at": "2026-11-20T19:30:56Z",
       "coverage": "2026-11-20核对RSS标题与既有官方已核验主条的事件一致性；转载全文未逐条复核。",
-      "duplicate_of": "https://www.gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping/trade-remedies-notice-202632-definitive-anti-dumping-measure-on-hot-rolled-steel-plate-originating-from-south-korea"
+      "duplicate_of": "https://gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping"
     },
     {
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXI0NkI0ckVFQlVYeW9PRmgtWDdHWEJOQ25sTkZvaFdhbkp3X3lVT3JWR0tYa1F5WmFybi1xOEVTVE9OZ1h3VWZpNzVScFRDREx3cVhCNG1rSlBuY09VdWRrdk8zejFIbldEb0dQUFNIbzNCR1pWODFjRHpLbFpuTUNkcFJOQ0J2S1BfT0lEWUtIaV9jUE5wbFBRbFJhQlRBWEF0Ng?oc=5",
