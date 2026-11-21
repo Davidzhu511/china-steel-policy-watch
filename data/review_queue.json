@@ -436,8 +436,8 @@
       "translation_state": "pending",
       "published_date": "2026-11-20",
       "source_excerpt": "UK imposes anti-dumping duty on steel plate from South Korea SteelRadar",
-      "needs_translation": true,
-      "title_zh": "UK imposes anti-dumping duty on steel plate from South Korea",
+      "needs_translation": false,
+      "title_zh": "联合王国对来自韩国的钢板施以反倾销税",
       "review_attempted_at": "",
       "evidence_fingerprint": "db08d0d9e28ae0b7",
       "related_reviews": []
