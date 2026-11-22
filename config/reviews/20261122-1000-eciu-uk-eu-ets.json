@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-22T10:00:00+01:00",
+  "editorial": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnAwM3hVZmFmaEluZW1veE5NcHJNQkVQRUJkMGIzbjh0M1QtdjNZY1dVMk1BaGFVcjFYLWxBYmZHRjcwRzZXZ0s0T2dsQ2xkdmYzMVljWE5jUU5WR2o0d3NFRnFkNHh4S2F5T3dUT3hnNktNbTFJTkl6OHdSM2lRVlJvNDBHV0lsY3BMaHQzMGRqeUZLT0JMdF9IbTNjRFpRV1NGR0JXcHdFTGg0LTUydGZEbFAxMjRHcW82bg?oc=5",
+      "match_published_date": "2026-11-20",
+      "published_date": "2026-11-19",
+      "reviewed_at": "2026-11-22",
+      "title_zh": "ECIU报告比较英欧CBAM：热轧卷默认排放成本按两套制度分别测算",
+      "title_en": "ECIU compares illustrative UK and EU CBAM costs for hot-rolled steel",
+      "summary_zh": "ECIU报告引用CBI Economics分析。按贸易额计，2024年欧盟占英国钢材出口的67%、进口的66%。报告表1用英国热轧卷产品默认排放值2.649–3.778 tCO₂e/吨和HMRC示例费率£9.69/tCO₂e，测得约£26–37/吨。中国热轧卷按欧盟默认值及2026年第三季度证书价€82.32测得约€179/吨（2026年进口），同一证价套用2027年参数约€208/吨。上述为报告情景，币种、年份及免费配额调整口径不同。",
+      "summary_en": "ECIU draws on CBI Economics analysis. In 2024 the EU accounted for 67% of UK steel exports and 66% of imports by value. Table 1 models UK hot-rolled coil at around GBP 26–37/t using product defaults of 2.649–3.778 tCO₂e/t and HMRC’s illustrative GBP 9.69/tCO₂e rate. Chinese hot-rolled coil using EU defaults and the Q3 2026 certificate price of EUR 82.32 is modelled at about EUR 179/t for 2026 imports or EUR 208/t under 2027 parameters at the same price. The scenarios use different currencies, years and free-allocation adjustments.",
+      "impact_zh": "对英国和欧盟分别按进口期、商品编码、对应排放数据及进口商可申报扣减核算到岸成本，再叠加各自的配额关税和贸易救济措施。报告所示差异值得纳入英国与欧盟报价的情景敏感性，实际订单按当期公布参数复算。欧英ETS联动及可能的互惠豁免见欧委会公告，按各项原产地规则及生效日期确认适用性。",
+      "impact_en": "Calculate landed costs separately for each market using the import period, commodity code, applicable emissions data and relief available to the importer. Add any applicable tariff-quota and trade-remedy charges. Use the report as a sensitivity case and reprice against the rates in force. Check the Commission notice and applicable origin and effective-date rules for the ETS link and possible reciprocal exemptions.",
+      "evidence_url": "https://eciu.net/analysis/reports/steel-on-the-border-trade-exposure-and-the-implications-of-uk-and-eu-cbam-for-uk-steel",
+      "coverage": "核对ECIU报告页（11月19日发布、20日更新）、PDF执行摘要及第2.2.1节表1。数字转述报告假设，未独立审计其全部模型。另核对欧委会11月20日公告以区分谈判完成与豁免生效。",
+      "category": "碳与环保",
+      "status": "研究报告",
+      "importance": "高",
+      "tags": [
+        "英国CBAM",
+        "欧盟CBAM",
+        "热轧卷",
+        "默认排放值"
+      ],
+      "tags_en": [
+        "UK CBAM",
+        "EU CBAM",
+        "hot-rolled coil",
+        "default values"
+      ],
+      "follow_up": "跟踪英国正式季度费率及对应商品默认值，逐单与欧盟适用证价、基准和实测排放对算。"
+    }
+  ],
+  "translations": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aV3AyVk5ZNFhDODZQVm9OaEdlbVBHSDBXMFBJMFpQVjB4c1l1a1M0UWFLSU5PRXVUcF9FMTdIUWFEN1JMR3ZiUGhEekZMX0wtMXhEckdWVjRERHVRYW5RUWFwZFRGYlMwZWVPWU9QRXo?oc=5",
+      "published_date": "2026-11-20",
+      "title_original": "Comment: UK-EU ETS Linkage",
+      "title_zh": "ECIU评论：英国与欧盟排放交易体系联动",
+      "translated_at": "2026-11-22"
+    }
+  ],
+  "triage": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aV3AyVk5ZNFhDODZQVm9OaEdlbVBHSDBXMFBJMFpQVjB4c1l1a1M0UWFLSU5PRXVUcF9FMTdIUWFEN1JMR3ZiUGhEekZMX0wtMXhEckdWVjRERHVRYW5RUWFwZFRGYlMwZWVPWU9QRXo?oc=5",
+      "published_date": "2026-11-20",
+      "decision": "duplicate",
+      "reason_zh": "已读ECIU官网评论。钢材部分为机构对欧英ETS联动的观点，与已核验官方主条关联。独立的钢材贸易与CBAM测算由ECIU报告条目单独覆盖。",
+      "attempted_at": "2026-11-22",
+      "coverage": "查阅ECIU评论正文钢材段，并比对欧委会及英国政府公告。其余化肥讨论未纳入钢铁条目。",
+      "evidence_url": "https://eciu.net/media/press-releases/comment-uk-eu-ets-linkage",
+      "duplicate_of": "https://climate.ec.europa.eu/news-other-reads/news/negotiations-finalised-link-eu-and-uk-emissions-trading-systems-2026-11-20_en"
+    }
+  ]
+}
