@@ -18,9 +18,14 @@
   "chinese_title_coverage": 99.7,
   "oldest_actionable_hours": 10.6,
   "offline_translation": {
-    "status": "queued",
+    "status": "partial",
     "translated": 0,
-    "warnings": []
+    "warnings": [
+      "1 条译文未通过完整性检查，保留原文待重试。"
+    ],
+    "remaining": 1,
+    "attempted_at": "2026-11-22T20:01:06Z",
+    "retry_after": "2026-11-23T02:01:06.505398+00:00"
   },
   "machine_translated_items": 11,
   "collected_items": 106,
@@ -106,5 +111,6 @@
   ],
   "warnings": [
     "官方版本检查 哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销: ValueError: Refusing a non-public URL"
-  ]
+  ],
+  "translation_updated_at": "2026-11-22T20:01:06Z"
 }
