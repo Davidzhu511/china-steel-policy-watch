@@ -1,59 +1,10 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-22T19:59:49Z",
-  "pending_count": 32,
-  "actionable_count": 2,
+  "pending_count": 30,
+  "actionable_count": 0,
   "blocked_count": 30,
-  "items": [
-    {
-      "id": "c14df6d7d36ba9f32dbf",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZGJBLVBZMkkxdmZtNURtVl9BelVCdlpCaTRPQjZBVUNZV3FySmhrNTlpNGFYSGpIdW0wVU1MRUFSRDhDQVp6QjN0OEJjRkJWdTUtcF95ZldSWU9ramVlMHZWN3NqOHNuUHYxVDBpY0tFSE0xaHFIQnI5UXRrVlRsOHM3RVBaTkFaWV92alVxY3VPQldxbE55Ylh0bmV3ZmE2V21uSEZJRVpXcHpCQjA4YWJWLXh6Q0lKdjVzc2pYbXpWNGvSAcMBQVVfeXFMTWRiQS1QWTJJMXZmbTVEbVZfQXpVQnZaQmk0T0I2QVVDWVdxckpoazU5aTRhWEhqSHVtMFVNTEVBUkQ4Q0FaekIzdDhCY0ZCVnU1LXBfeWZXUllPa2plZTB2VjdzajhzblB2MVQwaWNLRUhNMWhxSEJyOVF0a1ZUbDhzN0VQWk5BWllfdmpVcWN1T0JXcWxOeWJYdG5ld2ZhNldtbkhGSUVaV3B6QkIwOGFiVi14ekNJSnY1c3NqWG16VjRr?oc=5",
-      "published_at": "2026-11-22T02:30:52Z",
-      "title_original": "EU steel imports surged 65% ahead of CBAM launch, then fell 27%",
-      "first_seen": "2026-11-22T19:59:49Z",
-      "last_seen": "2026-11-22T19:59:49Z",
-      "source": {
-        "id": "rss",
-        "name": "Металлургпром",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-22",
-      "source_excerpt": "EU steel imports surged 65% ahead of CBAM launch, then fell 27% Металлургпром",
-      "needs_translation": true,
-      "title_zh": "EU steel imports surged 65% ahead of CBAM launch, then fell 27%",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "dee93b9e1bbb72fa",
-      "related_reviews": []
-    },
-    {
-      "id": "e6d7050638b764db18d5",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91ZjhzdzNTSWw5QmVZc1FObEIxNFkwOTd5RWdsV1VlQ3g4R1VPWWw4bk5XVTVpZmZ6bEU2bzl1dUFuQjYwaXBrMVdjMTZOLXZoelJGOUhPVHhqR0U?oc=5",
-      "published_at": "2026-11-22T08:00:20Z",
-      "title_original": "中国后板反倾销税豁免扩大，K-钢铁行业盈利能力担忧加剧",
-      "first_seen": "2026-11-22T09:24:57Z",
-      "last_seen": "2026-11-22T19:59:49Z",
-      "source": {
-        "id": "rss",
-        "name": "亚洲日报",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-22",
-      "source_excerpt": "中国后板反倾销税豁免扩大，K-钢铁行业盈利能力担忧加剧 亚洲日报",
-      "needs_translation": false,
-      "title_zh": "中国后板反倾销税豁免扩大，K-钢铁行业盈利能力担忧加剧",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "8716a067f9974b61",
-      "related_reviews": []
-    }
-  ],
+  "items": [],
   "blocked_items": [
     {
       "id": "33459cdc9ca148f0653d",
@@ -979,5 +930,5 @@
   "retry_items": [],
   "retry_due_count": 0,
   "next_retry_at": "2026-11-23T00:00:00Z",
-  "work_fingerprint": "18e330d1b342721afbaa"
+  "work_fingerprint": "4f53cda18c2baa0c0354"
 }

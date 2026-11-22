@@ -6,17 +6,17 @@
   "analysis_status": "unconfigured",
   "active_items": 343,
   "archived_items": 168,
-  "verified_items": 311,
-  "pending_analysis": 32,
-  "pending_translation": 1,
+  "verified_items": 313,
+  "pending_analysis": 30,
+  "pending_translation": 0,
   "blocked_items": 30,
-  "actionable_count": 2,
+  "actionable_count": 0,
   "blocked_count": 30,
   "retry_due_count": 0,
   "next_retry_at": "2026-11-23T00:00:00Z",
-  "pending_machine_translation": 1,
-  "chinese_title_coverage": 99.7,
-  "oldest_actionable_hours": 10.6,
+  "pending_machine_translation": 0,
+  "chinese_title_coverage": 100.0,
+  "oldest_actionable_hours": 0,
   "offline_translation": {
     "status": "partial",
     "translated": 0,
@@ -112,5 +112,6 @@
   "warnings": [
     "官方版本检查 哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销: ValueError: Refusing a non-public URL"
   ],
-  "translation_updated_at": "2026-11-22T20:01:06Z"
+  "translation_updated_at": "2026-11-22T20:01:06Z",
+  "editorial_updated_at": "2026-11-22T20:36:01Z"
 }
