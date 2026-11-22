@@ -4,7 +4,7 @@ Read README.md. GitHub Actions owns collection, incremental CPU translation, tes
 
 ## Routine editorial input
 
-Read `data/review_manifest.json` first. If actionable_count, retry_due_count and pending_translation are all zero, stop silently. Otherwise read `data/review_queue.json`. `items` are actionable; `blocked_items` are unverified; `retry_items` is a bounded due subset of blocked_items, not additional pending records. A blocked source is not a completed review.
+Read `data/review_manifest.json` first. If actionable_count, retry_due_count and pending_translation are all zero and next_retry_at has not arrived (or is unset), stop silently. If next_retry_at has arrived, check blocked_items against the current time. Otherwise read `data/review_queue.json`. `items` are actionable; `blocked_items` are unverified; `retry_items` is a bounded due subset of blocked_items, not additional pending records. A blocked source is not a completed review.
 
 Translate all untranslated headlines first, independently of full-text access. Source translation belongs in the batch's translations array, never mark it source_checked. Use queue excerpts and related_reviews before opening original sources. Triage the complete actionable list; no fixed five-item ceiling. Read original sources for substantive facts and business conclusions. Distinguish official measures, proposals, corporate opinions and market reporting; do not exclude useful market intelligence solely because it is not a regulation.
 
@@ -14,7 +14,7 @@ Retry at most the listed four due blocked items per run, prioritising official m
 
 ## Small, durable output
 
-Do not reread or rewrite the full editorial history for routine work. Create one new `config/reviews/YYYYMMDD-HHMM-description.json` with schema_version=1 and editorial, triage and/or translations arrays. Exact URL + published_date identifies a source version. Corrections to an observed date use match_published_date and preserve the true published_date. Match title_original as well for translations. Each verified editorial needs bilingual title, summary and impact, reviewed_at, evidence_url and coverage. Every duplicate requires duplicate_of pointing to a reviewed primary record. Legacy config/editorial.json and config/triage.json remain supported.
+Do not reread or rewrite the full editorial history for routine work. Create one new `config/reviews/YYYYMMDD-HHMM-description.json` with schema_version=1 and editorial, triage and/or translations arrays. Exact URL + published_date identifies a source version. Copy source_revision verbatim when the queue supplies it. Corrections to an observed date use match_published_date and preserve the true published_date. Match title_original as well for translations. Each verified editorial needs bilingual title, summary and impact, reviewed_at, evidence_url and coverage. Every duplicate requires duplicate_of pointing to a reviewed primary record. Legacy config/editorial.json and config/triage.json remain supported.
 
 Check for an existing matching open PR. Use an `editorial/` branch and a single content PR. New batch files are append-only; later batches supersede the same exact key. Preserve facts and links, do not overwrite unrelated history. The filename must match `[a-zA-Z0-9_-]+.json`. GitHub validates, merges and publishes; routine editing does not poll CI. A submitted PR is not proof of publication.
 

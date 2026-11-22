@@ -581,7 +581,9 @@
       const payload = await itemsResponse.json();
       state.status = await statusResponse.json();
       state.generatedAt = payload.generated_at;
-      state.items = (payload.items || []).filter((item) => !["excluded", "duplicate"].includes(item.review_disposition));
+      state.items = (payload.items || []).filter((item) => (
+        !item.superseded_at && !["excluded", "duplicate"].includes(item.review_disposition)
+      ));
       rebuildFilterOptions(); renderAll();
     } catch (error) {
       elements.live.classList.add("error"); elements.live.innerHTML = `<i></i><span>${escapeHtml(t("loadFailed"))}</span>`;

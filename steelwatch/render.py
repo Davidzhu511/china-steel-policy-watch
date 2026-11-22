@@ -7,6 +7,7 @@ import re
 from email.utils import format_datetime
 from pathlib import Path
 
+from .editorial import is_active_item
 from .util import atomic_json_write, load_json, now_iso, parse_datetime, trim_text
 
 
@@ -57,8 +58,7 @@ def render_outputs(data_dir: Path, docs_dir: Path) -> None:
     atomic_json_write(docs_data / "items.json", items_payload)
     atomic_json_write(docs_data / "status.json", status_payload)
     recent_items = sorted(
-        [item for item in items_payload.get("items", [])
-         if item.get("review_disposition") not in {"excluded", "duplicate"}],
+        [item for item in items_payload.get("items", []) if is_active_item(item)],
         key=lambda item: parse_datetime(item.get("published_at") or item.get("first_seen")),
         reverse=True,
     )

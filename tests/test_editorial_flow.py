@@ -186,3 +186,101 @@ def test_corrected_date_remembers_original_source_revision():
     _apply_editorial([row], config)
     assert row["source_published_date"] == "2026-11-12"
     assert row["published_at"].startswith("2026-11-13")
+
+
+def test_same_day_official_amendment_keeps_earlier_review_and_queues_new_version(
+    tmp_path, monkeypatch,
+):
+    from steelwatch import pipeline
+    from steelwatch.models import RawItem, SourceResult
+
+    url = "https://example.org/steel-notice"
+    day = "2026-11-20"
+    clock = {"now": "2026-11-22T08:00:00Z"}
+    document = {"document": "original digest"}
+    deadline = {"value": "2026-11-30T12:00:00Z"}
+
+    def collect(_):
+        raw = RawItem(
+            id="notice", title="Official steel tariff notice", url=url,
+            published_at=day, source_id="official", source_name="Authority",
+            source_kind="official-notice", excerpt="Published official steel trade notice.",
+            metadata={"official": True, "scope_relevant": True,
+                      "consultation": {"closes_at": deadline["value"]}},
+        )
+        return [SourceResult("official", "Authority", True, [raw])]
+
+    monkeypatch.setattr(pipeline, "_collect", collect)
+    monkeypatch.setattr(pipeline, "_hydrate_excerpts", lambda *_: [])
+    monkeypatch.setattr(pipeline, "now_iso", lambda: clock["now"])
+    monkeypatch.setattr(pipeline, "fetch_official_observations",
+                        lambda *_, **__: document)
+    config = {
+        "settings": {"max_official_revision_checks_per_run": 1, "max_model_items_per_run": 0},
+        "editorial": [{"url": url, "published_date": day, "reviewed_at": "2026-11-21",
+                       "title_zh": "已核验旧版"}],
+    }
+    data, docs = tmp_path / "data", tmp_path / "docs"
+    pipeline.run_update(config, data, docs)
+    assert json.loads((data / "review_queue.json").read_text())["items"] == []
+
+    clock["now"] = "2026-11-22T09:00:00Z"
+    document["document"] = "revised digest"
+    deadline["value"] = "2026-12-03T12:00:00Z"
+    pipeline.run_update(config, data, docs)
+    rows = json.loads((data / "items.json").read_text())["items"]
+    archived = next(row for row in rows if row.get("superseded_at"))
+    current = next(row for row in rows if row["id"] == "notice")
+    assert archived["review_method"] == "source_checked"
+    assert archived["consultation"]["closes_at"] == "2026-11-30T12:00:00Z"
+    assert current.get("review_method") != "source_checked"
+    assert current["consultation"]["closes_at"] == deadline["value"]
+    queue = json.loads((data / "review_queue.json").read_text())
+    revision = current["source_revision"]
+    assert queue["actionable_count"] == 1 and queue["items"][0]["source_revision"] == revision
+    latest = json.loads((docs / "data/latest.json").read_text())["items"]
+    assert [row["id"] for row in latest] == ["notice"]
+
+    config["editorial"].append({
+        "url": url, "published_date": day, "source_revision": revision,
+        "reviewed_at": "2026-11-22", "title_zh": "已核验修订版",
+    })
+    document.clear()
+    pipeline.run_update(config, data, docs)
+    rows = json.loads((data / "items.json").read_text())["items"]
+    assert len(rows) == 2
+    assert next(row for row in rows if row["id"] == "notice")["title_zh"] == "已核验修订版"
+
+
+def test_review_refresh_promotes_due_items_without_new_collection(tmp_path, monkeypatch):
+    from steelwatch import pipeline
+
+    generation = "2026-11-20T17:00:00Z"
+    data, docs = tmp_path / "data", tmp_path / "docs"
+    data.mkdir()
+    record = item(
+        "notice", date="2026-11-20", review_disposition="blocked",
+        retry_after="2026-11-22T08:00:00Z", review_attempted_at="2026-11-21T08:00:00Z",
+    )
+    payload = {"generated_at": generation, "items": [record]}
+    (data / "items.json").write_text(json.dumps(payload))
+    (data / "status.json").write_text(json.dumps({
+        "generated_at": generation, "editorial_updated_at": "2026-11-21T08:00:00Z",
+    }))
+    monkeypatch.setattr("steelwatch.editorial.now_iso", lambda: "2026-11-22T07:00:00Z")
+    monkeypatch.setattr(pipeline, "_collect", lambda *_: pytest.fail("no network collection"))
+    assert pipeline.refresh_review_queue(data, docs)
+    manifest = json.loads((data / "review_manifest.json").read_text())
+    assert manifest["next_retry_at"] == record["retry_after"]
+    assert manifest["retry_due_count"] == 0
+
+    monkeypatch.setattr(pipeline, "now_iso", lambda: "2026-11-22T09:00:00Z")
+    assert pipeline.refresh_review_queue(data, docs)
+    queue = json.loads((data / "review_queue.json").read_text())
+    status = json.loads((docs / "data/status.json").read_text())
+    assert len(queue["retry_items"]) == 1 and queue["next_retry_at"] is None
+    assert queue["generated_at"] == status["generated_at"] == generation
+    assert status["editorial_updated_at"] == "2026-11-21T08:00:00Z"
+    assert status["retry_due_count"] == 1
+    assert json.loads((data / "items.json").read_text()) == payload
+    assert not pipeline.refresh_review_queue(data, docs)

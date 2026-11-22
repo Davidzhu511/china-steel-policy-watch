@@ -1,7 +1,9 @@
 from __future__ import annotations
 
+import hashlib
 import ipaddress
 import json
+import re
 import socket
 from urllib.parse import urljoin, urlsplit
 
@@ -9,7 +11,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from .collectors.base import USER_AGENT
-from .util import trim_text
+from .util import canonical_url, trim_text
 
 ACCESS_BLOCK_PHRASES = (
     "your request has been flagged as potentially automated",
@@ -41,19 +43,27 @@ def _public_hostname(hostname: str) -> bool:
     return True
 
 
-def safe_get(session: requests.Session, url: str, timeout: int) -> requests.Response:
+def safe_get(
+    session: requests.Session, url: str, timeout: int, *, stream: bool = False,
+) -> requests.Response:
     current = url
     for _ in range(5):
         parts = urlsplit(current)
         if parts.scheme not in {"http", "https"} or not _public_hostname(parts.hostname or ""):
             raise ValueError("Refusing a non-public URL")
-        response = session.get(current, timeout=timeout, allow_redirects=False)
+        options = {"stream": True} if stream else {}
+        response = session.get(current, timeout=timeout, allow_redirects=False, **options)
         if response.status_code not in {301, 302, 303, 307, 308}:
-            response.raise_for_status()
+            try:
+                response.raise_for_status()
+            except requests.HTTPError:
+                response.close()
+                raise
             return response
         location = response.headers.get("Location")
         if not location:
             response.raise_for_status()
+        response.close()
         current = urljoin(current, location)
     raise requests.TooManyRedirects("More than five redirects")
 
@@ -140,3 +150,59 @@ def fetch_page_excerpt(url: str, *, official: bool, timeout: int = 20) -> str:
         seen.add(fingerprint)
         unique.append(cleaned)
     return trim_text("\n".join(unique), limit)
+
+
+_DOCUMENT_LINK = re.compile(r"\.(pdf|docx?|xlsx?|csv|zip)(?:$|[?&#])", re.IGNORECASE)
+
+
+def _limited_body(response: requests.Response, limit: int) -> bytes:
+    body = bytearray()
+    for chunk in response.iter_content(chunk_size=64 * 1024):
+        body.extend(chunk)
+        if len(body) > limit:
+            return b""
+    return bytes(body)
+
+
+def fetch_official_observations(url: str, *, timeout: int) -> dict[str, str]:
+    """Fingerprint the substantive page and a bounded set of same-host attachments."""
+    with requests.Session() as session:
+        session.headers["User-Agent"] = USER_AGENT
+        with safe_get(session, url, timeout, stream=True) as response:
+            body = _limited_body(response, 8_000_000)
+            target = response.url
+            content_type = response.headers.get("Content-Type", "").lower()
+        if not body:
+            return {}
+        if "html" not in content_type:
+            if ("pdf" in content_type or content_type.startswith(("application/msword", "application/vnd."))
+                    or _DOCUMENT_LINK.search(target)):
+                return {"document": hashlib.sha256(body).hexdigest()}
+            return {}
+        soup = BeautifulSoup(body, "html.parser")
+        main = soup.select_one("main article, main, article, [role=main]")
+        if main is None:
+            return {}
+        for node in main.select("nav, footer, script, style, aside, form"):
+            node.decompose()
+        content = " ".join(main.get_text(" ", strip=True).split())
+        if not content or is_access_block_text(content):
+            return {}
+        links = sorted({
+            canonical_url(urljoin(target, node["href"]))
+            for node in main.select("a[href]")
+            if _DOCUMENT_LINK.search(node["href"]) or node.has_attr("download")
+        } - {""})
+        digest = hashlib.sha256(json.dumps([content, links], ensure_ascii=False).encode()).hexdigest()
+        observations = {"document": digest}
+        attachments = [link for link in links if urlsplit(link).hostname == urlsplit(canonical_url(target)).hostname]
+        for link in attachments[:2]:
+            try:
+                with safe_get(session, link, min(timeout, 8), stream=True) as response:
+                    attachment = _limited_body(response, 4_000_000)
+                    attachment_type = response.headers.get("Content-Type", "").lower()
+                if attachment and "html" not in attachment_type:
+                    observations["attachment:" + link] = hashlib.sha256(attachment).hexdigest()
+            except (requests.RequestException, ValueError):
+                continue
+        return observations

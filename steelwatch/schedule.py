@@ -5,7 +5,7 @@ from zoneinfo import ZoneInfo
 
 
 def should_run(event_name: str, schedule: str, now: datetime | None = None) -> bool:
-    if event_name in {"workflow_dispatch", "push"}:
+    if event_name in {"workflow_dispatch", "push"} or schedule == "10 8,15,21 * * *":
         return True
     local_now = (now or datetime.now(ZoneInfo("Europe/Berlin"))).astimezone(
         ZoneInfo("Europe/Berlin")

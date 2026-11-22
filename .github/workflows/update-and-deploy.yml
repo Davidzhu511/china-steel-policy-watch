@@ -25,12 +25,14 @@ on:
     - cron: "50 12 * * *"
     - cron: "50 17 * * *"
     - cron: "50 18 * * *"
+    - cron: "10 8,15,21 * * *"
+      timezone: "Europe/Berlin"
   workflow_dispatch:
     inputs:
       mode:
-        description: Collect sources or publish existing editorial content
+        description: Collect sources, publish existing editorial content, or refresh due reviews
         type: choice
-        options: [collect, editorial]
+        options: [collect, editorial, refresh-reviews]
         default: collect
 
 permissions:
@@ -71,7 +73,9 @@ jobs:
         run: python -m pip install -e ".[dev]"
 
       - name: 运行测试
-        if: steps.gate.outputs.run == 'true'
+        if: >-
+          steps.gate.outputs.run == 'true' &&
+          inputs.mode != 'refresh-reviews' && github.event.schedule != '10 8,15,21 * * *'
         run: pytest
 
       - name: 采集原文并应用已核验的ChatGPT解读
@@ -82,8 +86,12 @@ jobs:
           EVENT_NAME: ${{ github.event_name }}
           BEFORE_SHA: ${{ github.event.before }}
           AFTER_SHA: ${{ github.event.after }}
+          EVENT_SCHEDULE: ${{ github.event.schedule }}
         run: |
           mode="$REQUESTED_MODE"
+          if [[ "$EVENT_SCHEDULE" == "10 8,15,21 * * *" ]]; then
+            mode=refresh-reviews
+          fi
           # Pure editorial pushes publish the saved collection without re-fetching.
           if [[ "$EVENT_NAME" == "push" ]] && git cat-file -e "$BEFORE_SHA" 2>/dev/null; then
             changed="$(git diff --name-only "$BEFORE_SHA" "$AFTER_SHA")"
@@ -94,11 +102,14 @@ jobs:
           echo "mode=${mode:-collect}" >> "$GITHUB_OUTPUT"
           if [[ "$mode" == "editorial" ]]; then
             python -m steelwatch publish-editorial
+          elif [[ "$mode" == "refresh-reviews" ]]; then
+            python -m steelwatch refresh-review-queue
           else
             python -m steelwatch update
           fi
 
       - name: 保存本次数据
+        id: save
         if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name "steelwatch-bot"
@@ -106,14 +117,18 @@ jobs:
           git add data docs/data docs/feed.xml docs/index.html docs/.nojekyll
           if git diff --cached --quiet; then
             echo "No dashboard data changed"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "data: daily steel intelligence update"
             git pull --rebase origin main
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
       - name: 数据就绪后分别启动初译和网页发布
-        if: steps.gate.outputs.run == 'true'
+        if: >-
+          steps.gate.outputs.run == 'true' &&
+          (steps.update-data.outputs.mode != 'refresh-reviews' || steps.save.outputs.changed == 'true')
         uses: actions/github-script@v7
         env:
           UPDATE_MODE: ${{ steps.update-data.outputs.mode }}
