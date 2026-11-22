@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-22T09:24:57Z",
+  "generated_at": "2026-11-22T09:34:37Z",
   "pending_count": 31,
   "actionable_count": 1,
   "blocked_count": 30,
@@ -11,7 +11,7 @@
       "published_at": "2026-11-22T08:00:20Z",
       "title_original": "中国后板反倾销税豁免扩大，K-钢铁行业盈利能力担忧加剧",
       "first_seen": "2026-11-22T09:24:57Z",
-      "last_seen": "2026-11-22T09:24:57Z",
+      "last_seen": "2026-11-22T09:34:37Z",
       "source": {
         "id": "rss",
         "name": "亚洲日报",
@@ -26,7 +26,7 @@
       "needs_translation": false,
       "title_zh": "中国后板反倾销税豁免扩大，K-钢铁行业盈利能力担忧加剧",
       "review_attempted_at": "",
-      "evidence_fingerprint": "ec67ccf8db4a3285",
+      "evidence_fingerprint": "8716a067f9974b61",
       "related_reviews": []
     }
   ],
@@ -56,7 +56,7 @@
       "needs_translation": false,
       "title_zh": "广新披露在印尼镍、钢铁领域的大规模投资及与青山集团的关联",
       "review_attempted_at": "2026-11-21T19:33:09Z",
-      "evidence_fingerprint": "10fd9a262f3cab4b",
+      "evidence_fingerprint": "ee29d78d305bf9eb",
       "related_reviews": [],
       "retry_after": "2026-11-28T19:33:09Z",
       "retry_policy": "scheduled"
@@ -67,7 +67,7 @@
       "published_at": "2026-11-19T16:18:46Z",
       "title_original": "UK CBAM to cost far less than EU's for most importers, raising re-routing risk as ETS link nears",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-22T09:24:57Z",
+      "last_seen": "2026-11-22T09:34:37Z",
       "source": {
         "id": "rss",
         "name": "Fastmarkets",
@@ -86,7 +86,7 @@
       "needs_translation": false,
       "title_zh": "对大多数进口商来说,UK CBAM的成本远远低于欧盟,从而随着ETS连接的临近而增加了改道风险",
       "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "2d2ebf6bd711d66b",
+      "evidence_fingerprint": "73c3f0b8c97c6060",
       "related_reviews": [],
       "retry_after": "2026-11-27T00:00:00Z",
       "retry_policy": "scheduled"
@@ -116,7 +116,7 @@
       "needs_translation": false,
       "title_zh": "直面CBAM冲击，碳定价是产业必修课 ——美国开展欧盟CBAM产业影响分析带来的启示",
       "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "e9d68e2f924b427a",
+      "evidence_fingerprint": "9d8f9978f6d0b944",
       "related_reviews": [],
       "retry_after": "2026-11-27T00:00:00Z",
       "retry_policy": "scheduled"
@@ -146,7 +146,7 @@
       "needs_translation": false,
       "title_zh": "海关总署：10月中国主要机电产品进出口数据出炉",
       "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "9a236bbae2abd0ae",
+      "evidence_fingerprint": "ef977a9a63c96616",
       "related_reviews": [],
       "retry_after": "2026-11-27T00:00:00Z",
       "retry_policy": "scheduled"
@@ -157,7 +157,7 @@
       "published_at": "2026-11-17T11:06:13Z",
       "title_original": "SKF and Baowu Partner on Lower-Carbon Steel Innovation",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-22T09:24:57Z",
+      "last_seen": "2026-11-22T09:34:37Z",
       "source": {
         "id": "rss",
         "name": "Wisevoter",
@@ -176,7 +176,7 @@
       "needs_translation": false,
       "title_zh": "SKF 和 Baowu 低碳钢创新伙伴",
       "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "0d80b9021db3b31d",
+      "evidence_fingerprint": "d8fca9c4e76399b8",
       "related_reviews": [],
       "retry_after": "2026-11-27T00:00:00Z",
       "retry_policy": "scheduled"
@@ -206,7 +206,7 @@
       "needs_translation": false,
       "title_zh": "UK CBAM:这对你的生意意味着什么?",
       "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "5f6930021c7fe346",
+      "evidence_fingerprint": "796200a60bb865e9",
       "related_reviews": [],
       "retry_after": "2026-11-27T00:00:00Z",
       "retry_policy": "scheduled"
@@ -236,7 +236,7 @@
       "needs_translation": false,
       "title_zh": "应对 CBAM 正式期大考，阳光慧碳如何构建出口企业碳合规闭环",
       "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "0e9d4e8fb35d7aab",
+      "evidence_fingerprint": "273e84c06ddc9784",
       "related_reviews": [],
       "retry_after": "2026-11-27T00:00:00Z",
       "retry_policy": "scheduled"
@@ -266,7 +266,7 @@
       "needs_translation": false,
       "title_zh": "截至2026年11月中旬，中国港口铁矿石库存升至1.5212亿吨",
       "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "0eea8db9754afcea",
+      "evidence_fingerprint": "a08dabb936a2b4ae",
       "related_reviews": [],
       "retry_after": "2026-11-27T00:00:00Z",
       "retry_policy": "scheduled"
@@ -277,7 +277,7 @@
       "published_at": "2026-11-19T08:36:00Z",
       "title_original": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-22T09:24:57Z",
+      "last_seen": "2026-11-22T09:34:37Z",
       "source": {
         "id": "rss",
         "name": "中国钢铁新闻网",
@@ -296,7 +296,7 @@
       "needs_translation": false,
       "title_zh": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
       "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "9c308b123878e246",
+      "evidence_fingerprint": "6d2de8c1dea731c6",
       "related_reviews": [],
       "retry_after": "2026-11-27T00:00:00Z",
       "retry_policy": "scheduled"
@@ -307,7 +307,7 @@
       "published_at": "2026-11-19T06:31:12Z",
       "title_original": "关税和需求塑造 2026 年钢铁行业前景",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-22T09:24:57Z",
+      "last_seen": "2026-11-22T09:34:37Z",
       "source": {
         "id": "rss",
         "name": "blockchain.news",
@@ -326,7 +326,7 @@
       "needs_translation": false,
       "title_zh": "关税和需求塑造 2026 年钢铁行业前景",
       "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "a8f2668dea0e1529",
+      "evidence_fingerprint": "6273299fccb990bc",
       "related_reviews": [],
       "retry_after": "2026-11-27T00:00:00Z",
       "retry_policy": "scheduled"
@@ -337,7 +337,7 @@
       "published_at": "2026-11-18T10:00:49Z",
       "title_original": "Official publication: Commission corrects name of Japanese steel producer subject to anti-dumping duties",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-22T09:24:57Z",
+      "last_seen": "2026-11-22T09:34:37Z",
       "source": {
         "id": "rss",
         "name": "EU Law Live",
@@ -356,7 +356,7 @@
       "needs_translation": false,
       "title_zh": "正式出版物:委员会更正须缴纳反倾销税的日本钢铁生产商的名称",
       "review_attempted_at": "2026-11-18T19:33:15.044Z",
-      "evidence_fingerprint": "d94db2ac60578524",
+      "evidence_fingerprint": "a4a1f28e2db49146",
       "related_reviews": [],
       "retry_after": "2026-11-25T20:30:00Z",
       "retry_policy": "scheduled"
@@ -367,7 +367,7 @@
       "published_at": "2026-11-18T03:03:00Z",
       "title_original": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9%",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-22T09:24:57Z",
+      "last_seen": "2026-11-22T09:34:37Z",
       "source": {
         "id": "rss",
         "name": "钢铁网",
@@ -385,7 +385,7 @@
       "needs_translation": false,
       "title_zh": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9%",
       "review_attempted_at": "2026-11-18T19:33:15.044Z",
-      "evidence_fingerprint": "5638f882569709fa",
+      "evidence_fingerprint": "d7e1737dd52dc8dc",
       "related_reviews": [],
       "retry_after": "2026-11-25T20:30:00Z",
       "retry_policy": "scheduled"
@@ -415,7 +415,7 @@
       "needs_translation": false,
       "title_zh": "哈萨克斯坦准备出口商遵守欧盟CBAM",
       "review_attempted_at": "2026-11-17T19:32:47.011Z",
-      "evidence_fingerprint": "177151721be6cf46",
+      "evidence_fingerprint": "cb4f84ae0879ade4",
       "related_reviews": [],
       "retry_after": "2026-11-24T00:00:00Z",
       "retry_policy": "scheduled"
@@ -426,7 +426,7 @@
       "published_at": "2026-11-16T12:12:51Z",
       "title_original": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus",
       "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-22T09:24:57Z",
+      "last_seen": "2026-11-22T09:34:37Z",
       "source": {
         "id": "rss",
         "name": "GMK Center",
@@ -444,7 +444,7 @@
       "needs_translation": false,
       "title_zh": "印度尼西亚审查哈萨克斯坦和白俄罗斯的热滚钢反倾销税",
       "review_attempted_at": "2026-11-16T19:27:43Z",
-      "evidence_fingerprint": "b83f41789cf9f066",
+      "evidence_fingerprint": "ce99142bacb8c6e3",
       "related_reviews": [],
       "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "scheduled"
@@ -473,7 +473,7 @@
       "needs_translation": false,
       "title_zh": "墨西哥说,对亚洲钢铁运输的镇压,随着美国关税谈判的推进,正在得到回报。",
       "review_attempted_at": "2026-11-16T19:27:43Z",
-      "evidence_fingerprint": "588d1eeffd376be9",
+      "evidence_fingerprint": "16476d3cc7c6f4f5",
       "related_reviews": [],
       "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "scheduled"
@@ -502,7 +502,7 @@
       "needs_translation": false,
       "title_zh": "沙特阿拉伯对从中国进口的钢铁进行反倾销调查,图尔基耶",
       "review_attempted_at": "2026-11-16T19:27:43Z",
-      "evidence_fingerprint": "969805bb8f00b943",
+      "evidence_fingerprint": "04cb73c9a0a6aaee",
       "related_reviews": [
         {
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDBNQjhzcWoyUF9XN0Q2b2RUWUFXbFVzak5xTzFRYVplb0Y4LV9TMnQzaU9lZU9RQXllZERtbkx5bDRHYjF2WVR2UFFtR1gxLVpINHl3N3g1LVBuMnUydVduSGpRR01aMjlHWGs5eGR0eTJJNEZzODItS2M1VWFyeHU3UTMzVmdCbHRjM0N6VFI4YlpubEtMVTFna1pjc09GbzA4YUtXUTZyVmpodWJz?oc=5",
@@ -539,7 +539,7 @@
       "needs_translation": false,
       "title_zh": "钢铁部门看到绿色的里程碑",
       "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "4ac92c8bc73a60dc",
+      "evidence_fingerprint": "be818b48532e6950",
       "related_reviews": [
         {
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
@@ -576,7 +576,7 @@
       "needs_translation": false,
       "title_zh": "土耳其钢铁出口商协会签署CBAM合规合作协议",
       "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "46a8eee117bc4830",
+      "evidence_fingerprint": "ffb92653f873ab89",
       "related_reviews": [
         {
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLUc1T3owQVg3X1VZOWtzSWpPa0poc0NQUFVUSXlaTGF6UG5yUUNSUFZHbUlyZjhnTHVacmZQQms4d3I4TTYzd21NRVNBWUVnYzd0MkVvdy02Sm5kajRyc1o4QjdLVnhaSDdTZDBhRS13M3E3TkMwdUhKT0JSSTF6WEVyRjZ1NmFlVkNEN050WVFuWmgyQnFVdmhPZVJKa3ppZ1NpNlJUVURNaXJmMUZVZ21SYnc2aHk4emJUY19wUkxLTm4wVE5ZaHV6SVpUZFlKbkhtTlBrT0hXUGtMazN2Um05UWh0Zw?oc=5",
@@ -613,7 +613,7 @@
       "needs_translation": false,
       "title_zh": "1.19亿吨之后：中国钢铁从规模出口转向高端与产能出海",
       "review_attempted_at": "2026-11-17T07:34:25.181Z",
-      "evidence_fingerprint": "1e219968939b9dd1",
+      "evidence_fingerprint": "2fa99989eab0cb4d",
       "related_reviews": [],
       "retry_after": "2026-11-24T07:34:25.181000+00:00",
       "retry_policy": "manual"
@@ -643,7 +643,7 @@
       "needs_translation": false,
       "title_zh": "钢企CEO称CBAM提振欧洲钢厂盈利",
       "review_attempted_at": "2026-11-17T13:27:08.738Z",
-      "evidence_fingerprint": "92cccece325ef872",
+      "evidence_fingerprint": "94cf268fc1e5e301",
       "related_reviews": [],
       "retry_after": "2026-11-24T00:00:00Z",
       "retry_policy": "manual"
@@ -654,7 +654,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-22T09:24:57Z",
+      "last_seen": "2026-11-22T09:34:37Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -673,7 +673,7 @@
       "needs_translation": false,
       "title_zh": "泰国对华预应力钢绞线启动反倾销调查",
       "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "42672b6b6139ebb6",
+      "evidence_fingerprint": "4c5946561c517bcd",
       "related_reviews": [],
       "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "scheduled"
@@ -684,7 +684,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-22T09:24:57Z",
+      "last_seen": "2026-11-22T09:34:37Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -703,7 +703,7 @@
       "needs_translation": false,
       "title_zh": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "8a7e6373bd5ed68e",
+      "evidence_fingerprint": "4f6fb52c7a087d5e",
       "related_reviews": [],
       "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "scheduled"
@@ -733,7 +733,7 @@
       "needs_translation": false,
       "title_zh": "中国钢材需求放缓，铁矿石价格面临现实考验",
       "review_attempted_at": "2026-11-16T13:51:42Z",
-      "evidence_fingerprint": "d9196bca8049ff14",
+      "evidence_fingerprint": "b548eb785b12af6f",
       "related_reviews": [
         {
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV2lTQ1NRT2pta3p2aWNUY2FJc0lvdHZzUS1sNk1iZW9wcHFzUnI0MUlObnM0SEluX2sxVHNLZGRlYzdncHJ3d0UtblVEMnFveW4tZVJMaDRYWE94UURRTnRPU2VPemRMSlN5NVpxZU94eHlRMzZhdXNheUYxUWIxQVVlMXV3TlZFbG55Ymw5N0hRcllYSnFTZS02a1d0U1lpbnJXbUJ3YUYtTnZJRWkyM09oMXJDOExDeUNxT01aYmdIblVzWEx0dWZXSzRNNkhlNGpkR0lzWTRBdGlMQTlXVUdjbG4?oc=5",
@@ -770,7 +770,7 @@
       "needs_translation": false,
       "title_zh": "如何应对欧盟CBAM法规的影响？",
       "review_attempted_at": "2026-11-16T13:51:42Z",
-      "evidence_fingerprint": "650ec6eb26cd55e6",
+      "evidence_fingerprint": "a02f9b369edfac38",
       "related_reviews": [],
       "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "manual"
@@ -800,7 +800,7 @@
       "needs_translation": false,
       "title_zh": "为英国CBAM做好准备",
       "review_attempted_at": "2026-11-16T13:51:42Z",
-      "evidence_fingerprint": "2ec3b972d2b73bed",
+      "evidence_fingerprint": "4d6b993d601c559d",
       "related_reviews": [],
       "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "manual"
@@ -830,7 +830,7 @@
       "needs_translation": false,
       "title_zh": "中国钢材出口遇难，20多国接连设限，钢铁行业进入寒冬",
       "review_attempted_at": "2026-11-17T13:27:08.738Z",
-      "evidence_fingerprint": "c0987677e9abbd9a",
+      "evidence_fingerprint": "abececd2eb7184d7",
       "related_reviews": [],
       "retry_after": "2026-11-24T00:00:00Z",
       "retry_policy": "manual"
@@ -859,7 +859,7 @@
       "needs_translation": false,
       "title_zh": "Rosan与青山集团董事长讨论深化镍及不锈钢加工",
       "review_attempted_at": "2026-11-16T19:27:43Z",
-      "evidence_fingerprint": "e1cc3f17bcf40bc6",
+      "evidence_fingerprint": "534d3ec3b412fc6f",
       "related_reviews": [],
       "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "scheduled"
@@ -888,7 +888,7 @@
       "needs_translation": false,
       "title_zh": "CBAM向下游产品扩围对中小微企业的影响",
       "review_attempted_at": "2026-11-16T19:27:43Z",
-      "evidence_fingerprint": "0297e032f71a3d9e",
+      "evidence_fingerprint": "ff06e8d693acdc92",
       "related_reviews": [],
       "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "scheduled"
@@ -917,7 +917,7 @@
       "needs_translation": false,
       "title_zh": "CBAM扩围光伏 碳成本前移至制成品",
       "review_attempted_at": "2026-11-16T19:27:43Z",
-      "evidence_fingerprint": "b013a1041526f743",
+      "evidence_fingerprint": "f41132e682bdb4c5",
       "related_reviews": [],
       "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "scheduled"
@@ -946,7 +946,7 @@
       "needs_translation": false,
       "title_zh": "深度：中国绿色钢铁发展雄心遭遇阻力",
       "review_attempted_at": "2026-11-16T19:27:43Z",
-      "evidence_fingerprint": "5145876a3641ab43",
+      "evidence_fingerprint": "cd221b20bb2beefe",
       "related_reviews": [],
       "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "manual"
@@ -954,5 +954,6 @@
   ],
   "retry_items": [],
   "retry_due_count": 0,
-  "work_fingerprint": "41fb1976e7f5122d2f64"
+  "next_retry_at": "2026-11-23T00:00:00Z",
+  "work_fingerprint": "398bc1d2db20eabe3bc8"
 }
