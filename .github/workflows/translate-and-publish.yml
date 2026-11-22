@@ -1,9 +1,6 @@
 name: 增量翻译并发布
 
 on:
-  workflow_run:
-    workflows: ["每日更新并部署看板"]
-    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -11,21 +8,19 @@ permissions:
   actions: write
 
 concurrency:
-  group: steelwatch-pages
-  cancel-in-progress: false
+  group: steelwatch-data-write
+  queue: max
 
 jobs:
   translate:
-    if: >-
-      github.event_name == 'workflow_dispatch' ||
-      (github.event.workflow_run.conclusion == 'success' &&
-       github.event.workflow_run.head_branch == 'main')
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     timeout-minutes: 18
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
+          fetch-depth: 0
       - name: 跳过已翻译和冷却中的失败任务
         id: gate
         run: |
@@ -75,6 +70,7 @@ jobs:
           git add data docs/data docs/feed.xml docs/index.html
           if ! git diff --cached --quiet; then
             git commit -m "data: publish incremental Chinese translations"
+            git pull --rebase origin main
             git push
           fi
       - name: 发布已有数据，不重复采集
@@ -83,6 +79,5 @@ jobs:
         with:
           script: |
             await github.rest.actions.createWorkflowDispatch({
-              ...context.repo, workflow_id: 'update-and-deploy.yml', ref: 'main',
-              inputs: {mode: 'editorial'},
+              ...context.repo, workflow_id: 'publish-pages.yml', ref: 'main',
             });
