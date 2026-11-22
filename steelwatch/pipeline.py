@@ -214,15 +214,39 @@ def _build_item(raw: RawItem, analysis: dict[str, Any], timestamp: str) -> dict[
     return item
 
 
+def _restore_observed_dates(items: list[dict], reviews: list[dict]) -> None:
+    """Recover the feed date on records whose displayed date was editorially corrected."""
+    observations = {
+        (canonical_url(row["url"]), row["published_date"], row.get("source_revision"),
+         row.get("reviewed_at")): row["match_published_date"]
+        for row in reviews
+        if row.get("match_published_date") and row["match_published_date"] != row["published_date"]
+    }
+    if not observations:
+        return
+    for item in items:
+        if item.get("review_method") != "source_checked":
+            continue
+        url, day, _ = source_key(item)
+        displayed = item["published_at"][:10]
+        if day != displayed:
+            continue
+        key = url, displayed, item.get("source_revision"), item.get("reviewed_at")
+        if observed := observations.get(key):
+            item["source_published_date"] = observed
+
+
 def _apply_editorial(items: list[dict[str, Any]], config: dict[str, Any]) -> None:
     """Apply source-checked briefs only to the exact dated source revision reviewed."""
+    records = config.get("editorial", [])
+    _restore_observed_dates(items, records)
     # Older collectors overwrote a URL's reviewed edition when its feed date changed.
     # Restore only explicitly referenced, saved reviews; never review the newer edition.
     versions = {source_key(item) for item in items}
     targets = {canonical_url(row["duplicate_of"]) for row in config.get("triage", [])
                if row.get("decision") == "duplicate" and row.get("duplicate_of")
                and source_key(row) in versions}
-    for review in config.get("editorial", []):
+    for review in records:
         url, day, revision = source_key(review)
         if (url not in targets or (url, day, revision) in versions
                 or (url, review["published_date"], revision) in versions
@@ -243,7 +267,7 @@ def _apply_editorial(items: list[dict[str, Any]], config: dict[str, Any]) -> Non
             restored.pop("source_revision", None)
         items.append(restored)
         versions.add((url, day, revision))
-    reviews = {source_key(row): row for row in config.get("editorial", [])}
+    reviews = {source_key(row): row for row in records}
     fields = {
         "title_zh", "title_en", "summary_zh", "summary_en", "impact_zh", "impact_en",
         "category", "status", "importance", "tags", "tags_en", "follow_up",
@@ -251,32 +275,10 @@ def _apply_editorial(items: list[dict[str, Any]], config: dict[str, Any]) -> Non
     }
     for item in items:
         review = reviews.get(source_key(item))
-        if not review and item.get("review_method") == "source_checked":
-            review = next((row for row in config.get("editorial", [])
-                           if canonical_url(row["url"]) == canonical_url(item["url"])
-                           and row.get("published_date") == item["published_at"][:10]
-                           and row.get("source_revision") == item.get("source_revision")
-                           and row.get("reviewed_at") == item.get("reviewed_at")), None)
         if not review:
             continue
-        source_date = item["published_at"][:10]
-        match_date = review.get("match_published_date", review.get("published_date"))
-        if source_date != match_date and not item.get("source_published_date"):
-            # Normalize a date-only correction already applied by this review.
-            # This does not apply any review text to a different source revision.
-            if (review.get("match_published_date")
-                    and source_date == review.get("published_date")
-                    and item.get("review_method") == "source_checked"
-                    and item.get("reviewed_at") == review.get("reviewed_at")):
-                item["published_at"] = source_date + "T00:00:00Z"
-            continue
-        # Some feeds expose an observation date rather than the date printed in
-        # the official document. Keep exact-version matching on the observed
-        # revision, then show the source-backed publication date on the board.
-        if review.get("match_published_date") and review.get("published_date"):
-            item["source_published_date"] = source_date
-            # The correction establishes a calendar date, not the old feed's
-            # time of day, which could otherwise display as the following day.
+        if observed := review.get("match_published_date"):
+            item["source_published_date"] = observed
             item["published_at"] = review["published_date"] + "T00:00:00Z"
         item.update({key: review[key] for key in fields if key in review})
         item.update(translation_state="complete", review_method="source_checked",
@@ -425,6 +427,7 @@ def run_update(config: dict[str, Any], data_dir: Path, docs_dir: Path) -> dict[s
     history_path = data_dir / "items.json"
     previous_payload = load_json(history_path, {"items": []})
     previous_items = previous_payload.get("items", []) if isinstance(previous_payload, dict) else []
+    _restore_observed_dates(previous_items, config.get("editorial", []))
     previous_status = load_json(data_dir / "status.json", {})
     previous_by_id = {item.get("id"): item for item in previous_items if item.get("id")}
 
