@@ -4,24 +4,24 @@
   "model": "gpt-4.1-mini",
   "translation_available": false,
   "analysis_status": "unconfigured",
-  "active_items": 343,
-  "archived_items": 167,
-  "verified_items": 310,
-  "pending_analysis": 33,
+  "active_items": 342,
+  "archived_items": 168,
+  "verified_items": 311,
+  "pending_analysis": 31,
   "pending_translation": 0,
-  "blocked_items": 32,
+  "blocked_items": 30,
   "actionable_count": 1,
-  "blocked_count": 32,
+  "blocked_count": 30,
   "retry_due_count": 0,
   "pending_machine_translation": 0,
   "chinese_title_coverage": 100.0,
-  "oldest_actionable_hours": 0.0,
+  "oldest_actionable_hours": 0.1,
   "offline_translation": {
     "status": "queued",
     "translated": 0,
     "warnings": []
   },
-  "machine_translated_items": 13,
+  "machine_translated_items": 11,
   "collected_items": 104,
   "processed_items": 1,
   "deferred_items": 0,
@@ -103,5 +103,6 @@
       "consecutive_failures": 0
     }
   ],
-  "warnings": []
+  "warnings": [],
+  "editorial_updated_at": "2026-11-22T09:29:23Z"
 }

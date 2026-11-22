@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-22T09:24:57Z",
-  "pending_count": 33,
+  "pending_count": 31,
   "actionable_count": 1,
-  "blocked_count": 32,
+  "blocked_count": 30,
   "items": [
     {
       "id": "e6d7050638b764db18d5",
@@ -59,66 +59,6 @@
       "evidence_fingerprint": "10fd9a262f3cab4b",
       "related_reviews": [],
       "retry_after": "2026-11-28T19:33:09Z",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "d45766ca1ab5de9a6cd1",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnAwM3hVZmFmaEluZW1veE5NcHJNQkVQRUJkMGIzbjh0M1QtdjNZY1dVMk1BaGFVcjFYLWxBYmZHRjcwRzZXZ0s0T2dsQ2xkdmYzMVljWE5jUU5WR2o0d3NFRnFkNHh4S2F5T3dUT3hnNktNbTFJTkl6OHdSM2lRVlJvNDBHV0lsY3BMaHQzMGRqeUZLT0JMdF9IbTNjRFpRV1NGR0JXcHdFTGg0LTUydGZEbFAxMjRHcW82bg?oc=5",
-      "published_at": "2026-11-20T10:56:03Z",
-      "title_original": "Steel on the Border: Trade exposure and the implications of UK and EU CBAM for UK Steel",
-      "first_seen": "2026-11-20T20:46:43Z",
-      "last_seen": "2026-11-21T14:57:00Z",
-      "source": {
-        "id": "rss",
-        "name": "Energy & Climate Intelligence Unit | ECIU",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "ECIU《Steel on the Border》为潜在重要的英国钢铁贸易暴露与CBAM分析，但本轮未取得可核验的报告全文或定量模型；不可将标题扩写成结论。",
-      "review_evidence_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnAwM3hVZmFmaEluZW1veE5NcHJNQkVQRUJkMGIzbjh0M1QtdjNZY1dVMk1BaGFVcjFYLWxBYmZHRjcwRzZXZ0s0T2dsQ2xkdmYzMVljWE5jUU5WR2o0d3NFRnFkNHh4S2F5T3dUT3hnNktNbTFJTkl6OHdSM2lRVlJvNDBHV0lsY3BMaHQzMGRqeUZLT0JMdF9IbTNjRFpRV1NGR0JXcHdFTGg0LTUydGZEbFAxMjRHcW82bg?oc=5",
-      "review_coverage": "检查队列RSS摘要并以报告题名、ECIU机构名检索公开来源，未定位可核验完整正文或图表；保留待复查，不标source_checked。",
-      "published_date": "2026-11-20",
-      "source_excerpt": "Steel on the Border: Trade exposure and the implications of UK and EU CBAM for UK Steel Energy & Climate Intelligence Unit | ECIU",
-      "needs_translation": false,
-      "title_zh": "边境钢:贸易暴露情况以及联合王国和欧盟CBAM对联合王国钢的影响",
-      "review_attempted_at": "2026-11-21T07:30:07Z",
-      "evidence_fingerprint": "f756735e8bdcb42f",
-      "related_reviews": [],
-      "retry_after": "2026-11-28T00:00:00Z",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "9595052648f7603062c7",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aV3AyVk5ZNFhDODZQVm9OaEdlbVBHSDBXMFBJMFpQVjB4c1l1a1M0UWFLSU5PRXVUcF9FMTdIUWFEN1JMR3ZiUGhEekZMX0wtMXhEckdWVjRERHVRYW5RUWFwZFRGYlMwZWVPWU9QRXo?oc=5",
-      "published_at": "2026-11-20T13:24:30Z",
-      "title_original": "Comment: UK-EU ETS Linkage",
-      "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-22T09:24:57Z",
-      "source": {
-        "id": "rss",
-        "name": "Energy & Climate Intelligence Unit | ECIU",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
-      "review_evidence_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aV3AyVk5ZNFhDODZQVm9OaEdlbVBHSDBXMFBJMFpQVjB4c1l1a1M0UWFLSU5PRXVUcF9FMTdIUWFEN1JMR3ZiUGhEekZMX0wtMXhEckdWVjRERHVRYW5RUWFwZFRGYlMwZWVPWU9QRXo?oc=5",
-      "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。",
-      "published_date": "2026-11-20",
-      "source_excerpt": "Comment: UK-EU ETS Linkage Energy & Climate Intelligence Unit | ECIU",
-      "needs_translation": false,
-      "title_zh": "注释: UK- EU ETS 链接",
-      "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "6e0c56abd4ae5e67",
-      "related_reviews": [],
-      "retry_after": "2026-11-27T00:00:00Z",
       "retry_policy": "scheduled"
     },
     {
