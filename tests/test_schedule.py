@@ -19,5 +19,7 @@ def test_schedule_gate_handles_berlin_summer_and_winter_time():
     assert not should_run("schedule", "50 18 * * *", summer)
     assert should_run("schedule", "50 18 * * *", winter)
     assert not should_run("schedule", "50 17 * * *", winter)
+    assert should_run("schedule", "10 8,15,21 * * *", summer)
+    assert should_run("schedule", "10 8,15,21 * * *", winter)
     assert should_run("workflow_dispatch", "", summer)
     assert should_run("push", "", summer)

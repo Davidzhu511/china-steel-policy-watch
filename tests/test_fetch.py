@@ -37,3 +37,37 @@ def test_page_excerpt_rejects_eurlex_robot_notice(monkeypatch):
     )
     monkeypatch.setattr(fetch, "safe_get", lambda session, url, timeout: page)
     assert fetch.fetch_page_excerpt("https://eur-lex.europa.eu/legal-content/EN/TXT/", official=True) == ""
+
+
+def test_official_observation_tracks_body_and_same_url_attachment(monkeypatch):
+    from contextlib import contextmanager
+
+    source = "https://example.com/steel"
+    doc_url = "https://example.com/annex.pdf"
+    content = {
+        source: b'<main><p>Steel duty 12%.</p><a href="/annex.pdf">Annex</a></main>',
+        doc_url: b'%PDF-1.7 annex version A',
+    }
+
+    class Response(FakeResponse):
+        def __init__(self, url):
+            self.url = url
+            self.headers = {"Content-Type": "text/html" if url == source else "application/pdf"}
+
+        def iter_content(self, chunk_size):
+            yield content[self.url]
+
+    @contextmanager
+    def get(session, url, timeout, *, stream):
+        assert stream
+        yield Response(url)
+
+    monkeypatch.setattr(fetch, "safe_get", get)
+    original = fetch.fetch_official_observations(source, timeout=12)
+    content[doc_url] = b'%PDF-1.7 annex version B'
+    corrected_annex = fetch.fetch_official_observations(source, timeout=12)
+    assert corrected_annex["document"] == original["document"]
+    assert corrected_annex["attachment:" + doc_url] != original["attachment:" + doc_url]
+    content[source] = content[source].replace(b'12%', b'15%')
+    amended_notice = fetch.fetch_official_observations(source, timeout=12)
+    assert amended_notice["document"] != original["document"]

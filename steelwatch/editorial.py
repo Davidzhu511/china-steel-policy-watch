@@ -8,11 +8,19 @@ from datetime import timedelta
 from pathlib import Path
 from typing import Any
 
-from .util import atomic_json_write, canonical_url, now_iso, parse_datetime, title_similarity
+from .util import atomic_json_write, canonical_url, iso_datetime, now_iso, parse_datetime, title_similarity
 
 
-def source_key(row: dict) -> tuple[str, str]:
-    return canonical_url(row["url"]), row.get("match_published_date", row["published_date"])
+def source_key(row: dict) -> tuple[str, str, str]:
+    day = (row.get("match_published_date") or row.get("source_published_date")
+           or row.get("published_date") or row["published_at"][:10])
+    return canonical_url(row["url"]), day, row.get("source_revision", "")
+
+
+def is_active_item(item: dict) -> bool:
+    return not item.get("superseded_at") and item.get("review_disposition") not in {
+        "excluded", "duplicate",
+    }
 
 
 def load_batches(config_dir: Path, config: dict) -> None:
@@ -43,6 +51,10 @@ def validate_batch(batch: dict, label: str = "batch") -> None:
                 raise ValueError(f"{label}: source URL and date required")
             if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", row["published_date"]):
                 raise ValueError(f"{label}: invalid publication date")
+            if "source_revision" in row and not re.fullmatch(
+                r"[0-9a-f]{16}", str(row["source_revision"])
+            ):
+                raise ValueError(f"{label}: invalid source_revision")
             key = source_key(row)
             if key in seen:
                 raise ValueError(f"{label}: duplicate source version in {kind}")
@@ -67,7 +79,7 @@ def validate_batch(batch: dict, label: str = "batch") -> None:
 def apply_translations(items: list[dict], config: dict) -> None:
     rows = {source_key(row): row for row in config.get("translations", [])}
     for item in items:
-        row = rows.get((canonical_url(item["url"]), item["published_at"][:10]))
+        row = rows.get(source_key(item))
         item.pop("source_translation", None)
         if row and row["title_original"] == item.get("title_original"):
             item["source_translation"] = {
@@ -91,8 +103,8 @@ def has_chinese_title(item: dict) -> bool:
 
 def add_review_context(queue: dict, items: list[dict], timestamp: str) -> dict:
     """Retry a small due slice; never conflate source translations with verification."""
-    clock = parse_datetime(timestamp)
-    verified = [item for item in items if item.get("review_method") == "source_checked"]
+    verified = [item for item in items if item.get("review_method") == "source_checked"
+                and is_active_item(item)]
     by_id = {item.get("id"): item for item in items}
     for row in queue["items"] + queue["blocked_items"]:
         item = by_id[row.get("id")]
@@ -102,7 +114,9 @@ def add_review_context(queue: dict, items: list[dict], timestamp: str) -> dict:
                            or item.get("review_title_zh") or item.get("title_zh"))
         row["review_attempted_at"] = item.get("review_attempted_at", "")
         row["evidence_fingerprint"] = hashlib.sha256(
-            (row.get("title_original", "") + "\n" + row.get("source_excerpt", "")).encode()
+            json.dumps([
+                row.get("title_original"), row.get("source_excerpt"), row.get("source_revision"),
+            ], ensure_ascii=False).encode()
         ).hexdigest()[:16]
         related = sorted(verified, key=lambda other: title_similarity(
             row.get("title_original", ""), other.get("title_original", "")), reverse=True)
@@ -117,22 +131,34 @@ def add_review_context(queue: dict, items: list[dict], timestamp: str) -> dict:
             row["retry_after"] = item.get("retry_after") or (
                 parse_datetime(attempted) + timedelta(days=delay)).isoformat()
             row["retry_policy"] = item.get("retry_policy", "scheduled")
-    due = [row for row in queue["blocked_items"] if row["retry_policy"] != "manual"
-           and parse_datetime(row["retry_after"]) <= clock]
-    due.sort(key=lambda row: (not row.get("source", {}).get("official"), row["retry_after"]))
-    queue["retry_items"] = due[:4]
-    queue["retry_due_count"] = len(due)
-    # Fingerprint excludes observation timestamps, so empty/repeated runs are cheap.
-    identity = [(row["url"], row["published_date"], row["evidence_fingerprint"],
-                 row.get("review_attempted_at")) for row in queue["items"] + queue["retry_items"]]
-    queue["work_fingerprint"] = hashlib.sha256(json.dumps(identity).encode()).hexdigest()[:20]
+    update_retry_schedule(queue, timestamp)
     return queue
+
+
+def update_retry_schedule(queue: dict, timestamp: str) -> None:
+    clock = parse_datetime(timestamp)
+    scheduled = [(parse_datetime(row["retry_after"]), row) for row in queue["blocked_items"]
+                 if row.get("retry_policy") != "manual" and row.get("retry_after")]
+    due = [(when, row) for when, row in scheduled if when <= clock]
+    due.sort(key=lambda pair: (
+        not pair[1].get("source", {}).get("official"),
+        not (pair[1].get("priority_signal") or pair[1].get("importance") in {"重大", "高"}),
+        pair[0],
+    ))
+    queue["retry_items"] = [row for _, row in due[:4]]
+    queue["retry_due_count"] = len(due)
+    next_retry = min((when for when, _ in scheduled if when > clock), default=None)
+    queue["next_retry_at"] = iso_datetime(next_retry) if next_retry else None
+    # Collection observations alone do not create new editorial work.
+    identity = [(source_key(row), row["evidence_fingerprint"], row.get("review_attempted_at"))
+                for row in queue["items"] + queue["retry_items"]]
+    queue["work_fingerprint"] = hashlib.sha256(json.dumps(identity).encode()).hexdigest()[:20]
 
 
 def write_review_outputs(data_dir: Path, queue: dict, items: list[dict]) -> dict[str, Any]:
     now = now_iso()
     add_review_context(queue, items, now)
-    active = [item for item in items if item.get("review_disposition") not in {"excluded", "duplicate"}]
+    active = [item for item in items if is_active_item(item)]
     untranslated = [item for item in active if not has_chinese_title(item)]
     actionable_ids = {row["id"] for row in queue["items"]}
     ages = [(parse_datetime(now) - parse_datetime(item.get("first_seen") or item["published_at"])
@@ -140,6 +166,7 @@ def write_review_outputs(data_dir: Path, queue: dict, items: list[dict]) -> dict
     metrics = {
         "actionable_count": queue["actionable_count"], "blocked_count": queue["blocked_count"],
         "retry_due_count": queue["retry_due_count"],
+        "next_retry_at": queue["next_retry_at"],
         "pending_translation": len(untranslated),
         "pending_machine_translation": sum(item.get("language", "en") in {"en", "eng", ""}
                                            for item in untranslated),

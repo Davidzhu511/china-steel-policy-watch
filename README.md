@@ -12,13 +12,13 @@
 | 新增英文标题与有限摘录翻译 | 采集数据写入 main 后自动触发 CPU 翻译 | 只处理待译内容，独立于 Pages 发布结果 |
 | 专业中文编辑、事实核验、业务研判 | ChatGPT已有新闻任务 | 08:30、14:30、20:30 |
 | 内容验证、合并和发布 | GitHub Actions | 内容PR检查通过后 |
-| 受阻证据复查 | ChatGPT读取retry_items | 每轮最多4条，官方默认3天、其他默认7天 |
+| 受阻证据复查 | GitHub于 08:10、15:10、21:10 刷新已保存队列，ChatGPT读取 retry_items | 每轮最多4条，官方默认3天、其他默认7天 |
 
 以上为目标触发时间，GitHub和Chat任务可能延迟，不能视为到点完成承诺。第三轮也用于接住前两轮延迟到达的数据。空队列快速结束。采集和翻译使用既有GitHub运行环境，不需要购买模型API；Chat任务增加为每日三轮，会增加相应平台使用量。
 
 ## 编辑输入与增量输出
 
-首先读取约1KB的 `data/review_manifest.json`；没有可处理、到期复查或待译标题时结束。需要处理时再读取 `data/review_queue.json`，不重复加载完整历史。
+首先读取约1KB的 `data/review_manifest.json`；没有可处理、到期复查或待译标题时结束。若清单的 next_retry_at 已到，按队列中的实际复查时间判断。需要处理时再读取 `data/review_queue.json`，不重复加载完整历史。
 
 队列保持schema v2兼容：items可研判、blocked_items待证据，pending_count为两者之和。retry_items只是blocked_items中到期的至多4条，不能重复计数。队列附带标题译文、原文摘录、相近已核验主条、上次尝试和证据指纹。仅last_seen变化不会改变工作指纹。指标包含中文标题覆盖率和最老可研判条目的等待小时数。
 
@@ -40,7 +40,7 @@
 - editorial：url、published_date、reviewed_at、title_zh/en、summary_zh/en、impact_zh/en、evidence_url、coverage，另可含分类、重要性、标签和follow_up。
 - triage：url、published_date、decision、reason_zh、attempted_at、coverage。duplicate必须有duplicate_of；blocked可指定retry_after或retry_policy=manual。
 
-按文件名时间顺序加载增量，后批次只覆盖同一来源版本。两个旧配置仍兼容。经核验的不同来源日期分别匹配，采集到同URL新版本时保留旧版本证据和已核验内容。禁止将新版本当作旧版本核验完成。
+按文件名时间顺序加载增量，后批次只覆盖同一来源版本。队列如带有 source_revision，须原样写入同条增量记录。官方原文抽查发现同日正文或附件变化时重新入队，旧版保存在历史。两个旧配置仍兼容。经核验的不同来源日期分别匹配，采集到同URL新版本时保留旧版本证据和已核验内容。禁止将新版本当作旧版本核验完成。
 
 使用editorial/分支创建纯内容PR，自动检查、合并及发布。新批次文件只允许新增；更正放在后续新批次。工程变更使用独立PR。自动合并核对仓库身份、文件范围、CI成功与确切提交SHA，禁止绕过CI。纯内容发布不重复采集，保留generated_at采集时间，另记editorial_updated_at和translation_updated_at。
 
