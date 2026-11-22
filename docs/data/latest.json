@@ -1292,7 +1292,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-22T23:53:18Z",
       "last_seen": "2026-11-22T23:53:18Z",
-      "source_excerpt": "Iron Ore Futures Near Four-Year Lows on Weak China Demand, Rising Supply - News and Statistics IndexBox"
+      "source_excerpt": "Iron Ore Futures Near Four-Year Lows on Weak China Demand, Rising Supply - News and Statistics IndexBox",
+      "machine_translation": {
+        "title_zh": "中国需求疲软,供应增加,未来钢铁公司接近四年",
+        "excerpt_zh": "中国需求疲软、供应增加 -- -- 新闻和统计索引Box",
+        "fingerprint": "596eec56f8b0c1392df5fcf09cf9edb335e77087fe338556262bdd0834952a98",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-22T23:54:30Z"
+      }
     },
     {
       "id": "a7587537a3d4b54a3cda",
