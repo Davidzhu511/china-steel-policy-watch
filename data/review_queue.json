@@ -1,10 +1,48 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-22T19:59:49Z",
-  "pending_count": 30,
-  "actionable_count": 0,
+  "generated_at": "2026-11-22T23:53:18Z",
+  "pending_count": 31,
+  "actionable_count": 1,
   "blocked_count": 30,
-  "items": [],
+  "items": [
+    {
+      "id": "3a30cb0f5e47b9aa2c7f",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTdmWUpvY2pIOHV3Q2JwX0xLbFVIWFZ6cnhlc3ItYkZkajlHNjVWTjgxU01VLS1ESUlLR1Y4U2Y4d0dWd0w0OGFkTnpDX01KbWFmbzM3Mng4cHRPOUpBRTFSSUhqLXVpendTOHIycXRsTnBYamdJSGl0aGhia3phazFMc1dNSGduQU9Bdk93QVJNdExUT1cwVU83YzVaa3FLREEzdkxBV3FjWENVVUV2c3hRRWpfQQ?oc=5",
+      "published_at": "2026-11-17T13:40:37Z",
+      "title_original": "Iron Ore Futures Near Four-Year Lows on Weak China Demand, Rising Supply",
+      "first_seen": "2026-11-22T23:53:18Z",
+      "last_seen": "2026-11-22T23:53:18Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-17",
+      "source_excerpt": "Iron Ore Futures Near Four-Year Lows on Weak China Demand, Rising Supply - News and Statistics IndexBox",
+      "needs_translation": true,
+      "title_zh": "Iron Ore Futures Near Four-Year Lows on Weak China Demand, Rising Supply",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "da131f7a9ed5ca10",
+      "related_reviews": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcjVFSHdsN2owY1RDVXZ4NDhueVIzYUNDMklRVDMwSzVqakJ6NzIwSWE2ZEZ3bUc4SDk3OVhmU1hsM2c2VFpVRUw0ZXhMd2E4MEdVaDVCdjQ5RzU5SVptZmQyUWxXMGdNVzNnWl9XbEkyRjh6UDNIRUhBWEhYczhQUFZyaGdSVE9zeTZQSXdCVlAzUEREV2x3cE9WNU50MElfRzFrN2d3cER5SzNaN3NXMndUSkY?oc=5",
+          "published_at": "2026-10-30T13:13:39Z",
+          "title_zh": "港口库存升至1.5372亿吨，铁矿石期货跌破680元／吨",
+          "evidence_url": "https://www.indexbox.io/blog/iron-ore-futures-fall-below-cny-680-as-port-stockpiles-rise-and-steel-demand-softens/"
+        },
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUHhrMjJtcXBhUS01ZnZfRVpNa0VTM2dlMnlhc3ZCWk1GSkZTdWNPbHh5MTZ2Q2FRb1dhdGJUeEJDZE0xNi1hOW5DaEV5MmIyUXZDa2dRenkwX1NqeTZodmJ4ZW53THVZTXdLNVN3MFpTUkVHb1ZfWC1KUUZtdlJGSzBNdy1oaUUya05yV0UzT3ZENkhvYU52VnhLdU9CX1BlamM4cHlEbU9JVmRxa0E?oc=5",
+          "published_at": "2026-10-27T04:33:28Z",
+          "title_zh": "中国钢厂盈利走弱，铁矿石期货逼近四年低位",
+          "evidence_url": "https://www.indexbox.io/blog/iron-ore-futures-near-four-year-low-as-chinese-steel-mill-profitability-weakens/"
+        }
+      ]
+    }
+  ],
   "blocked_items": [
     {
       "id": "33459cdc9ca148f0653d",
@@ -132,7 +170,7 @@
       "published_at": "2026-11-17T11:06:13Z",
       "title_original": "SKF and Baowu Partner on Lower-Carbon Steel Innovation",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-22T19:59:49Z",
+      "last_seen": "2026-11-22T23:53:18Z",
       "source": {
         "id": "rss",
         "name": "Wisevoter",
@@ -222,7 +260,7 @@
       "published_at": "2026-11-16T00:20:27Z",
       "title_original": "China Iron Ore Port Inventory Rises to 152.12 Mt by Mid-November 2026",
       "first_seen": "2026-11-19T21:00:18Z",
-      "last_seen": "2026-11-22T19:59:49Z",
+      "last_seen": "2026-11-22T23:53:18Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -252,7 +290,7 @@
       "published_at": "2026-11-19T08:36:00Z",
       "title_original": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-22T19:59:49Z",
+      "last_seen": "2026-11-22T23:53:18Z",
       "source": {
         "id": "rss",
         "name": "中国钢铁新闻网",
@@ -282,7 +320,7 @@
       "published_at": "2026-11-19T06:31:12Z",
       "title_original": "关税和需求塑造 2026 年钢铁行业前景",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-22T14:55:09Z",
+      "last_seen": "2026-11-22T23:53:18Z",
       "source": {
         "id": "rss",
         "name": "blockchain.news",
@@ -342,7 +380,7 @@
       "published_at": "2026-11-18T03:03:00Z",
       "title_original": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9%",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-22T19:59:49Z",
+      "last_seen": "2026-11-22T23:53:18Z",
       "source": {
         "id": "rss",
         "name": "钢铁网",
@@ -401,7 +439,7 @@
       "published_at": "2026-11-16T12:12:51Z",
       "title_original": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus",
       "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-22T19:59:49Z",
+      "last_seen": "2026-11-22T23:53:18Z",
       "source": {
         "id": "rss",
         "name": "GMK Center",
@@ -629,7 +667,7 @@
       "published_at": "2026-10-30T00:00:00Z",
       "title_original": "泰国对华预应力钢绞线启动反倾销调查",
       "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-22T19:59:49Z",
+      "last_seen": "2026-11-22T23:53:18Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -659,7 +697,7 @@
       "published_at": "2026-11-02T00:00:00Z",
       "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
       "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-22T19:59:49Z",
+      "last_seen": "2026-11-22T23:53:18Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "我的钢铁网（商务部公告转载）",
@@ -930,5 +968,5 @@
   "retry_items": [],
   "retry_due_count": 0,
   "next_retry_at": "2026-11-23T00:00:00Z",
-  "work_fingerprint": "4f53cda18c2baa0c0354"
+  "work_fingerprint": "b895d81388906613b522"
 }

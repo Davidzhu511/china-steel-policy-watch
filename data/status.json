@@ -1,38 +1,33 @@
 {
-  "generated_at": "2026-11-22T19:59:49Z",
+  "generated_at": "2026-11-22T23:53:18Z",
   "run_ok": true,
   "model": "gpt-4.1-mini",
   "translation_available": false,
   "analysis_status": "unconfigured",
-  "active_items": 343,
+  "active_items": 344,
   "archived_items": 168,
   "verified_items": 313,
-  "pending_analysis": 30,
-  "pending_translation": 0,
+  "pending_analysis": 31,
+  "pending_translation": 1,
   "blocked_items": 30,
-  "actionable_count": 0,
+  "actionable_count": 1,
   "blocked_count": 30,
   "retry_due_count": 0,
   "next_retry_at": "2026-11-23T00:00:00Z",
-  "pending_machine_translation": 0,
-  "chinese_title_coverage": 100.0,
-  "oldest_actionable_hours": 0,
+  "pending_machine_translation": 1,
+  "chinese_title_coverage": 99.7,
+  "oldest_actionable_hours": 0.0,
   "offline_translation": {
-    "status": "partial",
+    "status": "queued",
     "translated": 0,
-    "warnings": [
-      "1 条译文未通过完整性检查，保留原文待重试。"
-    ],
-    "remaining": 1,
-    "attempted_at": "2026-11-22T20:01:06Z",
-    "retry_after": "2026-11-23T02:01:06.505398+00:00"
+    "warnings": []
   },
   "machine_translated_items": 11,
-  "collected_items": 106,
+  "collected_items": 103,
   "processed_items": 1,
   "deferred_items": 0,
   "new_items": 1,
-  "total_items": 511,
+  "total_items": 512,
   "source_success": 6,
   "source_total": 6,
   "sources": [
@@ -42,10 +37,10 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 9641,
+      "duration_ms": 8068,
       "warnings": [],
-      "last_success_at": "2026-11-22T19:59:49Z",
-      "last_observed_at": "2026-11-22T19:59:49Z",
+      "last_success_at": "2026-11-22T23:53:18Z",
+      "last_observed_at": "2026-11-22T23:53:18Z",
       "consecutive_failures": 0
     },
     {
@@ -54,10 +49,10 @@
       "ok": true,
       "count": 18,
       "error": "",
-      "duration_ms": 12978,
+      "duration_ms": 15475,
       "warnings": [],
-      "last_success_at": "2026-11-22T19:59:49Z",
-      "last_observed_at": "2026-11-22T19:59:49Z",
+      "last_success_at": "2026-11-22T23:53:18Z",
+      "last_observed_at": "2026-11-22T23:53:18Z",
       "consecutive_failures": 0
     },
     {
@@ -66,10 +61,10 @@
       "ok": true,
       "count": 2,
       "error": "",
-      "duration_ms": 553,
+      "duration_ms": 317,
       "warnings": [],
-      "last_success_at": "2026-11-22T19:59:49Z",
-      "last_observed_at": "2026-11-22T19:59:49Z",
+      "last_success_at": "2026-11-22T23:53:18Z",
+      "last_observed_at": "2026-11-22T23:53:18Z",
       "consecutive_failures": 0
     },
     {
@@ -78,10 +73,10 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 749,
+      "duration_ms": 471,
       "warnings": [],
-      "last_success_at": "2026-11-22T19:59:49Z",
-      "last_observed_at": "2026-11-22T19:59:49Z",
+      "last_success_at": "2026-11-22T23:53:18Z",
+      "last_observed_at": "2026-11-22T23:53:18Z",
       "consecutive_failures": 0
     },
     {
@@ -90,28 +85,24 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 3861,
+      "duration_ms": 5822,
       "warnings": [],
-      "last_success_at": "2026-11-22T19:59:49Z",
-      "last_observed_at": "2026-11-22T19:59:49Z",
+      "last_success_at": "2026-11-22T23:53:18Z",
+      "last_observed_at": "2026-11-22T23:53:18Z",
       "consecutive_failures": 0
     },
     {
       "id": "rss",
       "name": "RSS / Google News 新闻发现",
       "ok": true,
-      "count": 41,
+      "count": 38,
       "error": "",
-      "duration_ms": 2623,
+      "duration_ms": 2093,
       "warnings": [],
-      "last_success_at": "2026-11-22T19:59:49Z",
-      "last_observed_at": "2026-11-22T19:59:49Z",
+      "last_success_at": "2026-11-22T23:53:18Z",
+      "last_observed_at": "2026-11-22T23:53:18Z",
       "consecutive_failures": 0
     }
   ],
-  "warnings": [
-    "官方版本检查 哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销: ValueError: Refusing a non-public URL"
-  ],
-  "translation_updated_at": "2026-11-22T20:01:06Z",
-  "editorial_updated_at": "2026-11-22T20:36:01Z"
+  "warnings": []
 }
