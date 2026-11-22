@@ -2,7 +2,7 @@
 
 监控范围包含针对中国以外钢材供应国家/地区的贸易措施，不要求标题或原文提到中国。印度、日本、韩国、台湾、土耳其、越南等竞争来源被采取反倾销、反补贴、反规避、保障措施、配额关税、原产地或进出口限制时均纳入；覆盖立案、初裁、终裁、复审、延长、撤销和豁免。研判核对实施方、涉案原产地、产品及排除项、税率和企业差异、程序阶段、生效/应诉日期，并分析替代采购、竞争报价和贸易转移。事实与推断分开，不把第三国被征税等同于中国钢材自动免税或必然获益；保留具体官方条例或公告链接。
 
-先读取main的data/review_manifest.json；actionable_count、retry_due_count和pending_translation全部为0且next_retry_at为空或尚未到期时静默结束；如该时间已到，按当前时间检查blocked_items的retry_after，跳过manual。否则读取data/review_queue.json。缺少manifest时兼容读取队列，不能因此中断可用内容处理。items是可研判条目；retry_items是已到复查时间的少量blocked_items，不重复计数。日期是资料版本，不要求当天采集才能编辑。队列已提供有限摘录、标题译文、相关已核验主条和上次核验记录；先利用这些信息，避免每轮读取大型历史文件。
+先读取main的data/review_manifest.json；actionable_count、retry_due_count和pending_translation全部为0且next_retry_at为空或尚未到期时静默结束。其余情况读取data/review_queue.json；若next_retry_at已到，按当前时间从blocked_items补查已到期的retry_after，并跳过manual。缺少manifest时兼容读取队列，不能因此中断可用内容处理。items是可研判条目；retry_items是已到复查时间的少量blocked_items，不重复计数。日期是资料版本，不要求当天采集才能编辑。队列已提供有限摘录、标题译文、相关已核验主条和上次核验记录；先利用这些信息，避免每轮读取大型历史文件。
 
 处理顺序：
 1. 补齐所有待译标题，准确翻译原始title_original；不必等待全文，也不因翻译而升级为已核验。可读摘录可以忠实翻译，须保留其完整对应source_excerpt，不能将标题扩写成事实。

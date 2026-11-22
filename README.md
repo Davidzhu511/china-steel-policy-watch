@@ -10,7 +10,7 @@
 | --- | --- | --- |
 | 来源采集、去重、历史和初次发布 | GitHub Actions | 07:50、13:50、19:50 |
 | 新增英文标题与有限摘录翻译 | 采集数据写入 main 后自动触发 CPU 翻译 | 只处理待译内容，独立于 Pages 发布结果 |
-| 专业中文编辑、事实核验、业务研判 | ChatGPT已有新闻任务 | 08:30、14:30、20:30 |
+| 专业中文编辑、事实核验、业务研判 | ChatGPT 手工定时任务 | 每日三个固定时点，建议 09:00、16:15、21:30 |
 | 内容验证、合并和发布 | GitHub Actions | 内容PR检查通过后 |
 | 受阻证据复查 | GitHub于 08:10、15:10、21:10 刷新已保存队列，ChatGPT读取 retry_items | 每轮最多4条，官方默认3天、其他默认7天 |
 
@@ -67,4 +67,4 @@ node --check docs/app.js
 python -m steelwatch render
 ```
 
-update执行采集；publish-editorial仅应用内容配置；translate只翻译已有快照；render只生成静态展示。GitHub继续验证实际公开页面的数据校验值，未确认发布时只能报告已提交。运行记录与错误保存在GitHub，用户简报聚焦新事实、影响、行动与来源，不每天重复系统状态。
+update 执行采集，publish-editorial 应用内容批次，translate 翻译已有快照，refresh-review-queue 按当前时间刷新到期复查，render 生成静态展示。GitHub继续验证实际公开页面的数据校验值，未确认发布时只能报告已提交。运行记录与错误保存在GitHub，用户简报聚焦新事实、影响、行动与来源，不每天重复系统状态。
