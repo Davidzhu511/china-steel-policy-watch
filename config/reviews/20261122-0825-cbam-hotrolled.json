@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-22T07:25:32Z",
+  "translations": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbUJ6M256clozRkJBOWxvSWJ1NFQ3dmhRZFRfYUdlcVZkSlktUFVYYXJOSUJWeDE1NlF3dm01Mkk0LVNaRlZCSDhUcThPbk1NUmxDWndtV0tZbGk2YW03UE0xbHQ2aDRMRnBTc2NuaVVGV1k4NlJhdEFiYnRLWTJzS3BiTHZieDg?oc=5",
+      "published_date": "2026-11-21",
+      "title_original": "Aligning UK and EU ETS may impact steel, aluminium, and ammonia import costs, Catherine McBride notes",
+      "title_zh": "凯瑟琳·麦克布赖德认为：英欧碳排放交易体系接轨或影响钢铁、铝及氨进口成本",
+      "translated_at": "2026-11-22T07:25:32Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmd6R2FqOGhGcE9zbE1ZZVB5VlY1eWQ2VnRoRVhzZ1RYM3FyQjgzSTVLakpXc1dYeEpfNVVGOUVDc1lyemhiMVZ6ZXg2WklqV09qUDRjZFVvOWhLc0J4MGpmOVFjTFk3NElTVTRLWGdVQmNHR2xlSTVnbXozS2V3SkRhUktWSTc3dUNON1Y2U1NMYVg3RzhsMQ?oc=5",
+      "published_date": "2026-11-16",
+      "title_original": "Where extending the EU’s carbon border adjustment mechanism does – and does not – make sense",
+      "title_zh": "欧盟CBAM扩围：哪些下游产品值得纳入，哪些不宜纳入",
+      "translated_at": "2026-11-22T07:25:32Z"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2538",
+      "published_date": "2026-11-17",
+      "title_original": "Commission Implementing Regulation (EU) 2026/2538 of 17 November 2026 correcting Implementing Regulation (EU) 2025/1919 imposing a definitive anti-dumping duty and definitively collecting the provisional duty imposed on imports of certain hot-rolled flat products of iron, non-alloy or other alloy steel originating in Egypt, Japan and Vietnam, and terminating the investigation on imports thereof originating in India",
+      "title_zh": "欧盟2026/2538号条例更正日本东京制铁企业名称：热轧扁平材反倾销税率6.9%不变",
+      "translated_at": "2026-11-22T07:25:32Z"
+    }
+  ],
+  "editorial": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONmd6R2FqOGhGcE9zbE1ZZVB5VlY1eWQ2VnRoRVhzZ1RYM3FyQjgzSTVLakpXc1dYeEpfNVVGOUVDc1lyemhiMVZ6ZXg2WklqV09qUDRjZFVvOWhLc0J4MGpmOVFjTFk3NElTVTRLWGdVQmNHR2xlSTVnbXozS2V3SkRhUktWSTc3dUNON1Y2U1NMYVg3RzhsMQ?oc=5",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-22T07:25:32Z",
+      "title_zh": "欧盟CBAM扩围：哪些下游产品值得纳入，哪些不宜纳入",
+      "title_en": "Where extending the EU’s carbon border adjustment mechanism does – and does not – make sense",
+      "summary_zh": "欧洲改革中心（CER）11月16日研究比较欧委会、理事会及欧洲议会CBAM下游扩围提案，统一编码后研究386类产品，其中378类数据足够；作者估算103类产品碳成本低且进口依赖不集中，33类同时达到其碳成本与集中依赖阈值。该分类和碳费估算属于智库模型，不是欧盟法律认定。三方拟于11月30日继续谈判，2028年适用仍属拟议安排。",
+      "summary_en": "CER's 16 November analysis compares competing downstream CBAM proposals, grouping 386 products and assessing 378 with sufficient data. Its 103 low-risk and 33 dual-threshold findings are model estimates, not legal determinations. Negotiations are expected on 30 November; 2028 implementation remains proposed.",
+      "impact_zh": "对中国钢材出口的直接税率没有新增变化。若下游制品扩围，欧盟钢材加工客户与中国制成品供应商的碳成本、排放追溯和报价竞争可能改变。建议按最终CN清单跟踪冰箱、金属家具、机械零件等下游客户，切勿把CER估算当成实际CBAM应缴金额。",
+      "impact_en": "No new duty is established for Chinese steel. A future extension may alter costs and reporting for downstream manufacturers; monitor the final CN list and avoid treating CER modelled charges as actual liabilities.",
+      "evidence_url": "https://www.cer.eu/insights/where-extending-eus-carbon-border-adjustment-mechanism-make-sense",
+      "coverage": "CER研究原文已读；提案数量、模型假设和日期按作者归因，未将政策提案或预测标为已生效法律。"
+    },
+    {
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2538",
+      "published_date": "2026-11-17",
+      "reviewed_at": "2026-11-22T07:25:32Z",
+      "title_zh": "欧盟2026/2538号条例更正日本东京制铁企业名称：热轧扁平材反倾销税率6.9%不变",
+      "title_en": "EU corrects Tokyo Steel exporter name in hot-rolled flat steel anti-dumping regulation; 6.9% duty unchanged",
+      "summary_zh": "欧委会2026/2538号实施条例于11月18日刊登欧盟官方公报，第1条将2025/1919号条例第1(2)条日本出口商名称从Tokyo Steel Co. Ltd.更正为Tokyo Steel Manufacturing Co., Ltd.；其6.9%单独反倾销税率和TARIC附加代码89MA均未变化。11月19日生效，追溯适用于2025年9月27日起。更正仅涉及企业名称，非埃及、日本、越南全体企业税率调整；原条例对印度调查终止状态亦未改变。",
+      "summary_en": "Regulation (EU) 2026/2538, published on 18 November, corrects Tokyo Steel's exporter name to Tokyo Steel Manufacturing Co., Ltd. while retaining its 6.9% duty and TARIC code 89MA. Effective 19 November and applicable from 27 September 2025; no general rate change.",
+      "impact_zh": "欧盟进口商申报日本东京制铁热轧扁平材时应核对商业发票、出口商法定名称和89MA附加码，必要时检查历史申报名称。对中国热轧卷无自动关税优惠，也不意味着日本报价税负下降。",
+      "impact_en": "EU importers should align exporter names on invoices and customs declarations with code 89MA, including historical entries where relevant. This creates no automatic advantage or tariff relief for Chinese hot-rolled steel.",
+      "evidence_url": "https://publications.europa.eu/resource/cellar/fc5009da-e318-11f1-aefc-01aa75ed71a1.0006.01/DOC_1",
+      "coverage": "欧盟出版局官方条例正文第1、2条核验，核实名称、税率、附加码及追溯适用日期。"
+    }
+  ],
+  "triage": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbUJ6M256clozRkJBOWxvSWJ1NFQ3dmhRZFRfYUdlcVZkSlktUFVYYXJOSUJWeDE1NlF3dm01Mkk0LVNaRlZCSDhUcThPbk1NUmxDWndtV0tZbGk2YW03UE0xbHQ2aDRMRnBTc2NuaVVGV1k4NlJhdEFiYnRLWTJzS3BiTHZieDg?oc=5",
+      "published_date": "2026-11-21",
+      "decision": "excluded",
+      "reason_zh": "报道仅转述Catherine McBride关于英欧ETS接轨影响进口成本的个人观点；没有新增法令、税率或可核实的独立成本测算。英欧ETS互联政策已在此前官方公告主条研判，本条观点不单独作为法规新闻。",
+      "attempted_at": "2026-11-22T07:25:32Z",
+      "coverage": "已核对标题及公开可见的作者观点，未将个人预测当作已发生的进口成本变化。",
+      "evidence_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbUJ6M256clozRkJBOWxvSWJ1NFQ3dmhRZFRfYUdlcVZkSlktUFVYYXJOSUJWeDE1NlF3dm01Mkk0LVNaRlZCSDhUcThPbk1NUmxDWndtV0tZbGk2YW03UE0xbHQ2aDRMRnBTc2NuaVVGV1k4NlJhdEFiYnRLWTJzS3BiTHZieDg?oc=5"
+    }
+  ]
+}
