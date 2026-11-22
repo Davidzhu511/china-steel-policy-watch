@@ -186,6 +186,9 @@ def test_corrected_date_remembers_original_source_revision():
     _apply_editorial([row], config)
     assert row["source_published_date"] == "2026-11-12"
     assert row["published_at"].startswith("2026-11-13")
+    _apply_editorial([row], config)
+    assert row["source_published_date"] == "2026-11-12"
+    assert row["published_at"].startswith("2026-11-13")
 
 
 def test_same_day_official_amendment_keeps_earlier_review_and_queues_new_version(
@@ -284,3 +287,33 @@ def test_review_refresh_promotes_due_items_without_new_collection(tmp_path, monk
     assert status["retry_due_count"] == 1
     assert json.loads((data / "items.json").read_text()) == payload
     assert not pipeline.refresh_review_queue(data, docs)
+
+
+def test_collection_repairs_a_stored_observed_date_without_making_a_duplicate(tmp_path, monkeypatch):
+    from steelwatch import pipeline
+    from steelwatch.models import RawItem, SourceResult
+
+    raw = RawItem(
+        id="notice", url="https://example.org/notice", title="Steel trade report",
+        published_at="2026-11-20", source_id="news", source_name="News", source_kind="news",
+        metadata={"scope_relevant": True},
+    )
+    observed = item("notice", date="2026-11-19", url=raw.url, title_original=raw.title,
+                    source_published_date="2026-11-19", translation_state="complete",
+                    review_method="source_checked", reviewed_at="2026-11-22")
+    config = {
+        "settings": {"max_model_items_per_run": 0},
+        "editorial": [{"url": raw.url, "published_date": "2026-11-19",
+                       "match_published_date": "2026-11-20", "reviewed_at": "2026-11-22",
+                       "title_zh": "已核验报告"}],
+    }
+    data, docs = tmp_path / "data", tmp_path / "docs"
+    data.mkdir()
+    (data / "items.json").write_text(json.dumps({"items": [observed]}))
+    monkeypatch.setattr(pipeline, "_collect",
+                        lambda _: [SourceResult("news", "News", True, [raw])])
+    status = pipeline.run_update(config, data, docs)
+    items = json.loads((data / "items.json").read_text())["items"]
+    assert status["processed_items"] == 0 and len(items) == 1
+    assert items[0]["source_published_date"] == "2026-11-20"
+    assert items[0]["published_at"].startswith("2026-11-19")
