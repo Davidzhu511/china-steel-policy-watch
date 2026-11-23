@@ -1,48 +1,10 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-22T23:53:18Z",
-  "pending_count": 31,
-  "actionable_count": 1,
-  "blocked_count": 30,
-  "items": [
-    {
-      "id": "3a30cb0f5e47b9aa2c7f",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaTdmWUpvY2pIOHV3Q2JwX0xLbFVIWFZ6cnhlc3ItYkZkajlHNjVWTjgxU01VLS1ESUlLR1Y4U2Y4d0dWd0w0OGFkTnpDX01KbWFmbzM3Mng4cHRPOUpBRTFSSUhqLXVpendTOHIycXRsTnBYamdJSGl0aGhia3phazFMc1dNSGduQU9Bdk93QVJNdExUT1cwVU83YzVaa3FLREEzdkxBV3FjWENVVUV2c3hRRWpfQQ?oc=5",
-      "published_at": "2026-11-17T13:40:37Z",
-      "title_original": "Iron Ore Futures Near Four-Year Lows on Weak China Demand, Rising Supply",
-      "first_seen": "2026-11-22T23:53:18Z",
-      "last_seen": "2026-11-22T23:53:18Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-17",
-      "source_excerpt": "Iron Ore Futures Near Four-Year Lows on Weak China Demand, Rising Supply - News and Statistics IndexBox",
-      "needs_translation": false,
-      "title_zh": "中国需求疲软,供应增加,未来钢铁公司接近四年",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "da131f7a9ed5ca10",
-      "related_reviews": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcjVFSHdsN2owY1RDVXZ4NDhueVIzYUNDMklRVDMwSzVqakJ6NzIwSWE2ZEZ3bUc4SDk3OVhmU1hsM2c2VFpVRUw0ZXhMd2E4MEdVaDVCdjQ5RzU5SVptZmQyUWxXMGdNVzNnWl9XbEkyRjh6UDNIRUhBWEhYczhQUFZyaGdSVE9zeTZQSXdCVlAzUEREV2x3cE9WNU50MElfRzFrN2d3cER5SzNaN3NXMndUSkY?oc=5",
-          "published_at": "2026-10-30T13:13:39Z",
-          "title_zh": "港口库存升至1.5372亿吨，铁矿石期货跌破680元／吨",
-          "evidence_url": "https://www.indexbox.io/blog/iron-ore-futures-fall-below-cny-680-as-port-stockpiles-rise-and-steel-demand-softens/"
-        },
-        {
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUHhrMjJtcXBhUS01ZnZfRVpNa0VTM2dlMnlhc3ZCWk1GSkZTdWNPbHh5MTZ2Q2FRb1dhdGJUeEJDZE0xNi1hOW5DaEV5MmIyUXZDa2dRenkwX1NqeTZodmJ4ZW53THVZTXdLNVN3MFpTUkVHb1ZfWC1KUUZtdlJGSzBNdy1oaUUya05yV0UzT3ZENkhvYU52VnhLdU9CX1BlamM4cHlEbU9JVmRxa0E?oc=5",
-          "published_at": "2026-10-27T04:33:28Z",
-          "title_zh": "中国钢厂盈利走弱，铁矿石期货逼近四年低位",
-          "evidence_url": "https://www.indexbox.io/blog/iron-ore-futures-near-four-year-low-as-chinese-steel-mill-profitability-weakens/"
-        }
-      ]
-    }
-  ],
+  "pending_count": 26,
+  "actionable_count": 0,
+  "blocked_count": 26,
+  "items": [],
   "blocked_items": [
     {
       "id": "33459cdc9ca148f0653d",
@@ -434,35 +396,6 @@
       "retry_policy": "scheduled"
     },
     {
-      "id": "ebfc5a441977dfdc335f",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMjk1Z25yYmluc1YtM2t0cm4taXJnYlJXLXdDblNXMGZoS1dDYnFNRE9SVWdiS3VlQTZ5QTN5emkwZm1wVlVGd1o4eEo0cFN1NWwzY3dsMFBoaE1hVDAyOFpGcFFhVFBYa190UDJVSEJtbGpfeExQZHdzNWlEWUZ6ellFNTRtVFNvbGctYzVENktFaXk1NV9qRTUzcnBWdFpFaFk1alhvNElyQTRidi1Sa2o0a9IBuAFBVV95cUxQOVU4MHZ0SHFoM19wbFJyVzhiQzJOdW16bTcwemVNVWhlU3ZWNWJmeGxhS0sxVWVUUnFxMmJ1MDV0alBJWkliMXAtUXpTZzdLZlQzR3BDSXQ3WERyNzR5Sm4wMkdUWmJ0OFVBOURkWDlheWtIVUUzdkp5Ymc2UERNcFk0TFJIR013SVB6LUhMSFlMRVY3N3VYdEVLRXFHOFV6TVpRdVM4SUxvc0hLQ1FUOTl6Wk1YMlJx?oc=5",
-      "published_at": "2026-11-16T12:12:51Z",
-      "title_original": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-22T23:53:18Z",
-      "source": {
-        "id": "rss",
-        "name": "GMK Center",
-        "kind": "news",
-        "official": false
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "涉及第三国贸易救济或重要进口限制，但仅有新闻标题/有限摘录，缺乏可核对的原始公告，暂不认定税率或新政策生效。",
-      "review_coverage": "仅标题级检视，原始法规或官方公告未取得。",
-      "published_date": "2026-11-16",
-      "source_excerpt": "Indonesia reviews anti-dumping duties on hot rolled steel from Kazakhstan and Belarus GMK Center",
-      "needs_translation": false,
-      "title_zh": "印度尼西亚审查哈萨克斯坦和白俄罗斯的热滚钢反倾销税",
-      "review_attempted_at": "2026-11-16T19:27:43Z",
-      "evidence_fingerprint": "ce99142bacb8c6e3",
-      "related_reviews": [],
-      "retry_after": "2026-11-23T00:00:00Z",
-      "retry_policy": "scheduled"
-    },
-    {
       "id": "09720ebc41dda0e0fdda",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnhxM01CN0U2eGllSHh2eHY1RUs2NFY0b25xczg3T1VMSEtobE40amxmZS1XVHN4YkcybG91dk5ZeEVoRzN3Y1kyb09GTnd4aGlQbmJvTWF0VjZ6N3VGTFRLb190U1AtVkVmMFg1bmlqc1JqODF5YlhSWUNVbEhtRmpPd240ZXJ5WVZ5UkpHUmJyNERwbDRRYTYyY21BX0hxbkJIWVY4dDVTa252R2pjdVBUVVhIT1RDMTFwbmdR?oc=5",
       "published_at": "2026-11-11T22:05:42Z",
@@ -488,42 +421,6 @@
       "review_attempted_at": "2026-11-16T19:27:43Z",
       "evidence_fingerprint": "16476d3cc7c6f4f5",
       "related_reviews": [],
-      "retry_after": "2026-11-23T00:00:00Z",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "40db350b6db48ce60ef2",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeTJmSEdkYk5Pd01IXy1tcWlVaklIWWhLbWwyNTRCdEZYWjk1aVAzMnlHVk9CODNyX25jSFRETFZwOUd3dEhscWdhaUVtTWFLZy1JbzZPQWZSU3VnaFAyUkR5UGNLSnBYcnZpVHc4SkN6Uk9pQ2RZSjdRVFhxNHpiQWE5dkNLdU81ajBiMFBuYmxIdEh6QVJHVFFwcWRLak5abWFRejUyenJ3UFpYTEREMUpVUFBrU0x5?oc=5",
-      "published_at": "2026-11-10T10:32:06Z",
-      "title_original": "Saudi Arabia opens anti-dumping probe into steel imports from China, Turkiye",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-17T02:07:46Z",
-      "source": {
-        "id": "rss",
-        "name": "Arab News",
-        "kind": "news",
-        "official": false
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "涉及第三国贸易救济或重要进口限制，但仅有新闻标题/有限摘录，缺乏可核对的原始公告，暂不认定税率或新政策生效。",
-      "review_coverage": "仅标题级检视，原始法规或官方公告未取得。",
-      "published_date": "2026-11-10",
-      "source_excerpt": "Saudi Arabia opens anti-dumping probe into steel imports from China, Turkiye Arab News",
-      "needs_translation": false,
-      "title_zh": "沙特阿拉伯对从中国进口的钢铁进行反倾销调查,图尔基耶",
-      "review_attempted_at": "2026-11-16T19:27:43Z",
-      "evidence_fingerprint": "04cb73c9a0a6aaee",
-      "related_reviews": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVDBNQjhzcWoyUF9XN0Q2b2RUWUFXbFVzak5xTzFRYVplb0Y4LV9TMnQzaU9lZU9RQXllZERtbkx5bDRHYjF2WVR2UFFtR1gxLVpINHl3N3g1LVBuMnUydVduSGpRR01aMjlHWGs5eGR0eTJJNEZzODItS2M1VWFyeHU3UTMzVmdCbHRjM0N6VFI4YlpubEtMVTFna1pjc09GbzA4YUtXUTZyVmpodWJz?oc=5",
-          "published_at": "2026-11-10T13:51:05Z",
-          "title_zh": "沙特对中国及土耳其热轧中轻型结构型钢启动反倾销调查",
-          "evidence_url": "https://gaft.gov.sa/en/trade-remedies/follow-up-trade-remedies-investigations"
-        }
-      ],
       "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "scheduled"
     },
@@ -660,66 +557,6 @@
       "related_reviews": [],
       "retry_after": "2026-11-24T00:00:00Z",
       "retry_policy": "manual"
-    },
-    {
-      "id": "6ffd17e4c9693d71453f",
-      "url": "https://news.mysteel.com/a/26103009/E921E5CBA72B4D5E.html",
-      "published_at": "2026-10-30T00:00:00Z",
-      "title_original": "泰国对华预应力钢绞线启动反倾销调查",
-      "first_seen": "2026-11-02T22:28:43Z",
-      "last_seen": "2026-11-22T23:53:18Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "我的钢铁网（商务部公告转载）",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "泰国对华预应力钢绞线调查仍缺少泰国主管机关正式立案公告及期限起算依据；不能从转载推定应诉截止日期。",
-      "review_evidence_url": "https://news.mysteel.com/a/26103009/E921E5CBA72B4D5E.html",
-      "review_coverage": "2026-11-20复查原报道及可公开检索的主管机关官方替代入口，仍未取得足以核对具体法令、期限和适用范围的原文；保留有限事实，不标source_checked。",
-      "published_date": "2026-10-30",
-      "source_excerpt": "泰国对华预应力钢绞线启动反倾销调查-我的钢铁网 综合资讯 钢材 建筑钢材 热轧 冷轧 中厚板 型钢 钢管 带钢 涂镀 硅钢 钢结构 不锈钢 废不锈钢 铬 镍 有色金属 铜 铝 铅 锌 锡 稀土 锑铋铟 锗镓硒 建筑材料 水泥 混凝土 砂石 矿渣粉 特钢 优特钢 工业线 工模具 金属制品 铁矿石 废钢 煤炭 焦炭 兰炭 铁合金 钢坯 生铁 耐材 海运 新能源 锂 镍 钴 锰 钒 锂电正极 锂电负极 锂电回收 工业硅 光伏材料 能源 原油 天然气 成品油 化工 烯烃 芳烃 甲醇 橡胶 天然橡胶 丁二烯 合成橡胶 农产品 主粮 杂粮 果蔬 棉业 油料 植物油 蛋白饲料 饲料添加剂 淀粉 糖 食品添加剂 猪 鸡 鸭 首页 宏观 大宗 前沿 下游 快讯 期货 专题 报告 数据 指数 当前位置： 综合资讯 > 钢材 > 正文 泰国对华预应力钢绞线启动反倾销调查 2026-10-30 09:34 来源：商务部贸易救济调查局 更多历史数据，上钢联数据 资讯监督 智能摘要 内容由AI生成 2026年10…",
-      "needs_translation": false,
-      "title_zh": "泰国对华预应力钢绞线启动反倾销调查",
-      "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "4c5946561c517bcd",
-      "related_reviews": [],
-      "retry_after": "2026-11-23T00:00:00Z",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "746291a1a4bf408605a3",
-      "url": "https://news.mysteel.com/a/26110215/722BC206CFA1DEAD.html",
-      "published_at": "2026-11-02T00:00:00Z",
-      "title_original": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
-      "first_seen": "2026-11-02T22:26:52Z",
-      "last_seen": "2026-11-22T23:53:18Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "我的钢铁网（商务部公告转载）",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "埃及涉华冷轧、镀锌、彩涂反倾销调查终止仍缺少本次所述正式公告全文及涉案税号核对，不能把媒体标题当作新增法令。",
-      "review_evidence_url": "https://news.mysteel.com/a/26110215/722BC206CFA1DEAD.html",
-      "review_coverage": "2026-11-20复查原报道及可公开检索的主管机关官方替代入口，仍未取得足以核对具体法令、期限和适用范围的原文；保留有限事实，不标source_checked。",
-      "published_date": "2026-11-02",
-      "source_excerpt": "埃及对涉华冷轧卷、镀锌卷和彩涂卷钢材产品作出反倾销终裁-我的钢铁网 综合资讯 钢材 建筑钢材 热轧 冷轧 中厚板 型钢 钢管 带钢 涂镀 硅钢 钢结构 不锈钢 废不锈钢 铬 镍 有色金属 铜 铝 铅 锌 锡 稀土 锑铋铟 锗镓硒 建筑材料 水泥 混凝土 砂石 矿渣粉 特钢 优特钢 工业线 工模具 金属制品 铁矿石 废钢 煤炭 焦炭 兰炭 铁合金 钢坯 生铁 耐材 海运 新能源 锂 镍 钴 锰 钒 锂电正极 锂电负极 锂电回收 工业硅 光伏材料 能源 原油 天然气 成品油 化工 烯烃 芳烃 甲醇 橡胶 天然橡胶 丁二烯 合成橡胶 农产品 主粮 杂粮 果蔬 棉业 油料 植物油 蛋白饲料 饲料添加剂 淀粉 糖 食品添加剂 猪 鸡 鸭 首页 宏观 大宗 前沿 下游 快讯 期货 专题 报告 数据 指数 当前位置： 综合资讯 > 钢材 > 正文 埃及对涉华冷轧卷、镀锌卷和彩涂卷钢材产品作出反倾销终裁 2026-11-02 15:25 来源：商务部贸易救济调查局 更多历史数据，上钢联数据 资讯监督…",
-      "needs_translation": false,
-      "title_zh": "埃及终止涉华冷轧卷、镀锌卷和彩涂卷钢材反倾销调查，不征反倾销税",
-      "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "4f6fb52c7a087d5e",
-      "related_reviews": [],
-      "retry_after": "2026-11-23T00:00:00Z",
-      "retry_policy": "scheduled"
     },
     {
       "id": "5dacd18b5a01b6f082d6",
@@ -965,8 +802,133 @@
       "retry_policy": "manual"
     }
   ],
-  "retry_items": [],
-  "retry_due_count": 0,
-  "next_retry_at": "2026-11-23T00:00:00Z",
-  "work_fingerprint": "b895d81388906613b522"
+  "retry_items": [
+    {
+      "id": "09720ebc41dda0e0fdda",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnhxM01CN0U2eGllSHh2eHY1RUs2NFY0b25xczg3T1VMSEtobE40amxmZS1XVHN4YkcybG91dk5ZeEVoRzN3Y1kyb09GTnd4aGlQbmJvTWF0VjZ6N3VGTFRLb190U1AtVkVmMFg1bmlqc1JqODF5YlhSWUNVbEhtRmpPd240ZXJ5WVZ5UkpHUmJyNERwbDRRYTYyY21BX0hxbkJIWVY4dDVTa252R2pjdVBUVVhIT1RDMTFwbmdR?oc=5",
+      "published_at": "2026-11-11T22:05:42Z",
+      "title_original": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance",
+      "first_seen": "2026-11-16T18:09:20Z",
+      "last_seen": "2026-11-18T01:21:00Z",
+      "source": {
+        "id": "rss",
+        "name": "Reuters",
+        "kind": "news",
+        "official": false
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "涉及第三国贸易救济或重要进口限制，但仅有新闻标题/有限摘录，缺乏可核对的原始公告，暂不认定税率或新政策生效。",
+      "review_coverage": "仅标题级检视，原始法规或官方公告未取得。",
+      "published_date": "2026-11-11",
+      "source_excerpt": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance Reuters",
+      "needs_translation": false,
+      "title_zh": "墨西哥说,对亚洲钢铁运输的镇压,随着美国关税谈判的推进,正在得到回报。",
+      "review_attempted_at": "2026-11-16T19:27:43Z",
+      "evidence_fingerprint": "16476d3cc7c6f4f5",
+      "related_reviews": [],
+      "retry_after": "2026-11-23T00:00:00Z",
+      "retry_policy": "scheduled"
+    },
+    {
+      "id": "629a3b77a0ee41a7a2ea",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
+      "published_at": "2026-11-09T21:32:59Z",
+      "title_original": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations",
+      "first_seen": "2026-11-13T14:56:04Z",
+      "last_seen": "2026-11-16T18:09:20Z",
+      "source": {
+        "id": "rss",
+        "name": "Yeşil Ekonomi",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "土耳其钢铁出口商协会CBAM合作协议的报道仅见聚合标题；本轮检索土耳其商务部等公开来源未找到可独立核验的协议正文、签约主体或义务内容。",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
+      "review_coverage": "2026-11-20复查原报道及可公开检索的主管机关官方替代入口，仍未取得足以核对具体法令、期限和适用范围的原文；保留有限事实，不标source_checked。",
+      "published_date": "2026-11-09",
+      "source_excerpt": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations Yeşil Ekonomi",
+      "needs_translation": false,
+      "title_zh": "土耳其钢铁出口商协会签署CBAM合规合作协议",
+      "review_attempted_at": "2026-11-20T19:30:56Z",
+      "evidence_fingerprint": "ffb92653f873ab89",
+      "related_reviews": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLUc1T3owQVg3X1VZOWtzSWpPa0poc0NQUFVUSXlaTGF6UG5yUUNSUFZHbUlyZjhnTHVacmZQQms4d3I4TTYzd21NRVNBWUVnYzd0MkVvdy02Sm5kajRyc1o4QjdLVnhaSDdTZDBhRS13M3E3TkMwdUhKT0JSSTF6WEVyRjZ1NmFlVkNEN050WVFuWmgyQnFVdmhPZVJKa3ppZ1NpNlJUVURNaXJmMUZVZ21SYnc2aHk4emJUY19wUkxLTm4wVE5ZaHV6SVpUZFlKbkhtTlBrT0hXUGtMazN2Um05UWh0Zw?oc=5",
+          "published_at": "2026-11-04T09:08:47Z",
+          "title_zh": "土耳其钢铁出口商协会与CARES合作开展EU/UK CBAM合规培训",
+          "evidence_url": "https://www.steelradar.com/en/haber/cib-and-cares-to-support-turkish-steel-exporters-in-complying-with-carbon-regulations/"
+        }
+      ],
+      "retry_after": "2026-11-23T00:00:00Z",
+      "retry_policy": "scheduled"
+    },
+    {
+      "id": "c89e263b75e251fd99ec",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVU0S3JDbk5EVFZ0SVNZOHI3MEx0ajRXcFdVb0FoUVZkZVdieEFVYXpJdFV2aEotcDRpYy1aS01jN3dDcC1qdk5WS29sX21ZOWJJdk01X1dVZmotWThZaHJJUHdHcVk1ektGZWNvdnBlNWFodFhEakVhOWNFdzVTLUE5N2toTG53WU9ELVBBTFpyVGxJbWRUUGhNb3FXQWNjZEJEYTRFWVdVdTUtMFE5TXF1V1d0SWZiZDUwb3NCbWpoUQ?oc=5",
+      "published_at": "2026-10-26T00:18:19Z",
+      "title_original": "Rosan discusses deeper nickel and stainless steel processing with Tsingshan chairman",
+      "first_seen": "2026-10-26T13:36:52Z",
+      "last_seen": "2026-11-01T18:08:44Z",
+      "source": {
+        "id": "rss",
+        "name": "Petromindo",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "2026年11月2日复查印尼公开报道、ANTARA/BKPM材料和Petromindo公开索引：仍只能确认Rosan与青山集团董事长项光达会谈并讨论印尼镍、不锈钢深加工及IWIP后续投资；没有新增项目、金额、产能、地点、期限或约束性决定。不得用其他太阳能投资意向补造本次钢铁项目参数。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
+      "review_coverage": "复核现有队列核验记录与原始来源链接；公开原文仍不可完整核读，未重新验证全文。",
+      "published_date": "2026-10-26",
+      "source_excerpt": "Rosan discusses deeper nickel and stainless steel processing with Tsingshan chairman Petromindo",
+      "needs_translation": false,
+      "title_zh": "Rosan与青山集团董事长讨论深化镍及不锈钢加工",
+      "review_attempted_at": "2026-11-16T19:27:43Z",
+      "evidence_fingerprint": "534d3ec3b412fc6f",
+      "related_reviews": [],
+      "retry_after": "2026-11-23T00:00:00Z",
+      "retry_policy": "scheduled"
+    },
+    {
+      "id": "021803b722667781c5ff",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDJiWHE4OUlfQXdkQkhDUVQ1RndVSjJBVVNQUVROZUdMS1VWOFpkWEl4MXE5RmFXTzhCbkJSMVhxSWJNTGJBblpjMm81TTk2eFlnZWFhWVhhM3hudFdFQXYtTWl2aktEUUZiMl9WVVlleTlXTmVhZlNmVVlzckVsaTZ5OFlxNGdLZnpTYnRxUE9VTTdnYldFbFBZTGZLQQ?oc=5",
+      "published_at": "2026-10-22T04:54:26Z",
+      "title_original": "The Impact of CBAM’s Extension to Downstream Products on MSMEs",
+      "first_seen": "2026-10-26T13:36:52Z",
+      "last_seen": "2026-10-28T18:31:59Z",
+      "source": {
+        "id": "rss",
+        "name": "orfonline.org",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "2026年11月2日再次检索ORF官方研究页、PDF和公开镜像：仍未取得同版全文、图表或模型附件，无法核对产品范围、MSME样本、数据口径、情景假设及建议。欧盟官方材料可确认下游扩围提案仍在立法程序中，但不能替代本条ORF研究全文。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
+      "review_coverage": "复核现有队列核验记录与原始来源链接；公开原文仍不可完整核读，未重新验证全文。",
+      "published_date": "2026-10-22",
+      "source_excerpt": "The Impact of CBAM’s Extension to Downstream Products on MSMEs orfonline.org",
+      "needs_translation": false,
+      "title_zh": "CBAM向下游产品扩围对中小微企业的影响",
+      "review_attempted_at": "2026-11-16T19:27:43Z",
+      "evidence_fingerprint": "ff06e8d693acdc92",
+      "related_reviews": [],
+      "retry_after": "2026-11-23T00:00:00Z",
+      "retry_policy": "scheduled"
+    }
+  ],
+  "retry_due_count": 5,
+  "next_retry_at": "2026-11-24T00:00:00Z",
+  "work_fingerprint": "b4674d32214c19db854c"
 }
