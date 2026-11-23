@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-23T15:17:33Z",
+  "translations": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnhxM01CN0U2eGllSHh2eHY1RUs2NFY0b25xczg3T1VMSEtobE40amxmZS1XVHN4YkcybG91dk5ZeEVoRzN3Y1kyb09GTnd4aGlQbmJvTWF0VjZ6N3VGTFRLb190U1AtVkVmMFg1bmlqc1JqODF5YlhSWUNVbEhtRmpPd240ZXJ5WVZ5UkpHUmJyNERwbDRRYTYyY21BX0hxbkJIWVY4dDVTa252R2pjdVBUVVhIT1RDMTFwbmdR?oc=5",
+      "published_date": "2026-11-11",
+      "title_original": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance",
+      "title_zh": "美墨关税谈判推进，墨西哥称整治亚洲钢材转运已见成效",
+      "translated_at": "2026-11-23T15:17:33Z"
+    }
+  ],
+  "editorial": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnhxM01CN0U2eGllSHh2eHY1RUs2NFY0b25xczg3T1VMSEtobE40amxmZS1XVHN4YkcybG91dk5ZeEVoRzN3Y1kyb09GTnd4aGlQbmJvTWF0VjZ6N3VGTFRLb190U1AtVkVmMFg1bmlqc1JqODF5YlhSWUNVbEhtRmpPd240ZXJ5WVZ5UkpHUmJyNERwbDRRYTYyY21BX0hxbkJIWVY4dDVTa252R2pjdVBUVVhIT1RDMTFwbmdR?oc=5",
+      "published_date": "2026-11-11",
+      "reviewed_at": "2026-11-23T15:17:33Z",
+      "title_zh": "墨西哥加强钢材进口追溯，11月19日版官方名录仍列首钢京唐及迁安",
+      "title_en": "Mexico tightens steel import traceability; 19 November official catalogue lists Shougang Jingtang and Qian’an",
+      "summary_zh": "路透社11月11日报道，墨西哥经济部负责外贸的副部长Luis Rosendo Gutiérrez称，墨方加强钢材追溯以防经墨转运至美国并利用协定优惠，已清理约1,100个钢厂登记。该数字为官员表述，报道所述美国第232条关税减免仍在谈判阶段。墨西哥经济部SNICE将钢厂名录更新日期列为2026年11月19日。该版PDF列有首钢京唐（SE00551）和首钢迁安（SE00552，企业栏为北京首钢股份有限公司）。SNICE现行指南要求在适用税号下办理钢铁产品自动进口通知（AAIPS），选取生产钢厂并提交适用的证书。对适用钢厂证书要求且加工未改变钢材性质的货物，指南要求以原料钢厂证书及加工各环节质量证书核对炉号。",
+      "summary_en": "Reuters reported on 11 November that Mexican deputy economy minister Luis Rosendo Gutiérrez said Mexico had tightened steel traceability to prevent diversion through Mexico into the US using trade preferences and removed around 1,100 mill registrations. That figure is attributed to the official. The reported US Section 232 tariff relief remained under negotiation. Mexico’s Economy Ministry lists its SNICE mill catalogue as updated on 19 November 2026. The published PDF lists Shougang Jingtang (SE00551) and Shougang Qian’an (SE00552, with Beijing Shougang Co., Ltd. in the company field). Current SNICE guidance requires selection of the producing mill and applicable certificates for steel lines subject to automatic import notices (AAIPS). For covered material further processed without changing the nature of the steel, it calls for linked mill and processing certificates to trace the heat.",
+      "impact_zh": "对墨西哥冷轧、镀锌等板卷订单，先由进口商或报关行按实际牌号、规格和用途确认墨西哥税号及适用手续，并在VUCEM核对实际生产钢厂编号、证书抬头和炉号后再锁定报价或安排装运。涉及售美下游产品时，另行核查适用的原产地和美国第232条要求。SNICE列名可作核对依据，实际可选状态及具体货物能否清关须以申报核对为准。",
+      "impact_en": "For cold-rolled or galvanised coil orders for Mexico, have the importer or broker confirm the Mexican tariff line and applicable procedure from the specification and end use. Before fixing quotes or shipping, match the actual mill ID, certificate identity and heat numbers in VUCEM. For downstream goods destined for the US, check applicable origin and US Section 232 rules separately. A public catalogue entry supports the check; confirm live eligibility for the shipment.",
+      "evidence_url": "https://www.snice.gob.mx/cs/avi/snice/drrnas.siderurgicos.html",
+      "coverage": "核对路透社原报道（https://www.reuters.com/world/china/mexico-says-crackdown-asian-steel-shipments-is-paying-off-us-tariff-talks-2026-11-11/）、Alacero峰会议程（https://summit.alacero.org/）及SNICE申报指南和2026年11月19日名录PDF第3页（https://www.snice.gob.mx/~oracle/SNICE_DOCS/CATALOGOMOLINO-SIDERURGICOS_20261120-20261120.pdf）。约1,100为官员受访口径，未独立核得被清理名录；已核对上述两家列名，未核对个别订单的VUCEM状态。该报道及名录更新未给出新的税率、生效安排或豁免。",
+      "status": "原文核验／官方名录",
+      "category": "配额与关税",
+      "importance": "高",
+      "tags": [
+        "墨西哥",
+        "美国",
+        "中国",
+        "钢材追溯",
+        "AAIPS",
+        "冷轧板卷"
+      ],
+      "tags_en": [
+        "Mexico",
+        "United States",
+        "China",
+        "steel traceability",
+        "AAIPS",
+        "cold-rolled coil"
+      ],
+      "follow_up": "墨西哥板卷新单在排产或装运前由当地进口商以实际生产厂和具体税号核对VUCEM及证书。"
+    }
+  ],
+  "triage": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
+      "published_date": "2026-11-09",
+      "decision": "duplicate",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLUc1T3owQVg3X1VZOWtzSWpPa0poc0NQUFVUSXlaTGF6UG5yUUNSUFZHbUlyZjhnTHVacmZQQms4d3I4TTYzd21NRVNBWUVnYzd0MkVvdy02Sm5kajRyc1o4QjdLVnhaSDdTZDBhRS13M3E3TkMwdUhKT0JSSTF6WEVyRjZ1NmFlVkNEN050WVFuWmgyQnFVdmhPZVJKa3ppZ1NpNlJUVURNaXJmMUZVZ21SYnc2aHk4emJUY19wUkxLTm4wVE5ZaHV6SVpUZFlKbkhtTlBrT0hXUGtMazN2Um05UWh0Zw?oc=5",
+      "reason_zh": "Yeşil Ekonomi报道与既有SteelRadar主条均为土耳其钢铁出口商协会（ÇİB）和CARES就欧盟及英国CBAM签署的合作声明。协会公告确认签署方相同，合作包括培训、技术资料与信息交流。",
+      "attempted_at": "2026-11-23T15:17:33Z",
+      "coverage": "核对Yeşil Ekonomi英文原文（https://yesilekonomi.com/en/turkish-steel-exporters-association-signs-cooperation-agreement-on-cbam-regulations-2/）、队列主条及ÇİB土耳其语公告。协会公告确认参与方、签署人和合作范围。",
+      "evidence_url": "https://cib.org.tr/tr/basin-odasi-basin-bultenleri-cib-ve-caresten-turk-celik-ihracatcilarinin-karbon-duzenlemeleri-hazirligi-icin-is-birligi.html"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVU0S3JDbk5EVFZ0SVNZOHI3MEx0ajRXcFdVb0FoUVZkZVdieEFVYXpJdFV2aEotcDRpYy1aS01jN3dDcC1qdk5WS29sX21ZOWJJdk01X1dVZmotWThZaHJJUHdHcVk1ektGZWNvdnBlNWFodFhEakVhOWNFdzVTLUE5N2toTG53WU9ELVBBTFpyVGxJbWRUUGhNb3FXQWNjZEJEYTRFWVdVdTUtMFE5TXF1V1d0SWZiZDUwb3NCbWpoUQ?oc=5",
+      "published_date": "2026-10-26",
+      "decision": "blocked",
+      "attempted_at": "2026-11-23T15:17:33Z",
+      "reason_zh": "Petromindo原文全文需登录。印尼镍业媒体引述部长本人10月25日的公开表述，可交叉核对与项光达就印尼镍和不锈钢深加工会谈。尚未看到可核对的项目决定、投资金额、产能或投运日期。",
+      "coverage": "核对Petromindo标题和公开导语，以及印尼镍业媒体的全文及其对部长发言的引述（https://nikel.co.id/2026/10/26/menteri-rosan-bahas-pendalaman-hilirisasi-nikel-dan-baja-tahan-karat-dengan-tsingshan/）。仍需可公开核读的原文、主管机关或企业项目文件，以核实有无新增不锈钢产能承诺。",
+      "evidence_url": "https://www.petromindo.com/news/article/rosan-discusses-deeper-nickel-and-stainless-steel-processing-with-tsingshan-chairman",
+      "retry_policy": "manual",
+      "retry_after": "2026-11-30T15:17:33Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDJiWHE4OUlfQXdkQkhDUVQ1RndVSjJBVVNQUVROZUdMS1VWOFpkWEl4MXE5RmFXTzhCbkJSMVhxSWJNTGJBblpjMm81TTk2eFlnZWFhWVhhM3hudFdFQXYtTWl2aktEUUZiMl9WVVlleTlXTmVhZlNmVVlzckVsaTZ5OFlxNGdLZnpTYnRxUE9VTTdnYldFbFBZTGZLQQ?oc=5",
+      "published_date": "2026-10-22",
+      "decision": "blocked",
+      "attempted_at": "2026-11-23T15:17:33Z",
+      "reason_zh": "ORF原文入口仍返回403。ORF发布预告可确认研究聚焦印度钢铁中小微企业在欧盟CBAM下游扩围情景下面临的合规成本及供应链准入压力。仍缺全文，无法核对模型、样本、涉及产品和量化结果。",
+      "coverage": "核对ORF原始短链接及发布预告，并辅查欧洲议会程序2025/0419(COD)（https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0419%28COD%29）。议会2026年9月15日通过修正案并交回委员会开展机构间谈判。未核读ORF研究正文，未将研究情景作为已生效法规。",
+      "evidence_url": "https://or-f.org/40811",
+      "retry_after": "2026-11-30T15:17:33Z",
+      "retry_policy": "scheduled"
+    }
+  ]
+}
