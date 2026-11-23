@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-22T23:53:18Z",
-  "pending_count": 26,
+  "pending_count": 24,
   "actionable_count": 0,
-  "blocked_count": 26,
+  "blocked_count": 24,
   "items": [],
   "blocked_items": [
     {
@@ -396,35 +396,6 @@
       "retry_policy": "scheduled"
     },
     {
-      "id": "09720ebc41dda0e0fdda",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnhxM01CN0U2eGllSHh2eHY1RUs2NFY0b25xczg3T1VMSEtobE40amxmZS1XVHN4YkcybG91dk5ZeEVoRzN3Y1kyb09GTnd4aGlQbmJvTWF0VjZ6N3VGTFRLb190U1AtVkVmMFg1bmlqc1JqODF5YlhSWUNVbEhtRmpPd240ZXJ5WVZ5UkpHUmJyNERwbDRRYTYyY21BX0hxbkJIWVY4dDVTa252R2pjdVBUVVhIT1RDMTFwbmdR?oc=5",
-      "published_at": "2026-11-11T22:05:42Z",
-      "title_original": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-18T01:21:00Z",
-      "source": {
-        "id": "rss",
-        "name": "Reuters",
-        "kind": "news",
-        "official": false
-      },
-      "category": "配额与关税",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "涉及第三国贸易救济或重要进口限制，但仅有新闻标题/有限摘录，缺乏可核对的原始公告，暂不认定税率或新政策生效。",
-      "review_coverage": "仅标题级检视，原始法规或官方公告未取得。",
-      "published_date": "2026-11-11",
-      "source_excerpt": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance Reuters",
-      "needs_translation": false,
-      "title_zh": "墨西哥说,对亚洲钢铁运输的镇压,随着美国关税谈判的推进,正在得到回报。",
-      "review_attempted_at": "2026-11-16T19:27:43Z",
-      "evidence_fingerprint": "16476d3cc7c6f4f5",
-      "related_reviews": [],
-      "retry_after": "2026-11-23T00:00:00Z",
-      "retry_policy": "scheduled"
-    },
-    {
       "id": "707bf3a1636a45887b23",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
       "published_at": "2026-11-14T08:00:00Z",
@@ -459,43 +430,6 @@
         }
       ],
       "retry_after": "2026-11-27T00:00:00Z",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "629a3b77a0ee41a7a2ea",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
-      "published_at": "2026-11-09T21:32:59Z",
-      "title_original": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations",
-      "first_seen": "2026-11-13T14:56:04Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "Yeşil Ekonomi",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "土耳其钢铁出口商协会CBAM合作协议的报道仅见聚合标题；本轮检索土耳其商务部等公开来源未找到可独立核验的协议正文、签约主体或义务内容。",
-      "review_evidence_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
-      "review_coverage": "2026-11-20复查原报道及可公开检索的主管机关官方替代入口，仍未取得足以核对具体法令、期限和适用范围的原文；保留有限事实，不标source_checked。",
-      "published_date": "2026-11-09",
-      "source_excerpt": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations Yeşil Ekonomi",
-      "needs_translation": false,
-      "title_zh": "土耳其钢铁出口商协会签署CBAM合规合作协议",
-      "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "ffb92653f873ab89",
-      "related_reviews": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLUc1T3owQVg3X1VZOWtzSWpPa0poc0NQUFVUSXlaTGF6UG5yUUNSUFZHbUlyZjhnTHVacmZQQms4d3I4TTYzd21NRVNBWUVnYzd0MkVvdy02Sm5kajRyc1o4QjdLVnhaSDdTZDBhRS13M3E3TkMwdUhKT0JSSTF6WEVyRjZ1NmFlVkNEN050WVFuWmgyQnFVdmhPZVJKa3ppZ1NpNlJUVURNaXJmMUZVZ21SYnc2aHk4emJUY19wUkxLTm4wVE5ZaHV6SVpUZFlKbkhtTlBrT0hXUGtMazN2Um05UWh0Zw?oc=5",
-          "published_at": "2026-11-04T09:08:47Z",
-          "title_zh": "土耳其钢铁出口商协会与CARES合作开展EU/UK CBAM合规培训",
-          "evidence_url": "https://www.steelradar.com/en/haber/cib-and-cares-to-support-turkish-steel-exporters-in-complying-with-carbon-regulations/"
-        }
-      ],
-      "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "scheduled"
     },
     {
@@ -702,17 +636,18 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "2026年11月2日复查印尼公开报道、ANTARA/BKPM材料和Petromindo公开索引：仍只能确认Rosan与青山集团董事长项光达会谈并讨论印尼镍、不锈钢深加工及IWIP后续投资；没有新增项目、金额、产能、地点、期限或约束性决定。不得用其他太阳能投资意向补造本次钢铁项目参数。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
-      "review_coverage": "复核现有队列核验记录与原始来源链接；公开原文仍不可完整核读，未重新验证全文。",
+      "review_note_zh": "Petromindo原文全文需登录。印尼镍业媒体引述部长本人10月25日的公开表述，可交叉核对与项光达就印尼镍和不锈钢深加工会谈。尚未看到可核对的项目决定、投资金额、产能或投运日期。",
+      "review_evidence_url": "https://www.petromindo.com/news/article/rosan-discusses-deeper-nickel-and-stainless-steel-processing-with-tsingshan-chairman",
+      "review_coverage": "核对Petromindo标题和公开导语，以及印尼镍业媒体的全文及其对部长发言的引述（https://nikel.co.id/2026/10/26/menteri-rosan-bahas-pendalaman-hilirisasi-nikel-dan-baja-tahan-karat-dengan-tsingshan/）。仍需可公开核读的原文、主管机关或企业项目文件，以核实有无新增不锈钢产能承诺。",
       "published_date": "2026-10-26",
       "source_excerpt": "Rosan discusses deeper nickel and stainless steel processing with Tsingshan chairman Petromindo",
       "needs_translation": false,
       "title_zh": "Rosan与青山集团董事长讨论深化镍及不锈钢加工",
-      "review_attempted_at": "2026-11-16T19:27:43Z",
+      "review_attempted_at": "2026-11-23T15:17:33Z",
       "evidence_fingerprint": "534d3ec3b412fc6f",
       "related_reviews": [],
-      "retry_after": "2026-11-23T00:00:00Z",
-      "retry_policy": "scheduled"
+      "retry_after": "2026-11-30T15:17:33Z",
+      "retry_policy": "manual"
     },
     {
       "id": "021803b722667781c5ff",
@@ -731,16 +666,17 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "2026年11月2日再次检索ORF官方研究页、PDF和公开镜像：仍未取得同版全文、图表或模型附件，无法核对产品范围、MSME样本、数据口径、情景假设及建议。欧盟官方材料可确认下游扩围提案仍在立法程序中，但不能替代本条ORF研究全文。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
-      "review_coverage": "复核现有队列核验记录与原始来源链接；公开原文仍不可完整核读，未重新验证全文。",
+      "review_note_zh": "ORF原文入口仍返回403。ORF发布预告可确认研究聚焦印度钢铁中小微企业在欧盟CBAM下游扩围情景下面临的合规成本及供应链准入压力。仍缺全文，无法核对模型、样本、涉及产品和量化结果。",
+      "review_evidence_url": "https://or-f.org/40811",
+      "review_coverage": "核对ORF原始短链接及发布预告，并辅查欧洲议会程序2025/0419(COD)（https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0419%28COD%29）。议会2026年9月15日通过修正案并交回委员会开展机构间谈判。未核读ORF研究正文，未将研究情景作为已生效法规。",
       "published_date": "2026-10-22",
       "source_excerpt": "The Impact of CBAM’s Extension to Downstream Products on MSMEs orfonline.org",
       "needs_translation": false,
       "title_zh": "CBAM向下游产品扩围对中小微企业的影响",
-      "review_attempted_at": "2026-11-16T19:27:43Z",
+      "review_attempted_at": "2026-11-23T15:17:33Z",
       "evidence_fingerprint": "ff06e8d693acdc92",
       "related_reviews": [],
-      "retry_after": "2026-11-23T00:00:00Z",
+      "retry_after": "2026-11-30T15:17:33Z",
       "retry_policy": "scheduled"
     },
     {
@@ -804,44 +740,15 @@
   ],
   "retry_items": [
     {
-      "id": "09720ebc41dda0e0fdda",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnhxM01CN0U2eGllSHh2eHY1RUs2NFY0b25xczg3T1VMSEtobE40amxmZS1XVHN4YkcybG91dk5ZeEVoRzN3Y1kyb09GTnd4aGlQbmJvTWF0VjZ6N3VGTFRLb190U1AtVkVmMFg1bmlqc1JqODF5YlhSWUNVbEhtRmpPd240ZXJ5WVZ5UkpHUmJyNERwbDRRYTYyY21BX0hxbkJIWVY4dDVTa252R2pjdVBUVVhIT1RDMTFwbmdR?oc=5",
-      "published_at": "2026-11-11T22:05:42Z",
-      "title_original": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance",
-      "first_seen": "2026-11-16T18:09:20Z",
-      "last_seen": "2026-11-18T01:21:00Z",
+      "id": "087b4e5e227a2838c02a",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12Q05ZYVJaVFU3SU9uWXI4TzdiaWNHejlkVTBreXg2cnNRZVBDdEZUTG02R1U2QUZ4WklTSEYxN1hTWEtkS3RsSXlCNmhJMlcxWjdwVWp5aWFkNXhrVi00R2lIWlI?oc=5",
+      "published_at": "2026-10-21T08:55:29Z",
+      "title_original": "CBAM扩围光伏 碳成本前移至制成品",
+      "first_seen": "2026-10-21T10:37:57Z",
+      "last_seen": "2026-10-28T08:08:25Z",
       "source": {
         "id": "rss",
-        "name": "Reuters",
-        "kind": "news",
-        "official": false
-      },
-      "category": "配额与关税",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "涉及第三国贸易救济或重要进口限制，但仅有新闻标题/有限摘录，缺乏可核对的原始公告，暂不认定税率或新政策生效。",
-      "review_coverage": "仅标题级检视，原始法规或官方公告未取得。",
-      "published_date": "2026-11-11",
-      "source_excerpt": "Mexico says crackdown on Asian steel shipments is paying off as US tariff talks advance Reuters",
-      "needs_translation": false,
-      "title_zh": "墨西哥说,对亚洲钢铁运输的镇压,随着美国关税谈判的推进,正在得到回报。",
-      "review_attempted_at": "2026-11-16T19:27:43Z",
-      "evidence_fingerprint": "16476d3cc7c6f4f5",
-      "related_reviews": [],
-      "retry_after": "2026-11-23T00:00:00Z",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "629a3b77a0ee41a7a2ea",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
-      "published_at": "2026-11-09T21:32:59Z",
-      "title_original": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations",
-      "first_seen": "2026-11-13T14:56:04Z",
-      "last_seen": "2026-11-16T18:09:20Z",
-      "source": {
-        "id": "rss",
-        "name": "Yeşil Ekonomi",
+        "name": "煤炭资源网",
         "kind": "news",
         "official": false
       },
@@ -849,86 +756,20 @@
       "importance": "中",
       "translation_state": "pending",
       "review_disposition": "blocked",
-      "review_note_zh": "土耳其钢铁出口商协会CBAM合作协议的报道仅见聚合标题；本轮检索土耳其商务部等公开来源未找到可独立核验的协议正文、签约主体或义务内容。",
-      "review_evidence_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkNENTYxOHRpRTZHNmRHTV9hWFdqLWNGd3lQQ0xnaktsaUNNWERtdE4yOG16eFZiUDZuWXIzR1ZHUm11alBfV1djXzVQNzRLUGFxaHlPa05TM3haa2VnUk5PbkNuVnFhY0ZNZjRHb18xbnVWYzBNdHlTQmZFM0QyZDNpR2lmV3JMa0dhb3hIU0ljTDJ3c2d3NXZfbDFSV2htODRCbXFPRUcxTnEyU2JYUUNn?oc=5",
-      "review_coverage": "2026-11-20复查原报道及可公开检索的主管机关官方替代入口，仍未取得足以核对具体法令、期限和适用范围的原文；保留有限事实，不标source_checked。",
-      "published_date": "2026-11-09",
-      "source_excerpt": "Turkish Steel Exporters’ Association Signs Cooperation Agreement on CBAM Regulations Yeşil Ekonomi",
-      "needs_translation": false,
-      "title_zh": "土耳其钢铁出口商协会签署CBAM合规合作协议",
-      "review_attempted_at": "2026-11-20T19:30:56Z",
-      "evidence_fingerprint": "ffb92653f873ab89",
-      "related_reviews": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLUc1T3owQVg3X1VZOWtzSWpPa0poc0NQUFVUSXlaTGF6UG5yUUNSUFZHbUlyZjhnTHVacmZQQms4d3I4TTYzd21NRVNBWUVnYzd0MkVvdy02Sm5kajRyc1o4QjdLVnhaSDdTZDBhRS13M3E3TkMwdUhKT0JSSTF6WEVyRjZ1NmFlVkNEN050WVFuWmgyQnFVdmhPZVJKa3ppZ1NpNlJUVURNaXJmMUZVZ21SYnc2aHk4emJUY19wUkxLTm4wVE5ZaHV6SVpUZFlKbkhtTlBrT0hXUGtMazN2Um05UWh0Zw?oc=5",
-          "published_at": "2026-11-04T09:08:47Z",
-          "title_zh": "土耳其钢铁出口商协会与CARES合作开展EU/UK CBAM合规培训",
-          "evidence_url": "https://www.steelradar.com/en/haber/cib-and-cares-to-support-turkish-steel-exporters-in-complying-with-carbon-regulations/"
-        }
-      ],
-      "retry_after": "2026-11-23T00:00:00Z",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "c89e263b75e251fd99ec",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVU0S3JDbk5EVFZ0SVNZOHI3MEx0ajRXcFdVb0FoUVZkZVdieEFVYXpJdFV2aEotcDRpYy1aS01jN3dDcC1qdk5WS29sX21ZOWJJdk01X1dVZmotWThZaHJJUHdHcVk1ektGZWNvdnBlNWFodFhEakVhOWNFdzVTLUE5N2toTG53WU9ELVBBTFpyVGxJbWRUUGhNb3FXQWNjZEJEYTRFWVdVdTUtMFE5TXF1V1d0SWZiZDUwb3NCbWpoUQ?oc=5",
-      "published_at": "2026-10-26T00:18:19Z",
-      "title_original": "Rosan discusses deeper nickel and stainless steel processing with Tsingshan chairman",
-      "first_seen": "2026-10-26T13:36:52Z",
-      "last_seen": "2026-11-01T18:08:44Z",
-      "source": {
-        "id": "rss",
-        "name": "Petromindo",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "2026年11月2日复查印尼公开报道、ANTARA/BKPM材料和Petromindo公开索引：仍只能确认Rosan与青山集团董事长项光达会谈并讨论印尼镍、不锈钢深加工及IWIP后续投资；没有新增项目、金额、产能、地点、期限或约束性决定。不得用其他太阳能投资意向补造本次钢铁项目参数。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
+      "review_note_zh": "2026年11月2日复核欧洲议会立法观察站和欧盟理事会CBAM页面：欧洲议会已于9月15日通过修正案并把事项交回委员会开展机构间谈判，立法仍未完成。委员会提案拟自2028年扩围钢铝密集型下游产品，但媒体所称光伏组件最终CN清单或5吨门槛仍无最终法规支持；不得按提案当作已生效范围。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
       "review_coverage": "复核现有队列核验记录与原始来源链接；公开原文仍不可完整核读，未重新验证全文。",
-      "published_date": "2026-10-26",
-      "source_excerpt": "Rosan discusses deeper nickel and stainless steel processing with Tsingshan chairman Petromindo",
+      "published_date": "2026-10-21",
+      "source_excerpt": "CBAM扩围光伏 碳成本前移至制成品 煤炭资源网",
       "needs_translation": false,
-      "title_zh": "Rosan与青山集团董事长讨论深化镍及不锈钢加工",
+      "title_zh": "CBAM扩围光伏 碳成本前移至制成品",
       "review_attempted_at": "2026-11-16T19:27:43Z",
-      "evidence_fingerprint": "534d3ec3b412fc6f",
-      "related_reviews": [],
-      "retry_after": "2026-11-23T00:00:00Z",
-      "retry_policy": "scheduled"
-    },
-    {
-      "id": "021803b722667781c5ff",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDJiWHE4OUlfQXdkQkhDUVQ1RndVSjJBVVNQUVROZUdMS1VWOFpkWEl4MXE5RmFXTzhCbkJSMVhxSWJNTGJBblpjMm81TTk2eFlnZWFhWVhhM3hudFdFQXYtTWl2aktEUUZiMl9WVVlleTlXTmVhZlNmVVlzckVsaTZ5OFlxNGdLZnpTYnRxUE9VTTdnYldFbFBZTGZLQQ?oc=5",
-      "published_at": "2026-10-22T04:54:26Z",
-      "title_original": "The Impact of CBAM’s Extension to Downstream Products on MSMEs",
-      "first_seen": "2026-10-26T13:36:52Z",
-      "last_seen": "2026-10-28T18:31:59Z",
-      "source": {
-        "id": "rss",
-        "name": "orfonline.org",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "review_disposition": "blocked",
-      "review_note_zh": "2026年11月2日再次检索ORF官方研究页、PDF和公开镜像：仍未取得同版全文、图表或模型附件，无法核对产品范围、MSME样本、数据口径、情景假设及建议。欧盟官方材料可确认下游扩围提案仍在立法程序中，但不能替代本条ORF研究全文。 本轮未取得可替代完整证据，继续保留受阻，不据此发布新增事实。",
-      "review_coverage": "复核现有队列核验记录与原始来源链接；公开原文仍不可完整核读，未重新验证全文。",
-      "published_date": "2026-10-22",
-      "source_excerpt": "The Impact of CBAM’s Extension to Downstream Products on MSMEs orfonline.org",
-      "needs_translation": false,
-      "title_zh": "CBAM向下游产品扩围对中小微企业的影响",
-      "review_attempted_at": "2026-11-16T19:27:43Z",
-      "evidence_fingerprint": "ff06e8d693acdc92",
+      "evidence_fingerprint": "f41132e682bdb4c5",
       "related_reviews": [],
       "retry_after": "2026-11-23T00:00:00Z",
       "retry_policy": "scheduled"
     }
   ],
-  "retry_due_count": 5,
+  "retry_due_count": 1,
   "next_retry_at": "2026-11-24T00:00:00Z",
-  "work_fingerprint": "b4674d32214c19db854c"
+  "work_fingerprint": "960d1ffc10bfd5711e4d"
 }
