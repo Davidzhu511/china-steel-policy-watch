@@ -69,7 +69,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-23T18:46:07Z",
       "last_seen": "2026-11-23T18:46:07Z",
-      "source_excerpt": "EU imposes anti-dumping duties on steel imported from Asia Just Auto"
+      "source_excerpt": "EU imposes anti-dumping duties on steel imported from Asia Just Auto",
+      "machine_translation": {
+        "title_zh": "欧盟对从亚洲进口的钢铁征收反倾销税",
+        "excerpt_zh": "欧盟对从亚洲进口的钢铁征收反倾销税。",
+        "fingerprint": "e7e06c2bfd8721e1008b0a699eb0fb93dc844f3ef143476b41aacf2935f9399c",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-23T18:47:38Z"
+      }
     },
     {
       "id": "df0c24702f33c5b996b8",
@@ -104,7 +112,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-23T18:46:07Z",
       "last_seen": "2026-11-23T18:46:07Z",
-      "source_excerpt": "Weekly Recap: Line 4 power deal and China iron ore deal with product curbs TradingView"
+      "source_excerpt": "Weekly Recap: Line 4 power deal and China iron ore deal with product curbs TradingView",
+      "machine_translation": {
+        "title_zh": "每周回顾:4线电力交易和中国铁矿石与产品限制交易",
+        "excerpt_zh": "周刊:4线电力交易和中国铁矿石与产品限制交易",
+        "fingerprint": "b81bdb225168f7b88ca18bd075243da400d06b0abf7229b87171df1081a67be5",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-23T18:47:39Z"
+      }
     },
     {
       "id": "c86ac4237b31906d2d87",
@@ -143,6 +159,14 @@
       "source_observation": {
         "govuk:title": "f0f1dd84b01acb043c113a3ac3c67b5a87d999073be0533a59c0575958cbbfd2",
         "govuk:excerpt": "cb27a02faba4a6addca22e5a75c8a5c5acbf5942774e965baf5ed43c23b7b22b"
+      },
+      "machine_translation": {
+        "title_zh": "准备进入碳边境调节机制(CBAM)",
+        "excerpt_zh": "找出从铝、水泥、化肥、氢、钢和钢部门从11月2027进口到联合王国的具体货物。 碳边境调节机制(CBAM)于11月2027生效。这将对进口到英国的特定碳密集货物的排放量征税。如果从铝、水泥、化肥、氢、铁和钢部门进口到联合王国的CBAM货物:您将...",
+        "fingerprint": "dca4c74c2e5d9ed2c1a7aa1bfa3fb02b6925fcaf1429ef84ab3f357818d5e465",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-23T18:47:43Z"
       }
     },
     {
@@ -182,6 +206,14 @@
       "source_observation": {
         "govuk:title": "e7c71f9e088dbbd2a8a87a54673f48463407d64568b9608d7cdc53897eb1a1f1",
         "govuk:excerpt": "d6a2231e173f0452d3ab50f00865f5700623c0279c47cd65bb482dbe417ffa21"
+      },
+      "machine_translation": {
+        "title_zh": "保存 碳边境调节机制(CBAM)的记录",
+        "excerpt_zh": "找出您必须保存的CBAM货物进口商的记录。 有关英国原产物的证据,这些原产物在被转移到英国之前已经对来自欧盟、欧洲经济区或瑞士的再进口货物征收碳税,这些货物通过欧盟、欧洲经济区或瑞士运往英国,不能豁免保存您进口的来自英国(根据非优惠原产地规则)的任何CBAM货物的记录。 这可以包括:",
+        "fingerprint": "53eb1db7f8a810c2c6c84201383526c180ef346616d80b0c167bff624fd3d53c",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-23T18:47:47Z"
       }
     },
     {
@@ -266,6 +298,14 @@
       "source_observation": {
         "govuk:title": "1242e141fdf2598877ad1b43200eb40caae9fbe20e50ba81ff7155360f066102",
         "govuk:excerpt": "85fbcd26251fd511b359a1cc815b943f183113f666975f9bb88d50ee4b55d5e6"
+      },
+      "machine_translation": {
+        "title_zh": "联合王国排放量交易计划(UK ETS):政策概述",
+        "excerpt_zh": "英国排放交易计划在英国去碳化中的作用以及UK ETS管理局正在如何制定该计划。 英国排放交易计划(UK ETS)目前覆盖重工业、电力和航空部门 — — 大约是英国领土排放量的25%。 该计划鼓励按照整个英国的气候目标投资去碳化,设定这些部门排放的上限,并创建碳元...",
+        "fingerprint": "5ad2439c7873e47f2ed5fde17eb3c8d74f0065287de5f24a9dd2ca308d9b6904",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-23T18:47:55Z"
       }
     },
     {
@@ -349,6 +389,14 @@
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
+      },
+      "machine_translation": {
+        "title_zh": "大韩民国的某些冷轧钢平板产品:初步结果和撤销,反补贴税行政审查的一部分;2024",
+        "excerpt_zh": "美国商务部(商务部)初步确定,向现代钢铁公司(现代钢铁公司)和POSCO提供了补贴,用于生产大韩民国(韩国)的某些冷轧钢平板产品(冷轧钢),审查期为1月1、2024至12月31、2024。此外,商业部分取消了对46公司的审查。",
+        "fingerprint": "11ac4c4d625d5dc623ab026940528ec5a48f646382ae7be3b599a893e238bd57",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-23T18:48:03Z"
       }
     },
     {
@@ -390,7 +438,15 @@
         "govuk:title": "d732be33b972b6bac1c506262210387bf220da9324acc08f0c1ee34c18536548",
         "govuk:excerpt": "61bec7cd29c56eec041b75808ce35cd29341e3dbbc9bf9a2056e7c40913fca1f"
       },
-      "source_revision_checked_at": "2026-11-23T18:46:07Z"
+      "source_revision_checked_at": "2026-11-23T18:46:07Z",
+      "machine_translation": {
+        "title_zh": "立法草案:对欧盟、欧洲经济区和瑞士原产货物的CBAM豁免",
+        "excerpt_zh": "该立法草案提出了联合王国碳边境调节机制(CBAM)下对排放交易计划与联合王国排放交易计划(UK ETS)挂钩的国家的原产货物的拟议处理办法。",
+        "fingerprint": "ddf362b7f209bcd4dc04bb33a8c15b33595818679867645f42fb0a9b9116d0e9",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-23T18:48:04Z"
+      }
     },
     {
       "id": "e6d7050638b764db18d5",
@@ -527,7 +583,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-23T18:46:07Z",
       "last_seen": "2026-11-23T18:46:07Z",
-      "source_excerpt": "A West African country overtakes South Africa and Canada to become world's third-largest iron ore exporter, with China as its biggest buyer Business Insider Africa"
+      "source_excerpt": "A West African country overtakes South Africa and Canada to become world's third-largest iron ore exporter, with China as its biggest buyer Business Insider Africa",
+      "machine_translation": {
+        "title_zh": "一个西非国家收购了南非和加拿大,成为世界第三大铁矿石出口国,中国是最大的买家。",
+        "excerpt_zh": "一个西非国家收购了南非和加拿大,成为世界第三大铁矿石出口国,中国是最大的买家。",
+        "fingerprint": "a8d3c295dd9af6d36ab93debab285f544f71e7554fb3aee4fec78088bd78f010",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-23T18:48:05Z"
+      }
     },
     {
       "id": "acb52ea3e9fdd2a5c8f1",
@@ -924,7 +988,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-23T18:46:07Z",
       "last_seen": "2026-11-23T18:46:07Z",
-      "source_excerpt": "2027 Steel Outlook: Western Tariffs vs Asian Overcapacity deVere Group"
+      "source_excerpt": "2027 Steel Outlook: Western Tariffs vs Asian Overcapacity deVere Group",
+      "machine_translation": {
+        "title_zh": "2027 钢展望:西方关税与亚洲能力过剩",
+        "excerpt_zh": "2027钢展望:西方关税与亚洲生产能力过剩集团",
+        "fingerprint": "0f83567d20c92426590574375bb4a4ab53e2da171f2e66e79516017d20b8916a",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-23T18:48:07Z"
+      }
     },
     {
       "id": "cce9ff3d2b26b588d649",
@@ -2169,7 +2241,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-23T18:46:07Z",
       "last_seen": "2026-11-23T18:46:07Z",
-      "source_excerpt": "EU imposes 9.5% anti-dumping duty on certain Indian cold-rolled steel imports Maritime Gateway"
+      "source_excerpt": "EU imposes 9.5% anti-dumping duty on certain Indian cold-rolled steel imports Maritime Gateway",
+      "machine_translation": {
+        "title_zh": "欧盟对某些印度的冷轧钢进口实行9.5% 反倾销税",
+        "excerpt_zh": "欧盟对某些印度的冷轧钢进口实行9.5% 反倾销税",
+        "fingerprint": "a945e62a5f92315be8c046081fba440e660fd276198b0c0973d1922bc12a646b",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-23T18:48:09Z"
+      }
     },
     {
       "id": "8b2f4bda7383ee6aa3c8",
