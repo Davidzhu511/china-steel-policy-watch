@@ -1,38 +1,33 @@
 {
-  "generated_at": "2026-11-24T18:21:51Z",
+  "generated_at": "2026-11-24T22:48:15Z",
   "run_ok": true,
   "model": "gpt-4.1-mini",
   "translation_available": false,
   "analysis_status": "unconfigured",
-  "active_items": 366,
-  "archived_items": 181,
-  "verified_items": 333,
-  "pending_analysis": 33,
-  "pending_translation": 3,
+  "active_items": 370,
+  "archived_items": 182,
+  "verified_items": 332,
+  "pending_analysis": 38,
+  "pending_translation": 6,
   "blocked_items": 22,
-  "actionable_count": 11,
+  "actionable_count": 16,
   "blocked_count": 22,
   "retry_due_count": 0,
   "next_retry_at": "2026-11-25T20:30:00Z",
-  "pending_machine_translation": 3,
-  "chinese_title_coverage": 99.2,
-  "oldest_actionable_hours": 0.0,
+  "pending_machine_translation": 6,
+  "chinese_title_coverage": 98.4,
+  "oldest_actionable_hours": 4.5,
   "offline_translation": {
-    "status": "partial",
-    "translated": 8,
-    "warnings": [
-      "3 条译文未通过完整性检查，保留原文待重试。"
-    ],
-    "remaining": 3,
-    "attempted_at": "2026-11-24T18:23:27Z",
-    "retry_after": "2026-11-25T00:23:27.515855+00:00"
+    "status": "queued",
+    "translated": 0,
+    "warnings": []
   },
   "machine_translated_items": 15,
-  "collected_items": 96,
-  "processed_items": 11,
+  "collected_items": 107,
+  "processed_items": 5,
   "deferred_items": 0,
-  "new_items": 11,
-  "total_items": 547,
+  "new_items": 5,
+  "total_items": 552,
   "source_success": 6,
   "source_total": 6,
   "sources": [
@@ -42,34 +37,36 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 9948,
+      "duration_ms": 9032,
       "warnings": [],
-      "last_success_at": "2026-11-24T18:21:51Z",
-      "last_observed_at": "2026-11-24T18:21:51Z",
+      "last_success_at": "2026-11-24T22:48:15Z",
+      "last_observed_at": "2026-11-24T22:48:15Z",
       "consecutive_failures": 0
     },
     {
       "id": "ec_watch_pages",
       "name": "重点官方页面直采",
       "ok": true,
-      "count": 17,
+      "count": 16,
       "error": "",
-      "duration_ms": 22282,
+      "duration_ms": 18148,
       "warnings": [],
-      "last_success_at": "2026-11-24T18:21:51Z",
-      "last_observed_at": "2026-11-24T18:21:51Z",
+      "last_success_at": "2026-11-24T22:48:15Z",
+      "last_observed_at": "2026-11-24T22:48:15Z",
       "consecutive_failures": 0
     },
     {
       "id": "eurlex",
       "name": "EUR-Lex / 欧盟官方公报",
       "ok": true,
-      "count": 0,
+      "count": 3,
       "error": "",
-      "duration_ms": 2423,
-      "warnings": [],
-      "last_success_at": "2026-11-24T18:21:51Z",
-      "last_observed_at": "2026-11-24T00:25:20Z",
+      "duration_ms": 109618,
+      "warnings": [
+        "EUR-Lex RSS unavailable: ReadTimeout: HTTPSConnectionPool(host='eur-lex.europa.eu', port=443): Read timed out. (read timeout=25)"
+      ],
+      "last_success_at": "2026-11-24T22:48:15Z",
+      "last_observed_at": "2026-11-24T22:48:15Z",
       "consecutive_failures": 0
     },
     {
@@ -78,10 +75,10 @@
       "ok": true,
       "count": 20,
       "error": "",
-      "duration_ms": 897,
+      "duration_ms": 762,
       "warnings": [],
-      "last_success_at": "2026-11-24T18:21:51Z",
-      "last_observed_at": "2026-11-24T18:21:51Z",
+      "last_success_at": "2026-11-24T22:48:15Z",
+      "last_observed_at": "2026-11-24T22:48:15Z",
       "consecutive_failures": 0
     },
     {
@@ -90,32 +87,29 @@
       "ok": true,
       "count": 16,
       "error": "",
-      "duration_ms": 6994,
+      "duration_ms": 9611,
       "warnings": [],
-      "last_success_at": "2026-11-24T18:21:51Z",
-      "last_observed_at": "2026-11-24T18:21:51Z",
+      "last_success_at": "2026-11-24T22:48:15Z",
+      "last_observed_at": "2026-11-24T22:48:15Z",
       "consecutive_failures": 0
     },
     {
       "id": "rss",
       "name": "RSS / Google News 新闻发现",
       "ok": true,
-      "count": 30,
+      "count": 39,
       "error": "",
-      "duration_ms": 2423,
-      "warnings": [
-        "https://news.google.com/rss/search?q=%28Shougang%20OR%20Baowu%20OR%20Baosteel%20OR%20Ansteel%20OR%20HBIS%20OR%20Tsingshan%29%20steel%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen: HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28Shougang%20OR%20Baowu%20OR%20Baoste"
-      ],
-      "last_success_at": "2026-11-24T18:21:51Z",
-      "last_observed_at": "2026-11-24T18:21:51Z",
+      "duration_ms": 1867,
+      "warnings": [],
+      "last_success_at": "2026-11-24T22:48:15Z",
+      "last_observed_at": "2026-11-24T22:48:15Z",
       "consecutive_failures": 0
     }
   ],
   "warnings": [
-    "https://news.google.com/rss/search?q=%28Shougang%20OR%20Baowu%20OR%20Baosteel%20OR%20Ansteel%20OR%20HBIS%20OR%20Tsingshan%29%20steel%20when%3A7d&hl=en-GB&gl=GB&ceid=GB%3Aen: HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%28Shougang%20OR%20Baowu%20OR%20Baoste",
-    "官方版本检查 DG TAXUD · CBAM News: HTTPError: 429 Client Error: Too Many Requests for url: https://taxation-customs.ec.europa.eu/document/download",
-    "官方版本检查 哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销: ValueError: Refusing a non-public URL",
-    "官方版本检查 DG TAXUD · CBAM News: HTTPError: 429 Client Error: Too Many Requests for url: https://taxation-customs.ec.europa.eu/document/download"
-  ],
-  "translation_updated_at": "2026-11-24T18:23:27Z"
+    "EUR-Lex RSS unavailable: ReadTimeout: HTTPSConnectionPool(host='eur-lex.europa.eu', port=443): Read timed out. (read timeout=25)",
+    "官方版本检查 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_20260",
+    "官方版本检查 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_20260",
+    "官方版本检查 EUR-Lex / 欧盟官方公报: HTTPError: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/EN/TXT?uri=OJ%3AL_20260"
+  ]
 }
