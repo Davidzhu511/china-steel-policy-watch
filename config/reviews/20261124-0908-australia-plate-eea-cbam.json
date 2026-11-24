@@ -1,0 +1,281 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-24T08:08:39Z",
+  "translations": [
+    {
+      "url": "https://gov.uk/government/collections/check-if-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
+      "published_date": "2026-11-10",
+      "source_revision": "d61b7141ee17382a",
+      "title_original": "Check if you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
+      "title_zh": "英国碳边境调节机制（CBAM）注册判断指南",
+      "translated_at": "2026-11-24T08:08:39Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNW1mNndwcGdNc2gtRWlzUXlsU0Y2bTd6VW9iUHFTZGRGVkw5T0VWOE8tQ3h2NTVTdzdLaHM2WWR1UENqcVQwUWF4Mjl2TTlOWlc2ZXhCZHMwaGJza2s4WVNnLXp2QmtqaUtKTVlSSmxwZk5rSzVzWWVMZVNCX2V5aXZzY3FRc0lfMEFoMFhiQk1ETVdvaUhHN01rNU5FeVVUWE5vVURkUmpUSHpXZ0E?oc=5",
+      "published_date": "2026-11-24",
+      "title_original": "Baosteel stock: Australia opens anti-dumping review",
+      "title_zh": "宝钢股份动态：澳大利亚启动反倾销复审",
+      "translated_at": "2026-11-24T08:08:39Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOG5JcXhDSkRfalpNRjdrdk8xOGZrQS1SUUVFbk5kNTBKLWxhSEx6Y2pvSm14b1ZORmJDMDJDYWhZdnQ5TTRZWmt3Uk0wQldkSm5nOENaMnc4a2tYWnBzWGd3MUhpczZVRkdPSU9VbG1YSjJvWElEYWxZczZZbGxKckJTTVhhaEVjUjFtcWFrSFhCOUVaRThuVUpYcndoMkRVZzhHT2pzLTRFZHllQXFOUUdacGZyUGZyeGR1ZzE5eVN3OEpRR25fUklEd3hZSmM?oc=5",
+      "published_date": "2026-11-18",
+      "title_original": "Australia launches review of antidumping duties on steel plate imports from China and South Korea",
+      "title_zh": "澳大利亚启动对中国和韩国进口钢板反倾销税的复审",
+      "translated_at": "2026-11-24T08:08:39Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUFXLUxVMDlKNUctTGJFYlNUT1V3eWV2UlVsaXhhaDBpU3Z3aDBhMnVfQU8xeHl0VEtfSWtaQ3hiTC1LYnZGZUFZODZXc2Z2WS1MdkloQ25GeTNsZXM0azlTZEllOThRdUtIYXF0UUlPVlpEdjItYTNCMDhKZ2JuYTZNVFdpN1dqMVppTnh2cVBjZ0xEdm1ScW1aMEPSAaIBQVVfeXFMUGlDQ2FyRmo2NllPOWk1dVJ5VFRrUDQ0T3VHa2VGZExZSWpiMjlOUWJnQVB2d3VXRnVoSklGLU4tdGF6T05heHpnelBRUFZnNVJLYnpBcmZ2VGM2cDVJWFpFU2hOcWN0dEFnZXphWjNFZDJDOEFjQXVtd01GeWM5LWw3YzBpaC1JWnVZYktTY042a2xHbjN4WWVDUkRna1JEaDBR?oc=5",
+      "published_date": "2026-11-23",
+      "title_original": "European companies set out position on ETS reform and CBAM stability",
+      "title_zh": "欧洲工业企业就欧盟ETS改革和CBAM稳定性提出主张",
+      "translated_at": "2026-11-24T08:08:39Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT0l0U1BFa3h2dWFWNHJBRVV6SEJDLUFFMThsZ09JSVRJQl81a2Z3d0RCZjJVZElTN1RObGl2UzdnY09DQlNDcmVZaG10aUc3OVJOeDRQYWM2RWFZMzRZTnY0TmxDNGhxbFdkMlRNOFhEMDdsYmhlSWFOWGF3d0RzU0gwZHRzQXhKLW1pVi1RQUlBNGkyQl9lU0xuMGgtTU5xVzVoV3R0RG1INTY4ZGRwN201dkZCLUFCeUxtSXdaRk94OExxZUQtVHRKU3ZTdm9nTnFLT2hhQjE4RDFB?oc=5",
+      "published_date": "2026-11-19",
+      "title_original": "EU extends Carbon Border Adjustment Mechanism to Iceland and Norway from 2027",
+      "title_zh": "欧盟CBAM将于2027年适用于冰岛和挪威",
+      "translated_at": "2026-11-24T08:08:39Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQWE3bFVPaHc3U0RDMnZCQnVtaXRNWWlaclZ6T2JybFFUQ2VfS1JQNUJhWmFPNGRCWEhkNkQ0N0Nqbk93a2VBanpZNG9DeFBmbzRuR3FwemV5YVNOY0RfQ2x5MXo0eHN5Rk9xNm9YVGJBWDZxeGxRN3J3TW92aC1sLWJjT3B5N0YwdE9qcElFOXJ4V2g4dHJ3VF9Yamp0czdtMS1icGpKdGVBOXRVRm5Rb1B6MUQtUHZhcm5HcXBMazQ1ZnByVUFQMGYtaw?oc=5",
+      "published_date": "2026-11-18",
+      "title_original": "Why China's Hot-Rolled Coil Is Stuck at $485 a Tonne as Buyers Wait and Europe's Quota Is Full",
+      "title_zh": "买家观望，中国出口热轧卷报每吨485美元，媒体称欧洲配额已用尽",
+      "translated_at": "2026-11-24T08:08:39Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajlMbk9rSGtieF9EMTd2QVdHMDRBTUpiZGhUNW9vNlpLaXFtcXU3R2RpSEd4SFlsUWo4MEs5cTRhWUh2c1ZTUkZSSHZpd1pSWTRkQWJJWkcwT3cwMzQ0aF8wb2NobnlYVHNtcG9Ga1pXeVpNVkF6UGRZdDBlNmtValBudnF2YmllZGUzOGZ1SHQ4eVdjTWlRWEdDMndyUdIBowFBVV95cUxOQ3JsMTkyenBLSm1KTmsxYUZGQk5mak1WQlhMS1plV19sNm1NSVJQN3R4LWQyYUd1Q2IzZVl4bmtMMHNFSDlnLWJSbXF5aUxXNFhDSXMtTXgtbEhaeVFqenEwYWNMdGE5SVh1QzNoY2xycUhxYjJGOHNJWUY4T1RkNGpnbC1vOGxwZFFhNXBTMHpfWWZ6bjhiZTNCd0xzX2g4OHhn?oc=5",
+      "published_date": "2026-11-18",
+      "title_original": "The UK to introduce melt-and-pour reporting for steel imports in 2027",
+      "title_zh": "英国将在2027年对部分进口钢材引入熔炼和浇铸国申报",
+      "translated_at": "2026-11-24T08:08:39Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWcteGhTUEdpZ1dDVkxWZ2lTYjFmZ0x2RXYyQnZqa3cyeEtDNXNXa1lrS0JqbFpjby1GQU5WMUFjX196REIyc0I1QlJoSzV1SUZjcmcwWGJKWHdBLUpYZkpJZHVqOEg0R2RQaWNWRS1GQ1FLeUtfRWJULXpJWFFKRVQ5anFJMExvSG54Yk5RSXVmaVJTSC1lYU42cjNXaEtBZjVlMks4QQ?oc=5",
+      "published_date": "2026-11-17",
+      "title_original": "China October Iron Ore Imports Fall 3.79% MoM; November Arrivals Seen Rebounding",
+      "title_zh": "中国10月铁矿石进口量环比下降3.79%，11月到港量预计回升",
+      "translated_at": "2026-11-24T08:08:39Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLUFIeU9SWEhyN1lWOUh6eVVvWnBzU3NvaHFwNnZGTXdCZEt6TWRNTEh6cGE2ZHY0UmpUYU9qd05HNE9qdURUeDNoeFVjLU54T0lPekx2d0o2TnpqcktyeWpUTjVWdTk4a0hPT2J3NWRZY0JoUnJmc3p4X1hqdk03SEFfMHNqZnJKeHpaaGJ0OTk3OEliY0MtUUNJbGZEY1o1blFXbTg5SFNwcDdmZnpSdDVLblpzZUdxeGVvclZpQ1h2SUNVTVhDV3VSQlpKM1dFQS03dGhaVQ?oc=5",
+      "published_date": "2026-11-17",
+      "title_original": "Why China's Export Hot-Rolled Coil Has Slipped to $478.50 as Ore Stocks Build and Seasonal Demand Eases",
+      "title_zh": "铁矿石库存增加、季节性需求走弱，媒体称中国热卷出口期货跌至每吨478.50美元",
+      "translated_at": "2026-11-24T08:08:39Z"
+    }
+  ],
+  "editorial": [
+    {
+      "url": "https://gov.uk/government/collections/check-if-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
+      "published_date": "2026-11-10",
+      "source_revision": "d61b7141ee17382a",
+      "reviewed_at": "2026-11-24T08:08:39Z",
+      "title_zh": "英国CBAM注册指南补充留档与门槛链接，2027年留档、2028年开放注册",
+      "title_en": "UK CBAM registration guidance links to origin and recordkeeping updates",
+      "summary_zh": "HMRC注册汇总页标注最近更新为2026年11月10日。当前版本链接到11月23日更新的门槛排除和留档指引，分别解释原产地豁免草案下的计入规则与仍需保存的证据。英国CBAM自2027年1月1日起实施并开始留档，2028年1月1日开放注册。英国注册门槛为5万英镑。按到达税点的范围内货物计，预计未来30天内达到或超过门槛，或每月月初回看过去12个月达到或超过门槛，均触发注册义务。2027年触发注册义务者最迟于2028年1月31日注册。欧盟、欧洲经济区和瑞士原产货物排除安排目前仍为草案。",
+      "summary_en": "HMRC’s registration collection still carries a 10 November 2026 update date, while its live links include the 23 November threshold and recordkeeping guidance. UK CBAM and recordkeeping start on 1 January 2027; registration opens on 1 January 2028. The £50,000 threshold uses a forward 30-day test and a monthly 12-month lookback. Importers becoming liable in 2027 have until 31 January 2028 to register. The EU, EEA and Swiss origin exclusion remains draft legislation.",
+      "impact_zh": "输英热卷、冷卷及涂镀产品先以英国商品编码判断覆盖，请进口商建立逐单台账，保存货值、净重及原产地证据，并按落入税点的时间测试门槛。中国原产钢材经欧洲转运仍应按对应原产地纳入判断；报价和留档应落实到合同约定的进口主体。",
+      "impact_en": "Check UK commodity codes for HRC, CRC and coated sheet. Confirm the liable importer and record value, net mass, origin evidence and tax-point dates per entry. Use the actual origin for threshold calculations, including for Chinese steel routed through Europe.",
+      "evidence_url": "https://www.gov.uk/government/collections/check-if-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
+      "coverage": "核对HMRC注册集合页当前正文及更新日志、其链接的11月23日门槛和留档指引，另对照官方政策摘要的5万英镑等于或超过标准和首年期限（https://www.gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-policy-summary/carbon-border-adjustment-mechanism-cbam-policy-summary）。11月23日为子页面更新，并沿用集合页本身的11月10日版本日期。",
+      "status": "官方核验",
+      "category": "碳与环保",
+      "importance": "中",
+      "tags": [
+        "英国",
+        "CBAM",
+        "注册",
+        "留档"
+      ],
+      "follow_up": "按进口商主体复核2027年货值台账和合同数据责任，并跟踪原产地豁免草案御准。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOG5JcXhDSkRfalpNRjdrdk8xOGZrQS1SUUVFbk5kNTBKLWxhSEx6Y2pvSm14b1ZORmJDMDJDYWhZdnQ5TTRZWmt3Uk0wQldkSm5nOENaMnc4a2tYWnBzWGd3MUhpczZVRkdPSU9VbG1YSjJvWElEYWxZczZZbGxKckJTTVhhaEVjUjFtcWFrSFhCOUVaRThuVUpYcndoMkRVZzhHT2pzLTRFZHllQXFOUUdacGZyUGZyeGR1ZzE5eVN3OEpRR25fUklEd3hZSmM?oc=5",
+      "published_date": "2026-11-18",
+      "reviewed_at": "2026-11-24T08:08:39Z",
+      "title_zh": "澳大利亚复审中韩中厚板反倾销决定，12月18日前可提交意见",
+      "title_en": "Australia opens review of anti-dumping decision on certain Chinese and Korean steel plate",
+      "summary_zh": "澳大利亚反倾销复审委员会于2026年11月18日应宝山钢铁股份有限公司和宝钢湛江申请，对9月24日公布的第2026/103号反倾销决定启动复审。争议涉及巴西板坯基准是否应覆盖铁矿石成本、能否采用经核实的浦项板坯成本及损害归因。范围为未包覆或涂镀、非卷状、厚度≥4.75毫米、宽度≥600毫米的非合金或其他合金扁平轧材，包括钢坯直轧板和热卷开平板。参考税号7208.40.00、7208.51.00、7208.52.00、7208.90.00、7225.40.00。不锈钢、硅电工钢、工具钢、高速钢、调质板及指定调质母板排除，登记册还列有部长豁免，例如符合标准的S355JR且厚度超过115毫米的部分热轧板，须结合生产方式及具体豁免文书核对。现行登记册公布的有效税率为宝山18.8%、湛江9.4%、涟钢26.4%、中国其他出口商55.1%、韩国浦项豁免、韩国其他出口商21.6%。宝山和中国其他出口商栏包含独立反补贴措施，组合反倾销税的实际税负可能高于公示有效税率。复审尚未修改现行措施。书面意见截止2026年12月18日，复审报告预计2027年1月18日提交部长。",
+      "summary_en": "On 18 November 2026, Australia’s Anti-Dumping Review Panel opened a review of the 24 September decision ADN 2026/103 on applications from Baoshan and Baosteel Zhanjiang. It will examine slab benchmarking and injury attribution. The scope includes uncoated, non-coiled non-alloy and other alloy plate, at least 4.75 mm thick by 600 mm wide, including cut-to-length plate made from coil, subject to material and grade exclusions. A ministerial instrument also exempts certain S355JR plates over 115 mm meeting the specified production and standard requirements. Published effective rates are 18.8% for Baoshan, 9.4% for Zhanjiang, 26.4% for Hunan Valin Lianyuan, 55.1% for other Chinese exporters, exempt for POSCO and 21.6% for other Korean exporters. Baoshan’s and the Chinese residual rate include a separate countervailing measure; actual combination duties can exceed the published effective rates. Submissions close on 18 December 2026 and the panel’s report is due on 18 January 2027.",
+      "impact_zh": "有在手输澳中厚板、花纹板或开平板询单时，先由进口商逐票匹配牌号、尺寸、出口商和DSN，并核实组合反倾销税适用的出口价格基准及实际税负。继续按现行措施核算DDP或到岸总成本；拟提交意见的企业及早准备成本和损害证据，并按公告要求提供可公开版本。",
+      "impact_en": "For Australian plate or cut-to-length orders, have the importer match the grade, dimensions, exporter and DSN and check the applicable price basis and combination duty. Keep current trade-remedy costs in landed quotes, and prepare supporting evidence and a public version if making a submission.",
+      "evidence_url": "https://www.industry.gov.au/sites/default/files/adrp/2026-11/2026_184-notice-of-intention-to-conduct-a-review_1.pdf",
+      "coverage": "核对澳大利亚复审公告全文、案件时间表（https://www.industry.gov.au/trade/anti-dumping-review-panel/current-anti-dumping-review-panel-reviews/certain-flat-rolled-steel-products-exported-peoples-republic-china-and-republic-korea）、9月24日第2026/103号决定（https://www.industry.gov.au/sites/default/files/adc/public-record/2026-09/688-37-notice-adn-adc-other-adn-2026-103-findings-of-dumping-investigation-688.pdf）及登记册产品、豁免、DSN和有效税率（https://www.industry.gov.au/sites/default/files/adc/measures/2026-07/dcr-certain-flat-rolled-steel-products.pdf）。具体货物按保密出口价格基准及有无变量税额由进口商确认。",
+      "status": "官方核验",
+      "category": "贸易救济",
+      "importance": "高",
+      "tags": [
+        "澳大利亚",
+        "中国",
+        "韩国",
+        "中厚板",
+        "反倾销",
+        "复审"
+      ],
+      "follow_up": "有敞口时在12月18日前确认是否提交意见。对符合牌号与厚度的对象另核对登记册第2节及具体部长豁免。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT0l0U1BFa3h2dWFWNHJBRVV6SEJDLUFFMThsZ09JSVRJQl81a2Z3d0RCZjJVZElTN1RObGl2UzdnY09DQlNDcmVZaG10aUc3OVJOeDRQYWM2RWFZMzRZTnY0TmxDNGhxbFdkMlRNOFhEMDdsYmhlSWFOWGF3d0RzU0gwZHRzQXhKLW1pVi1RQUlBNGkyQl9lU0xuMGgtTU5xVzVoV3R0RG1INTY4ZGRwN201dkZCLUFCeUxtSXdaRk94OExxZUQtVHRKU3ZTdm9nTnFLT2hhQjE4RDFB?oc=5",
+      "published_date": "2026-11-19",
+      "reviewed_at": "2026-11-24T08:08:39Z",
+      "title_zh": "挪威、冰岛2027年1月起实施欧盟CBAM，钢铁等50吨门槛跨境合计",
+      "title_en": "Norway and Iceland to apply EU CBAM from 1 January 2027 with a combined 50-tonne threshold",
+      "summary_zh": "欧洲经济区联合委员会第283/2026号决定于2026年11月18日生效，将经修订的欧盟CBAM条例纳入欧洲经济区协定。自2027年1月1日起，挪威和冰岛适用同一套机制。钢铁、铝、化肥和水泥的50吨年度净重门槛按同一进口商在欧盟、挪威和冰岛的相关进口量合计，氢和电力不适用吨位门槛。授权在三地互认。当地设立的进口商在2027年3月31日前提交申请可按规定使用本地进口的过渡安排；欧委会同时提示地方进口身份标识TIN与欧盟EORI应分别核对。列支敦士登不适用本决定纳入的条例。",
+      "summary_en": "EEA Joint Committee Decision 283/2026 entered into force on 18 November 2026 and extends EU CBAM to imports into Norway and Iceland from 1 January 2027. The 50-tonne annual net-mass threshold for covered goods in four sectors, including iron and steel, is aggregated per importer across the EU, Norway and Iceland. Electricity and hydrogen have no mass threshold. Authorisations are mutually recognised. Importers established in Norway or Iceland may qualify for local transitional treatment if they submit their application by 31 March 2027. Local TIN and EU EORI requirements should be checked separately. Liechtenstein is excluded.",
+      "impact_zh": "首票预计在2027年清关的对挪威、冰岛板坯、热卷、冷卷或涂镀订单，按附件税号、当地进口商的跨境累计吨位和预计进口季度估算CBAM成本，要求进口商确认授权、当地TIN及适用的过渡条件。DDP订单应在合同中落实碳成本和钢厂排放数据交付责任。",
+      "impact_en": "For covered slab, HRC, CRC or coated products entering Norway or Iceland in 2027, verify the tariff line, the importer’s combined volumes, authorisation and local TIN. Build CBAM into landed costs for the expected entry quarter and specify carbon-cost and emissions-data responsibilities for DDP orders.",
+      "evidence_url": "https://www.efta.int/sites/default/files/documents/legal-texts/eea/other-legal-documents/adopted-joint-committee-decisions/2026%20-%20English/283-2026.pdf",
+      "coverage": "核对EFTA官方决定正文第1条对授权、适用日期和附件的修订及欧委会实施问答（https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en），并与挪威海关申报说明（https://www.toll.no/en/corporate/import/cbam）交叉核对。媒体发布日期为11月19日，政府决定生效日期为11月18日。",
+      "status": "官方核验",
+      "category": "碳与环保",
+      "importance": "高",
+      "tags": [
+        "挪威",
+        "冰岛",
+        "欧盟",
+        "CBAM",
+        "进口申报"
+      ],
+      "follow_up": "在安排2027年首票清关前，向实际进口方确认授权申请已递交以及当地报关字段。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQWE3bFVPaHc3U0RDMnZCQnVtaXRNWWlaclZ6T2JybFFUQ2VfS1JQNUJhWmFPNGRCWEhkNkQ0N0Nqbk93a2VBanpZNG9DeFBmbzRuR3FwemV5YVNOY0RfQ2x5MXo0eHN5Rk9xNm9YVGJBWDZxeGxRN3J3TW92aC1sLWJjT3B5N0YwdE9qcElFOXJ4V2g4dHJ3VF9Yamp0czdtMS1icGpKdGVBOXRVRm5Rb1B6MUQtUHZhcm5HcXBMazQ1ZnByVUFQMGYtaw?oc=5",
+      "published_date": "2026-11-18",
+      "reviewed_at": "2026-11-24T08:08:39Z",
+      "title_zh": "中国SS400热轧卷FOB评估约485美元每吨，欧盟到岸报价需逐票核对配额",
+      "title_en": "Chinese SS400 HRC assessed near $485/t FOB as EU quota access constrains buying",
+      "summary_zh": "据Kalkine，11月16日中国SS400出口热卷评估在485美元/吨FOB。SEAISI刊载的Mysteel评估显示，11月13日天津港SS400 3毫米规格同样为485美元/吨FOB。Kalkine将欧洲买家观望与进口配额压力联系起来。欧盟法规规定，适用品类配额用尽或无可用配额时适用50%配额外税；实际配额须按原产地、产品分类、配额号和清关日查验。",
+      "summary_en": "Kalkine reported a $485/t FOB assessment for Chinese SS400 HRC on 16 November. SEAISI’s Mysteel report placed 3 mm SS400 at the same level, FOB Tianjin, on 13 November. Kalkine linked cautious European buying to quota limits. The EU regulation specifies a 50% out-of-quota duty for covered categories when quota is exhausted or unavailable. Check the relevant origin, product category, quota order and entry date.",
+      "impact_zh": "低价FOB可作为中东、北非和南美热卷海运报价的市场参照。欧盟订单请先用具体CN、原产地和预计清关日请进口商核对TARIC额度，再分别计入适用的配额外税、贸易救济及CBAM。",
+      "impact_en": "Use this FOB assessment as a reference for HRC offers into the Middle East, North Africa and South America. For EU orders, check the actual quota and model any out-of-quota duty, trade-remedy duty and CBAM separately before quoting.",
+      "evidence_url": "https://kalkine.co.uk/news/general-news/why-chinas-hot-rolled-coil-is-stuck-at-485-a-tonne-as-buyers-wait-and-europes-quota-is-full",
+      "coverage": "核读Kalkine原文的公开索引全文，对照SEAISI刊载的Mysteel评估（https://www.seaisi.org/details/28522?type=news-rooms）、欧盟法规2026/1384（https://eur-lex.europa.eu/eli/reg/2026/1384/oj）及TARIC查验入口（https://taxation-customs.ec.europa.eu/online-services/online-services-and-databases-customs/tariff-quota-database-quota_en）。媒体所称港口待清关量和配额一概耗尽未独立证实，本条未将其作为配额结论。",
+      "status": "原文核验／市场报道",
+      "category": "市场与产能",
+      "importance": "中",
+      "tags": [
+        "中国",
+        "热轧卷",
+        "FOB",
+        "欧盟配额"
+      ],
+      "follow_up": "对具体订单以正式钢厂报盘和进口商确认的适用配额状态更新报价。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWcteGhTUEdpZ1dDVkxWZ2lTYjFmZ0x2RXYyQnZqa3cyeEtDNXNXa1lrS0JqbFpjby1GQU5WMUFjX196REIyc0I1QlJoSzV1SUZjcmcwWGJKWHdBLUpYZkpJZHVqOEg0R2RQaWNWRS1GQ1FLeUtfRWJULXpJWFFKRVQ5anFJMExvSG54Yk5RSXVmaVJTSC1lYU42cjNXaEtBZjVlMks4QQ?oc=5",
+      "published_date": "2026-11-17",
+      "reviewed_at": "2026-11-24T08:08:39Z",
+      "title_zh": "中国10月铁矿石进口量环比降3.79%，机构预计11月到港回升",
+      "title_en": "China’s October iron ore imports fell 3.79% month on month; SMM expects arrivals to recover",
+      "summary_zh": "IndexBox转引SMM及海关数据，2026年10月中国铁矿石及精矿进口量为1.05658亿吨，环比下降3.79%、同比下降4.96%；1—10月累计约10.61亿吨，同比增长3.1%。SMM按发运到港周期推算，11月平均到港可能高于10月，海关口径进口量或小幅回升。",
+      "summary_en": "IndexBox cited SMM’s reading of China Customs data: October imports of iron ore and concentrates reached 105.658 million tonnes, down 3.79% from September and 4.96% year on year. January–October imports were about 1.061 billion tonnes, up 3.1%. Based on shipment schedules, SMM expected November arrivals to recover and customs-basis imports to rise modestly.",
+      "impact_zh": "采购和热轧出口报价可关注后续到港、港存、钢厂铁水产量和焦炭成本，判断矿价压力是否传导至厂价。11月到港为机构推算，待海关实绩发布后更新。",
+      "impact_en": "Watch arrivals, port stocks, hot-metal production and coke costs before applying the ore signal to HRC export pricing. Treat the November figure as an SMM outlook pending customs data.",
+      "evidence_url": "https://news.metal.com/newscontent/K3474JV2GCUJIRVEAJC2ZHHP4KK56QNMWKDLGVY-smm-iron-ore-import-analysis-oct-imports-down-379-mom-turn-lower-yoy-nov-arrivals-recover-imports-may-rebound",
+      "coverage": "核对IndexBox原文及其所引SMM分析，并用公开转载的重点进口商品量值表复核10月数量和累计同比（https://www.steelhome.com/detailspage.php?nid=4791027&ntype=n）。预测来自SMM的发运到港推算。",
+      "status": "原文核验／市场报道",
+      "category": "市场与产能",
+      "importance": "中",
+      "tags": [
+        "中国",
+        "铁矿石",
+        "进口",
+        "热轧卷"
+      ],
+      "follow_up": "等11月海关数据发布后对照机构预期和实际到港。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLUFIeU9SWEhyN1lWOUh6eVVvWnBzU3NvaHFwNnZGTXdCZEt6TWRNTEh6cGE2ZHY0UmpUYU9qd05HNE9qdURUeDNoeFVjLU54T0lPekx2d0o2TnpqcktyeWpUTjVWdTk4a0hPT2J3NWRZY0JoUnJmc3p4X1hqdk03SEFfMHNqZnJKeHpaaGJ0OTk3OEliY0MtUUNJbGZEY1o1blFXbTg5SFNwcDdmZnpSdDVLblpzZUdxeGVvclZpQ1h2SUNVTVhDV3VSQlpKM1dFQS03dGhaVQ?oc=5",
+      "published_date": "2026-11-17",
+      "reviewed_at": "2026-11-24T08:08:39Z",
+      "title_zh": "媒体称中国热卷出口LME次月合约报478.50美元每吨，现货评估另有口径",
+      "title_en": "Kalkine cites $478.50/t for LME China HRC second-month futures",
+      "summary_zh": "11月17日Kalkine将478.50美元/吨归于11月13日LME中国热卷FOB次月合约，并认为冬季需求偏弱、铁矿石库存增加令价格承压。LME合约规格确认该产品为以Argus评估为基础的现金结算期货。同期Mysteel的天津SS400 3毫米品种现货FOB评估为485美元/吨。两组价格的合约或商品口径不同。",
+      "summary_en": "Kalkine attributed $478.50/t to the second-month LME China HRC FOB contract on 13 November and cited seasonal demand and high ore stocks as pressures. LME specifications identify the product as a cash-settled futures contract based on Argus pricing. Mysteel’s contemporaneous Tianjin FOB assessment for physical 3 mm SS400 coil was $485/t. The two prices measure different instruments.",
+      "impact_zh": "中东或北非询单请以实际牌号、装港和船期的可执行FOB报价为准。期货可观察方向；合同若引用指数，需写明价格发布方、品种和取价窗口。",
+      "impact_en": "For Middle East or North Africa inquiries, use a firm quote matched to grade, load port and shipment window. Use futures as a market indicator. Define the publisher, product and pricing window for any index-linked contract.",
+      "evidence_url": "https://kalkine.co.uk/news/general-news/why-chinas-export-hot-rolled-coil-has-slipped-to-47850-as-ore-stocks-build-and-seasonal-demand-eases",
+      "coverage": "核读Kalkine公开索引原文和LME合约规则（https://www.lme.com/en/Metals/Ferrous/LME-Steel-HRC-FOB-China-Argus/Contract-specifications），对照SEAISI刊载的Mysteel现货评估（https://www.seaisi.org/details/28522?type=news-rooms）。未独立取得11月13日次月合约收盘表，478.50按媒体引用保留。",
+      "status": "原文核验／市场报道",
+      "category": "市场与产能",
+      "importance": "中",
+      "tags": [
+        "中国",
+        "热轧卷",
+        "LME",
+        "期货",
+        "现货"
+      ],
+      "follow_up": "需要据此议价时先核对交易所对应日期与合约月或向钢厂取得实盘。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNHVJMms2QzdjZFJ4azJyR0J5ZzVfN1ZHeVQyeWZ4QkpQeGFZeUV5dUtWS2hOcC1zZWZKRG1rOE4yZEpfUWwzeGNmYm5MQlRpdlIwWUo0Ui1FeVJtNFNkTHQtdlhnZm85N0ZxVGxmanhsS19mR1A0aEtIVUZNaWl2eC0wNG50SzJDZ285VW9XeldyTjJQVGfSAZsBQVVfeXFMTkgzLWVqbWFHQWkteGtwSUpqZFJHaTNaNFVYZDJjblVQZHJzb1ROYkNORUY2eWJWV1RqbG52cnZXanRkakw5bDdJY1gya0s1MEpseGNvYlgzckIxVkJtdFFRenRxTXlWWVlSdGQ0MmcxMkljemZPSDVNdk1aVm9DTHQ3Y3dUdVBBTkFfaThGM1ItTDJkZWNXWFBULW8?oc=5",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-24T08:08:39Z",
+      "title_zh": "哈萨克斯坦推动钢铝出口商适应欧盟CBAM，机构测算采用实际排放可减少成本",
+      "title_en": "Kazakhstan prepares steel and aluminium exporters for EU CBAM; QazTrade denominates model results in euros",
+      "summary_zh": "哈萨克斯坦贸易和一体化部、生态和自然资源部与QazTrade在COP31讨论钢铝出口排放监测、报告及核证。该国政府称2025年对欧盟出口钢铁约39.63万吨、3.37亿欧元，铝约11.02万吨、2.74亿欧元。QazTrade披露，ITC与QazTrade在碳价80欧元/吨的假设下，对四个商品税目估算的默认值情景年成本最高约1.14亿欧元，经核证实际排放情景约5700万欧元。上一版金额币种写作美元，本次按研究参与方披露改为欧元。",
+      "summary_en": "Kazakhstan’s trade and environment ministries and QazTrade used COP31 to discuss emissions monitoring, reporting and verification for steel and aluminium exporters. The government reports 396,318 tonnes of iron and steel exports to the EU in 2025, worth EUR 337 million, and 110,184 tonnes of aluminium, worth EUR 274 million. QazTrade cites an ITC/QazTrade model at EUR 80/tCO₂ for four tariff lines: annual exposure of up to EUR 114 million under defaults and about EUR 57 million for verified actual emissions. This corrects the currency in the prior entry.",
+      "impact_zh": "哈萨克斯坦钢厂核证实际排放后，在欧洲的竞争成本可能改善。比较板坯或长材报价时，按具体钢厂、产品和前驱体经核证排放测算，并让进口商核对适用免费配额调整和申报口径。模型总额不用于单吨报价。",
+      "impact_en": "Verification could improve the competitiveness of Kazakh steel in Europe. Compare landed costs for slab or long products using verified mill, product and precursor emissions. Have the importer confirm the applicable free-allocation adjustment and reporting basis.",
+      "evidence_url": "https://qaztrade.org.kz/rus/kazahstan-gotovit-eksporterov-k-novym-pravilam-torgovli-s-evrosoyuzom/",
+      "coverage": "核读QazTrade原文对研究单位、币种、四个税目及碳价假设的说明，并和哈萨克斯坦贸易和一体化部原文（https://www.gov.kz/org/mti/press/news/details/1329686?lang=en）核对COP31会议及海关统计。已读SMM复查来源（https://news.metal.com/newscontent/4MIVQ2EMUK466O6RGA3UA4LQXGSF2MT2IRXEPDI-kazakhstan-prepares-exporters-for-eu-cbam-compliance）。模型输入表未取得，数字均为情景测算。",
+      "status": "官方核验",
+      "category": "碳与环保",
+      "importance": "中",
+      "tags": [
+        "哈萨克斯坦",
+        "欧盟",
+        "CBAM",
+        "钢铝",
+        "实际排放"
+      ],
+      "follow_up": "后续核对参与钢厂、对应产品税号及可用的核证数据。"
+    }
+  ],
+  "triage": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNW1mNndwcGdNc2gtRWlzUXlsU0Y2bTd6VW9iUHFTZGRGVkw5T0VWOE8tQ3h2NTVTdzdLaHM2WWR1UENqcVQwUWF4Mjl2TTlOWlc2ZXhCZHMwaGJza2s4WVNnLXp2QmtqaUtKTVlSSmxwZk5rSzVzWWVMZVNCX2V5aXZzY3FRc0lfMEFoMFhiQk1ETVdvaUhHN01rNU5FeVVUWE5vVURkUmpUSHpXZ0E?oc=5",
+      "published_date": "2026-11-24",
+      "decision": "duplicate",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOG5JcXhDSkRfalpNRjdrdk8xOGZrQS1SUUVFbk5kNTBKLWxhSEx6Y2pvSm14b1ZORmJDMDJDYWhZdnQ5TTRZWmt3Uk0wQldkSm5nOENaMnc4a2tYWnBzWGd3MUhpczZVRkdPSU9VbG1YSjJvWElEYWxZczZZbGxKckJTTVhhaEVjUjFtcWFrSFhCOUVaRThuVUpYcndoMkRVZzhHT2pzLTRFZHllQXFOUUdacGZyUGZyeGR1ZzE5eVN3OEpRR25fUklEd3hZSmM?oc=5",
+      "reason_zh": "AD HOC NEWS所载日期、申请企业与期限均对应ADRP的同一项中韩中厚板复审，归并至本批已核验的SteelRadar主条。",
+      "coverage": "核对AD HOC NEWS原文（https://www.ad-hoc-news.de/boerse/news/nebenwerte/baosteel-stock-australia-opens-anti-dumping-review/70548105）及ADRP案件页，确认11月18日启动、12月18日提交意见。",
+      "evidence_url": "https://www.industry.gov.au/trade/anti-dumping-review-panel/current-anti-dumping-review-panel-reviews/certain-flat-rolled-steel-products-exported-peoples-republic-china-and-republic-korea",
+      "attempted_at": "2026-11-24T08:08:39Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUFXLUxVMDlKNUctTGJFYlNUT1V3eWV2UlVsaXhhaDBpU3Z3aDBhMnVfQU8xeHl0VEtfSWtaQ3hiTC1LYnZGZUFZODZXc2Z2WS1MdkloQ25GeTNsZXM0azlTZEllOThRdUtIYXF0UUlPVlpEdjItYTNCMDhKZ2JuYTZNVFdpN1dqMVppTnh2cVBjZ0xEdm1ScW1aMEPSAaIBQVVfeXFMUGlDQ2FyRmo2NllPOWk1dVJ5VFRrUDQ0T3VHa2VGZExZSWpiMjlOUWJnQVB2d3VXRnVoSklGLU4tdGF6T05heHpnelBRUFZnNVJLYnpBcmZ2VGM2cDVJWFpFU2hOcWN0dEFnZXphWjNFZDJDOEFjQXVtd01GeWM5LWw3YzBpaC1JWnVZYktTY042a2xHbjN4WWVDUkRna1JEaDBR?oc=5",
+      "published_date": "2026-11-23",
+      "decision": "duplicate",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnRPeGN1WmJxNFBleE00T0pZUWJuejRLbXN0QzRnQ1RCTG91dlBDNFJMcF9wRFBHMzFuUnlsUUJSc2hOck9xUDlvUHJPbEJnRGRBV1p0T3dPQTJ5V1BiR3RoUzBPSlB6X2Rpd1Fma09PbWp5RXl6QlpTUDBtaDdNUGl1cjRfVkRzREpMQXBWUXdDV3FZNnZ0SUc2NlJZRzNQd3BHQXAteFRfRE5LWnYyNk1TcUFUY3NrN3c?oc=5",
+      "reason_zh": "GMK Center报道与已核验的22家欧洲工业企业联名信为同一材料，提及的380亿欧元为签署方称计划或已批准的低碳投资。",
+      "coverage": "核对GMK Center全文（https://gmk.center/en/news/european-companies-set-out-position-on-ets-reform-and-cbam-stability/amp/）和签署方公开信，报道未新增独立政策决定。",
+      "evidence_url": "https://www.cleantechforeurope.com/policy/open-letter-ceo-statement-on-carbon-markets-lead-markets-and-power-prices",
+      "attempted_at": "2026-11-24T08:08:39Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajlMbk9rSGtieF9EMTd2QVdHMDRBTUpiZGhUNW9vNlpLaXFtcXU3R2RpSEd4SFlsUWo4MEs5cTRhWUh2c1ZTUkZSSHZpd1pSWTRkQWJJWkcwT3cwMzQ0aF8wb2NobnlYVHNtcG9Ga1pXeVpNVkF6UGRZdDBlNmtValBudnF2YmllZGUzOGZ1SHQ4eVdjTWlRWEdDMndyUdIBowFBVV95cUxOQ3JsMTkyenBLSm1KTmsxYUZGQk5mak1WQlhMS1plV19sNm1NSVJQN3R4LWQyYUd1Q2IzZVl4bmtMMHNFSDlnLWJSbXF5aUxXNFhDSXMtTXgtbEhaeVFqenEwYWNMdGE5SVh1QzNoY2xycUhxYjJGOHNJWUY4T1RkNGpnbC1vOGxwZFFhNXBTMHpfWWZ6bjhiZTNCd0xzX2g4OHhn?oc=5",
+      "published_date": "2026-11-18",
+      "decision": "duplicate",
+      "duplicate_of": "https://gov.uk/government/publications/reporting-the-country-of-melt-and-pour-for-certain-steel-imports",
+      "reason_zh": "GMK Center转述英国政府同一熔炼及浇铸国申报指引。自愿期、强制日期和留档规则已由主条记录。",
+      "coverage": "核对GMK Center原文（https://gmk.center/en/news/the-uk-to-introduce-melt-and-pour-reporting-for-steel-imports-in-2027/）及GOV.UK指引，覆盖2027年4月1日自愿、7月1日强制及低于2,000英镑适用豁免的条件。",
+      "evidence_url": "https://gov.uk/government/publications/reporting-the-country-of-melt-and-pour-for-certain-steel-imports",
+      "attempted_at": "2026-11-24T08:08:39Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkRrNVI0d0NFTXMzaVlaZDhLOHZTWFhDRHA5c1pFMGJwN0d3RVlna25Ub3dmMHJNd1JrWWVMMHQyYV82YzVHUTd0MVlYMm9nR0o5TnJnVkFCalk3QV9pc1lwSWFZY3JaQWNLUVZCNVQ2Y2dCYVpxRElybW5xQTk2WDlXdm9USVNOZU9PMUg0cEhZZ2JoUjZTdmdDWTZqN2dMa2ZlZWdZQ0hpT3RMWmFRWDhLb0FVT2ZneU0zd0ZMOUVZbjY0X3ZmVEJR?oc=5",
+      "published_date": "2026-11-17",
+      "decision": "duplicate",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNHVJMms2QzdjZFJ4azJyR0J5ZzVfN1ZHeVQyeWZ4QkpQeGFZeUV5dUtWS2hOcC1zZWZKRG1rOE4yZEpfUWwzeGNmYm5MQlRpdlIwWUo0Ui1FeVJtNFNkTHQtdlhnZm85N0ZxVGxmanhsS19mR1A0aEtIVUZNaWl2eC0wNG50SzJDZ285VW9XeldyTjJQVGfSAZsBQVVfeXFMTkgzLWVqbWFHQWkteGtwSUpqZFJHaTNaNFVYZDJjblVQZHJzb1ROYkNORUY2eWJWV1RqbG52cnZXanRkakw5bDdJY1gya0s1MEpseGNvYlgzckIxVkJtdFFRenRxTXlWWVlSdGQ0MmcxMkljemZPSDVNdk1aVm9DTHQ3Y3dUdVBBTkFfaThGM1ItTDJkZWNXWFBULW8?oc=5",
+      "reason_zh": "已取得SMM原报道及哈萨克斯坦一手材料。哈萨克斯坦部分为同一场COP31讨论，相关核证研判归入主条；以QazTrade原文校正主条模型金额币种为欧元。",
+      "coverage": "核读SMM报道哈萨克斯坦段落、政府会议信息及QazTrade对ITC联合研究的披露。其余独立国家和企业动态不作为本条哈萨克斯坦事实。",
+      "evidence_url": "https://qaztrade.org.kz/rus/kazahstan-gotovit-eksporterov-k-novym-pravilam-torgovli-s-evrosoyuzom/",
+      "attempted_at": "2026-11-24T08:08:39Z"
+    }
+  ]
+}
