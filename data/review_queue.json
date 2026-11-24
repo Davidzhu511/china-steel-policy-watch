@@ -1,10 +1,162 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-23T18:46:07Z",
-  "pending_count": 23,
-  "actionable_count": 0,
+  "generated_at": "2026-11-24T00:25:20Z",
+  "pending_count": 29,
+  "actionable_count": 6,
   "blocked_count": 23,
-  "items": [],
+  "items": [
+    {
+      "id": "e8f69627c5f29dc569d7",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUFXLUxVMDlKNUctTGJFYlNUT1V3eWV2UlVsaXhhaDBpU3Z3aDBhMnVfQU8xeHl0VEtfSWtaQ3hiTC1LYnZGZUFZODZXc2Z2WS1MdkloQ25GeTNsZXM0azlTZEllOThRdUtIYXF0UUlPVlpEdjItYTNCMDhKZ2JuYTZNVFdpN1dqMVppTnh2cVBjZ0xEdm1ScW1aMEPSAaIBQVVfeXFMUGlDQ2FyRmo2NllPOWk1dVJ5VFRrUDQ0T3VHa2VGZExZSWpiMjlOUWJnQVB2d3VXRnVoSklGLU4tdGF6T05heHpnelBRUFZnNVJLYnpBcmZ2VGM2cDVJWFpFU2hOcWN0dEFnZXphWjNFZDJDOEFjQXVtd01GeWM5LWw3YzBpaC1JWnVZYktTY042a2xHbjN4WWVDUkRna1JEaDBR?oc=5",
+      "published_at": "2026-11-23T14:18:43Z",
+      "title_original": "European companies set out position on ETS reform and CBAM stability",
+      "first_seen": "2026-11-24T00:25:20Z",
+      "last_seen": "2026-11-24T00:25:20Z",
+      "source": {
+        "id": "rss",
+        "name": "GMK Center",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-23",
+      "source_excerpt": "European companies set out position on ETS reform and CBAM stability GMK Center",
+      "needs_translation": true,
+      "title_zh": "European companies set out position on ETS reform and CBAM stability",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "07d4395690caaeaf",
+      "related_reviews": []
+    },
+    {
+      "id": "c47b60b3656e0cac57a6",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT0l0U1BFa3h2dWFWNHJBRVV6SEJDLUFFMThsZ09JSVRJQl81a2Z3d0RCZjJVZElTN1RObGl2UzdnY09DQlNDcmVZaG10aUc3OVJOeDRQYWM2RWFZMzRZTnY0TmxDNGhxbFdkMlRNOFhEMDdsYmhlSWFOWGF3d0RzU0gwZHRzQXhKLW1pVi1RQUlBNGkyQl9lU0xuMGgtTU5xVzVoV3R0RG1INTY4ZGRwN201dkZCLUFCeUxtSXdaRk94OExxZUQtVHRKU3ZTdm9nTnFLT2hhQjE4RDFB?oc=5",
+      "published_at": "2026-11-19T01:14:31Z",
+      "title_original": "EU extends Carbon Border Adjustment Mechanism to Iceland and Norway from 2027",
+      "first_seen": "2026-11-24T00:25:20Z",
+      "last_seen": "2026-11-24T00:25:20Z",
+      "source": {
+        "id": "rss",
+        "name": "INSIGHT EU MONITORING",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-19",
+      "source_excerpt": "EU extends Carbon Border Adjustment Mechanism to Iceland and Norway from 2027 INSIGHT EU MONITORING",
+      "needs_translation": true,
+      "title_zh": "EU extends Carbon Border Adjustment Mechanism to Iceland and Norway from 2027",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "1b7a717de5a32404",
+      "related_reviews": []
+    },
+    {
+      "id": "544293e68a5f91808a3b",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQWE3bFVPaHc3U0RDMnZCQnVtaXRNWWlaclZ6T2JybFFUQ2VfS1JQNUJhWmFPNGRCWEhkNkQ0N0Nqbk93a2VBanpZNG9DeFBmbzRuR3FwemV5YVNOY0RfQ2x5MXo0eHN5Rk9xNm9YVGJBWDZxeGxRN3J3TW92aC1sLWJjT3B5N0YwdE9qcElFOXJ4V2g4dHJ3VF9Yamp0czdtMS1icGpKdGVBOXRVRm5Rb1B6MUQtUHZhcm5HcXBMazQ1ZnByVUFQMGYtaw?oc=5",
+      "published_at": "2026-11-18T09:00:00Z",
+      "title_original": "Why China's Hot-Rolled Coil Is Stuck at $485 a Tonne as Buyers Wait and Europe's Quota Is Full",
+      "first_seen": "2026-11-24T00:25:20Z",
+      "last_seen": "2026-11-24T00:25:20Z",
+      "source": {
+        "id": "rss",
+        "name": "kalkine.co.uk",
+        "kind": "news",
+        "official": false
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-18",
+      "source_excerpt": "Why China's Hot-Rolled Coil Is Stuck at $485 a Tonne as Buyers Wait and Europe's Quota Is Full kalkine.co.uk",
+      "needs_translation": true,
+      "title_zh": "Why China's Hot-Rolled Coil Is Stuck at $485 a Tonne as Buyers Wait and Europe's Quota Is Full",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "bfcd5933d0656aaa",
+      "related_reviews": []
+    },
+    {
+      "id": "535bac8d82a6856339b7",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPajlMbk9rSGtieF9EMTd2QVdHMDRBTUpiZGhUNW9vNlpLaXFtcXU3R2RpSEd4SFlsUWo4MEs5cTRhWUh2c1ZTUkZSSHZpd1pSWTRkQWJJWkcwT3cwMzQ0aF8wb2NobnlYVHNtcG9Ga1pXeVpNVkF6UGRZdDBlNmtValBudnF2YmllZGUzOGZ1SHQ4eVdjTWlRWEdDMndyUdIBowFBVV95cUxOQ3JsMTkyenBLSm1KTmsxYUZGQk5mak1WQlhMS1plV19sNm1NSVJQN3R4LWQyYUd1Q2IzZVl4bmtMMHNFSDlnLWJSbXF5aUxXNFhDSXMtTXgtbEhaeVFqenEwYWNMdGE5SVh1QzNoY2xycUhxYjJGOHNJWUY4T1RkNGpnbC1vOGxwZFFhNXBTMHpfWWZ6bjhiZTNCd0xzX2g4OHhn?oc=5",
+      "published_at": "2026-11-18T08:33:24Z",
+      "title_original": "The UK to introduce melt-and-pour reporting for steel imports in 2027",
+      "first_seen": "2026-11-24T00:25:20Z",
+      "last_seen": "2026-11-24T00:25:20Z",
+      "source": {
+        "id": "rss",
+        "name": "GMK Center",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-18",
+      "source_excerpt": "The UK to introduce melt-and-pour reporting for steel imports in 2027 GMK Center",
+      "needs_translation": true,
+      "title_zh": "The UK to introduce melt-and-pour reporting for steel imports in 2027",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "50f80f0a5132a541",
+      "related_reviews": [
+        {
+          "url": "https://gov.uk/government/publications/reporting-the-country-of-melt-and-pour-for-certain-steel-imports",
+          "published_at": "2026-11-16T00:00:00Z",
+          "title_zh": "英国：部分钢铁进口货物的熔炼和浇铸国家申报要求",
+          "evidence_url": "https://gov.uk/government/publications/reporting-the-country-of-melt-and-pour-for-certain-steel-imports"
+        }
+      ]
+    },
+    {
+      "id": "fca539797d4b7ba79677",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWcteGhTUEdpZ1dDVkxWZ2lTYjFmZ0x2RXYyQnZqa3cyeEtDNXNXa1lrS0JqbFpjby1GQU5WMUFjX196REIyc0I1QlJoSzV1SUZjcmcwWGJKWHdBLUpYZkpJZHVqOEg0R2RQaWNWRS1GQ1FLeUtfRWJULXpJWFFKRVQ5anFJMExvSG54Yk5RSXVmaVJTSC1lYU42cjNXaEtBZjVlMks4QQ?oc=5",
+      "published_at": "2026-11-17T13:10:28Z",
+      "title_original": "China October Iron Ore Imports Fall 3.79% MoM; November Arrivals Seen Rebounding",
+      "first_seen": "2026-11-24T00:25:20Z",
+      "last_seen": "2026-11-24T00:25:20Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-17",
+      "source_excerpt": "China October Iron Ore Imports Fall 3.79% MoM; November Arrivals Seen Rebounding - News and Statistics IndexBox",
+      "needs_translation": true,
+      "title_zh": "China October Iron Ore Imports Fall 3.79% MoM; November Arrivals Seen Rebounding",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "5872d3498c3ad10c",
+      "related_reviews": []
+    },
+    {
+      "id": "2cfee8af22fe8900238b",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLUFIeU9SWEhyN1lWOUh6eVVvWnBzU3NvaHFwNnZGTXdCZEt6TWRNTEh6cGE2ZHY0UmpUYU9qd05HNE9qdURUeDNoeFVjLU54T0lPekx2d0o2TnpqcktyeWpUTjVWdTk4a0hPT2J3NWRZY0JoUnJmc3p4X1hqdk03SEFfMHNqZnJKeHpaaGJ0OTk3OEliY0MtUUNJbGZEY1o1blFXbTg5SFNwcDdmZnpSdDVLblpzZUdxeGVvclZpQ1h2SUNVTVhDV3VSQlpKM1dFQS03dGhaVQ?oc=5",
+      "published_at": "2026-11-17T06:44:00Z",
+      "title_original": "Why China's Export Hot-Rolled Coil Has Slipped to $478.50 as Ore Stocks Build and Seasonal Demand Eases",
+      "first_seen": "2026-11-24T00:25:20Z",
+      "last_seen": "2026-11-24T00:25:20Z",
+      "source": {
+        "id": "rss",
+        "name": "kalkine.co.uk",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-17",
+      "source_excerpt": "Why China's Export Hot-Rolled Coil Has Slipped to $478.50 as Ore Stocks Build and Seasonal Demand Eases kalkine.co.uk",
+      "needs_translation": true,
+      "title_zh": "Why China's Export Hot-Rolled Coil Has Slipped to $478.50 as Ore Stocks Build and Seasonal Demand Eases",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "dae4f613e8b2ad20",
+      "related_reviews": []
+    }
+  ],
   "blocked_items": [
     {
       "id": "33459cdc9ca148f0653d",
@@ -42,7 +194,7 @@
       "published_at": "2026-11-19T16:18:46Z",
       "title_original": "UK CBAM to cost far less than EU's for most importers, raising re-routing risk as ETS link nears",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-23T18:46:07Z",
+      "last_seen": "2026-11-24T00:25:20Z",
       "source": {
         "id": "rss",
         "name": "Fastmarkets",
@@ -132,7 +284,7 @@
       "published_at": "2026-11-17T11:06:13Z",
       "title_original": "SKF and Baowu Partner on Lower-Carbon Steel Innovation",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-23T18:46:07Z",
+      "last_seen": "2026-11-24T00:25:20Z",
       "source": {
         "id": "rss",
         "name": "Wisevoter",
@@ -252,7 +404,7 @@
       "published_at": "2026-11-19T08:36:00Z",
       "title_original": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-23T18:46:07Z",
+      "last_seen": "2026-11-24T00:25:20Z",
       "source": {
         "id": "rss",
         "name": "中国钢铁新闻网",
@@ -312,7 +464,7 @@
       "published_at": "2026-11-18T10:00:49Z",
       "title_original": "Official publication: Commission corrects name of Japanese steel producer subject to anti-dumping duties",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-22T14:55:09Z",
+      "last_seen": "2026-11-24T00:25:20Z",
       "source": {
         "id": "rss",
         "name": "EU Law Live",
@@ -342,7 +494,7 @@
       "published_at": "2026-11-18T03:03:00Z",
       "title_original": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9%",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-23T18:46:07Z",
+      "last_seen": "2026-11-24T00:25:20Z",
       "source": {
         "id": "rss",
         "name": "钢铁网",
@@ -709,8 +861,39 @@
       "retry_policy": "manual"
     }
   ],
-  "retry_items": [],
-  "retry_due_count": 0,
-  "next_retry_at": "2026-11-24T00:00:00Z",
-  "work_fingerprint": "4f53cda18c2baa0c0354"
+  "retry_items": [
+    {
+      "id": "8747b10d11866821e62b",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkRrNVI0d0NFTXMzaVlaZDhLOHZTWFhDRHA5c1pFMGJwN0d3RVlna25Ub3dmMHJNd1JrWWVMMHQyYV82YzVHUTd0MVlYMm9nR0o5TnJnVkFCalk3QV9pc1lwSWFZY3JaQWNLUVZCNVQ2Y2dCYVpxRElybW5xQTk2WDlXdm9USVNOZU9PMUg0cEhZZ2JoUjZTdmdDWTZqN2dMa2ZlZWdZQ0hpT3RMWmFRWDhLb0FVT2ZneU0zd0ZMOUVZbjY0X3ZmVEJR?oc=5",
+      "published_at": "2026-11-17T09:48:00Z",
+      "title_original": "Kazakhstan prepares exporters for EU CBAM compliance",
+      "first_seen": "2026-11-17T16:30:01Z",
+      "last_seen": "2026-11-19T00:45:29Z",
+      "source": {
+        "id": "rss",
+        "name": "Shanghai Metals Market",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "哈萨克斯坦CBAM准备报道与此前研判主题相近，但尚未确定本次报道是否有独立新增事实；不以标题级判断直接排除或标记重复。",
+      "review_evidence_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkRrNVI0d0NFTXMzaVlaZDhLOHZTWFhDRHA5c1pFMGJwN0d3RVlna25Ub3dmMHJNd1JrWWVMMHQyYV82YzVHUTd0MVlYMm9nR0o5TnJnVkFCalk3QV9pc1lwSWFZY3JaQWNLUVZCNVQ2Y2dCYVpxRElybW5xQTk2WDlXdm9USVNOZU9PMUg0cEhZZ2JoUjZTdmdDWTZqN2dMa2ZlZWdZQ0hpT3RMWmFRWDhLb0FVT2ZneU0zd0ZMOUVZbjY0X3ZmVEJR?oc=5",
+      "review_coverage": "仅核对RSS标题及本轮可用公开来源，未核验该SMM转载全文或独立新增数据。",
+      "published_date": "2026-11-17",
+      "source_excerpt": "Kazakhstan prepares exporters for EU CBAM compliance Shanghai Metals Market",
+      "needs_translation": false,
+      "title_zh": "哈萨克斯坦准备出口商遵守欧盟CBAM",
+      "review_attempted_at": "2026-11-17T19:32:47.011Z",
+      "evidence_fingerprint": "cb4f84ae0879ade4",
+      "related_reviews": [],
+      "retry_after": "2026-11-24T00:00:00Z",
+      "retry_policy": "scheduled"
+    }
+  ],
+  "retry_due_count": 1,
+  "next_retry_at": "2026-11-25T20:30:00Z",
+  "work_fingerprint": "e1fe8045d223f2b96386"
 }
