@@ -1,17 +1,103 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-24T00:25:20Z",
-  "pending_count": 29,
-  "actionable_count": 6,
+  "generated_at": "2026-11-24T04:06:23Z",
+  "pending_count": 32,
+  "actionable_count": 9,
   "blocked_count": 23,
   "items": [
+    {
+      "id": "44116c2e9f27e21099d6",
+      "url": "https://gov.uk/government/collections/check-if-youll-need-to-register-for-carbon-border-adjustment-mechanism-cbam",
+      "published_at": "2026-11-10T00:00:00Z",
+      "title_original": "Check if you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
+      "first_seen": "2026-11-24T04:06:23Z",
+      "last_seen": "2026-11-24T04:06:23Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "source_revision": "d61b7141ee17382a",
+      "published_date": "2026-11-10",
+      "source_excerpt": "Find out if you need to register for CBAM when you import selected CBAM goods from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors from 1 January 2027.",
+      "needs_translation": true,
+      "title_zh": "Check if you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "ced1e6197b886c32",
+      "related_reviews": [
+        {
+          "url": "https://gov.uk/guidance/responsibilities-if-you-accredit-verifiers-for-carbon-border-adjustment-mechanism-cbam-goods",
+          "published_at": "2026-10-16T00:00:00Z",
+          "title_zh": "英国公布CBAM认可机构条件，要求公开英文核查机构名单和证书",
+          "evidence_url": "https://gov.uk/guidance/responsibilities-if-you-accredit-verifiers-for-carbon-border-adjustment-mechanism-cbam-goods"
+        },
+        {
+          "url": "https://gov.uk/government/publications/check-the-default-values-for-the-carbon-border-adjustment-mechanism-cbam",
+          "published_at": "2026-10-16T00:00:00Z",
+          "title_zh": "英国钢铁CBAM默认值按8位编码适用，已用默认值申报后不能改填实际值",
+          "evidence_url": "https://www.gov.uk/government/publications/check-the-default-values-for-the-carbon-border-adjustment-mechanism-cbam/iron-and-steel-default-values"
+        }
+      ]
+    },
+    {
+      "id": "3238e412b329a74e57ad",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNW1mNndwcGdNc2gtRWlzUXlsU0Y2bTd6VW9iUHFTZGRGVkw5T0VWOE8tQ3h2NTVTdzdLaHM2WWR1UENqcVQwUWF4Mjl2TTlOWlc2ZXhCZHMwaGJza2s4WVNnLXp2QmtqaUtKTVlSSmxwZk5rSzVzWWVMZVNCX2V5aXZzY3FRc0lfMEFoMFhiQk1ETVdvaUhHN01rNU5FeVVUWE5vVURkUmpUSHpXZ0E?oc=5",
+      "published_at": "2026-11-24T02:04:35Z",
+      "title_original": "Baosteel stock: Australia opens anti-dumping review",
+      "first_seen": "2026-11-24T04:06:23Z",
+      "last_seen": "2026-11-24T04:06:23Z",
+      "source": {
+        "id": "rss",
+        "name": "ad-hoc-news.de",
+        "kind": "news",
+        "official": false
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-24",
+      "source_excerpt": "Baosteel stock: Australia opens anti-dumping review ad-hoc-news.de",
+      "needs_translation": true,
+      "title_zh": "Baosteel stock: Australia opens anti-dumping review",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "e0a785191fdb88e3",
+      "related_reviews": []
+    },
+    {
+      "id": "cc84da6ad68acb74d670",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOG5JcXhDSkRfalpNRjdrdk8xOGZrQS1SUUVFbk5kNTBKLWxhSEx6Y2pvSm14b1ZORmJDMDJDYWhZdnQ5TTRZWmt3Uk0wQldkSm5nOENaMnc4a2tYWnBzWGd3MUhpczZVRkdPSU9VbG1YSjJvWElEYWxZczZZbGxKckJTTVhhaEVjUjFtcWFrSFhCOUVaRThuVUpYcndoMkRVZzhHT2pzLTRFZHllQXFOUUdacGZyUGZyeGR1ZzE5eVN3OEpRR25fUklEd3hZSmM?oc=5",
+      "published_at": "2026-11-18T07:48:10Z",
+      "title_original": "Australia launches review of antidumping duties on steel plate imports from China and South Korea",
+      "first_seen": "2026-11-24T04:06:23Z",
+      "last_seen": "2026-11-24T04:06:23Z",
+      "source": {
+        "id": "rss",
+        "name": "SteelRadar",
+        "kind": "news",
+        "official": false
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-18",
+      "source_excerpt": "Australia launches review of antidumping duties on steel plate imports from China and South Korea SteelRadar",
+      "needs_translation": true,
+      "title_zh": "Australia launches review of antidumping duties on steel plate imports from China and South Korea",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "e158055c84772014",
+      "related_reviews": []
+    },
     {
       "id": "e8f69627c5f29dc569d7",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUFXLUxVMDlKNUctTGJFYlNUT1V3eWV2UlVsaXhhaDBpU3Z3aDBhMnVfQU8xeHl0VEtfSWtaQ3hiTC1LYnZGZUFZODZXc2Z2WS1MdkloQ25GeTNsZXM0azlTZEllOThRdUtIYXF0UUlPVlpEdjItYTNCMDhKZ2JuYTZNVFdpN1dqMVppTnh2cVBjZ0xEdm1ScW1aMEPSAaIBQVVfeXFMUGlDQ2FyRmo2NllPOWk1dVJ5VFRrUDQ0T3VHa2VGZExZSWpiMjlOUWJnQVB2d3VXRnVoSklGLU4tdGF6T05heHpnelBRUFZnNVJLYnpBcmZ2VGM2cDVJWFpFU2hOcWN0dEFnZXphWjNFZDJDOEFjQXVtd01GeWM5LWw3YzBpaC1JWnVZYktTY042a2xHbjN4WWVDUkRna1JEaDBR?oc=5",
       "published_at": "2026-11-23T14:18:43Z",
       "title_original": "European companies set out position on ETS reform and CBAM stability",
       "first_seen": "2026-11-24T00:25:20Z",
-      "last_seen": "2026-11-24T00:25:20Z",
+      "last_seen": "2026-11-24T04:06:23Z",
       "source": {
         "id": "rss",
         "name": "GMK Center",
@@ -35,7 +121,7 @@
       "published_at": "2026-11-19T01:14:31Z",
       "title_original": "EU extends Carbon Border Adjustment Mechanism to Iceland and Norway from 2027",
       "first_seen": "2026-11-24T00:25:20Z",
-      "last_seen": "2026-11-24T00:25:20Z",
+      "last_seen": "2026-11-24T04:06:23Z",
       "source": {
         "id": "rss",
         "name": "INSIGHT EU MONITORING",
@@ -59,7 +145,7 @@
       "published_at": "2026-11-18T09:00:00Z",
       "title_original": "Why China's Hot-Rolled Coil Is Stuck at $485 a Tonne as Buyers Wait and Europe's Quota Is Full",
       "first_seen": "2026-11-24T00:25:20Z",
-      "last_seen": "2026-11-24T00:25:20Z",
+      "last_seen": "2026-11-24T04:06:23Z",
       "source": {
         "id": "rss",
         "name": "kalkine.co.uk",
@@ -114,7 +200,7 @@
       "published_at": "2026-11-17T13:10:28Z",
       "title_original": "China October Iron Ore Imports Fall 3.79% MoM; November Arrivals Seen Rebounding",
       "first_seen": "2026-11-24T00:25:20Z",
-      "last_seen": "2026-11-24T00:25:20Z",
+      "last_seen": "2026-11-24T04:06:23Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -194,7 +280,7 @@
       "published_at": "2026-11-19T16:18:46Z",
       "title_original": "UK CBAM to cost far less than EU's for most importers, raising re-routing risk as ETS link nears",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-24T00:25:20Z",
+      "last_seen": "2026-11-24T04:06:23Z",
       "source": {
         "id": "rss",
         "name": "Fastmarkets",
@@ -284,7 +370,7 @@
       "published_at": "2026-11-17T11:06:13Z",
       "title_original": "SKF and Baowu Partner on Lower-Carbon Steel Innovation",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-24T00:25:20Z",
+      "last_seen": "2026-11-24T04:06:23Z",
       "source": {
         "id": "rss",
         "name": "Wisevoter",
@@ -404,7 +490,7 @@
       "published_at": "2026-11-19T08:36:00Z",
       "title_original": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-24T00:25:20Z",
+      "last_seen": "2026-11-24T04:06:23Z",
       "source": {
         "id": "rss",
         "name": "中国钢铁新闻网",
@@ -494,7 +580,7 @@
       "published_at": "2026-11-18T03:03:00Z",
       "title_original": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9%",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-24T00:25:20Z",
+      "last_seen": "2026-11-24T04:06:23Z",
       "source": {
         "id": "rss",
         "name": "钢铁网",
@@ -895,5 +981,5 @@
   ],
   "retry_due_count": 1,
   "next_retry_at": "2026-11-25T20:30:00Z",
-  "work_fingerprint": "e1fe8045d223f2b96386"
+  "work_fingerprint": "adb4ae939c64bf5e3a8b"
 }
