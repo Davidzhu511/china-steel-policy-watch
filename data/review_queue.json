@@ -24,8 +24,8 @@
       "source_revision": "d61b7141ee17382a",
       "published_date": "2026-11-10",
       "source_excerpt": "Find out if you need to register for CBAM when you import selected CBAM goods from the aluminium, cement, fertiliser, hydrogen, iron and steel sectors from 1 January 2027.",
-      "needs_translation": true,
-      "title_zh": "Check if you’ll need to register for Carbon Border Adjustment Mechanism (CBAM)",
+      "needs_translation": false,
+      "title_zh": "检查您是否需要注册 碳边境调节机制 (CBAM)",
       "review_attempted_at": "",
       "evidence_fingerprint": "ced1e6197b886c32",
       "related_reviews": [
@@ -61,8 +61,8 @@
       "translation_state": "pending",
       "published_date": "2026-11-24",
       "source_excerpt": "Baosteel stock: Australia opens anti-dumping review ad-hoc-news.de",
-      "needs_translation": true,
-      "title_zh": "Baosteel stock: Australia opens anti-dumping review",
+      "needs_translation": false,
+      "title_zh": "Baosteel鱼量:澳大利亚开始反倾销审查",
       "review_attempted_at": "",
       "evidence_fingerprint": "e0a785191fdb88e3",
       "related_reviews": []
@@ -85,8 +85,8 @@
       "translation_state": "pending",
       "published_date": "2026-11-18",
       "source_excerpt": "Australia launches review of antidumping duties on steel plate imports from China and South Korea SteelRadar",
-      "needs_translation": true,
-      "title_zh": "Australia launches review of antidumping duties on steel plate imports from China and South Korea",
+      "needs_translation": false,
+      "title_zh": "澳大利亚 推出 审查中国和韩国进口钢板的反倾销税",
       "review_attempted_at": "",
       "evidence_fingerprint": "e158055c84772014",
       "related_reviews": []

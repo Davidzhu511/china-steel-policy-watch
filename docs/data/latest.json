@@ -34,7 +34,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-24T04:06:23Z",
       "last_seen": "2026-11-24T04:06:23Z",
-      "source_excerpt": "Baosteel stock: Australia opens anti-dumping review ad-hoc-news.de"
+      "source_excerpt": "Baosteel stock: Australia opens anti-dumping review ad-hoc-news.de",
+      "machine_translation": {
+        "title_zh": "Baosteel鱼量:澳大利亚开始反倾销审查",
+        "excerpt_zh": "Baosteel股票:澳大利亚开放反倾销审查,",
+        "fingerprint": "70395bd0a43ecc9eb1ccdd94a5466fa507176f53d17db1bd9f5a7549b05b23a6",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T04:08:16Z"
+      }
     },
     {
       "id": "d82333dfed7cfb3c94da",
@@ -1784,7 +1792,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-24T04:06:23Z",
       "last_seen": "2026-11-24T04:06:23Z",
-      "source_excerpt": "Australia launches review of antidumping duties on steel plate imports from China and South Korea SteelRadar"
+      "source_excerpt": "Australia launches review of antidumping duties on steel plate imports from China and South Korea SteelRadar",
+      "machine_translation": {
+        "title_zh": "澳大利亚 推出 审查中国和韩国进口钢板的反倾销税",
+        "excerpt_zh": "澳大利亚 推出审查从中国和韩国钢铁拉达尔进口钢板的反倾销税",
+        "fingerprint": "4c07f9778cb4a47994e7b3b55990897cb726d78d9b7412f0124f0e9dbaeb0ef3",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T04:08:17Z"
+      }
     },
     {
       "id": "639422b18795ed6ef2c1",
