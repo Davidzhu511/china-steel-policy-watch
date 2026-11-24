@@ -4,19 +4,19 @@
   "model": "gpt-4.1-mini",
   "translation_available": false,
   "analysis_status": "unconfigured",
-  "active_items": 360,
-  "archived_items": 176,
-  "verified_items": 328,
-  "pending_analysis": 32,
+  "active_items": 356,
+  "archived_items": 180,
+  "verified_items": 334,
+  "pending_analysis": 22,
   "pending_translation": 0,
-  "blocked_items": 23,
-  "actionable_count": 9,
-  "blocked_count": 23,
-  "retry_due_count": 1,
+  "blocked_items": 22,
+  "actionable_count": 0,
+  "blocked_count": 22,
+  "retry_due_count": 0,
   "next_retry_at": "2026-11-25T20:30:00Z",
   "pending_machine_translation": 0,
   "chinese_title_coverage": 100.0,
-  "oldest_actionable_hours": 3.7,
+  "oldest_actionable_hours": 0,
   "offline_translation": {
     "status": "available",
     "translated": 3,
@@ -24,7 +24,7 @@
     "remaining": 0,
     "attempted_at": "2026-11-24T04:08:19Z"
   },
-  "machine_translated_items": 17,
+  "machine_translated_items": 7,
   "collected_items": 82,
   "processed_items": 3,
   "deferred_items": 0,
@@ -109,5 +109,6 @@
   "warnings": [
     "官方版本检查 上海国际能源交易中心 · LME上海热轧卷板合约: ValueError: Refusing a non-public URL"
   ],
-  "translation_updated_at": "2026-11-24T04:08:19Z"
+  "translation_updated_at": "2026-11-24T04:08:19Z",
+  "editorial_updated_at": "2026-11-24T08:12:49Z"
 }
