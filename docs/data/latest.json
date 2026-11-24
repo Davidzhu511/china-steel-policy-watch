@@ -34,7 +34,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-24T18:21:51Z",
       "last_seen": "2026-11-24T18:21:51Z",
-      "source_excerpt": "Commerce Finds Chinese Steel Wheels Circumvention CASRAI"
+      "source_excerpt": "Commerce Finds Chinese Steel Wheels Circumvention CASRAI",
+      "machine_translation": {
+        "title_zh": "商业发现中国钢轮规避",
+        "excerpt_zh": "商业发现中国钢轮规避",
+        "fingerprint": "fad2d00f0f3374697447f896d84f66b20179c0ab12765a9567f7e40f2f3cecb7",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T18:23:14Z"
+      }
     },
     {
       "id": "f7ef4b20e1c8e1b7569b",
@@ -69,7 +77,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-24T18:21:51Z",
       "last_seen": "2026-11-24T18:21:51Z",
-      "source_excerpt": "European energy-intensive industries seek stronger carbon leakage protection under EU ETS SteelOrbis"
+      "source_excerpt": "European energy-intensive industries seek stronger carbon leakage protection under EU ETS SteelOrbis",
+      "machine_translation": {
+        "title_zh": "欧洲能源密集型工业在EU ETS下寻求更强有力的碳渗漏保护",
+        "excerpt_zh": "欧洲能源密集型工业在EU ETS钢铁Orbis下寻求更强有力的碳泄漏保护",
+        "fingerprint": "c001c91d98c95f8f2c4b41aaefca7aa2153ac6ded6f252978942b2ddb313044e",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T18:23:15Z"
+      }
     },
     {
       "id": "421139ea624ed696243f",
@@ -109,7 +125,15 @@
         "ec_watch_pages:title": "8b2d709b6459ce3703fca64e3c9c3af612fe9a4d2af1a3c65fb73d9f4442c1c9",
         "ec_watch_pages:excerpt": "9cd1f5cd5059c8033c1d98fdfee0c21e7c05b05476e36d992bc00299eb58191b"
       },
-      "source_revision_checked_at": "2026-11-24T18:21:51Z"
+      "source_revision_checked_at": "2026-11-24T18:21:51Z",
+      "machine_translation": {
+        "title_zh": "你是否向欧盟进口过这些产品?",
+        "excerpt_zh": "24 Nov 2026 您是否将这些产品导入欧盟? 新的概况介绍可在 CBAM 通讯和新闻网页的“事实表”部分查阅。",
+        "fingerprint": "5ab774b431bea9b11b5244371974abccf00404db9d11cfc45e1af9ebe62a133b",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T18:23:16Z"
+      }
     },
     {
       "id": "f9f20740d791b5c56af9",
@@ -153,6 +177,14 @@
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
+      },
+      "machine_translation": {
+        "title_zh": "中华人民共和国的某些钢轮:对反倾销税和反补贴税命令的规避的初步肯定性确定",
+        "excerpt_zh": "美国商务部(商务部)初步确定,在越南社会主义共和国(越南)用中华人民共和国(中国)生产的热滚钢完成的某些钢轮(钢轮)的进口,绕过中国的反倾销税(AD)和反补贴税(CVD)对钢轮的订单,请有关各方对这一初步决定发表意见。",
+        "fingerprint": "1d3eeb334bb80bf49509a7e46fb71ff185ef56ee6bb3d075e9e2caf41cb43a83",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T18:23:18Z"
       }
     },
     {
@@ -922,7 +954,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-24T18:21:51Z",
       "last_seen": "2026-11-24T18:21:51Z",
-      "source_excerpt": "Tata Steel shares slide nearly 2% as EU anti-dumping duty and bearish technicals weigh TradingView"
+      "source_excerpt": "Tata Steel shares slide nearly 2% as EU anti-dumping duty and bearish technicals weigh TradingView",
+      "machine_translation": {
+        "title_zh": "Tata Steel 股份随着欧盟 反倾销税 和熊式技术的重量滑动, 几乎为 2%",
+        "excerpt_zh": "Tata Steel 股份作为欧盟 反倾销税 和熊式技术称重贸易视图, 几乎滑动 2%",
+        "fingerprint": "c0ec7fd7711f15355b920c469ee4f87318079f3a0c2df37c6cb8e45ce38811b3",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T18:23:23Z"
+      }
     },
     {
       "id": "2903ad7bb361edebf948",
@@ -1374,7 +1414,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-24T18:21:51Z",
       "last_seen": "2026-11-24T18:21:51Z",
-      "source_excerpt": "EU steel import quotas under FTA-CSQ and FTA-Others exhausted for several products EUROMETAL"
+      "source_excerpt": "EU steel import quotas under FTA-CSQ and FTA-Others exhausted for several products EUROMETAL",
+      "machine_translation": {
+        "title_zh": "欧盟的钢进口配额,在自由贸易区-加塞岛和自由贸易区-其他产品已耗尽",
+        "excerpt_zh": "欧盟的钢进口配额,在自由贸易区-加塞岛和自由贸易区-其他产品已耗尽",
+        "fingerprint": "c53abc29bc910d69073b2c2b326a84aac095012a65bedd1ac2fa1e9667d0c364",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T18:23:25Z"
+      }
     },
     {
       "id": "50cf099cd2134d08ca40",
@@ -2157,7 +2205,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-24T18:21:51Z",
       "last_seen": "2026-11-24T18:21:51Z",
-      "source_excerpt": "Canada expands tariff relief on Chinese steel and aluminium products Shanghai Metals Market"
+      "source_excerpt": "Canada expands tariff relief on Chinese steel and aluminium products Shanghai Metals Market",
+      "machine_translation": {
+        "title_zh": "加拿大扩大了对中国钢铁和铝产品的关税减免",
+        "excerpt_zh": "加拿大扩大对中国钢铁和铝制品的关税减免",
+        "fingerprint": "b71914201bd39e79e8b8b977536512fd2c4cce12d0873d6cfa0e66a3890a71c5",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T18:23:25Z"
+      }
     },
     {
       "id": "8468027f1c0261280c86",
