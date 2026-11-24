@@ -8,21 +8,23 @@
   "archived_items": 175,
   "verified_items": 329,
   "pending_analysis": 29,
-  "pending_translation": 6,
+  "pending_translation": 0,
   "blocked_items": 23,
   "actionable_count": 6,
   "blocked_count": 23,
   "retry_due_count": 1,
   "next_retry_at": "2026-11-25T20:30:00Z",
-  "pending_machine_translation": 6,
-  "chinese_title_coverage": 98.3,
+  "pending_machine_translation": 0,
+  "chinese_title_coverage": 100.0,
   "oldest_actionable_hours": 0.0,
   "offline_translation": {
-    "status": "queued",
-    "translated": 0,
-    "warnings": []
+    "status": "available",
+    "translated": 6,
+    "warnings": [],
+    "remaining": 0,
+    "attempted_at": "2026-11-24T00:27:20Z"
   },
-  "machine_translated_items": 8,
+  "machine_translated_items": 14,
   "collected_items": 85,
   "processed_items": 6,
   "deferred_items": 0,
@@ -104,5 +106,6 @@
       "consecutive_failures": 0
     }
   ],
-  "warnings": []
+  "warnings": [],
+  "translation_updated_at": "2026-11-24T00:27:20Z"
 }

@@ -79,7 +79,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-24T00:25:20Z",
       "last_seen": "2026-11-24T00:25:20Z",
-      "source_excerpt": "European companies set out position on ETS reform and CBAM stability GMK Center"
+      "source_excerpt": "European companies set out position on ETS reform and CBAM stability GMK Center",
+      "machine_translation": {
+        "title_zh": "欧洲公司提出了对ETS改革和CBAM稳定的立场",
+        "excerpt_zh": "欧洲公司提出了对ETS改革和CBAM稳定GMK中心的立场",
+        "fingerprint": "eb1218b2960d1e9315f41af18df1db4545cec022f22036df46e12e03b11b016b",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T00:27:14Z"
+      }
     },
     {
       "id": "df0c24702f33c5b996b8",
@@ -1175,7 +1183,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-24T00:25:20Z",
       "last_seen": "2026-11-24T00:25:20Z",
-      "source_excerpt": "EU extends Carbon Border Adjustment Mechanism to Iceland and Norway from 2027 INSIGHT EU MONITORING"
+      "source_excerpt": "EU extends Carbon Border Adjustment Mechanism to Iceland and Norway from 2027 INSIGHT EU MONITORING",
+      "machine_translation": {
+        "title_zh": "欧盟将碳边境调节机制从2027扩展到冰岛和挪威",
+        "excerpt_zh": "欧盟将碳边境调节机制从2027 INSHight 扩展到冰岛和挪威",
+        "fingerprint": "88d82b172f3935769d369e650e6023a3050e0cccd3c4f5c6e4216a73322c2047",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T00:27:15Z"
+      }
     },
     {
       "id": "690b4f507cfe813e72bb",
@@ -1605,7 +1621,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-24T00:25:20Z",
       "last_seen": "2026-11-24T00:25:20Z",
-      "source_excerpt": "Why China's Hot-Rolled Coil Is Stuck at $485 a Tonne as Buyers Wait and Europe's Quota Is Full kalkine.co.uk"
+      "source_excerpt": "Why China's Hot-Rolled Coil Is Stuck at $485 a Tonne as Buyers Wait and Europe's Quota Is Full kalkine.co.uk",
+      "machine_translation": {
+        "title_zh": "为何中国的热熔化的煤炭 以每吨485美元 买家等待,欧洲的配额是满的",
+        "excerpt_zh": "为何中国的热熔化的煤炭 以一吨的485作为买家等待, 欧洲的配额是全Kalkine.co.",
+        "fingerprint": "ade71360f1f3d3dfb71f4ddd3172905ba0fcbfefb57565ae7a54eb1264dd73f8",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T00:27:16Z"
+      }
     },
     {
       "id": "535bac8d82a6856339b7",
@@ -1640,7 +1664,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-24T00:25:20Z",
       "last_seen": "2026-11-24T00:25:20Z",
-      "source_excerpt": "The UK to introduce melt-and-pour reporting for steel imports in 2027 GMK Center"
+      "source_excerpt": "The UK to introduce melt-and-pour reporting for steel imports in 2027 GMK Center",
+      "machine_translation": {
+        "title_zh": "联合王国对2027的钢进口实行融和与粉末报告制度",
+        "excerpt_zh": "联合王国在2027 GMK中心对钢铁进口实行熔化与粉末报告",
+        "fingerprint": "fcec52081cca509d5c814b144cb3eebd10717db96d84e767a98a8a33b0fc7dce",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T00:27:17Z"
+      }
     },
     {
       "id": "22f061cf816a006d8ed3",
@@ -2057,7 +2089,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-24T00:25:20Z",
       "last_seen": "2026-11-24T00:25:20Z",
-      "source_excerpt": "China October Iron Ore Imports Fall 3.79% MoM; November Arrivals Seen Rebounding - News and Statistics IndexBox"
+      "source_excerpt": "China October Iron Ore Imports Fall 3.79% MoM; November Arrivals Seen Rebounding - News and Statistics IndexBox",
+      "machine_translation": {
+        "title_zh": "中国10月 铁矿石进口 秋天 3.79% MOM; 11月 抵达 Seen Rebound",
+        "excerpt_zh": "中国10月 铁矿石进口 秋季 3.79% MOM; 11月 抵达 种子 重新绑定 - 新闻和统计索引Box",
+        "fingerprint": "d6048c7d8793929ee311e3d4243328ba2eca9b8a385454cd76c40b64f5f51462",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T00:27:19Z"
+      }
     },
     {
       "id": "a7587537a3d4b54a3cda",
@@ -2320,7 +2360,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-24T00:25:20Z",
       "last_seen": "2026-11-24T00:25:20Z",
-      "source_excerpt": "Why China's Export Hot-Rolled Coil Has Slipped to $478.50 as Ore Stocks Build and Seasonal Demand Eases kalkine.co.uk"
+      "source_excerpt": "Why China's Export Hot-Rolled Coil Has Slipped to $478.50 as Ore Stocks Build and Seasonal Demand Eases kalkine.co.uk",
+      "machine_translation": {
+        "title_zh": "为何中国的热熔炉出口随着储油量的建设和季节需求减缓而滑落到478.50",
+        "excerpt_zh": "为什么中国的热熔化的煤炭出口 已经滑落到478.50,因为矿石储备 和季节需求 Eases kalkine.co.",
+        "fingerprint": "854923510f194f7720f9224cb9382484229abb8588d7c0c97f00b47c8be3fbe4",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-24T00:27:20Z"
+      }
     },
     {
       "id": "9af2849f3f703687330b",
