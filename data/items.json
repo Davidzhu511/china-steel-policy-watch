@@ -1131,6 +1131,12 @@
       "evidence_url": "https://public-inspection.federalregister.gov/2026-23942.pdf",
       "review_method": "source_checked",
       "reviewed_at": "2026-11-24T20:36:46Z",
+      "related_sources": [
+        {
+          "name": "CASRAI",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZnB6eVl1bVpYdEFtUlVuQndmQ2tTRWlUME5Cd0kwXzI5TVpKRno3ZU1fb1JJR2t6cXpZRkhvZm4tUWVFY0puNkd2N1Y4T3VtNWRlWEplQ1o2TDZQeUY5Wjh4cjgzb012LUJEcGZsUTV5OHFEd1NNck5XajVBcU1UZnhHRVlpaGkyZzN3V1huR2t2T1Q2V1lEay1ZNzhUdw?oc=5"
+        }
+      ],
       "source_translation": {
         "title_zh": "美国初裁未认定印尼使用中国热轧或冷轧基料生产的特定耐腐蚀钢板构成双反规避",
         "translated_at": "2026-11-24T20:36:46Z",
@@ -1445,6 +1451,10 @@
         {
           "name": "Traders Union",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnVCNHhpcmowUDRTQldWVDNlQkVkLVpjejZacXJOMDN1Nm1FWklnYU03Y1JfU3BYdTBiQVl2RVdraGdEdjZGQ0pZRlpoMVF0U1lvUU9GYmRTekVObDVJemZ4cTB6S3lCTTZTXzU1Rl9fWFl1UEhUenhRQ2s2ZUxCcWI2UDVMLVdhT0V1S1Jpcjd3bk5qa3lPNDNRWF8?oc=5"
+        },
+        {
+          "name": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdm5SRktERndwX1YweTNLekd0OE9ZdHluanowUnFtT2tEek5SSXd2bFpIbnZoajNoUHVBSUxOSmg4Q2kxU0FETzlyZkVfdVVwaHdwTnNob3VGY3c1WVQxLVhhby0yckxHQnZGdkszR1JKbTJXdi13b0ZfTkRpSks2dV81STluUEh3NF9xMzlRQ2lfOFoyZUctYVBVYllpS0YtTFRIVDFMMFc0UTNpaTdZZlR1MEtZanBVMWNWaGctOGcxNGdnRUltbzdR?oc=5"
         }
       ],
       "source_observation": {
@@ -1629,6 +1639,10 @@
         {
           "name": "Maritime Gateway",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa3UydzNsOFpmc1FtdTBjZFBxaEIyU2RPZ1FHMDMyWmlEdEZJWUtVQ19vZ2RJV3lZSnRacTlFWmZrTTBCMG5KcVY4M0Y1Ul9XWElMN1JZM0RobXA5Ml9CR0RkenZvRGVsQTVWVEtVRHR3cmZUT1hNcHlUTzdTR0pDeFVmdFFzQldVcVBwT25WNmRuckJkTWlKdXFLRnhtaTR5TmNzdEtleDU2WUVEVkE?oc=5"
+        },
+        {
+          "name": "Vietnam Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb3BEU0Z1c2YzMFBCVW9vLTFWSThJNVlPUDVxQjZUTGVBU1oxN1hMdGIxclVMRnlKckxkbjZzdkFaOEVRQVFYWU5CeldpdURfSWF5eE82R1BRNmRqdlJNSHFHcGljakR4SDRRX0phdGpUNjA4VURSMmhNSFg2RTBiQnA0c0gyQzZDRGxneFh0MkVlcDZuNzd5cTBKN2kxdw?oc=5"
         }
       ],
       "source_observation": {
@@ -8173,13 +8187,13 @@
     },
     {
       "id": "18b5788ec662b75b0442",
-      "title_zh": "Negotiations finalised to link EU and UK Emissions Trading Systems",
-      "title_en": "Negotiations finalised to link EU and UK Emissions Trading Systems",
+      "title_zh": "欧英完成ETS互联谈判，目标2028年运行，欧盟CBAM豁免仍待修订附件",
+      "title_en": "EU and UK conclude ETS-linking talks with 2028 target; EU CBAM exemption still requires a legal act",
       "title_original": "Negotiations finalised to link EU and UK Emissions Trading Systems",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "欧委会气候行动总司11月20日确认欧英完成ETS互联协议谈判，目标2028年1月1日开始适用，尚待双方完成批准及生效程序。欧委会税务与海关总司的配套说明指出，欧盟拟依CBAM条例第2条第11款以授权法案修订附件III，完成法律步骤后才可将英国列入并豁免英国原产货物。英国另在11月23日公布原产地豁免草案，拟在获御准后追溯适用于2027年1月1日起合格的欧盟、欧洲经济区及瑞士原产货物。两套制度的实施步骤和实际生效日分别判断。",
+      "summary_en": "DG CLIMA confirmed on 20 November that the EU and UK concluded ETS-linking negotiations, targeting 1 January 2028 subject to ratification and entry into force. DG TAXUD says a delegated act under Article 2(11) must amend Annex III before UK-origin goods can be exempted from EU CBAM. The UK separately published its 23 November origin-exemption draft, with intended retrospective effect for qualifying EU, EEA and Swiss goods imported from 1 January 2027 after Royal Assent.",
+      "impact_zh": "2027年中国钢材经英国转运至欧盟时，继续按适用的非优惠原产地、报关税号和时间核算欧盟CBAM。英欧双向流转订单分别确认进口端规则，合同可约定正式豁免文件生效后的成本调整。",
+      "impact_en": "For 2027 Chinese steel routed through the UK into the EU, apply the relevant non-preferential origin, customs classification and entry timing. Assess each direction of EU–UK trade independently and agree how contracts will reconcile any legally effective future exemption.",
       "url": "https://climate.ec.europa.eu/news-other-reads/news/negotiations-finalised-link-eu-and-uk-emissions-trading-systems-2026-11-20_en",
       "published_at": "2026-11-20T00:00:00Z",
       "source_published_date": "2026-11-20",
@@ -8192,16 +8206,22 @@
       "country": "欧盟",
       "region": "欧洲",
       "category": "碳与环保",
-      "status": "待核对",
+      "status": "官方核验",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
+      "tags": [
+        "欧盟",
+        "英国",
+        "ETS",
+        "CBAM",
+        "原产地"
+      ],
       "tags_en": [],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-24T22:48:15Z",
       "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "News article 20 November 2026 Negotiations finalised to link EU and UK Emissions Trading Systems Negotiations finalised to link EU and UK Emissions Trading Systems 2 min read",
@@ -8219,6 +8239,23 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-24T22:51:36Z"
+      },
+      "coverage": "按当前队列版本核对DG CLIMA原文，对照欧委会DG TAXUD附件III修订口径（https://taxation-customs.ec.europa.eu/news/eu-and-uk-agree-link-emission-trading-systems-ets-2026-11-20_en）、英国峰会说明（https://www.gov.uk/government/publications/ukeu-summit-2026-key-documents/uk-eu-summit-2026-explainer-ets-linking-html）及11月23日草案（https://www.gov.uk/government/publications/draft-legislation-exemption-for-eu-eea-and-swiss-origin-goods-from-cbam）。对已报道的11月20日峰会结果补足两边的法律步骤。",
+      "follow_up": "持续核对双方批准进度、欧盟附件III授权法案及英国草案御准日期。",
+      "evidence_url": "https://climate.ec.europa.eu/news-other-reads/news/negotiations-finalised-link-eu-and-uk-emissions-trading-systems-2026-11-20_en",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-25T08:05:56Z",
+      "related_sources": [
+        {
+          "name": "Energy & Climate Intelligence Unit | ECIU",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aV3AyVk5ZNFhDODZQVm9OaEdlbVBHSDBXMFBJMFpQVjB4c1l1a1M0UWFLSU5PRXVUcF9FMTdIUWFEN1JMR3ZiUGhEekZMX0wtMXhEckdWVjRERHVRYW5RUWFwZFRGYlMwZWVPWU9QRXo?oc=5"
+        }
+      ],
+      "source_translation": {
+        "title_zh": "欧盟与英国完成排放交易体系互联谈判",
+        "translated_at": "2026-11-25T08:05:56Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -11183,13 +11220,13 @@
     },
     {
       "id": "9d45d5240e246f9c2abd",
-      "title_zh": "关税也拦不住！AI热潮点燃美国“抢钢大战”，亚洲低价钢材大举回流",
-      "title_en": "关税也拦不住！AI热潮点燃美国“抢钢大战”，亚洲低价钢材大举回流",
+      "title_zh": "美国热卷报价上涨，越南10月钢材进口许可量回升但美国进口总量仍承压",
+      "title_en": "US hot-rolled coil offers rise as Vietnamese steel permits rebound while aggregate US imports lag",
       "title_original": "关税也拦不住！AI热潮点燃美国“抢钢大战”，亚洲低价钢材大举回流",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "彭博11月24日报道，美国数据中心及电力基建拉动用钢需求，Nucor当周公布的热卷现货标价升至每短吨1330美元。AISI据美国商务部SIMA数据发布，10月全部钢材进口许可申请量221.4万短吨，较9月许可低11%；越南为21.3万短吨，较9月最终进口量高119%，韩国为40.5万短吨，较9月最终进口量低22%。AISI所列前10个月韩国同比增长68%对应整体钢材来源统计，含10月许可，不能用作韩国板材单一品类实绩。同口径下美国前10个月钢材进口总量同比下降6%。数据中心推动采购为报道归因。",
+      "summary_en": "Bloomberg reported on 24 November that data centres and power infrastructure were supporting US steel demand, and cited Nucor’s advertised HRC spot price of USD 1,330 per short ton. AISI’s SIMA release shows October total applications of 2.214 million net tons, down 11% from September permits; Vietnam was 213,000 net tons, up 119% against September final imports, while South Korea was 405,000, down 22% on that comparison. AISI’s 68% year-to-date increase for South Korea is a total-steel source-country figure; combined US steel imports were down 6% in the first ten months on the same preliminary basis.",
+      "impact_zh": "美国价格走强可能吸引部分日韩及越南热卷或涂镀资源，做这些来源的竞争报价时请区分许可、到货和最终进口量。考虑中国原产钢材输美订单时，先由进口商核对232措施、适用反倾销和反补贴及原产地，再复核实际可成交的到岸净价。",
+      "impact_en": "Firmer US prices could attract some Asian HRC and coated products. Separate permits, arrivals and final entries when benchmarking competing offers. Have the importer confirm Section 232 exposure, applicable trade remedies and origin before pricing Chinese-origin shipments.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlhIdEMwZFVsTS1lM1VWQk1kcUY4X1J3UVR5dEhwY05HNkNrOWFFVUN1RHg0UHBVUm94TDVwTlpRbDZHZE5waW92VFd2cGI4N1hSWklOaXNjdDd5WkFvbFp5dl9rMnJESFk2VmpMZmdINU1oUGFjLTYtUTZaeU5hdHdWTkYtRTN0?oc=5",
       "published_at": "2026-11-25T01:42:29Z",
       "source_published_date": "2026-11-25",
@@ -11202,19 +11239,30 @@
       "country": "全球",
       "region": "全球",
       "category": "市场与产能",
-      "status": "新闻",
+      "status": "原文核验／市场报道",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
+      "tags": [
+        "美国",
+        "热轧卷",
+        "越南",
+        "韩国",
+        "进口许可"
+      ],
       "tags_en": [],
       "language": "zh",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-25T02:49:37Z",
       "last_seen": "2026-11-25T02:49:37Z",
-      "source_excerpt": "关税也拦不住！AI热潮点燃美国“抢钢大战”，亚洲低价钢材大举回流 Sohu"
+      "source_excerpt": "关税也拦不住！AI热潮点燃美国“抢钢大战”，亚洲低价钢材大举回流 Sohu",
+      "coverage": "核对财媒转引的彭博报道（https://finance.yahoo.com/markets/commodities/articles/soaring-us-steel-prices-drive-221257412.html）、智通财经同名报道（https://cn.investing.com/news/stock-market-news/article-3685060）与AISI 10月SIMA发布稿。热卷标价归因彭博，许可数据与最终实绩分开，未把新闻标题解读为总体进口反转。",
+      "follow_up": "按美国后续最终统计和钢厂实盘复核产品与来源变化。",
+      "evidence_url": "https://www.steel.org/2026/11/aisi-releases-october-sima-imports-data-7/",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-25T08:05:56Z"
     },
     {
       "id": "3aaf72deba23e2b50849",
@@ -11257,17 +11305,28 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-24T22:51:25Z"
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "CASRAI转述美国11月24日针对中国、越南两种基料在印尼制成耐腐蚀钢板的否定性反规避初裁，已有两条官方研判。归至中国原料主条，并保留越南案号。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-25T08:05:56Z",
+      "duplicate_of": "https://federalregister.gov/documents/2026/11/24/2026-23942/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-preliminary-negative",
+      "source_translation": {
+        "title_zh": "美国对印尼加工的特定耐腐蚀钢板作出反规避否定性初裁",
+        "translated_at": "2026-11-25T08:05:56Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
       "id": "76b68ed1547b46d9f956",
-      "title_zh": "Chinese Steel Rebar Futures Rebound From 17-Month Low to CNY 3,030 per Tonne",
-      "title_en": "Chinese Steel Rebar Futures Rebound From 17-Month Low to CNY 3,030 per Tonne",
+      "title_zh": "中国螺纹钢期货回升至3030元每吨，冬季现货需求仍偏弱",
+      "title_en": "China rebar futures recover to CNY 3,030/t while winter spot demand stays soft",
       "title_original": "Chinese Steel Rebar Futures Rebound From 17-Month Low to CNY 3,030 per Tonne",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "IndexBox与Trading Economics 11月24日发布的机构行情称，中国螺纹钢期货从11月17日的2960元/吨低位回升至3030元/吨。两处采用相同数据来源。SMM同日现货日评指出，淡季需求下市场情绪仍谨慎，个别市场品牌通过降价促成交易。机构跟踪的期货价位和市场评论各有时间及样本口径。",
+      "summary_en": "On 24 November, IndexBox and its source Trading Economics reported a rise in Chinese rebar futures to CNY 3,030/t from CNY 2,960/t on 17 November. An SMM daily spot report said off-season buying remained cautious, with some brands discounting to close transactions.",
+      "impact_zh": "对螺纹钢、方坯询单，用钢厂当天实盘、规格、船期和到岸成本重新确认有效报价；关注现货成交能否跟随盘面，判断此次回升是否传导至出口。",
+      "impact_en": "For rebar or billet inquiries, check firm mill offers matched to specification and shipment date, then recalculate the landed cost. Watch executed spot trades before assuming futures gains will feed through to exports.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObkd6SzllaEREUmJMdWI1Tk0zT2FiQmJ3NTdIbzJVbGRJbFVoY0NpSVhXeVd1MlctcG9lOTRZVXhCYU1FT19aaVJJOTJybVVxZWl3aTNNLWtBM3NpU1I1bTljQ1dPZ1lxQVRPS1lmdDJRU2VYR1M1TzZKZ2d5eFB0RVJ6dmlqNG9Kb2lSZmc0S0pWdmQzdDFURVNzeGVaNWtlRHBEU3FTQWg?oc=5",
       "published_at": "2026-11-24T18:50:46Z",
       "source_published_date": "2026-11-24",
@@ -11280,16 +11339,21 @@
       "country": "全球",
       "region": "全球",
       "category": "市场与产能",
-      "status": "新闻",
+      "status": "原文核验／市场报道",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
+      "tags": [
+        "中国",
+        "螺纹钢",
+        "期货",
+        "长材"
+      ],
       "tags_en": [],
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-24T22:48:15Z",
       "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Chinese Steel Rebar Futures Rebound From 17-Month Low to CNY 3,030 per Tonne IndexBox",
@@ -11300,6 +11364,17 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-24T22:51:26Z"
+      },
+      "coverage": "核对IndexBox原文（https://www.indexbox.io/blog/chinese-steel-rebar-futures-rebound-from-17-month-low-to-cny-3030-per-tonne/）、其所引Trading Economics文章及SMM螺纹钢现货日评（https://news.metal.com/newscontent/CLFJL6KKVCHEBFF44YYZ7HDQNWDQRWBF43ACZOQ-smm-rebar-daily-review-traditional-demand-off-season-building-materials-prices-lack-upward-momentum）。未将机构行情写为交易所特定合约结算价。",
+      "follow_up": "继续以钢厂实盘、钢材库存和现货成交检查出口报价传导。",
+      "evidence_url": "https://tradingeconomics.com/commodity/steel/news/603905",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-25T08:05:56Z",
+      "source_translation": {
+        "title_zh": "中国螺纹钢期货从17个月低位回升至3030元每吨",
+        "translated_at": "2026-11-25T08:05:56Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -11389,7 +11464,11 @@
       "translation_state": "pending",
       "first_seen": "2026-11-24T22:48:15Z",
       "last_seen": "2026-11-25T02:49:37Z",
-      "source_excerpt": "美国将407类钢铁和铝衍生产品纳入关税清单 Sohu"
+      "source_excerpt": "美国将407类钢铁和铝衍生产品纳入关税清单 Sohu",
+      "review_disposition": "excluded",
+      "review_note_zh": "搜狐原文刊于2025年8月20日，报道的是于2025年8月18日生效的美国232第一轮衍生品纳入，属于旧闻重新进入队列。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-25T08:05:56Z"
     },
     {
       "id": "f7ef4b20e1c8e1b7569b",
@@ -11606,13 +11685,13 @@
     },
     {
       "id": "6a6a824d97e3962d1a86",
-      "title_zh": "CBAM 合规链条上的三类机构：核查、咨询、数字化平台的能力边界与选型建议",
-      "title_en": "CBAM 合规链条上的三类机构：核查、咨询、数字化平台的能力边界与选型建议",
+      "title_zh": "欧盟CBAM实际排放核查须确认认可范围及独立性，咨询平台可协助准备数据",
+      "title_en": "EU CBAM actual-emissions verification requires appropriate accreditation and independence",
       "title_original": "CBAM 合规链条上的三类机构：核查、咨询、数字化平台的能力边界与选型建议",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "11月23日发布的服务商文章介绍咨询、数据平台及核查分工。欧盟CBAM条例规定，申报采用实际排放时须按要求经认可核查机构核查，适用默认值的路径仍应按现行规则判断。授权条例(EU) 2025/2551附件I第1.7节规定核查独立性与利益冲突要求，核查方参与为同一经营者制定排放监测、报告或技术支持等活动，可能产生不可接受的风险。服务商宣传中的效率数据、资质和产品覆盖需分别查证，报道提及的下游范围仍处立法阶段。",
+      "summary_en": "A vendor article describes consulting, data platforms and verification roles. EU CBAM requires actual emissions used for reporting to be verified by an accredited verifier as applicable; default-value options remain subject to the rules. Annex I, Section 1.7 of Delegated Regulation (EU) 2025/2551 sets impartiality and conflict rules, including risks from the verifier’s involvement in emissions monitoring, reporting or related technical support. Vendor performance claims and accreditation scope require independent confirmation.",
+      "impact_zh": "钢厂和欧盟进口商在签约前核对实际签发机构、认可证书和产品活动范围，并确认拟核查排放数据与咨询成果之间的独立性。用热卷、冷卷和镀锌卷各自税号对应的设施与前驱体资料留档，按订单安排交付。",
+      "impact_en": "Before engagement, have the mill and EU importer confirm the report issuer, accreditation and activity scope, and check independence from the team that prepared the emissions data. Map HRC, CRC and galvanized steel to the relevant plant and precursor records.",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0OFZyNVNFejBqVlM4Nm96SlFEQzBlRk1aRjlwWkk5Q3pDekdVNW1lUU1ueW9xMHVabDlYVE9xeTJ0R19EZWVwWmN1YzZWZVVwMy1Db09MOVRYSTdIZ2d6RQ?oc=5",
       "published_at": "2026-11-23T09:21:03Z",
       "source_published_date": "2026-11-23",
@@ -11625,19 +11704,29 @@
       "country": "全球",
       "region": "全球",
       "category": "碳与环保",
-      "status": "新闻",
+      "status": "官方规则／行业解读",
       "importance": "中",
       "products": [],
       "products_en": [],
-      "tags": [],
+      "tags": [
+        "欧盟",
+        "CBAM",
+        "核查",
+        "实际排放"
+      ],
       "tags_en": [],
       "language": "zh",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-24T22:48:15Z",
       "last_seen": "2026-11-25T02:49:37Z",
-      "source_excerpt": "CBAM 合规链条上的三类机构：核查、咨询、数字化平台的能力边界与选型建议 碳索储能网"
+      "source_excerpt": "CBAM 合规链条上的三类机构：核查、咨询、数字化平台的能力边界与选型建议 碳索储能网",
+      "coverage": "核读阳光慧碳发布的碳索储能网文章（https://cn.solarbe.com/news/20261123/50040082.html），核对CBAM基础条例（https://eur-lex.europa.eu/eli/reg/2023/956/2025-10-20/eng）及核查认可授权条例附件I第1.7节。不采纳服务商推荐、未核证商业数据或尚未完成立法的下游清单。",
+      "follow_up": "选聘前要求候选核查方提供可核验的认可证书及适用活动范围。",
+      "evidence_url": "https://eur-lex.europa.eu/eli/reg_del/2025/2551/oj/eng",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-25T08:05:56Z"
     },
     {
       "id": "be44c7133a18b4af38ad",
@@ -12333,6 +12422,17 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-25T02:51:20Z"
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "MT Newswires转述英国2026/32号韩国热轧中厚板终裁，适用时间及企业税率已由看板主条核验。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-25T08:05:56Z",
+      "duplicate_of": "https://gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping",
+      "source_translation": {
+        "title_zh": "英国对原产韩国的热轧中厚板征收最终反倾销税",
+        "translated_at": "2026-11-25T08:05:56Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -12953,6 +13053,17 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-25T02:51:20Z"
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "Euronews转述中加11月17日工商安排；钢铝部分的2028年底延期和限于23个钢铁税目、9个铝税目已归入既有主条。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-25T08:05:56Z",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ0plSEc4UXZRcjNIUU11WWlKSFNQTWg3cDB5RXlSelhvX1ZFalQzNVY3MGVGLXZuS0lnWWZ1Z2lDREFHUThXVEdkVktKR0tuMndUZjJYQm1IWF9nUkRmOEc2UzRKd2JmSmt1Wk9FbW15OVdsQWpWN0szbnlGN09Mb1dUMXBTLWNrMDdDVnQ4ZnZ1UQ?oc=5",
+      "source_translation": {
+        "title_zh": "加拿大与中国扩大猪肉、海产品及部分钢铝产品关税减免",
+        "translated_at": "2026-11-25T08:05:56Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -13046,6 +13157,17 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-25T02:51:21Z"
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "越南媒体转述同一欧盟2026/2547号冷轧终裁，越南16%税率已由欧委会已核验主条覆盖。报道所述越南特殊市场情形为本案正常价值判定背景。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-25T08:05:56Z",
+      "duplicate_of": "https://policy.trade.ec.europa.eu/news/commission-imposes-anti-dumping-duties-certain-cold-rolled-flat-steel-products-2026-11-16_en",
+      "source_translation": {
+        "title_zh": "欧盟对越南部分冷轧钢材征收反倾销税",
+        "translated_at": "2026-11-25T08:05:56Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -13678,6 +13800,10 @@
         {
           "name": "Shanghai Metals Market",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeGJMV1BsZXE0ZktrTnYxRzlrVWtGbF9QUi1qa2xiX2VZV2h5MVNHZ3pvTzNHS3hlV0RIUm1NenU0X2p6S3FieHBTdGZQaXZnMUlnMWhUM1d0RFFGaVZFRHNtekFhMjFiZ3AzOXhiLVJlX0lSZmdJVUhzWVBMNXJwVHViRllNWXJPLWtwWXpBUXRheVVXTUtmd2ZBN3ZjMlFFRlV4TVhJRkZqVS1lUVJrSUQ1RWdTSFNhbHp3dkg3WFBaRGFzWHF6VUJHYUNCYmRGQnRvSkQzaUUySjQ?oc=5"
+        },
+        {
+          "name": "Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHZPa2gxQlJjcVhkNnNscXJINF9OMXM3WUdaeG41TVF5dEdLbTlpajR2YnRSSUJHZm9tQS1Yc3ZoZXI1MlR6ZlRvaU1JbURmaVAxWF9yMlBNMk1fN3ItVFRRV19GZk1HZFVSYVJSNGZzVTAxTTk2MjN6Wm9nTmxKejVFSmppdjRNZ3BCUlhuLU9lNmN0NVJ0RGY3TkYxbW85ei1wdWI5UmhWVlJRX2NhUDAwMU15S1JpejdabEFTVTc?oc=5"
         }
       ]
     },
