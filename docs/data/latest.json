@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-11-24T22:48:15Z",
+  "generated_at": "2026-11-25T02:49:37Z",
   "items": [
+    {
+      "id": "9d45d5240e246f9c2abd",
+      "title_zh": "关税也拦不住！AI热潮点燃美国“抢钢大战”，亚洲低价钢材大举回流",
+      "title_en": "关税也拦不住！AI热潮点燃美国“抢钢大战”，亚洲低价钢材大举回流",
+      "title_original": "关税也拦不住！AI热潮点燃美国“抢钢大战”，亚洲低价钢材大举回流",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlhIdEMwZFVsTS1lM1VWQk1kcUY4X1J3UVR5dEhwY05HNkNrOWFFVUN1RHg0UHBVUm94TDVwTlpRbDZHZE5waW92VFd2cGI4N1hSWklOaXNjdDd5WkFvbFp5dl9rMnJESFk2VmpMZmdINU1oUGFjLTYtUTZaeU5hdHdWTkYtRTN0?oc=5",
+      "published_at": "2026-11-25T01:42:29Z",
+      "source_published_date": "2026-11-25",
+      "source": {
+        "id": "rss",
+        "name": "Sohu",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "市场与产能",
+      "status": "新闻",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "zh",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-11-25T02:49:37Z",
+      "last_seen": "2026-11-25T02:49:37Z",
+      "source_excerpt": "关税也拦不住！AI热潮点燃美国“抢钢大战”，亚洲低价钢材大举回流 Sohu"
+    },
     {
       "id": "3aaf72deba23e2b50849",
       "title_zh": "Commerce Department Issues Negative Circumvention Rulings on Corrosion-Resistant Steel via Indonesia",
@@ -33,7 +68,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-24T22:48:15Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Commerce Department Issues Negative Circumvention Rulings on Corrosion-Resistant Steel via Indonesia CASRAI",
       "machine_translation": {
         "title_zh": "商业部通过印度尼西亚发布关于腐蚀-抵抗钢的负面规避裁定",
@@ -76,7 +111,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-24T22:48:15Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Chinese Steel Rebar Futures Rebound From 17-Month Low to CNY 3,030 per Tonne IndexBox",
       "machine_translation": {
         "title_zh": "中国钢棒未来公司从17-Month Low 到 CNY 3,030 每吨",
@@ -119,7 +154,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Commerce Finds Chinese Steel Wheels Circumvention CASRAI",
       "machine_translation": {
         "title_zh": "商业发现中国钢轮规避",
@@ -162,7 +197,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-24T22:48:15Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "美国将407类钢铁和铝衍生产品纳入关税清单 Sohu"
     },
     {
@@ -197,7 +232,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "European energy-intensive industries seek stronger carbon leakage protection under EU ETS SteelOrbis",
       "machine_translation": {
         "title_zh": "欧洲能源密集型工业在EU ETS下寻求更强有力的碳渗漏保护",
@@ -240,7 +275,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "24 Nov 2026 Do you import any of these products into the EU? The new factsheet is available in the “Factsheets” section of the CBAM communication and news webpage.",
       "source_observation": {
         "ec_watch_pages:title": "8b2d709b6459ce3703fca64e3c9c3af612fe9a4d2af1a3c65fb73d9f4442c1c9",
@@ -288,7 +323,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines that imports of certain steel wheels (steel wheels), completed in the Socialist Republic of Vietnam (Vietnam) using hot- rolled steel (HRS) produced in the People's Republic of China (China), are circumventing the antidumping duty (AD) and countervailing duty (CVD) orders on steel wheels from China. Interested parties are invited to comment on this preliminary determination.",
       "source_observation": {
         "federal_register:title": "09245a4cc8754ecad62413f941a5c13cbe1b2da302b7bfb3fbe345c5eb22dc69",
@@ -340,7 +375,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines on a country-wide basis that imports of certain corrosion- resistant steel products (CORE) completed in Indonesia using hot-rolled steel (HRS) or cold-rolled steel (CRS) manufactured in the People's Republic of China (China) are not circumventing the antidumping duty (AD) and countervailing duty (CVD) orders on CORE from China. The period of inquiry is January 1, 2021, through December 31, 2025. Interested parties are invited to comment on this preliminary determination.",
       "source_observation": {
         "federal_register:title": "a2a3bfec0d793d32d9e59c4ef0c7a9d87c148e094c3fa275b088b4169f2ccf85",
@@ -384,7 +419,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines on a country-wide basis that imports of certain corrosion- resistant steel products (CORE) completed in Indonesia using cold- rolled steel (CRS) manufactured in the Socialist Republic of Vietnam (Vietnam) are not circumventing the antidumping duty (AD) and countervailing duty (CVD) orders on CORE from Vietnam. The period of inquiry is January 1, 2025, through December 31, 2025. Interested parties are invited to comment on this preliminary determination.",
       "source_observation": {
         "federal_register:title": "7d236a152f2c877e5db4b2be2e1637d2be38b54d6806357d7a59a9351f5880d7",
@@ -428,7 +463,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-23T18:46:07Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "工业领袖呼吁保持欧盟ETS稳定和CBAM有效，以保护380亿欧元低碳投资 - 新闻和统计 IndexBox",
       "evidence_url": "https://www.cleantechforeurope.com/policy/open-letter-ceo-statement-on-carbon-markets-lead-markets-and-power-prices",
       "coverage": "核对签署方公开信原文、日期、投资口径及三组诉求；未将企业披露当作政府统计。",
@@ -479,7 +514,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-24T22:48:15Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "CBAM 合规链条上的三类机构：核查、咨询、数字化平台的能力边界与选型建议 碳索储能网"
     },
     {
@@ -514,7 +549,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-23T18:46:07Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Weekly Recap: Line 4 power deal and China iron ore deal with product curbs TradingView",
       "machine_translation": {
         "title_zh": "每周回顾:4线电力交易和中国铁矿石与产品限制交易",
@@ -567,7 +602,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Find out which imported CBAM goods may not contribute towards the registration threshold of £50,000. If you import CBAM goods of UK origin, they’re exempt from CBAM even when released into free circulation. You import aluminium wire (which is in scope of the CBAM ) from China. The aluminium wire was originally made in the UK. CBAM will be charged on goods which originate from outside of the UK according to the UK’s non-preferential rules of origin . CBAM tax will not apply to goods that originate in the EU , EEA or Switzerland and then are imported to the UK. Any goods originating from the EU , EEA or Switzerland being imported to the UK do not count towards the £50,000 CBAM registration threshold. This relief applies whether you or someone else originally imported the CBAM goods. If CBAM goods enter an inward processing procedure and are processed into non- CBAM goods that are imported to the UK (you pay any customs duties due, and they’re released into free circulation), only the va…",
       "source_observation": {
         "document": "8e3e4af32ec78eee41d723f5a8d8034f343c9a4956df20ec6711fb0373465403",
@@ -618,14 +653,14 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-23T18:46:07Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "This draft legislation sets out the proposed treatment under the UK Carbon Border Adjustment Mechanism (CBAM) of goods originating in countries whose emissions trading schemes are linked to the UK Emissions Trading Scheme (UK ETS).",
       "source_observation": {
         "document": "e9c9ce0e94cd6f749a40ff6025d134e1024a4c3e1b3e88652137e1ba831f35ad",
         "govuk:title": "d732be33b972b6bac1c506262210387bf220da9324acc08f0c1ee34c18536548",
         "govuk:excerpt": "61bec7cd29c56eec041b75808ce35cd29341e3dbbc9bf9a2056e7c40913fca1f"
       },
-      "source_revision_checked_at": "2026-11-23T18:46:07Z",
+      "source_revision_checked_at": "2026-11-25T02:49:37Z",
       "machine_translation": {
         "title_zh": "立法草案:对欧盟、欧洲经济区和瑞士原产货物的CBAM豁免",
         "excerpt_zh": "该立法草案提出了联合王国碳边境调节机制(CBAM)下对排放交易计划与联合王国排放交易计划(UK ETS)挂钩的国家的原产货物的拟议处理办法。",
@@ -687,7 +722,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Find out which records you must keep if you're the importer of CBAM goods. evidence of UK origin materials, already carbon taxed in reimported goods they originated in the EU , EEA or Switzerland before being moved to the UK — goods being moved through the EU , EEA or Switzerland to the UK are not exempt Keep records of any CBAM goods you import which are of UK origin (under the non-preferential rules of origin) . This could include: If you import goods to the UK that originate from the EU , EEA or Switzerland the government intends that CBAM will not apply, meaning the goods are exempt from CBAM . You still need to keep records for these goods, including to demonstrate their origin, as the exemption is based on where the goods originate, not where they are imported from. Information about goods originating in the European Union (EU), European Economic Area (EEA) and Switzerland being exempt from the Carbon Border Adjustment Mechanism (CBAM) has been added. You still need to keep reco…",
       "source_observation": {
         "govuk:title": "e7c71f9e088dbbd2a8a87a54673f48463407d64568b9608d7cdc53897eb1a1f1",
@@ -712,7 +747,7 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RMXZ3cHRIenBfa0hQNW80bVd1dzRhSjdSQ2s5ZUIxVHFjb1ZuQ1F5Z1NLZnI0Z2ZYdFNXWTl2ZTFidHAwYTZNaXJIamxQV25zeEtfR3puaHlfTldldGZ2bkV2c2ZyMjl1WFJzUE5CU3NRQjRFSk5UTFdNUkNKUQ?oc=5"
         }
       ],
-      "source_revision_checked_at": "2026-11-24T00:25:20Z",
+      "source_revision_checked_at": "2026-11-25T02:49:37Z",
       "source_translation": {
         "title_zh": "英国碳边境调节机制（CBAM）进口留档指引",
         "translated_at": "2026-11-23T20:38:06Z",
@@ -752,7 +787,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-09-29T04:08:19Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "The role of the UK Emissions Trading Scheme in UK decarbonisation and how the UK ETS Authority is developing the scheme. The UK Emissions Trading Scheme ( UK ETS ) currently covers the heavy industry, power and aviation sectors – approximately 25% of UK territorial emissions. The scheme incentivises investment in decarbonisation in line with climate targets across the UK, by setting a cap on emissions from these sectors and creating a carbon price. The UK ETS Authority (consisting of the UK, Scottish, and Welsh Governments, and the Northern Ireland Department of Agriculture, Environment and Rural Affairs) is working to expand and develop the scheme to incentivise additional sectors of the economy. This sets out: the policy aims of the UK ETS how it works the work the UK ETS Authority is doing to develop it We will update the content as further policy updates are published. Published an update outlining that expansion of the UK ETS to waste incineration will not take place in 2028 as o…",
       "source_observation": {
         "govuk:title": "1242e141fdf2598877ad1b43200eb40caae9fbe20e50ba81ff7155360f066102",
@@ -811,7 +846,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-23T18:46:07Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines that countervailable subsidies were provided to Hyundai Steel Company (Hyundai Steel) and POSCO for the production of certain cold-rolled steel flat products (cold-rolled steel) from the Republic of Korea (Korea). The period of review (POR) is January 1, 2024, through December 31, 2024. In addition, Commerce is rescinding this review, in part, with respect to 46 companies. Interested parties are invited to comment on these preliminary results.",
       "source_observation": {
         "federal_register:title": "cdaede3ed18b3011ce806f593d65db9bd0405d1b400953b001cac0683dcfa69b",
@@ -971,7 +1006,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-23T18:46:07Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "A West African country overtakes South Africa and Canada to become world's third-largest iron ore exporter, with China as its biggest buyer Business Insider Africa",
       "machine_translation": {
         "title_zh": "一个西非国家收购了南非和加拿大,成为世界第三大铁矿石出口国,中国是最大的买家。",
@@ -1024,7 +1059,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-23T18:46:07Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "China Iron Ore Output Down 11.7% in January-October 2026 - News and Statistics IndexBox",
       "evidence_url": "https://www.indexbox.io/blog/chinas-iron-ore-output-falls-117-in-first-ten-months-of-2026/",
       "coverage": "核对IndexBox全文及我的钢铁网所载统计明细（https://m.mysteel.com/a/26111812/E37D637177491C00_abc.html）。未从国家统计局取得同口径的可读原表，按行业转引记录。",
@@ -1109,7 +1144,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Tata Steel shares slide nearly 2% as EU anti-dumping duty and bearish technicals weigh TradingView",
       "machine_translation": {
         "title_zh": "Tata Steel 股份随着欧盟 反倾销税 和熊式技术的重量滑动, 几乎为 2%",
@@ -1243,7 +1278,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "The U.S. Department of Commerce (Commerce) determines that certain carbon and alloy steel cut-to-length plate (CTL plate) from France was not sold in the United States at less than normal value during the period of review (POR) May 1, 2024, through April 30, 2025.",
       "follow_up": "获取2026-23623正式公告全文及最终税率表，核对法国企业和税号；再与中国同类产品适用美国税率比较。",
       "coverage": "2026-11-20使用美国联邦公报队列提供的原文摘要及正式公告标题；网页全文未能稳定读取，未核对企业税率和具体海关执行日期。仅作限定范围事实，不标source_checked。",
@@ -1294,7 +1329,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-24T22:48:15Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "News article 20 November 2026 Negotiations finalised to link EU and UK Emissions Trading Systems Negotiations finalised to link EU and UK Emissions Trading Systems 2 min read",
       "source_observation": {
         "document": "13f7b0e9755d4db7483cd99886fc045f737f552c9b2bfc49f8773c18e80d38ad",
@@ -1344,7 +1379,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Pursuant to Article 6(6) of the CBAM Regulation, the Commission is empowered to adopt implementing acts as regards to the establishment of the CBAM declarations. This implementing act will set out rules on the standard format of the CBAM declaration, including detailed information, the procedure for submitting the CBAM declaration via the CBAM registry and the arrangements for surrendering the CBAM certificates. Feedback status: OPEN. Feedback period: 2026-11-19T16:34:00Z to 2026-12-17T23:59:59Z. Topics: Customs, Taxation. Type of act: REG_IMPL. Reference: Ares(2026)1634728.",
       "consultation": {
         "status": "OPEN",
@@ -1368,6 +1403,41 @@
         "method": "editor_translation",
         "coverage": "标题翻译，不代表全文核验"
       }
+    },
+    {
+      "id": "a71e6940596cb6e480a0",
+      "title_zh": "UK Imposes Anti-dumping Duties on South Korean Hot-rolled Steel Plate Imports",
+      "title_en": "UK Imposes Anti-dumping Duties on South Korean Hot-rolled Steel Plate Imports",
+      "title_original": "UK Imposes Anti-dumping Duties on South Korean Hot-rolled Steel Plate Imports",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdm5SRktERndwX1YweTNLekd0OE9ZdHluanowUnFtT2tEek5SSXd2bFpIbnZoajNoUHVBSUxOSmg4Q2kxU0FETzlyZkVfdVVwaHdwTnNob3VGY3c1WVQxLVhhby0yckxHQnZGdkszR1JKbTJXdi13b0ZfTkRpSks2dV81STluUEh3NF9xMzlRQ2lfOFoyZUctYVBVYllpS0YtTFRIVDFMMFc0UTNpaTdZZlR1MEtZanBVMWNWaGctOGcxNGdnRUltbzdR?oc=5",
+      "published_at": "2026-11-19T16:25:12Z",
+      "source_published_date": "2026-11-19",
+      "source": {
+        "id": "rss",
+        "name": "www.marketscreener.com",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "贸易救济",
+      "status": "新闻",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-11-25T02:49:37Z",
+      "last_seen": "2026-11-25T02:49:37Z",
+      "source_excerpt": "UK Imposes Anti-dumping Duties on South Korean Hot-rolled Steel Plate Imports www.marketscreener.com"
     },
     {
       "id": "7b034ae217a58f93920e",
@@ -1401,7 +1471,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "UK CBAM to cost far less than EU's for most importers, raising re-routing risk as ETS link nears Fastmarkets",
       "machine_translation": {
         "title_zh": "对大多数进口商来说,UK CBAM的成本远远低于欧盟,从而随着ETS连接的临近而增加了改道风险",
@@ -1451,7 +1521,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-23T18:46:07Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "2027 Steel Outlook: Western Tariffs vs Asian Overcapacity deVere Group",
       "machine_translation": {
         "title_zh": "2027 钢展望:西方关税与亚洲能力过剩",
@@ -1504,7 +1574,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策 中国钢铁新闻网",
       "review_disposition": "blocked",
       "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
@@ -1631,7 +1701,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "直面CBAM冲击，碳定价是产业必修课 ——美国开展欧盟CBAM产业影响分析带来的启示 钢铁网",
       "review_disposition": "blocked",
       "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
@@ -1733,7 +1803,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Find out how to get your emissions intensity as an importer (also known as a liable person) when importing Carbon Border Adjustment Mechanism (CBAM) goods into the UK.",
       "machine_translation": {
         "title_zh": "导入 碳边境调节机制 (CBAM) 货物时获取排放强度",
@@ -1753,7 +1823,7 @@
         "govuk:title": "380b5c174bbae0720dd766c9076b907fb311c829fdc04e090b9350c7f7c9894c",
         "govuk:excerpt": "37844ca55def0cbf9f9873c384a9c1425fe602e6fbe1c8f1ad4f537eccc7522f"
       },
-      "source_revision_checked_at": "2026-11-23T18:46:07Z"
+      "source_revision_checked_at": "2026-11-25T02:49:37Z"
     },
     {
       "id": "d45766ca1ab5de9a6cd1-2026-11-20",
@@ -1797,7 +1867,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-20T20:46:43Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Steel on the Border: Trade exposure and the implications of UK and EU CBAM for UK Steel Energy & Climate Intelligence Unit | ECIU",
       "machine_translation": {
         "title_zh": "边境钢:贸易暴露情况以及联合王国和欧盟CBAM对联合王国钢的影响",
@@ -1851,7 +1921,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-10-17T09:43:35Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Find out the default values for your goods, when to use them and when to combine them with your actual emissions. Each Carbon Border Adjustment Mechanism ( CBAM ) good has a default value. You can use the default value in your CBAM return, instead of verified actual emissions data. The values are in tonnes of carbon dioxide equivalents (tCO2e) per tonne of product. The 'Description' for 'Iron and steel default values' at '(CN) code 72172030' has been updated.",
       "machine_translation": {
         "title_zh": "检查 碳边境调节机制 (CBAM) 的默认值",
@@ -1876,7 +1946,7 @@
         "govuk:title": "31085648dd3a76237562a6475d775342b9452f9a91462ae6c65452b0071001d3",
         "govuk:excerpt": "7c169c21a6d3d3e496c05f21121eea77510306e9474aa893e12d7fc886669e42"
       },
-      "source_revision_checked_at": "2026-11-23T18:46:07Z"
+      "source_revision_checked_at": "2026-11-25T02:49:37Z"
     },
     {
       "id": "665aca97b54d0b9bbca9",
@@ -1910,7 +1980,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Following a TRA investigation, the Secretary of State has decided to apply a new anti-dumping measure on imports of hot-rolled steel plate from South Korea. The Secretary of State has applied a new anti-dumping measure on imports of hot-rolled steel plate from South Korea, following an investigation by the TRA. The TRA determined that hot-rolled steel plate from South Korea has been or is being dumped into the UK and that this has caused or is causing injury to the UK production industry. The TRA was therefore required to recommend a measure on the full scope of hot-rolled steel plate from South Korea. In all investigations, the TRA is required to conduct an Economic Interest Test (EIT), which considers whether the imposition of a measure would be in the economic interest of the UK. In this investigation, the TRA assessed that the EIT was met for applying definitive measures to hot-rolled plate with a width lower than 2,500mm, but was not met for applying a measure to the full scope o…",
       "coverage": "2026-11-20读取英国TRA官方新闻原文，核对11月19日发布日期、7.04%–23.07%范围、2100毫米宽度界限及经济利益测试。新闻稿未给出完整企业税率/税号；应结合正式2026/32通知。",
       "evidence_url": "https://www.gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea",
@@ -1999,6 +2069,41 @@
       "reviewed_at": "2026-11-19T07:31:01.856Z"
     },
     {
+      "id": "e0c9475d909d604476c5",
+      "title_zh": "Canada and China ease tariffs on pork, seafood, steel and aluminium",
+      "title_en": "Canada and China ease tariffs on pork, seafood, steel and aluminium",
+      "title_original": "Canada and China ease tariffs on pork, seafood, steel and aluminium",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHZPa2gxQlJjcVhkNnNscXJINF9OMXM3WUdaeG41TVF5dEdLbTlpajR2YnRSSUJHZm9tQS1Yc3ZoZXI1MlR6ZlRvaU1JbURmaVAxWF9yMlBNMk1fN3ItVFRRV19GZk1HZFVSYVJSNGZzVTAxTTk2MjN6Wm9nTmxKejVFSmppdjRNZ3BCUlhuLU9lNmN0NVJ0RGY3TkYxbW85ei1wdWI5UmhWVlJRX2NhUDAwMU15S1JpejdabEFTVTc?oc=5",
+      "published_at": "2026-11-18T13:25:01Z",
+      "source_published_date": "2026-11-18",
+      "source": {
+        "id": "rss",
+        "name": "Euronews.com",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "配额与关税",
+      "status": "新闻",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-11-25T02:49:37Z",
+      "last_seen": "2026-11-25T02:49:37Z",
+      "source_excerpt": "Canada and China ease tariffs on pork, seafood, steel and aluminium Euronews.com"
+    },
+    {
       "id": "8560684245edf51cb8b3",
       "title_zh": "欧盟ETS工业排放2025年下降3.3%；CBAM扩大至约180种下游钢铝制品仍属立法提案",
       "title_en": "EU ETS industrial emissions down 3.3% in 2025; extension of CBAM to around 180 downstream steel and aluminium goods remains proposed",
@@ -2030,7 +2135,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "EU industrial emissions fall as Commission outlines proposed CBAM extension to 180 downstream steel and aluminium products EUROMETAL",
       "machine_translation": {
         "title_zh": "欧盟工业排放量下降,因为委员会拟将CBAM扩展至180下游钢和铝制品",
@@ -2097,6 +2202,41 @@
       "review_coverage": "仅核对队列标题与2026/2538官方题名关联，缺少更正正文及可追溯条款，未全文核验。"
     },
     {
+      "id": "836bedbede4b0ffcdc7c",
+      "title_zh": "EU applies anti-dumping duty on Vietnamese cold-rolled steel products",
+      "title_en": "EU applies anti-dumping duty on Vietnamese cold-rolled steel products",
+      "title_original": "EU applies anti-dumping duty on Vietnamese cold-rolled steel products",
+      "summary_zh": "中文摘要暂未生成，请以原文为准。",
+      "summary_en": "The English brief is not available yet. Please review the original source.",
+      "impact_zh": "待自动分析；请先核对原文内容。",
+      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb3BEU0Z1c2YzMFBCVW9vLTFWSThJNVlPUDVxQjZUTGVBU1oxN1hMdGIxclVMRnlKckxkbjZzdkFaOEVRQVFYWU5CeldpdURfSWF5eE82R1BRNmRqdlJNSHFHcGljakR4SDRRX0phdGpUNjA4VURSMmhNSFg2RTBiQnA0c0gyQzZDRGxneFh0MkVlcDZuNzd5cTBKN2kxdw?oc=5",
+      "published_at": "2026-11-18T10:00:00Z",
+      "source_published_date": "2026-11-18",
+      "source": {
+        "id": "rss",
+        "name": "Vietnam Economic Times",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "贸易救济",
+      "status": "新闻",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "pending",
+      "first_seen": "2026-11-25T02:49:37Z",
+      "last_seen": "2026-11-25T02:49:37Z",
+      "source_excerpt": "EU applies anti-dumping duty on Vietnamese cold-rolled steel products Vietnam Economic Times"
+    },
+    {
       "id": "544293e68a5f91808a3b",
       "title_zh": "中国SS400热轧卷FOB评估约485美元每吨，欧盟到岸报价需逐票核对配额",
       "title_en": "Chinese SS400 HRC assessed near $485/t FOB as EU quota access constrains buying",
@@ -2133,7 +2273,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-24T00:25:20Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Why China's Hot-Rolled Coil Is Stuck at $485 a Tonne as Buyers Wait and Europe's Quota Is Full kalkine.co.uk",
       "machine_translation": {
         "title_zh": "为何中国的热熔化的煤炭 以每吨485美元 买家等待,欧洲的配额是满的",
@@ -2187,7 +2327,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "海关总署：10月中国主要机电产品进出口数据出炉 钢铁网",
       "review_disposition": "blocked",
       "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
@@ -2236,7 +2376,7 @@
       "confidence": 0.2,
       "translation_state": "complete",
       "first_seen": "2026-11-24T04:06:23Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "Australia launches review of antidumping duties on steel plate imports from China and South Korea SteelRadar",
       "machine_translation": {
         "title_zh": "澳大利亚 推出 审查中国和韩国进口钢板的反倾销税",
@@ -2296,7 +2436,7 @@
       "confidence": 0.2,
       "translation_state": "pending",
       "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-24T22:48:15Z",
+      "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9% 钢铁网",
       "review_disposition": "blocked",
       "review_note_zh": "媒体标题称10月钢铁板材出口574万吨、同比-3.9%，本轮未取得海关总署可逐项核实的官方10月板材分项统计。该数字不直接作为已核验出口数据发布。",
@@ -2304,235 +2444,6 @@
       "review_attempted_at": "2026-11-18T19:33:15.044Z",
       "retry_after": "2026-11-25T20:30:00Z",
       "review_coverage": "仅核对钢铁网队列标题；国家统计局产量数据不能替代海关出口数据，尚未取得同口径官方来源。"
-    },
-    {
-      "id": "4d2f6c890d89315bc352",
-      "title_zh": "Canada expands tariff relief on Chinese steel and aluminium products",
-      "title_en": "Canada expands tariff relief on Chinese steel and aluminium products",
-      "title_original": "Canada expands tariff relief on Chinese steel and aluminium products",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeGJMV1BsZXE0ZktrTnYxRzlrVWtGbF9QUi1qa2xiX2VZV2h5MVNHZ3pvTzNHS3hlV0RIUm1NenU0X2p6S3FieHBTdGZQaXZnMUlnMWhUM1d0RFFGaVZFRHNtekFhMjFiZ3AzOXhiLVJlX0lSZmdJVUhzWVBMNXJwVHViRllNWXJPLWtwWXpBUXRheVVXTUtmd2ZBN3ZjMlFFRlV4TVhJRkZqVS1lUVJrSUQ1RWdTSFNhbHp3dkg3WFBaRGFzWHF6VUJHYUNCYmRGQnRvSkQzaUUySjQ?oc=5",
-      "published_at": "2026-11-18T02:04:00Z",
-      "source_published_date": "2026-11-18",
-      "source": {
-        "id": "rss",
-        "name": "Shanghai Metals Market",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "配额与关税",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-24T22:48:15Z",
-      "source_excerpt": "Canada expands tariff relief on Chinese steel and aluminium products Shanghai Metals Market",
-      "machine_translation": {
-        "title_zh": "加拿大扩大了对中国钢铁和铝产品的关税减免",
-        "excerpt_zh": "加拿大扩大对中国钢铁和铝制品的关税减免",
-        "fingerprint": "b71914201bd39e79e8b8b977536512fd2c4cce12d0873d6cfa0e66a3890a71c5",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-11-24T18:23:25Z"
-      }
-    },
-    {
-      "id": "8468027f1c0261280c86",
-      "title_zh": "英国对韩国热轧中厚板实施最终反倾销税：现代7.04%、浦项12.19%，宽度超过2100毫米为0%",
-      "title_en": "UK imposes definitive AD duties on South Korean hot-rolled plate: Hyundai 7.04%, POSCO 12.19%, width over 2,100 mm 0%",
-      "title_original": "Trade remedies notice: hot-rolled steel plates originating from South Korea (anti-dumping)",
-      "summary_zh": "【正式公告】英国政府2026年11月18日发布贸易救济通知2026/32，自11月19日实施、期限五年至2031年11月19日。针对原产韩国的特定非卷状热轧中厚板（涉及7208、7210、7225下11个税号，通常厚度≥4.75毫米并有产品排除项），按宽度区分：≤2100毫米的韩国生产商现代钢铁7.04%（附加码8A78）、POSCO 12.19%（8A79）、其他23.07%（8A80）；>2100毫米适用0%（8A81），均为同一最终反倾销措施的一部分。税基为进口英国边境未完税净价。享受指定生产商税率需有效商业发票附签字声明；否则适用剩余税率。该决定拒绝TRA对全范围征税5.98%—25.71%的建议，并终止此前进口登记。不得把TRA建议税率当成最终税率。",
-      "summary_en": "UK notice 2026/32 published 18 Nov and effective 19 Nov 2026 to 19 Nov 2031. For Korean hot-rolled plate ≤2,100 mm: Hyundai Steel 7.04% (8A78), POSCO 12.19% (8A79), others 23.07% (8A80). Plate >2,100 mm attracts 0% (8A81). Specific invoice declarations are required for producer-specific rates. The Secretary of State rejected the TRA's broader recommended rates.",
-      "impact_zh": "【研判】英国进口商采购韩国中厚板的到岸成本将按实际制造商与2100毫米宽度阈值分化，宽板韩国货仍可保持零反倾销税竞争力。中国板材可能获得局部替代询价，但必须独立核对中国原产货物适用的英国贸易救济、保障措施、UK CBAM及客户认证，不可视为自动获益。跟踪韩国≤2100毫米中厚板是否转向其他市场属于预测，尚无证据确认。建议对英国客户按生产厂、宽度、税号、附加码及商业发票逐项核价。",
-      "impact_en": "Korean plate costs now vary materially by producer and the 2,100 mm threshold. Chinese substitution is only a possibility subject to separate UK measures, quotas, carbon obligations and customer approvals. Monitor potential diversion without treating it as established.",
-      "url": "https://gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping",
-      "published_at": "2026-11-18T00:00:00Z",
-      "source_published_date": "2026-11-18",
-      "source": {
-        "id": "govuk",
-        "name": "GOV.UK / 英国政府",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "英国",
-      "region": "欧洲",
-      "category": "贸易救济",
-      "status": "正式终裁",
-      "importance": "高",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "complete",
-      "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-24T22:48:15Z",
-      "source_excerpt": "Trade remedies notices published by the Secretary of State for Business, Innovation, Science and Trade (BIST) relating to the dumping investigation on imports of hot-rolled steel plate originating from South Korea.",
-      "machine_translation": {
-        "title_zh": "贸易救济通知:原产于南朝鲜的热轧钢牌照(反倾销)",
-        "excerpt_zh": "商业、创新、科学和贸易国务秘书发布的贸易补救通知,涉及对来自南朝鲜的热轧钢牌照进口的倾销调查。",
-        "fingerprint": "bec7acc367852651481027b929eb82ff891a27244094c393255ef87b9d123c25",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-11-18T16:01:17Z"
-      },
-      "follow_up": "英国中厚板客户立即按宽度2100毫米边界、厂别与税号重算竞争报价，确认发票声明；比较中国自身税负与英国客户认证。",
-      "coverage": "2026-11-18逐段核对英国政府贸易救济通知2026/32正文、Annex 1、Annex 2，覆盖税率、制造商、宽度、编码、日期、发票声明及此前登记终止；未逐票进行UKGT归类。",
-      "evidence_url": "https://www.gov.uk/government/publications/trade-remedies-notice-hot-rolled-steel-plates-originating-from-south-korea-anti-dumping/trade-remedies-notice-202632-definitive-anti-dumping-measure-on-hot-rolled-steel-plate-originating-from-south-korea",
-      "review_method": "source_checked",
-      "reviewed_at": "2026-11-18T19:33:15.044Z",
-      "related_sources": [
-        {
-          "name": "GOV.UK / 英国政府",
-          "url": "https://gov.uk/government/news/new-measure-imposed-on-hot-rolled-steel-plate-from-south-korea"
-        },
-        {
-          "name": "Shanghai Metals Market",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZWU3cG84MVBwWVM0S3ZOOFhBbjlSb0c1aC1GXzhiVlV5b3c0Mng3eE9VNnpYOVpPWXRhWGpaYnBuS0ZuWDQ1NW1Bd18zdkFhbi05VTB0MXM2UU52NDc0N0ZpMnpKekJNV0EtSUUyWDFib2ZVNmJULVduanRuRlpoLTJrenJCRGxMWnYxQVZ2Vm9sc1hkTUVHeGZKem4xT3l0WGZRR2JvcDFwbXNILVdfSmJSRk9URnFKWU55LUZoM2FkemZIMmlOZFFGNGx2ZG5oWTdJTU42Qm5pV0hJMUlFM1M0Yzg5RGc0?oc=5"
-        },
-        {
-          "name": "Traders Union",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnVCNHhpcmowUDRTQldWVDNlQkVkLVpjejZacXJOMDN1Nm1FWklnYU03Y1JfU3BYdTBiQVl2RVdraGdEdjZGQ0pZRlpoMVF0U1lvUU9GYmRTekVObDVJemZ4cTB6S3lCTTZTXzU1Rl9fWFl1UEhUenhRQ2s2ZUxCcWI2UDVMLVdhT0V1S1Jpcjd3bk5qa3lPNDNRWF8?oc=5"
-        }
-      ],
-      "source_observation": {
-        "govuk:title": "bea8f04d29bcd49034315ed571d7c370ba92cc4d30434bb254dc8dfc5fb0bad5",
-        "govuk:excerpt": "936adcf1be571ee4fc5ee497ec088b8ceb544bdeb605dfc52f4b34adfd67b007",
-        "document": "7fc7adc707f496f6e0eea854a08b79f7e855ac8dd65740b8fc44f34b32620f81"
-      },
-      "source_revision_checked_at": "2026-11-23T18:46:07Z"
-    },
-    {
-      "id": "d9044ca3f791c8d9c58a",
-      "title_zh": "欧盟CBAM于2027年1月1日扩展至挪威和冰岛，50吨门槛跨三地累计",
-      "title_en": "EU CBAM extends to Norway and Iceland from 1 January 2027",
-      "title_original": "Extension of CBAM to Iceland and Norway",
-      "summary_zh": "欧委会税务与海关总司2026年11月18日官方公告确认，EEA联合委员会第283/2026号决定于11月18日生效；2027年1月1日起挪威和冰岛进口CBAM覆盖货物适用相同规则。钢铁、铝、化肥、水泥年度50吨门槛在欧盟、挪威和冰岛合计计算，电力和氢不适用该吨数门槛；三地授权申报人资格相互承认。挪威和冰岛进口商须办理授权，2027年3月31日前申请者有过渡便利；列支敦士登不在CBAM区域。",
-      "summary_en": "EEA Decision 283/2026 entered into force 18 Nov. From 1 Jan 2027 CBAM extends to Norway and Iceland. The 50-tonne annual threshold for four sectors is cumulative across the EU and both EEA states; authorisations are mutually recognised.",
-      "impact_zh": "向挪威及冰岛出口板坯、热轧/冷轧等涉案产品需准备CBAM排放数据，并与欧洲集团进口商核对跨三地累计进口量及授权状态；不能将50吨门槛分拆适用。",
-      "impact_en": "Steel exporters should prepare emissions data and coordinate group-wide import volumes and declarant authorisations across the three customs territories.",
-      "url": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en",
-      "published_at": "2026-11-18T00:00:00Z",
-      "source_published_date": "2026-11-18",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "DG TAXUD · CBAM News",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "欧盟",
-      "region": "欧洲",
-      "category": "碳与环保",
-      "status": "待核对",
-      "importance": "高",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "complete",
-      "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-24T22:48:15Z",
-      "source_excerpt": "Extension of CBAM to Iceland and Norway EEA Joint Committee Decision No 283/2026, which extends CBAM to Iceland and Norway, entered into force on 18 November 2026. From 1 January 2027, the same CBAM rules will apply to imports of covered goods into Iceland and Norway as to imports into the EU.",
-      "evidence_url": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en",
-      "follow_up": "核对挪威/冰岛客户2027年采购及其集团三地累计进口量；向进口商确认授权申请、EORI/TIN及实际排放核证安排。",
-      "coverage": "2026-11-20直接读取欧委会DG TAXUD 11月18日官方全文，核对EEA决定、2027-01-01实施、50吨累计门槛、申报人互认、2027-03-31过渡与列支敦士登排除。",
-      "review_method": "source_checked",
-      "reviewed_at": "2026-11-20T07:34:13Z",
-      "related_sources": [
-        {
-          "name": "Shanghai Metals Market",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2RsWDY2bV90UDVyN1FOVTFCajlWZ0ljNVpmMEtZYUVzRWh1U3Zwa3lqMzFsaTc0Tlk5QXJaaGpocGMwLVVQb1EtMnBXeWdIdklhTUxHUDlwSnZxNnBiNzB0bks2VzJWSHRzY2tueTNuRWJERWtFeG1VSnZfaklod2ZybzlIZWxaNDlXaUwyVjlqUmVYWEVBSGpUdERWRkxpSFo2Z19aNk5KNVNqZ2JsR0JvRFhzUi1yYTFNMEROekxKeVk?oc=5"
-        },
-        {
-          "name": "SteelOrbis",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQclpjRFJoUmhkeXpWWGVLRmRPRGlzbU91WXlPSGprYVRpclZDWVk2WDQ5V092S1JOUFdWRVZvamRvYlRzWC10WE1mblR6MGFQclZIYkxTMzFiakJmSWVqb0hPZHdVOFpldkJtazhmWjJZazhRV28tYnRHTE01ZzlnX1BhVXItcjdOcHpfcm94UjNmb3pwcjJiMk9tTy1WbzFIODROb0txTU9WQ01rcFNVYnhUNUhrYWV5YVg4?oc=5"
-        },
-        {
-          "name": "Quantum Commodity Intelligence",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTnV0SnpUTl84dV85YmtzSmtzQXBHVUMxaVFoalhRM1NfWWhNeHl3cFVZVnUwMFNVbjdpWDdoRTZSVldYaWFMMTZDclhlMjdqcHVnY0NBVEZESTFkak1fbUFONmxsTlBob1Nud3pVQ2w2d2lHeXFSQ2RhOTg2cUwxS2VWZG9ESlVGUHFoZnY0UVFiXzFfSXVJ?oc=5"
-        }
-      ],
-      "source_observation": {
-        "document": "bf65c644d27232525372bebee2aa3873ed540604b82e83d0f0067e4d806cf3fb",
-        "ec_watch_pages:title": "4028f0b38345b5efbbab1115b4ba99d9ea36b2b332efce6195875c737ec54709",
-        "ec_watch_pages:excerpt": "2020bc511efcf185df167d0bcedb34db6060f2849484bfae92beb6e1ea26a656"
-      },
-      "source_revision_checked_at": "2026-11-23T18:46:07Z",
-      "source_translation": {
-        "title_zh": "CBAM扩展适用于冰岛和挪威",
-        "translated_at": "2026-11-20T19:30:56Z",
-        "method": "editor_translation",
-        "coverage": "标题翻译，不代表全文核验"
-      }
-    },
-    {
-      "id": "698e0fd3bc5891b71a5c",
-      "title_zh": "美国对中国钢格板作出第三次日落复审肯定性损害裁定，现有反倾销及反补贴措施继续有效",
-      "title_en": "USITC affirmative sunset review determinations keep AD/CVD orders on certain steel grating from China",
-      "title_original": "Steel Grating From China; Determinations",
-      "summary_zh": "【官方裁定】美国国际贸易委员会2026年11月4日宣布，对原产中国的Certain Steel Grating开展第三次快速日落复审，认定撤销现行反倾销和反补贴命令很可能在可预见期间造成实质损害继续或再现，因此两项命令继续有效。案件编号701-TA-465及731-TA-1161。11月18日《联邦公报》出现相应裁定公告，为程序性发布，并非11月18日新增税率。USITC公告未提供个别企业税率，不能据此推断税率变化。",
-      "summary_en": "On 4 Nov 2026 the USITC issued affirmative expedited third sunset review determinations (701-TA-465 and 731-TA-1161), keeping the existing AD/CVD orders on certain steel grating from China in place. The 18 Nov Federal Register notice is a procedural publication, not a new rate.",
-      "impact_zh": "【研判】对美国钢格板业务，贸易救济障碍未解除；报价应继续核对美国商务部当前命令、企业适用现金保证金及产品范围。此次日落复审不应扩展解释为普通热轧卷或全部钢材的新增税。",
-      "impact_en": "Existing US AD/CVD barriers on Chinese steel grating remain; verify the current Commerce rates and product scope before quoting. No new rate is established by the ITC notice.",
-      "url": "https://federalregister.gov/documents/2026/11/18/2026-23407/steel-grating-from-china-determinations",
-      "published_at": "2026-11-18T00:00:00Z",
-      "source_published_date": "2026-11-18",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "美国",
-      "region": "北美",
-      "category": "贸易救济",
-      "status": "日落复审肯定性损害裁定",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "complete",
-      "first_seen": "2026-11-18T15:59:14Z",
-      "last_seen": "2026-11-24T22:48:15Z",
-      "source_excerpt": "",
-      "machine_translation": {
-        "title_zh": "中国的钢格板; 确定",
-        "excerpt_zh": "",
-        "fingerprint": "600f23faf203f9d66514f0faa957c4105dd45ebec5bfbb928cea340e38f94562",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-11-18T16:01:15Z"
-      },
-      "follow_up": "如有钢格板赴美询盘，核对Commerce最新现金保证金与产品范围；不把本次裁定视作新税率。",
-      "coverage": "2026-11-18核对USITC 2026-11-04官方新闻稿及11月18日Federal Register公告标题；损害裁定及继续有效有USITC官方原文支持，未取得企业税率表。",
-      "evidence_url": "https://www.usitc.gov/press_room/news_release/2026/er1104_69469.htm",
-      "review_method": "source_checked",
-      "reviewed_at": "2026-11-18T19:33:15.044Z",
-      "source_observation": {
-        "federal_register:title": "71301210735890cdd5e2264d23f5020a8ec2ae0684a650fe349c5b6272698ffc"
-      },
-      "source_revision_checked_at": "2026-11-23T18:46:07Z"
     }
   ]
 }
