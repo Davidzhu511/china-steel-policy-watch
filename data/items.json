@@ -368,6 +368,10 @@
         {
           "name": "GMK Center",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaWRQLS1qaXpXMGItdGozSGhkTHN4MzdCLXp5ck15eEtQVDJ2dVgzTGJ5MXVENXdQR2lLWXNQY0MyVnBBT2ZvTWNBVkhHcGZ3V3NmZElVUFFsTzA1aFMtN3h5WnhMSDV4Wkd2Z0RZeElXNFRwUGZCdEQ3bi1PQVA1Vi1hWFZ5S0ZVYV91Q2w4NnFnb2JTd1NadFc3dkZhV3FkQzJ5RWtHLU7SAa4BQVVfeXFMTlR1bGxmYW1vM08tY1BhcDhrQ2pVSGlMUjRZRlAwRFo4N0MtM3JMTEZlX1Q3MEx5c1l4SzFxNS1mbEptU01nTElOQzNKanZUTUczOEtEMkY0RHVCRUw3LUM5czZHZDV3TGd3cEd2UWFSc3o1N3I1ejU3Y3A2bGE5TXdfb1VzSTA2eUJYTEZFeFU2amo3emg1TjhJcnBkbnpBYnJkQ2NoQl9pX1JYX3hR?oc=5"
+        },
+        {
+          "name": "DG TAXUD · CBAM News",
+          "url": "https://taxation-customs.ec.europa.eu/news/cbam-commission-adopts-rules-recognition-carbon-prices-paid-non-eu-countries-2026-11-16_en"
         }
       ],
       "source_observation": {
@@ -1015,6 +1019,68 @@
       "reviewed_at": "2026-10-10"
     },
     {
+      "id": "5616f5e83d0756245a60",
+      "title_zh": "美国第三次日落复审续行中国预应力混凝土用钢绞线双反令，自11月10日延续",
+      "title_en": "US continues China PC strand antidumping and countervailing duty orders effective 10 November",
+      "title_original": "Prestressed Concrete Steel Wire Strand From the People's Republic of China: Continuation of Antidumping Duty and Countervailing Duty Orders",
+      "summary_zh": "美国商务部于11月25日刊登第2026-23992号公告，续行中国预应力混凝土用钢绞线反倾销令A-570-945和反补贴令C-570-946，自2026年11月10日起适用。8月商务部认定若撤销措施，倾销和补贴可能持续或重现，国际贸易委员会随后确认产业损害风险。美国海关继续按入境时适用的保证金率收取。原令覆盖预张拉和后张拉用的特定非不锈钢钢绞线，参考HTSUS 7312.10.3010、7312.10.3012。使用镀锌钢丝的产品，只有锌或氧化锌镀层达到或超过ASTM A475的0.40盎司/平方英尺时才按该条件排除。具体适用以文字范围为准。",
+      "summary_en": "Commerce published its continuation notice on 25 November, effective 10 November 2026, after Commerce and ITC's third sunset determinations. CBP continues collecting entry-date AD/CVD deposits. The scope covers specified prestressed concrete strand, with reference HTSUS 7312.10.3010 and 7312.10.3012 and a zinc-coating exclusion threshold of 0.40 oz/ft² for qualifying strand made from galvanized wire.",
+      "impact_zh": "中国钢绞线输美继续核对钢厂、出口商和入境时保证金率。拟依据镀层排除报价时，让美国报关行先核对镀层检测和书面范围；规格确认前应保留适用双反成本。",
+      "impact_en": "Confirm the producer, exporter and entry-time deposit rates before quoting. Where a coating exclusion is claimed, have the US broker validate the written scope and coating test data.",
+      "url": "https://federalregister.gov/documents/2026/11/25/2026-23992/prestressed-concrete-steel-wire-strand-from-the-peoples-republic-of-china-continuation-of",
+      "published_at": "2026-11-25T00:00:00Z",
+      "source_published_date": "2026-11-25",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "美国",
+      "region": "北美",
+      "category": "贸易救济",
+      "status": "待核对",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source_excerpt": "As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) and countervailing duty (CVD) orders on prestressed concrete steel wire strand (PC strand) from the People's Republic of China (China) would likely lead to the continuation or recurrence of dumping, countervailable subsidies, and material injury to an industry in the United States, Commerce is publishing a notice of continuation of these AD and CVD orders.",
+      "source_observation": {
+        "federal_register:title": "b72fda63b543d6a876938dc01eb369d3310aa605039410b403a48f2880b6a934",
+        "federal_register:excerpt": "fad95831df404a546bffae5dbc20bb5bda0cc98d48b2384bf8eae9bcdff49c5d"
+      },
+      "source_revision_checked_at": "2026-11-25T17:38:41Z",
+      "priority_signal": {
+        "zh": "贸易救济程序 · 待核对",
+        "en": "Trade-remedy procedure · review needed"
+      },
+      "machine_translation": {
+        "title_zh": "中华人民共和国的预应力混凝土用钢绞线:继续反倾销税和反补贴税命令",
+        "excerpt_zh": "由于美国商务部(商务部)和美国国际贸易委员会(贸委会)认定,撤销中华人民共和国(中国)关于预应力混凝土用钢绞线的反倾销税和反补贴税命令,可能会导致继续或再次出现倾销、反补贴和对美国工业的物质损害。",
+        "fingerprint": "652d3e31f0fa8b66e72bfaafe058399b993c7b6386bf5ee4ae771a58a2d5b0c5",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T17:40:19Z"
+      },
+      "evidence_url": "https://public-inspection.federalregister.gov/2026-23992.pdf",
+      "coverage": "核对第2026-23992号公告的有效日期、产品范围与保证金条款，及美国国际贸易委员会10月28日公告和8月商务部日落复审。本次公告未增设企业新税率，日落复审幅度不作为清关保证金报价。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-25T20:34:30Z",
+      "source_translation": {
+        "title_zh": "美国续行中国预应力混凝土用钢绞线反倾销和反补贴令",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
+      }
+    },
+    {
       "id": "f9f20740d791b5c56af9",
       "title_zh": "美国初裁认定越南使用中国热轧钢制车轮构成规避，保证金追溯起点为2026年3月19日",
       "title_en": "US preliminarily finds Vietnam-finished steel wheels using Chinese hot-rolled steel circumvent China orders",
@@ -1247,6 +1313,10 @@
         {
           "name": "GOV.UK / 英国政府",
           "url": "https://gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-policy-summary"
+        },
+        {
+          "name": "EUROMETAL",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajBtWTlsRmtCeE9wcGtaTlFCYVRRMjdzS2FEUDItSEVlMzA2SHFjWW9NcG0tZEpHOFFNdzBoYTYyZHFJV3NmVW1MOTJqdG1Ed3N6X0NXUWphRUVXaFc0RlJmSGZKM1NwLWVoMW1UMW5sQURpTnE3UlFaZmVUQWJxcDVHX1BHNjBSeG5sSC04cE1aZlJ1V01J?oc=5"
         }
       ],
       "source_translation": {
@@ -5624,6 +5694,59 @@
       }
     },
     {
+      "id": "8504bb15e82e4debf7fb",
+      "title_zh": "美国公布14个经济体产能过剩301拟议措施，中国与欧盟钢材的适用规则需分别核对",
+      "title_en": "USTR proposes Section 301 tariffs for 14 economies; China and EU steel require separate scope checks",
+      "title_original": "US tariff investigation covering China and the EU in focus this week",
+      "summary_zh": "11月25日，美国贸易代表办公室公布14个经济体的产能过剩301调查认定及征求意见案，承接3月启动的调查。对中国货物，通常情景为附件外最高20%（扣除相同货物在强迫劳动301案下的相应税率）、附件A最高10%、附件B拟免征本项税；谈判结果不足时另考虑最高40%的替代方案，并作同项强迫劳动301扣减。对欧盟方案考虑15%，扣除最惠国与既有301税率，且拟排除已适用232的钢、铝等及相关衍生品；谈判结果不足时另考虑最高20%的方案。韩国最高15%，越南最高35%并可能按谈判及既有措施调整。中国与欧盟的书面意见和听证申请均在2027年1月5日截止，听证拟于1月25日召开。公告未定新措施实施日期。",
+      "summary_en": "USTR issued determinations and proposals for 14 economies on 25 November. For China, it proposes up to 20% outside the annexes net of the forced-labour Section 301 duty, up to 10% for Annex A and exemption under Annex B, with an alternative up to 40% if talks prove insufficient. For the EU, the proposal uses 15% net of MFN and existing Section 301 duties and would exclude steel and derivatives already subject to Section 232; a higher alternative is under consideration. The initial comment and appearance-request deadline is 5 January 2027; the hearing starts 25 January.",
+      "impact_zh": "输美板坯、热卷、冷轧、镀层板及下游钢制品先由进口商按美国HTSUS逐码比对附件、原产地和现行232、301、双反。现阶段按现行税费报价，对跨年合同另做拟议税率情景并约定税费变更责任。欧盟232排除条款需按欧盟案核对，中国货物按中国案附件处理。",
+      "impact_en": "Keep current duties in quotes. For US-bound slabs, HRC, CRC, coated steel and downstream products, check the US tariff line, origin, the applicable country annex and existing Section 232, Section 301 and AD/CVD. Model the proposed changes separately in 2027 contracts.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVRxb0hpbEs5Y2hTbWluZFpsb2pTbHl6MHB2NkNnN29WOHo3dDZoY2Zab29vNWJvRWlKSUxpdzdHRjZJb1AyUTlRUV9ZZW5CNzFaRExUdlA3X2lLcjkxWWNBLUVOMktiZVkxYjZhZXlLSGxVdlJodUJZcVlqMFU4NE14dkNJVEFta0pVY3d4WjJUYTRLMkdtNmoxeTBuS2ZiV3p1ajlNUnI?oc=5",
+      "published_at": "2026-11-24T14:58:56Z",
+      "source_published_date": "2026-11-24",
+      "source": {
+        "id": "rss",
+        "name": "SteelRadar",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "配额与关税",
+      "status": "新闻",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source_excerpt": "US tariff investigation covering China and the EU in focus this week SteelRadar",
+      "machine_translation": {
+        "title_zh": "本周美国针对中国和欧盟的关税调查",
+        "excerpt_zh": "本周美国对中国和欧盟的关税调查聚焦于SteelRadar",
+        "fingerprint": "d7b17d120acb882621ac77910f79f720dc48ee1c0b949e4f22ffcac7cffa3fe2",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T17:40:20Z"
+      },
+      "evidence_url": "https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+      "coverage": "11月24日媒体线索由11月25日USTR一手公告更新。核对中国公告第V至VIII节及中欧附件框架。中国草案：https://ustr.gov/sites/default/files/files/Press/Releases/2026/China%20FRN.pdf。欧盟草案：https://ustr.gov/sites/default/files/files/Press/Releases/2026/EU%20FRN.pdf。未逐个产品确定最终税负，公告仍属拟议措施。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-25T20:34:30Z",
+      "source_translation": {
+        "title_zh": "本周关注美国针对中国和欧盟的关税调查",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
+      }
+    },
+    {
       "id": "e6d7050638b764db18d5",
       "title_zh": "韩国明确部分中国热轧中厚板反倾销排除税号，符合条件的申报可追溯至2025年11月24日",
       "title_en": "South Korea clarifies anti-dumping exclusions for certain Chinese hot-rolled plate, retroactive to 24 November 2025",
@@ -7566,6 +7689,12 @@
         "eurlex:title": "19252add433e0edadfc88da6d1e2922a07f6c404d6cfd77419ca6a9d308ee852"
       },
       "source_revision_checked_at": "2026-11-23T18:46:07Z",
+      "related_sources": [
+        {
+          "name": "EU Law Live",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYWNjTWJpX2JGX3VKS2xESlFYRFFReXpPUW9hUDBRQlJEMmVOZ1ByeVJCa29HSnVCQVIyNUZtNUdmSkdYUWF5alZnbEVHT3g0eWNjUDJNaDRWcktuNC0yY2lhV29rdmhhRkFreHJjMlhuVmVHTU5yM1EwUTdBV2R2SllpNUJFTEE1RHlwdFRSbGE1bDc2ZEw3djVNSkQ2em9KTk1rRTQ5RXVmVGZOdnhPMlJFSzhJeE5MWXAtZzNEQm9ZcFJC?oc=5"
+        }
+      ],
       "source_translation": {
         "title_zh": "欧盟2026/2538号条例更正日本东京制铁企业名称：热轧扁平材反倾销税率6.9%不变",
         "translated_at": "2026-11-22T07:25:32Z",
@@ -7758,58 +7887,20 @@
         "ec_have_your_say:title": "42eb224752b6dd053b6fd5b3610c3183bdf8d8a9fdcc064c4744c8b7df3e5e4f",
         "ec_have_your_say:excerpt": "1bc3e3644759d9bc147d0a173621043b8baad6019972ebbabb9f6051275ea636",
         "ec_have_your_say:consultation": "4e7ab24b29c1def46e0a16dcfeb4aac23ae2418332d5138bc4af4cc8f1b73ac4"
-      }
-    },
-    {
-      "id": "5616f5e83d0756245a60",
-      "title_zh": "Prestressed Concrete Steel Wire Strand From the People's Republic of China: Continuation of Antidumping Duty and Countervailing Duty Orders",
-      "title_en": "Prestressed Concrete Steel Wire Strand From the People's Republic of China: Continuation of Antidumping Duty and Countervailing Duty Orders",
-      "title_original": "Prestressed Concrete Steel Wire Strand From the People's Republic of China: Continuation of Antidumping Duty and Countervailing Duty Orders",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://federalregister.gov/documents/2026/11/25/2026-23992/prestressed-concrete-steel-wire-strand-from-the-peoples-republic-of-china-continuation-of",
-      "published_at": "2026-11-25T00:00:00Z",
-      "source_published_date": "2026-11-25",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
       },
-      "country": "美国",
-      "region": "北美",
-      "category": "贸易救济",
-      "status": "待核对",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-25T17:38:41Z",
-      "last_seen": "2026-11-25T17:38:41Z",
-      "source_excerpt": "As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) and countervailing duty (CVD) orders on prestressed concrete steel wire strand (PC strand) from the People's Republic of China (China) would likely lead to the continuation or recurrence of dumping, countervailable subsidies, and material injury to an industry in the United States, Commerce is publishing a notice of continuation of these AD and CVD orders.",
-      "source_observation": {
-        "federal_register:title": "b72fda63b543d6a876938dc01eb369d3310aa605039410b403a48f2880b6a934",
-        "federal_register:excerpt": "fad95831df404a546bffae5dbc20bb5bda0cc98d48b2384bf8eae9bcdff49c5d"
-      },
-      "source_revision_checked_at": "2026-11-25T17:38:41Z",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "machine_translation": {
-        "title_zh": "中华人民共和国的预应力混凝土用钢绞线:继续反倾销税和反补贴税命令",
-        "excerpt_zh": "由于美国商务部(商务部)和美国国际贸易委员会(贸委会)认定,撤销中华人民共和国(中国)关于预应力混凝土用钢绞线的反倾销税和反补贴税命令,可能会导致继续或再次出现倾销、反补贴和对美国工业的物质损害。",
-        "fingerprint": "652d3e31f0fa8b66e72bfaafe058399b993c7b6386bf5ee4ae771a58a2d5b0c5",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-11-25T17:40:19Z"
+      "review_disposition": "blocked",
+      "review_note_zh": "官方入口记录11月25日的版本观察与反馈状态DISABLED。尚未核实这次变动对应的正式通过文件、发布日期或费用规则，保留后续核验。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-25T20:34:30Z",
+      "retry_after": "2026-11-28T20:34:30.000Z",
+      "retry_policy": "scheduled",
+      "review_evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=intcom%3AAres%282026%296860249",
+      "review_coverage": "尝试Have Your Say议题页、公开API、EUR-Lex、欧委会及理事会入口，只查到此前咨询草案与现行基本条例。严格按来源版本记录，不能据DISABLED认定正式实施。",
+      "source_translation": {
+        "title_zh": "欧盟CBAM证书的销售与回购",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -8334,6 +8425,10 @@
         {
           "name": "Energy & Climate Intelligence Unit | ECIU",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aV3AyVk5ZNFhDODZQVm9OaEdlbVBHSDBXMFBJMFpQVjB4c1l1a1M0UWFLSU5PRXVUcF9FMTdIUWFEN1JMR3ZiUGhEekZMX0wtMXhEckdWVjRERHVRYW5RUWFwZFRGYlMwZWVPWU9QRXo?oc=5"
+        },
+        {
+          "name": "Kallanish Commodities",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcVkyd1VhdTBoXzduQmg4V0VQek1mSnpQejlPcFdFbzBYQ0hzdEs5bE5aeDRkcTJRbU5JblZqOFNzS3l4UnEyZUFCUDVhRFBZX2h4MmppNEEtakNsY1Z1ZG44ODNHM0k2SHhDeWdud2lHWFBvYkIwV3F4QUZaajdhSkdzeVhoY2ZPRHNjTjlxc2hkN3dFMTFKOEVHc0w2VU5HUjNpU01wMGc0aWY5R0tKVlFrQVM5azkxdHZ6djVaWkI1elV3SkJ6WUxIQQ?oc=5"
         }
       ],
       "source_translation": {
@@ -9303,6 +9398,17 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-25T17:40:24Z"
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "欧委会新闻页解释已核验实施条例(EU)2026/2498，相关第三国碳价抵扣条件已按条例正文记录。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-25T20:34:30Z",
+      "duplicate_of": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2498",
+      "source_translation": {
+        "title_zh": "欧委会通过CBAM第三国已付碳价抵扣规则",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -11385,17 +11491,31 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
-      "source_excerpt": "特朗普威胁加拿大汽车钢铁加税关税或成谈判筹码 VanPeople"
+      "source_excerpt": "特朗普威胁加拿大汽车钢铁加税关税或成谈判筹码 VanPeople",
+      "review_disposition": "blocked",
+      "review_note_zh": "原媒体正文未取得。可读加方媒体确认钢铝及汽车正磋商，并提及8月公布的潜在加税安排，无法确认队列标题是否对应11月25日新增正式措施。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-25T20:34:30Z",
+      "retry_after": "2026-12-02T20:34:30.000Z",
+      "retry_policy": "scheduled",
+      "review_evidence_url": "https://globalnews.ca/news/12165941/us-accommodate-canada-sectoral-tariffs-trump/",
+      "review_coverage": "检查原RSS、中文标题和加拿大媒体复核，并检索白宫、USTR正式公告。保留新增生效日期或适用品种待核。",
+      "source_translation": {
+        "title_zh": "特朗普威胁提高加拿大汽车和钢铁关税，关税或成谈判筹码",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
+      }
     },
     {
       "id": "ac1a1acafe5180e998ac",
-      "title_zh": "USTR GREER Q&A/CNBC: USA OPPOSED TO CANADA'S PROPOSED TARIFF EXEMPTIONS FOR CHINA STEEL, ALUMINUM; BALANCING NAT'L SECURITY, ECONOMY RE NVIDIA",
-      "title_en": "USTR GREER Q&A/CNBC: USA OPPOSED TO CANADA'S PROPOSED TARIFF EXEMPTIONS FOR CHINA STEEL, ALUMINUM; BALANCING NAT'L SECURITY, ECONOMY RE NVIDIA",
+      "title_zh": "格里尔对加拿大拟扩大中国钢铝减免表达保留，美加继续磋商",
+      "title_en": "Greer voices reservations about proposed Canadian tariff relief on Chinese steel and aluminium",
       "title_original": "USTR GREER Q&A/CNBC: USA OPPOSED TO CANADA'S PROPOSED TARIFF EXEMPTIONS FOR CHINA STEEL, ALUMINUM; BALANCING NAT'L SECURITY, ECONOMY RE NVIDIA",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "美国贸易代表格里尔在11月25日CNBC采访中谈到加拿大钢铁、铝和汽车领域磋商。加拿大媒体报道其对加方扩大部分中国钢铝减免表达保留。加方此前公布拟扩大23个钢铁及9个铝税目减免。此访谈反映谈判立场，具体进口待遇仍以两国具法律效力的清单及报关细则判断。",
+      "summary_en": "Greer discussed Canada’s steel, aluminium and auto talks on CNBC on 25 November. Canadian reporting quotes reservations about Canada's planned relief for selected Chinese metal products. Canada previously announced proposed coverage for 23 steel and nine aluminium tariff items.",
+      "impact_zh": "中国钢材对加报价按既有附加税与实际减免资格核算。若涉及加拿大加工后销往美国，应另核美国原产地及法律要求，待官方税目和实施日期清楚后再改含税报价。",
+      "impact_en": "Price shipments to Canada using effective remission rules and check any subsequent US import separately. Reprice once operative tariff lines and dates are confirmed.",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUzltMUVuZGx3Ry1pellTMlFSaWthVnQ5ZFhrTWFFREg2c0xvSk50T0lZM294UFFlNFNONWQ4QXhGd1RxTXlsNG9EZDNxN1NKdTVaRU5naUFCVnBSZmpxRFVMRmxvN2tvYmR3RHZnVHVVbk9vcnBSMXQ1ZmwyQ0VIRDYxSlQyWkJpSTAzQ3k0VHZxSHlnVnZ6LWVybTUxSnZKY0hIc21YSVA0VWN3NEdnLVVSNTloc2tFZGMwX3ZXTFAzQ2FDRGNsQVlxNmIzMkxPZW9OVlBfWXNPVk9VYklEclgtRWUyTzJEVzFlbjRSQUh1ZGxhZUQwbXl1b2xvX3BXeUlpMEtfSnl0bkJWZU5JZVE2eXBsSkw5b2tYamtrcFBiMGM?oc=5",
       "published_at": "2026-11-25T13:48:00Z",
       "source_published_date": "2026-11-25",
@@ -11417,7 +11537,7 @@
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
       "source_excerpt": "USTR GREER Q&A/CNBC: USA OPPOSED TO CANADA'S PROPOSED TARIFF EXEMPTIONS FOR CHINA STEEL, ALUMINUM; BALANCING NAT'L SECURITY, ECONOMY RE NVIDIA TradingView",
@@ -11428,6 +11548,16 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-25T17:40:08Z"
+      },
+      "evidence_url": "https://globalnews.ca/news/12165941/us-accommodate-canada-sectoral-tariffs-trump/",
+      "coverage": "核对加拿大媒体对11月25日CNBC访谈的可读报道与加拿大官方经贸说明（https://www.international.gc.ca/country_news-pays_nouvelles/2026-11-16-china-chine.aspx?lang=eng）。访谈完整视频未能读取，报道的访谈观点不等于税则命令。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-25T20:34:30Z",
+      "source_translation": {
+        "title_zh": "美国贸易代表格里尔接受CNBC采访，质疑加拿大拟对中国钢铝减免关税，并谈英伟达政策",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -11463,7 +11593,18 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
-      "source_excerpt": "UK proposes CBAM exemption for EU, EEA, Swiss steel from 1 January 2027 EUROMETAL"
+      "source_excerpt": "UK proposes CBAM exemption for EU, EEA, Swiss steel from 1 January 2027 EUROMETAL",
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一11月23日英国HMRC原产地豁免草案，已核验主条包含追溯和注册门槛。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-25T20:34:30Z",
+      "duplicate_of": "https://gov.uk/government/publications/draft-legislation-exemption-for-eu-eea-and-swiss-origin-goods-from-cbam",
+      "source_translation": {
+        "title_zh": "英国拟自2027年1月1日起豁免欧盟、欧洲经济区和瑞士原产钢铁的英国CBAM",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
+      }
     },
     {
       "id": "f6bf474c238dd0ce0208",
@@ -11506,17 +11647,27 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-25T17:40:14Z"
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "企业排名类新闻稿以选定供应商比较为主，公开内容未提出新产能、供应事件或可独立复核的第三方调研结果。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-25T20:34:30Z",
+      "source_translation": {
+        "title_zh": "五家中国镀锌钢卷供应商排名比较",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
       "id": "e13a06f9089600d5bf68",
-      "title_zh": "UK-EU ETS linkage set to ease CBAM requirements for metal packaging manufacturers, says MPMA",
-      "title_en": "UK-EU ETS linkage set to ease CBAM requirements for metal packaging manufacturers, says MPMA",
+      "title_zh": "英国金属包装协会认为欧英ETS互联有望减轻合格货物的CBAM手续",
+      "title_en": "UK metal packaging association sees lighter CBAM obligations if origin exemptions take effect",
       "title_original": "UK-EU ETS linkage set to ease CBAM requirements for metal packaging manufacturers, says MPMA",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "11月25日AL Circle引述英国金属包装制造商协会（MPMA）负责人Jason Galley称，欧英碳市场互联及预期的原产地豁免有望减少跨海峡供应的CBAM成本与行政工作。英国已公布拟从2027年1月1日追溯适用的草案；欧盟对英国原产货物的豁免仍须另行履行法律程序。行业效益为协会判断。",
+      "summary_en": "MPMA's Jason Galley told AL Circle that UK–EU ETS linkage and prospective origin exemptions could lower CBAM costs and paperwork for qualifying cross-Channel metal packaging supply. The UK draft targets 1 January 2027 retrospectively once enacted; EU relief for UK goods requires separate EU legal steps.",
+      "impact_zh": "面向英国制罐客户报价时，逐码核对金属包装基材的CBAM适用性及非优惠原产地。对中国原产供货保留碳成本与资料交付条款，并按各市场生效进度比较欧洲供货。",
+      "impact_en": "For UK canmaker quotes, check CBAM scope and non-preferential origin for the specific packaging substrate. Preserve cost and data clauses for China-origin purchases.",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYml4RFB3Ry1iMlN4aTJnMjV4S2w2QmZOUzJTeGtrVS1uanZxYkFDbmZMLXZjdk1RQ0VqcldPSEYyU2VIZ1JQZFFjUkFfV1hfdjVhZi02MVNkTjE2Y3E2VlEzdkQ1SEN5NnBpQTVNajRQQUVIS3BkX1Bnb2FBREd4VlZ3S0pBT1E0ekh0THMxcXN1QzNtUVRyWEJqQWNYbUU4S2NUdU1DMG5fMm9sUnZLQzdNb3hrNWVWUHowMFdobUVqQTZTWFpDdTZsYWhrTUZtUkE?oc=5",
       "published_at": "2026-11-25T08:30:00Z",
       "source_published_date": "2026-11-25",
@@ -11538,7 +11689,7 @@
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
       "source_excerpt": "UK-EU ETS linkage set to ease CBAM requirements for metal packaging manufacturers, says MPMA AL Circle",
@@ -11549,6 +11700,16 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-25T17:40:16Z"
+      },
+      "evidence_url": "https://www.alcircle.com/news/uk-eu-emissions-trading-agreement-expected-to-reduce-costs-and-paperwork-for-metal-packaging-sector-122099",
+      "coverage": "核对AL Circle所载协会采访及英国草案（https://www.gov.uk/government/publications/draft-legislation-exemption-for-eu-eea-and-swiss-origin-goods-from-cbam/draft-legislation-accessible-version），并与欧委会互联公告（https://climate.ec.europa.eu/news-other-reads/news/negotiations-finalised-link-eu-and-uk-emissions-trading-systems-2026-11-20_en）比对。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-25T20:34:30Z",
+      "source_translation": {
+        "title_zh": "英国金属包装制造商协会认为欧英ETS互联有望减轻CBAM负担",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -11584,7 +11745,18 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
-      "source_excerpt": "尽管征收50%关税，亚洲钢铁仍再次涌入美国 IDNFinancials"
+      "source_excerpt": "尽管征收50%关税，亚洲钢铁仍再次涌入美国 IDNFinancials",
+      "review_disposition": "duplicate",
+      "review_note_zh": "核心是与已核验主条相同的美国钢价、数据中心需求和亚洲来源许可量新闻。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-25T20:34:30Z",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlhIdEMwZFVsTS1lM1VWQk1kcUY4X1J3UVR5dEhwY05HNkNrOWFFVUN1RHg0UHBVUm94TDVwTlpRbDZHZE5waW92VFd2cGI4N1hSWklOaXNjdDd5WkFvbFp5dl9rMnJESFk2VmpMZmdINU1oUGFjLTYtUTZaeU5hdHdWTkYtRTN0?oc=5",
+      "source_translation": {
+        "title_zh": "尽管美国征收50%关税，部分亚洲钢材进口回升",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
+      }
     },
     {
       "id": "db4a73ef54b90954290b",
@@ -11619,7 +11791,18 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
-      "source_excerpt": "美国钢铁价格达到四年来新高 亚洲钢铁无视关税大量涌入美国 财联社"
+      "source_excerpt": "美国钢铁价格达到四年来新高 亚洲钢铁无视关税大量涌入美国 财联社",
+      "review_disposition": "duplicate",
+      "review_note_zh": "与已核验主条同一组美国钢价及韩国、越南来源钢材进口报道。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-25T20:34:30Z",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQlhIdEMwZFVsTS1lM1VWQk1kcUY4X1J3UVR5dEhwY05HNkNrOWFFVUN1RHg0UHBVUm94TDVwTlpRbDZHZE5waW92VFd2cGI4N1hSWklOaXNjdDd5WkFvbFp5dl9rMnJESFk2VmpMZmdINU1oUGFjLTYtUTZaeU5hdHdWTkYtRTN0?oc=5",
+      "source_translation": {
+        "title_zh": "媒体称美国钢价升至四年高位，部分亚洲来源钢材进口回升",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
+      }
     },
     {
       "id": "9d45d5240e246f9c2abd",
@@ -11665,7 +11848,17 @@
       "follow_up": "按美国后续最终统计和钢厂实盘复核产品与来源变化。",
       "evidence_url": "https://www.steel.org/2026/11/aisi-releases-october-sima-imports-data-7/",
       "review_method": "source_checked",
-      "reviewed_at": "2026-11-25T08:05:56Z"
+      "reviewed_at": "2026-11-25T08:05:56Z",
+      "related_sources": [
+        {
+          "name": "IDNFinancials",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNZjNIM1Z6UUxjNm80dzFzVjZGakJBSnhSS1UxdEZSZzJHV1dkbmt3RG54X0M4NDhpSFE1cXZXM3dhUzhRNTdrTDNyRk9GSk9sX0plMXRSZ1VIbUtCajJkWDc0UG1uR0tkTTR3U0JNNWhGcmRKZUtoQnNxcmFXT0MxbjZGX0tWYy1yYkNPVHFEMGV0SEpQQ0x6TkRqTm9wS0F4a1lYSmZ5ek1qd1Z5cXdjd3laUFRhVGhJOTM5RDdkdElZdTNxd1FKMWxGY1hUTHlpWnVUdUp0b1lrODdHeV91Zkg3b1p3SHdCaUVBQjlSSWl4cVp4MXlaN2NrVUpTNkFuQVotVEZfb3M4R0NEa19NOGRaQ2FYaDItLXhLZ0NrMTdZbXlyUXc?oc=5"
+        },
+        {
+          "name": "财联社",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IcF85TWZBVXpqLTBldjNBOHg1NjhCVTlWYlpsT2RCaVFvWjQxSzE4czB1djVFZUUyYVZQb3RPQXpCY3QycDkzbQ?oc=5"
+        }
+      ]
     },
     {
       "id": "dc44e78fc0b5b611b8ed",
@@ -11708,6 +11901,17 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-25T17:40:16Z"
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "报道聚焦已经核验的欧英ETS互联及实施时间线，以官方主条为准。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-25T20:34:30Z",
+      "duplicate_of": "https://climate.ec.europa.eu/news-other-reads/news/negotiations-finalised-link-eu-and-uk-emissions-trading-systems-2026-11-20_en",
+      "source_translation": {
+        "title_zh": "市场欢迎欧英ETS互联协议，实施细节仍待明确",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -11875,49 +12079,6 @@
         "translated_at": "2026-11-24T20:36:46Z",
         "method": "editor_translation",
         "coverage": "标题翻译，不代表全文核验"
-      }
-    },
-    {
-      "id": "8504bb15e82e4debf7fb",
-      "title_zh": "US tariff investigation covering China and the EU in focus this week",
-      "title_en": "US tariff investigation covering China and the EU in focus this week",
-      "title_original": "US tariff investigation covering China and the EU in focus this week",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVRxb0hpbEs5Y2hTbWluZFpsb2pTbHl6MHB2NkNnN29WOHo3dDZoY2Zab29vNWJvRWlKSUxpdzdHRjZJb1AyUTlRUV9ZZW5CNzFaRExUdlA3X2lLcjkxWWNBLUVOMktiZVkxYjZhZXlLSGxVdlJodUJZcVlqMFU4NE14dkNJVEFta0pVY3d4WjJUYTRLMkdtNmoxeTBuS2ZiV3p1ajlNUnI?oc=5",
-      "published_at": "2026-11-24T14:58:56Z",
-      "source_published_date": "2026-11-24",
-      "source": {
-        "id": "rss",
-        "name": "SteelRadar",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "配额与关税",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-25T17:38:41Z",
-      "last_seen": "2026-11-25T17:38:41Z",
-      "source_excerpt": "US tariff investigation covering China and the EU in focus this week SteelRadar",
-      "machine_translation": {
-        "title_zh": "本周美国针对中国和欧盟的关税调查",
-        "excerpt_zh": "本周美国对中国和欧盟的关税调查聚焦于SteelRadar",
-        "fingerprint": "d7b17d120acb882621ac77910f79f720dc48ee1c0b949e4f22ffcac7cffa3fe2",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-11-25T17:40:20Z"
       }
     },
     {
@@ -12326,13 +12487,13 @@
     },
     {
       "id": "d99c978735ba3ed8485a",
-      "title_zh": "Weekly Recap: EU anti-dumping duty and JSW Steel Q2 profit surge",
-      "title_en": "Weekly Recap: EU anti-dumping duty and JSW Steel Q2 profit surge",
+      "title_zh": "JSW钢铁截至9月季度归母利润升至5279 crore卢比，欧盟冷轧税率沿用既有终裁",
+      "title_en": "JSW reports INR 5,279 crore attributable profit; EU CRC duty is the existing 9.5% measure",
       "title_original": "Weekly Recap: EU anti-dumping duty and JSW Steel Q2 profit surge",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "JSW钢铁于10月23日提交截至2026年9月30日的2027财年第二季度合并财报，营业收入54,486 crore卢比，归属于母公司所有者的利润5,279 crore卢比，上年同期为1,623 crore卢比。11月23日TradingView周报引用该财报及欧盟对印度部分冷轧钢9.5%反倾销终裁，相关措施自11月17日生效。",
+      "summary_en": "JSW's filing for the September 2026 quarter reports consolidated operating revenue of INR 54,486 crore and attributable profit of INR 5,279 crore, versus INR 1,623 crore a year earlier. The 23 November recap pairs existing results with the EU's 9.5% definitive duty on covered Indian CRC, effective 17 November.",
+      "impact_zh": "与印度JSW冷轧竞争时，按欧洲进口的实际范围和现有税率比价。单季利润可作供应商经营背景，订单报价需继续核对其欧洲或替代市场的实际成交。",
+      "impact_en": "Compare covered JSW CRC using the duties in force and check executable export offers; group earnings are sourcing context.",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUWlRXzVucnZLVmRLSkszVk5UcEtwcnU1Y3lCYWkxVW1LbUVoU1RfamxEbEtzV0FfcWh0U2U3aVRYRzAwSlFhSExaLVEzTlp3NGZNTFpEc09EN2Vjd2JvUXh3dWVFdFZ0Q0NuMHVBdW51ZkNhclctRWViblkxM200cGZOYmFYRjBBQ3VTZU1pZXhlWi1oLTBHNTBpTlNnZGtyR0QyLWVVOXVtQXRVb3UwTmNqdU91RExHQ3ozQ09zMS1iZVU?oc=5",
       "published_at": "2026-11-23T01:00:00Z",
       "source_published_date": "2026-11-23",
@@ -12344,7 +12505,7 @@
       },
       "country": "全球",
       "region": "全球",
-      "category": "贸易救济",
+      "category": "市场与产能",
       "status": "新闻",
       "importance": "中",
       "products": [],
@@ -12354,7 +12515,7 @@
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
       "source_excerpt": "Weekly Recap: EU anti-dumping duty and JSW Steel Q2 profit surge TradingView",
@@ -12365,6 +12526,16 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-25T17:40:21Z"
+      },
+      "evidence_url": "https://nsearchives.nseindia.com/corporate/ixbrl/INTEGRATED_FILING_INDAS_203608_23102026181031_iXBRL_WEB.html",
+      "coverage": "核对TradingView周报、JSW向NSE提交的合并财报及欧盟实施条例(EU)2026/2547，区分财报披露日和欧盟税率生效日。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-25T20:34:30Z",
+      "source_translation": {
+        "title_zh": "周报：欧盟冷轧板反倾销与JSW钢铁二季度利润上升",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -12664,13 +12835,13 @@
     },
     {
       "id": "263644df0efbbe255c84",
-      "title_zh": "OJ: Commission announces impending expiry of anti-dumping duties on corrosion-resistant steel and silicon",
-      "title_en": "OJ: Commission announces impending expiry of anti-dumping duties on corrosion-resistant steel and silicon",
+      "title_zh": "欧盟预告俄土特定耐腐蚀钢反倾销措施于2027年8月13日到期",
+      "title_en": "EU gives notice of prospective expiry of Russian and Turkish corrosion-resistant steel measures",
       "title_original": "OJ: Commission announces impending expiry of anti-dumping duties on corrosion-resistant steel and silicon",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "欧盟官方公报11月20日发布C/2026/6044。若未启动到期复审，俄罗斯、土耳其原产特定耐腐蚀钢的反倾销措施于2027年8月13日零时到期。欧盟生产商最迟可在到期前三个月提交复审申请。原令2022/1395涵盖规定成分、经化学钝化的特定热镀锌、铝或镁板带材，示例CN为ex 7210 49 00及ex 7210 61 00；土耳其企业税率2.4%—11.0%，俄方10.3%—37.4%。原令排除不锈钢、硅电工钢、高速钢及仅经热轧或冷轧的产品。适用企业单独税率须提交有效商业发票。同期C/2026/6045为独立金属硅案件，含对经韩国及台湾发运的适用扩展。",
+      "summary_en": "The EU's 20 November notice C/2026/6044 sets potential expiry on 13 August 2027 for certain Russian and Turkish hot-dip corrosion-resistant steel, unless an expiry review is initiated. Original rates range from 2.4% to 11.0% for Türkiye and 10.3% to 37.4% for Russia. C/2026/6045 is a separate silicon notice.",
+      "impact_zh": "欧盟镀锌和部分合金涂镀板报价仍按当前土耳其供应商税率和实际配额比价。2027年三季度及以后可做竞争情景，待复审立案或到期确认后再调整。俄货仍需另核进口限制。",
+      "impact_en": "Use current Turkish supplier duties and quotas for comparisons. Treat the expiry as a Q3 2027 scenario until the EU confirms a review or expiry; check Russian import restrictions separately.",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTGJFZVZZSExSZnluTEtwS0c3ZTh2dXNFZU81bVRFWHNpWldYUV8xTkJiVHhyQmtYTDFGLXAxZ29PbDh2Q0dTRGdCTExTaWNvLUp1RkpqWkxFUDRpS3dtZEc3REI2ZnBkdmU3Yno5TjN1dTJaNWVOczRlUmF4blEyTVQ2VFF2U3hoeDlKT2JIdWszWnBRSERyczlmNFpWSjEzWTJBcDFrWUlIVkpvSTBwQ244dURnQzJTdXdpZlNZdFFUWkphN2c?oc=5",
       "published_at": "2026-11-20T09:00:58Z",
       "source_published_date": "2026-11-20",
@@ -12692,7 +12863,7 @@
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
       "source_excerpt": "OJ: Commission announces impending expiry of anti-dumping duties on corrosion-resistant steel and silicon EU Law Live",
@@ -12703,6 +12874,16 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-25T17:40:21Z"
+      },
+      "evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A52026XC06044",
+      "coverage": "核对官方预告及原令(EU)2022/1395的第1条、税率和排除范围。同行报道同时提及独立的金属硅预告（https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A52026XC06045）。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-25T20:34:30Z",
+      "source_translation": {
+        "title_zh": "欧盟公布特定耐腐蚀钢和金属硅反倾销措施到期预告",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -13683,13 +13864,17 @@
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-18T16:01:15Z"
       },
-      "review_disposition": "blocked",
-      "review_note_zh": "EU Law Live报道称欧委会更正日本钢厂名称，但原报道及正式更正条例正文未核实；不能仅据标题推断具体企业或税率。与2026/2538可能同事件但尚无已核验主条，故不标duplicate。",
+      "review_disposition": "duplicate",
+      "review_note_zh": "到期复查得到正式更正条例。与已核验的东京制铁名称更正属同一文件，6.9%税率及89MA附加码沿用。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-18T19:33:15.044Z",
-      "retry_after": "2026-11-25T20:30:00Z",
-      "review_evidence_url": "https://eur-lex.europa.eu/eli/reg_impl/2026/2538/oj",
-      "review_coverage": "仅核对队列标题与2026/2538官方题名关联，缺少更正正文及可追溯条款，未全文核验。"
+      "review_attempted_at": "2026-11-25T20:34:30Z",
+      "duplicate_of": "https://eur-lex.europa.eu/./legal-content/AUTO?uri=CELEX%3A32026R2538",
+      "source_translation": {
+        "title_zh": "欧委会更正适用反倾销税的日本钢厂名称",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
+      }
     },
     {
       "id": "836bedbede4b0ffcdc7c",
@@ -14061,11 +14246,19 @@
       "last_seen": "2026-11-25T02:49:37Z",
       "source_excerpt": "海关总署：10月中国出口钢铁板材574万吨，同比降3.9% 钢铁网",
       "review_disposition": "blocked",
-      "review_note_zh": "媒体标题称10月钢铁板材出口574万吨、同比-3.9%，本轮未取得海关总署可逐项核实的官方10月板材分项统计。该数字不直接作为已核验出口数据发布。",
+      "review_note_zh": "11月18日Mysteel可读资料列出10月钢铁板材出口574万吨、同比下降3.9%，前10个月5620万吨、同比下降7.0%。海关总署同口径原表尚未核得，数字保留为行业转引。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-18T19:33:15.044Z",
-      "retry_after": "2026-11-25T20:30:00Z",
-      "review_coverage": "仅核对钢铁网队列标题；国家统计局产量数据不能替代海关出口数据，尚未取得同口径官方来源。"
+      "review_attempted_at": "2026-11-25T20:34:30Z",
+      "retry_after": "2026-12-02T20:34:30.000Z",
+      "retry_policy": "scheduled",
+      "review_evidence_url": "https://news.mysteel.com/a/26111811/4DE65EBC229F6BD9.html",
+      "review_coverage": "检索中国海关统计门户及11月已公布的重点商品表。可见的商务部海关转引为全钢材总体，不能替代板材分项。",
+      "source_translation": {
+        "title_zh": "海关总署：10月中国钢铁板材出口574万吨，同比下降3.9%",
+        "translated_at": "2026-11-25T20:34:30Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
+      }
     },
     {
       "id": "4d2f6c890d89315bc352",
