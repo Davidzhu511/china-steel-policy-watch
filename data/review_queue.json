@@ -1,10 +1,383 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-25T02:49:37Z",
-  "pending_count": 23,
-  "actionable_count": 0,
+  "generated_at": "2026-11-25T17:38:41Z",
+  "pending_count": 37,
+  "actionable_count": 14,
   "blocked_count": 23,
-  "items": [],
+  "items": [
+    {
+      "id": "5616f5e83d0756245a60",
+      "url": "https://federalregister.gov/documents/2026/11/25/2026-23992/prestressed-concrete-steel-wire-strand-from-the-peoples-republic-of-china-continuation-of",
+      "published_at": "2026-11-25T00:00:00Z",
+      "title_original": "Prestressed Concrete Steel Wire Strand From the People's Republic of China: Continuation of Antidumping Duty and Countervailing Duty Orders",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source": {
+        "id": "federal_register",
+        "name": "U.S. Federal Register / 美国联邦公报",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "priority_signal": {
+        "zh": "贸易救济程序 · 待核对",
+        "en": "Trade-remedy procedure · review needed"
+      },
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "As a result of the determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC) that revocation of the antidumping duty (AD) and countervailing duty (CVD) orders on prestressed concrete steel wire strand (PC strand) from the People's Republic of China (China) would likely lead to the continuation or recurrence of dumping, countervailable subsidies, and material injury to an industry in the United States, Commerce is publishing a notice of continuation of these AD and CVD orders.",
+      "needs_translation": true,
+      "title_zh": "Prestressed Concrete Steel Wire Strand From the People's Republic of China: Continuation of Antidumping Duty and Countervailing Duty Orders",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "b923be699568c723",
+      "related_reviews": [
+        {
+          "url": "https://federalregister.gov/documents/2026/10/29/2026-22024/non-refillable-steel-cylinders-from-the-peoples-republic-of-china-continuation-of-antidumping-duty",
+          "published_at": "2026-10-29T00:00:00Z",
+          "title_zh": "美国续行中国一次性钢瓶反倾销、反补贴令，10月14日起继续有效",
+          "evidence_url": "https://public-inspection.federalregister.gov/2026-22024.pdf"
+        },
+        {
+          "url": "https://federalregister.gov/documents/2026/08/04/2026-15749/prestressed-concrete-steel-wire-strand-from-the-peoples-republic-of-china-final-results-of-the",
+          "published_at": "2026-08-04T00:00:00Z",
+          "title_zh": "美国预应力混凝土钢绞线反补贴日落复审：认定撤销措施可能导致再发生",
+          "evidence_url": "https://federalregister.gov/documents/2026/08/04/2026-15749/prestressed-concrete-steel-wire-strand-from-the-peoples-republic-of-china-final-results-of-the"
+        }
+      ]
+    },
+    {
+      "id": "9517a9e8bf0e58361c74",
+      "url": "https://taxation-customs.ec.europa.eu/news/cbam-commission-adopts-rules-recognition-carbon-prices-paid-non-eu-countries-2026-11-16_en",
+      "published_at": "2026-11-16T00:00:00Z",
+      "title_original": "Commission adopts rules on the recognition of carbon prices paid in non-EU countries",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source": {
+        "id": "ec_watch_pages",
+        "name": "DG TAXUD · CBAM News",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-16",
+      "source_excerpt": "Commission adopts rules on the recognition of carbon prices paid in non-EU countries On 16 November 2026, the Commission published Implementing Regulation 2026/2498 setting out detailed rules under the Carbon Border Adjustment Mechanism (CBAM) for the deduction of carbon prices effectively paid in non-EU countries.",
+      "needs_translation": true,
+      "title_zh": "Commission adopts rules on the recognition of carbon prices paid in non-EU countries",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "9781a0d22c70b045",
+      "related_reviews": []
+    },
+    {
+      "id": "84ad81da41d5b35580ec",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14132-Sale-and-repurchase-of-CBAM-certificates_en",
+      "published_at": "2026-11-25T11:51:00Z",
+      "title_original": "Sale and repurchase of CBAM certificates",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "consultation": {
+        "status": "DISABLED",
+        "stage": "ADOPTION_WORKFLOW",
+        "opens_at": "2026-11-25T11:51:00Z"
+      },
+      "published_date": "2026-11-25",
+      "source_excerpt": "This Delegated Act will set out the conditions for the sale and re-purchase of carbon border adjustment mechanism (CBAM) certificates through a common central platform following a joint procurement procedure between Member States and the Commission. Feedback status: DISABLED. Feedback period: 2026-11-25T11:51:00Z to not stated. Topics: Climate action, Taxation. Type of act: REG_DEL. Reference: Ares(2024)546926.",
+      "needs_translation": true,
+      "title_zh": "Sale and repurchase of CBAM certificates",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "4b6412668c06bb62",
+      "related_reviews": [
+        {
+          "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14132-Sale-and-repurchase-of-CBAM-certificates_en",
+          "published_at": "2026-07-09T11:08:21Z",
+          "title_zh": "CBAM证书销售与回购草案：咨询已于8月6日结束",
+          "evidence_url": "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14132"
+        }
+      ]
+    },
+    {
+      "id": "4f8d776c1b4a6b52fca4",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fSFhOUUp3bE8wTkNwQzRiUHNrcl9yX3NnakxrbnlOZGdEM1VFeE9WZzdsNFpTOVMxVnFQdEFna0JycGRpbU42WUp1M1NFZFhs?oc=5",
+      "published_at": "2026-11-25T16:24:27Z",
+      "title_original": "特朗普威胁加拿大汽车钢铁加税关税或成谈判筹码",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source": {
+        "id": "rss",
+        "name": "VanPeople",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "特朗普威胁加拿大汽车钢铁加税关税或成谈判筹码 VanPeople",
+      "needs_translation": false,
+      "title_zh": "特朗普威胁加拿大汽车钢铁加税关税或成谈判筹码",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "f3c29a80682df76d",
+      "related_reviews": []
+    },
+    {
+      "id": "ac1a1acafe5180e998ac",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUzltMUVuZGx3Ry1pellTMlFSaWthVnQ5ZFhrTWFFREg2c0xvSk50T0lZM294UFFlNFNONWQ4QXhGd1RxTXlsNG9EZDNxN1NKdTVaRU5naUFCVnBSZmpxRFVMRmxvN2tvYmR3RHZnVHVVbk9vcnBSMXQ1ZmwyQ0VIRDYxSlQyWkJpSTAzQ3k0VHZxSHlnVnZ6LWVybTUxSnZKY0hIc21YSVA0VWN3NEdnLVVSNTloc2tFZGMwX3ZXTFAzQ2FDRGNsQVlxNmIzMkxPZW9OVlBfWXNPVk9VYklEclgtRWUyTzJEVzFlbjRSQUh1ZGxhZUQwbXl1b2xvX3BXeUlpMEtfSnl0bkJWZU5JZVE2eXBsSkw5b2tYamtrcFBiMGM?oc=5",
+      "published_at": "2026-11-25T13:48:00Z",
+      "title_original": "USTR GREER Q&A/CNBC: USA OPPOSED TO CANADA'S PROPOSED TARIFF EXEMPTIONS FOR CHINA STEEL, ALUMINUM; BALANCING NAT'L SECURITY, ECONOMY RE NVIDIA",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source": {
+        "id": "rss",
+        "name": "TradingView",
+        "kind": "news",
+        "official": false
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "USTR GREER Q&A/CNBC: USA OPPOSED TO CANADA'S PROPOSED TARIFF EXEMPTIONS FOR CHINA STEEL, ALUMINUM; BALANCING NAT'L SECURITY, ECONOMY RE NVIDIA TradingView",
+      "needs_translation": true,
+      "title_zh": "USTR GREER Q&A/CNBC: USA OPPOSED TO CANADA'S PROPOSED TARIFF EXEMPTIONS FOR CHINA STEEL, ALUMINUM; BALANCING NAT'L SECURITY, ECONOMY RE NVIDIA",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "989311a05239a17a",
+      "related_reviews": []
+    },
+    {
+      "id": "2f0e99610540e1c4d694",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQajBtWTlsRmtCeE9wcGtaTlFCYVRRMjdzS2FEUDItSEVlMzA2SHFjWW9NcG0tZEpHOFFNdzBoYTYyZHFJV3NmVW1MOTJqdG1Ed3N6X0NXUWphRUVXaFc0RlJmSGZKM1NwLWVoMW1UMW5sQURpTnE3UlFaZmVUQWJxcDVHX1BHNjBSeG5sSC04cE1aZlJ1V01J?oc=5",
+      "published_at": "2026-11-25T12:55:31Z",
+      "title_original": "UK proposes CBAM exemption for EU, EEA, Swiss steel from 1 January 2027",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source": {
+        "id": "rss",
+        "name": "EUROMETAL",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "UK proposes CBAM exemption for EU, EEA, Swiss steel from 1 January 2027 EUROMETAL",
+      "needs_translation": true,
+      "title_zh": "UK proposes CBAM exemption for EU, EEA, Swiss steel from 1 January 2027",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "6faf0f77186fcac9",
+      "related_reviews": [
+        {
+          "url": "https://gov.uk/government/publications/draft-legislation-exemption-for-eu-eea-and-swiss-origin-goods-from-cbam",
+          "published_at": "2026-11-23T00:00:00Z",
+          "title_zh": "英国公布CBAM原产地豁免草案，拟立法后追溯至2027年1月1日",
+          "evidence_url": "https://www.gov.uk/government/publications/draft-legislation-exemption-for-eu-eea-and-swiss-origin-goods-from-cbam/draft-legislation-accessible-version"
+        }
+      ]
+    },
+    {
+      "id": "f6bf474c238dd0ce0208",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEQ2X2o5ZDlkV1Zkdmp0N0VnVDQtSXZ4ZER4ekoyekpwTDNhMnNLOC1yWjA5cGhRTXo3TDlvajd4UFNfc1MxM081cWhVR1MtcHpVMXRIU19NQmg2Ym5rREp6Q3c5c2lDaHYydTk0aHdsNjJmVFI4UnNTUXpEWEx3NWFyUUQyYm5CVEk0NnY3a2t6NHZtSGNSV2p2ckNJd2FoQzQ5Z1IzOUlmSTJDQktjaA?oc=5",
+      "published_at": "2026-11-25T10:01:00Z",
+      "title_original": "Ranked Comparison of Five Chinese Galvanized Steel Coil Manufacturers",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source": {
+        "id": "rss",
+        "name": "EIN News",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "Ranked Comparison of Five Chinese Galvanized Steel Coil Manufacturers EIN News",
+      "needs_translation": true,
+      "title_zh": "Ranked Comparison of Five Chinese Galvanized Steel Coil Manufacturers",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "cbf5f3180fd5f591",
+      "related_reviews": []
+    },
+    {
+      "id": "e13a06f9089600d5bf68",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYml4RFB3Ry1iMlN4aTJnMjV4S2w2QmZOUzJTeGtrVS1uanZxYkFDbmZMLXZjdk1RQ0VqcldPSEYyU2VIZ1JQZFFjUkFfV1hfdjVhZi02MVNkTjE2Y3E2VlEzdkQ1SEN5NnBpQTVNajRQQUVIS3BkX1Bnb2FBREd4VlZ3S0pBT1E0ekh0THMxcXN1QzNtUVRyWEJqQWNYbUU4S2NUdU1DMG5fMm9sUnZLQzdNb3hrNWVWUHowMFdobUVqQTZTWFpDdTZsYWhrTUZtUkE?oc=5",
+      "published_at": "2026-11-25T08:30:00Z",
+      "title_original": "UK-EU ETS linkage set to ease CBAM requirements for metal packaging manufacturers, says MPMA",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source": {
+        "id": "rss",
+        "name": "AL Circle",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "UK-EU ETS linkage set to ease CBAM requirements for metal packaging manufacturers, says MPMA AL Circle",
+      "needs_translation": true,
+      "title_zh": "UK-EU ETS linkage set to ease CBAM requirements for metal packaging manufacturers, says MPMA",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "1c56dd0382ded801",
+      "related_reviews": []
+    },
+    {
+      "id": "4d17ae9252b2504c7b5e",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNZjNIM1Z6UUxjNm80dzFzVjZGakJBSnhSS1UxdEZSZzJHV1dkbmt3RG54X0M4NDhpSFE1cXZXM3dhUzhRNTdrTDNyRk9GSk9sX0plMXRSZ1VIbUtCajJkWDc0UG1uR0tkTTR3U0JNNWhGcmRKZUtoQnNxcmFXT0MxbjZGX0tWYy1yYkNPVHFEMGV0SEpQQ0x6TkRqTm9wS0F4a1lYSmZ5ek1qd1Z5cXdjd3laUFRhVGhJOTM5RDdkdElZdTNxd1FKMWxGY1hUTHlpWnVUdUp0b1lrODdHeV91Zkg3b1p3SHdCaUVBQjlSSWl4cVp4MXlaN2NrVUpTNkFuQVotVEZfb3M4R0NEa19NOGRaQ2FYaDItLXhLZ0NrMTdZbXlyUXc?oc=5",
+      "published_at": "2026-11-25T04:40:00Z",
+      "title_original": "尽管征收50%关税，亚洲钢铁仍再次涌入美国",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source": {
+        "id": "rss",
+        "name": "IDNFinancials",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "尽管征收50%关税，亚洲钢铁仍再次涌入美国 IDNFinancials",
+      "needs_translation": false,
+      "title_zh": "尽管征收50%关税，亚洲钢铁仍再次涌入美国",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "713ef059a2eef1a1",
+      "related_reviews": []
+    },
+    {
+      "id": "db4a73ef54b90954290b",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IcF85TWZBVXpqLTBldjNBOHg1NjhCVTlWYlpsT2RCaVFvWjQxSzE4czB1djVFZUUyYVZQb3RPQXpCY3QycDkzbQ?oc=5",
+      "published_at": "2026-11-25T03:45:33Z",
+      "title_original": "美国钢铁价格达到四年来新高 亚洲钢铁无视关税大量涌入美国",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source": {
+        "id": "rss",
+        "name": "财联社",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "美国钢铁价格达到四年来新高 亚洲钢铁无视关税大量涌入美国 财联社",
+      "needs_translation": false,
+      "title_zh": "美国钢铁价格达到四年来新高 亚洲钢铁无视关税大量涌入美国",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "cef27a4a1dac4eb0",
+      "related_reviews": []
+    },
+    {
+      "id": "dc44e78fc0b5b611b8ed",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcVkyd1VhdTBoXzduQmg4V0VQek1mSnpQejlPcFdFbzBYQ0hzdEs5bE5aeDRkcTJRbU5JblZqOFNzS3l4UnEyZUFCUDVhRFBZX2h4MmppNEEtakNsY1Z1ZG44ODNHM0k2SHhDeWdud2lHWFBvYkIwV3F4QUZaajdhSkdzeVhoY2ZPRHNjTjlxc2hkN3dFMTFKOEVHc0w2VU5HUjNpU01wMGc0aWY5R0tKVlFrQVM5azkxdHZ6djVaWkI1elV3SkJ6WUxIQQ?oc=5",
+      "published_at": "2026-11-25T00:06:41Z",
+      "title_original": "Market welcomes UK-EU ETS agreement, but queries remain",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source": {
+        "id": "rss",
+        "name": "Kallanish Commodities",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "Market welcomes UK-EU ETS agreement, but queries remain Kallanish Commodities",
+      "needs_translation": true,
+      "title_zh": "Market welcomes UK-EU ETS agreement, but queries remain",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "9016e8be171b00bf",
+      "related_reviews": []
+    },
+    {
+      "id": "8504bb15e82e4debf7fb",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLVRxb0hpbEs5Y2hTbWluZFpsb2pTbHl6MHB2NkNnN29WOHo3dDZoY2Zab29vNWJvRWlKSUxpdzdHRjZJb1AyUTlRUV9ZZW5CNzFaRExUdlA3X2lLcjkxWWNBLUVOMktiZVkxYjZhZXlLSGxVdlJodUJZcVlqMFU4NE14dkNJVEFta0pVY3d4WjJUYTRLMkdtNmoxeTBuS2ZiV3p1ajlNUnI?oc=5",
+      "published_at": "2026-11-24T14:58:56Z",
+      "title_original": "US tariff investigation covering China and the EU in focus this week",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source": {
+        "id": "rss",
+        "name": "SteelRadar",
+        "kind": "news",
+        "official": false
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-24",
+      "source_excerpt": "US tariff investigation covering China and the EU in focus this week SteelRadar",
+      "needs_translation": true,
+      "title_zh": "US tariff investigation covering China and the EU in focus this week",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "d5945af92e193db6",
+      "related_reviews": []
+    },
+    {
+      "id": "d99c978735ba3ed8485a",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUWlRXzVucnZLVmRLSkszVk5UcEtwcnU1Y3lCYWkxVW1LbUVoU1RfamxEbEtzV0FfcWh0U2U3aVRYRzAwSlFhSExaLVEzTlp3NGZNTFpEc09EN2Vjd2JvUXh3dWVFdFZ0Q0NuMHVBdW51ZkNhclctRWViblkxM200cGZOYmFYRjBBQ3VTZU1pZXhlWi1oLTBHNTBpTlNnZGtyR0QyLWVVOXVtQXRVb3UwTmNqdU91RExHQ3ozQ09zMS1iZVU?oc=5",
+      "published_at": "2026-11-23T01:00:00Z",
+      "title_original": "Weekly Recap: EU anti-dumping duty and JSW Steel Q2 profit surge",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source": {
+        "id": "rss",
+        "name": "TradingView",
+        "kind": "news",
+        "official": false
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-23",
+      "source_excerpt": "Weekly Recap: EU anti-dumping duty and JSW Steel Q2 profit surge TradingView",
+      "needs_translation": true,
+      "title_zh": "Weekly Recap: EU anti-dumping duty and JSW Steel Q2 profit surge",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "184c4e30cd576f6e",
+      "related_reviews": []
+    },
+    {
+      "id": "263644df0efbbe255c84",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTGJFZVZZSExSZnluTEtwS0c3ZTh2dXNFZU81bVRFWHNpWldYUV8xTkJiVHhyQmtYTDFGLXAxZ29PbDh2Q0dTRGdCTExTaWNvLUp1RkpqWkxFUDRpS3dtZEc3REI2ZnBkdmU3Yno5TjN1dTJaNWVOczRlUmF4blEyTVQ2VFF2U3hoeDlKT2JIdWszWnBRSERyczlmNFpWSjEzWTJBcDFrWUlIVkpvSTBwQ244dURnQzJTdXdpZlNZdFFUWkphN2c?oc=5",
+      "published_at": "2026-11-20T09:00:58Z",
+      "title_original": "OJ: Commission announces impending expiry of anti-dumping duties on corrosion-resistant steel and silicon",
+      "first_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T17:38:41Z",
+      "source": {
+        "id": "rss",
+        "name": "EU Law Live",
+        "kind": "news",
+        "official": false
+      },
+      "category": "贸易救济",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-20",
+      "source_excerpt": "OJ: Commission announces impending expiry of anti-dumping duties on corrosion-resistant steel and silicon EU Law Live",
+      "needs_translation": true,
+      "title_zh": "OJ: Commission announces impending expiry of anti-dumping duties on corrosion-resistant steel and silicon",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "d5d3e121c7061753",
+      "related_reviews": []
+    }
+  ],
   "blocked_items": [
     {
       "id": "421139ea624ed696243f",
@@ -12,7 +385,7 @@
       "published_at": "2026-11-24T00:00:00Z",
       "title_original": "Do you import any of these products into the EU?",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-25T02:49:37Z",
+      "last_seen": "2026-11-25T17:38:41Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG TAXUD · CBAM News",
@@ -282,7 +655,7 @@
       "published_at": "2026-11-19T08:36:00Z",
       "title_original": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-25T02:49:37Z",
+      "last_seen": "2026-11-25T17:38:41Z",
       "source": {
         "id": "rss",
         "name": "中国钢铁新闻网",
@@ -712,5 +1085,5 @@
   "retry_items": [],
   "retry_due_count": 0,
   "next_retry_at": "2026-11-25T20:30:00Z",
-  "work_fingerprint": "4f53cda18c2baa0c0354"
+  "work_fingerprint": "4212cbbc8f952632d1f5"
 }
