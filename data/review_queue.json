@@ -1,10 +1,83 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-25T17:38:41Z",
-  "pending_count": 24,
-  "actionable_count": 0,
+  "generated_at": "2026-11-25T21:59:58Z",
+  "pending_count": 27,
+  "actionable_count": 3,
   "blocked_count": 24,
-  "items": [],
+  "items": [
+    {
+      "id": "42431de21785760ea676",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDA4d0VIaENydjhkRU1kQzdiZFdWYXZ6cTl0VWFEYUx3dWdvUWcydXRxVi1ldkN4Y1Q5TFp6dkljNmlCQV9xdmVUbEx1THI1R3FWdGRMMkY0TUJ3TXE2N1E2MGNGUlMySVBiWXg1eUhzN2c3dmIzbzA5aGlneGtIOW1od2J5ZXFDTy1UZHEwb1RxTU81?oc=5",
+      "published_at": "2026-11-25T21:17:34Z",
+      "title_original": "Section 301 tariff decisions disappoint AISI",
+      "first_seen": "2026-11-25T21:59:58Z",
+      "last_seen": "2026-11-25T21:59:58Z",
+      "source": {
+        "id": "rss",
+        "name": "Steel Market Update",
+        "kind": "news",
+        "official": false
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "Section 301 tariff decisions disappoint AISI Steel Market Update",
+      "needs_translation": true,
+      "title_zh": "Section 301 tariff decisions disappoint AISI",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "7363450055c069e9",
+      "related_reviews": []
+    },
+    {
+      "id": "bae3606144e4995a9088",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQekJJODdOSlAxcG03VTJyMG9WRGhTVEZIVDh6SURoZFh2clNzWUI3M1VtZFBUN3hFSnk3QThMN0tmbWR3UUt1STYxTGpLZlhFWTBIU3g1NWlMWXhTQ0FLcTc3MlBKZmpoVmh2YlFPNjhfaUlSTnFhYnJKYzVDbmJEakVlcXpxeldTSlBmOE91NkR1LXVBRll4RjVJRlYzWnpxZXFuN3ZUeWt5c2o2bE85aA?oc=5",
+      "published_at": "2026-11-25T14:31:28Z",
+      "title_original": "China Iron Ore Prices Fall 2% as Futures Hit Four-Year Low in November 2026",
+      "first_seen": "2026-11-25T21:59:58Z",
+      "last_seen": "2026-11-25T21:59:58Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "China Iron Ore Prices Fall 2% as Futures Hit Four-Year Low in November 2026 - News and Statistics IndexBox",
+      "needs_translation": true,
+      "title_zh": "China Iron Ore Prices Fall 2% as Futures Hit Four-Year Low in November 2026",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "bc62a7798dedf320",
+      "related_reviews": []
+    },
+    {
+      "id": "eec831a324595206cac0",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0F2MWQzRzhoN2VBNGRld1AtUGFVdVpYVldRVnlXWk02WF9VeTc2OEs1WV9TdG5hQTVMUGhnRkNwb3dfV3l3bXN4Z3JlVVpJbXFuWDdrTWZuZ05YeTRRQUt5OFk2cVdoYkJRQml0R3FKSTdfWUtFbGJHQ1NBVkFqMEVyUE1KOWVrSldKVklEVnpHdUtlNkZ3?oc=5",
+      "published_at": "2026-11-25T09:00:00Z",
+      "title_original": "Steel distributors say they’re being left behind on tariff rebates",
+      "first_seen": "2026-11-25T21:59:58Z",
+      "last_seen": "2026-11-25T21:59:58Z",
+      "source": {
+        "id": "rss",
+        "name": "The Globe and Mail",
+        "kind": "news",
+        "official": false
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "Steel distributors say they’re being left behind on tariff rebates The Globe and Mail",
+      "needs_translation": true,
+      "title_zh": "Steel distributors say they’re being left behind on tariff rebates",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "c0a224a5a9ea932a",
+      "related_reviews": []
+    }
+  ],
   "blocked_items": [
     {
       "id": "421139ea624ed696243f",
@@ -12,7 +85,7 @@
       "published_at": "2026-11-24T00:00:00Z",
       "title_original": "Do you import any of these products into the EU?",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T21:59:58Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG TAXUD · CBAM News",
@@ -42,7 +115,7 @@
       "published_at": "2026-11-25T11:51:00Z",
       "title_original": "Sale and repurchase of CBAM certificates",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T21:59:58Z",
       "source": {
         "id": "ec_have_your_say",
         "name": "EC Have Your Say / 欧盟公众咨询",
@@ -84,7 +157,7 @@
       "published_at": "2026-11-25T16:24:27Z",
       "title_original": "特朗普威胁加拿大汽车钢铁加税关税或成谈判筹码",
       "first_seen": "2026-11-25T17:38:41Z",
-      "last_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T21:59:58Z",
       "source": {
         "id": "rss",
         "name": "VanPeople",
@@ -174,7 +247,7 @@
       "published_at": "2026-11-19T01:25:00Z",
       "title_original": "直面CBAM冲击，碳定价是产业必修课 ——美国开展欧盟CBAM产业影响分析带来的启示",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-25T02:49:37Z",
+      "last_seen": "2026-11-25T21:59:58Z",
       "source": {
         "id": "rss",
         "name": "钢铁网",
@@ -354,7 +427,7 @@
       "published_at": "2026-11-19T08:36:00Z",
       "title_original": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-25T17:38:41Z",
+      "last_seen": "2026-11-25T21:59:58Z",
       "source": {
         "id": "rss",
         "name": "中国钢铁新闻网",
@@ -755,5 +828,5 @@
   "retry_items": [],
   "retry_due_count": 0,
   "next_retry_at": "2026-11-27T00:00:00Z",
-  "work_fingerprint": "4f53cda18c2baa0c0354"
+  "work_fingerprint": "a53fdf267a628f1aef97"
 }
