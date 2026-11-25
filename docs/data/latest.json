@@ -69,7 +69,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
-      "source_excerpt": "USTR GREER Q&A/CNBC: USA OPPOSED TO CANADA'S PROPOSED TARIFF EXEMPTIONS FOR CHINA STEEL, ALUMINUM; BALANCING NAT'L SECURITY, ECONOMY RE NVIDIA TradingView"
+      "source_excerpt": "USTR GREER Q&A/CNBC: USA OPPOSED TO CANADA'S PROPOSED TARIFF EXEMPTIONS FOR CHINA STEEL, ALUMINUM; BALANCING NAT'L SECURITY, ECONOMY RE NVIDIA TradingView",
+      "machine_translation": {
+        "title_zh": "美国Greer A/CNBC:美国对加拿大提议的中国STEEL旅游勘探方案的意见,ALOMINU;巴西国家安全局",
+        "excerpt_zh": "美国Greer A/CNBC:美国对加拿大提议的中国STEEL旅游勘探方案的意见,ALOMINU;",
+        "fingerprint": "9f73494f3fc367643156f28be7edd42c454533bbe22acad422bf5b18ac7fe06f",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T17:40:08Z"
+      }
     },
     {
       "id": "2f0e99610540e1c4d694",
@@ -184,7 +192,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
-      "source_excerpt": "Ranked Comparison of Five Chinese Galvanized Steel Coil Manufacturers EIN News"
+      "source_excerpt": "Ranked Comparison of Five Chinese Galvanized Steel Coil Manufacturers EIN News",
+      "machine_translation": {
+        "title_zh": "中国五家镀锌钢煤油制造商的排名比较",
+        "excerpt_zh": "五个中国 镀锌钢 焦油制造商EIN 新闻的排名比较",
+        "fingerprint": "98dc56c06cfba2cd074386891b619a12c78ceac7fcd1b963e5fdbdcc1ff64403",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T17:40:14Z"
+      }
     },
     {
       "id": "e13a06f9089600d5bf68",
@@ -219,7 +235,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
-      "source_excerpt": "UK-EU ETS linkage set to ease CBAM requirements for metal packaging manufacturers, says MPMA AL Circle"
+      "source_excerpt": "UK-EU ETS linkage set to ease CBAM requirements for metal packaging manufacturers, says MPMA AL Circle",
+      "machine_translation": {
+        "title_zh": "UK-EU ETS连接装置,以缓解对金属包装制造商的CBAM要求。",
+        "excerpt_zh": "UK-EU ETS 链接设置,以缓解对金属包装制造商的CBAM要求,MPMA AL圆",
+        "fingerprint": "2e7c7eed86656a97d68950ef6cdc562a9c37776ff76fd7df6da4b6bef13e1e76",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T17:40:16Z"
+      }
     },
     {
       "id": "4d17ae9252b2504c7b5e",
@@ -370,7 +394,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
-      "source_excerpt": "Market welcomes UK-EU ETS agreement, but queries remain Kallanish Commodities"
+      "source_excerpt": "Market welcomes UK-EU ETS agreement, but queries remain Kallanish Commodities",
+      "machine_translation": {
+        "title_zh": "市场欢迎英国-EU ETS协议,但仍有查询",
+        "excerpt_zh": "市场欢迎英国-EU ETS协议,但询问仍然是Kallanish商品",
+        "fingerprint": "78b4817862e9b5fba5aea00fcc268223f96b680cf6d742afca6a391fd497f7e2",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T17:40:16Z"
+      }
     },
     {
       "id": "5616f5e83d0756245a60",
@@ -414,6 +446,14 @@
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
+      },
+      "machine_translation": {
+        "title_zh": "中华人民共和国的预应力混凝土用钢绞线:继续反倾销税和反补贴税命令",
+        "excerpt_zh": "由于美国商务部(商务部)和美国国际贸易委员会(贸委会)认定,撤销中华人民共和国(中国)关于预应力混凝土用钢绞线的反倾销税和反补贴税命令,可能会导致继续或再次出现倾销、反补贴和对美国工业的物质损害。",
+        "fingerprint": "652d3e31f0fa8b66e72bfaafe058399b993c7b6386bf5ee4ae771a58a2d5b0c5",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T17:40:19Z"
       }
     },
     {
@@ -508,7 +548,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
-      "source_excerpt": "US tariff investigation covering China and the EU in focus this week SteelRadar"
+      "source_excerpt": "US tariff investigation covering China and the EU in focus this week SteelRadar",
+      "machine_translation": {
+        "title_zh": "本周美国针对中国和欧盟的关税调查",
+        "excerpt_zh": "本周美国对中国和欧盟的关税调查聚焦于SteelRadar",
+        "fingerprint": "d7b17d120acb882621ac77910f79f720dc48ee1c0b949e4f22ffcac7cffa3fe2",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T17:40:20Z"
+      }
     },
     {
       "id": "f7ef4b20e1c8e1b7569b",
@@ -981,7 +1029,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
-      "source_excerpt": "Weekly Recap: EU anti-dumping duty and JSW Steel Q2 profit surge TradingView"
+      "source_excerpt": "Weekly Recap: EU anti-dumping duty and JSW Steel Q2 profit surge TradingView",
+      "machine_translation": {
+        "title_zh": "每周概述:欧盟反倾销税和JSW钢铁公司利润激增",
+        "excerpt_zh": "每周摘要:欧盟反倾销税和JSW钢铁公司 Q2利润激增贸易查看",
+        "fingerprint": "5d39351f7ac6a693982a75a7553ac94a5ec44948fb2e229a4c2a469ad4581593",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T17:40:21Z"
+      }
     },
     {
       "id": "073a77450327b18b41b2",
@@ -1558,7 +1614,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T17:38:41Z",
       "last_seen": "2026-11-25T17:38:41Z",
-      "source_excerpt": "OJ: Commission announces impending expiry of anti-dumping duties on corrosion-resistant steel and silicon EU Law Live"
+      "source_excerpt": "OJ: Commission announces impending expiry of anti-dumping duties on corrosion-resistant steel and silicon EU Law Live",
+      "machine_translation": {
+        "title_zh": "OJ:委员会宣布抗腐蚀钢和硅的反倾销税即将到期",
+        "excerpt_zh": "OJ:委员会宣布抗腐蚀钢和硅的反倾销税即将到期",
+        "fingerprint": "be49a1d4c3319479246279e9a0111b2232d607d57941a60d18908a46918408be",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T17:40:21Z"
+      }
     },
     {
       "id": "2903ad7bb361edebf948",
