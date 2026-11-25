@@ -23,8 +23,8 @@
       "translation_state": "pending",
       "published_date": "2026-11-25",
       "source_excerpt": "Section 301 tariff decisions disappoint AISI Steel Market Update",
-      "needs_translation": true,
-      "title_zh": "Section 301 tariff decisions disappoint AISI",
+      "needs_translation": false,
+      "title_zh": "301关税决定令AISI失望",
       "review_attempted_at": "",
       "evidence_fingerprint": "7363450055c069e9",
       "related_reviews": []
@@ -71,8 +71,8 @@
       "translation_state": "pending",
       "published_date": "2026-11-25",
       "source_excerpt": "Steel distributors say they’re being left behind on tariff rebates The Globe and Mail",
-      "needs_translation": true,
-      "title_zh": "Steel distributors say they’re being left behind on tariff rebates",
+      "needs_translation": false,
+      "title_zh": "钢铁经销商说他们被退税抛在后面",
       "review_attempted_at": "",
       "evidence_fingerprint": "c0a224a5a9ea932a",
       "related_reviews": []
