@@ -9393,14 +9393,14 @@
       "first_seen": "2026-11-06T14:38:14Z",
       "last_seen": "2026-11-16T16:28:58Z",
       "source_excerpt": "News article 6 November 2026 Commission initiates safeguard investigation into imports of PET resin chemicals Today, the Commission initiated a safeguard investigation to assess whether safeguard measures are needed to protect EU industry from a significant increase in imports of polyethylene terephthalate (PET) resin chemicals. 1 min read",
-      "review_disposition": "excluded",
-      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
-      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
-      "review_attempted_at": "2026-11-07",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
+      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
+      "review_attempted_at": "2026-11-07"
     },
     {
       "id": "102690e3f2b920c6fae2",
@@ -12188,7 +12188,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T02:49:37Z",
       "last_seen": "2026-11-25T02:49:37Z",
-      "source_excerpt": "UK Imposes Anti-dumping Duties on South Korean Hot-rolled Steel Plate Imports www.marketscreener.com"
+      "source_excerpt": "UK Imposes Anti-dumping Duties on South Korean Hot-rolled Steel Plate Imports www.marketscreener.com",
+      "machine_translation": {
+        "title_zh": "联合王国对韩国热轧钢板块进口征收反倾销税",
+        "excerpt_zh": "联合王国对韩国的热轧钢板块进口征收反倾销税",
+        "fingerprint": "3bdc4f02f1836bb5d38bfdda42f8973c4ef0e03d20c382ee0e3e5cf38ae967d6",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T02:51:20Z"
+      }
     },
     {
       "id": "616ec180d6e784bf87b6",
@@ -12789,7 +12797,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T02:49:37Z",
       "last_seen": "2026-11-25T02:49:37Z",
-      "source_excerpt": "Canada and China ease tariffs on pork, seafood, steel and aluminium Euronews.com"
+      "source_excerpt": "Canada and China ease tariffs on pork, seafood, steel and aluminium Euronews.com",
+      "machine_translation": {
+        "title_zh": "加拿大和中国放宽对猪肉、海鲜、钢和铝的关税",
+        "excerpt_zh": "加拿大和中国放宽对猪肉、海鲜、钢和铝的关税",
+        "fingerprint": "4fc675dda4543c40eafe514abaf41c9a9959d11a8e03408e92553b04838ee4d1",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T02:51:20Z"
+      }
     },
     {
       "id": "1b0cd93c6734f762a2c6",
@@ -12874,7 +12890,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T02:49:37Z",
       "last_seen": "2026-11-25T02:49:37Z",
-      "source_excerpt": "EU applies anti-dumping duty on Vietnamese cold-rolled steel products Vietnam Economic Times"
+      "source_excerpt": "EU applies anti-dumping duty on Vietnamese cold-rolled steel products Vietnam Economic Times",
+      "machine_translation": {
+        "title_zh": "欧盟对越南的冷轧钢产品应用反倾销税",
+        "excerpt_zh": "欧盟对越南的冷轧钢产品应用反倾销税",
+        "fingerprint": "dcc71024b25d65e98bf3ef8aeed5f1f42c81337d3052e399e5ea6415bde5304f",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T02:51:21Z"
+      }
     },
     {
       "id": "c6eb4c5f3fe34f16b809",

@@ -1437,7 +1437,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T02:49:37Z",
       "last_seen": "2026-11-25T02:49:37Z",
-      "source_excerpt": "UK Imposes Anti-dumping Duties on South Korean Hot-rolled Steel Plate Imports www.marketscreener.com"
+      "source_excerpt": "UK Imposes Anti-dumping Duties on South Korean Hot-rolled Steel Plate Imports www.marketscreener.com",
+      "machine_translation": {
+        "title_zh": "联合王国对韩国热轧钢板块进口征收反倾销税",
+        "excerpt_zh": "联合王国对韩国的热轧钢板块进口征收反倾销税",
+        "fingerprint": "3bdc4f02f1836bb5d38bfdda42f8973c4ef0e03d20c382ee0e3e5cf38ae967d6",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T02:51:20Z"
+      }
     },
     {
       "id": "7b034ae217a58f93920e",
@@ -2101,7 +2109,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T02:49:37Z",
       "last_seen": "2026-11-25T02:49:37Z",
-      "source_excerpt": "Canada and China ease tariffs on pork, seafood, steel and aluminium Euronews.com"
+      "source_excerpt": "Canada and China ease tariffs on pork, seafood, steel and aluminium Euronews.com",
+      "machine_translation": {
+        "title_zh": "加拿大和中国放宽对猪肉、海鲜、钢和铝的关税",
+        "excerpt_zh": "加拿大和中国放宽对猪肉、海鲜、钢和铝的关税",
+        "fingerprint": "4fc675dda4543c40eafe514abaf41c9a9959d11a8e03408e92553b04838ee4d1",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T02:51:20Z"
+      }
     },
     {
       "id": "8560684245edf51cb8b3",
@@ -2234,7 +2250,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-25T02:49:37Z",
       "last_seen": "2026-11-25T02:49:37Z",
-      "source_excerpt": "EU applies anti-dumping duty on Vietnamese cold-rolled steel products Vietnam Economic Times"
+      "source_excerpt": "EU applies anti-dumping duty on Vietnamese cold-rolled steel products Vietnam Economic Times",
+      "machine_translation": {
+        "title_zh": "欧盟对越南的冷轧钢产品应用反倾销税",
+        "excerpt_zh": "欧盟对越南的冷轧钢产品应用反倾销税",
+        "fingerprint": "dcc71024b25d65e98bf3ef8aeed5f1f42c81337d3052e399e5ea6415bde5304f",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-25T02:51:21Z"
+      }
     },
     {
       "id": "544293e68a5f91808a3b",
