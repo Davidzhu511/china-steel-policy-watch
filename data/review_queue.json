@@ -1,133 +1,10 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-25T02:49:37Z",
-  "pending_count": 42,
-  "actionable_count": 20,
-  "blocked_count": 22,
+  "pending_count": 32,
+  "actionable_count": 9,
+  "blocked_count": 23,
   "items": [
-    {
-      "id": "f9f20740d791b5c56af9",
-      "url": "https://federalregister.gov/documents/2026/11/24/2026-23943/certain-steel-wheels-from-the-peoples-republic-of-china-preliminary-affirmative-determination-of",
-      "published_at": "2026-11-24T00:00:00Z",
-      "title_original": "Certain Steel Wheels from the People's Republic of China: Preliminary Affirmative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
-      "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-25T02:49:37Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-24",
-      "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines that imports of certain steel wheels (steel wheels), completed in the Socialist Republic of Vietnam (Vietnam) using hot- rolled steel (HRS) produced in the People's Republic of China (China), are circumventing the antidumping duty (AD) and countervailing duty (CVD) orders on steel wheels from China. Interested parties are invited to comment on this preliminary determination.",
-      "needs_translation": false,
-      "title_zh": "中华人民共和国的某些钢轮:对反倾销税和反补贴税命令的规避的初步肯定性确定",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "4a7993c65ada5981",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/09/22/2026-19372/certain-brake-drums-from-the-peoples-republic-of-china-preliminary-affirmative-determination-of",
-          "published_at": "2026-09-22T00:00:00Z",
-          "title_zh": "美国初裁中国球墨铸铁制动鼓规避双反令，追溯至2026年1月27日",
-          "evidence_url": null
-        },
-        {
-          "url": "https://federalregister.gov/documents/2026/09/22/2026-19376/steel-wire-garment-hangers-from-the-peoples-republic-of-china-and-the-socialist-republic-of-vietnam",
-          "published_at": "2026-09-22T00:00:00Z",
-          "title_zh": "美国初裁柬埔寨组装钢丝衣架规避中越贸易救济令",
-          "evidence_url": null
-        }
-      ]
-    },
-    {
-      "id": "035c6ccdac48cb6a22f0",
-      "url": "https://federalregister.gov/documents/2026/11/24/2026-23942/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-preliminary-negative",
-      "published_at": "2026-11-24T00:00:00Z",
-      "title_original": "Certain Corrosion-Resistant Steel Products From the People's Republic of China: Preliminary Negative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
-      "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-25T02:49:37Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-24",
-      "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines on a country-wide basis that imports of certain corrosion- resistant steel products (CORE) completed in Indonesia using hot-rolled steel (HRS) or cold-rolled steel (CRS) manufactured in the People's Republic of China (China) are not circumventing the antidumping duty (AD) and countervailing duty (CVD) orders on CORE from China. The period of inquiry is January 1, 2021, through December 31, 2025. Interested parties are invited to comment on this preliminary determination.",
-      "needs_translation": true,
-      "title_zh": "Certain Corrosion-Resistant Steel Products From the People's Republic of China: Preliminary Negative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "73a748a96007be1f",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/07/06/2026-13607/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-initiation-of",
-          "published_at": "2026-07-06T00:00:00Z",
-          "title_zh": "美国启动泰国耐腐蚀钢反规避调查，涉及中国原料加工后输美",
-          "evidence_url": "https://federalregister.gov/documents/2026/07/06/2026-13607/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-initiation-of"
-        },
-        {
-          "url": "https://federalregister.gov/documents/2026/09/22/2026-19372/certain-brake-drums-from-the-peoples-republic-of-china-preliminary-affirmative-determination-of",
-          "published_at": "2026-09-22T00:00:00Z",
-          "title_zh": "美国初裁中国球墨铸铁制动鼓规避双反令，追溯至2026年1月27日",
-          "evidence_url": null
-        }
-      ]
-    },
-    {
-      "id": "68ac78172c8f11d01606",
-      "url": "https://federalregister.gov/documents/2026/11/24/2026-23944/certain-corrosion-resistant-steel-products-from-the-socialist-republic-of-vietnam-preliminary",
-      "published_at": "2026-11-24T00:00:00Z",
-      "title_original": "Certain Corrosion-Resistant Steel Products From the Socialist Republic of Vietnam: Preliminary Negative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
-      "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-25T02:49:37Z",
-      "source": {
-        "id": "federal_register",
-        "name": "U.S. Federal Register / 美国联邦公报",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "priority_signal": {
-        "zh": "贸易救济程序 · 待核对",
-        "en": "Trade-remedy procedure · review needed"
-      },
-      "translation_state": "pending",
-      "published_date": "2026-11-24",
-      "source_excerpt": "The U.S. Department of Commerce (Commerce) preliminarily determines on a country-wide basis that imports of certain corrosion- resistant steel products (CORE) completed in Indonesia using cold- rolled steel (CRS) manufactured in the Socialist Republic of Vietnam (Vietnam) are not circumventing the antidumping duty (AD) and countervailing duty (CVD) orders on CORE from Vietnam. The period of inquiry is January 1, 2025, through December 31, 2025. Interested parties are invited to comment on this preliminary determination.",
-      "needs_translation": true,
-      "title_zh": "Certain Corrosion-Resistant Steel Products From the Socialist Republic of Vietnam: Preliminary Negative Determination of Circumvention of the Antidumping Duty and Countervailing Duty Orders",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "3c1c0380c79dcb91",
-      "related_reviews": [
-        {
-          "url": "https://federalregister.gov/documents/2026/07/06/2026-13607/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-initiation-of",
-          "published_at": "2026-07-06T00:00:00Z",
-          "title_zh": "美国启动泰国耐腐蚀钢反规避调查，涉及中国原料加工后输美",
-          "evidence_url": "https://federalregister.gov/documents/2026/07/06/2026-13607/certain-corrosion-resistant-steel-products-from-the-peoples-republic-of-china-initiation-of"
-        },
-        {
-          "url": "https://federalregister.gov/documents/2026/09/22/2026-19376/steel-wire-garment-hangers-from-the-peoples-republic-of-china-and-the-socialist-republic-of-vietnam",
-          "published_at": "2026-09-22T00:00:00Z",
-          "title_zh": "美国初裁柬埔寨组装钢丝衣架规避中越贸易救济令",
-          "evidence_url": null
-        }
-      ]
-    },
     {
       "id": "18b5788ec662b75b0442",
       "url": "https://climate.ec.europa.eu/news-other-reads/news/negotiations-finalised-link-eu-and-uk-emissions-trading-systems-2026-11-20_en",
@@ -151,55 +28,6 @@
       "title_zh": "将欧盟和联合王国排放交易系统连接起来的谈判已最后完成",
       "review_attempted_at": "",
       "evidence_fingerprint": "893aa38d6e72e7e5",
-      "related_reviews": []
-    },
-    {
-      "id": "421139ea624ed696243f",
-      "url": "https://taxation-customs.ec.europa.eu/document/download/6232788c-fb1c-401d-bfe1-5f3ecac38703_en?filename=factsheet+authorisation.pdf",
-      "published_at": "2026-11-24T00:00:00Z",
-      "title_original": "Do you import any of these products into the EU?",
-      "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-25T02:49:37Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "DG TAXUD · CBAM News",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-24",
-      "source_excerpt": "24 Nov 2026 Do you import any of these products into the EU? The new factsheet is available in the “Factsheets” section of the CBAM communication and news webpage.",
-      "needs_translation": false,
-      "title_zh": "你是否向欧盟进口过这些产品?",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "3c2bd3454a05e917",
-      "related_reviews": []
-    },
-    {
-      "id": "abbdbdf109875122fd81",
-      "url": "https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/price-cbam-certificates_en",
-      "published_at": "2026-10-05T00:00:00Z",
-      "title_original": "Q3 2026 CBAM Certificate price now available!",
-      "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-25T02:49:37Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "DG TAXUD · CBAM News",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "source_revision": "226c542954318f82",
-      "published_date": "2026-10-05",
-      "source_excerpt": "05 Oct 2026 Q3 2026 CBAM Certificate price now available! Each 2026 quarterly price is calculated by the Commission in the first calendar week after the quarter ends, based on publicly available EU ETS auction information.",
-      "needs_translation": false,
-      "title_zh": "Q3 2026 CBAM 证书价格现已可用 !",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "95a5dbab90972aa3",
       "related_reviews": []
     },
     {
@@ -406,160 +234,39 @@
       "review_attempted_at": "",
       "evidence_fingerprint": "9f33f8a9e04cdcbd",
       "related_reviews": []
-    },
+    }
+  ],
+  "blocked_items": [
     {
-      "id": "b1b345a3196754445f2c",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZW9NUWtzeWJqdXpMWEhqNTRBZ3k1Q3RQcDdOVE1LVGUyaHlBT2JyZXZTSEc4b2pQamlxOS1QZzB6bm1yVlNMOVpveXFqelJONFRiV1VURVR5UHR1RkhBU0VWc2tCQVQyOHhtZ1NZRWpickNwUlJxTUx6dDVyNk9la3FFTTlxakpPVThGdlBDX0VpekRsZUhocURESE9NZw?oc=5",
-      "published_at": "2026-11-24T17:12:45Z",
-      "title_original": "Commerce Finds Chinese Steel Wheels Circumvention",
+      "id": "421139ea624ed696243f",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/6232788c-fb1c-401d-bfe1-5f3ecac38703_en?filename=factsheet+authorisation.pdf",
+      "published_at": "2026-11-24T00:00:00Z",
+      "title_original": "Do you import any of these products into the EU?",
       "first_seen": "2026-11-24T18:21:51Z",
       "last_seen": "2026-11-25T02:49:37Z",
       "source": {
-        "id": "rss",
-        "name": "CASRAI",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-24",
-      "source_excerpt": "Commerce Finds Chinese Steel Wheels Circumvention CASRAI",
-      "needs_translation": false,
-      "title_zh": "商业发现中国钢轮规避",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "44bcb3064bdb4050",
-      "related_reviews": []
-    },
-    {
-      "id": "f7ef4b20e1c8e1b7569b",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ3piWUUtMXRUQWFrdVludWlaMHN0dkZGZnl1ZmYyRldGNmI3X3BNQnpybmRWR0t3aWU3eVBvZHBLU1VVV1Q5U1h3Z2ZvaWllZ2dlRWsxakkwOTZwdHJ2cnZfeTlKVzRpVndsTGUxVjFOSXdOdTllcWZ0cVpHNkdTb2hfSV9NX3ZiS19JVGNMc2NvT1JSZ1NWd2NDRzM2SDIxbUwxOW1hdmVkbTlnWlcydU9WWEFqVEo1eFJhQkFVRVdiNUVrT2N0bU1kcDZ3N2c2UzRrbkZsTkxhZ1dVR05ZNXNfSjlYQQ?oc=5",
-      "published_at": "2026-11-24T08:20:43Z",
-      "title_original": "European energy-intensive industries seek stronger carbon leakage protection under EU ETS",
-      "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-25T02:49:37Z",
-      "source": {
-        "id": "rss",
-        "name": "SteelOrbis",
-        "kind": "news",
-        "official": false
+        "id": "ec_watch_pages",
+        "name": "DG TAXUD · CBAM News",
+        "kind": "official-notice",
+        "official": true
       },
       "category": "碳与环保",
       "importance": "中",
       "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "欧委会11月24日授权传单正文持续返回429。资料目录确认适用品类的50吨门槛和挪威、冰岛适用日期。另行发布的欧委会EEA实施说明第2至5节确认，自2027年1月1日起两国经营者持EORI向欧盟申报CBAM货物时，须确保EORI中的TCUIN与本国TIN匹配。完整授权传单待复核。",
+      "review_evidence_url": "https://taxation-customs.ec.europa.eu/document/download/8d8c0277-4fcb-4148-a919-7e0ed5a18b68_en?filename=Notice+CBAM+implementation+following+EEA+agreement.pdf",
+      "review_coverage": "核对11月24日DG TAXUD资料目录说明、欧委会可读的EEA实施说明全文第2至5节。队列所链授权传单PDF本轮返回429，关于TCUIN的细节来自上述官方实施说明。",
       "published_date": "2026-11-24",
-      "source_excerpt": "European energy-intensive industries seek stronger carbon leakage protection under EU ETS SteelOrbis",
+      "source_excerpt": "24 Nov 2026 Do you import any of these products into the EU? The new factsheet is available in the “Factsheets” section of the CBAM communication and news webpage.",
       "needs_translation": false,
-      "title_zh": "欧洲能源密集型工业在EU ETS下寻求更强有力的碳渗漏保护",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "097ce35f39593f98",
-      "related_reviews": [
-        {
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRHh5WHZYa01KbmxmWllNemZwNi1oODNYTDdrMjlBdGV2eGlyMTVJcUtsdVdWVzhORU1xNm53dkM0TDFrajZ4QllYWHY0RHBEa1FKdWRpeUIxY3RROFFaVmZVWGhtdWZtRVVYSWdnbUJYOUc0ZzI2dVlmcUFBZHJRc1NsWnNFTVY1UU5yNkIwYnhLZW1rYU9GNy1FVGZ2YmtqcGFNd3NJQzhSVHI5VUoyUXJHOTJHRHVYQXJ0QWttdE5TOGNtejVtLTBYZ1FmUU9oSTZNQk9rVkZoYWJENm5yNlB2QjRKb0hBQzBDRUx2TE1VZw?oc=5",
-          "published_at": "2026-11-09T11:39:44Z",
-          "title_zh": "欧洲13家能源密集行业协会要求改革ETS免费配额和碳泄漏保护",
-          "evidence_url": "https://www.steelorbis.com/steel-news/latest-news/european-energy-intensive-industries-call-for-eu-ets-reform-and-stronger-carbon-leakage-protection-1489313.htm"
-        }
-      ]
+      "title_zh": "欧盟CBAM指南：进口哪些产品需要核对申报人授权",
+      "review_attempted_at": "2026-11-24T20:36:46Z",
+      "evidence_fingerprint": "3c2bd3454a05e917",
+      "related_reviews": [],
+      "retry_after": "2026-11-27T20:36:46.000Z",
+      "retry_policy": "scheduled"
     },
-    {
-      "id": "c974ac394b7a26f0e7e7",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZVUyNk1FMWhEU1oxOEtlbDV0WGU5a1lMbUFOUHZ3QnlEVDhtLWhyTTdmTkxRZXR0UlRnTmNyV0Q3ZEFRX3B5LWtUendnYnpJR2hYZVpTczdWaGRwaklnS0dCLTdLQkJBTXNydnZkUlZQUkZqVkg1b1pTYldvWHpYdUN3V3lwdnA1WkFlU2xFenJJMzBzeDFOUEREaVN5MjU0UWRyX1RSbjlrQXRfb0o5Zno1NkdCcF90Y3Zib29rbzFrMzNHRUEtWjJBYWVoLTNDUjJibDVEazd2Zw?oc=5",
-      "published_at": "2026-11-20T07:10:00Z",
-      "title_original": "Tata Steel shares slide nearly 2% as EU anti-dumping duty and bearish technicals weigh",
-      "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-25T02:49:37Z",
-      "source": {
-        "id": "rss",
-        "name": "TradingView",
-        "kind": "news",
-        "official": false
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-20",
-      "source_excerpt": "Tata Steel shares slide nearly 2% as EU anti-dumping duty and bearish technicals weigh TradingView",
-      "needs_translation": false,
-      "title_zh": "Tata Steel 股份随着欧盟 反倾销税 和熊式技术的重量滑动, 几乎为 2%",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "a6335ac30a9e816f",
-      "related_reviews": []
-    },
-    {
-      "id": "2903ad7bb361edebf948",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMm1JeldRS3c5bFI2VFd4VEpsSm5BTDJvVkttQng2SEQ4ay1DN2FSOUZhaVF4YnNlTWlzMUtkZTBUR21VV1lkalBORHkwbTdxYlpVa3hiRWhUbnNwY3dVZGZiZ1lsSDdvNUh6RUNtdDFjN0E4OVdyU3dMR0tWZ3RSd0ZkMVp0akItdjYtSU5mbTF6YVA1WlNBZncwd0lpdFVRZ0VKRTNDcTMtTGRnX2RQTXY1UUhqNmxqazF3VXgyOEhaT2ZCSEVfVjRBRjBjS21FelFyT2hPc0pPNTAxalNEbm1LX3FHaDlR?oc=5",
-      "published_at": "2026-11-20T06:20:00Z",
-      "title_original": "Why China's Hot-Rolled Coil Export Price Fell to $480, Its Lowest Since March: Export Orders Dropped 9% as Buyers Wait",
-      "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-24T22:48:15Z",
-      "source": {
-        "id": "rss",
-        "name": "kalkine.co.uk",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-20",
-      "source_excerpt": "Why China's Hot-Rolled Coil Export Price Fell to $480, Its Lowest Since March: Export Orders Dropped 9% as Buyers Wait kalkine.co.uk",
-      "needs_translation": true,
-      "title_zh": "Why China's Hot-Rolled Coil Export Price Fell to $480, Its Lowest Since March: Export Orders Dropped 9% as Buyers Wait",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "e51163a9d5232657",
-      "related_reviews": []
-    },
-    {
-      "id": "ef69bb4acbcefbeeb72f",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnhZa3A5TWVEYVBvZEI0ZkdxU1RvUUlMOWc0LXJ5M2JPWEJLTjVSbG9wNUVYLUExLTctZXoxV0xxUzMzM1VxVFE4ME92bWp0dEY2U3k2clJMUENKMGJGR29qYTJYYnNyM2xTS1FMY1ZhY2tUMjhsNHZ3b3hqWGRNa3RoUElUbFpnUDRxRVU2dkdmM180Y3Q1NkF5WHBoVmNTLUdSNDdqd2s?oc=5",
-      "published_at": "2026-11-19T08:12:29Z",
-      "title_original": "EU steel import quotas under FTA-CSQ and FTA-Others exhausted for several products",
-      "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-24T22:48:15Z",
-      "source": {
-        "id": "rss",
-        "name": "EUROMETAL",
-        "kind": "news",
-        "official": false
-      },
-      "category": "配额与关税",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-19",
-      "source_excerpt": "EU steel import quotas under FTA-CSQ and FTA-Others exhausted for several products EUROMETAL",
-      "needs_translation": false,
-      "title_zh": "欧盟的钢进口配额,在自由贸易区-加塞岛和自由贸易区-其他产品已耗尽",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "dd47b21b79448d69",
-      "related_reviews": []
-    },
-    {
-      "id": "4d2f6c890d89315bc352",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeGJMV1BsZXE0ZktrTnYxRzlrVWtGbF9QUi1qa2xiX2VZV2h5MVNHZ3pvTzNHS3hlV0RIUm1NenU0X2p6S3FieHBTdGZQaXZnMUlnMWhUM1d0RFFGaVZFRHNtekFhMjFiZ3AzOXhiLVJlX0lSZmdJVUhzWVBMNXJwVHViRllNWXJPLWtwWXpBUXRheVVXTUtmd2ZBN3ZjMlFFRlV4TVhJRkZqVS1lUVJrSUQ1RWdTSFNhbHp3dkg3WFBaRGFzWHF6VUJHYUNCYmRGQnRvSkQzaUUySjQ?oc=5",
-      "published_at": "2026-11-18T02:04:00Z",
-      "title_original": "Canada expands tariff relief on Chinese steel and aluminium products",
-      "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-24T22:48:15Z",
-      "source": {
-        "id": "rss",
-        "name": "Shanghai Metals Market",
-        "kind": "news",
-        "official": false
-      },
-      "category": "配额与关税",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-18",
-      "source_excerpt": "Canada expands tariff relief on Chinese steel and aluminium products Shanghai Metals Market",
-      "needs_translation": false,
-      "title_zh": "加拿大扩大了对中国钢铁和铝产品的关税减免",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "80fa25147086d8d0",
-      "related_reviews": []
-    }
-  ],
-  "blocked_items": [
     {
       "id": "33459cdc9ca148f0653d",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZldMTGJZZU4teExlZDVtbTFYN1JELV9abEdqc3lacmpPUDJIbHd0NDRIa3U3S1E2ZXg3ZFVEcWx5dURWY0RoU1hLZ01XbkhKbzkxVEk4TVd0YlZ2djRhNVZSMlFvc1VSa3hkU1dOQk82ckk0Nmxfdm5vVG1CMEVyUXJ6ZldwZUZsVkRXbElhbnl5ekg1WmdYRXFTXzBZeVk1aW9ueUkyY0ZGT2RJWU5TWk9LY1Y1RE9XdGtZNkVzdTI?oc=5",
@@ -1236,5 +943,5 @@
   "retry_items": [],
   "retry_due_count": 0,
   "next_retry_at": "2026-11-25T20:30:00Z",
-  "work_fingerprint": "dda43e070c45e52bf80f"
+  "work_fingerprint": "e375f1fd4e1b4d4931be"
 }
