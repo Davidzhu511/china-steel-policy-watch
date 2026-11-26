@@ -1,38 +1,33 @@
 {
-  "generated_at": "2026-11-26T01:57:40Z",
+  "generated_at": "2026-11-26T17:20:43Z",
   "run_ok": true,
   "model": "gpt-4.1-mini",
   "translation_available": false,
   "analysis_status": "unconfigured",
-  "active_items": 378,
-  "archived_items": 197,
-  "verified_items": 353,
-  "pending_analysis": 25,
-  "pending_translation": 0,
+  "active_items": 388,
+  "archived_items": 199,
+  "verified_items": 351,
+  "pending_analysis": 37,
+  "pending_translation": 9,
   "blocked_items": 25,
-  "actionable_count": 0,
+  "actionable_count": 12,
   "blocked_count": 25,
   "retry_due_count": 0,
   "next_retry_at": "2026-11-27T00:00:00Z",
-  "pending_machine_translation": 0,
-  "chinese_title_coverage": 100.0,
-  "oldest_actionable_hours": 0,
+  "pending_machine_translation": 9,
+  "chinese_title_coverage": 97.7,
+  "oldest_actionable_hours": 0.0,
   "offline_translation": {
-    "status": "partial",
+    "status": "queued",
     "translated": 0,
-    "warnings": [
-      "1 条译文未通过完整性检查，保留原文待重试。"
-    ],
-    "remaining": 1,
-    "attempted_at": "2026-11-26T01:58:51Z",
-    "retry_after": "2026-11-26T07:58:51.967444+00:00"
+    "warnings": []
   },
   "machine_translated_items": 8,
-  "collected_items": 107,
-  "processed_items": 2,
+  "collected_items": 105,
+  "processed_items": 12,
   "deferred_items": 0,
-  "new_items": 2,
-  "total_items": 575,
+  "new_items": 12,
+  "total_items": 587,
   "source_success": 6,
   "source_total": 6,
   "sources": [
@@ -42,10 +37,10 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 7809,
+      "duration_ms": 9212,
       "warnings": [],
-      "last_success_at": "2026-11-26T01:57:40Z",
-      "last_observed_at": "2026-11-26T01:57:40Z",
+      "last_success_at": "2026-11-26T17:20:43Z",
+      "last_observed_at": "2026-11-26T17:20:43Z",
       "consecutive_failures": 0
     },
     {
@@ -54,10 +49,10 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 15687,
+      "duration_ms": 17163,
       "warnings": [],
-      "last_success_at": "2026-11-26T01:57:40Z",
-      "last_observed_at": "2026-11-26T01:57:40Z",
+      "last_success_at": "2026-11-26T17:20:43Z",
+      "last_observed_at": "2026-11-26T17:20:43Z",
       "consecutive_failures": 0
     },
     {
@@ -66,9 +61,9 @@
       "ok": true,
       "count": 0,
       "error": "",
-      "duration_ms": 460,
+      "duration_ms": 794,
       "warnings": [],
-      "last_success_at": "2026-11-26T01:57:40Z",
+      "last_success_at": "2026-11-26T17:20:43Z",
       "last_observed_at": "2026-11-24T22:48:15Z",
       "consecutive_failures": 0
     },
@@ -78,10 +73,10 @@
       "ok": true,
       "count": 20,
       "error": "",
-      "duration_ms": 438,
+      "duration_ms": 856,
       "warnings": [],
-      "last_success_at": "2026-11-26T01:57:40Z",
-      "last_observed_at": "2026-11-26T01:57:40Z",
+      "last_success_at": "2026-11-26T17:20:43Z",
+      "last_observed_at": "2026-11-26T17:20:43Z",
       "consecutive_failures": 0
     },
     {
@@ -90,28 +85,24 @@
       "ok": true,
       "count": 16,
       "error": "",
-      "duration_ms": 5297,
+      "duration_ms": 3707,
       "warnings": [],
-      "last_success_at": "2026-11-26T01:57:40Z",
-      "last_observed_at": "2026-11-26T01:57:40Z",
+      "last_success_at": "2026-11-26T17:20:43Z",
+      "last_observed_at": "2026-11-26T17:20:43Z",
       "consecutive_failures": 0
     },
     {
       "id": "rss",
       "name": "RSS / Google News 新闻发现",
       "ok": true,
-      "count": 39,
+      "count": 37,
       "error": "",
-      "duration_ms": 2261,
+      "duration_ms": 2619,
       "warnings": [],
-      "last_success_at": "2026-11-26T01:57:40Z",
-      "last_observed_at": "2026-11-26T01:57:40Z",
+      "last_success_at": "2026-11-26T17:20:43Z",
+      "last_observed_at": "2026-11-26T17:20:43Z",
       "consecutive_failures": 0
     }
   ],
-  "warnings": [
-    "官方版本检查 哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销: ValueError: Refusing a non-public URL"
-  ],
-  "translation_updated_at": "2026-11-26T01:58:51Z",
-  "editorial_updated_at": "2026-11-26T08:07:56Z"
+  "warnings": []
 }
