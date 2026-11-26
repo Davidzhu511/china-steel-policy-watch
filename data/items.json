@@ -7880,7 +7880,15 @@
         "rss:title": "0da689cf929c2378b072ad2c1f5393c38a11ae029abe615b19809b2f82eb6581",
         "rss:excerpt": "69886a9fc6838e03d6e8efd107ea4b0dbbb2f8a675a8077b0a7e3f39529f9137"
       },
-      "source_revision_checked_at": "2026-11-26T17:20:43Z"
+      "source_revision_checked_at": "2026-11-26T17:20:43Z",
+      "machine_translation": {
+        "title_zh": "执行欧盟和瑞士排放贸易登记册之间转让的2027安排",
+        "excerpt_zh": "在适用《欧盟和瑞士联系协定》时,商定了欧盟排放量交易系统登记册和瑞士排放量交易系统之间排放量转让的2027安排。",
+        "fingerprint": "b1775f106f1bead9bccef67df51e22adf698a89f72b31448e72c74475e6d3ed2",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-26T17:22:11Z"
+      }
     },
     {
       "id": "84ad81da41d5b35580ec",
@@ -8517,7 +8525,15 @@
         "ec_watch_pages:excerpt": "baf3047aa690ea0dc79d61ce5b5f5d7931814c78c9e065e4293e102c2b13add1"
       },
       "source_revision_checked_at": "2026-11-26T17:20:43Z",
-      "source_revision": "ba75feb24e2c8330"
+      "source_revision": "ba75feb24e2c8330",
+      "machine_translation": {
+        "title_zh": "将欧盟和联合王国排放交易系统连接起来的谈判已最后完成",
+        "excerpt_zh": "新闻文章 20 11月 2026 谈判最后敲定,将欧盟和联合王国排放交易系统谈判最后敲定,将欧盟和联合王国排放交易系统2 分钟链接为",
+        "fingerprint": "6a59b7c8803d1041641fd10cb9dd933226b2dce22315683612fa6da419f5d22b",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-26T17:22:15Z"
+      }
     },
     {
       "id": "027883d386b8e29298bb",
@@ -9804,14 +9820,14 @@
       "first_seen": "2026-11-06T14:38:14Z",
       "last_seen": "2026-11-16T16:28:58Z",
       "source_excerpt": "News article 6 November 2026 Commission initiates safeguard investigation into imports of PET resin chemicals Today, the Commission initiated a safeguard investigation to assess whether safeguard measures are needed to protect EU industry from a significant increase in imports of polyethylene terephthalate (PET) resin chemicals. 1 min read",
-      "review_disposition": "excluded",
-      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
-      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
-      "review_attempted_at": "2026-11-07",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
+      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
+      "review_attempted_at": "2026-11-07"
     },
     {
       "id": "102690e3f2b920c6fae2",
@@ -10790,7 +10806,15 @@
         "document": "29b84d2906985ec68bd4a9025d3f1526244a058c9725e978063baf8e231496fc"
       },
       "source_revision_checked_at": "2026-11-26T17:20:43Z",
-      "source_revision": "0207208f131a0251"
+      "source_revision": "0207208f131a0251",
+      "machine_translation": {
+        "title_zh": "监测新的欧盟钢铁条例的运作情况",
+        "excerpt_zh": "一次有针对性的磋商,征求利益攸关方对欧盟新的钢铁监管钢铁生产商(上游)、钢材用户(下游)、商业协会、第三国政府和出口商以及其他任何感兴趣的利益攸关方的落实情况的反馈意见。 欧盟的2026/1384监管建立了关税率配额制度,以保护欧盟钢铁市场免受全球生产能力过剩与贸易相关的负面影响。 考虑到...",
+        "fingerprint": "0c27dfb59ec9bf698e380e00efa728c68ec27d28d5d949863ef298474ef3939b",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-26T17:22:18Z"
+      }
     },
     {
       "id": "ad02fe1c0ba65919af32",
@@ -11655,7 +11679,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-26T17:20:43Z",
       "last_seen": "2026-11-26T17:20:43Z",
-      "source_excerpt": "Trump tariff plan hits steel and wind Heavy Lift & Project Forwarding International"
+      "source_excerpt": "Trump tariff plan hits steel and wind Heavy Lift & Project Forwarding International",
+      "machine_translation": {
+        "title_zh": "特朗普的关税计划击中钢铁和风",
+        "excerpt_zh": "特朗普关税计划击中钢铁和风力重力提升和推进项目国际",
+        "fingerprint": "6a1a4795ecf5949c846d6fc46e155b7d3841015891b6002c4fbef7e7d50ebba5",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-26T17:22:07Z"
+      }
     },
     {
       "id": "d8ce86813de31bda69bf",
@@ -11690,7 +11722,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-26T17:20:43Z",
       "last_seen": "2026-11-26T17:20:43Z",
-      "source_excerpt": "US proposes 25% tariff on Indian goods under Section 301, keeps aluminium and steel duties separate AL Circle"
+      "source_excerpt": "US proposes 25% tariff on Indian goods under Section 301, keeps aluminium and steel duties separate AL Circle",
+      "machine_translation": {
+        "title_zh": "美国提议根据301节对印度货物征收25%关税,将铝税和钢税分开",
+        "excerpt_zh": "美国提议根据301节对印度货物征收25%关税,将铝税和钢税分开",
+        "fingerprint": "829299f70666017d3651acf36895084d3ceab9ea9fb01a8dadd83fbeaebe3888",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-26T17:22:08Z"
+      }
     },
     {
       "id": "5bda1295f78749f2d7c6",
@@ -11795,7 +11835,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-26T17:20:43Z",
       "last_seen": "2026-11-26T17:20:43Z",
-      "source_excerpt": "Chinese Stainless Steel Coil Manufacturers: A Ranked Comparison The Detroit News"
+      "source_excerpt": "Chinese Stainless Steel Coil Manufacturers: A Ranked Comparison The Detroit News",
+      "machine_translation": {
+        "title_zh": "中国 不锈钢 煤油制造商: 排名比较",
+        "excerpt_zh": "中国 不锈钢 焦油制造商:底特律新闻排名比较",
+        "fingerprint": "b5faa4e793859c79666272af5377171e117bd632c08ac35e3c5f8f39fc9fee3e",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-26T17:22:09Z"
+      }
     },
     {
       "id": "c12718a2a3a12b818ffa",
@@ -11830,7 +11878,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-26T17:20:43Z",
       "last_seen": "2026-11-26T17:20:43Z",
-      "source_excerpt": "US Targets Autos, Chips, Steel, and Drugs in Tariff Proposal for 14 Economies the deep dive"
+      "source_excerpt": "US Targets Autos, Chips, Steel, and Drugs in Tariff Proposal for 14 Economies the deep dive",
+      "machine_translation": {
+        "title_zh": "美国14经济体关税建议中的目标汽车、芯片、钢和毒品",
+        "excerpt_zh": "美国目标汽车、芯片、钢铁和药物 关税建议14",
+        "fingerprint": "8a9dc7533601b317049a1a5d5816c6554d2b7868c4f2f5355af7dd4c53527e49",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-26T17:22:10Z"
+      }
     },
     {
       "id": "d83e9fe61f9c62ea2b3a",
@@ -12016,7 +12072,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-26T17:20:43Z",
       "last_seen": "2026-11-26T17:20:43Z",
-      "source_excerpt": "UK proposes CBAM exemption for steel from the EU, EEA and Switzerland SteelRadar"
+      "source_excerpt": "UK proposes CBAM exemption for steel from the EU, EEA and Switzerland SteelRadar",
+      "machine_translation": {
+        "title_zh": "联合王国提议欧盟、欧洲经济区和瑞士豁免钢 CBAM",
+        "excerpt_zh": "联合王国提议欧盟、欧洲经济区和瑞士钢拉达尔豁免钢 CBAM",
+        "fingerprint": "01a3e99c0abec017dedf5aa328eaf17b03fe7b27b613a122898f43445568be3b",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-26T17:22:12Z"
+      }
     },
     {
       "id": "bae3606144e4995a9088",
@@ -13038,7 +13102,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-26T17:20:43Z",
       "last_seen": "2026-11-26T17:20:43Z",
-      "source_excerpt": "UK Sets Anti-Dumping Duties on South Korean Hot-Rolled Steel Plates - News and Statistics IndexBox"
+      "source_excerpt": "UK Sets Anti-Dumping Duties on South Korean Hot-Rolled Steel Plates - News and Statistics IndexBox",
+      "machine_translation": {
+        "title_zh": "联合王国对韩国的热轧钢平板设定反倾销税",
+        "excerpt_zh": "联合王国对韩国的热轧钢平板设定反倾销税 - 新闻和统计索引Box",
+        "fingerprint": "63c49510efb23e57255e8b8e50c206b48cdd18594ca77aaeea88e7415a3a5f53",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-26T17:22:13Z"
+      }
     },
     {
       "id": "6a6a824d97e3962d1a86",
