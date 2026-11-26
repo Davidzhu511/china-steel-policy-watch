@@ -1,131 +1,10 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-26T01:57:40Z",
-  "pending_count": 29,
-  "actionable_count": 5,
-  "blocked_count": 24,
-  "items": [
-    {
-      "id": "d83e9fe61f9c62ea2b3a",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6NFJGUmQ4Z2twTFp4NnRkT3JHX1d4MFVWd29UQmcwQUdsWFBDeEZxQzFhUTNHR1ctU1FXOWI5QTR1Q2ZoN1lVcWNnUXJWYUliSGRwekdkZ0tydXZxOVBSbzVpY0RTZGt4?oc=5",
-      "published_at": "2026-11-25T23:37:00Z",
-      "title_original": "Mysteel早读：外交部回应美计划加征关税，多家钢厂拟检修减产",
-      "first_seen": "2026-11-26T01:57:40Z",
-      "last_seen": "2026-11-26T01:57:40Z",
-      "source": {
-        "id": "rss",
-        "name": "钢铁网",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-25",
-      "source_excerpt": "Mysteel早读：外交部回应美计划加征关税，多家钢厂拟检修减产 钢铁网",
-      "needs_translation": false,
-      "title_zh": "Mysteel早读：外交部回应美计划加征关税，多家钢厂拟检修减产",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "9bd022cba5e015ba",
-      "related_reviews": []
-    },
-    {
-      "id": "7c8ef25551dacf26f0cf",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZMHBndzhJSmYzUmlMSEJFTmZ2S255MjN3aXFSUnJIeDA3NEI4TVIyeTBUMmo2dW5LMEg3S2xYemR4RnVMcFhWd2Z6OWU4Mk5PQW9HZ1FjRVVtbFNOTzZQSmphTDlnZw?oc=5",
-      "published_at": "2026-11-25T01:25:45Z",
-      "title_original": "“钢铁行业需实施全面进口限制、优先使用国产钢材”……国会钢铁论坛研讨会- 阿视亚经济",
-      "first_seen": "2026-11-26T01:57:40Z",
-      "last_seen": "2026-11-26T01:57:40Z",
-      "source": {
-        "id": "rss",
-        "name": "아시아경제",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-25",
-      "source_excerpt": "“钢铁行业需实施全面进口限制、优先使用国产钢材”……国会钢铁论坛研讨会- 阿视亚经济 아시아경제",
-      "needs_translation": false,
-      "title_zh": "“钢铁行业需实施全面进口限制、优先使用国产钢材”……国会钢铁论坛研讨会- 阿视亚经济",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "0365aae682247e29",
-      "related_reviews": []
-    },
-    {
-      "id": "42431de21785760ea676",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDA4d0VIaENydjhkRU1kQzdiZFdWYXZ6cTl0VWFEYUx3dWdvUWcydXRxVi1ldkN4Y1Q5TFp6dkljNmlCQV9xdmVUbEx1THI1R3FWdGRMMkY0TUJ3TXE2N1E2MGNGUlMySVBiWXg1eUhzN2c3dmIzbzA5aGlneGtIOW1od2J5ZXFDTy1UZHEwb1RxTU81?oc=5",
-      "published_at": "2026-11-25T21:17:34Z",
-      "title_original": "Section 301 tariff decisions disappoint AISI",
-      "first_seen": "2026-11-25T21:59:58Z",
-      "last_seen": "2026-11-25T21:59:58Z",
-      "source": {
-        "id": "rss",
-        "name": "Steel Market Update",
-        "kind": "news",
-        "official": false
-      },
-      "category": "配额与关税",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-25",
-      "source_excerpt": "Section 301 tariff decisions disappoint AISI Steel Market Update",
-      "needs_translation": false,
-      "title_zh": "301关税决定令AISI失望",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "7363450055c069e9",
-      "related_reviews": []
-    },
-    {
-      "id": "bae3606144e4995a9088",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQekJJODdOSlAxcG03VTJyMG9WRGhTVEZIVDh6SURoZFh2clNzWUI3M1VtZFBUN3hFSnk3QThMN0tmbWR3UUt1STYxTGpLZlhFWTBIU3g1NWlMWXhTQ0FLcTc3MlBKZmpoVmh2YlFPNjhfaUlSTnFhYnJKYzVDbmJEakVlcXpxeldTSlBmOE91NkR1LXVBRll4RjVJRlYzWnpxZXFuN3ZUeWt5c2o2bE85aA?oc=5",
-      "published_at": "2026-11-25T14:31:28Z",
-      "title_original": "China Iron Ore Prices Fall 2% as Futures Hit Four-Year Low in November 2026",
-      "first_seen": "2026-11-25T21:59:58Z",
-      "last_seen": "2026-11-26T01:57:40Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-25",
-      "source_excerpt": "China Iron Ore Prices Fall 2% as Futures Hit Four-Year Low in November 2026 - News and Statistics IndexBox",
-      "needs_translation": true,
-      "title_zh": "China Iron Ore Prices Fall 2% as Futures Hit Four-Year Low in November 2026",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "bc62a7798dedf320",
-      "related_reviews": []
-    },
-    {
-      "id": "eec831a324595206cac0",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU0F2MWQzRzhoN2VBNGRld1AtUGFVdVpYVldRVnlXWk02WF9VeTc2OEs1WV9TdG5hQTVMUGhnRkNwb3dfV3l3bXN4Z3JlVVpJbXFuWDdrTWZuZ05YeTRRQUt5OFk2cVdoYkJRQml0R3FKSTdfWUtFbGJHQ1NBVkFqMEVyUE1KOWVrSldKVklEVnpHdUtlNkZ3?oc=5",
-      "published_at": "2026-11-25T09:00:00Z",
-      "title_original": "Steel distributors say they’re being left behind on tariff rebates",
-      "first_seen": "2026-11-25T21:59:58Z",
-      "last_seen": "2026-11-25T21:59:58Z",
-      "source": {
-        "id": "rss",
-        "name": "The Globe and Mail",
-        "kind": "news",
-        "official": false
-      },
-      "category": "配额与关税",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-25",
-      "source_excerpt": "Steel distributors say they’re being left behind on tariff rebates The Globe and Mail",
-      "needs_translation": false,
-      "title_zh": "钢铁经销商说他们被退税抛在后面",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "c0a224a5a9ea932a",
-      "related_reviews": []
-    }
-  ],
+  "pending_count": 25,
+  "actionable_count": 0,
+  "blocked_count": 25,
+  "items": [],
   "blocked_items": [
     {
       "id": "421139ea624ed696243f",
@@ -197,6 +76,36 @@
         }
       ],
       "retry_after": "2026-11-28T20:34:30.000Z",
+      "retry_policy": "scheduled"
+    },
+    {
+      "id": "42431de21785760ea676",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDA4d0VIaENydjhkRU1kQzdiZFdWYXZ6cTl0VWFEYUx3dWdvUWcydXRxVi1ldkN4Y1Q5TFp6dkljNmlCQV9xdmVUbEx1THI1R3FWdGRMMkY0TUJ3TXE2N1E2MGNGUlMySVBiWXg1eUhzN2c3dmIzbzA5aGlneGtIOW1od2J5ZXFDTy1UZHEwb1RxTU81?oc=5",
+      "published_at": "2026-11-25T21:17:34Z",
+      "title_original": "Section 301 tariff decisions disappoint AISI",
+      "first_seen": "2026-11-25T21:59:58Z",
+      "last_seen": "2026-11-25T21:59:58Z",
+      "source": {
+        "id": "rss",
+        "name": "Steel Market Update",
+        "kind": "news",
+        "official": false
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "Steel Market Update公开正文仅有协会认为拟议措施力度不足的导语，未取得AISI就11月25日决定发表的完整声明或新的具体诉求。USTR提案已有独立核验条目。",
+      "review_evidence_url": "https://www.steelmarketupdate.com/2026/11/25/section-301-tariff-decisions-disappoint-aisi/",
+      "review_coverage": "核对SMU公开段落（https://www.steelmarketupdate.com/2026/11/25/section-301-tariff-decisions-disappoint-aisi/）、AISI既有政策页（https://www.steel.org/public-policy/trade/）及USTR 11月25日公告（https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural）。既有游说立场无法独立证明协会本次回应的全文，暂按有限证据保留。",
+      "published_date": "2026-11-25",
+      "source_excerpt": "Section 301 tariff decisions disappoint AISI Steel Market Update",
+      "needs_translation": false,
+      "title_zh": "美国钢铁协会对301关税提案力度表示失望",
+      "review_attempted_at": "2026-11-26T08:04:47Z",
+      "evidence_fingerprint": "7363450055c069e9",
+      "related_reviews": [],
+      "retry_after": "2026-12-03T08:04:47.000Z",
       "retry_policy": "scheduled"
     },
     {
@@ -876,5 +785,5 @@
   "retry_items": [],
   "retry_due_count": 0,
   "next_retry_at": "2026-11-27T00:00:00Z",
-  "work_fingerprint": "261632495e594cc141a2"
+  "work_fingerprint": "4f53cda18c2baa0c0354"
 }
