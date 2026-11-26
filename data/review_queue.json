@@ -1,10 +1,35 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-26T17:20:43Z",
-  "pending_count": 26,
-  "actionable_count": 0,
+  "generated_at": "2026-11-26T21:58:13Z",
+  "pending_count": 27,
+  "actionable_count": 1,
   "blocked_count": 26,
-  "items": [],
+  "items": [
+    {
+      "id": "83a8476968011c283737",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeTlaZmxZS0RUXzJ0dXJDSFFMd0g2RGJKRm5mdXdpLUJfSDNyTXZBSXl6Yi1TT1JpaWIwUU9xeG9mUjl6RzNNOFU1a1JfZFZYUTlRQkFqcTNEY0RsNkg3U3RGVDJBZFFnYzVkSS0zczRSSW1kZDJWTlpPZi0wLVdZUw?oc=5",
+      "published_at": "2026-11-26T09:37:53Z",
+      "title_original": "New US tariffs: Brussels protests, but not at the rate",
+      "first_seen": "2026-11-26T21:58:13Z",
+      "last_seen": "2026-11-26T21:58:13Z",
+      "source": {
+        "id": "rss",
+        "name": "Steel and Stainless Steel News",
+        "kind": "news",
+        "official": false
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-26",
+      "source_excerpt": "New US tariffs: Brussels protests, but not at the rate Steel and Stainless Steel News",
+      "needs_translation": true,
+      "title_zh": "New US tariffs: Brussels protests, but not at the rate",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "8d4619282c807720",
+      "related_reviews": []
+    }
+  ],
   "blocked_items": [
     {
       "id": "421139ea624ed696243f",
@@ -12,7 +37,7 @@
       "published_at": "2026-11-24T00:00:00Z",
       "title_original": "Do you import any of these products into the EU?",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-26T17:20:43Z",
+      "last_seen": "2026-11-26T21:58:13Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG TAXUD · CBAM News",
@@ -42,7 +67,7 @@
       "published_at": "2026-11-25T11:51:00Z",
       "title_original": "Sale and repurchase of CBAM certificates",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-26T17:20:43Z",
+      "last_seen": "2026-11-26T21:58:13Z",
       "source": {
         "id": "ec_have_your_say",
         "name": "EC Have Your Say / 欧盟公众咨询",
@@ -84,7 +109,7 @@
       "published_at": "2026-11-26T11:22:04Z",
       "title_original": "Trump tariff plan hits steel and wind",
       "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-26T17:20:43Z",
+      "last_seen": "2026-11-26T21:58:13Z",
       "source": {
         "id": "rss",
         "name": "Heavy Lift & Project Forwarding International",
@@ -144,7 +169,7 @@
       "published_at": "2026-11-25T16:24:27Z",
       "title_original": "特朗普威胁加拿大汽车钢铁加税关税或成谈判筹码",
       "first_seen": "2026-11-25T17:38:41Z",
-      "last_seen": "2026-11-26T17:20:43Z",
+      "last_seen": "2026-11-26T21:58:13Z",
       "source": {
         "id": "rss",
         "name": "VanPeople",
@@ -815,5 +840,5 @@
   "retry_items": [],
   "retry_due_count": 0,
   "next_retry_at": "2026-11-27T00:00:00Z",
-  "work_fingerprint": "4f53cda18c2baa0c0354"
+  "work_fingerprint": "d6bc6ae6ac714eab119a"
 }
