@@ -1,313 +1,10 @@
 {
   "schema_version": 2,
   "generated_at": "2026-11-26T17:20:43Z",
-  "pending_count": 37,
-  "actionable_count": 12,
-  "blocked_count": 25,
-  "items": [
-    {
-      "id": "b48f494347efa0543e3f",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/2027-arrangements-execution-transfers-between-emission-trading-registries-eu-and-switzerland-2026-11-26_en",
-      "published_at": "2026-11-25T23:00:00Z",
-      "title_original": "2027 arrangements for the execution of transfers between the emission trading registries of the EU and Switzerland",
-      "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-26T17:20:43Z",
-      "source": {
-        "id": "rss",
-        "name": "DG CLIMA RSS",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-25",
-      "source_excerpt": "The 2027 arrangements for the transfers of emission allowances between the registries of the EU Emissions Trading System and the Swiss Emissions Trading System have been agreed, in application of the EU and Swiss Linking Agreement.",
-      "needs_translation": false,
-      "title_zh": "执行欧盟和瑞士排放贸易登记册之间转让的2027安排",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "0c31c5649fdda85f",
-      "related_reviews": []
-    },
-    {
-      "id": "18b5788ec662b75b0442",
-      "url": "https://climate.ec.europa.eu/news-other-reads/news/negotiations-finalised-link-eu-and-uk-emissions-trading-systems-2026-11-20_en",
-      "published_at": "2026-11-20T00:00:00Z",
-      "title_original": "Negotiations finalised to link EU and UK Emissions Trading Systems",
-      "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-26T17:20:43Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "DG CLIMA · EU ETS",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "source_revision": "ba75feb24e2c8330",
-      "published_date": "2026-11-20",
-      "source_excerpt": "News article 20 November 2026 Negotiations finalised to link EU and UK Emissions Trading Systems Negotiations finalised to link EU and UK Emissions Trading Systems 2 min read",
-      "needs_translation": false,
-      "title_zh": "将欧盟和联合王国排放交易系统连接起来的谈判已最后完成",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "540d42fa46ed7f3f",
-      "related_reviews": []
-    },
-    {
-      "id": "466cf7083d636a517a0d",
-      "url": "https://policy.trade.ec.europa.eu/consultations/monitoring-functioning-new-eu-steel-regulation_en",
-      "published_at": "2026-09-28T00:00:00Z",
-      "title_original": "Monitoring the functioning of the new EU Steel Regulation",
-      "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-26T17:20:43Z",
-      "source": {
-        "id": "ec_watch_pages",
-        "name": "DG TRADE · Steel consultations",
-        "kind": "official-notice",
-        "official": true
-      },
-      "category": "配额与关税",
-      "importance": "中",
-      "translation_state": "pending",
-      "consultation": {
-        "status": "CLOSED",
-        "opens_at": "2026-09-28T00:00:00Z",
-        "closes_at": "2026-10-11T21:59:00Z"
-      },
-      "source_revision": "0207208f131a0251",
-      "published_date": "2026-09-28",
-      "source_excerpt": "A targeted consultation seeking stakeholders' feedback on the implementation of the new EU Steel Regulation Steel producers (upstream), steel users (downstream), business associations, third country governments and exporters, and any other interested stakeholders. EU Regulation 2026/1384 establishes a tariff rate quota system to protect the Union steel market from negative trade-related effects of global overcapacity. Considering the end of the first quarter of application of the Regulation and in order to establish a strong and targeted monitoring mechanism enabling an ongoing assessment of…",
-      "needs_translation": false,
-      "title_zh": "监测新的欧盟钢铁条例的运作情况",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "befce5cf10c96078",
-      "related_reviews": []
-    },
-    {
-      "id": "56f2a1b3c5684f1c1070",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaHRJWTQ0M2d2dXk0ZGN6RVV5Q3l4RUtTalFvaVo2Rlh5QWJ1Q1hPaW8tTWpRaFB6dWhPaTR4b1dSVUlVWXIxaHRWQjFfVlc2eVI4S1psQXA5VGtDcUlzYzBZVjN2cXJtUzdZeWxPNTZlc051ZW9LVm1ZOVR4cUlHVHFJYS1FU293OFRPbHg5M1dzN0tqX25hRkxUTGdwR2hjM25hWEdxUFpRMmllZUE?oc=5",
-      "published_at": "2026-11-26T13:20:40Z",
-      "title_original": "英国CBAM草案：自2027年起豁免欧盟、欧洲经济区和瑞士商品 - 新闻和统计",
-      "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-26T17:20:43Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-26",
-      "source_excerpt": "英国CBAM草案：自2027年起豁免欧盟、欧洲经济区和瑞士商品 - 新闻和统计 IndexBox",
-      "needs_translation": false,
-      "title_zh": "英国CBAM草案：自2027年起豁免欧盟、欧洲经济区和瑞士商品 - 新闻和统计",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "34506481b82e38fc",
-      "related_reviews": []
-    },
-    {
-      "id": "1277c42e36ec14cd056b",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc3dKTU5vLTdMc3lNNG5EN29NT1U1bDNjbzFudlZfa0Ywb2xRLTcxcl9ZeGItQUZKUTFHMmxyN2ZoRFRKYUI5bjZpeTNnV3JSYnJNUVhDdFZfakltRHdVYkRFbVdRQnc1el8zQzBuMHRER1VESEFsVV9QVTFfWnladDNta3J1c01nQmJqcG5wOGh5Y0haY2JtZzJLc1J0dWt0MmxXUGFva24?oc=5",
-      "published_at": "2026-11-26T11:22:04Z",
-      "title_original": "Trump tariff plan hits steel and wind",
-      "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-26T17:20:43Z",
-      "source": {
-        "id": "rss",
-        "name": "Heavy Lift & Project Forwarding International",
-        "kind": "news",
-        "official": false
-      },
-      "category": "配额与关税",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-26",
-      "source_excerpt": "Trump tariff plan hits steel and wind Heavy Lift & Project Forwarding International",
-      "needs_translation": false,
-      "title_zh": "特朗普的关税计划击中钢铁和风",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "d0566dda82d90d23",
-      "related_reviews": []
-    },
-    {
-      "id": "d8ce86813de31bda69bf",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNTFXVnVaQ181dlo1UFpiVEpXRmVhQVBpbWtqTzVIOXlPa1gyZzJiUU55cXNocVF2RjdYZ2pzTHZ6djJ3NkF2OWxMVmM0ME5XbEdzdzROME1PS2JmVGRXUDU1UEFPRDVWcmNsWW0zSS1nMU5aTGVtZlJtbTVBNnlMTmhiOXZDVHo3NDJCenY3M0pEQ09yd09obGhPblJkR3lyVjVHMUZXY0F4NHp2UE1kN3JjSXdJSnRfSEZwdEYwWURscFY4eGdPWF9vNjhQRjQ?oc=5",
-      "published_at": "2026-11-26T10:20:00Z",
-      "title_original": "US proposes 25% tariff on Indian goods under Section 301, keeps aluminium and steel duties separate",
-      "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-26T17:20:43Z",
-      "source": {
-        "id": "rss",
-        "name": "AL Circle",
-        "kind": "news",
-        "official": false
-      },
-      "category": "配额与关税",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-26",
-      "source_excerpt": "US proposes 25% tariff on Indian goods under Section 301, keeps aluminium and steel duties separate AL Circle",
-      "needs_translation": false,
-      "title_zh": "美国提议根据301节对印度货物征收25%关税,将铝税和钢税分开",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "3413b36a2808645d",
-      "related_reviews": []
-    },
-    {
-      "id": "5bda1295f78749f2d7c6",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWJyNV82T3g1N19sV1FpNGJOVTBUVW4yWk1PbTloODM5em5NUTVCNFZ6S2VQdDBFWDZXSTViMjNTdmgyTEhkSEh4ODFNN2E0cjB6cXZFZ1UzV1o1ZTB4bnZoaFV1Y1dQWEZsd2VaS2ZkOWE0Z1h5eS04ektQWld1YlBDUG1fTnp2MFQwdWx4R1FpN2o4RU1pZjc4RF9UWDZXcVdNeXRrcFVJNjVZQzVsLWllbW5LcVd2?oc=5",
-      "published_at": "2026-11-26T10:10:33Z",
-      "title_original": "2026年上半年荷兰CBAM成本达1.213亿欧元 - 新闻和统计",
-      "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-26T17:20:43Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-26",
-      "source_excerpt": "2026年上半年荷兰CBAM成本达1.213亿欧元 - 新闻和统计 IndexBox",
-      "needs_translation": false,
-      "title_zh": "2026年上半年荷兰CBAM成本达1.213亿欧元 - 新闻和统计",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "da59f046312ed1b1",
-      "related_reviews": []
-    },
-    {
-      "id": "5b97c8ccfb37dfc7d5aa",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aS1cxTkhGNUVudzgtci1TWnIyLWZTUVpFZmJvczg3YkZhcmd1WXl4cjRFNWZHVnNyV3l6c3NCS19WODlnYkxGSTlUUFhuZW5rb1V0a2hn?oc=5",
-      "published_at": "2026-11-26T09:35:24Z",
-      "title_original": "TÜV南德正式获得德国DAkkS欧盟碳边境调节机制（CBAM）核查机构认可资质",
-      "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-26T17:20:43Z",
-      "source": {
-        "id": "rss",
-        "name": "中国产业发展促进会氢能分会",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-26",
-      "source_excerpt": "TÜV南德正式获得德国DAkkS欧盟碳边境调节机制（CBAM）核查机构认可资质 中国产业发展促进会氢能分会",
-      "needs_translation": false,
-      "title_zh": "TÜV南德正式获得德国DAkkS欧盟碳边境调节机制（CBAM）核查机构认可资质",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "11a5754fbeb38833",
-      "related_reviews": []
-    },
-    {
-      "id": "cd43c43455567c5056a4",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmJQMGJ6emdCeU9rcVJWY3FPUVdMZTU5RlRyOUVZN3prcHVEeGpDVW9wZTl1RVh1OW9meEhLNDdFcFQyMmhXYzNoMTIyLTA0d1YwZHN2VWdyM2FUcGxIc1hSamx2dUVISEFhVEJaejZIbExzMlVfckM0amwxY09xczFNNWNOdk01SXU2YUxwZHlQTzRIZUJscDBsd181WWQ4V3VlZDZkVEowMGZPZDliaEl1bTM3RFcxLUE?oc=5",
-      "published_at": "2026-11-26T08:42:02Z",
-      "title_original": "Chinese Stainless Steel Coil Manufacturers: A Ranked Comparison",
-      "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-26T17:20:43Z",
-      "source": {
-        "id": "rss",
-        "name": "The Detroit News",
-        "kind": "news",
-        "official": false
-      },
-      "category": "市场与产能",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-26",
-      "source_excerpt": "Chinese Stainless Steel Coil Manufacturers: A Ranked Comparison The Detroit News",
-      "needs_translation": false,
-      "title_zh": "中国 不锈钢 煤油制造商: 排名比较",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "b943c80d2fa3ac57",
-      "related_reviews": []
-    },
-    {
-      "id": "c12718a2a3a12b818ffa",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNenZpTTlRRllsRUNlLUp3RGYzNUVZWHU2THpDTU1yM2tLb1hoTHlqMFp4Q2g1aDlxbWg2czkwOUJsT1dYWDJ3aUFTOGx4YjAwUGREWnlOQUY3RjNSWjV3bzYyZmZXWUloRDE5VlJxVVdjZllKd240TWp3VnRYV1NmMTlQWDBWc1hGTFphREdKajJJbi0wV3ROQnRCN2lER3c?oc=5",
-      "published_at": "2026-11-26T04:46:35Z",
-      "title_original": "US Targets Autos, Chips, Steel, and Drugs in Tariff Proposal for 14 Economies",
-      "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-26T17:20:43Z",
-      "source": {
-        "id": "rss",
-        "name": "the deep dive",
-        "kind": "news",
-        "official": false
-      },
-      "category": "配额与关税",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-26",
-      "source_excerpt": "US Targets Autos, Chips, Steel, and Drugs in Tariff Proposal for 14 Economies the deep dive",
-      "needs_translation": false,
-      "title_zh": "美国14经济体关税建议中的目标汽车、芯片、钢和毒品",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "5259ea1d92e6aa5a",
-      "related_reviews": []
-    },
-    {
-      "id": "e6b4be87e132d9831a54",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONmJIOUdWanBWVVBRci1GVUhlSi1oNXJDcC1UOXBubnlHelFOYmRyR296ZmdyMXRnS2xDSkZLWC1YSzktd2ZWRW5yYWdfR2JoTHFubHhzaHduWHBuYlR5aHZYVlY5dEgyMDA2TFJuQmJZQTR4azhNR05MOFhvWElzd21ydGJ5X2NwMnR1UXRSekwweE9tRXVmeXVBcjBSeWtwWjN6aFltMTU?oc=5",
-      "published_at": "2026-11-25T14:38:36Z",
-      "title_original": "UK proposes CBAM exemption for steel from the EU, EEA and Switzerland",
-      "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-26T17:20:43Z",
-      "source": {
-        "id": "rss",
-        "name": "SteelRadar",
-        "kind": "news",
-        "official": false
-      },
-      "category": "碳与环保",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-25",
-      "source_excerpt": "UK proposes CBAM exemption for steel from the EU, EEA and Switzerland SteelRadar",
-      "needs_translation": false,
-      "title_zh": "联合王国提议欧盟、欧洲经济区和瑞士豁免钢 CBAM",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "14177664eec87afd",
-      "related_reviews": [
-        {
-          "url": "https://gov.uk/government/publications/draft-legislation-exemption-for-eu-eea-and-swiss-origin-goods-from-cbam",
-          "published_at": "2026-11-23T00:00:00Z",
-          "title_zh": "英国公布CBAM原产地豁免草案，拟立法后追溯至2027年1月1日",
-          "evidence_url": "https://www.gov.uk/government/publications/draft-legislation-exemption-for-eu-eea-and-swiss-origin-goods-from-cbam/draft-legislation-accessible-version"
-        }
-      ]
-    },
-    {
-      "id": "19bfa5e11ef35a57e7df",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTZLcVF0QWNjNEUzVmZqVVdIalZHR3R1bGpQSktZOUk4QW5UYlZER19fcFozcjlWeFpycGxfcnZZNXl6ajI2NXBOTEEtdjF6czVJRFRpWXJnZXZIVV9Wb1ZTaXgya1Zfd0dFWHlQdy15djczWWZDSzBiUktYYS15OUg0Znp0bkdDTThjdXptYVlMQ2RWZmp5cTZzbFk4dkx3ZmxCSV93TmpWUmJ2U0dzUQ?oc=5",
-      "published_at": "2026-11-23T11:40:58Z",
-      "title_original": "UK Sets Anti-Dumping Duties on South Korean Hot-Rolled Steel Plates",
-      "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-26T17:20:43Z",
-      "source": {
-        "id": "rss",
-        "name": "IndexBox",
-        "kind": "news",
-        "official": false
-      },
-      "category": "贸易救济",
-      "importance": "中",
-      "translation_state": "pending",
-      "published_date": "2026-11-23",
-      "source_excerpt": "UK Sets Anti-Dumping Duties on South Korean Hot-Rolled Steel Plates - News and Statistics IndexBox",
-      "needs_translation": false,
-      "title_zh": "联合王国对韩国的热轧钢平板设定反倾销税",
-      "review_attempted_at": "",
-      "evidence_fingerprint": "8d0f0934fa775efd",
-      "related_reviews": []
-    }
-  ],
+  "pending_count": 26,
+  "actionable_count": 0,
+  "blocked_count": 26,
+  "items": [],
   "blocked_items": [
     {
       "id": "421139ea624ed696243f",
@@ -379,6 +76,36 @@
         }
       ],
       "retry_after": "2026-11-28T20:34:30.000Z",
+      "retry_policy": "scheduled"
+    },
+    {
+      "id": "1277c42e36ec14cd056b",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc3dKTU5vLTdMc3lNNG5EN29NT1U1bDNjbzFudlZfa0Ywb2xRLTcxcl9ZeGItQUZKUTFHMmxyN2ZoRFRKYUI5bjZpeTNnV3JSYnJNUVhDdFZfakltRHdVYkRFbVdRQnc1el8zQzBuMHRER1VESEFsVV9QVTFfWnladDNta3J1c01nQmJqcG5wOGh5Y0haY2JtZzJLc1J0dWt0MmxXUGFva24?oc=5",
+      "published_at": "2026-11-26T11:22:04Z",
+      "title_original": "Trump tariff plan hits steel and wind",
+      "first_seen": "2026-11-26T17:20:43Z",
+      "last_seen": "2026-11-26T17:20:43Z",
+      "source": {
+        "id": "rss",
+        "name": "Heavy Lift & Project Forwarding International",
+        "kind": "news",
+        "official": false
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "公开目录仅可读标题和通用订阅提示，无法确认该报道涉及的风电设备、有效日期或独立措施。已核验的美国301产能过剩提案继续以主条为准。",
+      "review_evidence_url": "https://www.shipshipship.uk/publications/1982/hlpfi",
+      "review_coverage": "尝试Google索引、同题检索和SeaSearch公开目录，未取得报道正文。",
+      "published_date": "2026-11-26",
+      "source_excerpt": "Trump tariff plan hits steel and wind Heavy Lift & Project Forwarding International",
+      "needs_translation": false,
+      "title_zh": "特朗普关税计划波及钢铁和风电",
+      "review_attempted_at": "2026-11-26T20:37:03Z",
+      "evidence_fingerprint": "d0566dda82d90d23",
+      "related_reviews": [],
+      "retry_after": "2026-12-03T20:37:03Z",
       "retry_policy": "scheduled"
     },
     {
@@ -1088,5 +815,5 @@
   "retry_items": [],
   "retry_due_count": 0,
   "next_retry_at": "2026-11-27T00:00:00Z",
-  "work_fingerprint": "626c643f41341b62f688"
+  "work_fingerprint": "4f53cda18c2baa0c0354"
 }
