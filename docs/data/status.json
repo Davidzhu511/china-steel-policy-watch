@@ -1,38 +1,33 @@
 {
-  "generated_at": "2026-11-25T21:59:58Z",
+  "generated_at": "2026-11-26T01:57:40Z",
   "run_ok": true,
   "model": "gpt-4.1-mini",
   "translation_available": false,
   "analysis_status": "unconfigured",
-  "active_items": 376,
+  "active_items": 378,
   "archived_items": 197,
   "verified_items": 349,
-  "pending_analysis": 27,
+  "pending_analysis": 29,
   "pending_translation": 1,
   "blocked_items": 24,
-  "actionable_count": 3,
+  "actionable_count": 5,
   "blocked_count": 24,
   "retry_due_count": 0,
   "next_retry_at": "2026-11-27T00:00:00Z",
   "pending_machine_translation": 1,
   "chinese_title_coverage": 99.7,
-  "oldest_actionable_hours": 0.0,
+  "oldest_actionable_hours": 4.0,
   "offline_translation": {
-    "status": "partial",
-    "translated": 2,
-    "warnings": [
-      "1 条译文未通过完整性检查，保留原文待重试。"
-    ],
-    "remaining": 1,
-    "attempted_at": "2026-11-25T22:01:32Z",
-    "retry_after": "2026-11-26T04:01:32.467304+00:00"
+    "status": "queued",
+    "translated": 0,
+    "warnings": []
   },
   "machine_translated_items": 9,
   "collected_items": 107,
-  "processed_items": 3,
+  "processed_items": 2,
   "deferred_items": 0,
-  "new_items": 3,
-  "total_items": 573,
+  "new_items": 2,
+  "total_items": 575,
   "source_success": 6,
   "source_total": 6,
   "sources": [
@@ -42,10 +37,10 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 11012,
+      "duration_ms": 7809,
       "warnings": [],
-      "last_success_at": "2026-11-25T21:59:58Z",
-      "last_observed_at": "2026-11-25T21:59:58Z",
+      "last_success_at": "2026-11-26T01:57:40Z",
+      "last_observed_at": "2026-11-26T01:57:40Z",
       "consecutive_failures": 0
     },
     {
@@ -54,10 +49,10 @@
       "ok": true,
       "count": 17,
       "error": "",
-      "duration_ms": 12650,
+      "duration_ms": 15687,
       "warnings": [],
-      "last_success_at": "2026-11-25T21:59:58Z",
-      "last_observed_at": "2026-11-25T21:59:58Z",
+      "last_success_at": "2026-11-26T01:57:40Z",
+      "last_observed_at": "2026-11-26T01:57:40Z",
       "consecutive_failures": 0
     },
     {
@@ -66,9 +61,9 @@
       "ok": true,
       "count": 0,
       "error": "",
-      "duration_ms": 399,
+      "duration_ms": 460,
       "warnings": [],
-      "last_success_at": "2026-11-25T21:59:58Z",
+      "last_success_at": "2026-11-26T01:57:40Z",
       "last_observed_at": "2026-11-24T22:48:15Z",
       "consecutive_failures": 0
     },
@@ -76,12 +71,12 @@
       "id": "federal_register",
       "name": "U.S. Federal Register / 美国联邦公报",
       "ok": true,
-      "count": 21,
+      "count": 20,
       "error": "",
-      "duration_ms": 784,
+      "duration_ms": 438,
       "warnings": [],
-      "last_success_at": "2026-11-25T21:59:58Z",
-      "last_observed_at": "2026-11-25T21:59:58Z",
+      "last_success_at": "2026-11-26T01:57:40Z",
+      "last_observed_at": "2026-11-26T01:57:40Z",
       "consecutive_failures": 0
     },
     {
@@ -90,10 +85,10 @@
       "ok": true,
       "count": 16,
       "error": "",
-      "duration_ms": 3885,
+      "duration_ms": 5297,
       "warnings": [],
-      "last_success_at": "2026-11-25T21:59:58Z",
-      "last_observed_at": "2026-11-25T21:59:58Z",
+      "last_success_at": "2026-11-26T01:57:40Z",
+      "last_observed_at": "2026-11-26T01:57:40Z",
       "consecutive_failures": 0
     },
     {
@@ -102,15 +97,14 @@
       "ok": true,
       "count": 39,
       "error": "",
-      "duration_ms": 2756,
+      "duration_ms": 2261,
       "warnings": [],
-      "last_success_at": "2026-11-25T21:59:58Z",
-      "last_observed_at": "2026-11-25T21:59:58Z",
+      "last_success_at": "2026-11-26T01:57:40Z",
+      "last_observed_at": "2026-11-26T01:57:40Z",
       "consecutive_failures": 0
     }
   ],
   "warnings": [
-    "官方版本检查 DG TAXUD · CBAM News: HTTPError: 429 Client Error: Too Many Requests for url: https://taxation-customs.ec.europa.eu/document/download"
-  ],
-  "translation_updated_at": "2026-11-25T22:01:32Z"
+    "官方版本检查 哥伦比亚官方法规汇总 · L/U型钢铁型材反倾销: ValueError: Refusing a non-public URL"
+  ]
 }

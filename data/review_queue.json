@@ -1,10 +1,58 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-25T21:59:58Z",
-  "pending_count": 27,
-  "actionable_count": 3,
+  "generated_at": "2026-11-26T01:57:40Z",
+  "pending_count": 29,
+  "actionable_count": 5,
   "blocked_count": 24,
   "items": [
+    {
+      "id": "d83e9fe61f9c62ea2b3a",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6NFJGUmQ4Z2twTFp4NnRkT3JHX1d4MFVWd29UQmcwQUdsWFBDeEZxQzFhUTNHR1ctU1FXOWI5QTR1Q2ZoN1lVcWNnUXJWYUliSGRwekdkZ0tydXZxOVBSbzVpY0RTZGt4?oc=5",
+      "published_at": "2026-11-25T23:37:00Z",
+      "title_original": "Mysteel早读：外交部回应美计划加征关税，多家钢厂拟检修减产",
+      "first_seen": "2026-11-26T01:57:40Z",
+      "last_seen": "2026-11-26T01:57:40Z",
+      "source": {
+        "id": "rss",
+        "name": "钢铁网",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "Mysteel早读：外交部回应美计划加征关税，多家钢厂拟检修减产 钢铁网",
+      "needs_translation": false,
+      "title_zh": "Mysteel早读：外交部回应美计划加征关税，多家钢厂拟检修减产",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "9bd022cba5e015ba",
+      "related_reviews": []
+    },
+    {
+      "id": "7c8ef25551dacf26f0cf",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZMHBndzhJSmYzUmlMSEJFTmZ2S255MjN3aXFSUnJIeDA3NEI4TVIyeTBUMmo2dW5LMEg3S2xYemR4RnVMcFhWd2Z6OWU4Mk5PQW9HZ1FjRVVtbFNOTzZQSmphTDlnZw?oc=5",
+      "published_at": "2026-11-25T01:25:45Z",
+      "title_original": "“钢铁行业需实施全面进口限制、优先使用国产钢材”……国会钢铁论坛研讨会- 阿视亚经济",
+      "first_seen": "2026-11-26T01:57:40Z",
+      "last_seen": "2026-11-26T01:57:40Z",
+      "source": {
+        "id": "rss",
+        "name": "아시아경제",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "“钢铁行业需实施全面进口限制、优先使用国产钢材”……国会钢铁论坛研讨会- 阿视亚经济 아시아경제",
+      "needs_translation": false,
+      "title_zh": "“钢铁行业需实施全面进口限制、优先使用国产钢材”……国会钢铁论坛研讨会- 阿视亚经济",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "0365aae682247e29",
+      "related_reviews": []
+    },
     {
       "id": "42431de21785760ea676",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDA4d0VIaENydjhkRU1kQzdiZFdWYXZ6cTl0VWFEYUx3dWdvUWcydXRxVi1ldkN4Y1Q5TFp6dkljNmlCQV9xdmVUbEx1THI1R3FWdGRMMkY0TUJ3TXE2N1E2MGNGUlMySVBiWXg1eUhzN2c3dmIzbzA5aGlneGtIOW1od2J5ZXFDTy1UZHEwb1RxTU81?oc=5",
@@ -35,7 +83,7 @@
       "published_at": "2026-11-25T14:31:28Z",
       "title_original": "China Iron Ore Prices Fall 2% as Futures Hit Four-Year Low in November 2026",
       "first_seen": "2026-11-25T21:59:58Z",
-      "last_seen": "2026-11-25T21:59:58Z",
+      "last_seen": "2026-11-26T01:57:40Z",
       "source": {
         "id": "rss",
         "name": "IndexBox",
@@ -85,7 +133,7 @@
       "published_at": "2026-11-24T00:00:00Z",
       "title_original": "Do you import any of these products into the EU?",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-25T21:59:58Z",
+      "last_seen": "2026-11-26T01:57:40Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG TAXUD · CBAM News",
@@ -115,7 +163,7 @@
       "published_at": "2026-11-25T11:51:00Z",
       "title_original": "Sale and repurchase of CBAM certificates",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-25T21:59:58Z",
+      "last_seen": "2026-11-26T01:57:40Z",
       "source": {
         "id": "ec_have_your_say",
         "name": "EC Have Your Say / 欧盟公众咨询",
@@ -157,7 +205,7 @@
       "published_at": "2026-11-25T16:24:27Z",
       "title_original": "特朗普威胁加拿大汽车钢铁加税关税或成谈判筹码",
       "first_seen": "2026-11-25T17:38:41Z",
-      "last_seen": "2026-11-25T21:59:58Z",
+      "last_seen": "2026-11-26T01:57:40Z",
       "source": {
         "id": "rss",
         "name": "VanPeople",
@@ -217,7 +265,7 @@
       "published_at": "2026-11-19T16:18:46Z",
       "title_original": "UK CBAM to cost far less than EU's for most importers, raising re-routing risk as ETS link nears",
       "first_seen": "2026-11-20T15:46:33Z",
-      "last_seen": "2026-11-25T02:49:37Z",
+      "last_seen": "2026-11-26T01:57:40Z",
       "source": {
         "id": "rss",
         "name": "Fastmarkets",
@@ -427,7 +475,7 @@
       "published_at": "2026-11-19T08:36:00Z",
       "title_original": "碳关税“规则革命”已至，钢铁行业如何作答？——齐绍洲详解CBAM对钢铁行业的影响及应对之策",
       "first_seen": "2026-11-19T16:05:25Z",
-      "last_seen": "2026-11-25T21:59:58Z",
+      "last_seen": "2026-11-26T01:57:40Z",
       "source": {
         "id": "rss",
         "name": "中国钢铁新闻网",
@@ -828,5 +876,5 @@
   "retry_items": [],
   "retry_due_count": 0,
   "next_retry_at": "2026-11-27T00:00:00Z",
-  "work_fingerprint": "a53fdf267a628f1aef97"
+  "work_fingerprint": "261632495e594cc141a2"
 }
