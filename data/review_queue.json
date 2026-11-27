@@ -1,10 +1,155 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-27T16:59:48Z",
-  "pending_count": 16,
-  "actionable_count": 0,
+  "generated_at": "2026-11-27T21:40:21Z",
+  "pending_count": 22,
+  "actionable_count": 6,
   "blocked_count": 16,
-  "items": [],
+  "items": [
+    {
+      "id": "c9acc3c140b636245b10",
+      "url": "https://gov.uk/government/publications/determinations-of-the-uk-ets-carbon-price",
+      "published_at": "2026-11-27T00:00:00Z",
+      "title_original": "Determinations of the UK ETS carbon price",
+      "first_seen": "2026-11-27T21:40:21Z",
+      "last_seen": "2026-11-27T21:40:21Z",
+      "source": {
+        "id": "govuk",
+        "name": "GOV.UK / 英国政府",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-27",
+      "source_excerpt": "Determinations made by the UK ETS Authority under article 46 of the Greenhouse Gas Emission Trading Scheme Order 2020. These determinations enable regulators to calculate a number of civil penalties for non-compliance with the UK Emissions Trading Scheme (UK ETS ). We use some essential cookies to make this website work. We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use cookies set by other sites to help us deliver content from their services. You have accepted additional cookies. You can change your cooki…",
+      "needs_translation": true,
+      "title_zh": "Determinations of the UK ETS carbon price",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "2102978971398753",
+      "related_reviews": []
+    },
+    {
+      "id": "9b66f4582ebdec20a360",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wMWotallSaEZNbmlsT3pOalBmSHg1dlhjWnFUYjBYQlVzcnpnWWRnV0JQb2pld0hrcHE5N1FUU1pINmhiOWthUDBCR1pZVGJNOXVxQzJobk03QVlYaVNDbGs0dkk?oc=5",
+      "published_at": "2026-11-27T08:18:55Z",
+      "title_original": "一周钢铁业要闻回顾（2026.11.27）",
+      "first_seen": "2026-11-27T21:40:21Z",
+      "last_seen": "2026-11-27T21:40:21Z",
+      "source": {
+        "id": "rss",
+        "name": "中国煤炭资源网",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-27",
+      "source_excerpt": "一周钢铁业要闻回顾（2026.11.27） 中国煤炭资源网",
+      "needs_translation": false,
+      "title_zh": "一周钢铁业要闻回顾（2026.11.27）",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "2aa50154c556a3ef",
+      "related_reviews": []
+    },
+    {
+      "id": "36f6ad52b778ad17eafc",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjZsbWt6TkZjNEdZYmQ5c2lVNExNNXhYcGZWRW4yTGVFQTNFYWpOZTl4WWVkZ1JjZ3dFTEhJYkxyOUQzRlpXY2IwMm13VFlYTXd0WTZfSUgzeWF6TGZ6eFVaZWpoek0wbjM0T0VJdzF6S0s0dUN6SUI4T0F3ZHpMOEdCNnJvN1pSZm4wU1dRUDZaa2RhanpWUnlSVUY?oc=5",
+      "published_at": "2026-11-25T10:42:38Z",
+      "title_original": "Commerce Sets CVD Rate on Chinese Steel Tubing",
+      "first_seen": "2026-11-27T21:40:21Z",
+      "last_seen": "2026-11-27T21:40:21Z",
+      "source": {
+        "id": "rss",
+        "name": "CASRAI",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "Commerce Sets CVD Rate on Chinese Steel Tubing CASRAI",
+      "needs_translation": true,
+      "title_zh": "Commerce Sets CVD Rate on Chinese Steel Tubing",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "f9eedc3777676375",
+      "related_reviews": []
+    },
+    {
+      "id": "5c56859930ddc46b4a03",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmpmUDdGVTNiMHY5S21nYng2N2hnM2p0LXV2dy1mb2FyQUliVnBqdVZKQWFCWlI1QVVmVzhQSktCbHhmWDJBYmdzN3Y4MDBnWVI5dGltVnkwc0ljdXNfcEl5VEFiR2JVYmtkZEdzV0VmUlFYQko4NlR3U2JwczliWC1RVU93MDgxS1djRFM3ZU5NOUJEaWRQRkoxYWtzUknSAaQBQVVfeXFMT3g5bmJUUVZ4TFFLNUhTX2FLV2FDVkRlQ2NISUpmaG9oajhIVzNuQXRYQnI0ZkJLNEtoNEEyOWlnODhsZ1NRcmVNSWUybHVmbTVPNGZBeUtJUGRSSXA2N2Ezd05LVTZTdG10bkZ0S1kxTTN0RWMtbU95RWY2eUpDUlRpY2tMLWl1akhmbUM4N2VXX1c5ckJXWkRFbjhqWktMWlkyaC0?oc=5",
+      "published_at": "2026-11-24T12:59:53Z",
+      "title_original": "Ukraine asks Germany for support on steel quotas and CBAM postponement",
+      "first_seen": "2026-11-27T21:40:21Z",
+      "last_seen": "2026-11-27T21:40:21Z",
+      "source": {
+        "id": "rss",
+        "name": "GMK Center",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-24",
+      "source_excerpt": "Ukraine asks Germany for support on steel quotas and CBAM postponement GMK Center",
+      "needs_translation": true,
+      "title_zh": "Ukraine asks Germany for support on steel quotas and CBAM postponement",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "fdf77e88d99c9a90",
+      "related_reviews": []
+    },
+    {
+      "id": "88165e132c38f23b54ae",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkx5dU1LMHgxaC04d3Rmcl9xSkVMdXVpNWVjMjdCZ0xMRmpFSXVWQUEzTVEtZjk3QkV4eGRhaElDYlZXc0lkb3JkNm4zdTFKbjg0MVR4c3dFcm9hQWdoNmkwM0otT3M0YnNuR0hkUS1XU0M0WlMzdlBjSGZiNUZfV2ZCRUxqTk1RbzhjUmtWVHA3NGtMVC1QNzZwR184SkdnMjRkMHVTdHNfU3IwRzFNQ0pUb2NXdU0xV1JJLXBIMlI3VGZzSzkyaA?oc=5",
+      "published_at": "2026-11-24T11:38:37Z",
+      "title_original": "CBAM verification demand builds, raising capacity concerns ahead of first annual declaration",
+      "first_seen": "2026-11-27T21:40:21Z",
+      "last_seen": "2026-11-27T21:40:21Z",
+      "source": {
+        "id": "rss",
+        "name": "Fastmarkets",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-24",
+      "source_excerpt": "CBAM verification demand builds, raising capacity concerns ahead of first annual declaration Fastmarkets",
+      "needs_translation": true,
+      "title_zh": "CBAM verification demand builds, raising capacity concerns ahead of first annual declaration",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "1de6e5025cd59d00",
+      "related_reviews": []
+    },
+    {
+      "id": "7f5cbfef28a15c3cfc29",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUw0WmtWLWJiTUJaSEZMdEVYYllfUHFubFl1RG1oS01ZT2d4ZGxyYW5IMXhnVm1aZ0I5YTF0alJXM3BrR1kzZUdNeTF4dWw1cEtsMXJQd05HUnRwRHgzUXpDamRqZ0taQ0NUVXFBWDMxWjFGV1lFelpaQW5PcHlLazhSQzY3TUFIbUE?oc=5",
+      "published_at": "2026-11-21T11:30:00Z",
+      "title_original": "‘Canada cheats’: Trump adviser backs 50% tariff as LeBlanc warns U.S. trade deal won't kill auto, steel duties",
+      "first_seen": "2026-11-27T21:40:21Z",
+      "last_seen": "2026-11-27T21:40:21Z",
+      "source": {
+        "id": "rss",
+        "name": "Yahoo! Finance Canada",
+        "kind": "news",
+        "official": false
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-21",
+      "source_excerpt": "‘Canada cheats’: Trump adviser backs 50% tariff as LeBlanc warns U.S. trade deal won't kill auto, steel duties Yahoo! Finance Canada",
+      "needs_translation": true,
+      "title_zh": "‘Canada cheats’: Trump adviser backs 50% tariff as LeBlanc warns U.S. trade deal won't kill auto, steel duties",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "3a29f6aa74ae52eb",
+      "related_reviews": []
+    }
+  ],
   "blocked_items": [
     {
       "id": "421139ea624ed696243f",
@@ -12,7 +157,7 @@
       "published_at": "2026-11-24T00:00:00Z",
       "title_original": "Do you import any of these products into the EU?",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-27T16:59:48Z",
+      "last_seen": "2026-11-27T21:40:21Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG TAXUD · CBAM News",
@@ -42,7 +187,7 @@
       "published_at": "2026-11-26T11:22:04Z",
       "title_original": "Trump tariff plan hits steel and wind",
       "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-27T16:59:48Z",
+      "last_seen": "2026-11-27T21:40:21Z",
       "source": {
         "id": "rss",
         "name": "Heavy Lift & Project Forwarding International",
@@ -493,8 +638,39 @@
       "retry_policy": "manual"
     }
   ],
-  "retry_items": [],
-  "retry_due_count": 0,
-  "next_retry_at": "2026-11-27T20:36:46Z",
-  "work_fingerprint": "4f53cda18c2baa0c0354"
+  "retry_items": [
+    {
+      "id": "421139ea624ed696243f",
+      "url": "https://taxation-customs.ec.europa.eu/document/download/6232788c-fb1c-401d-bfe1-5f3ecac38703_en?filename=factsheet+authorisation.pdf",
+      "published_at": "2026-11-24T00:00:00Z",
+      "title_original": "Do you import any of these products into the EU?",
+      "first_seen": "2026-11-24T18:21:51Z",
+      "last_seen": "2026-11-27T21:40:21Z",
+      "source": {
+        "id": "ec_watch_pages",
+        "name": "DG TAXUD · CBAM News",
+        "kind": "official-notice",
+        "official": true
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "review_disposition": "blocked",
+      "review_note_zh": "欧委会11月24日授权传单正文持续返回429。资料目录确认适用品类的50吨门槛和挪威、冰岛适用日期。另行发布的欧委会EEA实施说明第2至5节确认，自2027年1月1日起两国经营者持EORI向欧盟申报CBAM货物时，须确保EORI中的TCUIN与本国TIN匹配。完整授权传单待复核。",
+      "review_evidence_url": "https://taxation-customs.ec.europa.eu/document/download/8d8c0277-4fcb-4148-a919-7e0ed5a18b68_en?filename=Notice+CBAM+implementation+following+EEA+agreement.pdf",
+      "review_coverage": "核对11月24日DG TAXUD资料目录说明、欧委会可读的EEA实施说明全文第2至5节。队列所链授权传单PDF本轮返回429，关于TCUIN的细节来自上述官方实施说明。",
+      "published_date": "2026-11-24",
+      "source_excerpt": "24 Nov 2026 Do you import any of these products into the EU? The new factsheet is available in the “Factsheets” section of the CBAM communication and news webpage.",
+      "needs_translation": false,
+      "title_zh": "欧盟CBAM指南：进口哪些产品需要核对申报人授权",
+      "review_attempted_at": "2026-11-24T20:36:46Z",
+      "evidence_fingerprint": "3c2bd3454a05e917",
+      "related_reviews": [],
+      "retry_after": "2026-11-27T20:36:46.000Z",
+      "retry_policy": "scheduled"
+    }
+  ],
+  "retry_due_count": 1,
+  "next_retry_at": "2026-11-28T19:33:09Z",
+  "work_fingerprint": "169502f6118ce1ed6f96"
 }
