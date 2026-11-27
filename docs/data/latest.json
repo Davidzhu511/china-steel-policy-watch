@@ -836,7 +836,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-27T21:40:21Z",
       "last_seen": "2026-11-27T21:40:21Z",
-      "source_excerpt": "Commerce Sets CVD Rate on Chinese Steel Tubing CASRAI"
+      "source_excerpt": "Commerce Sets CVD Rate on Chinese Steel Tubing CASRAI",
+      "machine_translation": {
+        "title_zh": "商业设定中国钢筋的CVD率",
+        "excerpt_zh": "商业设定了中国钢铁塔的CVD率",
+        "fingerprint": "4cd21420add21661d8e51a6a2b5a8c65388943522f3e53cd8387ac2dd101ee13",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-27T21:41:55Z"
+      }
     },
     {
       "id": "ae11d9f33ea8731f6c22",
@@ -1319,7 +1327,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-27T21:40:21Z",
       "last_seen": "2026-11-27T21:40:21Z",
-      "source_excerpt": "Ukraine asks Germany for support on steel quotas and CBAM postponement GMK Center"
+      "source_excerpt": "Ukraine asks Germany for support on steel quotas and CBAM postponement GMK Center",
+      "machine_translation": {
+        "title_zh": "乌克兰请德国支持钢配额和CBAM延期",
+        "excerpt_zh": "乌克兰请德国支持钢配额和CBAM推迟GMK中心",
+        "fingerprint": "8d9afa704bd53f90d83eced1b7f29482d76894f77ad4c4a00bd3610cc089a778",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-27T21:41:55Z"
+      }
     },
     {
       "id": "88165e132c38f23b54ae",
@@ -1354,7 +1370,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-27T21:40:21Z",
       "last_seen": "2026-11-27T21:40:21Z",
-      "source_excerpt": "CBAM verification demand builds, raising capacity concerns ahead of first annual declaration Fastmarkets"
+      "source_excerpt": "CBAM verification demand builds, raising capacity concerns ahead of first annual declaration Fastmarkets",
+      "machine_translation": {
+        "title_zh": "CBAM 核查需求增加,在第一次年度宣布之前提出了能力问题",
+        "excerpt_zh": "CBAM 核查需求增加,在第一次年度申报之前提出能力问题",
+        "fingerprint": "7f41773fdfb3a2b1e339ac26490aa74739c831da14cb1c39dd69d622557796e0",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-27T21:41:56Z"
+      }
     },
     {
       "id": "f7ef4b20e1c8e1b7569b",
@@ -2246,7 +2270,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-27T21:40:21Z",
       "last_seen": "2026-11-27T21:40:21Z",
-      "source_excerpt": "‘Canada cheats’: Trump adviser backs 50% tariff as LeBlanc warns U.S. trade deal won't kill auto, steel duties Yahoo! Finance Canada"
+      "source_excerpt": "‘Canada cheats’: Trump adviser backs 50% tariff as LeBlanc warns U.S. trade deal won't kill auto, steel duties Yahoo! Finance Canada",
+      "machine_translation": {
+        "title_zh": "“加拿大作弊”:Trump顾问支持50%关税,因为LeBlanc警告美国贸易交易不会扼杀汽车和钢铁税",
+        "excerpt_zh": "“加拿大作弊”:Trump顾问支持50%关税,因为LeBlanc警告美国贸易交易不会扼杀汽车、钢铁税雅虎!",
+        "fingerprint": "169630ec3d092671491e1a8742af33a169a4008c5d6b4c3b9c91dccea61c7a89",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-27T21:41:58Z"
+      }
     },
     {
       "id": "c14df6d7d36ba9f32dbf",
