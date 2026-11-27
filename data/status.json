@@ -6,17 +6,17 @@
   "analysis_status": "unconfigured",
   "active_items": 384,
   "archived_items": 204,
-  "verified_items": 357,
-  "pending_analysis": 27,
-  "pending_translation": 1,
-  "blocked_items": 26,
-  "actionable_count": 1,
-  "blocked_count": 26,
-  "retry_due_count": 10,
+  "verified_items": 361,
+  "pending_analysis": 23,
+  "pending_translation": 0,
+  "blocked_items": 23,
+  "actionable_count": 0,
+  "blocked_count": 23,
+  "retry_due_count": 6,
   "next_retry_at": "2026-11-27T20:36:46Z",
-  "pending_machine_translation": 1,
-  "chinese_title_coverage": 99.7,
-  "oldest_actionable_hours": 4.0,
+  "pending_machine_translation": 0,
+  "chinese_title_coverage": 100.0,
+  "oldest_actionable_hours": 0,
   "offline_translation": {
     "status": "partial",
     "translated": 0,
@@ -27,7 +27,7 @@
     "attempted_at": "2026-11-27T01:58:55Z",
     "retry_after": "2026-11-27T07:58:55.929017+00:00"
   },
-  "machine_translated_items": 9,
+  "machine_translated_items": 7,
   "collected_items": 79,
   "processed_items": 0,
   "deferred_items": 0,
@@ -112,5 +112,6 @@
   "warnings": [
     "官方版本检查 DG TAXUD · CBAM News: HTTPError: 429 Client Error: Too Many Requests for url: https://taxation-customs.ec.europa.eu/document/download"
   ],
-  "translation_updated_at": "2026-11-27T01:58:55Z"
+  "translation_updated_at": "2026-11-27T01:58:55Z",
+  "editorial_updated_at": "2026-11-27T08:09:25Z"
 }
