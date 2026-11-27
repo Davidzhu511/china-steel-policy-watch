@@ -1,10 +1,162 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-27T01:57:29Z",
-  "pending_count": 19,
-  "actionable_count": 0,
+  "generated_at": "2026-11-27T16:59:48Z",
+  "pending_count": 25,
+  "actionable_count": 6,
   "blocked_count": 19,
-  "items": [],
+  "items": [
+    {
+      "id": "4bbe94c57734c694a31b",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYTgtTWlxc0FmT3Zfdi1GdFBWN1otMV9XVHNXZ0RLQnZpUV9NNHkzamlrWWgtM1ktcUtERlVlSHpVUE1nRjF0TWFyMHdpNjlNV3kzNVBYTE5DWkVucUtVZWM5bzYxaVRLb295OHlrSmx5UVdRYUVDVm1MZW5xaHkxZHBubDFNdXZEREszTnh1ci1SS3pSZ1NyQ3hQeGRHajhIRW9idGUzaWk1QUp2a21FaVVhejZnb1Q2ZW1OZWJIZ0VvV3RFZnRfSjRrX0duWFlNYUZrcnZJZVJfcmdUczdWWE5CcERMX3YzcEFzcnNCbFJrYjE3eHc?oc=5",
+      "published_at": "2026-11-27T15:28:41Z",
+      "title_original": "Five Reputable One-Stop Steel Procurement Platforms in China 2026: Advancing Global Supply Chain Integration",
+      "first_seen": "2026-11-27T16:59:48Z",
+      "last_seen": "2026-11-27T16:59:48Z",
+      "source": {
+        "id": "rss",
+        "name": "The Detroit News",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-27",
+      "source_excerpt": "Five Reputable One-Stop Steel Procurement Platforms in China 2026: Advancing Global Supply Chain Integration The Detroit News",
+      "needs_translation": true,
+      "title_zh": "Five Reputable One-Stop Steel Procurement Platforms in China 2026: Advancing Global Supply Chain Integration",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "6f75558ba8883d97",
+      "related_reviews": []
+    },
+    {
+      "id": "d51fd05ae8fc4a28ded3",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjZjSjhCTU1rbGJkSjdsYk9xTEVtaWc2cTNibEZSWGp6RFNNS3JYQ0xNZG45RlVNdE8zNkxwM2Zwbk41ZG9UYXc1STZkeXJURnY4aUNqTWltZk5ldGtSb3ZORTkyMkF6eFNpWkJpR1BrY2xFV2VjV2RHdFlxcGtEdVJpYUM3eWdXRm1VNVp2cjB6c0xRbEww?oc=5",
+      "published_at": "2026-11-27T12:50:31Z",
+      "title_original": "Iron Ore Futures Fall Below CNY 660 on Weak Chinese Demand",
+      "first_seen": "2026-11-27T16:59:48Z",
+      "last_seen": "2026-11-27T16:59:48Z",
+      "source": {
+        "id": "rss",
+        "name": "IndexBox",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-27",
+      "source_excerpt": "Iron Ore Futures Fall Below CNY 660 on Weak Chinese Demand - News and Statistics IndexBox",
+      "needs_translation": true,
+      "title_zh": "Iron Ore Futures Fall Below CNY 660 on Weak Chinese Demand",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "44b31aeeb375f64d",
+      "related_reviews": [
+        {
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUHhrMjJtcXBhUS01ZnZfRVpNa0VTM2dlMnlhc3ZCWk1GSkZTdWNPbHh5MTZ2Q2FRb1dhdGJUeEJDZE0xNi1hOW5DaEV5MmIyUXZDa2dRenkwX1NqeTZodmJ4ZW53THVZTXdLNVN3MFpTUkVHb1ZfWC1KUUZtdlJGSzBNdy1oaUUya05yV0UzT3ZENkhvYU52VnhLdU9CX1BlamM4cHlEbU9JVmRxa0E?oc=5",
+          "published_at": "2026-10-27T04:33:28Z",
+          "title_zh": "中国钢厂盈利走弱，铁矿石期货逼近四年低位",
+          "evidence_url": "https://www.indexbox.io/blog/iron-ore-futures-near-four-year-low-as-chinese-steel-mill-profitability-weakens/"
+        }
+      ]
+    },
+    {
+      "id": "b3bcdec8bd9389682084",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWVUblJ2TnF5MHJjOGdxU1lubmluOGxxbDBtX1dkVWpnaDVRMUYwTGc0RzNYTGx6YjFuelNrUUVSVU1aSjYwbVkzUkNSYWZoaFlBZXRQejFsc2pXRVpsM2x4MzdxS3E2YzlrNzMyUWU3OUJCb3U3elJyYnRqVjRWSUtHcG4wa3h6YXlON3lWYURtQmZBWWFiNUhwbVpXUlE?oc=5",
+      "published_at": "2026-11-27T11:42:25Z",
+      "title_original": "EU announces CBAM certificate rules to be implemented in 2027",
+      "first_seen": "2026-11-27T16:59:48Z",
+      "last_seen": "2026-11-27T16:59:48Z",
+      "source": {
+        "id": "rss",
+        "name": "SteelRadar",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-27",
+      "source_excerpt": "EU announces CBAM certificate rules to be implemented in 2027 SteelRadar",
+      "needs_translation": true,
+      "title_zh": "EU announces CBAM certificate rules to be implemented in 2027",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "04fe00c8cb0c2574",
+      "related_reviews": []
+    },
+    {
+      "id": "666aef392ff171b14bd2",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUGZOd1pJMTFxOXFYRGRLUHlKanJjZjJyWGFnaUtnUWFQbVhtX1huWUNMQkplLUhWUmxvdUk2Q0hKZUxoR3J5Ul9xZlp2WUNnMjl3RmhSa3BCQ1NtU1lyXzdHdlN0WjdhMTFxTmFWRENqTTNsalhCWnNpbWxMVzFQSUhiOGRHNEZXZHRwRmthR0k5MXk1N29TUlpobFJMQ202RzEzSTJLRU9PYTlmR2l3Vzd1MDg?oc=5",
+      "published_at": "2026-11-27T06:24:07Z",
+      "title_original": "SEBI Chairman says Examining Tata Steel – APL Apollo deal to safeguard minority shareholder rights - CNBC TV18",
+      "first_seen": "2026-11-27T16:59:48Z",
+      "last_seen": "2026-11-27T16:59:48Z",
+      "source": {
+        "id": "rss",
+        "name": "LinkedIn",
+        "kind": "news",
+        "official": false
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-27",
+      "source_excerpt": "SEBI Chairman says Examining Tata Steel – APL Apollo deal to safeguard minority shareholder rights - CNBC TV18 LinkedIn",
+      "needs_translation": true,
+      "title_zh": "SEBI Chairman says Examining Tata Steel – APL Apollo deal to safeguard minority shareholder rights - CNBC TV18",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "63938fba5042dda5",
+      "related_reviews": []
+    },
+    {
+      "id": "78283eeb6f95ca6b7727",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2dKc25zeWVJYWd4ekp5MDlSS0REVHJwZUFOSWpoZWhJUHNJT2dUb0tSSEw0LVBZcDViSTlDVVBlZ1oxNV8xanRPamdndFJuT2lfaENoaVdtOU5FMi1sWkVYelhNZlh5SDcyXzRhUU9JaHhUZmI0SFJ5NkZyZnF4Wk9uTTU4QmdRaGh6VVBqLVhpSzdUZUVPbEhnLUtzaWRpQTJBeTFCSQ?oc=5",
+      "published_at": "2026-11-26T07:29:36Z",
+      "title_original": "Fears for Welsh steel plant after India handed expanded import quota",
+      "first_seen": "2026-11-27T16:59:48Z",
+      "last_seen": "2026-11-27T16:59:48Z",
+      "source": {
+        "id": "rss",
+        "name": "Herald.Wales",
+        "kind": "news",
+        "official": false
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-26",
+      "source_excerpt": "Fears for Welsh steel plant after India handed expanded import quota Herald.Wales",
+      "needs_translation": true,
+      "title_zh": "Fears for Welsh steel plant after India handed expanded import quota",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "3d46e8d4603cd5a8",
+      "related_reviews": []
+    },
+    {
+      "id": "ae11d9f33ea8731f6c22",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZU9pTjNGNjhMZktKNGJraGU2dzd6TkhMYXJpTmpiazVHdER6QlVQcnJXYUNLNzJ1a29SYU1fcDh1WC1DLWhJa2hLWkQtVlEwN0hvWDB6MHZvQUFoSUhscTE3NTBacW9fQ1lvbGRWaFI1QVBoWEx6QzIxR1dPaTd1ZHF4bDVldDV5TFFWaHdVYkxXV2dwdUtzSThUT3BZRE5FUXEtODY4MlJlVDlYekZrX3ZBM1V6WnBYSVk5Z2NOY2hmZU1YNXZFVlg4NG10V0px?oc=5",
+      "published_at": "2026-11-25T09:25:02Z",
+      "title_original": "Ukraine seeks German backing on steel quotas, CBAM and industrial recovery",
+      "first_seen": "2026-11-27T16:59:48Z",
+      "last_seen": "2026-11-27T16:59:48Z",
+      "source": {
+        "id": "rss",
+        "name": "SteelOrbis",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-25",
+      "source_excerpt": "Ukraine seeks German backing on steel quotas, CBAM and industrial recovery SteelOrbis",
+      "needs_translation": true,
+      "title_zh": "Ukraine seeks German backing on steel quotas, CBAM and industrial recovery",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "9499d77577193b9f",
+      "related_reviews": []
+    }
+  ],
   "blocked_items": [
     {
       "id": "421139ea624ed696243f",
@@ -12,7 +164,7 @@
       "published_at": "2026-11-24T00:00:00Z",
       "title_original": "Do you import any of these products into the EU?",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-27T01:57:29Z",
+      "last_seen": "2026-11-27T16:59:48Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG TAXUD · CBAM News",
@@ -42,7 +194,7 @@
       "published_at": "2026-11-25T11:51:00Z",
       "title_original": "Sale and repurchase of CBAM certificates",
       "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-27T01:57:29Z",
+      "last_seen": "2026-11-27T16:59:48Z",
       "source": {
         "id": "ec_have_your_say",
         "name": "EC Have Your Say / 欧盟公众咨询",
@@ -84,7 +236,7 @@
       "published_at": "2026-11-26T11:22:04Z",
       "title_original": "Trump tariff plan hits steel and wind",
       "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-27T01:57:29Z",
+      "last_seen": "2026-11-27T16:59:48Z",
       "source": {
         "id": "rss",
         "name": "Heavy Lift & Project Forwarding International",
@@ -673,5 +825,5 @@
   ],
   "retry_due_count": 2,
   "next_retry_at": "2026-11-27T20:36:46Z",
-  "work_fingerprint": "4cc1e2b43ea1ba86438d"
+  "work_fingerprint": "4d43abccc5e9eab3009a"
 }
