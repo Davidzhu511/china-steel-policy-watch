@@ -9966,14 +9966,14 @@
       "first_seen": "2026-11-06T14:38:14Z",
       "last_seen": "2026-11-16T16:28:58Z",
       "source_excerpt": "News article 6 November 2026 Commission initiates safeguard investigation into imports of PET resin chemicals Today, the Commission initiated a safeguard investigation to assess whether safeguard measures are needed to protect EU industry from a significant increase in imports of polyethylene terephthalate (PET) resin chemicals. 1 min read",
-      "review_disposition": "excluded",
-      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
-      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
-      "review_attempted_at": "2026-11-07",
       "priority_signal": {
         "zh": "贸易救济程序 · 待核对",
         "en": "Trade-remedy procedure · review needed"
-      }
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "欧委会11月6日正式启动对PET、PTA、MEG等树脂及上游化工原料的保障措施调查；并未对钢铁、钢板或钢管启动新措施。钢铁政策看板排除该化工专案，避免把“保障措施”关键词错误归类为钢铁配额。",
+      "review_note_en": "Outside the steel trade-policy editorial scope; not a new steel regulation.",
+      "review_attempted_at": "2026-11-07"
     },
     {
       "id": "102690e3f2b920c6fae2",
@@ -11800,7 +11800,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-27T16:59:48Z",
       "last_seen": "2026-11-27T16:59:48Z",
-      "source_excerpt": "Five Reputable One-Stop Steel Procurement Platforms in China 2026: Advancing Global Supply Chain Integration The Detroit News"
+      "source_excerpt": "Five Reputable One-Stop Steel Procurement Platforms in China 2026: Advancing Global Supply Chain Integration The Detroit News",
+      "machine_translation": {
+        "title_zh": "中国的五个有名的一站式钢采购平台2026:推进全球供应链一体化",
+        "excerpt_zh": "中国五台有名的一站式钢铁采购平台2026:推进全球供应链一体化",
+        "fingerprint": "a4d31cc0254ae4a17f0217750af471fb4ed6606d63fd925a06f19b40f00c75db",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-27T17:01:11Z"
+      }
     },
     {
       "id": "d51fd05ae8fc4a28ded3",
@@ -11835,7 +11843,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-27T16:59:48Z",
       "last_seen": "2026-11-27T16:59:48Z",
-      "source_excerpt": "Iron Ore Futures Fall Below CNY 660 on Weak Chinese Demand - News and Statistics IndexBox"
+      "source_excerpt": "Iron Ore Futures Fall Below CNY 660 on Weak Chinese Demand - News and Statistics IndexBox",
+      "machine_translation": {
+        "title_zh": "铁矿石期货在中国需求疲软时跌落到CNY 660以下",
+        "excerpt_zh": "铁矿石期货跌落到CNY 660下方 中国需求疲软 - 新闻和统计索引Box",
+        "fingerprint": "6d96cc6f6a5e712b76689a1327ceb9bddbc7206599710129277ea50045569051",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-27T17:01:12Z"
+      }
     },
     {
       "id": "b3bcdec8bd9389682084",
@@ -11870,7 +11886,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-27T16:59:48Z",
       "last_seen": "2026-11-27T16:59:48Z",
-      "source_excerpt": "EU announces CBAM certificate rules to be implemented in 2027 SteelRadar"
+      "source_excerpt": "EU announces CBAM certificate rules to be implemented in 2027 SteelRadar",
+      "machine_translation": {
+        "title_zh": "欧盟宣布CBAM证书规则将在2027中执行",
+        "excerpt_zh": "欧盟宣布CBAM证书规则将在2027 SteelRadar中执行",
+        "fingerprint": "e68464e3d66392301e06349f3642bac8b4b78aea862b07aedceeed86e5283562",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-27T17:01:12Z"
+      }
     },
     {
       "id": "666aef392ff171b14bd2",
@@ -11905,7 +11929,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-27T16:59:48Z",
       "last_seen": "2026-11-27T16:59:48Z",
-      "source_excerpt": "SEBI Chairman says Examining Tata Steel – APL Apollo deal to safeguard minority shareholder rights - CNBC TV18 LinkedIn"
+      "source_excerpt": "SEBI Chairman says Examining Tata Steel – APL Apollo deal to safeguard minority shareholder rights - CNBC TV18 LinkedIn",
+      "machine_translation": {
+        "title_zh": "SEBI主席说,审查塔塔钢 — APL阿波罗协议,以保障少数股东的权利 — CNBC TV18",
+        "excerpt_zh": "SEBI主席说,审查塔塔钢 — APL阿波罗协议,以保障少数股东的权利 — CNBC TV18 LinkedIn",
+        "fingerprint": "ec486cdf6256a60c542c3721f40a0415fbd17913845d351eb76296c16cc61780",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-27T17:01:13Z"
+      }
     },
     {
       "id": "56f2a1b3c5684f1c1070",
@@ -12186,7 +12218,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-27T16:59:48Z",
       "last_seen": "2026-11-27T16:59:48Z",
-      "source_excerpt": "Fears for Welsh steel plant after India handed expanded import quota Herald.Wales"
+      "source_excerpt": "Fears for Welsh steel plant after India handed expanded import quota Herald.Wales",
+      "machine_translation": {
+        "title_zh": "印度移交扩大进口配额后,威尔士钢铁厂的恐惧",
+        "excerpt_zh": "印度提交扩大进口配额后,威尔士钢铁厂感到恐惧。",
+        "fingerprint": "a8e7b79ea37d246d7998d658fa6b148648522cdb68547cdda3a14330df509bbb",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-27T17:01:13Z"
+      }
     },
     {
       "id": "c12718a2a3a12b818ffa",
@@ -12683,7 +12723,15 @@
       "translation_state": "pending",
       "first_seen": "2026-11-27T16:59:48Z",
       "last_seen": "2026-11-27T16:59:48Z",
-      "source_excerpt": "Ukraine seeks German backing on steel quotas, CBAM and industrial recovery SteelOrbis"
+      "source_excerpt": "Ukraine seeks German backing on steel quotas, CBAM and industrial recovery SteelOrbis",
+      "machine_translation": {
+        "title_zh": "乌克兰寻求德国支持钢配额、CBAM和工业复苏",
+        "excerpt_zh": "乌克兰寻求德国支持钢配额、CBAM和工业回收钢铁Orbis",
+        "fingerprint": "c14418a653c93126c3896c36130144463c93b691e22e3febb271ffbdb6eebf73",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-27T17:01:14Z"
+      }
     },
     {
       "id": "eec831a324595206cac0",
