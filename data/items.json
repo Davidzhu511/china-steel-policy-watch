@@ -1019,6 +1019,67 @@
       "reviewed_at": "2026-10-10"
     },
     {
+      "id": "84ad81da41d5b35580ec",
+      "title_zh": "欧委会通过CBAM证书购售和回购细则，平台每张收取0.05欧元",
+      "title_en": "Commission adopts CBAM certificate sale and repurchase rules with a EUR 0.05 per-certificate platform fee",
+      "title_original": "Sale and repurchase of CBAM certificates",
+      "summary_zh": "欧委会11月25日通过授权条例C(2026) 8367 final，理事会公开转送文本ST 16474/26。细则自2027年2月1日起适用，至核验时未查见欧盟官方公报刊登，仍须履行欧洲议会和理事会审查。第2、3、13和15条规定，授权申报人在CBAM登记册提交购买申请，每单1至99,999张，通过统一平台以欧元付款，证书在确认付款后入账。款项若在相关证书价格变更当日或其后才到账，申请取消，含手续费原路退回。每售一张收0.05欧元，沿用7月草案金额。第4条将草案的每年一次明确为每个进口年度原则上一次，完成有关年度交证或符合豁免等规定后可申请回购。2026年进口仍按进口季度证书价计算，2027年9月30日首次交证。按基本条例，针对2026年排放在2027年买入的证书仅可在2027年回购，相关年度交证后的回购申请截至10月31日。",
+      "summary_en": "On 25 November the Commission adopted delegated act C(2026) 8367 final, transmitted in Council document ST 16474/26. It is to apply from 1 February 2027, subject to scrutiny and Official Journal publication. Submit 1–99,999 certificates per request in the CBAM Registry and pay in euros on the central platform. The EUR 0.05 fee per certificate remains from the July draft. If funds clear on or after a price change, the request is cancelled and the payment, including the fee, is refunded. The adopted text clarifies the ordinary repurchase limit as once per import year. Imports in 2026 retain import-quarter prices, with first surrender on 30 September 2027 and repurchase requests after surrender due by 31 October 2027 for those certificates.",
+      "impact_zh": "输欧板坯、热卷、冷轧及涂镀板的进口商可据此预排证书采购与资金。在跨年合同中，将证书单价、实际归属的购证数量、每张平台手续费和回购退款分别留痕，并确认手续费是否计入合同结算的CBAM成本。对2027年进口订单另按适用的周度证价及季度持证要求规划，确认付款能在换价前到账。继续按既有税则与申报规则清关。",
+      "impact_en": "EU slab and flat steel importers can schedule purchases and funding. Record the certificate price, purchased quantities allocated to the shipment, platform fee and repurchase refund separately. Agree how the fee is treated under cost-sharing clauses. Plan weekly price and quarterly holding requirements for 2027 imports and allow time for funds to clear before repricing.",
+      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14132-Sale-and-repurchase-of-CBAM-certificates_en",
+      "published_at": "2026-11-25T11:51:00Z",
+      "source_published_date": "2026-11-25",
+      "source": {
+        "id": "ec_have_your_say",
+        "name": "EC Have Your Say / 欧盟公众咨询",
+        "kind": "official-notice",
+        "official": true
+      },
+      "country": "欧盟",
+      "region": "欧洲",
+      "category": "碳与环保",
+      "status": "欧委会已通过，待审查及公报刊登",
+      "importance": "高",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-07-22T09:30:52Z",
+      "last_seen": "2026-11-27T16:59:48Z",
+      "source_excerpt": "This Delegated Act will set out the conditions for the sale and re-purchase of carbon border adjustment mechanism (CBAM) certificates through a common central platform following a joint procurement procedure between Member States and the Commission. Feedback status: DISABLED. Feedback period: 2026-11-25T11:51:00Z to not stated. Topics: Climate action, Taxation. Type of act: REG_DEL. Reference: Ares(2024)546926.",
+      "consultation": {
+        "status": "DISABLED",
+        "stage": "ADOPTION_WORKFLOW",
+        "opens_at": "2026-11-25T11:51:00Z"
+      },
+      "source_observation": {
+        "ec_have_your_say:title": "42eb224752b6dd053b6fd5b3610c3183bdf8d8a9fdcc064c4744c8b7df3e5e4f",
+        "ec_have_your_say:excerpt": "1bc3e3644759d9bc147d0a173621043b8baad6019972ebbabb9f6051275ea636",
+        "ec_have_your_say:consultation": "4e7ab24b29c1def46e0a16dcfeb4aac23ae2418332d5138bc4af4cc8f1b73ac4"
+      },
+      "evidence_url": "https://data.consilium.europa.eu/doc/document/ST-16474-2026-INIT/en/pdf",
+      "coverage": "通读理事会公开转送的欧委会通过稿，核对第2至5、13、15、27条及基本条例第20至23、28条，并对照7月欧委会征询草案（https://ec.europa.eu/info/law/better-regulation/api/download/090166e5303e1924）。此前咨询页面仅有状态，本轮取得通过稿全文。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-27T20:32:03Z",
+      "related_sources": [
+        {
+          "name": "SteelRadar",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWVUblJ2TnF5MHJjOGdxU1lubmluOGxxbDBtX1dkVWpnaDVRMUYwTGc0RzNYTGx6YjFuelNrUUVSVU1aSjYwbVkzUkNSYWZoaFlBZXRQejFsc2pXRVpsM2x4MzdxS3E2YzlrNzMyUWU3OUJCb3U3elJyYnRqVjRWSUtHcG4wa3h6YXlON3lWYURtQmZBWWFiNUhwbVpXUlE?oc=5"
+        }
+      ],
+      "source_translation": {
+        "title_zh": "欧盟CBAM证书的销售与回购",
+        "translated_at": "2026-11-27T20:32:03Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
+      }
+    },
+    {
       "id": "5616f5e83d0756245a60",
       "title_zh": "美国第三次日落复审续行中国预应力混凝土用钢绞线双反令，自11月10日延续",
       "title_en": "US continues China PC strand antidumping and countervailing duty orders effective 10 November",
@@ -8017,65 +8078,6 @@
       }
     },
     {
-      "id": "84ad81da41d5b35580ec",
-      "title_zh": "Sale and repurchase of CBAM certificates",
-      "title_en": "Sale and repurchase of CBAM certificates",
-      "title_original": "Sale and repurchase of CBAM certificates",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14132-Sale-and-repurchase-of-CBAM-certificates_en",
-      "published_at": "2026-11-25T11:51:00Z",
-      "source_published_date": "2026-11-25",
-      "source": {
-        "id": "ec_have_your_say",
-        "name": "EC Have Your Say / 欧盟公众咨询",
-        "kind": "official-notice",
-        "official": true
-      },
-      "country": "欧盟",
-      "region": "欧洲",
-      "category": "碳与环保",
-      "status": "待核对",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-07-22T09:30:52Z",
-      "last_seen": "2026-11-27T16:59:48Z",
-      "source_excerpt": "This Delegated Act will set out the conditions for the sale and re-purchase of carbon border adjustment mechanism (CBAM) certificates through a common central platform following a joint procurement procedure between Member States and the Commission. Feedback status: DISABLED. Feedback period: 2026-11-25T11:51:00Z to not stated. Topics: Climate action, Taxation. Type of act: REG_DEL. Reference: Ares(2024)546926.",
-      "consultation": {
-        "status": "DISABLED",
-        "stage": "ADOPTION_WORKFLOW",
-        "opens_at": "2026-11-25T11:51:00Z"
-      },
-      "source_observation": {
-        "ec_have_your_say:title": "42eb224752b6dd053b6fd5b3610c3183bdf8d8a9fdcc064c4744c8b7df3e5e4f",
-        "ec_have_your_say:excerpt": "1bc3e3644759d9bc147d0a173621043b8baad6019972ebbabb9f6051275ea636",
-        "ec_have_your_say:consultation": "4e7ab24b29c1def46e0a16dcfeb4aac23ae2418332d5138bc4af4cc8f1b73ac4"
-      },
-      "review_disposition": "blocked",
-      "review_note_zh": "官方入口记录11月25日的版本观察与反馈状态DISABLED。尚未核实这次变动对应的正式通过文件、发布日期或费用规则，保留后续核验。",
-      "review_note_en": "",
-      "review_attempted_at": "2026-11-25T20:34:30Z",
-      "retry_after": "2026-11-28T20:34:30.000Z",
-      "retry_policy": "scheduled",
-      "review_evidence_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=intcom%3AAres%282026%296860249",
-      "review_coverage": "尝试Have Your Say议题页、公开API、EUR-Lex、欧委会及理事会入口，只查到此前咨询草案与现行基本条例。严格按来源版本记录，不能据DISABLED认定正式实施。",
-      "source_translation": {
-        "title_zh": "欧盟CBAM证书的销售与回购",
-        "translated_at": "2026-11-25T20:34:30Z",
-        "method": "editor_translation",
-        "coverage": "标题翻译，不代表全文核验"
-      }
-    },
-    {
       "id": "68ac78172c8f11d01606",
       "title_zh": "美国初裁认定印尼使用越南冷轧基料加工的特定耐腐蚀钢板未规避越南双反令",
       "title_en": "US issues preliminary no-circumvention finding for Indonesian CORE made from Vietnamese CRS",
@@ -11808,17 +11810,27 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-27T17:01:11Z"
+      },
+      "review_disposition": "excluded",
+      "review_note_zh": "同题为EIN Presswire发布的供应商平台推介，五家平台的能力说明来自自述，未核实新增产能、订单或规则。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-27T20:32:03Z",
+      "source_translation": {
+        "title_zh": "2026年中国五家知名一站式钢材采购平台助力全球供应链整合",
+        "translated_at": "2026-11-27T20:32:03Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
       "id": "d51fd05ae8fc4a28ded3",
-      "title_zh": "Iron Ore Futures Fall Below CNY 660 on Weak Chinese Demand",
-      "title_en": "Iron Ore Futures Fall Below CNY 660 on Weak Chinese Demand",
+      "title_zh": "大商所铁矿石I2701合约11月27日收于659.5元每吨",
+      "title_en": "Dalian iron ore I2701 closes at CNY 659.5 per tonne on 27 November",
       "title_original": "Iron Ore Futures Fall Below CNY 660 on Weak Chinese Demand",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "Trading Economics 11月27日称铁矿石期价跌破660元/吨。上海有色网与Mysteel当日行情均显示，大连商品交易所主力I2701日盘收于659.5元/吨，较前一交易日结算价跌0.30%。路透早盘报道的654元/吨对应01:55 GMT。钢厂需求走弱及年末矿山可能增加发货，是行情报道及机构对走势的解释。",
+      "summary_en": "Trading Economics reported a move below CNY 660/t. SMM and Mysteel both show the most-traded Dalian I2701 contract closing at CNY 659.5/t on 27 November, 0.30% below the previous settlement. Reuters reported CNY 654/t at 01:55 GMT. Soft demand and possible higher year-end shipments are market assessments.",
+      "impact_zh": "输欧和其他出口市场的板坯及热卷成本跟踪，可把矿石收盘与焦煤焦炭、钢厂接单和现货报价一并核对。单日矿价变动仅作为询价背景。",
+      "impact_en": "Use the close alongside coal and coke prices, mill orders and spot quotations when monitoring slab and HRC export costs.",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjZjSjhCTU1rbGJkSjdsYk9xTEVtaWc2cTNibEZSWGp6RFNNS3JYQ0xNZG45RlVNdE8zNkxwM2Zwbk41ZG9UYXc1STZkeXJURnY4aUNqTWltZk5ldGtSb3ZORTkyMkF6eFNpWkJpR1BrY2xFV2VjV2RHdFlxcGtEdVJpYUM3eWdXRm1VNVp2cjB6c0xRbEww?oc=5",
       "published_at": "2026-11-27T12:50:31Z",
       "source_published_date": "2026-11-27",
@@ -11840,7 +11852,7 @@
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-27T16:59:48Z",
       "last_seen": "2026-11-27T16:59:48Z",
       "source_excerpt": "Iron Ore Futures Fall Below CNY 660 on Weak Chinese Demand - News and Statistics IndexBox",
@@ -11851,6 +11863,16 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-27T17:01:12Z"
+      },
+      "evidence_url": "https://news.metal.com/newscontent/SZHD3YVBOYDF67C5OB3VDBIXBV3L2SRUX673AJQ-smm-iron-ore-iron-ore-pares-early-gains-as-bullish-and-bearish-factors-collide",
+      "coverage": "核对分时与收盘报价，交叉比较Trading Economics、上海有色网、Mysteel及路透。和此前铁矿石港口库存主条采用不同观测指标。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-27T20:32:03Z",
+      "source_translation": {
+        "title_zh": "中国需求偏弱，铁矿石期货跌破660元每吨",
+        "translated_at": "2026-11-27T20:32:03Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -11894,17 +11916,28 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-27T17:01:12Z"
+      },
+      "review_disposition": "duplicate",
+      "review_note_zh": "同一份11月25日欧委会授权条例C(2026) 8367 final。官方主条区分采用的授权条例、审查程序及公报刊登条件。",
+      "review_note_en": "",
+      "review_attempted_at": "2026-11-27T20:32:03Z",
+      "duplicate_of": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14132-Sale-and-repurchase-of-CBAM-certificates_en",
+      "source_translation": {
+        "title_zh": "欧盟公布将于2027年实施的CBAM证书规则",
+        "translated_at": "2026-11-27T20:32:03Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
       "id": "666aef392ff171b14bd2",
-      "title_zh": "SEBI Chairman says Examining Tata Steel – APL Apollo deal to safeguard minority shareholder rights - CNBC TV18",
-      "title_en": "SEBI Chairman says Examining Tata Steel – APL Apollo deal to safeguard minority shareholder rights - CNBC TV18",
+      "title_zh": "印度证监会审视塔塔钢铁与APL Apollo交易，要约详细公告延至12月8日",
+      "title_en": "SEBI examines Tata Steel–APL Apollo deal and extends the detailed open-offer statement deadline",
       "title_original": "SEBI Chairman says Examining Tata Steel – APL Apollo deal to safeguard minority shareholder rights - CNBC TV18",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "印度国家证券交易所11月27日披露，要约管理人Kotak称印度证监会同意将塔塔钢铁向APL Apollo股东的详细要约公告由12月1日延至12月8日。向SEBI提交要约函草案仍为12月8日。CNBC TV18报道SEBI主席称正从中小股东保护角度审视该交易。塔塔钢铁11月23日公告称，APL Apollo拟承接170万吨/年钢管及80万吨/年表面涂镀卷产能。交易交割后合计750万吨/年为企业估算，2035年1550万吨/年为远期目标。",
+      "summary_en": "A 27 November NSE filing says SEBI extended the publication deadline for Tata Steel’s detailed APL Apollo open-offer statement from 1 to 8 December; the draft offer letter is still due 8 December. CNBC TV18 reports that SEBI is examining minority shareholder interests. Tata Steel announced a transfer of 1.7 Mt/year of tube and 0.8 Mt/year of surface-coated coil capacity to APL Apollo, with 7.5 Mt/year projected at completion and a 15.5 Mt/year target by 2035.",
+      "impact_zh": "跟踪印度钢管、涂镀和彩涂板的后续交割、扩产和采购安排。需要更新竞争报价时，按已投产产线和实际出口报价比价。12月8日节点由交易方办理。",
+      "impact_en": "Track completion, commissioning and procurement changes for Indian steel tubes and coated products. Base competitive pricing on operating lines and actual offers. The 8 December filings are for the parties to the transaction.",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUGZOd1pJMTFxOXFYRGRLUHlKanJjZjJyWGFnaUtnUWFQbVhtX1huWUNMQkplLUhWUmxvdUk2Q0hKZUxoR3J5Ul9xZlp2WUNnMjl3RmhSa3BCQ1NtU1lyXzdHdlN0WjdhMTFxTmFWRENqTTNsalhCWnNpbWxMVzFQSUhiOGRHNEZXZHRwRmthR0k5MXk1N29TUlpobFJMQ202RzEzSTJLRU9PYTlmR2l3Vzd1MDg?oc=5",
       "published_at": "2026-11-27T06:24:07Z",
       "source_published_date": "2026-11-27",
@@ -11916,7 +11949,7 @@
       },
       "country": "全球",
       "region": "全球",
-      "category": "配额与关税",
+      "category": "市场与产能",
       "status": "新闻",
       "importance": "中",
       "products": [],
@@ -11926,7 +11959,7 @@
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-27T16:59:48Z",
       "last_seen": "2026-11-27T16:59:48Z",
       "source_excerpt": "SEBI Chairman says Examining Tata Steel – APL Apollo deal to safeguard minority shareholder rights - CNBC TV18 LinkedIn",
@@ -11937,6 +11970,16 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-27T17:01:13Z"
+      },
+      "evidence_url": "https://nsearchives.nseindia.com/corporate/kavasare_27112026204319_QW27112026190710_APLAPOLLO.pdf",
+      "coverage": "核对11月27日NSE披露、塔塔钢铁11月23日一手发布和可读的CNBC TV18采访报道。监管延期是程序节点，产能目标归于企业公告。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-27T20:32:03Z",
+      "source_translation": {
+        "title_zh": "印度证监会主席称正审视塔塔钢铁与APL Apollo交易，以保护中小股东权益",
+        "translated_at": "2026-11-27T20:32:03Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -12183,49 +12226,6 @@
         "translated_at": "2026-11-26T20:37:03Z",
         "method": "editor_translation",
         "coverage": "标题翻译，不代表全文核验"
-      }
-    },
-    {
-      "id": "78283eeb6f95ca6b7727",
-      "title_zh": "Fears for Welsh steel plant after India handed expanded import quota",
-      "title_en": "Fears for Welsh steel plant after India handed expanded import quota",
-      "title_original": "Fears for Welsh steel plant after India handed expanded import quota",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2dKc25zeWVJYWd4ekp5MDlSS0REVHJwZUFOSWpoZWhJUHNJT2dUb0tSSEw0LVBZcDViSTlDVVBlZ1oxNV8xanRPamdndFJuT2lfaENoaVdtOU5FMi1sWkVYelhNZlh5SDcyXzRhUU9JaHhUZmI0SFJ5NkZyZnF4Wk9uTTU4QmdRaGh6VVBqLVhpSzdUZUVPbEhnLUtzaWRpQTJBeTFCSQ?oc=5",
-      "published_at": "2026-11-26T07:29:36Z",
-      "source_published_date": "2026-11-26",
-      "source": {
-        "id": "rss",
-        "name": "Herald.Wales",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "配额与关税",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-27T16:59:48Z",
-      "last_seen": "2026-11-27T16:59:48Z",
-      "source_excerpt": "Fears for Welsh steel plant after India handed expanded import quota Herald.Wales",
-      "machine_translation": {
-        "title_zh": "印度移交扩大进口配额后,威尔士钢铁厂的恐惧",
-        "excerpt_zh": "印度提交扩大进口配额后,威尔士钢铁厂感到恐惧。",
-        "fingerprint": "a8e7b79ea37d246d7998d658fa6b148648522cdb68547cdda3a14330df509bbb",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-11-27T17:01:13Z"
       }
     },
     {
@@ -12692,13 +12692,13 @@
     },
     {
       "id": "ae11d9f33ea8731f6c22",
-      "title_zh": "Ukraine seeks German backing on steel quotas, CBAM and industrial recovery",
-      "title_en": "Ukraine seeks German backing on steel quotas, CBAM and industrial recovery",
+      "title_zh": "乌克兰请求德国支持提高输欧钢材配额及延后适用CBAM",
+      "title_en": "Ukraine asks Germany to support higher EU steel quotas and delayed CBAM application",
       "title_original": "Ukraine seeks German backing on steel quotas, CBAM and industrial recovery",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
+      "summary_zh": "乌克兰经济与环境部11月23日通报，部长Oleksandr Kravchenko在柏林德乌商业论坛期间请德方在布鲁塞尔支持扩大乌克兰钢材配额及推迟本国生产商适用CBAM。双方还讨论联合工业项目、投资及战争风险保险。欧委会此前在COM(2025)783认为当时无须就乌克兰原产货物采取临时CBAM调整。本轮取得的是请求及会议通报，未查见相应的新配额、延期或生效文件。",
+      "summary_en": "Ukraine’s economy and environment ministry says Minister Oleksandr Kravchenko asked Germany at the Berlin business forum to support higher EU steel quotas and delayed CBAM application for Ukrainian mills. The Commission previously considered a temporary CBAM adjustment unwarranted in COM(2025)783. The meeting announcement does not establish a change in treatment.",
+      "impact_zh": "欧盟板材及半成品采购比价继续按现行原产地配额和CBAM条件。后续欧委会若发布措施，再按实际产品、配额编号和生效日更新乌克兰供应商比价。",
+      "impact_en": "Keep EU flat steel and semifinished sourcing comparisons on current origin quotas and CBAM rules. Reassess Ukrainian offers once an EU measure specifies the products, quotas and date.",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZU9pTjNGNjhMZktKNGJraGU2dzd6TkhMYXJpTmpiazVHdER6QlVQcnJXYUNLNzJ1a29SYU1fcDh1WC1DLWhJa2hLWkQtVlEwN0hvWDB6MHZvQUFoSUhscTE3NTBacW9fQ1lvbGRWaFI1QVBoWEx6QzIxR1dPaTd1ZHF4bDVldDV5TFFWaHdVYkxXV2dwdUtzSThUT3BZRE5FUXEtODY4MlJlVDlYekZrX3ZBM1V6WnBYSVk5Z2NOY2hmZU1YNXZFVlg4NG10V0px?oc=5",
       "published_at": "2026-11-25T09:25:02Z",
       "source_published_date": "2026-11-25",
@@ -12720,7 +12720,7 @@
       "language": "en",
       "image_url": "",
       "confidence": 0.2,
-      "translation_state": "pending",
+      "translation_state": "complete",
       "first_seen": "2026-11-27T16:59:48Z",
       "last_seen": "2026-11-27T16:59:48Z",
       "source_excerpt": "Ukraine seeks German backing on steel quotas, CBAM and industrial recovery SteelOrbis",
@@ -12731,6 +12731,16 @@
         "model": "Helsinki-NLP/opus-mt-en-zh",
         "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
         "translated_at": "2026-11-27T17:01:14Z"
+      },
+      "evidence_url": "https://www.me.gov.ua/News/Detail/14db1cec-7cfb-41b7-a24b-1e1c89da46ba?lang=uk-UA",
+      "coverage": "核对乌克兰经济与环境部11月23日乌克兰文会议通报、欧委会COM(2025)783有关乌克兰的评估与SteelOrbis 11月25日报道；11月25日是媒体报道日期。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-27T20:32:03Z",
+      "source_translation": {
+        "title_zh": "乌克兰寻求德国支持钢材配额、CBAM延期与工业复苏",
+        "translated_at": "2026-11-27T20:32:03Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
       }
     },
     {
@@ -14816,13 +14826,16 @@
       "first_seen": "2026-11-19T16:05:25Z",
       "last_seen": "2026-11-22T23:53:18Z",
       "source_excerpt": "关税和需求塑造 2026 年钢铁行业前景 blockchain.news",
-      "review_disposition": "blocked",
-      "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
+      "review_disposition": "excluded",
+      "review_note_zh": "到期复查读到可检索的完整原稿。文章转述VanEck对钢铁行业与SLX基金的投资评论，讨论已知措施和假设情景，未提供可单独核验的新措施或产品、订单变化。",
       "review_note_en": "",
-      "review_attempted_at": "2026-11-20T19:30:56Z",
-      "retry_after": "2026-11-27T00:00:00Z",
-      "review_evidence_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9raGFzR3Z3eFctMTIyVmM1QWkta01uVm9GcEVPcVUyVldjOWNQcUgxSHhHVHNEdHRIVE4tOVJaa1ZWSTZHeEozalM5MUh4YmlwVGVvOG1ySTgxT09CU1RVSEltSG9Fa0lIM2RzSFlobFpQUmtY?oc=5",
-      "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。"
+      "review_attempted_at": "2026-11-27T20:32:03Z",
+      "source_translation": {
+        "title_zh": "关税与需求塑造2026年钢铁行业前景",
+        "translated_at": "2026-11-27T20:32:03Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
+      }
     },
     {
       "id": "2398931d938e2d9666c7",
@@ -17712,56 +17725,6 @@
       "reviewed_at": "2026-11-15"
     },
     {
-      "id": "707bf3a1636a45887b23",
-      "title_zh": "Steel sector sees green milestone",
-      "title_en": "Steel sector sees green milestone",
-      "title_original": "Steel sector sees green milestone",
-      "summary_zh": "中文摘要暂未生成，请以原文为准。",
-      "summary_en": "The English brief is not available yet. Please review the original source.",
-      "impact_zh": "待自动分析；请先核对原文内容。",
-      "impact_en": "Automated impact analysis is pending; please verify the original source.",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
-      "published_at": "2026-11-14T08:00:00Z",
-      "source_published_date": "2026-11-14",
-      "source": {
-        "id": "rss",
-        "name": "China Daily Global Edition",
-        "kind": "news",
-        "official": false
-      },
-      "country": "全球",
-      "region": "全球",
-      "category": "市场与产能",
-      "status": "新闻",
-      "importance": "中",
-      "products": [],
-      "products_en": [],
-      "tags": [],
-      "tags_en": [],
-      "language": "en",
-      "image_url": "",
-      "confidence": 0.2,
-      "translation_state": "pending",
-      "first_seen": "2026-11-13T14:56:04Z",
-      "last_seen": "2026-11-21T00:19:32Z",
-      "source_excerpt": "Steel sector sees green milestone China Daily Global Edition",
-      "machine_translation": {
-        "title_zh": "钢铁部门看到绿色的里程碑",
-        "excerpt_zh": "钢铁部门看到绿色的里程碑 中国日报全球版",
-        "fingerprint": "7bff874f21dd9d9c879b400106f017fc32bdf7285934094ec23f123d8fa242f5",
-        "model": "Helsinki-NLP/opus-mt-en-zh",
-        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
-        "translated_at": "2026-11-20T00:58:53Z"
-      },
-      "review_disposition": "blocked",
-      "review_note_zh": "仅取得RSS标题和来源名，未获得可核对的报道正文/原始统计数据；无法核实量化结论、企业观点或其是否包含新增出口业务事实，保留复查。",
-      "review_note_en": "",
-      "review_attempted_at": "2026-11-20T19:30:56Z",
-      "retry_after": "2026-11-27T00:00:00Z",
-      "review_evidence_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
-      "review_coverage": "2026-11-20队列仅提供RSS标题/来源，无可核验原文正文；未标记source_checked。"
-    },
-    {
       "id": "6e6940de6bb0102ab0e7",
       "title_zh": "Turkey plans to establish its own CBAM from 2027",
       "title_en": "Turkey plans to establish its own CBAM from 2027",
@@ -17802,6 +17765,59 @@
       "source_translation": {
         "title_zh": "土耳其计划自2027年设立本国CBAM",
         "translated_at": "2026-11-15",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
+      }
+    },
+    {
+      "id": "707bf3a1636a45887b23",
+      "title_zh": "中钢协介绍钢企节能项目进展，行业减排数据须与产品排放分开使用",
+      "title_en": "CISA reports sector energy savings; EU CBAM still requires product-level emissions evidence",
+      "title_original": "Steel sector sees green milestone",
+      "summary_zh": "中国日报11月13日网页原报道引述中钢协副会长兼秘书长蒋维在10月28日论坛称，极致能效工程涉及143家企业，过去三年累计节约标准煤超2400万吨、减少二氧化碳排放6000万吨。数据为协会发言所述项目汇总，报道未列各厂区和产品的核查数据。",
+      "summary_en": "China Daily’s 13 November article quotes CISA’s Jiang Wei as saying a 143-company energy efficiency programme saved more than 24 million tonnes of coal equivalent and cut CO2 emissions by 60 million tonnes over three years. These are programme figures cited at a 28 October forum.",
+      "impact_zh": "行业数据可用于输欧低碳沟通。需要为板坯、热卷或涂镀板按实际排放申报时，仍应向对应钢厂取得与厂区、生产路线及产品匹配的监测和核查材料。",
+      "impact_en": "Use sector data in general decarbonisation discussions. For actual CBAM emissions on slabs and flat products, obtain monitoring and verification records for the relevant installation and production route.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0hGNEl0OVV4WmQ0V09zcUYxeGVWcW4tM3JNTkVZWTJ5WXhUS3luRzN1cVhaTVNhREhjUlhDV0pnX01PTlpnSHNzOEJidTcyNmtmb0pqQVJyMjdvQTR1R0lUT0xqaG15M1FjMHhUTkhWZnZ6UExXWnQxVEc4MFkxbmpR?oc=5",
+      "published_at": "2026-11-13T00:00:00Z",
+      "source_published_date": "2026-11-14",
+      "source": {
+        "id": "rss",
+        "name": "China Daily Global Edition",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "市场与产能",
+      "status": "新闻",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-13T14:56:04Z",
+      "last_seen": "2026-11-21T00:19:32Z",
+      "source_excerpt": "Steel sector sees green milestone China Daily Global Edition",
+      "machine_translation": {
+        "title_zh": "钢铁部门看到绿色的里程碑",
+        "excerpt_zh": "钢铁部门看到绿色的里程碑 中国日报全球版",
+        "fingerprint": "7bff874f21dd9d9c879b400106f017fc32bdf7285934094ec23f123d8fa242f5",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-20T00:58:53Z"
+      },
+      "evidence_url": "https://www.chinadaily.com.cn/a/202611/13/WS6af679cce4b03ebf8519c384.html",
+      "coverage": "到期复查取得中国日报完整原文，核对11月13日官网发布日期及论坛发言的统计口径。保留11月14日版次匹配日期；既有11月13日核验结论一致。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-27T20:32:03Z",
+      "source_translation": {
+        "title_zh": "钢铁行业节能降碳取得阶段性进展",
+        "translated_at": "2026-11-27T20:32:03Z",
         "method": "editor_translation",
         "coverage": "标题翻译，不代表全文核验"
       }
@@ -28438,6 +28454,59 @@
       "evidence_url": "https://apnews.com/article/4403c8df143be871825b7d20302385e0",
       "review_method": "source_checked",
       "reviewed_at": "2026-10-09"
+    },
+    {
+      "id": "78283eeb6f95ca6b7727",
+      "title_zh": "英国第4类金属涂镀板配额复核：印度年配额125,796吨",
+      "title_en": "UK Category 4 metallic-coated sheet quota check: 125,796 tonnes for India",
+      "title_original": "Fears for Welsh steel plant after India handed expanded import quota",
+      "summary_zh": "队列为11月26日版本，同名可读报道在7月19日已刊登，关注威尔士Llanwern钢厂的竞争压力。英国现行钢铁措施的表3明确，2026年7月1日至2027年6月30日，第4类印度国别配额125,796吨，每季31,449吨，配额号058605。韩国和越南分别为100,753吨和174,367吨。英国第4类金属涂镀板税号包括72104100、72104900、72106100等，超配额税率50%。现行表中该品类的中国货需按适用的剩余配额及其准入条件核查。该内容对应7月措施，未发现11月另行扩大印度配额的公告。",
+      "summary_en": "The matching Welsh report was published on 19 July and discusses Llanwern. The UK measure for 1 July 2026–30 June 2027 gives India 125,796 tonnes of Category 4 metallic-coated sheet quota, 31,449 tonnes per quarter under order 058605. Korea and Vietnam receive 100,753 and 174,367 tonnes. The out-of-quota duty is 50%. No later November increase was identified.",
+      "impact_zh": "比较英国镀锌和部分合金镀层板订单时，分别按印度国别配额和中国货适用配额核查可用性。让英国进口商在报关前按完整税号与配额号确认适用资格和实时余额，再确定含税报价。",
+      "impact_en": "For UK galvanised and other metallic-coated sheet orders, check India's country quota and the applicable residual quota and availability for Chinese-origin goods. Ask the importer to verify the full commodity and quota order numbers at entry.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2dKc25zeWVJYWd4ekp5MDlSS0REVHJwZUFOSWpoZWhJUHNJT2dUb0tSSEw0LVBZcDViSTlDVVBlZ1oxNV8xanRPamdndFJuT2lfaENoaVdtOU5FMi1sWkVYelhNZlh5SDcyXzRhUU9JaHhUZmI0SFJ5NkZyZnF4Wk9uTTU4QmdRaGh6VVBqLVhpSzdUZUVPbEhnLUtzaWRpQTJBeTFCSQ?oc=5",
+      "published_at": "2026-07-19T00:00:00Z",
+      "source_published_date": "2026-11-26",
+      "source": {
+        "id": "rss",
+        "name": "Herald.Wales",
+        "kind": "news",
+        "official": false
+      },
+      "country": "全球",
+      "region": "全球",
+      "category": "配额与关税",
+      "status": "新闻",
+      "importance": "中",
+      "products": [],
+      "products_en": [],
+      "tags": [],
+      "tags_en": [],
+      "language": "en",
+      "image_url": "",
+      "confidence": 0.2,
+      "translation_state": "complete",
+      "first_seen": "2026-11-27T16:59:48Z",
+      "last_seen": "2026-11-27T16:59:48Z",
+      "source_excerpt": "Fears for Welsh steel plant after India handed expanded import quota Herald.Wales",
+      "machine_translation": {
+        "title_zh": "印度移交扩大进口配额后,威尔士钢铁厂的恐惧",
+        "excerpt_zh": "印度提交扩大进口配额后,威尔士钢铁厂感到恐惧。",
+        "fingerprint": "a8e7b79ea37d246d7998d658fa6b148648522cdb68547cdda3a14330df509bbb",
+        "model": "Helsinki-NLP/opus-mt-en-zh",
+        "revision": "408d9bc410a388e1d9aef112a2daba955b945255",
+        "translated_at": "2026-11-27T17:01:13Z"
+      },
+      "evidence_url": "https://www.gov.uk/government/publications/uks-steel-trade-measure-from-1-july-2026/uks-steel-trade-measure-from-1-july-2026",
+      "coverage": "核对英国政府第4类范围及表3、表4。7月19日可读同名原报道 https://pembrokeshire-herald.com/143761/fears-for-welsh-steel-plant-after-india-handed-expanded-import-quota/ 。按可核实的同名公开报道日期更正展示，保留11月26日队列匹配日期。",
+      "review_method": "source_checked",
+      "reviewed_at": "2026-11-27T20:32:03Z",
+      "source_translation": {
+        "title_zh": "英国扩大印度钢材进口配额引发对威尔士钢厂的担忧",
+        "translated_at": "2026-11-27T20:32:03Z",
+        "method": "editor_translation",
+        "coverage": "标题翻译，不代表全文核验"
+      }
     },
     {
       "id": "53fed2510c2d19d615a9-2026-11-10",
