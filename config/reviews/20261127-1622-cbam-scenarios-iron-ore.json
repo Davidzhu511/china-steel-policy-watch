@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-27T15:22:36Z",
+  "translations": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGpyTkFzREo0TzZMazFTY1NsSW5qTUdiOEgtWWxENXQzTXhweTJFc0ZpZF80OEp1czQtQVA4NUNkTV9Hbi1Ddm83dnhlbXE1SWNUUVlOR3BERXEzSENhd1Z0UmtobmgzTUVoUVIya1RVdWpMZlMtdnBneVgzODBHUWhjN01XZw?oc=5",
+      "published_date": "2026-11-16",
+      "title_original": "UK CBAM: What does it mean for your business?",
+      "title_zh": "英国碳边境调节机制（CBAM）对企业有何影响？",
+      "translated_at": "2026-11-27T15:22:36Z"
+    }
+  ],
+  "editorial": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGpyTkFzREo0TzZMazFTY1NsSW5qTUdiOEgtWWxENXQzTXhweTJFc0ZpZF80OEp1czQtQVA4NUNkTV9Hbi1Ddm83dnhlbXE1SWNUUVlOR3BERXEzSENhd1Z0UmtobmgzTUVoUVIya1RVdWpMZlMtdnBneVgzODBHUWhjN01XZw?oc=5",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-27T15:22:36Z",
+      "title_zh": "Vysus以海上风电钢结构为例测算英国CBAM成本，项目报价应按税号和排放数据单独核算",
+      "title_en": "Vysus models UK CBAM costs for offshore-wind steel; project pricing depends on classification and emissions",
+      "summary_zh": "Vysus UK Limited于2026年11月16日在阿伯丁及格兰扁商会发布案例，假设一项海上风电工程进口约1.875万吨加工钢材，对应超过11.3万吨二氧化碳当量的隐含排放，测得初期英国CBAM负担约110万英镑，制度发展后潜在敞口约660万英镑。公开稿未披露各产品税号、排放取值、碳价、减免及远期测算期间。英国自2027年1月1日起对范围内商品实施CBAM，政府产品表列有英国税则品目7308的钢铁结构体及零部件等。",
+      "summary_en": "On 16 November 2026, Vysus UK Limited published an illustrative offshore-wind case through the Aberdeen & Grampian Chamber of Commerce. Some 18,750 tonnes of imported fabricated steel were associated with more than 113,000 tCO₂e, an initial UK CBAM estimate of about £1.1 million and potential exposure of around £6.6 million as the scheme develops. The note does not disclose the tariff lines, emissions inputs, rate, relief or time horizon behind the estimate. UK CBAM starts on 1 January 2027. The government’s product list includes iron or steel structures and parts under heading 7308.",
+      "impact_zh": "对输英风电塔筒、支架及加工钢构，先与进口商核对成品英国税号及适用范围，再按拟进口季度、经核查实际排放或适用默认值测算。确定排放材料交付时点和合同成本分担。上述工程估值仅适用于Vysus的公开示例，项目报价仍需按本单产品和主管机关发布的季度税率核算。",
+      "impact_en": "For towers, supports and fabricated steel for UK wind projects, confirm the finished-good commodity code and coverage with the importer. Price the shipment by import quarter using applicable verified actual emissions or default values. Agree on data delivery and contractual cost allocation. Build the quote from the order and published quarterly rates.",
+      "evidence_url": "https://www.agcc.co.uk/blog-article/uk-cbam-what-does-it-mean-for-your-business",
+      "coverage": "核对Vysus署名全文及商会刊载日期，并对照HMRC排放申报指引（https://www.gov.uk/guidance/getting-the-emissions-intensity-when-importing-carbon-border-adjustment-mechanism-cbam-goods）、英国政府产品税号表（https://www.gov.uk/government/publications/carbon-border-adjustment-mechanism-cbam-policy-summary/carbon-border-adjustment-mechanism-cbam-policy-summary）和季度税率指引（https://www.gov.uk/guidance/rates-for-the-carbon-border-adjustment-mechanism-cbam）。Vysus测算仅据公开案例，底层模型及货物组成未公开。",
+      "category": "碳与环保",
+      "importance": "中",
+      "tags": [
+        "英国",
+        "CBAM",
+        "海上风电",
+        "钢结构",
+        "7308"
+      ],
+      "tags_en": [
+        "UK",
+        "CBAM",
+        "offshore wind",
+        "fabricated steel",
+        "7308"
+      ],
+      "status": "原文核验／机构情景"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXI0NkI0ckVFQlVYeW9PRmgtWDdHWEJOQ25sTkZvaFdhbkp3X3lVT3JWR0tYa1F5WmFybi1xOEVTVE9OZ1h3VWZpNzVScFRDREx3cVhCNG1rSlBuY09VdWRrdk8zejFIbldEb0dQUFNIbzNCR1pWODFjRHpLbFpuTUNkcFJOQ0J2S1BfT0lEWUtIaV9jUE5wbFBRbFJhQlRBWEF0Ng?oc=5",
+      "published_date": "2026-11-16",
+      "reviewed_at": "2026-11-27T15:22:36Z",
+      "title_zh": "上海有色网35港铁矿石库存11月中旬上升，27日回落至1.5345亿吨",
+      "title_en": "SMM iron ore stocks at 35 Chinese ports rose in mid-November, then eased to 153.45 million tonnes on 27 November",
+      "summary_zh": "IndexBox 11月16日文章援引上海有色网（SMM）：11月13日中国35个主要港口铁矿石库存为1.5212亿吨，日均疏港量308万吨。SMM同口径库存11月20日升至1.5375亿吨，11月27日降至1.5345亿吨，较前一周减少30万吨，仍比11月13日多133万吨。11月27日日均疏港量为302.5万吨。",
+      "summary_en": "IndexBox’s 16 November article cited Shanghai Metals Market (SMM) data showing 152.12 million tonnes of iron ore at 35 major Chinese ports on 13 November and daily port withdrawals of 3.08 million tonnes. In the same series, stocks rose to 153.75 million tonnes on 20 November and eased to 153.45 million on 27 November, down 0.30 million on the week and still 1.33 million above 13 November. Daily withdrawals were 3.025 million tonnes on 27 November.",
+      "impact_zh": "库存可用于跟踪长流程钢厂原料采购。制定热轧及下游板卷出口报价时，结合现货矿价、焦炭成本、钢厂接单和交期判断，单次库存回落不足以支持调价。",
+      "impact_en": "Use port stocks to monitor raw-material procurement conditions for blast-furnace producers. Consider spot ore prices, coke costs, mill order books and lead times when pricing hot-rolled and downstream flat steel for export. One weekly stock decline does not establish a pricing trend.",
+      "evidence_url": "https://news.metal.com/newscontent/SFZBQGT6RS7HAP7BJMGTXTLSNQKATAEA6MZSMIQ-iron-ore-port-inventory-and-port-pick-up-volume-on-november-13-2026",
+      "coverage": "核对IndexBox全文（https://www.indexbox.io/blog/china-iron-ore-port-stocks-build-to-15212-million-tons-as-of-november-13/）及SMM原始35港数据。11月20日（https://news.metal.com/newscontent/WABPNANGSHRPEZ5RK2VQADAMRK2NZIOB3SAWQIQ-iron-ore-port-inventory-and-port-pick-up-volume-on-november-20-2026）和27日（https://steel.smm.cn/news/090/TLXFLI5DAULT6MHCV7A4GD7OPXUFXDONOBDE2FI）为同口径后续观察。中英文来源对11月13日增量的比较期间表述不一致，本条仅采绝对存量及疏港量，使用各日期绝对存量计算期间变化。",
+      "category": "市场与产能",
+      "importance": "中",
+      "tags": [
+        "中国",
+        "铁矿石",
+        "港口库存",
+        "板卷"
+      ],
+      "tags_en": [
+        "China",
+        "iron ore",
+        "port inventory",
+        "flat steel"
+      ],
+      "status": "原始数据核验"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yU3VZTU5NVGVRbmtvQnM2TkNNd0JSSFV6MWZJc29sRWF2UlRwRnUwUUJ3NFE2SlgzM0MxQUtxWUVoTzk0WmlQeHBDcDlmS05SMzhaaXQyc2tvNVY0Yk1IVW1COG9YbnZBWFdMVXlQcG9LZw?oc=5",
+      "published_date": "2026-11-19",
+      "reviewed_at": "2026-11-27T15:22:36Z",
+      "title_zh": "齐绍洲团队模拟欧盟CBAM对中国金属冶炼及加工出口的长期影响",
+      "title_en": "Qi Shaozhou’s team models the long-term impact of EU CBAM on Chinese metals exports",
+      "summary_zh": "中国冶金报的会议报道显示，武汉大学齐绍洲于11月11日中国特殊钢产业发展大会介绍团队的GTAP-E情景模拟。高碳价差情景下，模型估算2040年中国对欧盟的金属冶炼及加工行业出口规模降幅约15.3%。该口径覆盖金属冶炼及加工，属于特定模型情景。欧盟下游扩围仍在立法程序中，欧洲议会于2026年9月15日表决后交回委员会进行机构间谈判。",
+      "summary_en": "China Metallurgical News reported that Wuhan University’s Qi Shaozhou presented GTAP-E scenarios at the China Special Steel Industry Development Conference on 11 November. In a high carbon-price-gap scenario, the team modelled a decline of about 15.3% by 2040 for Chinese metal smelting and processing exports to the EU. The estimate is scenario-specific and covers the broader metals sector. The EU downstream extension remains in the legislative process, with the European Parliament referring the file back for interinstitutional negotiations after its 15 September 2026 vote.",
+      "impact_zh": "该情景可供评估长期输欧产品布局。热轧、冷轧、镀层板卷等具体合同的CBAM敞口应按进口年度、适用税号、经核查排放或默认值及合同分担条款计算。涉及进一步加工产品的中长期询单，核对扩围最终文件及附件后再反映到报价。",
+      "impact_en": "Use the scenario for long-term EU product planning. For individual hot-rolled, cold-rolled and coated steel contracts, calculate exposure from the import year, applicable codes, verified emissions or default values, and contractual allocation. For downstream products, update long-dated pricing once the final legal text and annexes are available.",
+      "evidence_url": "https://cqlw.com/isu/site/newsDetails.action?c1=&c2=&id=498181c7a1d424c001a1f5659fa10040&s=&tag=",
+      "coverage": "核对中国冶金报可读全文转载、Mysteel转载及其署名（https://news.mysteel.com/a/26111916/F61E712D1DD73492.html）、中国金属学会的会议信息（https://www.csm.org.cn/col/col6362/art/2026/art_57b258ec5a1841e59d6aa4df74af5fc3.html）和欧洲议会立法程序（https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0419%28COD%29）。活动与报告内容由公开报道确认，未取得演示原件、模型输入及附件，降幅作为研究者情景估计。",
+      "category": "碳与环保",
+      "importance": "中",
+      "tags": [
+        "欧盟",
+        "中国",
+        "CBAM",
+        "特钢",
+        "情景模拟"
+      ],
+      "tags_en": [
+        "EU",
+        "China",
+        "CBAM",
+        "special steel",
+        "scenario analysis"
+      ],
+      "status": "报道核验／研究情景"
+    }
+  ],
+  "triage": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93OVZpUnNjMmZaaURVYXo2am05M0REb244WnpFZDZ3WkRPN0IzZHMtU1ZGd1JFU3h1YjdDc0tmYkpScURFcFNFQzFyQi1sUHNzTlUwTjlibzRXMV9FS0tZ?oc=5",
+      "published_date": "2026-11-16",
+      "decision": "excluded",
+      "attempted_at": "2026-11-27T15:22:36Z",
+      "reason_zh": "核读后确认为阳光慧碳署名的服务商推广稿。文中示例为园区和酒店节能项目，未披露可核验的输欧钢铁项目或新增监管措施。",
+      "coverage": "核对碳索储能网刊载全文、署名、案例及平台效果所述口径，并对照欧委会关于实际排放核查与默认值的官方说明（https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-verification_en）。稿件为企业自述，平台绩效和行业适用性缺少钢铁出口实案佐证。",
+      "evidence_url": "https://mcn.solarbe.com/news/20261116/50031981.html"
+    }
+  ]
+}
