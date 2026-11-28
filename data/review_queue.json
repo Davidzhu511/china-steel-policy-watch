@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-11-27T21:40:21Z",
-  "pending_count": 22,
-  "actionable_count": 6,
+  "generated_at": "2026-11-28T01:41:35Z",
+  "pending_count": 25,
+  "actionable_count": 9,
   "blocked_count": 16,
   "items": [
     {
@@ -11,7 +11,7 @@
       "published_at": "2026-11-27T00:00:00Z",
       "title_original": "Determinations of the UK ETS carbon price",
       "first_seen": "2026-11-27T21:40:21Z",
-      "last_seen": "2026-11-27T21:40:21Z",
+      "last_seen": "2026-11-28T01:41:35Z",
       "source": {
         "id": "govuk",
         "name": "GOV.UK / 英国政府",
@@ -30,12 +30,84 @@
       "related_reviews": []
     },
     {
+      "id": "584c03d408412da769b3",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3dpcFRSN2tiOTVZOXZXSEJPUWlfSGRySkMzV3ZJemczTFMtczFqSHkwdm4yZzczLVR4RXpSVWxTcm1fRXBCcGNMTHdPUXRNQkZURWRaWjhXTUpDcVRHMW5qTVJJaEE0bjUyR1FLUW1UZFBwVTRnQURWMWRXZHI0WDhBMmZubVR3V184UEtiaVQxdHJqa2FXeXNQZ2VVYS14dkU1bmRfZjdQcV9VaWRITlEwOA?oc=5",
+      "published_at": "2026-11-27T16:01:15Z",
+      "title_original": "Mexico Seeks US Steel Tariff Relief as Asia Gains Market Share",
+      "first_seen": "2026-11-28T01:41:35Z",
+      "last_seen": "2026-11-28T01:41:35Z",
+      "source": {
+        "id": "rss",
+        "name": "Mexico Business News",
+        "kind": "news",
+        "official": false
+      },
+      "category": "配额与关税",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-27",
+      "source_excerpt": "Mexico Seeks US Steel Tariff Relief as Asia Gains Market Share Mexico Business News",
+      "needs_translation": true,
+      "title_zh": "Mexico Seeks US Steel Tariff Relief as Asia Gains Market Share",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "1421d857656414a9",
+      "related_reviews": []
+    },
+    {
+      "id": "9d0f3e794fb954d20df6",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQzZTekhSQmdacVFVLWxlRUR6ZXpiZVlIRXNqT0lZa3BEQjVFRHk1aFBNTE5Tc3BBNjRSMmxsRWVpdU0xSzk0enJXWC1WOTVOczcxZHNZM3B6RkFzbnBnNEluenA?oc=5",
+      "published_at": "2026-11-27T05:48:29Z",
+      "title_original": "10月钢铁原料煤焦采购成本环比继续增长",
+      "first_seen": "2026-11-28T01:41:35Z",
+      "last_seen": "2026-11-28T01:41:35Z",
+      "source": {
+        "id": "rss",
+        "name": "中国煤炭资源网",
+        "kind": "news",
+        "official": false
+      },
+      "category": "市场与产能",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-27",
+      "source_excerpt": "10月钢铁原料煤焦采购成本环比继续增长 中国煤炭资源网",
+      "needs_translation": false,
+      "title_zh": "10月钢铁原料煤焦采购成本环比继续增长",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "5e23b3518aa5d6d7",
+      "related_reviews": []
+    },
+    {
+      "id": "26cdd60552c0a0efcb29",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHo0ZktlYl9xeWU0dnY5UTUtYWU2S2tFVG1tV0UzR2UwMWxyZFZ0RlF3U0tieko1di11NU9QODF5Q0lqVVp0bTVWVFZKMWluY2Iyd0ZnNE5xcVhEOVRKb0hLQ0I4Si1VR0JacDJQdlpwSTloOGh2dEgzZm1lWkdjaEtXMWJUWnR5Zk5MSGgwRW4zbGo4bEHSAZsBQVVfeXFMT29NWVgtWE15WVpQYVcxZmg2NXlQa3N1QkkyeXpWS2J6V0RsSVM0Zk5TRU56ajV3Ti1vZWFRZlhDeHNYd2Q4SjUzWDNfRnN6NjBMeElkTjRMaEtnOUg3N3RUWnd2VFl5eFljQlZMc3NtUHVybUhzbGJwUVRqV0VTbmtnQ1hMZWYyZmpzS09zOXFKVHpQNkt4OTBnaFE?oc=5",
+      "published_at": "2026-11-26T12:45:11Z",
+      "title_original": "UK to exempt goods from the EU, EEA and Switzerland from UK CBAM",
+      "first_seen": "2026-11-28T01:41:35Z",
+      "last_seen": "2026-11-28T01:41:35Z",
+      "source": {
+        "id": "rss",
+        "name": "GMK Center",
+        "kind": "news",
+        "official": false
+      },
+      "category": "碳与环保",
+      "importance": "中",
+      "translation_state": "pending",
+      "published_date": "2026-11-26",
+      "source_excerpt": "UK to exempt goods from the EU, EEA and Switzerland from UK CBAM GMK Center",
+      "needs_translation": true,
+      "title_zh": "UK to exempt goods from the EU, EEA and Switzerland from UK CBAM",
+      "review_attempted_at": "",
+      "evidence_fingerprint": "a5b8818331ad0125",
+      "related_reviews": []
+    },
+    {
       "id": "9b66f4582ebdec20a360",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wMWotallSaEZNbmlsT3pOalBmSHg1dlhjWnFUYjBYQlVzcnpnWWRnV0JQb2pld0hrcHE5N1FUU1pINmhiOWthUDBCR1pZVGJNOXVxQzJobk03QVlYaVNDbGs0dkk?oc=5",
       "published_at": "2026-11-27T08:18:55Z",
       "title_original": "一周钢铁业要闻回顾（2026.11.27）",
       "first_seen": "2026-11-27T21:40:21Z",
-      "last_seen": "2026-11-27T21:40:21Z",
+      "last_seen": "2026-11-28T01:41:35Z",
       "source": {
         "id": "rss",
         "name": "中国煤炭资源网",
@@ -107,7 +179,7 @@
       "published_at": "2026-11-24T11:38:37Z",
       "title_original": "CBAM verification demand builds, raising capacity concerns ahead of first annual declaration",
       "first_seen": "2026-11-27T21:40:21Z",
-      "last_seen": "2026-11-27T21:40:21Z",
+      "last_seen": "2026-11-28T01:41:35Z",
       "source": {
         "id": "rss",
         "name": "Fastmarkets",
@@ -157,7 +229,7 @@
       "published_at": "2026-11-24T00:00:00Z",
       "title_original": "Do you import any of these products into the EU?",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-27T21:40:21Z",
+      "last_seen": "2026-11-28T01:41:35Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG TAXUD · CBAM News",
@@ -187,7 +259,7 @@
       "published_at": "2026-11-26T11:22:04Z",
       "title_original": "Trump tariff plan hits steel and wind",
       "first_seen": "2026-11-26T17:20:43Z",
-      "last_seen": "2026-11-27T21:40:21Z",
+      "last_seen": "2026-11-28T01:41:35Z",
       "source": {
         "id": "rss",
         "name": "Heavy Lift & Project Forwarding International",
@@ -247,7 +319,7 @@
       "published_at": "2026-11-25T16:24:27Z",
       "title_original": "特朗普威胁加拿大汽车钢铁加税关税或成谈判筹码",
       "first_seen": "2026-11-25T17:38:41Z",
-      "last_seen": "2026-11-26T21:58:13Z",
+      "last_seen": "2026-11-28T01:41:35Z",
       "source": {
         "id": "rss",
         "name": "VanPeople",
@@ -645,7 +717,7 @@
       "published_at": "2026-11-24T00:00:00Z",
       "title_original": "Do you import any of these products into the EU?",
       "first_seen": "2026-11-24T18:21:51Z",
-      "last_seen": "2026-11-27T21:40:21Z",
+      "last_seen": "2026-11-28T01:41:35Z",
       "source": {
         "id": "ec_watch_pages",
         "name": "DG TAXUD · CBAM News",
@@ -672,5 +744,5 @@
   ],
   "retry_due_count": 1,
   "next_retry_at": "2026-11-28T19:33:09Z",
-  "work_fingerprint": "169502f6118ce1ed6f96"
+  "work_fingerprint": "6d8623c8ae292ba37653"
 }
