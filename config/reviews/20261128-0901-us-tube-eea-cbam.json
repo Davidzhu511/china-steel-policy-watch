@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "created_at": "2026-11-28T08:01:23Z",
+  "translations": [
+    {
+      "url": "https://gov.uk/government/publications/determinations-of-the-uk-ets-carbon-price",
+      "published_date": "2026-11-27",
+      "title_original": "Determinations of the UK ETS carbon price",
+      "title_zh": "英国排放交易体系（UK ETS）碳价核定文件",
+      "translated_at": "2026-11-28T08:01:23Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3dpcFRSN2tiOTVZOXZXSEJPUWlfSGRySkMzV3ZJemczTFMtczFqSHkwdm4yZzczLVR4RXpSVWxTcm1fRXBCcGNMTHdPUXRNQkZURWRaWjhXTUpDcVRHMW5qTVJJaEE0bjUyR1FLUW1UZFBwVTRnQURWMWRXZHI0WDhBMmZubVR3V184UEtiaVQxdHJqa2FXeXNQZ2VVYS14dkU1bmRfZjdQcV9VaWRITlEwOA?oc=5",
+      "published_date": "2026-11-27",
+      "title_original": "Mexico Seeks US Steel Tariff Relief as Asia Gains Market Share",
+      "title_zh": "亚洲供应商扩大市场份额，墨西哥寻求美国下调钢铁关税",
+      "translated_at": "2026-11-28T08:01:23Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHo0ZktlYl9xeWU0dnY5UTUtYWU2S2tFVG1tV0UzR2UwMWxyZFZ0RlF3U0tieko1di11NU9QODF5Q0lqVVp0bTVWVFZKMWluY2Iyd0ZnNE5xcVhEOVRKb0hLQ0I4Si1VR0JacDJQdlpwSTloOGh2dEgzZm1lWkdjaEtXMWJUWnR5Zk5MSGgwRW4zbGo4bEHSAZsBQVVfeXFMT29NWVgtWE15WVpQYVcxZmg2NXlQa3N1QkkyeXpWS2J6V0RsSVM0Zk5TRU56ajV3Ti1vZWFRZlhDeHNYd2Q4SjUzWDNfRnN6NjBMeElkTjRMaEtnOUg3N3RUWnd2VFl5eFljQlZMc3NtUHVybUhzbGJwUVRqV0VTbmtnQ1hMZWYyZmpzS09zOXFKVHpQNkt4OTBnaFE?oc=5",
+      "published_date": "2026-11-26",
+      "title_original": "UK to exempt goods from the EU, EEA and Switzerland from UK CBAM",
+      "title_zh": "英国拟对欧盟、欧洲经济区和瑞士原产货物实施CBAM豁免",
+      "translated_at": "2026-11-28T08:01:23Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjZsbWt6TkZjNEdZYmQ5c2lVNExNNXhYcGZWRW4yTGVFQTNFYWpOZTl4WWVkZ1JjZ3dFTEhJYkxyOUQzRlpXY2IwMm13VFlYTXd0WTZfSUgzeWF6TGZ6eFVaZWpoek0wbjM0T0VJdzF6S0s0dUN6SUI4T0F3ZHpMOEdCNnJvN1pSZm4wU1dRUDZaa2RhanpWUnlSVUY?oc=5",
+      "published_date": "2026-11-25",
+      "title_original": "Commerce Sets CVD Rate on Chinese Steel Tubing",
+      "title_zh": "美国商务部公布中国钢管反补贴税率",
+      "translated_at": "2026-11-28T08:01:23Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmpmUDdGVTNiMHY5S21nYng2N2hnM2p0LXV2dy1mb2FyQUliVnBqdVZKQWFCWlI1QVVmVzhQSktCbHhmWDJBYmdzN3Y4MDBnWVI5dGltVnkwc0ljdXNfcEl5VEFiR2JVYmtkZEdzV0VmUlFYQko4NlR3U2JwczliWC1RVU93MDgxS1djRFM3ZU5NOUJEaWRQRkoxYWtzUknSAaQBQVVfeXFMT3g5bmJUUVZ4TFFLNUhTX2FLV2FDVkRlQ2NISUpmaG9oajhIVzNuQXRYQnI0ZkJLNEtoNEEyOWlnODhsZ1NRcmVNSWUybHVmbTVPNGZBeUtJUGRSSXA2N2Ezd05LVTZTdG10bkZ0S1kxTTN0RWMtbU95RWY2eUpDUlRpY2tMLWl1akhmbUM4N2VXX1c5ckJXWkRFbjhqWktMWlkyaC0?oc=5",
+      "published_date": "2026-11-24",
+      "title_original": "Ukraine asks Germany for support on steel quotas and CBAM postponement",
+      "title_zh": "乌克兰请德国支持扩大输欧钢材配额并推迟CBAM适用",
+      "translated_at": "2026-11-28T08:01:23Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkx5dU1LMHgxaC04d3Rmcl9xSkVMdXVpNWVjMjdCZ0xMRmpFSXVWQUEzTVEtZjk3QkV4eGRhaElDYlZXc0lkb3JkNm4zdTFKbjg0MVR4c3dFcm9hQWdoNmkwM0otT3M0YnNuR0hkUS1XU0M0WlMzdlBjSGZiNUZfV2ZCRUxqTk1RbzhjUmtWVHA3NGtMVC1QNzZwR184SkdnMjRkMHVTdHNfU3IwRzFNQ0pUb2NXdU0xV1JJLXBIMlI3VGZzSzkyaA?oc=5",
+      "published_date": "2026-11-24",
+      "title_original": "CBAM verification demand builds, raising capacity concerns ahead of first annual declaration",
+      "title_zh": "欧盟CBAM首份年度申报前核查需求升温，业界关注核查产能",
+      "translated_at": "2026-11-28T08:01:23Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUw0WmtWLWJiTUJaSEZMdEVYYllfUHFubFl1RG1oS01ZT2d4ZGxyYW5IMXhnVm1aZ0I5YTF0alJXM3BrR1kzZUdNeTF4dWw1cEtsMXJQd05HUnRwRHgzUXpDamRqZ0taQ0NUVXFBWDMxWjFGV1lFelpaQW5PcHlLazhSQzY3TUFIbUE?oc=5",
+      "published_date": "2026-11-21",
+      "title_original": "‘Canada cheats’: Trump adviser backs 50% tariff as LeBlanc warns U.S. trade deal won't kill auto, steel duties",
+      "title_zh": "特朗普顾问支持对加征收50%关税，加方部长称即使达成协议，钢铁及汽车关税也可能部分保留",
+      "translated_at": "2026-11-28T08:01:23Z"
+    }
+  ],
+  "editorial": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjZsbWt6TkZjNEdZYmQ5c2lVNExNNXhYcGZWRW4yTGVFQTNFYWpOZTl4WWVkZ1JjZ3dFTEhJYkxyOUQzRlpXY2IwMm13VFlYTXd0WTZfSUgzeWF6TGZ6eFVaZWpoek0wbjM0T0VJdzF6S0s0dUN6SUI4T0F3ZHpMOEdCNnJvN1pSZm4wU1dRUDZaa2RhanpWUnlSVUY?oc=5",
+      "published_date": "2026-11-25",
+      "category": "贸易救济",
+      "importance": "高",
+      "reviewed_at": "2026-11-28T08:01:23Z",
+      "title_zh": "美国公布对华薄壁矩形钢管反补贴复审终裁，杭州爱龙税率表列76.07%",
+      "title_en": "US final CVD review lists 76.07% for Hangzhou Ailong’s light-walled rectangular steel tubing",
+      "summary_zh": "美国商务部11月24日公布反补贴案C-570-915的2024年度行政复审终裁。税率表列杭州爱龙金属制品有限公司76.07%，与7月17日初裁一致。终裁执行段规定，自11月24日起进口消费或从保税仓提取供消费的涉案货物按适用企业税率缴纳保证金。生产商与出口商均有不同企业税率时取高，只有一方有企业税率时适用该方税率，其他适用15.28%。公告摘要称未获补贴，与税率表及执行段冲突，截至核验未找到正式更正。产品为中国原产、壁厚小于4毫米的焊接碳素品质矩形管，含方管；参考HTSUS 7306.61.50.00、7306.61.70.60，适用以命令文字为准。另案A-570-914的2024–2025年度反倾销初裁暂将爱龙归入255.07%的中国统一实体税率。按该初裁公告，申请听证须在12月4日美国东部时间17:00前提交。",
+      "summary_en": "On 24 November, the US Department of Commerce published final results of its 2024 CVD review under C-570-915. The operative table lists Hangzhou Ailong at 76.07%, unchanged from the 17 July preliminary result. The deposit section applies from 24 November to entries or warehouse withdrawals for consumption. Where both parties have differing company rates, the higher applies. Where only one has a company rate, that rate applies. The all-others rate is 15.28%. The summary says no subsidy was provided, which conflicts with the table and deposit section. No formal correction was located. Scope is China-origin welded carbon-quality rectangular or square tube with walls under 4 mm, with indicative HTSUS 7306.61.50.00 and 7306.61.70.60. In the separate 2024–2025 AD review A-570-914, Commerce preliminarily assigned Ailong to the 255.07% China-wide entity. The notice’s hearing-request deadline is 4 December at 5 p.m. Eastern.",
+      "impact_zh": "涉及涉案方矩管的美国订单，先让进口商或报关行按生产商、出口商组合核对海关保证金指令，再确认完税报价和清关，不按摘要作零税处理。反倾销、反补贴和232适用须分别核对。已有2024年报关记录的进口商应核查最终清算敞口及合同补税责任。若为反倾销案利害关系方且需参加听证，立即核对ACCESS案卷的有效期限。",
+      "impact_en": "Before confirming a duty-paid quote or clearing affected US square or rectangular tubing, have the importer or broker confirm CBP deposit instructions using the actual producer and exporter. Check AD, CVD and Section 232 separately. Review liquidation exposure and duty-allocation clauses for 2024 entries. Interested parties considering a hearing should verify the current ACCESS docket deadline immediately.",
+      "evidence_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-24/pdf/2026-23940.pdf",
+      "coverage": "核对公报91 FR 75823的摘要、终裁税率表、计征及保证金条款，并对照7月初裁（https://www.federalregister.gov/d/2026-14418）、2008年命令（https://www.govinfo.gov/content/pkg/FR-2008-08-05/pdf/E8-18016.pdf）、2026年日落复审续行公告（https://www.federalregister.gov/d/2026-17772）和独立反倾销初裁（https://www.govinfo.gov/content/pkg/FR-2026-11-04/pdf/2026-22528.pdf）。反倾销的12月4日按公告公布后30日计算。未取得CBP逐单执行指令，也未找到正式勘误。媒体原发版日期保留为11月25日。"
+    },
+    {
+      "url": "https://taxation-customs.ec.europa.eu/document/download/6232788c-fb1c-401d-bfe1-5f3ecac38703_en?filename=factsheet+authorisation.pdf",
+      "published_date": "2026-11-24",
+      "category": "碳与环保",
+      "importance": "高",
+      "reviewed_at": "2026-11-28T08:01:23Z",
+      "title_zh": "欧盟CBAM授权传单已核，挪威和冰岛已清关货物再入欧盟可按条件使用Y423",
+      "title_en": "EU CBAM authorisation factsheet verified as Y423 is confirmed for qualifying goods from Norway or Iceland",
+      "summary_zh": "欧委会授权传单确认，合计超过50吨的涉案钢铁、铝、水泥和化肥进口需办理CBAM授权，氢和电力任何数量均需授权。自2027年1月1日起，挪威、冰岛与欧盟按同一进口商、同一年度合计门槛。欧委会实施说明第7节明确，符合条件的第三国原产货物在挪威或冰岛已办自由流通手续且当时已适用CBAM，随后再次进入欧盟自由流通时可按规定免于重复适用。欧盟进口申报使用TARIC代码Y423，并备妥前次清关证明。挪威或冰岛经营者向欧盟申报还须核对EORI中的TCUIN与本国TIN。",
+      "summary_en": "The Commission factsheet confirms authorisation requirements above the aggregate 50-tonne threshold for covered iron and steel, aluminium, cement and fertilisers. Electricity and hydrogen imports require authorisation at any volume. From 1 January 2027 the threshold is aggregated across the EU, Norway and Iceland per importer and calendar year. The Commission’s implementation notice confirms eligible third-country goods previously released for free circulation in Norway or Iceland and already subject to CBAM can avoid a repeat charge on subsequent EU release. The EU declaration uses TARIC code Y423 and requires proof of prior release. Norway- or Iceland-established operators declaring to EU customs must check the TIN in the EORI record’s TCUIN field.",
+      "impact_zh": "中国原产热卷、板材等如计划先在挪威或冰岛进口再销欧盟，先请报关行确认首站已有自由流通申报且当时已适用CBAM，保存申报号和进口凭证，再核对Y423。经当地转运或保税而未办自由流通的货物，按实际目的地清关并核算碳成本。",
+      "impact_en": "For covered Chinese hot-rolled coil or plate routed via Norway or Iceland, confirm prior release into free circulation and prior application of CBAM, retain the entry number and evidence, and have the EU broker check Y423. Transit and bonded movements should be costed and cleared under the rules applicable to actual release.",
+      "evidence_url": "https://taxation-customs.ec.europa.eu/document/download/6232788c-fb1c-401d-bfe1-5f3ecac38703_en?filename=factsheet+authorisation.pdf",
+      "coverage": "本轮已取得此前返回429的11月24日DG TAXUD授权传单全文。代码与前次放行举证要求来自欧委会欧洲经济区实施说明第7节，标识字段来自第4至5节（https://taxation-customs.ec.europa.eu/document/download/8d8c0277-4fcb-4148-a919-7e0ed5a18b68_en?filename=Notice+CBAM+implementation+following+EEA+agreement.pdf）。保留队列发布日期。"
+    },
+    {
+      "url": "https://gov.uk/government/publications/determinations-of-the-uk-ets-carbon-price",
+      "published_date": "2026-11-27",
+      "category": "碳与环保",
+      "importance": "中",
+      "reviewed_at": "2026-11-28T08:01:23Z",
+      "title_zh": "英国核定2027年ETS民事处罚碳价，每吨59.69英镑",
+      "title_en": "UK sets 2027 ETS civil-penalty carbon price at £59.69 per tonne",
+      "summary_zh": "英国ETS主管机构11月27日依据《2020年温室气体排放交易体系令》第46条，将2027履约年度部分民事处罚所用碳价定为每吨二氧化碳当量59.69英镑。2026年度对应值为49.41英镑。2027年罚款基准根据截至2026年11月11日的12个月内，2027年12月交割英国排放配额期货的日结算价平均值计算。进口CBAM适用届时公布的行业季度税率。",
+      "summary_en": "On 27 November the UK ETS Authority determined a carbon price of £59.69 per tonne of CO₂e for specified civil penalties for the 2027 scheme year under Article 46 of the 2020 Order. The comparable 2026 value was £49.41. The 2027 determination averages end-of-day settlement prices for December 2027 UK allowance futures over the year to 11 November 2026. UK CBAM uses quarterly sector rates published separately.",
+      "impact_zh": "英国热卷、冷轧及其他纳入范围钢材的进口报价，按进口季度钢铁行业CBAM税率和适用排放数据计提，合同采用的季度价随HMRC公告更新。",
+      "impact_en": "For UK imports of covered hot-rolled or cold-rolled steel, use the iron and steel CBAM rate applicable in the import quarter and the corresponding emissions data. Update provisional contract pricing against the HMRC release.",
+      "evidence_url": "https://www.gov.uk/government/publications/determinations-of-the-uk-ets-carbon-price/uk-ets-carbon-price-for-use-in-civil-penalties-2027",
+      "coverage": "核对UK ETS主管机构11月27日发布的2027年度核定、2026年度对应读数及HMRC季度税率指引（https://www.gov.uk/guidance/rates-for-the-carbon-border-adjustment-mechanism-cbam）。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uQzZTekhSQmdacVFVLWxlRUR6ZXpiZVlIRXNqT0lZa3BEQjVFRHk1aFBNTE5Tc3BBNjRSMmxsRWVpdU0xSzk0enJXWC1WOTVOczcxZHNZM3B6RkFzbnBnNEluenA?oc=5",
+      "published_date": "2026-11-27",
+      "category": "市场与产能",
+      "importance": "中",
+      "reviewed_at": "2026-11-28T08:01:23Z",
+      "title_zh": "中钢协10月采购成本对标显示炼焦煤涨3.36%，进口粉矿降3.56%",
+      "title_en": "CISA’s October mill benchmark shows coking coal costs up 3.36% and imported fines down 3.56%",
+      "summary_zh": "中国钢铁工业协会10月对标企业采购成本数据显示，炼焦煤、喷吹煤和冶金焦加权平均采购成本环比分别上涨3.36%、4.65%和0.05%，国产铁精矿、进口粉矿分别下降3.12%和3.56%，废钢微涨0.07%。数据为对标企业月度采购成本，煤焦相关价格按干基折算。",
+      "summary_en": "CISA’s October mill benchmark shows weighted average purchasing costs rising 3.36% month on month for coking coal, 4.65% for PCI coal and 0.05% for metallurgical coke. Domestic concentrate and imported iron ore fines fell 3.12% and 3.56% respectively, while scrap rose 0.07%. These are benchmark mill procurement costs, with coal and coke expressed on a dry basis.",
+      "impact_zh": "高炉路线热卷和中厚板的当期成本受煤焦上涨和矿石下跌共同影响。出口报价按实际供货钢厂、炉料配比和采购周期复核原料成本，行业对标值可用于询价比较。",
+      "impact_en": "Coal and ore trends moved in opposite directions for blast-furnace hot-rolled coil and plate. Check the supplying mill’s feed mix and purchasing cycle before moving export quotes. Use the industry benchmark to compare offers.",
+      "evidence_url": "https://finance.sina.com.cn/money/future/indu/2026-11-26/doc-inkaaawz8892215.shtml",
+      "coverage": "核到中国煤炭资源网标题及要闻摘要，统计值以中国钢铁工业协会11月26日《2026年10月钢铁原料采购成本简析》全文转载为依据。保留队列媒体日期。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkx5dU1LMHgxaC04d3Rmcl9xSkVMdXVpNWVjMjdCZ0xMRmpFSXVWQUEzTVEtZjk3QkV4eGRhaElDYlZXc0lkb3JkNm4zdTFKbjg0MVR4c3dFcm9hQWdoNmkwM0otT3M0YnNuR0hkUS1XU0M0WlMzdlBjSGZiNUZfV2ZCRUxqTk1RbzhjUmtWVHA3NGtMVC1QNzZwR184SkdnMjRkMHVTdHNfU3IwRzFNQ0pUb2NXdU0xV1JJLXBIMlI3VGZzSzkyaA?oc=5",
+      "published_date": "2026-11-24",
+      "category": "碳与环保",
+      "importance": "中",
+      "reviewed_at": "2026-11-28T08:01:23Z",
+      "title_zh": "希腊两家CBAM核查机构报告询盘增加，部分业务已排至2027年一季度",
+      "title_en": "Two Greek CBAM verifiers report rising enquiries, with some work being scheduled for Q1 2027",
+      "summary_zh": "Fastmarkets采访的EmiCert和TÜV AUSTRIA Hellas表示，已收到欧盟进口商及境外生产商的核查询盘。EmiCert称来自中国、印度等市场的询盘较多，并正在安排2027年一季度核查。核查资源可能趋紧是受访机构判断，报道没有提供全欧容量统计。欧委会确认2026年度首次申报及交证截止为2027年9月30日，采用实际排放值时须由适当认可的独立核查机构核查。",
+      "summary_en": "Fastmarkets reports that EmiCert and TÜV AUSTRIA Hellas have received enquiries from EU importers and overseas producers. EmiCert reported strong interest from China and India among other markets and said it was scheduling reviews for Q1 2027. The risk of a capacity squeeze is the verifiers’ assessment. The first declaration and certificate surrender for 2026 imports are due on 30 September 2027, and actual emissions require verification by an appropriately accredited independent verifier.",
+      "impact_zh": "对需要提交实测排放的热卷、冷轧和涂镀板，尽早锁定设施、钢材前体和数据年度，与进口商确认核查机构的资质范围、现场安排和报告日期，按默认值另做报价敏感性测算。",
+      "impact_en": "For hot-rolled, cold-rolled and coated coil relying on actual emissions, agree on the installation, precursors and reporting year. Confirm accreditation scope, site-visit arrangements and reporting dates with the importer and verifier, and model the default-value exposure separately.",
+      "evidence_url": "https://www.fastmarkets.com/insights/cbam-verification-demand-builds-raising-capacity-concerns-ahead-of-first-annual-declaration/",
+      "coverage": "核对Fastmarkets访谈全文，机构陈述和业务排期按其自述归因。法律时点及核查要求与欧委会核查页（https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism/cbam-verification_en）及交流资料页核对。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUw0WmtWLWJiTUJaSEZMdEVYYllfUHFubFl1RG1oS01ZT2d4ZGxyYW5IMXhnVm1aZ0I5YTF0alJXM3BrR1kzZUdNeTF4dWw1cEtsMXJQd05HUnRwRHgzUXpDamRqZ0taQ0NUVXFBWDMxWjFGV1lFelpaQW5PcHlLazhSQzY3TUFIbUE?oc=5",
+      "published_date": "2026-11-21",
+      "category": "配额与关税",
+      "importance": "中",
+      "reviewed_at": "2026-11-28T08:01:23Z",
+      "title_zh": "加拿大寻求美方下调部分行业232税，官员发言仍属谈判表态",
+      "title_en": "Canada seeks partial US Section 232 relief as officials discuss an interim deal",
+      "summary_zh": "加拿大环球事务部11月19日确认，加美经济关系咨询委员会听取部长多米尼克·勒布朗的谈判进展通报。雅虎转载报道引述其接受CBC采访时表示，钢铁、铝、汽车及木材领域的部分232关税在临时协议下仍可能保留。美国贸易顾问纳瓦罗的表态与此前第338条对特定加拿大商品的50%税措施相关。核对现有公告，未见本轮谈判产生新的钢材税率或实施日期。",
+      "summary_en": "Global Affairs Canada confirmed on 19 November that Minister Dominic LeBlanc briefed the Canada–US advisory committee on trade discussions. A Yahoo-syndicated report cites his CBC interview as saying some Section 232 duties on steel, aluminium, autos and lumber could remain under an interim deal. US adviser Peter Navarro’s remarks relate to the existing 50% Section 338 measures on designated Canadian goods. The sources reviewed contain no new steel rate or implementation date.",
+      "impact_zh": "加拿大钢材赴美报价及与中国同类钢材的到岸成本比较，继续由美国进口商按商品编码、原产地和适用公告核对现行税项，合同勿预计谈判减税。",
+      "impact_en": "For Canadian steel sold to the US and comparisons with Chinese offers, have the importer check the current duties by code and origin. Keep potential negotiation outcomes out of firm contract pricing.",
+      "evidence_url": "https://www.canada.ca/en/global-affairs/news/2026/11/advisory-committee-on-canada-us-economic-relations-meets-to-discuss-trade-priorities-and-support-for-canadian-businesses.html",
+      "coverage": "核对加拿大政府11月19日通报、雅虎转载全文索引及白宫第338条商品措施说明（https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/）。媒体采访、顾问表态与法律文件分别归因。"
+    }
+  ],
+  "triage": [
+    {
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHo0ZktlYl9xeWU0dnY5UTUtYWU2S2tFVG1tV0UzR2UwMWxyZFZ0RlF3U0tieko1di11NU9QODF5Q0lqVVp0bTVWVFZKMWluY2Iyd0ZnNE5xcVhEOVRKb0hLQ0I4Si1VR0JacDJQdlpwSTloOGh2dEgzZm1lWkdjaEtXMWJUWnR5Zk5MSGgwRW4zbGo4bEHSAZsBQVVfeXFMT29NWVgtWE15WVpQYVcxZmg2NXlQa3N1QkkyeXpWS2J6V0RsSVM0Zk5TRU56ajV3Ti1vZWFRZlhDeHNYd2Q4SjUzWDNfRnN6NjBMeElkTjRMaEtnOUg3N3RUWnd2VFl5eFljQlZMc3NtUHVybUhzbGJwUVRqV0VTbmtnQ1hMZWYyZmpzS09zOXFKVHpQNkt4OTBnaFE?oc=5",
+      "published_date": "2026-11-26",
+      "decision": "duplicate",
+      "attempted_at": "2026-11-28T08:01:23Z",
+      "duplicate_of": "https://gov.uk/government/publications/draft-legislation-exemption-for-eu-eea-and-swiss-origin-goods-from-cbam",
+      "evidence_url": "https://questions-statements.parliament.uk/written-statements/detail/2026-11-23/hcws495",
+      "reason_zh": "GMK Center转述英国11月23日同一原产地豁免草案，拟在获议会批准后追溯至2027年1月1日。已核验主条覆盖。",
+      "coverage": "核对GMK Center全文及议会书面声明HCWS495，确认适用原产地、2027年1月1日追溯拟议和注册门槛口径。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmpmUDdGVTNiMHY5S21nYng2N2hnM2p0LXV2dy1mb2FyQUliVnBqdVZKQWFCWlI1QVVmVzhQSktCbHhmWDJBYmdzN3Y4MDBnWVI5dGltVnkwc0ljdXNfcEl5VEFiR2JVYmtkZEdzV0VmUlFYQko4NlR3U2JwczliWC1RVU93MDgxS1djRFM3ZU5NOUJEaWRQRkoxYWtzUknSAaQBQVVfeXFMT3g5bmJUUVZ4TFFLNUhTX2FLV2FDVkRlQ2NISUpmaG9oajhIVzNuQXRYQnI0ZkJLNEtoNEEyOWlnODhsZ1NRcmVNSWUybHVmbTVPNGZBeUtJUGRSSXA2N2Ezd05LVTZTdG10bkZ0S1kxTTN0RWMtbU95RWY2eUpDUlRpY2tMLWl1akhmbUM4N2VXX1c5ckJXWkRFbjhqWktMWlkyaC0?oc=5",
+      "published_date": "2026-11-24",
+      "decision": "duplicate",
+      "attempted_at": "2026-11-28T08:01:23Z",
+      "duplicate_of": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZU9pTjNGNjhMZktKNGJraGU2dzd6TkhMYXJpTmpiazVHdER6QlVQcnJXYUNLNzJ1a29SYU1fcDh1WC1DLWhJa2hLWkQtVlEwN0hvWDB6MHZvQUFoSUhscTE3NTBacW9fQ1lvbGRWaFI1QVBoWEx6QzIxR1dPaTd1ZHF4bDVldDV5TFFWaHdVYkxXV2dwdUtzSThUT3BZRE5FUXEtODY4MlJlVDlYekZrX3ZBM1V6WnBYSVk5Z2NOY2hmZU1YNXZFVlg4NG10V0px?oc=5",
+      "evidence_url": "https://www.me.gov.ua/News/Detail/14db1cec-7cfb-41b7-a24b-1e1c89da46ba?lang=uk-UA&title=PiatNovikhDomovlenosteiUPromislovosti-PidtrimtsiBiznesuTaPidgotovtsiFakhivtsiv-RezultatiForumuVBerlini",
+      "reason_zh": "GMK Center报道的是11月23日柏林论坛后乌方请德国支持扩大输欧钢材配额及推迟CBAM的同一请求，已核验主条覆盖。",
+      "coverage": "核对GMK Center全文及乌克兰经济与环境部柏林论坛通报，未见本条包含新裁定、税率或日期。"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR3dpcFRSN2tiOTVZOXZXSEJPUWlfSGRySkMzV3ZJemczTFMtczFqSHkwdm4yZzczLVR4RXpSVWxTcm1fRXBCcGNMTHdPUXRNQkZURWRaWjhXTUpDcVRHMW5qTVJJaEE0bjUyR1FLUW1UZFBwVTRnQURWMWRXZHI0WDhBMmZubVR3V184UEtiaVQxdHJqa2FXeXNQZ2VVYS14dkU1bmRfZjdQcV9VaWRITlEwOA?oc=5",
+      "published_date": "2026-11-27",
+      "decision": "blocked",
+      "attempted_at": "2026-11-28T08:01:23Z",
+      "evidence_url": "https://mexicobusiness.news/trade-and-investment",
+      "reason_zh": "Mexico Business News目录可见标题和简述，原文未能打开。西语同期报道引述墨西哥企业协调委员会负责人称，墨方争取降低232税，并称越南、印尼和马来西亚供货竞争增强。已核官方材料仅确认谈判议题，仍待核对原报道的数据口径和是否有新议程。",
+      "coverage": "核读发布者目录、墨西哥媒体所载企业协会现场访谈（https://www.diariodetabasco.mx/negocios/2026/11/27/mexico-pierde-mercado-de-acero-en-eu-frente-a-paises-asiaticos-por-aranceles-cce/）及USTR谈判声明（https://www.ustr.gov/about/policy-offices/press-office/press-releases/2026/july/united-states-and-mexico-convene-mexico-city-third-bilateral-negotiating-round-related-joint-review）。尚未核到新税率或安排生效的文件。",
+      "retry_policy": "scheduled",
+      "retry_after": "2026-12-05T08:01:23Z"
+    },
+    {
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wMWotallSaEZNbmlsT3pOalBmSHg1dlhjWnFUYjBYQlVzcnpnWWRnV0JQb2pld0hrcHE5N1FUU1pINmhiOWthUDBCR1pZVGJNOXVxQzJobk03QVlYaVNDbGs0dkk?oc=5",
+      "published_date": "2026-11-27",
+      "decision": "blocked",
+      "attempted_at": "2026-11-28T08:01:23Z",
+      "evidence_url": "https://www.sxcoal.com/",
+      "reason_zh": "发布者目录可读到周报标题与摘要。原料成本子项已由中钢协数据单独核验。河南许昌资源增量及巴西矿业项目仅从摘要获知，原周报全文及可核对的建设进度未取得。",
+      "coverage": "核对中国煤炭资源网11月27日首页周报栏目及许昌资源新闻转载，保留巴西项目规模和两地投产时间的待核状态。",
+      "retry_policy": "scheduled",
+      "retry_after": "2026-12-05T08:01:23Z"
+    }
+  ]
+}
